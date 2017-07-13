@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<link rel="stylesheet" type="text/css" href="css/style.min.css?{{ .Now.Unix }}">
+</head>
+<body>
+	<header id="sd-header">
+		<a href="{{ .Site.BaseURL}}">
+			<img src="img/gray_logo.png">
+		</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="{{ .Site.BaseURL}}categories/nodejs">NodeJS</a></li>
+	            <li><a href="{{ .Site.BaseURL}}categories/jquery">jQuery</a></li>
+	            <li><a href="{{ .Site.BaseURL}}categories/reactjs">ReactJS</a></li>
+	            <li><a href="{{ .Site.BaseURL}}categories/angularjs">AngularJS</a></li>
+	            <li><a href="{{ .Site.BaseURL}}categories/ajax">Ajax</a></li>
+	            <li><a href="{{ .Site.BaseURL}}categories/meteor">Meteor</a></li>
+			</ul>
+		</nav>
+		<form id="sd-search" name="x" action="//duckduckgo.com/">
+			<input type="hidden" value="tableless.com.br" name="sites"></input>
+			<input type="hidden" value="br-pt" name="kl"></input>
+			<input type="hidden" value="1" name="kz"></input>
+			<input type="hidden" value="e" name="ky"></input>
+			<input type="hidden" value="g" name="k8"></input>
+			<input type="hidden" value="-1" name="k1"></input>
+			<input type="hidden" value="w" name="kj"></input>
+			<input type="text" placeholder="Faça sua busca" name="q"></input>
+			<input type="image" src="images/search.svg">
+		</form>
+	</header>

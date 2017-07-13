@@ -1,0 +1,7 @@
+#sd-nav-menu ul li{
+	display: inline;
+}
+
+#sd-nav-menu ul li a{
+	text-decoration: none
+}

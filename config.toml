@@ -1,0 +1,21 @@
+DefaultContentLanguage = "pt-br"
+title = "Jhonny Roger"
+baseURL = "http://localhost/jhonny-roger/public/"
+theme = "jhonny-roger"
+
+#enableRobotsTXT = "true"
+
+[params]
+    siteName = "Jhonny Roger"
+    description = "Blog pessoal para compartilhar conhecimentos com a comunidade"
+
+[permalinks]
+    posts = "/:filename"
+    pages = "/:filename"
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    author = "author"
+
+
