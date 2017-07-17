@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245862">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>Eu não posso explicar sobre Media Queries sem um pouco do contexto das Media Types, que foram a primeira versão de um esforço para direcionar a formatação CSS para determinados tipos de meios de acesso.</p>
+
+<p>O HTML foi criado para ser portável, ou seja, ele deve ser lido e interpretado por qualquer tipo de dispositivo. Cada dispositivo exibe HTML de uma determinada maneira. Logo, a forma com que você formata o layout precisa ser diferente para cada dispositivo. Por exemplo, se você visita um site por um desktop, a experiência será totalmente diferente caso você visite o mesmo site por um dispositivo móvel. São dispositivos diferentes, com formas totalmente diferentes de navegação e uso.</p>
+
+<p>Mas o exemplo acima é muito comum. Existem outras outros cenários que precisamos prever para controlar a formatação do site, como por exemplo, quando o usuário imprimir sua página. Quando alguém imprimi a página de um artigo no site do UOL, Terra ou qualquer site de conteúdo, vários elementos não precisam ser impressos, começando pelo menu, barra lateral, rodapé e etc. O texto poderia ser melhor formatado para que a leitura em papel fosse mais confortável. Essa diferença entre dispositivos é controlada pelas %%media types%%. Veja uma lista do que pode ser controlado abaixo:</p>
+
+<ul>
+<li><strong>all</strong> este valor é usado para que o código CSS seja aplicado para todos os dispositivos.</li>
+<li><strong>braille</strong> para dispositivos táteis.</li>
+<li><strong>embossed</strong> para dispositivos que imprimem em Braille.</li>
+<li><strong>handheld</strong> para dispositivos de mão, celulares e outros dispositivos deste perfil. Normalmente com telas pequenas e banda limitada.</li>
+<li><strong>print</strong> para impressão em papel.</li>
+<li><strong>projection</strong> para apresentações, como PowerPoint. Este valor foi inventado pelo pessoal da Opera. MUITO útil.</li>
+<li><strong>screen</strong> para dispositivos com telas coloridas e alta resolução.</li>
+<li><strong>speech</strong> para sintetizadores de voz. O CSS 2 tem uma especificação de CSS chamada Aural (<a href="http://www.w3.org/TR/CSS2/aural.html">http://www.w3.org/TR/CSS2/aural.html</a>) que podemos “formatar” a voz de leitores de tela e outros sintetizadores.</li>
+<li><strong>tty</strong> para dispositivos que utilizam uma grade fixa para exibição de caracteres, como teletypes, terminais, dispositivos portáteis com display limitado.</li>
+<li><strong>tv</strong> para dispositivos como televisores, ou seja, com baixa resolução, com boa quantidade de cores e scroll limitado.</li>
+</ul>
+
+<p>A aplicação é muito simples: basta adicionar a linha comum de %%link%% para seu CSS, inserindo um atributo %%media%% e adicionando o valor desejado:</p>
+
+<pre class="lang-html">&lt;link rel="stylesheet" href="estilo.css" type="text/css" media="handheld"&gt;
+</pre>
+
+<p>Note que neste exemplo estou chamando um arquivo CSS, que será destinado para funcionar em dispositivos de media **HANDHELD**: aparelhos móveis, celulares com tela pequena e aparelhos similares (já usou PalmTop?). Logo, esse CSS não será aplicado quando o usuário visitar o site utilizando um desktop. Para tanto, teríamos que utilizar media SCREEN:</p>
+
+<pre class="lang-html">&lt;link rel="stylesheet" href="estilo.css" type="text/css" media="screen"&gt;
+</pre>
+
+<h2 id="o-problema">O problema</h2>
+
+<p>Você já notou que todo dia surgem novos dispositivos, com diversos tamanhos e hardwares parecidos com os desktops. Qualquer celular meia boca hoje tem a configuração mais parruda que muitos computadores por aí. Principalmente a configuração da tela, onde as fabricantes tem dado mais atenção nos últimos anos. Logo, não tem motivo para prepararmos um layout e um CSS com media type HANDHELD para o iPhone, já que ele não se encaixa nessa categoria. Entretanto, o iPhone também não é nem de longe um desktop. Aí existe o problema: a media type screen se encaixaria para direcionarmos o a formatação para o iPhone e companhia, mas a especificação é clara quando diz que a media type screen é para desktops e computadores. Como fazer agora?</p>
+
+<h2 id="a-solução-media-queries">A solução: Media Queries</h2>
+
+<p>As Media Queries definem condições para que o CSS seja utilizado em cenários específicos. Se essas condições forem aprovadas, ou seja, se o dispositivo de adequar a todas as condições estabelecidas na sua Media Querie, o CSS será aplicado.</p>
+
+<pre class="lang-html">&lt;link rel="stylesheet" href="estilo.css" media="screen and (max-width: 480px)"&gt;
+</pre>
+
+<p>Acima especificamos que o arquivo **estilo.css**, será aplicado em dispositivos que se enquadram na condição de **screen** (ou seja, que tem uma tela com alta capacidade de cores) e com uma largura máxima de 480px.</p>
+
+<p>Há uma lista de características que você pode utilizar aqui para selecionar os dispositivos que você quiser:</p>
+
+<ul>
+<li>width</li>
+<li>height</li>
+<li>device-width</li>
+<li>device-height</li>
+<li>orientation</li>
+<li>aspect-ratio</li>
+<li>device-aspect-ratio</li>
+<li>color</li>
+<li>color-index</li>
+<li>monochrome</li>
+<li>resolution</li>
+<li>scan</li>
+<li>grid</li>
+</ul>
+
+<p>Geralmente usamos as Media Queries dentro código CSS, que é bem mais organizado. Você linka seu CSS normalmente no HEAD do seu documento:</p>
+
+<pre class="lang-html">&lt;link rel="stylesheet" href="estilo.css"&gt;
+</pre>
+
+<p>E dentro do código CSS, você vai separar os famosos **breakpoints**, que são as condições da largura das telas do dispositivos, que definem quando cada bloco de CSS será utilizado. Veja o código abaixo:</p>
+
+<pre class="lang-css">/* Código geral, que será herdado por qualquer dispositivos.
+   nesse caso, seria o código usado no desktop, na maioria das   vezes. 
+   Se você já conhecer a ideia do Mobile First, esse primeiro código será destinado para mobiles.
+*/
+a {color: blue;}
+
+/* 
+ Pra dispositivos que tem uma largura mínima de 768 pixels. Tablets, por exemplo.
+*/
+@media screen and (min-width: 768px) {
+  a {color: yellow;}
+}
+
+/* 
+ Com uma largura mínima de 992 pixels. Monitores por exemplo.
+*/
+@media screen and (min-width: 992px) {
+  a {color: green;}
+}
+
+/* 
+ Dispositivos com largura mínima de 1200 pixels. Por exemplo TVs.
+*/
+@media screen and (min-width: 1200px) {
+  a {color: black;}
+}
+</pre>
+
+<p>E assim você vai escrevendo seu CSS e manipulando a formatação do layout de acordo com dispositivo desejado.</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/teste-de-carga-em-apis-utilizando-artillery//?utm_source=tablelessRelatedLin">Teste de carga em APIs utilizando Artillery</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/crie-sites-em-questao-de-minutos-com-o-pingendo//?utm_source=tablelessRelatedLin">Crie sites em questão de minutos com o Pingendo</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245862"></script>

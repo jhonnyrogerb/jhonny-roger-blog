@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Propriedades on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/propriedades/</link>
+    <description>Recent content in Propriedades on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 08 Aug 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/propriedades/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introdução a propriedades e métodos no JS</title>
+      <link>http://localhost/jhonny-roger/public/introducao-a-propriedades-e-metodos/</link>
+      <pubDate>Sat, 08 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-a-propriedades-e-metodos/</guid>
+      <description>Você descobre o tamanho de uma string ou a quantidade de valores em uma Array via JavaScript usando uma coisinha chamada length. O length serve para acessar uma propriedade de algum valor determinado. Existem uma série de propriedades no JS que usamos em expressões para conseguir extrair informações de uma string e outros tipos de valores. Por exemplo a função Math, que tem a propriedade max: Math.max. O max é uma propriedade do objeto Math, que é uma coleção de valores e funções matemáticas.</description>
+    </item>
+    
+  </channel>
+</rss>

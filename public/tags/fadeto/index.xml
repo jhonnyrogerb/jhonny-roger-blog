@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fadeto on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/fadeto/</link>
+    <description>Recent content in Fadeto on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 05 Jan 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/fadeto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Animando com jQuery</title>
+      <link>http://localhost/jhonny-roger/public/animando-com-jquery/</link>
+      <pubDate>Mon, 05 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/animando-com-jquery/</guid>
+      <description>Um dos recursos mais procurados pelos designers (e programadores) em bibliotecas é animação. Existem bibliotecas e mais bibliotecas que fazem animações de diversas formas. Em prototype por exemplo, deve-se anexar a biblioteca scriptaculous para que seja possivel realizar animações. Já em mootools existem várias formas de resolver o mesmo problema, sendo assim um pouco mais complicado de lembrar de tudo isso. Por jQuery ser uma biblioteca simples com somente o funcional, o trabalho se torna mais simples, logo mais rápido de desenvolver as soluções.</description>
+    </item>
+    
+  </channel>
+</rss>

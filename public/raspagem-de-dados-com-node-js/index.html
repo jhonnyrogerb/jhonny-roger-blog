@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245843">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>Raspagem de dados, ou <em>Web scraping</em>, é uma técnica de extração de dados onde é possível recuperar informações de websites.</p>
+
+<p>Existem diversas maneiras de fazer raspagem de dados: pode ser feito manualmente copiando e colando, utilizando uma ferramenta online, usando uma extensão para o navegador Google Chrome (como o <a href="https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn" target="_blank">Webscrapper</a>), etc. Neste artigo será mostrado um passo-a-passo de como fazer raspagem de dados no site Portal da Transparência. O site <a href="http://www.portaldatransparencia.gov.br/" target="_blank">Portal da Transparência</a> é mantido pelo Tribunal de Contas da União, órgão que fiscaliza as contas do governo. Informações de gastos com aquisição e contratação de obras e compras governamentais, diárias pagas, cartões de pagamento do Governo Federal, entre outras são exemplos que podem ser encontrado.</p>
+
+<p>Para fazer a aplicação raspar dados, usaremos as seguintes ferramentas:</p>
+
+<ul>
+<li><a href="http://nodejs.org/" target="_blank">Node.js</a></li>
+<li><a href="http://expressjs.com/" target="_blank">Express</a></li>
+<li><a href="https://github.com/request/request" target="_blank">Request</a> &#8211; Para fazer chamadas HTTP</li>
+<li><a href="https://github.com/cheeriojs/cheerio" target="_blank">Cheerio</a> &#8211; Para acessar o DOM externo e extrair os dados</li>
+</ul>
+
+<h2 id="configuração">Configuração</h2>
+
+<p>Primeiro devemos configurar as dependências necessárias no arquivo package.json:</p>
+
+<pre class="lang-javascript">{
+{
+    "name": "node-scrap-govbr",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/rennan/node-scrap-govbr.git"
+    },
+    "version": "0.0.1",
+    "description": "Exemplo simples de raspagem de dados em um site do Governo Federal Brasileiro com Node.js.",
+    "main": "server.js",
+    "author": "Rennan Martini ",
+    "license": "MIT",
+    "dependencies": {
+        "express": "latest",
+        "request": "latest",
+        "cheerio": "latest"
+    }
+}
+</pre>
+
+<p>Com o arquivo <strong>package.json</strong> pronto, é só instalar as dependências com o comando <code>npm install</code>.</p>
+
+<p>Agora que as dependências foram instaladas, iremos definir o que deve ser criado. Neste exemplo, iremos fazer uma requisição na página de <a href="http://www.portaldatransparencia.gov.br/PortalComprasDiretasOEOrgaoSuperior.asp?Ano=2015&Valor=86726995548647&Pagina=1" target="_blank">Gastos Diretos por Órgão Executor</a>. Nesta página teremos acesso aos gastos que o governo teve em 2015, separado por Ministério. Uma vez que tivermos acesso a estas informações, podemos escolher o que salvar em um arquivo JSON no computador.</p>
+
+<h2 id="a-aplicação">A aplicação</h2>
+
+<p>O resumo da raspagem de dados funcionará da seguinte forma:</p>
+
+<ol>
+<li>Nossa app vai fazer uma requisição a URL que iremos raspar</li>
+<li>A requisição irá capturar o HTML da página e fornecer ele para o nosso server</li>
+<li>Pelo server, iremos acessar o DOM e extrair as informações específicas (no caso a tabela de gastos)</li>
+<li>Em seguida, nossa app vai criar um arquivo .json com os dados extraídos e salvar na pasta do projeto.</li>
+</ol>
+
+<p>Toda a a estrutura lógica ficará em um arquivo <strong>server.js</strong>.</p>
+
+<pre class="lang-javascript">var express = require('express'),
+    fs = require('fs'),
+    request = require('request'),
+    cheerio = require('cheerio'),
+    app = express();
+
+// Passo 1
+app.get('/raspagem', function(req, res) {
+    ...
+})
+
+app.listen('8081')
+console.log('Executando raspagem de dados na porta 8081...');
+exports = module.exports = app;
+</pre>
+
+<h2 id="fazendo-a-requisição">Fazendo a requisição</h2>
+
+<p>A requisição externa deve ser realizada dentro do escopo do método <code>app.get()</code> através da função <code>&lt;b&gt;request()&lt;/b&gt;</code>. O método <code>request</code> deve receber dois parâmetros: a <code>url</code> e o <code>callback</code>. No parâmetro <code>url</code> colocamos a página do Portal da Transparência e no <code>callback</code> iremos declarar três novos parâmetros: <code>error</code>, <code>response</code> e o <code>html</code>.</p>
+
+<pre class="lang-javascript">app.get('/raspagem', function(req, res) {
+    // Passo 2
+    url = 'http://www.portaldatransparencia.gov.br/PortalComprasDiretasOEOrgaoSuperior.asp?Ano=2015&Valor=86726995548647&Pagina=1';
+    request(url, function(error, response, html) {
+        ...
+    })
+})
+</pre>
+
+<h2 id="acessando-o-dom-da-url-externa">Acessando o DOM da URL externa</h2>
+
+<p><img src="http://tableless.com.br/uploads/2015/07/DOM.gif" alt="DOM" width="1104" height="1040" class="alignleft size-full wp-image-50467" /></p>
+
+<p>Inspecionamos o código-fonte para ver o seletor da tabela que iremos fazer a raspagem. O cheerio é uma biblioteca que nos dá permissão de manipular facilmente o DOM dos elementos da url. Se você já utilizou jQuery, está familiarizado com a estrutura dos seletores. Depois de encontrar o seletor, iremos manipular os elementos filhos da <code>div#listagem</code>, no caso a tabela.</p>
+
+<pre class="lang-javascript">...
+// Assegurar que não tenha erros para fazer a raspagem de dados com sucesso
+if (!error) {
+    var $ = cheerio.load(html);
+
+    // Objeto que irá armazenar a tabela
+    var resultado = [];
+
+    // Passo 3
+    // Manipulando o seletor específico para montar nossa estrutura
+    // Escolhi não selecionar a primeira linha porque faz parte do header da tabela
+    $('#listagem tr:not(:first-child)').each(function(i) {
+        // Obtendo as propriedades da tabela. 
+        // O método .trim() garante que irá remover espaço em branco
+        var codigo = $(this).find('td').eq(0).text().trim(),
+            orgao = $(this).find('td').eq(1).text().trim(),
+            valorTotal = $(this).find('td').eq(2).text().trim();
+        
+        // Inserindo os dados obtidos no nosso objeto
+        resultado.push({
+            codigo: codigo,
+            orgao: orgao,
+            total: valorTotal
+        });
+    });
+}
+</pre>
+
+<h2 id="formatando-e-extraindo">Formatando e Extraindo</h2>
+
+<p>Nós armazenamos os dados extraídos em uma variável chamada <code>resultado</code>. Agora é necessário colocar as mãos na API do NodeJS chamada <strong>Fyle System</strong>. Esta biblioteca nos dá acesso pra várias coisas legais, dentre elas a possibilidade de <a href="escrever arquivos" target="_blank">escrever arquivos</a>. No método <code>writeFile()</code> passaremos dois parâmetros: o <strong>arquivo .json</strong> que será gerado e o <strong>objeto</strong> que será exportado neste arquivo.</p>
+
+<pre class="lang-javascript">// Passo 4
+fs.writeFile('resultado.json', JSON.stringify(resultado, null, 4), function(err) {
+    console.log('JSON escrito com sucesso! O arquivo está na raiz do projeto.')
+})
+</pre>
+
+<p>Assim, quando executarmos o comando <code>node server.js</code> no terminal a nossa aplicação irá fazer a raspagem na URL e gerar o arquivo <strong>resultado.json</strong>.</p>
+
+<p><img src="http://tableless.com.br/uploads/2015/07/resultado.json_.png" alt="resultado.json" width="1110" height="974" class="alignleft size-full wp-image-50472" /></p>
+
+<h2 id="validando">Validando</h2>
+
+<p>É sempre importante validar o que você está fazendo. Podemos verificar se o nosso arquivo .json é válido com a ferramenta <a href="http://jsonlint.com/" target="_blank">JSONLint</a>:</p>
+
+<p><img src="http://tableless.com.br/uploads/2015/07/valid_json.png" alt="valid_json" width="961" height="631" class="alignleft size-full wp-image-50473" /></p>
+
+<h2 id="considerações-finais">Considerações finais</h2>
+
+<p>Vimos neste exemplo que o processo de raspagem de dados pode ser bem simples, porém é uma técnica poderosa que aliada a outros serviços é possível construir ótimas aplicações. O código completo utilizado como exemplo neste post está versionado no <a href="https://github.com/rennan/node-scrap-govbr/" target="_blank">GitHub do autor</a>.</p>
+
+<h3 id="porquê-escolhi-um-site-do-governo">Porquê escolhi um site do governo</h3>
+
+<p>Decidi escolher um site do governo porquê trata-se de um Portal com todas informações disponíveis ao cidadão, que por uma série de fatores acaba passando despercebido. É importante evidenciar que o Governo incentiva o manuseio de suas informações com <a href="http://dados.gov.br/dados-abertos/" target="_blank">dados abertos</a>. Para se ter uma noção sobre esta iniciativa, existem <a href="http://br.okfn.org/projetos/" target="_blank">diversos projetos</a> que trabalham com os dados governamentais, através de raspagem e bots automatizadores de tarefas. O <a href="http://databr.io/">DataBR</a>, por exemplo, é um conjunto de API&#8217;s que possibilita desenvolvedores, jornalistas, analistas e demais interessados, trabalhar com dados governamentais brasileiros.</p>
+
+<p style="text-align: center">
+  ***
+</p>
+
+<p>Espero que tenha aproveitado a leitura.</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/indo-alem-no-react-native//?utm_source=tablelessRelatedLin">Indo além no Mundo React-Native</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/seu-primeiro-bot-para-o-telegram//?utm_source=tablelessRelatedLin">Seu primeiro bot para o Telegram</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245843"></script>

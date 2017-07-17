@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Make on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/make/</link>
+    <description>Recent content in Make on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 11 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/make/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>O básico sobre o automatizador de tarefas Make</title>
+      <link>http://localhost/jhonny-roger/public/jaime-o-garoto-quer-make/</link>
+      <pubDate>Mon, 11 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/jaime-o-garoto-quer-make/</guid>
+      <description>O trabalho no client-side é cercado por tarefas pequenas e frequentes. Por causa dessas tarefas frequentes, surgiram ferramentas fantásticas como Grunt, Gulp e vários outros.
+Mas se voltarmos um pouco no tempo, vamos encontrar um cara chamado MAKE. Quem já instalou algum programa em alguma distribuição unix-like sabe bem do quem estou falando.
+Esse era o processo básico pra instalar o programa.
+$ ./configure $ make $ make install  Mas junto com isso, você precisava resolver uma série de problemas de dependências, caminhos de arquivos, permissões, versão e em último caso, ligava ou chamava quele amigo que manjava muito de Linux e implorava por ajuda.</description>
+    </item>
+    
+  </channel>
+</rss>

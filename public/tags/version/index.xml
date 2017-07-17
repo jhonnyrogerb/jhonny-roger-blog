@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Version on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/version/</link>
+    <description>Recent content in Version on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 19 Jun 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/version/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>JPA Hibernate – Como funciona a anotação @version?</title>
+      <link>http://localhost/jhonny-roger/public/hibernate-como-funciona-anotacao-version/</link>
+      <pubDate>Sun, 19 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/hibernate-como-funciona-anotacao-version/</guid>
+      <description>Recentemente um colega de trabalho me perguntou qual era função da anotação @version presente nas entidades aqui do projeto. Achei interessante essa pergunta e resolvi fazer da resposta o meu primeiro post no blog.
+Para responder essa de pergunta temos que lembrar que todo banco de dados possui um controle de concorrência entre transações (se necessário solicitem nos comentários que faço um post explicando a fundo sobre isso). Para esse post só precisamos conhecer o método de controle Optimistic concurrency control (controle de concorrência otimista).</description>
+    </item>
+    
+  </channel>
+</rss>

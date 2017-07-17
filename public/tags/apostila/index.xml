@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apostila on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/apostila/</link>
+    <description>Recent content in Apostila on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 24 Mar 2006 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/apostila/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Video Tutorial #9 – Implementando a home de um site</title>
+      <link>http://localhost/jhonny-roger/public/video-tutorial-9-criando-a-home-da-visie-css/</link>
+      <pubDate>Fri, 24 Mar 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/video-tutorial-9-criando-a-home-da-visie-css/</guid>
+      <description>Update: Você pode assistir mais video aulas como essa no Campus Online. Vídeos grátis de Tableless e Javascript.
+Esse Video Tutorial mostra o processo de aplicação de CSS em cima da estrutura HTML criada no Video Tutorial #8.
+UPDATE: Se alguém quiser baixar o vídeo, só clicar nesse link. O arquivo está em formato Rar (rarlab.com).
+O vídeo tem uma hora de duração, portanto esteja preparado. Meus comentários não foram muito incisivos porque eu não fiz o audio durante gravação.</description>
+    </item>
+    
+    <item>
+      <title>Arrumando a casa</title>
+      <link>http://localhost/jhonny-roger/public/arrumando-a-casa/</link>
+      <pubDate>Thu, 15 Dec 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/arrumando-a-casa/</guid>
+      <description>Estamos muito felizes com a mudança, ainda mais depois de tantos comentários de vocês. Obrigado pelo feedback, é muito gratificante escrever assim.
+Como numa mudança real, algumas coisas ficam dentro das caixas até que alguém dê pela falta delas. Obrigado também por sua paciência. Aos poucos estamos colocando todo o conteúdo de volta.
+Agora foi a vez do Tutorial Tableless Básico, um dos primeiros estudos que escrevi aqui para o Tableless.</description>
+    </item>
+    
+  </channel>
+</rss>

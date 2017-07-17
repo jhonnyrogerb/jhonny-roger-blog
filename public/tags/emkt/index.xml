@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emkt on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/emkt/</link>
+    <description>Recent content in Emkt on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 26 Dec 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/emkt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>E-mail marketing: descubra os 4 piores erros</title>
+      <link>http://localhost/jhonny-roger/public/e-mail-marketing-descubra-os-4-piores-erros/</link>
+      <pubDate>Mon, 26 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/e-mail-marketing-descubra-os-4-piores-erros/</guid>
+      <description>A estratégia de comunicação online utilizada pelas empresas pode ser crucial para o futuro do próprio negócio. Compradores do mundo digital buscam preço, qualidade e confiabilidade ao adquirir seus produtos ou serviços. Mas não é só isso: eles querem, como qualquer consumidor, atenção e respeito. Por isso que, para comunicar com este público, o e-mail marketing é uma solução indispensável, embora seja preciso adotar muitos cuidados.
+No fim de ano, quando o mercado está aquecido e as vendas em alta, o uso da ferramenta errada pode significar não apenas perdas financeiras como também manchas na imagem da marca.</description>
+    </item>
+    
+    <item>
+      <title>Campanhas de E-mail Marketing</title>
+      <link>http://localhost/jhonny-roger/public/campanhas-de-e-mail-marketing/</link>
+      <pubDate>Fri, 13 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/campanhas-de-e-mail-marketing/</guid>
+      <description>As Campanhas de E-mail Marketing estão em alta e, cada vez mais, presentes e importantes no mundo dos negócios, dos websites, dos hotsites, dos e-commerce, dos sites de compras coletivas e etc. Falar de E-mail Marketing parece fácil, mas costumo dizer que não é algo tão simples assim. E-mail Marketing é a utilização do e-mail como ferramenta de marketing direto, respeitando normas e procedimentos pré-definidos, a fim de analisar o retorno gerado por meio de relatórios e de análises gráficas, o que gera campanhas cada vez mais otimizadas.</description>
+    </item>
+    
+  </channel>
+</rss>

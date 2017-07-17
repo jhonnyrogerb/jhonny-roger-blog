@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bibliotecas Javascript on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/bibliotecas-javascript/</link>
+    <description>Recent content in Bibliotecas Javascript on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 07 May 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/bibliotecas-javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ReactJS 101</title>
+      <link>http://localhost/jhonny-roger/public/reactjs-101/</link>
+      <pubDate>Sat, 07 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/reactjs-101/</guid>
+      <description>TL;DR ReactJS é a biblioteca criada pelo Facebook para criação de interfaces. Pensando no mundo MV* qual vivenciamos hoje, este seria o V (view).
+Através de uma api simples qual previlegia o uso do javascript e com uma performance acima da apresentada pelos seus concorrentes, o ReactJS vem ganhando cada dia mais adeptos.
+Building Blocks Fortemente inspirado pelo conceito de componentes, trazendo duas grandes características que o desenvolvedor deve se concentrar: Components eElements.</description>
+    </item>
+    
+    <item>
+      <title>Construindo sua própria biblioteca javascript</title>
+      <link>http://localhost/jhonny-roger/public/construindo-sua-propria-biblioteca-javascript/</link>
+      <pubDate>Mon, 07 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/construindo-sua-propria-biblioteca-javascript/</guid>
+      <description>Pois bem, meu amigo ninja, está na hora de melhorar um pouco mais seus conhecimentos e quem sabe embarcar em uma nova ideia: a criação da sua própria biblioteca javascript!
+Introdução Antes de você pensar: “Ah, mas eu já sei como é. Basta estender o objeto HTMLElement por meio da prototype…”. Digo-lhes que felizmente não é assim. Imagine o peso que seria colocar um novo método em todos os elementos HTML.</description>
+    </item>
+    
+  </channel>
+</rss>

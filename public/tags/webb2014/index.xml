@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Webb2014 on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/webb2014/</link>
+    <description>Recent content in Webb2014 on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 25 Sep 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/webb2014/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Web.br 2014 – Internet das Coisas</title>
+      <link>http://localhost/jhonny-roger/public/webbr-2014-internet-das-coisas/</link>
+      <pubDate>Thu, 25 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/webbr-2014-internet-das-coisas/</guid>
+      <description>Minhas anotações do debate que houve no Web.br 2014 sobre Internet das Coisas.
+Internet das Coisas é algo que está ficando muito popular agora com os reloginhos, trackers e etc. Não fique preso apenas ao Google Glass. Não fique preso apenas a pequenos problemas&amp;#8230;
+ IoT é a sigla para Internet Of Things… To falando por que vai que você não sabe, né? 😉 #webb2014 A internet surgiu no final da década de 70, como um projeto do departamento de defesa dos USA.</description>
+    </item>
+    
+  </channel>
+</rss>

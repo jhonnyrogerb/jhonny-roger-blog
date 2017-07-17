@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Ramos on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/daniel-ramos/</link>
+    <description>Recent content in Daniel Ramos on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 22 Jan 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/daniel-ramos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Entendendo o Outline do HTML</title>
+      <link>http://localhost/jhonny-roger/public/entendendo-o-outline-html/</link>
+      <pubDate>Thu, 22 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/entendendo-o-outline-html/</guid>
+      <description>O Outline do documento HTML é a estrutura do documento que é gerada pelos títulos, títulos de formulários, títulos das tabelas e qualquer outro elemento que marque alguma seção de conteúdo no documento. Essas marcações de Outline podem ser usadas para várias iniciativas, por exemplo, um browser ou alguma outra interface possa criar uma Tabela de Conteúdo. Outras tecnologias assistivas podem usar também estas seções para formar a navegação, como em um leitor de tela, mas ou menos como acontece no WAI-ARIA, mas de maneira mais natural.</description>
+    </item>
+    
+  </channel>
+</rss>

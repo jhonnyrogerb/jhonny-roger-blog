@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Navegadores on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/navegadores/</link>
+    <description>Recent content in Navegadores on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 24 Nov 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/navegadores/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Detectando navegadores com Bowser</title>
+      <link>http://localhost/jhonny-roger/public/detectando-navegadores-com-bowser/</link>
+      <pubDate>Tue, 24 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/detectando-navegadores-com-bowser/</guid>
+      <description>Uma ajuda para detectar e dar suporte a diferentes navegadores O Bowser Em muitos projetos, precisamos dar uma atenção especial para alguns navegadores (nosso querido IE, por exemplo). A proposta do Bowser é facilitar a detecção de navegadores e suas versões, minimizando os erros de detecção, e facilitando sua vida.
+Mãos à obra Para começar, você precisa fazer o download do arquivo JavaScript do Bowser no GitHub oficial do projeto, e inclui-lo no seu HTML.</description>
+    </item>
+    
+    <item>
+      <title>Criando seu próprio servidor HTTP do zero (ou quase) – Parte III</title>
+      <link>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-iii/</link>
+      <pubDate>Mon, 05 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-iii/</guid>
+      <description>Estamos entrando na terceira parte do tutorial, e quem está acompanhando até aqui já sabe então como funciona a comunicação entre cliente e servidor, envio de requisição pelo cliente e recebimento de resposta (na duvida só voltar e releia a Parte I e/ou Parte II), porém o que a gente quer é criar o servidor, receber as requisições e enviar a resposta ao cliente.
+O Servidor A idéia do servidor é bem simples e estende a do cliente, como assim?</description>
+    </item>
+    
+    <item>
+      <title>Criando seu próprio servidor HTTP do zero (ou quase) – Parte II</title>
+      <link>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-ii/</link>
+      <pubDate>Fri, 11 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-ii/</guid>
+      <description>Se chegou até aqui é por que você terminou de ler a primeira parte do tutorial (Caso não, leia a Parte I ), mas não desista, a parte legal vai chegar, mas antes de começar, falta mais um item de teoria &amp;#8211; sim eu sei que é chato, mas juro que é importante &amp;#8211; os Sockets.
+Sockets e portas Falamos muito de requisições e respostas no último post mas ainda não falamos de conexão e troca de informações.</description>
+    </item>
+    
+    <item>
+      <title>HTTP2 para Desenvolvedores de Web</title>
+      <link>http://localhost/jhonny-roger/public/http2-para-desenvolvedores-de-web/</link>
+      <pubDate>Tue, 21 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/http2-para-desenvolvedores-de-web/</guid>
+      <description>HTTP2 significa uma mudança na forma como construímos websites. As boas práticas de HTTP1 são prejudiciais no mundo do HTTP2.
+ HTTP1 é lento e ineficiente para a maioria dos casos de uso de hoje na web.
+ HTTP1.x é a versão do HTTP que nós já conhecemos quando entramos o endereço de um site. É um protocolo antigo que foi concebido antes mesmo de sabermos o que essa imensa rede mundial de computadores se tornaria.</description>
+    </item>
+    
+    <item>
+      <title>Utilizando APPs em vez de browsers</title>
+      <link>http://localhost/jhonny-roger/public/utilizando-apps-em-vez-de-browsers/</link>
+      <pubDate>Fri, 06 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/utilizando-apps-em-vez-de-browsers/</guid>
+      <description>De acordo com a comScore as pessoas estão usando mais mobile Apps para consumir conteúdo do que browsers.
+O tráfego medido pela comScore mostra o market share dos principais players do mercado de mobile em Novembro. O Android continua ganhando, logo atrás vem o iPhone que foi impulsionado pelas vendas do 4S. Todas as outras plataformas perderam campo. Outra coisa, o report da comScore não conta com iPads nem iPods.</description>
+    </item>
+    
+    <item>
+      <title>Command &amp; Conquer: Tiberium Alliances</title>
+      <link>http://localhost/jhonny-roger/public/commander-conquer-tiberium-alliances/</link>
+      <pubDate>Mon, 19 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/commander-conquer-tiberium-alliances/</guid>
+      <description>Se você é fã de jogos de estratégia já deve conhecer o Command &amp;amp; Conquer. Para ser sincero eu não gostava muito dessa série e por isso joguei muito pouco. Achava tudo muito complicado. 😉
+Mas a notícia interessante é que a EA/Phenomic (os mesmos que desenvolvedoram de Lord of Ultima, BattleForge e Spellforce) vai lançar uma edição do jogo chamada Command &amp;amp; Conquer: Tiberium Alliances e vai ser baseado em HTML5.</description>
+    </item>
+    
+    <item>
+      <title>Tenha o DOM</title>
+      <link>http://localhost/jhonny-roger/public/tenha-o-dom/</link>
+      <pubDate>Mon, 25 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tenha-o-dom/</guid>
+      <description>Muito ja foi falado sobre DOM e posso estar sendo repetitivo aqui, mas é importante falar deste assunto que em dias de manipulação pesada de seletores, percebo que pouca atenção é dada. Temos muita literatura boa sobre o assunto mas muitas vezes o foco acaba sendo o novo plugin que saiu e faz mais-do-mesmo-no-front-end-só-que-mais-fácil (E se você tiver sorte ele é free).
+Entender realmente como um navegador funciona é importante, e garante seu entendimento do real dos problemas que está enfrentando no código que está implementando.</description>
+    </item>
+    
+    <item>
+      <title>Entendendo os Reflows</title>
+      <link>http://localhost/jhonny-roger/public/entendendo-os-reflows-2/</link>
+      <pubDate>Mon, 18 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/entendendo-os-reflows-2/</guid>
+      <description>Reflow é um assunto extenso e necessário. Ele sempre vai existir nos navegadores, então temos que entendê-lo para saber como utilizá-lo de maneira racional. O mais legal é entender todo o contexto sobre o que são e como funcionam, para a partir daí repensar o código que renderizamos no navegador para obtermos maior performance.
+Reflow é o resultado de um evento que desencadeia mudanças no jeito que a pagina deve ser renderizada, tomando tempo para cálculo e reposicionamento de elementos.</description>
+    </item>
+    
+    <item>
+      <title>Novo parser HTML5 – FF4</title>
+      <link>http://localhost/jhonny-roger/public/parser-html5-firefox4/</link>
+      <pubDate>Mon, 28 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/parser-html5-firefox4/</guid>
+      <description>O Firefox é o meu browser favorito embora não seja meu browser padrão atualmente. Durante muito tempo ele me segurava com suas extensions exclusivas. Os outros browsers demoraram para ter uma coleção aceitável de extensions que realmente competissem com as do Firefox.
+Foi lançado na semana passada o Firefox 4.0 que trouxe uma série de mudanças interessantes. Uma das atualizações mais importantes foi o &amp;#8220;redesign&amp;#8221; do parser de HTML5.</description>
+    </item>
+    
+    <item>
+      <title>6 dicas para evitar problemas de incompatibilidade entre browsers.</title>
+      <link>http://localhost/jhonny-roger/public/evite-incompatibilidade-browsers/</link>
+      <pubDate>Tue, 28 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/evite-incompatibilidade-browsers/</guid>
+      <description>Nas últimas semanas muito falou-se das novas versões de browsers que serão colocadas à disposição dos usuários nos próximos meses. Alguns esperam para ver se a gigante Microsoft recuperará o mercado e outros acompanham as novidades de Mozilla e Google com suas versões beta do Firefox 4 e do Chrome 6. É inevitável perceber a preocupação de todos em adaptar-se às necessidades dos usuários, padrões de desenvolvimento web e compatibilidade com o novo protagonista da web &amp;#8211; o HTML5 &amp;#8211; porém em meio à esses lançamentos, fica a pergunta: enquanto isso, como agir com os atuais browsers?</description>
+    </item>
+    
+    <item>
+      <title>Processos e Adoção de Padrões</title>
+      <link>http://localhost/jhonny-roger/public/processos-adocao-padroes/</link>
+      <pubDate>Wed, 03 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/processos-adocao-padroes/</guid>
+      <description>HTML 5 ou CSS 3 já podem ser usados? Quando o HTML 5 será lançado?
+Estou ouvindo demais essas perguntas. A resposta que darei, vai servir para as duas perguntas e para perguntas futuras sobre outras recomendações do W3C.
+Para termos uma visão melhor, você precisa entender como o W3C funciona.
+Padrões e Recomendações O W3C é um órgão que regulamenta, cria e desenvolve linguagens para publicação de conteúdo na internet.</description>
+    </item>
+    
+    <item>
+      <title>Porque é a web que comanda</title>
+      <link>http://localhost/jhonny-roger/public/porque-e-a-web-que-comanda/</link>
+      <pubDate>Wed, 27 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/porque-e-a-web-que-comanda/</guid>
+      <description>A AppStore fez sucesso. Bastante. Por vários motivos: um deles foi por conta da remuneração do desenvolvedor. Teve gente que ganhou milhares de dólares sozinho vendendo aplicações por 99 centavos. Obviamente isso chamou a atenção de muita gente, que começou a fazer aplicações enlouquecidamente para ganhar alguns trocados. Consequentemente um grande números de aplicações que não precisam ser instaláveis no aparelho, apareceram. Vários desenvolvedores não perceberam que dependendo do seu sistema, ele não precisa ser desenvolvido exclusivamente para ser instalado na plataforma do iPhone.</description>
+    </item>
+    
+    <item>
+      <title>Simuladores de Browsers Mobiles</title>
+      <link>http://localhost/jhonny-roger/public/simuladores-de-browsers-mobiles/</link>
+      <pubDate>Wed, 20 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/simuladores-de-browsers-mobiles/</guid>
+      <description>Antigamente não existiam simuladores dos pequenos celulares. Na verdade, não precisava. Você provavelmente usava WAP. Quando começamos a utilizar CSS e XHTML para fazer sites mais decentes para os mobiles, tudo ficou mais complicado, você precisava ter um aparelho para fazer testes. Em muitos casos era simples resolver utilizando o Opera no desktop mesmo, mas em forma de visualização mobile/handheld. Contudo, você estava desenvolvendo para apenas aparelhos com Opera. Não havia, por exemplo, um simulador de IE Mobile.</description>
+    </item>
+    
+    <item>
+      <title>Aonde nos leva a morte do Internet Explorer 6?</title>
+      <link>http://localhost/jhonny-roger/public/aonde-nos-leva-a-morte-do-internet-explorer-6/</link>
+      <pubDate>Fri, 17 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/aonde-nos-leva-a-morte-do-internet-explorer-6/</guid>
+      <description>Semana passada foi o Digg, essa semana o YouTube. E a comunidade de desenvolvedores os segue fazendo barulho, anunciando que vai fazer o mesmo. Nós estamos fazendo nossa parte na Visie, eliminando a preocupação com o IE6 de nossos sites e convencendo nossos clientes a fazê-lo também. Já vai tarde.
+Mas não é tempo de comemorar, ainda há muito trabalho a fazer. Há oito anos o Zeldman publicou seu célebre artigo To Hell With Bad Browsers, em que nos explicava porque devíamos abandonar o suporte aos navegadores 4.</description>
+    </item>
+    
+    <item>
+      <title>Flock 1.0 – agora dá para usar</title>
+      <link>http://localhost/jhonny-roger/public/flock-10-agora-da-para-usar/</link>
+      <pubDate>Sun, 02 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/flock-10-agora-da-para-usar/</guid>
+      <description>O Firefox é o browser do meu coracão. Não vivo mais sem suas extensões. Se você é desenvolvedor e usa Firefox, sabe do que estou falando.
+Só que eu não sou apenas desenvolvedor. Nas horas vagas, sou gente normal. Gosto de passar uma parte do meu tempo navegando pelos meus sites prediletos. Por isso, eu gastava algumas horas procurando por extensões que me deixassem mais ligado em sites como Flickr, Twitter e Del.</description>
+    </item>
+    
+    <item>
+      <title>Podcast #18 – Opera 9, Wasabi, Songbird e Semântica</title>
+      <link>http://localhost/jhonny-roger/public/podcast-18-opera-9-wasabi-songbird-e-semantica/</link>
+      <pubDate>Mon, 13 Feb 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/podcast-18-opera-9-wasabi-songbird-e-semantica/</guid>
+      <description>Nesse podcast falamos um pouco sobre o lançamento Opera 9 Preview&amp;#8230; vocês perceberam que ele veio uma semana depois de sair o Beta 2 do IE7? 🙂
+Falamos sobre o Wasabi! Tá sabendo?
+Falamos sobre o Songbird: Um player de Mp3 Open Source baseado no motor do Firefox. Parece ser interessante, embora eu não tenha gostado muito do programa. Achei meio dificil.
+Tamanho: ~27,2Mb
+Tempo: ~29m43
+Aconselhamos você a inscrever nosso Feed no seu agregador preferido, para facilitar seu acesso às novidades, ou simplesmente baixe o mp3 direto.</description>
+    </item>
+    
+    <item>
+      <title>Podcast #17 – IE7 Beta 2 e Mercado de trabalho</title>
+      <link>http://localhost/jhonny-roger/public/podcast-17-ie7-beta-2-e-mercado-de-trabalho/</link>
+      <pubDate>Tue, 07 Feb 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/podcast-17-ie7-beta-2-e-mercado-de-trabalho/</guid>
+      <description>Podcast um pouco mais animado. Muita gente deu uma reclamada básica, resolvi mudar algumas coisas no podcast. Vamos mudando aos poucos, afinando aqui e ali até que chegue no ponto. Não só o podcast em si, mas também a minha forma de narrar&amp;#8230; Vou tentar relaxar mais daqui para frente para deixar de ser muito formal. Juro que vou tentar&amp;#8230; :-@
+Nesse podcast foram apenas dois assuntos ( vou tentar aumentar o numero de assuntos e novidades com o tempo), o primeiro fo IE7 e o segundo sobre o mercado de trabalho.</description>
+    </item>
+    
+    <item>
+      <title>IE para MAC deixado de lado (ainda bem)</title>
+      <link>http://localhost/jhonny-roger/public/ie-para-mac-deixado-de-lado-ainda-bem/</link>
+      <pubDate>Mon, 19 Dec 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ie-para-mac-deixado-de-lado-ainda-bem/</guid>
+      <description>Quem já teve que resolver alguns problemas de compatibilidade de layout para IE/Mac, sabe que não é fácil.
+Mas agora, todos os problemas acabaram! O Microsoft anunciou que vai parar de dar suporte ao IE/Mac no dia 31 de Dezembro de 2005. E, em 31 de Janeiro de 2006, ele já não estará disponível para download.
+Ótima notícia para todas as partes. Menos um browser que não segue os padrões para os desenvolvedores se preocuparem.</description>
+    </item>
+    
+    <item>
+      <title>SVG e o Firefox 1.5</title>
+      <link>http://localhost/jhonny-roger/public/svg-e-o-firefox-15/</link>
+      <pubDate>Thu, 15 Dec 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/svg-e-o-firefox-15/</guid>
+      <description>Finalmente podemos falar em SVG na Web. Ou quase&amp;#8230; Falta o Internet Explorer. Veja uma breve introdução ao assunto, com alguns exemplos do que é possível.
+Atenção! Você precisa do Firefox 1.5 para ver esses exemplos. O Opera para Windows trava se você tentar acessar. O Opera 8.5 para Linux se comporta bastante bem.</description>
+    </item>
+    
+    <item>
+      <title>Tamanho do texto em diferentes browsers</title>
+      <link>http://localhost/jhonny-roger/public/tamanho_do_texto/</link>
+      <pubDate>Fri, 22 Aug 2003 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tamanho_do_texto/</guid>
+      <description>Neste site mostra a diferença do tamanho dos textos em vários browsers.
+E este vem de bonus.
+Vale a pena dar uma olhada.</description>
+    </item>
+    
+    <item>
+      <title>Browsers</title>
+      <link>http://localhost/jhonny-roger/public/browsers/</link>
+      <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/browsers/</guid>
+      <description>Ferramenta importante para o bom desenvolvimento de um site WebStandards. É bom o pessoal que está começando conheça estes browsers, e se possível tenha eles instalados para poder testar os sites, e até escolher um preferido.
+Lynx (Browser de texto) &amp;#8211; http://lynx.browser.org/
+Netscape &amp;#8211; http://channels.netscape.com/ns/browsers/
+Mozilla &amp;#8211; http://www.mozilla.org/
+Firebird &amp;#8211; http://www.mozilla.org/projects/firebird/
+Opera &amp;#8211; http://www.opera.com/
+Konkeror (Linux) &amp;#8211; http://www.konqueror.org/
+Safari (Mac) &amp;#8211; http://www.apple.com/safari/
+Internet Explorer &amp;#8211; http://www.microsoft.com/ie/</description>
+    </item>
+    
+    <item>
+      <title>Quer estudar CSS?</title>
+      <link>http://localhost/jhonny-roger/public/quer_estudar/</link>
+      <pubDate>Sun, 08 Jun 2003 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/quer_estudar/</guid>
+      <description>É em inglês, mas mesmo assim dá para aprender um bocado.
+Ótimos exemplos de layouts em css, bugs de browsers, dicas de sites, etc&amp;#8230; vale muito a pena ler os source (código fonte), e aprender um pouco sobre o que dá para fazer com CSS.
+http://www.positioniseverything.net/</description>
+    </item>
+    
+    <item>
+      <title>Versões de Browsers Standalone</title>
+      <link>http://localhost/jhonny-roger/public/lista_de_browsers/</link>
+      <pubDate>Tue, 25 Feb 2003 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/lista_de_browsers/</guid>
+      <description>Normalmente precisamos testar sempre os sites nas duas verões correntes do Internet Explorer. No site Evolt.org, você consegue baixar duas ou mais versões de vários browsers. Se você tem o Internet Explorer 7 instalado, você baixa pelo site da Evolt.org a versão Standalone do Internet Explorer 6 e testa seus sites sem problema nenhum. Como eles aproveitam arquivos do próprio windows para rodar a versão antiga do browser.</description>
+    </item>
+    
+    <item>
+      <title>Bugs de Browsers</title>
+      <link>http://localhost/jhonny-roger/public/bugs_de_browsers/</link>
+      <pubDate>Thu, 30 Jan 2003 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/bugs_de_browsers/</guid>
+      <description>Ter conhecimento dos bugs de renderização dos browsers é sempre bom para se fazer um site TABLELESS. O site CSSPG &amp;#8211; CSS Pointer Group é um bom site sobre CSS, onde uma das seções é o Browsers Bugs, apesar de ter informações de apenas alguns browsers, dá para fazer um bom proveito.</description>
+    </item>
+    
+    <item>
+      <title>Safari</title>
+      <link>http://localhost/jhonny-roger/public/safari/</link>
+      <pubDate>Thu, 16 Jan 2003 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/safari/</guid>
+      <description>No dia 7 de Janeiro, a Apple disponibilizou uma versão BETA do seu novo browser: Safari.
+Andei dando uma pesquisada no Google, por informações sobre bugs de renderização que possam existir no Safari, e acabei encontrando.
+Confira em: dive://into.mark.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Calc on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/calc/</link>
+    <description>Recent content in Calc on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 06 Jul 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/calc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>nth-child() e calc() – Uma proposta para o abandono de frameworks de grids responsivos</title>
+      <link>http://localhost/jhonny-roger/public/nth-child-calc-responsivos/</link>
+      <pubDate>Mon, 06 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/nth-child-calc-responsivos/</guid>
+      <description>Apesar da adoção do _Tableless _para construção de layouts o conceito de tabela ainda persiste através de inúmeros frameworks de grids responsivos.
+ Além da semântica, o conceito Tableless prega, sempre que possível, levar a responsabilidade do layout para o CSS. O problema dos frameworks CSS focados em grids é que a especificação do layout continua dentro do HTML, descrita através de classes CSS, ancoradas diretamente aos elementos HTML, e de forma intrusiva, ou seja, os elementos  antigamente utilizados foram substituídos por elementos  para a criação do layout.</description>
+    </item>
+    
+  </channel>
+</rss>

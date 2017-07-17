@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dani Guerrato on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/dani-guerrato/</link>
+    <description>Recent content in Dani Guerrato on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 01 Sep 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/dani-guerrato/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google Web Starter Kit</title>
+      <link>http://localhost/jhonny-roger/public/google-web-starter-kit/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/google-web-starter-kit/</guid>
+      <description>Organizar pastas, incluir suas bibliotecas favoritas de JavaScript, ressetar o CSS, escrever as primeiras linhas de HTML&amp;#8230; Estas tarefas se repetem a cada projeto de desenvolvimento front-end. Ter uma base sólida e organizada como ponto de partida pode poupar muito tempo precioso de trabalho&amp;#8230;
+Acredito que cada um tem o seu próprio kit inicial a sua maneira. A galera mais old school mantém uma pastinha na área de trabalho e copia e cola os itens a cada utilização, os mais moderninhos tem repositórios super completos com todo tipo de recurso.</description>
+    </item>
+    
+    <item>
+      <title>Desenvolvimento de temas para Tumblr</title>
+      <link>http://localhost/jhonny-roger/public/desenvolvimento-de-temas-para-tumblr/</link>
+      <pubDate>Mon, 21 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/desenvolvimento-de-temas-para-tumblr/</guid>
+      <description>Quando pensamos em sistemas de administração de conteúdo logo lembramos do WordPress, do Joomla ou do Drupal. E de fato estes CMS são super completos para lidar com sites, portais e, com algumas adaptações, até mesmo lojas virtuais. Mas se o que você precisa é um blog o Tumblr pode ser uma alternativa bem interessante. Primeiro por que a interface de adição de conteúdo é super simples e dividida por tipos de conteúdo: textos, imagens, vídeos, links, citações, áudio e diálogos.</description>
+    </item>
+    
+    <item>
+      <title>Produtividade e Tomates</title>
+      <link>http://localhost/jhonny-roger/public/produtividade-e-tomates/</link>
+      <pubDate>Mon, 26 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/produtividade-e-tomates/</guid>
+      <description>A Técnica Pomodoro Nos anos 80 o italiano Francesco Cirillo estava com dificuldade em se concentrar nos estudos da faculdade. As provas estavam chegando e o Francesco já estava super desmotivado por não conseguir acompanhar o ritmo puxado das aulas. Foi aí que ele fez umas aposta consigo mesmo &amp;#8211; estudar, realmente estudar por 10 minutos sem nenhuma distração. Francesco então pegou um daqueles timers de cozinha antigos em formato de tomate (ou em italiano, Pomodoro) e utilizou para marcar o tempo.</description>
+    </item>
+    
+    <item>
+      <title>Design Responsivo na prática 2: do layout ao HTML</title>
+      <link>http://localhost/jhonny-roger/public/design-responsivo-na-pratica-2-layout-ao-html/</link>
+      <pubDate>Mon, 28 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/design-responsivo-na-pratica-2-layout-ao-html/</guid>
+      <description>Há um tempinho atrás eu escrevi aqui no Tableless um artigo chamado Design Responsivo na Prática &amp;#8211; Do Rascunho ao Digital. A abordagem na época foi mais voltada para os designers, que estavam carentes de conteúdo bacana sobre o assunto. Mas, no entanto, todavia, algumas pessoas comentaram que gostariam de ver o desenvolvimento do dito cujo do layout criado passo-a-passo ou ao menos uma demo. Como eu não poderia deixar de atender os devs também, é justamente isto que vou fazer hoje.</description>
+    </item>
+    
+    <item>
+      <title>Imagens Responsivas de Alta Performance</title>
+      <link>http://localhost/jhonny-roger/public/imagens-responsivas-de-alta-performance/</link>
+      <pubDate>Mon, 31 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/imagens-responsivas-de-alta-performance/</guid>
+      <description>Desenvolver sites responsivos muitas vezes é como fazer malabarismo. São muitas bolas para manter no ar: largura do viewport, medidas relativas, velocidade da conexão, densidade de pixel e experiência do usuário. Lidar com o peso de tudo isto sem quebrar o layout é um objetivo bem difícil de atingir e por isto, muitos desenvolvedores, clientes e consequentemente usuários se afastam da ideia. No artigo de hoje vamos conhecer algumas técnicas de design responsivo para otimização de imagens que ajudam a reduzir (e muito) o peso final dos sites responsivos e equilibrar as bolas no ar.</description>
+    </item>
+    
+    <item>
+      <title>Padrões de UX do mal</title>
+      <link>http://localhost/jhonny-roger/public/padroes-de-ux-mal/</link>
+      <pubDate>Mon, 17 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/padroes-de-ux-mal/</guid>
+      <description>Em um mundo ideal o estudo de experiência do usuário deveria servir para colocar o usuário em primeiro lugar. Mas a ganância desenfreada, a necessidade por conversões desesperadas e em muitos casos simplesmente burrice pode usar este estudo para prejudicar o usuário ao invés de ajudar. Conheça os padrões de UX do mal.
+O lado sombrio da força Falamos muito aqui no Tableless sobre boas práticas de experiência do usuário, criados para que o mundo seja feliz, cheio de arco-íris e interfaces úteis e com curva de aprendizado baixa.</description>
+    </item>
+    
+    <item>
+      <title>Dicas de CSS para impressão</title>
+      <link>http://localhost/jhonny-roger/public/dicas-de-css-para-impressao/</link>
+      <pubDate>Mon, 24 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/dicas-de-css-para-impressao/</guid>
+      <description>Uma das premissas básicas do Design Responsivo é oferecer a melhor experiência do usuário, independente do meio utilizado para acessar a informação. Muitas vezes nos preocupamos muito com smartphones, tablets e outros dispositivos móveis e esquecemos de um tipo de mídia que ainda é essencial para a leitura: o papel. Pois é, o usuário pode sentir a necessidade de imprimir uma página na web por muitos motivos: portabilidade, guardar o conteúdo &amp;#8220;offline&amp;#8221; ou simplesmente por que &amp;#8211; eReaders que me desculpem &amp;#8211; é muito mais confortável ler em um papel.</description>
+    </item>
+    
+    <item>
+      <title>Design de Aplicativos para Android – Parte 2</title>
+      <link>http://localhost/jhonny-roger/public/design-de-aplicativos-para-android-parte-2/</link>
+      <pubDate>Wed, 05 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/design-de-aplicativos-para-android-parte-2/</guid>
+      <description>No primeiro artigo desta série, conversamos um pouco sobre a anatomia de um App Android e no que ele difere de outros sistemas operacionais. Hoje vamos nos aprofundar nos aspectos mais técnicos do design de aplicativos. Busque seu café e boa leitura!
+O que é um pixel? Um pixel é o menor ponto físico em um dispositivo. É uma combinação espertinha de duas palavras pix (como em &amp;#8220;picture&amp;#8221;) e el (como em &amp;#8220;element&amp;#8221;).</description>
+    </item>
+    
+    <item>
+      <title>Design de Aplicativos para Android – Parte 1</title>
+      <link>http://localhost/jhonny-roger/public/design-de-aplicativos-para-android-parte-1/</link>
+      <pubDate>Mon, 27 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/design-de-aplicativos-para-android-parte-1/</guid>
+      <description>Uma questão de motivação Recentemente participei de uma maratona de desenvolvimento chamada Google Developer Bus onde encarei o seguinte desafio: criar o layout para um aplicativo Android em apenas 3 dias. Já trabalho há alguns anos com design para a web e, quem acompanha meus textos sabe, sou uma grande evangelista do design responsivo. Mas esta experiência anterior não foi o suficiente para me preparar para a tarefa. Criar aplicativos nativos é algo completamente diferente!</description>
+    </item>
+    
+    <item>
+      <title>Semântica, padrões e o que você tem a ver com isto</title>
+      <link>http://localhost/jhonny-roger/public/semantica-padroes-e-o-que-voce-tem-a-ver-com-isto/</link>
+      <pubDate>Wed, 11 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/semantica-padroes-e-o-que-voce-tem-a-ver-com-isto/</guid>
+      <description>O HTML é uma linguagem simples de aprender, mas muito difícil de dominar. Segundo a documentação da W3C existem atualmente 107 elementos de HTML5. Muitos deles ainda causam certa confusão entre os desenvolvedores ou por possuírem funções muito parecidas, comportamentos visuais praticamente idênticos ou ainda por serem simplesmente desconhecidos pela comunidade. Alguns elementos ainda são chamados de &amp;#8220;mais semânticos&amp;#8221; que outros. Mas o que isto quer dizer afinal?
+No post de hoje vamos fazer uma breve comparação entre alguns destes elementos para que você tenha sempre a carta certa na manga na hora certa e possa atribuir significado de maneira efetiva.</description>
+    </item>
+    
+    <item>
+      <title>Conferência W3C Web.br 2013 – Dia 2</title>
+      <link>http://localhost/jhonny-roger/public/conferencia-w3c-web-br-2013-dia-2/</link>
+      <pubDate>Wed, 27 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/conferencia-w3c-web-br-2013-dia-2/</guid>
+      <description>No primeiro dia fizemos um passeio através da história da internet, aprendemos a importância do WAI-ARIA, ganhamos umas dicas sobre Design Responsivo e Games em HTML5, além de ficar por dentro das próximas novidades de CSS3. Mas muita coisa ainda estava por vir!
+Pushing the Web Forward A abertura do evento ficou por conta do Kris Borchers, diretor executivo da jQuery Foundation. Kris explicou o processo criativo por traz de funções legais do jQuery como Touch Events e SimplePush, com uma demonstração super interessante utilizando os próprios slides da palestra que sincronizavam em tempo real em diversos tipos de dispositivos através de uma URL.</description>
+    </item>
+    
+    <item>
+      <title>Conferência W3C Web.br 2013 – Dia 1</title>
+      <link>http://localhost/jhonny-roger/public/conferencia-w3c-webbr-2013-primeiro-dia/</link>
+      <pubDate>Wed, 20 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/conferencia-w3c-webbr-2013-primeiro-dia/</guid>
+      <description>Na segunda-feira 19 de novembro tive o prazer de acompanhar de perto a Conferência Web W3C Brasil. O evento, realizado no centro de convenções Rebouças em São Paulo contou com a presença de grandes especialistas web do Brasil e do mundo. Foram dois dias repletos de palestras, debates, cafézinhos, networking, premiações, bons conselhos e muito conhecimento. Se você esteva lá também, parabéns! Aposto que aprendeu alguma coisa nova. Se não foi, não tem problema!</description>
+    </item>
+    
+    <item>
+      <title>Lojas virtuais com WooCommerce II – Criando temas personalizados</title>
+      <link>http://localhost/jhonny-roger/public/lojas-virtuais-com-woocommerce-ii-criando-temas-personalizados/</link>
+      <pubDate>Mon, 04 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/lojas-virtuais-com-woocommerce-ii-criando-temas-personalizados/</guid>
+      <description>O WooCommerce é um plugin capaz de transformar qualquer site desenvolvido em WordPress em uma loja virtual super potente. Mas para adaptar o seu tema para o sistema e garantir que o seu layout seja visualizado corretamente existem alguns truques, funções e ações fundamentais para que tudo funcione direitinho. A documentação oficial, embora bem completa, pode ser um pouco confusa pois não está organizada em uma ordem cronológica. Pensando nisto preparei este artigo recheado de dicas úteis para que você possa criar temas em WooCommerce facilmente.</description>
+    </item>
+    
+    <item>
+      <title>Como testar design responsivo</title>
+      <link>http://localhost/jhonny-roger/public/como-testar-design-responsivo/</link>
+      <pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/como-testar-design-responsivo/</guid>
+      <description>Você já sabe como criar layouts e desenvolver um site responsivo. Na verdade seu projeto já está quase pronto. A última etapa é testar o funcionamento! Existem diversas maneira de garantir a efetividade do layout. A primeira delas, e mais óbvia, é testando ao vivo em diversos dispositivos. Em um mundo ideal você deveria testar o seu layout na maior quantidade de aparelhos, browsers e sistemas operacionais possíveis! Alias, você pode até ser fanático por isto e incomodar todo amigo que ver com um celular diferente com um &amp;#8220;posso testar uma coisa rapidinho?</description>
+    </item>
+    
+    <item>
+      <title>Lojas virtuais com WooCommerce</title>
+      <link>http://localhost/jhonny-roger/public/lojas-virtuais-com-woocommerce/</link>
+      <pubDate>Tue, 08 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/lojas-virtuais-com-woocommerce/</guid>
+      <description>O que é WooCommerce? O WooCommerce é um plugin gratuito que permite a criação de lojas virtuais diretamente através do WordPress. Ele funciona como um kit de ferramentas modular contendo os elementos mais comuns em eCommerce como carrinho de compras, gerenciamento de estoques, estatísticas, gateways de pagamento, etc. O WooCommerce foi criado pela empresa WooThemes de forma opensource e traduzido para diversas línguas, inclusive português brasileiro. Por padrão o WooCommerce é integrado ao PayPal, mas é possível integrar outros métodos de pagamento através de extensões gratuitas e pagas.</description>
+    </item>
+    
+    <item>
+      <title>Sobre Cor e Webdesign II</title>
+      <link>http://localhost/jhonny-roger/public/cor-webdesign-2/</link>
+      <pubDate>Mon, 23 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/cor-webdesign-2/</guid>
+      <description>No primeiro artigo desta série discutimos os sistemas de cores e apresentamos algumas ferramentas úteis para a criação e organização de paletas. Hoje vamos mergulhar mais a fundo na teoria da cor e discutir aspectos como características, combinação de cores, função, legibilidade e técnicas para escolher &amp;#8211; sem depender de &amp;#8220;bom gosto&amp;#8221; ou chute &amp;#8211; uma boa paleta de cores para a web.
+Propriedades Não vou entrar muito na parte física ou psicológica da coisa, ok?</description>
+    </item>
+    
+    <item>
+      <title>Redução Progressiva</title>
+      <link>http://localhost/jhonny-roger/public/reducao-progressiva/</link>
+      <pubDate>Wed, 11 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/reducao-progressiva/</guid>
+      <description>O Problema Quando apresentamos uma interface nova, principalmente quando este processo envolve uma experiência ou forma de interação diferente do usual, é normal guiarmos o usuário pela mão com dicas, tutoriais e legendas óbvias. Embora, dependendo do público alvo, este processo seja útil no início, com o passar do tempo e ganho óbvio de proficiência todas aquelas informações acabam se tornando, no mínimo, desnecessárias e na maior parte do tempo irritantes.</description>
+    </item>
+    
+    <item>
+      <title>Como escrever e-mails de apresentação</title>
+      <link>http://localhost/jhonny-roger/public/como-escrever-e-mails-de-apresentacao/</link>
+      <pubDate>Mon, 02 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/como-escrever-e-mails-de-apresentacao/</guid>
+      <description>Seja na hora de entrar em contato com um cliente, conseguir uma parceria ou até mesmo uma vaga de emprego em uma agência a maior parte da comunicação entre profissionais ligados a web acaba sendo, pela própria natureza do meio, em formato de e-mails. Causar uma boa impressão neste momento é fundamental para conseguir a simpatia de quem está do outro lado da rede. Mas saber como se comportar ao redigir e-mails de apresentação infelizmente é algo que cursos e palestras não fazem questão de explicar.</description>
+    </item>
+    
+    <item>
+      <title>Design para Google Glass</title>
+      <link>http://localhost/jhonny-roger/public/design-para-google-glass/</link>
+      <pubDate>Mon, 26 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/design-para-google-glass/</guid>
+      <description>A não ser que você tenha passado o último ano da sua vida em coma, é provável que você já tenha ouvido falar no Google Glass. Mas o que ele realmente faz? Quais são as limitações técnicas? Como criar layouts tanto para a web quanto para aplicativos nativos que possuam um design adequado para esta nova mídia? E como testar isto tudo sem possuir um aparelho? Ok, Tableless! Vamos responder estas perguntas&amp;#8230;</description>
+    </item>
+    
+    <item>
+      <title>Menu Retrátil com CSS e jQuery</title>
+      <link>http://localhost/jhonny-roger/public/menu-retratil-com-css-e-jquery/</link>
+      <pubDate>Mon, 12 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/menu-retratil-com-css-e-jquery/</guid>
+      <description>Neste artigo vamos criar passo-a-passo um menu retrátil super versátil que, com apenas algumas linhas de modificação, poderá ser utilizado na horizontal, vertical, sobrepondo ou empurrando o conteúdo de um site. Veja ainda como evitar os malditos bugs problemas mais comuns deste tipo de navegação.
+Mini bibliotecas Uma das principais vantagens de escrever um HTML semântico e bem organizado é a versatilidade. Com um mesmo código é possível criar diversas variações de estilo utilizando apenas CSS.</description>
+    </item>
+    
+    <item>
+      <title>Design para telas sensíveis ao toque</title>
+      <link>http://localhost/jhonny-roger/public/design-para-telas-sensiveis-ao-toque/</link>
+      <pubDate>Mon, 05 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/design-para-telas-sensiveis-ao-toque/</guid>
+      <description>A popularização das telas sensíveis ao toque adicionou uma esfera completamente nova ao design de interfaces: a experiência tátil. Este é um trabalho bem diferente do que nós designers e desenvolvedores estávamos acostumados até então, já que a possibilidade de utilizar esta nova forma de toque permite ao usuário interagir diretamente com a informação como se estivesse manipulando dados com propriedades físicas. Este novo universo de possibilidades, embora fascinante, também trouxe novos desafios.</description>
+    </item>
+    
+    <item>
+      <title>Modos de Mesclagem em CSS – Blend Mode CSS</title>
+      <link>http://localhost/jhonny-roger/public/modos-de-mesclagem-em-css/</link>
+      <pubDate>Tue, 16 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/modos-de-mesclagem-em-css/</guid>
+      <description>Uma das funções mais interessantes do Photoshop é a capacidade de alterar imagens em camadas através de diversos modos de mesclagens (blending modes). Utilizando este recurso é possível criar composições de cores sobrepondo imagens em camadas diferentes.
+Infelizmente, ao converter o layout para HTML e CSS, não possuíamos classes ou ferramentas para chegar no mesmo resultado de softwares de edição de imagens. A única saída era achatar as camadas e exportar a imagem no modo padrão.</description>
+    </item>
+    
+    <item>
+      <title>Personalizando o painel de administração do WordPress</title>
+      <link>http://localhost/jhonny-roger/public/customizando-o-painel-de-administracao-do-wordpress/</link>
+      <pubDate>Wed, 03 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/customizando-o-painel-de-administracao-do-wordpress/</guid>
+      <description>Você provavelmente já conhece o WordPress e já sabe como criar seus próprios temas. Mas isto não significa que o trabalho acabou. É possível &amp;#8211; e extremamente recomendável &amp;#8211; personalizar os elementos da interface do Painel de Administração para que ele se adeque as necessidades de cada marca.
+Layouts únicos Muitas vezes ao fazer a escolha entre utilizar um sistema de administração de conteúdo padrão ou projetar o seu próprio do zero o critério de desempate é a capacidade de personalização.</description>
+    </item>
+    
+    <item>
+      <title>O que é Design Atômico?</title>
+      <link>http://localhost/jhonny-roger/public/o-que-e-design-atomic/</link>
+      <pubDate>Mon, 24 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-que-e-design-atomic/</guid>
+      <description>Neste artigo vamos bater um papo sobre os atuais problemas de prototipagem para design responsivo e conhecer um novo método que, através de analogias científicas curiosas e ferramentas inspiradas em Guias de Estilo, promete modificar a maneira como entendemos, organizamos e desenvolvemos interfaces.
+O estado atual do webdesign O advento do design responsivo em 2010 transformou a maneira como projetamos interfaces para a web. 3 anos se passaram desde então e a possibilidade de ter um conteúdo unificado presente em múltiplos dispositivos já é uma realidade concreta.</description>
+    </item>
+    
+    <item>
+      <title>Storytelling</title>
+      <link>http://localhost/jhonny-roger/public/storytelling/</link>
+      <pubDate>Mon, 17 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/storytelling/</guid>
+      <description>Um dos desafios de viver em um mundo onde o conhecimento está sempre facilmente disponível é lidar com a sobrecarga de informação. Na realidade existe tanto para se descobrir na internet que é difícil capturar a atenção do usuário por mais do que alguns minutos. Simplesmente mostrar uma informação não é mais relevante o suficiente. Estamos cada vez mais desconectados do significado e as vezes as palavras se tornam apenas ruídos de fundo.</description>
+    </item>
+    
+    <item>
+      <title>Sobre Cor e Webdesign</title>
+      <link>http://localhost/jhonny-roger/public/sobre-cor-e-webdesign/</link>
+      <pubDate>Mon, 10 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sobre-cor-e-webdesign/</guid>
+      <description>É possível analisar a Teoria da Cor de diversas maneiras. Podemos escolher uma abordagem física, psicológica, cultural, filosófica ou artística para entendermos as cores. Todos estes estudos são interessantes e extremamente relevantes para designers e desenvolvedores. Mas na hora de colocar a mão na massa decidir entre sistemas e organizar uma paleta de cores bacana pode parecer uma tarefa confusa até para os designers veteranos. Quais são as melhores práticas?</description>
+    </item>
+    
+    <item>
+      <title>Desenvolvimento ágil utilizando Scrum</title>
+      <link>http://localhost/jhonny-roger/public/desenvolvimento-agil-utilizando-scrum/</link>
+      <pubDate>Thu, 06 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/desenvolvimento-agil-utilizando-scrum/</guid>
+      <description>No artigo de hoje vamos conhecer os eventos, papéis e artefatos do Scrum e como adapta-los para organizar o seu fluxo de trabalho do dia-a-dia.
+O que significa desenvolvimento ágil? Desenvolvimento ágil é um conjunto de estratégias para gerenciamento de projetos incremental e com ciclos de desenvolvimentos rápido. As vantagens disto são: melhoria continua de um projeto, frequente resolução de problemas e aumento da produtividade. O conceito surgiu em em oposição ao método cascata, no qual o desenvolvimento é linear.</description>
+    </item>
+    
+    <item>
+      <title>jQuery 2.0</title>
+      <link>http://localhost/jhonny-roger/public/jquery-2-0/</link>
+      <pubDate>Thu, 23 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/jquery-2-0/</guid>
+      <description>Há cerca de um mês o jQuery 2.0 foi oficialmente lançado. Neste meio tempo pudemos analisar a nova versão da biblioteca e conhecer de perto as novidades. Mas será que vale a pena fazer o upgrade? Ou já é hora de abandonar o barco? Conheça os novos recursos da biblioteca, diga adeus para alguns antigos e decida por si mesmo.
+Builds Customizáveis O jQuery funciona como uma biblioteca real. Você pode escolher quais livros entram e quais vão embora da sua prateleira pessoal.</description>
+    </item>
+    
+    <item>
+      <title>3 parâmetros de HTML que você deve usar em um futuro próximo</title>
+      <link>http://localhost/jhonny-roger/public/3-parametros-de-html-que-voce-dev-usar-em-um-futuro-proximo/</link>
+      <pubDate>Tue, 14 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/3-parametros-de-html-que-voce-dev-usar-em-um-futuro-proximo/</guid>
+      <description>Neste artigo vamos conhecer alguns parâmetros que ainda não são largamente utilizados por algum motivo ou outro, mas que merecem ser conhecidos por serem práticos, úteis e interessantes. Alguns não foram aprovados oficialmente por orgãos como W3C, outros já receberam o ok da instituição mas não são compatíveis com a maioria dos browsers&amp;#8230; De qualquer maneira valem a pena serem conhecidos pois todos tem o poder de facilitar nosso dia-a-dia de alguma forma.</description>
+    </item>
+    
+    <item>
+      <title>16 ferramentas para designers e desenvolvedores</title>
+      <link>http://localhost/jhonny-roger/public/16-ferramentas-para-designers-e-desenvolvedores/</link>
+      <pubDate>Mon, 06 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/16-ferramentas-para-designers-e-desenvolvedores/</guid>
+      <description>Sites, aplicativos, plugins, agregadores e portais que vão fazer toda a diferença na hora de aprender coisas novas, organizar seu dia-a-dia e encontrar inspiração.
+Aprender Microsoft Virtual Academy
+
+Já falamos aqui no Tableless do excelente Codeacademy &amp;#8211; um site que gamefica o processo de aprendizado na internet com níveis, badges e interação com redes sociais. O que pouca gente sabe é que a Microsoft possui um sistema parecido, o Microsoft Virtual Academy.</description>
+    </item>
+    
+    <item>
+      <title>Design Responsivo na prática: do rascunho ao digital</title>
+      <link>http://localhost/jhonny-roger/public/design-responsivo-na-pratica-do-rascunho-ao-digita/</link>
+      <pubDate>Wed, 17 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/design-responsivo-na-pratica-do-rascunho-ao-digita/</guid>
+      <description>Você já convenceu o seu chefe ou cliente que Design Responsivo é a última bolacha de chocolate do pacote, já sabe como trabalhar com media queries e como desenvolver códigos bonitos, semânticos e cheirosos. Mas a dúvida ainda persiste &amp;#8211; por onde começar? Você não está sozinho. Esta é uma dúvida bem frequente. Por isto resolvi escrever um artigo básico só com dicas de prototipagem para design responsivo coletando algumas ferramentas úteis, artigos interessantes e comentando também um pouco da minha experiência pessoal ao lidar com o assunto no dia-a-dia gerindo um pequeno estúdio de webdesign.</description>
+    </item>
+    
+    <item>
+      <title>Mitos sobre dispositivos móveis</title>
+      <link>http://localhost/jhonny-roger/public/mitos-sobre-dispositivos-moveis/</link>
+      <pubDate>Tue, 26 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/mitos-sobre-dispositivos-moveis/</guid>
+      <description>Mito 1 &amp;#8211; Usuários utilizam dispositivos móveis apenas na rua (e a conexão é sempre lenta) Entre todos os meus gadgets o meu tablet é o meu favorito. Ele fica sempre por perto e nunca desliga. Se eu preciso de uma informação é só estender o braço e ler. Muito mais rápido e prático do que andar até o escritório, ligar o computador, esperar o navegador abrir e realizar uma busca.</description>
+    </item>
+    
+    <item>
+      <title>Grids semânticos com LESS</title>
+      <link>http://localhost/jhonny-roger/public/grids-semanticos-com-less/</link>
+      <pubDate>Fri, 08 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/grids-semanticos-com-less/</guid>
+      <description>Grids semânticos com LESS Já reparou como os blocos da sidebar aqui do Tableless possuem todos a mesma largura? Ou como a largura do bloco de artigo somada a largura da sidebar é equivalente ao wrap do menu e do rodapé? Mesmo que você não tenha percebido isto antes de maneira consciente, a informação parece mais organizada desta forma&amp;#8230;É por que o design do Tableless, como boa parte do conteúdo da internet, foi alinhado com o auxilio de um grid.</description>
+    </item>
+    
+    <item>
+      <title>A linguagem como parte integrante da user experience</title>
+      <link>http://localhost/jhonny-roger/public/a-linguagem-como-parte-integrante-da-user-experience/</link>
+      <pubDate>Tue, 26 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/a-linguagem-como-parte-integrante-da-user-experience/</guid>
+      <description>É do campo da user experience estudar a percepção e as reações emocionais e psicológicas de uma pessoa sobre um produto, sistema ou serviço. Na prática isto envolve diversas disciplinas como arquitetura da informação, design de interfaces, usabilidade&amp;#8230; Estes elementos são fundamentais para garantir uma boa experiência do usuário, mas muitas vezes esquecemos do principal em uma comunicação: a linguagem.
+A linguagem é a ferramenta que utilizamos para entender e definir o mundo.</description>
+    </item>
+    
+    <item>
+      <title>Favicons</title>
+      <link>http://localhost/jhonny-roger/public/favicons/</link>
+      <pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/favicons/</guid>
+      <description>Favicons Se você ainda não sabe, Favicons são aqueles pequenos ícones que ficam ao lado da barra de endereços de um navegador e servem, entre outras funções, para identificar rapidamente um site. Os Favicons são um velhos conhecidos dos designers e desenvolvedores. Já são 14 anos de história. E neste meio tempo muita coisa evoluiu. Surgiram smartphones, tablets, televisores, sistemas operacionais modernos, telas de alta resolução e o favicon foi mudando de tamanho, posição e formato, conquistando um espaço muito além da barra de ferramentas do navegador.</description>
+    </item>
+    
+    <item>
+      <title>Repensando CSS Resets</title>
+      <link>http://localhost/jhonny-roger/public/repensando-css-resets/</link>
+      <pubDate>Mon, 04 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/repensando-css-resets/</guid>
+      <description>Cada desenvolvedor possui um fluxo de trabalho diferente, mas uma prática mais do que comum é utilização de algum tipo de reset ou normatização para o CSS. Você provavelmente já sabe para que serve este tipo de arquivo. Como cada browser tem suas configurações padrões iniciais, esta boa prática garante a consistência do código e minimiza as diferenças visuais de um layout em diferentes navegadores. O objetivo é sempre criar um resultado mais homogêneo.</description>
+    </item>
+    
+    <item>
+      <title>Seletores de CSS3 nível 4</title>
+      <link>http://localhost/jhonny-roger/public/seletores-de-css3-nivel-4/</link>
+      <pubDate>Tue, 29 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/seletores-de-css3-nivel-4/</guid>
+      <description>Desde setembro de 2011 a W3C vem trabalhando nos seletores de CSS nível 4. Calma! Isso não significa que eles estão criando o CSS4, já que nem finalizaram o CSS3 ainda&amp;#8230; Apenas que um novo pacote de pseudo-classes e classes que podem substituir as atuais, ou expandir o seu uso. Claro que, por ser algo recente, não são todos os browsers que dão suporte&amp;#8230; Mas é bom tomar conhecimento. Afinal, é sempre bom estar um passo a frente do resto do mundo.</description>
+    </item>
+    
+    <item>
+      <title>Guia de Estilos</title>
+      <link>http://localhost/jhonny-roger/public/guia-de-estilos/</link>
+      <pubDate>Wed, 09 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/guia-de-estilos/</guid>
+      <description>Um dos elementos mais importantes do processo de criação de identidade visual é a elaboração de um documento com informações concretas sobre cores, tipografia, forma, exemplos de uso, tamanho mínimo e área de reserva do logotipo, etc. Este documento, conhecido como Guia de Identidade Visual ou simplesmente Manual da Marca, não se restringe apenas ao aspecto gráfico e pode muitas vezes incluir explicações sobre a visão, história e filosofia da empresa, uma perspectiva mais aprofundada dos símbolos e signos utilizados para compor o design ou até instruções gerais sobre a linguagem a ser utilizada na comunicação escrita, por exemplo.</description>
+    </item>
+    
+    <item>
+      <title>E-mail Newsletter Responsivo</title>
+      <link>http://localhost/jhonny-roger/public/e-mail-newsletter-responsivo/</link>
+      <pubDate>Thu, 03 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/e-mail-newsletter-responsivo/</guid>
+      <description>Design Responsivo Um assunto que ganhou muita evidência este ano no mundo do design digital é o desenvolvimento de sites responsivos. O termo, emprestado da arquitetura, surgiu em um post do blog A List Apart. Em resumo, são técnicas de design e CSS que, visando a usabilidade e a acessibilidade do conteúdo, fazem com que um site se adapte ao dispositivo do usuário. Parece mágico, mas na verdade é uma combinação de folhas de estilo engenhosas, matemática e um pouco de bom senso.</description>
+    </item>
+    
+    <item>
+      <title>Um guia completo de tipografia para a web</title>
+      <link>http://localhost/jhonny-roger/public/um-guia-completo-de-tipografia-para-a-web/</link>
+      <pubDate>Wed, 12 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/um-guia-completo-de-tipografia-para-a-web/</guid>
+      <description>Mesmo que você seja exclusivamente desenvolvedor front-end ou programador e passe bem longe de qualquer assunto relativo a design é importante saber um pouco sobre tipografia. Afinal, a maior parte do conteúdo da web é texto. Alguns até argumentam que 95% da informação disponível na internet está em linguagem escrita&amp;#8230; Estatísticas polêmicas a parte, o fato é que é fundamental começarmos a tratar a tipografia não apenas como algo bonitinho e sim como uma parte fundamental da user interface.</description>
+    </item>
+    
+    <item>
+      <title>Parallax Scrolling</title>
+      <link>http://localhost/jhonny-roger/public/parallax-scrolling/</link>
+      <pubDate>Mon, 03 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/parallax-scrolling/</guid>
+      <description>Parallax Scrolling foi uma das grandes tendências do webdesign em 2012. Mesmo que você não conheça o termo é capaz de já ter visto o efeito por aí&amp;#8230; Ele serve para dar a ilusão de profundidade de campo e pode ser utilizado para criar uma experiência de navegação bem diferentes do convencional. Neste artigo vamos entender da onde surgiu este termo, quais cuidados devemos tomar e é claro, como implementar o efeito de parallax scrolling através de javascript.</description>
+    </item>
+    
+    <item>
+      <title>Imagens em alta resolução utilizando SVG</title>
+      <link>http://localhost/jhonny-roger/public/imagens-em-alta-resolucao-utilizando-svg/</link>
+      <pubDate>Tue, 27 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/imagens-em-alta-resolucao-utilizando-svg/</guid>
+      <description>Scalable Vector Graphics (SVG) Uma das grandes tendências do momento quando se fala sobre desenvolvimento web é o formato SVG, principalmente com o advento do design responsivo e a consequente preocupação com dispositivos com densidade de pixel superior (HiDPI) como a tela retina da Apple, utilizada nos modelos mais recentes do iPhone, iPad e do Macbook Pro. Mas o que exatamente é um arquivo SVG? Qual é a diferença entre um vetor e um bitmap?</description>
+    </item>
+    
+    <item>
+      <title>ePub: Aprenda a criar um livro digital</title>
+      <link>http://localhost/jhonny-roger/public/epub-aprenda-a-criar-um-livro-digital/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/epub-aprenda-a-criar-um-livro-digital/</guid>
+      <description>Introdução Com a crescente popularização de tablets e leitores digitais não há dúvida de que os livros eletrônicos vieram para ficar. O formato ePub vem cada vez mais se consolidando como o padrão definitivo para eBooks. As editoras procuram profissionais especializados, mas, aqui no Brasil não existem muitos que de fato possuem o know-how necessário para desenvolver livros no padrão. Na verdade o que acontece é que as editoras estão alocando o tipo de profissional errado para a função.</description>
+    </item>
+    
+  </channel>
+</rss>

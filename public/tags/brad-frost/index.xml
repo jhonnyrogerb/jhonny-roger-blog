@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brad Frost on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/brad-frost/</link>
+    <description>Recent content in Brad Frost on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 24 Jun 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/brad-frost/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>O que é Design Atômico?</title>
+      <link>http://localhost/jhonny-roger/public/o-que-e-design-atomic/</link>
+      <pubDate>Mon, 24 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-que-e-design-atomic/</guid>
+      <description>Neste artigo vamos bater um papo sobre os atuais problemas de prototipagem para design responsivo e conhecer um novo método que, através de analogias científicas curiosas e ferramentas inspiradas em Guias de Estilo, promete modificar a maneira como entendemos, organizamos e desenvolvemos interfaces.
+O estado atual do webdesign O advento do design responsivo em 2010 transformou a maneira como projetamos interfaces para a web. 3 anos se passaram desde então e a possibilidade de ter um conteúdo unificado presente em múltiplos dispositivos já é uma realidade concreta.</description>
+    </item>
+    
+  </channel>
+</rss>

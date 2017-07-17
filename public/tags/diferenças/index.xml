@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diferenças on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/diferen%C3%A7as/</link>
+    <description>Recent content in Diferenças on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 02 May 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/diferen%C3%A7as/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Entendendo quais APIs (realmente) fazem parte do HTML5</title>
+      <link>http://localhost/jhonny-roger/public/entendendo-quais-apis-realmente-fazem-parte-do-html5/</link>
+      <pubDate>Wed, 02 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/entendendo-quais-apis-realmente-fazem-parte-do-html5/</guid>
+      <description>Com o HTML5 ganhando força no mercado de desenvolvimento web, maior tem sido o interesse dos desenvolvedores em compreender seus recursos, novas APIs e tecnologias adjacentes. E é aí que acontece uma grande confusão.
+Sabemos que o HTML5 não se trata apenas de marcação, mas também de um conjunto de novas funcionalidades encapsuladas em APIs que podem ser acessadas via JavaScript.
+Porém, há APIs em processo de padronização pelo W3C que não fazem parte da especificação do HTML5.</description>
+    </item>
+    
+  </channel>
+</rss>

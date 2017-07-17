@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diegoeis on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/diegoeis/</link>
+    <description>Recent content in Diegoeis on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 27 Oct 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/diegoeis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Não seja o próximo Zeno Rocha</title>
+      <link>http://localhost/jhonny-roger/public/nao-seja-o-proximo-zeno-rocha/</link>
+      <pubDate>Mon, 27 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/nao-seja-o-proximo-zeno-rocha/</guid>
+      <description>Artigo originalmente publicado no meu blog no Medium.
+Quando montei esse título eu sabia que ia ser polêmico e sabia que haveria um burburinho nos corredores das interwebs. E sabe de uma coisa? To me lixando para que os outros falam por aí.
+Quando conversei com o Zeno horas depois de ter tido a ideia, expliquei os motivos para ele e comentamos sobre coisas que acontecem conosco por causa dessa “popularidade” na área.</description>
+    </item>
+    
+  </channel>
+</rss>

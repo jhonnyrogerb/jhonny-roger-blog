@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cliente on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/cliente/</link>
+    <description>Recent content in Cliente on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 04 Apr 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/cliente/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Não venda tecnologia. Venda produtos e pense no business.</title>
+      <link>http://localhost/jhonny-roger/public/nao-venda-tecnologia-venda-produtos-e-pense-no-business/</link>
+      <pubDate>Sat, 04 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/nao-venda-tecnologia-venda-produtos-e-pense-no-business/</guid>
+      <description>Don Draper, em algum episódio de Mad Man, deixa bem claro durante uma reunião: “Eu não vendo propaganda. Vendo produtos”. Desta frase podemos tirar muitas lições que podem ajudar em nosso trabalho. A principal delas é que precisamos parar de focar somente na tecnologia e pensar no cenário por completo, pensar no business.
+Ao invés de propaganda, pense em sites, sistemas, games, ou qualquer outro produto/serviço que você pode realizar. Ao invés de produtos, pense no retorno que estes serviços geram para quem está pagando por ele.</description>
+    </item>
+    
+    <item>
+      <title>Como evitar maus clientes</title>
+      <link>http://localhost/jhonny-roger/public/como-evitar-maus-clientes/</link>
+      <pubDate>Tue, 20 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/como-evitar-maus-clientes/</guid>
+      <description>Eu sei, atender é muito difícil e atender bem é mais difícil ainda. Mas existem dois pontos importantes que se bem administrados você pode evitar muita dor de cabeça na hora de negociar e entregar um projeto.
+Lei da compensação Muitos negócios acabam logo no início por que um dos lados abre mão de muita coisa nas negociações iniciais do projeto. Quem nunca negociou com clientes que além de pedirem descontos, querem que definir a data de pagamento e a data entrega do projeto?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Encurtador on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/encurtador/</link>
+    <description>Recent content in Encurtador on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 18 Jan 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/encurtador/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Shortcodes</title>
+      <link>http://localhost/jhonny-roger/public/shortcodes/</link>
+      <pubDate>Tue, 18 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/shortcodes/</guid>
+      <description>Os shortcodes são abreviaturas no intuito de retornar o código desejado em uma única linha.
+Exemplos de Shortcodes Um exemplo de shortcode:
+[botao]Meu primeiro botão[/botao]
+Um exemplo de shortcode com parâmetros:
+[botao cor=”vermelho” url=”http://tableless.com.br”]Site do Tableless[/botao]
+Essa é a melhor solução para quem desenvolve sites para terceiros e deseja criar elementos com rapidez.
+Criando um Shortcode Para criar um shortcode, adicione o seguinte código em functions.php:
+[cce lang=&amp;#8221;php&amp;#8221;]
+&amp;lt;?php</description>
+    </item>
+    
+  </channel>
+</rss>

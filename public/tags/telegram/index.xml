@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Telegram on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/telegram/</link>
+    <description>Recent content in Telegram on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 12 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/telegram/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Seu primeiro bot para o Telegram</title>
+      <link>http://localhost/jhonny-roger/public/seu-primeiro-bot-para-o-telegram/</link>
+      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/seu-primeiro-bot-para-o-telegram/</guid>
+      <description>Os BOTS de chats hoje já são uma realidade, eles já estão presentes nos aplicativos de mensagens do seu celular, e com certeza você já ficou curioso em como alguns deles são desenvolvidos. Nesse artigo, vamos mostrar o desenvolvimento de um BOT muito simples utilizando a API do Telegram.
+Artigo adaptado de Bot Telegram
+Criando o seu BOT Para esse simples exemplo será utilizado o JavaScript na plataforma NodeJS em conjunto com a API do Telegram, caso você não esteja familiarizado com essa plataforma, você pode conferir esse ótimo artigo aqui do Tableless Como instalar Node.</description>
+    </item>
+    
+  </channel>
+</rss>

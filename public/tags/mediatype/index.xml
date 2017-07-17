@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mediatype on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/mediatype/</link>
+    <description>Recent content in Mediatype on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 06 Dec 2007 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/mediatype/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sites para Dispositivos Móveis – MediaType</title>
+      <link>http://localhost/jhonny-roger/public/sites-para-dispositivos-moveis-mediatype/</link>
+      <pubDate>Thu, 06 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sites-para-dispositivos-moveis-mediatype/</guid>
+      <description>Felizmente, com a ajuda dos Web Standards, o trabalho para criar um site ficou muito mais fácil, rápida e o mais importante, divertida.
+Hoje, você troca de layout a hora que quiser, sem se preocupar em ter que refazer todo o código e programação. Eles já estão feitos, por que ter que recriá-los? Então, você troca apenas 1 arquivo CSS, e seu site muda completamente, sem dor de cabeça, apenas mudando a lente de formatação.</description>
+    </item>
+    
+    <item>
+      <title>Sobre Internet Explorer para Mobile – Breve impressão</title>
+      <link>http://localhost/jhonny-roger/public/sobre-internet-explorer-para-mobile-breve-impressao/</link>
+      <pubDate>Wed, 07 Nov 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sobre-internet-explorer-para-mobile-breve-impressao/</guid>
+      <description>Desde que adquiri um MotoQ (se lê MotoQUIU) eu venho usando o Opera Mobile como browser padrão. Ao contrário da versão pra desktops, o Opera Mobile é pago. Por este motivo, quando a data expirou, eu resolvi usar por um tempo o Internet Explorer.
+Descobri que a forma com que o IE Mobile renderiza as páginas é tão boa quanto a do Opera Mobile. A velocidade de navegação também é ótima.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245839">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>Esta postagem já começa com uma pergunta: <strong>Será que sabemos realmente fazer uma paginação de dados da forma correta?</strong></p>
+
+<blockquote>
+<p style="text-align: center;">
+  <strong>ATENÇÃO!</strong> Não irei falar do uso de nenhum framework PHP, bibliotecas de ORM ou plugins em JavaScript. Irei tratar sobre a consulta ao banco de dados, somente.
+</p>
+</blockquote>
+
+<p>&nbsp;</p>
+
+<p style="text-align: left;">
+  Talvez você conheça esta funcionalidade do MySQL, e talvez até comentará que isto é algo &#8220;muito básico&#8221;, mas vale lembrar: <em>&#8220;Nem todos sabem de tudo. A internet é uma grande comunidade.&#8221;</em>
+</p>
+
+<h2 id="como-a-maioria-faria">Como a maioria faria</h2>
+
+<p style="text-align: left;">
+  A grande maioria de nós simplesmente iria executar 2 instruções de SELECT no MySQL. Uma para retornar o total dos registros e outra para paginar estes registros. Alguns, talvez, fariam a consulta de todos os registros no banco e depois limitariam os registros no PHP (Vish!).
+</p>
+
+<p style="text-align: left;">
+  As nossas consultas ao banco ficariam algo mais ou menos assim:
+</p>
+
+<pre class="lang-php">/** Recuperamos o total de registros **/
+SELECT * FROM pessoa
+
+/** Recuperamos somente os 10 primeiros registros **/
+SELECT * FROM pessoa LIMIT 0,10
+</pre>
+
+<p>Certo, talvez esta execução de comandos não tenha afetado o desempenho do seu site ou aplicação até o momento.</p>
+
+<p>Agora, imagine ter que tratar milhares de registros, para diversos usuários ao mesmo tempo. Haja memória e servidor para isto!</p>
+
+<p>Como desenvolvedores, sempre temos que prezar por um excelente desempenho e a utilização mínima de recursos em nossas aplicações, que podem tomar proporções que não imaginamos na sua criação.</p>
+
+<h2 id="o-mysql-nos-dá-uma-força">O MySQL nos dá uma força</h2>
+
+<p>Existe um parâmetro no MySQL que é pouco conhecido da maioria desenvolvedores. Ele foi criado justamente para facilitar as paginações de registros em uma consulta.</p>
+
+<p>Com somente um comando SELECT você terá a quantidade de registros e os seus dados paginados de forma simples, e sem uma grande curva de aprendizado. Veja como é simples:</p>
+
+<pre class="lang-php">/** Recupera somente os 10 primeiros registros **/
+SELECT SQL_CALC_FOUND_ROWS * FROM pessoa LIMIT 0,10
+
+/** Retorna o total de linhas do comando SELECT anterior sem considerar o LIMIT **/
+SELECT FOUND_ROWS();
+</pre>
+
+<p>Que simples e útil é esta função do MySQL! Não existem grandes modificações para serem feitas. Como exemplo, eu adaptei facilmente alguns frameworks que desenvolvi para aumentar a performance.</p>
+
+<p style="text-align: left;">
+  Você pode saber mais destas funções do MySQL <a href="http://dev.mysql.com/doc/refman/5.7/en/information-functions.html#function_found-rows" target="_blank">diretamente na documentação do próprio banco</a>.
+</p>
+
+<p style="text-align: left;">
+  Além disto, o site <a href="https://www.percona.com/blog/2007/08/28/to-sql_calc_found_rows-or-not-to-sql_calc_found_rows/" target="_blank">Percona trás uma análise da performance do comando</a>, mas em resumo, o site diz:
+</p>
+
+<blockquote>
+<p style="text-align: center;">
+  <em>&#8220;Se você tem ÍNDICES nas suas cláusulas WHERE, é melhor não utilizar o SQL_CALC_FOUND_ROWS e utilizar 2 consultas.</em><br /> <em>Mas caso você não tenha ÍNDICES em suas cláusulas WHERE, se você usar o SQL_CALC_FOUND_ROWS será mais eficiente.&#8221;</em>
+</p>
+</blockquote>
+
+<p>&nbsp;</p>
+
+<p style="text-align: center;">
+  <strong>Para cada realidade, uma aplicação é válida. Utilizar esta função não é REGRA, mas conhecimento sempre fará diferença em nossas carreiras.</strong>
+</p>
+
+<p style="text-align: left;">
+  Espero que tenha servido para agregar ao conhecimento de alguém. Grande abraço, e até a próxima!
+</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/indo-alem-no-react-native//?utm_source=tablelessRelatedLin">Indo além no Mundo React-Native</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/seu-primeiro-bot-para-o-telegram//?utm_source=tablelessRelatedLin">Seu primeiro bot para o Telegram</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245840"></script>

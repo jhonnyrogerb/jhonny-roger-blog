@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Imagens Responsivas on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/imagens-responsivas/</link>
+    <description>Recent content in Imagens Responsivas on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 31 Mar 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/imagens-responsivas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Imagens Responsivas de Alta Performance</title>
+      <link>http://localhost/jhonny-roger/public/imagens-responsivas-de-alta-performance/</link>
+      <pubDate>Mon, 31 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/imagens-responsivas-de-alta-performance/</guid>
+      <description>Desenvolver sites responsivos muitas vezes é como fazer malabarismo. São muitas bolas para manter no ar: largura do viewport, medidas relativas, velocidade da conexão, densidade de pixel e experiência do usuário. Lidar com o peso de tudo isto sem quebrar o layout é um objetivo bem difícil de atingir e por isto, muitos desenvolvedores, clientes e consequentemente usuários se afastam da ideia. No artigo de hoje vamos conhecer algumas técnicas de design responsivo para otimização de imagens que ajudam a reduzir (e muito) o peso final dos sites responsivos e equilibrar as bolas no ar.</description>
+    </item>
+    
+    <item>
+      <title>3 parâmetros de HTML que você deve usar em um futuro próximo</title>
+      <link>http://localhost/jhonny-roger/public/3-parametros-de-html-que-voce-dev-usar-em-um-futuro-proximo/</link>
+      <pubDate>Tue, 14 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/3-parametros-de-html-que-voce-dev-usar-em-um-futuro-proximo/</guid>
+      <description>Neste artigo vamos conhecer alguns parâmetros que ainda não são largamente utilizados por algum motivo ou outro, mas que merecem ser conhecidos por serem práticos, úteis e interessantes. Alguns não foram aprovados oficialmente por orgãos como W3C, outros já receberam o ok da instituição mas não são compatíveis com a maioria dos browsers&amp;#8230; De qualquer maneira valem a pena serem conhecidos pois todos tem o poder de facilitar nosso dia-a-dia de alguma forma.</description>
+    </item>
+    
+  </channel>
+</rss>

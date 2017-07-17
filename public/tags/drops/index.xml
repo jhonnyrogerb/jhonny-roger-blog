@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drops on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/drops/</link>
+    <description>Recent content in Drops on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 30 Mar 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/drops/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Drops 15 – Eu era contra pré-processadores</title>
+      <link>http://localhost/jhonny-roger/public/drops-15-eu-era-contra-pre-processadores/</link>
+      <pubDate>Mon, 30 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/drops-15-eu-era-contra-pre-processadores/</guid>
+      <description>Eu sei, eu sei, é difícil admitir, mas eu era contra pré-processadores de CSS. Na verdade, os Pré-processadores eram um símbolo de como você não consegue controlar seu código, assim como o Dreamweaver.
+ Drops 15 &amp;#8211; Eu era contra pré-processadores by Tableless Padrões Web on Mixcloud  </description>
+    </item>
+    
+    <item>
+      <title>Drops 14 – Sou um mero desenvolvedor</title>
+      <link>http://localhost/jhonny-roger/public/drops-14-sou-um-mero-desenvolvedor/</link>
+      <pubDate>Tue, 23 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/drops-14-sou-um-mero-desenvolvedor/</guid>
+      <description>Eu estava zapeando pelo twitter uns dias atrás e encontrei um papo entre dois desenvolvedores falando sobre iniciativas e maneiras de ajudar a comunidade. Um deles falou o seguinte: &amp;#8220;Mas como vou ajudar, eu sou um mero desenvolvedor&amp;#8230;&amp;#8221; Foi aí que a conversa me tocou! Ouça minha opinião sobre o assunto.</description>
+    </item>
+    
+    <item>
+      <title>Drops 13 – O basico sobre semântica, HTML5 e microdata</title>
+      <link>http://localhost/jhonny-roger/public/drops-13-o-basico-sobre-semantica-html5-e-microdata/</link>
+      <pubDate>Wed, 03 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/drops-13-o-basico-sobre-semantica-html5-e-microdata/</guid>
+      <description>Falei um pouco sobre o básico da semântica, novas tags do HTML5 e microdata.
+Links sobre o assunto:
+ Sobre Microdata Introdução a Microdata no HTML5 Microdata: HTML5’s Best-Kept Secret  </description>
+    </item>
+    
+    <item>
+      <title>Drops 12 – Dicas de sobrevivência</title>
+      <link>http://localhost/jhonny-roger/public/drops12-dicas-sobrevivencia/</link>
+      <pubDate>Thu, 06 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/drops12-dicas-sobrevivencia/</guid>
+      <description>Existem algumas atitudes que devem fazer parte do desenvolvedor. Não adianta entender muito bem da parte técnica se você não consegue entregar o seu projeto na data, ou não cumpre promessas ou se nem sabe onde quer estar daqui 3 anos.
+Link dos feeds dos podcasts.
+A minha palestra:
+ Manual de Sobrevivência do Desenvolvedor  from Tableless  </description>
+    </item>
+    
+    <item>
+      <title>Drops 11 – Adaptação e Otimização</title>
+      <link>http://localhost/jhonny-roger/public/drops-11-adaptacao-e-otimizacao/</link>
+      <pubDate>Wed, 04 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/drops-11-adaptacao-e-otimizacao/</guid>
+      <description>Aproveitando o embalo do artigo, resolvi fazer um drops rápido sobre o assunto, falando mais sobre produzir sites responsivos ou específicos para determinados aparelhos. Falei mais sobre suas vantagens e desvantagens.</description>
+    </item>
+    
+    <item>
+      <title>Drops 10 – Web Apps ou Instaláveis no dispositivos?</title>
+      <link>http://localhost/jhonny-roger/public/drops-10-web-apps-ou-instalaveis-no-dispositivos/</link>
+      <pubDate>Fri, 22 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/drops-10-web-apps-ou-instalaveis-no-dispositivos/</guid>
+      <description>Você fará uma aplicação. Essa aplicação será instalada no dispositivo ou será baseada em web?
+Essa é uma discussão antiga e não dá para dizer o que é certo e errado por enquanto. Eu sou do time do pessoal que acha que web apps são o melhor caminho. Tenho alguns motivos para pensar assim e quero compartilhar com vocês nesse Drops. O que você acha sobre isso?
+Link direto do arquivo.</description>
+    </item>
+    
+    <item>
+      <title>Drops 9 – Préprocessadores, frameworks e bibliotecas</title>
+      <link>http://localhost/jhonny-roger/public/drops-9-preprocessadores-frameworks-e-bibliotecas/</link>
+      <pubDate>Fri, 11 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/drops-9-preprocessadores-frameworks-e-bibliotecas/</guid>
+      <description>Uma continuação do post que escrevi sobre o assunto e a primeira parte de uma série de artigos com dicas sobre como estruturar uma área client-side.
+Arquivo Mp3.</description>
+    </item>
+    
+    <item>
+      <title>Drops 8 – O que o dev client-side deve saber</title>
+      <link>http://localhost/jhonny-roger/public/drops-8-o-que-o-dev-client-side-deve-saber/</link>
+      <pubDate>Thu, 19 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/drops-8-o-que-o-dev-client-side-deve-saber/</guid>
+      <description>Muitos devs front-end tem dificuldades de saber o que aprender ou quais assuntos eles devem dar mais atenção e absorver. Será que um dev client-side deve aprender lógica de programação, programar uma linguagem server e etc? Será que ele precisa saber design, usabilidade e etc?</description>
+    </item>
+    
+    <item>
+      <title>Drops 7 – Você está fazendo errado</title>
+      <link>http://localhost/jhonny-roger/public/drops-7-voce-esta-fazendo-errado/</link>
+      <pubDate>Thu, 05 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/drops-7-voce-esta-fazendo-errado/</guid>
+      <description>Tem designers trabalhando com web que não entendem HTML/CSS. Tem programadores que ainda insistem em aprender apenas a linguagem server-side e ficam se lixando para HTML. Tem desenvolvedores de interface que não estão nem aí pra semântica, css bem escrito e caem na bobeira de ficar discutindo assuntos superficiais como abordar ou não abordar determinado browser, ou o Flash é melhor que HTML e vice-versa.</description>
+    </item>
+    
+    <item>
+      <title>Drops 6 – Acessibilidade</title>
+      <link>http://localhost/jhonny-roger/public/drops-6-acessibilidade/</link>
+      <pubDate>Wed, 21 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/drops-6-acessibilidade/</guid>
+      <description>Hoje nós vamos falar um pouco sobre acessibilidade. Existem desenvolvedores que acham que devem apenas criar websites acessíveis para pessoas cegas. Mas, mesmo eu achando que pessoas com deficiência visual sejam prioridade hoje, existem diversas situações e cenários que necessitam de atenção.</description>
+    </item>
+    
+    <item>
+      <title>Drops 5 – Responsabilidade Dev Front-end</title>
+      <link>http://localhost/jhonny-roger/public/drops-5-responsabilidade-dev-front-end/</link>
+      <pubDate>Wed, 20 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/drops-5-responsabilidade-dev-front-end/</guid>
+      <description>Qual a responsabilidade do desenvolvedor front-end? Ele precisa ser designer? Tem que aprender a programar?
+Se preferir faça o download do arquivo em Mp3 ou OGA.  Veja todos os nossos drops no Soundcloud.
+Se preferir faça o download do arquivo em Mp3 ou OGA. Ou inscreva no iTunes. Feed direto dos Podcasts.</description>
+    </item>
+    
+    <item>
+      <title>Drops 4 – Validar é importante?</title>
+      <link>http://localhost/jhonny-roger/public/drops-4-validar-importante/</link>
+      <pubDate>Fri, 25 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/drops-4-validar-importante/</guid>
+      <description>Validar o HTML é importante? Para que serve o validador? O que ele não analisa?
+Se preferir faça o download do arquivo em Mp3 ou OGA.  Veja todos os nossos drops no Soundcloud.
+Se preferir faça o download do arquivo em Mp3 ou OGA. Ou inscreva no iTunes. Feed direto dos Podcasts.</description>
+    </item>
+    
+    <item>
+      <title>Drops 3 – Duas formas de modular seu CSS</title>
+      <link>http://localhost/jhonny-roger/public/drops3-modular-css/</link>
+      <pubDate>Mon, 28 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/drops3-modular-css/</guid>
+      <description>Existem várias formas de modular seu CSS, vou citar duas delas. A primeira delas é modulando seu código por página. A segunda é modulando por áreas do site.
+Se preferir faça o download do arquivo em Mp3 ou OGA.  Veja todos os nossos drops no Soundcloud.
+Se preferir faça o download do arquivo em Mp3 ou OGA. Ou inscreva no iTunes.</description>
+    </item>
+    
+    <item>
+      <title>Drops 2 – A palavra Marcação do HTML</title>
+      <link>http://localhost/jhonny-roger/public/drops-2-a-palavra-marcacao-do-html/</link>
+      <pubDate>Mon, 31 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/drops-2-a-palavra-marcacao-do-html/</guid>
+      <description>Você já parou para pensar o que significa a palavra marcação da abreviação do HTML?
+Se preferir faça o download do arquivo em Mp3 ou OGA.  Veja todos os nossos drops no Soundcloud.
+Se preferir faça o download do arquivo em Mp3 ou OGA. Ou inscreva no iTunes.</description>
+    </item>
+    
+    <item>
+      <title>Drops 1 – HTML5 já pode ser usado</title>
+      <link>http://localhost/jhonny-roger/public/drops-1-html5-ja-pode-ser-usado/</link>
+      <pubDate>Mon, 17 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/drops-1-html5-ja-pode-ser-usado/</guid>
+      <description>Você já pode usar o HTML5. Talvez não os 100% das maravilhas que ele te proporciona, mas pelo menos, nivelando por baixo, as tags já podem ser usadas.
+Saiba mais ouvindo nosso primeiro drops de 2011.
+Se preferir faça o download do arquivo em Mp3 ou OGA.  -- Veja nossos Drops aqui no Soundcloud.
+Se preferir faça o download do arquivo em Mp3 ou OGA. Ou inscreva no iTunes.</description>
+    </item>
+    
+  </channel>
+</rss>

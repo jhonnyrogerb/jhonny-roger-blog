@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Encontro Locaweb on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/encontro-locaweb/</link>
+    <description>Recent content in Encontro Locaweb on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 25 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/encontro-locaweb/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Encontro Desenvolvedores Recife – 05/Maio</title>
+      <link>http://localhost/jhonny-roger/public/encontro-desenvolvedores-recife-05maio/</link>
+      <pubDate>Mon, 25 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/encontro-desenvolvedores-recife-05maio/</guid>
+      <description>Estamos passando por diversas cidades como Porto Alegre, Curitiba, São Paulo. A nossa próxima parada é Recife, no dia 05 de Maio! Veja abaixo os palestrantes que estamos levando. Você pode se cadastrar direto no site da Locaweb, tanto para Recife, quanto para outras cidades!
+No final do Post, você confere a data de todos os eventos. Quer desconto? 50% usando o cupom PRCTABLELESS.
+     Renan Ranelli da Xerpa &amp;#8211; mais conhecido como Milhouse &amp;#8211; vai falar sobre como evitar que o sonho de adotar novas tecnologias se torne um pesadolo!</description>
+    </item>
+    
+    <item>
+      <title>Curadoria do Tableless no Encontro Locaweb 2015</title>
+      <link>http://localhost/jhonny-roger/public/curadoria-tableless-no-encontro-locaweb-2015/</link>
+      <pubDate>Wed, 11 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/curadoria-tableless-no-encontro-locaweb-2015/</guid>
+      <description>Desde o ano passado o Encontro Locaweb tem dedicado uma sala exclusiva para os desenvolvedores e o Tableless tem feito a curadoria da sala, escolhendo os palestrantes.
+Este ano iremos passar pelas seguintes cidades: Belo Horizonte (06 de Março), Recife (18 de Março), Curitiba (11 de Abril), Porto Alegre (07 de Maio), Rio de Janeiro (19 de Maio) e São Paulo (18 de Junho).
+Os palestrantes abaixo falarão em todas as cidades:</description>
+    </item>
+    
+    <item>
+      <title>O Tableless escolheu os palestrantes do 16º Encontro Locaweb</title>
+      <link>http://localhost/jhonny-roger/public/tableless-16-encontro-locaweb/</link>
+      <pubDate>Mon, 17 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tableless-16-encontro-locaweb/</guid>
+      <description>O Tableless foi convidado pela Locaweb para fazer a curadoria da sala sobre desenvolvimento web nos eventos do Encontro Locaweb deste ano. Yay!
+Irão palestrar na sala sobre desenvolvimento o Jaydson Gomes, Jean Carlo Emer, Nando Vieira, Diego Eis.
+Os assuntos circularão sobre Ruby, Javascript, CSS e HTML. Não falaremos sobre coisas básicas, queremos tentar elevar um pouco o nível técnico dos assuntos. Será interessante para que os iniciantes conheçam assuntos avançados e também para que os desenvolvedores mais exigentes atualizem seus conhecimentos.</description>
+    </item>
+    
+  </channel>
+</rss>

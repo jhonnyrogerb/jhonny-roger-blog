@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mercado De Ti on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/mercado-de-ti/</link>
+    <description>Recent content in Mercado De Ti on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 11 Sep 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/mercado-de-ti/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Migrando de enterprise dev para startup dev</title>
+      <link>http://localhost/jhonny-roger/public/migrando-de-enterprise-dev-para-startup-dev/</link>
+      <pubDate>Sun, 11 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/migrando-de-enterprise-dev-para-startup-dev/</guid>
+      <description>Comecei minha carreira na área de desenvolvimento de software razoavelmente cedo, aos 16 anos estudava no ensino médio pela manhã, estagiava à tarde e estudava no curso técnico à noite. Ao contrário de muitos desenvolvedores, meu primeiro contato com código não foi dos melhores, foram horas e horas de estudo pra conseguir entender 1&amp;frasl;3 do que o professor estava tentando ensinar, na época ASP — sim, o ‘clássico’.
+Agora, com 26 anos, posso fazer uma análise interessante do que aconteceu nos últimos 10 anos de software e talvez essa reflexão sirva como norte pra quem está começando ou pra quem está afim de fazer uma troca de ares.</description>
+    </item>
+    
+  </channel>
+</rss>

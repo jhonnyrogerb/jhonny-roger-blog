@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Search Optimization on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/search-optimization/</link>
+    <description>Recent content in Search Optimization on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 08 Sep 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/search-optimization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anotações sobre SEO</title>
+      <link>http://localhost/jhonny-roger/public/anotacoes-seo/</link>
+      <pubDate>Mon, 08 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/anotacoes-seo/</guid>
+      <description>&lt;p&gt;SEO é um assunto bastante interessante porque gira em torno de boatos, mitos e suposições. Na verdade, sabemos pouca coisa sobre o que ajuda ou não na boa colocação dos sites nos sistemas de busca. O engraçado é que esse mistério todo é levantado pelos próprios buscadores. Isso é necessário, sem dúvida. Imagine se qualquer pessoa pudessem fazer dinheiro. A situação é a mesma. Por isso, os buscadores, principalmente o Google, tem seus segredos e divulga apenas o necessário para que possamos fazer um bom trabalho.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Redux on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/redux/</link>
+    <description>Recent content in Redux on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 09 Sep 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/redux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Invertendo o Redux</title>
+      <link>http://localhost/jhonny-roger/public/invertendo-o-redux/</link>
+      <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/invertendo-o-redux/</guid>
+      <description>Introdução &amp;nbsp;
+Já faz um tempo desde que implementei pela primeira vez o Redux. Numa época que só se falava nos frameworks, ele apareceu do nada, pelo menos para mim. Eu já conhecia o Flux, mas ainda não era o que estava procurando. O Redux realmente é uma das melhores idéias que vi, para mim faz todo o sentido e ainda é simples de entender e de se implementar.</description>
+    </item>
+    
+    <item>
+      <title>A arquitetura Redux usando Jails</title>
+      <link>http://localhost/jhonny-roger/public/arquitetura-redux-usando-jails/</link>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/arquitetura-redux-usando-jails/</guid>
+      <description>Ultimamente tenho me preocupado mais com arquiteturas no front-end do que propriamente com as implementações de alguns frameworks. Isso porque eu acho que realmente nos falta um pouco mais de conhecimento sistêmico, mais arquitetural, porque os problemas só estão crescendo e percebi que pelo menos eu não estava acompanhando devidamente a complexidade das aplicações desenvolvidas em Javascript.
+Uma pequena reflexão Os frameworks acabaram aparecendo nos últimos tempos e percebo que tiveram uma importância muito maior do que o nosso amadurecimento quanto aos novos desafios nas aplicações web, especificamente na linguagem Javascript.</description>
+    </item>
+    
+    <item>
+      <title>Introdução ao Redux</title>
+      <link>http://localhost/jhonny-roger/public/bem-vindo-ao-redux/</link>
+      <pubDate>Mon, 04 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/bem-vindo-ao-redux/</guid>
+      <description>Introdução Redux é uma maneira de pensar o desenvolvimento de aplicações criada pelo @dan_abramov que teve como principio optimizar a ideia do Flux. Ela foi criada para tentar optimizar alguns obstáculos que o Flux começou a enfrentar, e também veio para simplificar a implementação do mesmo. Inspirada em conceitos da linguagem funcional Elm, e de algumas bibliotecas JS como o Immutable.js, o Baobab, o RxJs e o próprio Flux, o Redux veio com alguns paradigmas interessantes e um pouco diferenciados do Flux.</description>
+    </item>
+    
+  </channel>
+</rss>

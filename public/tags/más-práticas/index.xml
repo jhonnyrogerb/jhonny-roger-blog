@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Más Práticas on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/m%C3%A1s-pr%C3%A1ticas/</link>
+    <description>Recent content in Más Práticas on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 17 Mar 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/m%C3%A1s-pr%C3%A1ticas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Padrões de UX do mal</title>
+      <link>http://localhost/jhonny-roger/public/padroes-de-ux-mal/</link>
+      <pubDate>Mon, 17 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/padroes-de-ux-mal/</guid>
+      <description>Em um mundo ideal o estudo de experiência do usuário deveria servir para colocar o usuário em primeiro lugar. Mas a ganância desenfreada, a necessidade por conversões desesperadas e em muitos casos simplesmente burrice pode usar este estudo para prejudicar o usuário ao invés de ajudar. Conheça os padrões de UX do mal.
+O lado sombrio da força Falamos muito aqui no Tableless sobre boas práticas de experiência do usuário, criados para que o mundo seja feliz, cheio de arco-íris e interfaces úteis e com curva de aprendizado baixa.</description>
+    </item>
+    
+  </channel>
+</rss>

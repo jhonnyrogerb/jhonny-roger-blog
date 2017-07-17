@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245844">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>O uso de ícones com SVG pode ser usado como uma alternativa mais poderosa, semântica e leve em relação a tradicional técnica de Icon Font.</p>
+
+<p>O artigo abaixo abordará de forma prática o uso de ícones SVG com o uso das seguintes técnicas: SVG (defs, symbol), HTML + CSS + SVG (use). Como diziao Chapolin: &#8220;Sigam-me os bons!&#8221;</p>
+
+<h2 id="obtendo-arquivos-svg">Obtendo arquivos SVG</h2>
+
+<p>O site <a href="http://www.flaticon.com/" title="flaticon">FlatIcon</a> contém alguns ícones gratuitos que podem ser baixados no formato SVG. Para este exemplo serão usados os dois arquivos SVG abaixo para compor o sprite:</p>
+
+<ul>
+<li><a href="http://www.flaticon.com/free-icon/save-disk_13842" title="svg">http://www.flaticon.com/free-icon/save-disk_13842</a></li>
+<li><a href="http://www.flaticon.com/free-icon/download-arrow_64090" title="svg">http://www.flaticon.com/free-icon/download-arrow_64090</a></li>
+</ul>
+
+<p>A figura abaixo mostra o código fonte das duas imagens:</p>
+
+<p><a href="http://tableless.com.br/uploads/2015/05/figura_exemplo_svg_fonte1.png"><img class="alignnone size-full wp-image-49046" src="http://tableless.com.br/uploads/2015/05/figura_exemplo_svg_fonte1.png" alt="figura_exemplo_svg_fonte1" width="1295" height="744" /></a></p>
+
+<p>Percebam que existe muito &#8216;lixo&#8217; nos arquivos gerados pela ferramenta do site mas o que realmente importa é o grupo (&#8216;<g>&#8217;) que contém os polígonos juntamente com a informação de viewBox que está destacada.</p>
+
+<h2 id="montando-arquivo-svg-contendo-sprites">Montando arquivo svg contendo sprites</h2>
+
+<p>Usaremos uma técnica de SVG Symbol, juntamente com o elemento defs, para construir um arquivo SVG contendo sprites de imagens. Quando criamos um elemento <code>&lt;symbol /&gt;</code> podemos reusá-lo mais tarde através do elemento <code>&lt;use /&gt;</code>. O MDN tem mais detalhes sobre esses elementos: <a href="https://developer.mozilla.org/pt-BR/docs/Web/SVG/Element/symbol" title="svg symbol">https://developer.mozilla.org/pt-BR/docs/Web/SVG/Element/symbol</a> e <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Element/defs" title="svg defs">https://developer.mozilla.org/en-US/docs/Web/SVG/Element/defs</a></p>
+
+<p>A figura abaixo mostra a montagem do arquivo de sprites dentro da seguinte estrutura: <code>&lt;svg&gt;&lt;defs&gt;&lt;symbol /&gt;&lt;/defs&gt;&lt;/svg&gt;</code>. Para cada elemento <symbol> devemos atribuir um id juntamente com a viewBox da imagem e transpor os polígonos para dentro do elemento.</p>
+
+<p><a href="http://tableless.com.br/uploads/2015/05/figura_svg_exemplo_fonte2.png"><img class="alignnone size-full wp-image-49051" src="http://tableless.com.br/uploads/2015/05/figura_svg_exemplo_fonte2.png" alt="figura_svg_exemplo_fonte2" width="1033" height="327" /></a> Note que foi retirada a estilização (style) do SVG para que a mesma seja feita via CSS.</p>
+
+<h2 id="usando-ícones-svg-dentro-da-página-html">Usando ícones SVG dentro da página HTML</h2>
+
+<p>Para o uso das imagens dentro do html foi utilizado o elemento <svg> juntamente com o elemento <use> para referenciar o sprite (symbol) contido no arquivo. O atributo role=&#8217;button&#8217; foi utilizado obedecendo a especificação WAI-ARIA para acessibilidade, onde foi utilizado o atributo title para uma pequena descrição do que o button irá fazer.</p>
+
+<p>O tamanho da imagem, juntamente com a cor de preenchimento, foi definida via CSS, sendo que podemos explorar efeitos simples como mudança de cor num evento mouse over, até efeitos complexos através de animações.</p>
+
+<p><a href="http://tableless.com.br/uploads/2015/05/figura_svg_exemplo_fonte3.png"><img class="alignnone size-full wp-image-49053" src="http://tableless.com.br/uploads/2015/05/figura_svg_exemplo_fonte3.png" alt="figura_svg_exemplo_fonte3" width="820" height="538" /></a></p>
+
+<h2 id="resultado-final">Resultado final</h2>
+
+<p>Este exemplo foi testado com Chrome e Firefox. O Internet Explorer não suporta nativamente (tinha que ser&#8230;) o uso do elemento <use> para arquivos externos(veja <a href="http://caniuse.com/#feat=svg" title="caniuse">http://caniuse.com/#feat=svg</a>), sendo necessário o uso de polyfill (veja <a href="https://github.com/jonathantneal/svg4everybody" title="polyfill ie">https://github.com/jonathantneal/svg4everybody</a>).</p>
+
+<p>Para quem quiser se aprofundar neste assunto não deixem de ler o seguinte artigo: <a href="http://sarasoueidan.com/blog/structuring-grouping-referencing-in-svg/">http://sarasoueidan.com/blog/structuring-grouping-referencing-in-svg/</a></p>
+
+<p>A figura abaixo mostra o resultado final.</p>
+
+<p><a href="http://tableless.com.br/uploads/2015/05/figura_svg_exemplo_fonte4.png"><img class="alignnone size-full wp-image-49055" src="http://tableless.com.br/uploads/2015/05/figura_svg_exemplo_fonte4.png" alt="figura_svg_exemplo_fonte4" width="1292" height="447" /></a></p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/o-basico-sobre-sparql-turtle//?utm_source=tablelessRelatedLin">O básico sobre Sparql e Turtle</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/paginas_acessiveis_hatemile//?utm_source=tablelessRelatedLin">Páginas acessíveis com o HaTeMiLe</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245845"></script>

@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245861">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>A usabilidade é uma qualidade das interfaces que caracteriza a facilidade de uso. Várias diretrizes sobre usabilidade de interfaces web foram desenvolvidas ao longo dos últimos 15 anos e o interesse em proporcionar interfaces de fácil utilização tem crescido entre designers e desenvolvedores.</p>
+
+<p>Entre as várias diretrizes de usabilidade, os princípios convergem para a seguinte tríade:</p>
+
+<ul>
+<li><strong>Fácil de usar:</strong> o uso da interface deve ser intuitivo, com recursos de fácil reconhecimento e elementos que não dificultem a navegação, leitura, interpretação, clique, etc.</li>
+<li><strong>Fácil de aprender:</strong> uso de termos, ícones, padrões de interface e recursos de ajuda que possibilitem novos usuários reconhecer e facilmente aprender como utilizar a interface. Consistência é fundamental neste quesito.</li>
+<li><strong>Fazer com que o usuário não cometa erros:</strong> neste quesito entram entram dicas, ajuda, validação, boas mensagens de erro e outros recursos que possam prevenir a ocorrência de erros e ajudar o usuário na correção dos mesmos.</li>
+</ul>
+
+<p>Mas, na prática, como podemos implementar estes princípios? Neste artigo apresento algumas dicas simples de usabilidade que podemos praticar efetivamente durante o rotina de desenvolvimento do HTML e do CSS.</p>
+
+<h3 id="facilitando-a-leitura-com-line-height">Facilitando a leitura com line-height</h3>
+
+<p>Um espaçamento adequado entre linhas permite que as pessoas possam ler um texto com maior facilidade e mais rapidamente. O espaçamento não pode ser muito reduzido, pois pode deixar o texto &#8220;amontoado&#8221;, nem muito extenso, caso contrário as pessoas terão dificuldade de encontrar a próxima linha.</p>
+
+<p>Particularmente recomendo utilizar espaçamento de 1.5 relativo ao tamanho da fonte, ou seja, se você utilizar fonte de 12px, o espaçamento entre as linhas será de 18px. No CSS, controlamos o espaçamento entre linhas com o <code>line-height</code>.</p>
+
+<h3 id="utilize-margins-e-paddings-para-distinguir-itens">Utilize margins e paddings para distinguir itens</h3>
+
+<p>Espaços em branco entre os elementos da página podem ser usado a favor da usabilidade e também da arquitetura de informação do seu site. Creio que muitos já devem ter passado pela situação de alguém falar o seguinte a respeito de um site que você fez: &#8220;Ah, mas esse conteúdo X não tem a ver com o Y? É porque estava tudo junto então achei que tinha a ver&#8221;.</p>
+
+<p>Os espaços entre itens permite identificar quais elementos estão relacionados e quais são distintos. Portanto, utilize <code>margin</code> e/ou <code>padding</code> mais generosas para afastar elementos que sejam distintos e aproxime os elementos que estejam relacionados, evitando erros de interpretação e mesmo de utilização de alguns recursos presentes na página. Isto serve principalmente para:</p>
+
+<ul>
+<li>Estabelecer relação entre títulos e texto</li>
+<li>Identificar rótulo de formulário e o campo a qual ele se refere</li>
+<li>Imagens e o respectivo conteúdo textual</li>
+<li>Páginas que tenham múltiplos formulários ou outros recursos com botões de ação que possam fazer com que o usuário clique em um determinado botão pensando ser relativo a outro recurso</li>
+</ul>
+
+<h3 id="o-logo-deve-ser-clicável">O logo deve ser clicável</h3>
+
+<p>Por uma convenção que foi sendo consolidada ao longo do anos, os usuários tendem a clicar no logotipo para retornar à página inicial e é frustrante quando isso não ocorre, pois já é uma ação que o usuário espera ao clicar no logo. Independente do logo ser uma imagem ou um background dentro de uma outra tag, deve-se colocar um link para a página inicial do site.</p>
+
+<h3 id="textos-que-não-são-links-não-devem-ser-sublinhados">Textos que não são links não devem ser sublinhados</h3>
+
+<p>Atualmente, nem todo link precisa estar sublinhado para transmitir a ideia de link, mas todo texto sublinhado ainda transmite a ideia de link. É intuitivo o usuário clicar em uma palavra sublinhada esperando acessar uma página (imagine então se, além de sublinhado, o texto estiver em azul, como já vi em alguns lugares). Portanto, é aconselhável que, para dar ênfase em palavras nos textos, sejam utilizadas as tags <code>strong</code>, <code>em</code> que já têm essa função.</p>
+
+<h3 id="atributos-8220-alt-8221-e-8220-title-8221-para-imagens">Atributos &#8220;alt&#8221; e &#8220;title&#8221; para imagens</h3>
+
+<p>O atributo <code>alt</code> para a tag <code>img</code> tem a função de fornececer um texto alternativo caso a imagem não seja carregada ou caso um browser leitor de tela esteja analisando o conteúdo da página. Por isso, é importante que este texto tenha uma boa descrição sobre o conteúdo da imagem. Mas em algumas imagens é interessante que ela não somente tenha um texto alternativo, mas que também exiba uma dica descritiva da imagem ao passar o mouse sobre ela. Isto é muito útil, por exemplo, ao utilizar ícones que indiquem ações, status ou representem link para algum conteúdo sem o uso de um texto descritivo junto à imagem. Para isso, podemos utilizar o atributo <code>title</code> do HTML.</p>
+
+<h3 id="associando-label-à-campos-de-formulário">Associando label à campos de formulário</h3>
+
+<p>A tag <code>label</code> serve para associar um rótulo a um campo de formulário. Mas muitos desenvolvedores esquecem de realizar essa associação através do atributo <code>for</code>, que deve remeter ao <code>id</code> do campo de formulário.</p>
+
+<p>A principal vantagem dessa associação é permitir que o usuário selecione o campo do formulário ao clicar no <code>label</code>, o que facilita muito especialmente no caso de campos do tipo <code>checkbox</code> ou <code>radio</code>, pois aumenta a região clicável, ajuda diminuir o tempo e a chance de erros para selecionar estes campos.</p>
+
+<h3 id="destaque-o-campo-ativo-do-formulário-com-focus">Destaque o campo ativo do formulário com :focus</h3>
+
+<p>Quando um usuário estiver preenchendo um formulário, ele deve perceber claramente em qual campo está inserindo os dados, pois somente mostrar o cursor dentro do campo pode não ser suficiente.</p>
+
+<p>Para isso, pode-se utilizar a pseudo-classe <code>:focus</code> no CSS para o seletor de <code>input</code>, que possibilita aplicar um estilo ao elemento quando ele recebe foco para receber dados do teclado, como uma borda mais espessa ou de outra cor e um background diferenciado, como no exemplo abaixo:</p>
+
+<pre lang="css">/* Campos no estado normal possuem um background neutro e uma borda clara */
+input.text, select, textarea
+{ background: #FFF; border: 1px solid #999; }
+
+/* Campos no estado :focus possuem um background diferenciado e uma borda de maior destaque */
+input.text:focus, select:focus, textarea:focus
+{ background: #FFC; border: 2px solid #D8A561; }</pre>
+
+<p>A usabilidade possui muitos outros critérios a serem trabalhados durante todo o processo de desenvolvimento de uma interface para a web, mas no dia-a-dia podemos melhorar a experiência do usuário através de pequenos detalhes.</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/o-basico-sobre-sparql-turtle//?utm_source=tablelessRelatedLin">O básico sobre Sparql e Turtle</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/paginas_acessiveis_hatemile//?utm_source=tablelessRelatedLin">Páginas acessíveis com o HaTeMiLe</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245861"></script>

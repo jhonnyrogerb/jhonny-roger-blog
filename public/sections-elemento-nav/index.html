@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245861">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      <p>Se você não leu o <a href="http://tableless.com.br/sections-html5">primeiro artigo da série</a>, é interessante que o faça agora.</p>
+
+<p>O elemento <code>nav</code> representa uma seção da página que contém link para outras páginas ou partes do mesmo website. Resumindo: <code>nav</code> é uma seção de links de navegação.</p>
+
+<p>Essa definição é muito mais complexa do que se imagina. A tag <code>nav</code> pode agrupar uma série de elementos que anteriormente faríamos com <code>div</code>. Nem todos os grupos de links da página precisam ser um elemento <code>nav</code>, mas apenas as seções que consitem em blocos principais. Imagine uma sidebar (agora descrito com a tag <code>aside</code>) com uma série de links, como por exemplo uma sidebar de um portal como o G1, R7, UOL e etc&#8230; Nestas sidebars é normal você encontrar os diversos links das diversas categorias de assuntos. Anteriormente, se quiséssemos agrupar por exemplo um Título e uma lista de links faríamos assim:</p>
+
+<pre class="lang-html">&lt;div class="categ categ-esporte"&gt;
+  &lt;h3&gt;Esporte&lt;/h3&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="#"&gt;Copa 2014&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="#"&gt;Brasileir&atilde;o&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="#"&gt;F&oacute;rmula 1&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="#"&gt;Baskete&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+</pre>
+
+<p>Resolvia nosso problema de formatação. Poderíamos utilizar <code>div</code> que envolve o título e a lista para fazer algum detalhe visual e etc. Mas a nível de informação, não havia nenhuma indicação de que o título estivesse ligado ao conteúdo. Não há nenhuma referência de que o título ESPORTE apresenta a lista de links sobre esporte abaixo. Os sistemas de busca não podem se basear apenas na posição dos elementos, é algo muito genérico para eles confirmarem que a lista e o título que a precede estão ligados em um mesmo assunto.</p>
+
+<p>Com o HTML5, isso muda. Veja o código abaixo:</p>
+
+<pre class="lang-html">&lt;nav class="categ categ-esporte"&gt;
+  &lt;h3&gt;Esporte&lt;/h3&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="#"&gt;Copa 2014&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="#"&gt;Brasileir&atilde;o&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="#"&gt;F&oacute;rmula 1&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="#"&gt;Baskete&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+</pre>
+
+<p>Com a tag <code>nav</code>, há uma indicação de que aquele grupo é uma seção (<code>nav</code> é um tipo de <code>section</code>. Enquanto a tag <code>section</code> serve para indicar seções no site, a tag <code>nav</code> indica que um determinado grupo é uma seção de navegação) é um bloco de navegação.</p>
+
+<p>Dentro da <code>nav</code> você pode agrupar uma série de listas de links.</p>
+
+<pre class="lang-html">&lt;nav&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="#"&gt;Copa 2014&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="#"&gt;Brasileir&atilde;o&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="#"&gt;F&oacute;rmula 1&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="#"&gt;Baskete&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="#"&gt;Educa&ccedil;&atilde;o&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="#"&gt;Dicion&aacute;rios&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="#"&gt;Vestibular&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="#"&gt;Cotidiano&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="#"&gt;Pol&iacute;tica&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="#"&gt;Jornais&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+</pre>
+
+<p>A tag <code>nav</code> também pode estar em todos os elementos do HTML. Você pode colocá-la no <code>header</code> para definir menus, no <code>footer</code> para definir grupos de links, sidebars, articles e etc.</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/indo-alem-no-react-native//?utm_source=tablelessRelatedLin">Indo além no Mundo React-Native</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/seu-primeiro-bot-para-o-telegram//?utm_source=tablelessRelatedLin">Seu primeiro bot para o Telegram</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245861"></script>

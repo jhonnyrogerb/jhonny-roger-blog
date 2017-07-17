@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uploads on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/uploads/</link>
+    <description>Recent content in Uploads on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 12 Nov 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/uploads/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Upload de Arquivos com a Upin</title>
+      <link>http://localhost/jhonny-roger/public/upload-de-arquivos-com-upin/</link>
+      <pubDate>Sat, 12 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/upload-de-arquivos-com-upin/</guid>
+      <description>A Upin é uma biblioteca para manipulação de arquivos em PHP Orientado a Objetos, que visa facilitar a vida de programadores iniciantes ou até profissionais. Afinal, tempo é dinheiro não é mesmo?
+Para começar você deve baixar a versão mais atualizada da biblioteca nesta página.
+Após ter realizado o download da biblioteca copie a pasta class para dentro do diretório do seu projeto.
+Agora, com os arquivos da biblioteca em seu projeto, você deverá criar um formulário de upload semelhante ao abaixo:</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Módulos on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/m%C3%B3dulos/</link>
+    <description>Recent content in Módulos on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 12 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/m%C3%B3dulos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gerenciando módulos no TypeScript</title>
+      <link>http://localhost/jhonny-roger/public/gerenciando-modulos-no-typescript/</link>
+      <pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/gerenciando-modulos-no-typescript/</guid>
+      <description>Como vimos no artigo anterior, com TypeScript podemos programar de forma orientada a objetos, criando classes, interfaces, get/set etc, e compilar tudo isso para JavaScript. Neste artigo veremos como criar módulos e separar classes e funcionalidades em arquivos distintos, de forma a tornar o nosso projeto mais organizado.
+ Para instalar o TypeScript, você precisa ter o Node.js, juntamente com o NPM. Execute o comando npm install typescript -g</description>
+    </item>
+    
+  </channel>
+</rss>

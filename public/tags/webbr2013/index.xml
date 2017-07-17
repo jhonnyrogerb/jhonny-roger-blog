@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Webbr2013 on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/webbr2013/</link>
+    <description>Recent content in Webbr2013 on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 20 Nov 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/webbr2013/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Conferência W3C Web.br 2013 – Dia 1</title>
+      <link>http://localhost/jhonny-roger/public/conferencia-w3c-webbr-2013-primeiro-dia/</link>
+      <pubDate>Wed, 20 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/conferencia-w3c-webbr-2013-primeiro-dia/</guid>
+      <description>Na segunda-feira 19 de novembro tive o prazer de acompanhar de perto a Conferência Web W3C Brasil. O evento, realizado no centro de convenções Rebouças em São Paulo contou com a presença de grandes especialistas web do Brasil e do mundo. Foram dois dias repletos de palestras, debates, cafézinhos, networking, premiações, bons conselhos e muito conhecimento. Se você esteva lá também, parabéns! Aposto que aprendeu alguma coisa nova. Se não foi, não tem problema!</description>
+    </item>
+    
+  </channel>
+</rss>

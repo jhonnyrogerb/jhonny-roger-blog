@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Athos Bonner on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/athos-bonner/</link>
+    <description>Recent content in Athos Bonner on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 06 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/athos-bonner/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Scrum Master e sua essência.</title>
+      <link>http://localhost/jhonny-roger/public/scrum-master-e-sua-essencia/</link>
+      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/scrum-master-e-sua-essencia/</guid>
+      <description>O papel do Scrum Master vai muito além de um simples ator de uma metodologia que pode ser aplicada em empresas, ele tem um papel fundamental no processo do dia a dia do Scrum.
+Um cara chamado Jeff Sutherland quando estava na sua primeira equipe de desenvolvimento tentando encontrar uma forma melhor de entregar softwares, ainda criando os papeis de uma metodologia revolucionária, todos os dias ele mostrava para sua equipe um vídeo de um time de rúgbi da Nova Zelândia chamado All Blacks se preparando para enfrentar um adversário, antes do confronto eles realizam um ritual chamado de haka, é uma apresentação fantástica e contagiante.</description>
+    </item>
+    
+  </channel>
+</rss>

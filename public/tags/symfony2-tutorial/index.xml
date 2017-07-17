@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Symfony2 Tutorial on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/symfony2-tutorial/</link>
+    <description>Recent content in Symfony2 Tutorial on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 09 Feb 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/symfony2-tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Iniciando com Symfony 2 – Parte 02</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-02/</link>
+      <pubDate>Mon, 09 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-02/</guid>
+      <description>Depois de já instalado o Symfony 2, como postado no artigo anterior que escrevi, vamos avançar nosso processo criando um simples blog.
+É claro que o Symfony é para projetos maiores, mas para efeito de didática, achei um bom começo, espero que gostem.
+Bundle o coração do symfony O Symfony trabalha com bundle (pacote), que é um conjunto de códigos que pode ser reutilizado em outros projetos. Simplificando: são componentes prontos, que facilitam nossa vida na hora de desenvolver.</description>
+    </item>
+    
+  </channel>
+</rss>

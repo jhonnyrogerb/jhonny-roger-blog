@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Doctype on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/doctype/</link>
+    <description>Recent content in Doctype on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 06 Dec 2007 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/doctype/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Escrevendo um XHTML válido</title>
+      <link>http://localhost/jhonny-roger/public/escrevendo-um-xhtml-valido/</link>
+      <pubDate>Thu, 06 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/escrevendo-um-xhtml-valido/</guid>
+      <description>Acho que todos já ouviram falar de Web Semântica, para quem não ouviu, em poucas palavras é: Um projeto para organizar e estruturar a informação da WEB.
+Ter uma Web com as suas informações todas &amp;#8220;organizadas&amp;#8221; é extremamente importante, isso facilita uma busca pela Web por informações mais precisas.
+Para que seu arquivo possa ser lido por máquinas além de humanos é muito importante que você escreva um XHTML válido, com isso você está fazendo com que as informações do seu site fique mais acessível para as buscas, contribuindo para o projeto e principalmente melhorando as visitas do seu site.</description>
+    </item>
+    
+  </channel>
+</rss>

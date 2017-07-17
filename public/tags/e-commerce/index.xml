@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E Commerce on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/e-commerce/</link>
+    <description>Recent content in E Commerce on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 02 Mar 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/e-commerce/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introdução ao Magento</title>
+      <link>http://localhost/jhonny-roger/public/introducao-ao-magento/</link>
+      <pubDate>Mon, 02 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-ao-magento/</guid>
+      <description>O que é? O Magento é uma plataforma open source online focada em comércio eletrônico (e-commerce), e possui diversas ferramentas para facilitar a forma e otimizar a atuação de uma loja virtual. Conta com uma série de módulos customizáveis, flexíveis e dinâmicos que podem ser alterados de acordo com a necessidade da loja que o utiliza.O Magento pode suprir a necessidade de diversos tipos de e-commerce, sem apresentar falhas devido ao fluxo de usuários, graças a sua estabilidade e estrutura que pode ser escalada ou alterada se necessário.</description>
+    </item>
+    
+    <item>
+      <title>Carrinho de compras com drag and drop</title>
+      <link>http://localhost/jhonny-roger/public/carrinho-de-compras-com-drag-and-drop/</link>
+      <pubDate>Thu, 13 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/carrinho-de-compras-com-drag-and-drop/</guid>
+      <description>Se você comprou alguma coisa recentemente no Submarino deve ter notado uma nova opção na interface do site: agora é possível arrastar os produtos exibidos na página para o seu carrinho, que fica exibido de forma permanente no topo do site.
+De uma forma simples, vou tentar mostrar pra vocês como implementar uma solução parecida utilizando jQuery e sua biblioteca para interfaces, a jQuery UI &amp;#8211; é nela que encontramos os plugins draggable() e droppable(), responsáveis, como os nomes sugerem, por toda nossa operação de arrastar e soltar produtos.</description>
+    </item>
+    
+  </channel>
+</rss>

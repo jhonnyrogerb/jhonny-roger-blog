@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245853">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>Existem duas maneiras de criar objetos JavaScript e muita gente as confunde ou acha que são a mesma coisa. No entanto, Objetos Literais e Funções Construtoras são conceitos bem diferentes e entendê-los vai fazer com que você tire melhor proveito da linguagem.</p>
+
+<h2 id="objetos-literais">Objetos Literais</h2>
+
+<p>Este é o tipo básico de objetos JavaScript. É o formato popularizado através do JSON (JavaScript Object Notation). O objeto é criado utilizando um par de chaves ({}) e suas propriedades e métodos são todos públicos. Este tipo de objeto também é chamado de objeto estático.</p>
+
+<pre class="lang-javascript">var tableless = {
+    init: function (artigos) {
+        this.artigos = artigos;
+    }
+};
+var tableless2 = tableless;</pre>
+
+<p>Todo objeto literal é um objeto único e, mesmo que você armazene ele em diferentes variáveis todas apontarão para o mesmo objeto. No exemplo acima, caso você altere/adicione propriedades em qualquer uma das variáveis (tableless ou tableless2), as modificações valem para ambas.</p>
+
+<p>Seu uso é recomendado em situações onde não podem existir mais de uma instância do objeto, como por exemplo, objetos de configurações do projeto ou coleções de objetos. Além disso, este tipo de notação é muito utilizado para definir o <em>namespace</em> do seu código JavaScript.</p>
+
+<pre class="lang-javascript">// Objeto Literal definindo namespace
+var tableless = tableless || {};
+// Construtor para Artigo utilizando o namespace tableless
+tableless.Artigo = function (titulo) {
+    this.titulo = titulo;
+};
+var artigo = new tableless.Artigo('Mais um artigo sobre JavaScript');</pre>
+
+<h2 id="construtores">Construtores</h2>
+
+<p>Um construtor nada mais é do que uma função. Ela pode ser executada como uma função ou pode ser utilizada para instanciar um objeto utilizando a palavra reservada <em>new</em>.</p>
+
+<p>(Caso você execute a função como uma chamada normal, vale realçar que o <strong>this</strong> dentro da função, nesse contexto, será o objeto global <strong>window</strong>.)</p>
+
+<pre class="lang-javascript">function Categoria(nome) {
+    this.nome = nome;
+}
+
+var categoria = new Categoria('Livros');</pre>
+
+<p>Ao executar a função Categoria com <strong>new</strong> estamos fazendo quatro coisas:</p>
+
+<ol>
+<li>criamos um novo objeto JavaScript ({});</li>
+<li>definimos o construtor do objeto <strong>categoria</strong> como <strong>Categoria</strong> &#8211; definindo também o tipo dele (retornado no instanceof);</li>
+<li>definimos o protótipo do objeto <strong>categoria</strong> como <strong>Categoria.prototype</strong>;</li>
+<li>executamos a função <strong>Categoria</strong> dentro do escopo do novo objeto, criando assim uma nova instância.</li>
+</ol>
+
+<p>Uma outra particularidade das funções construtoras é a possibilidade de criar métodos e propriedades privadas.</p>
+
+<pre class="lang-javascript">function Categoria(nome) {
+    var totalProdutos = 0,
+        self = this,
+        atualizaTotalProdutos = function() {
+            self.totalProdutos += 1;
+        };
+    this.nome = nome;
+    atualizaTotalProdutos();
+}</pre>
+
+<p>A variável <strong>totalProdutos</strong> e o método <strong>atualizaTotalProdutos</strong> só existem no escopo do objeto Categoria criado e podem ser utilizados apenas por métodos do objeto.</p>
+
+<p>Aqui utilizamos um &#8220;truque&#8221; importante. Como cada função possui o seu próprio contexto e o <strong>this</strong> dentro do método <strong>atualizaTotalProdutos</strong> referencia a própria função e não o objeto Categoria precisamos armazenar o contexto do objeto dentro da variável <strong>self</strong>. (Outra forma seria utilizar os métodos <strong>call</strong> e <strong>aply</strong> para definir o <strong>this</strong> da função, mas isso é papo para outro artigo.)</p>
+
+<p>Utilizando a cadeia de protótipos, podemos atualizar propriedades ou inserir novos métodos em objetos criados a partir de funções construtoras.</p>
+
+<pre class="lang-javascript">Categoria.prototype.exibeProdutos = function () {
+    var html = '',
+        i;
+    for (i = 0; i &lt; this.produtos.length; i++) {
+        html += this.produtos[i].nome;
+    }
+    return html;
+};</pre>
+
+<p>O código acima adiciona o método <strong>exibeProdutos</strong> ao protótipo de Categoria e também a todos os objetos da cadeia, instanciados ou não.</p>
+
+<p>As funções construtoras, portanto, são ideais para objetos que podem existir como múltiplas instâncias no mesmo contexto.</p>
+
+<p>Uma observação: para melhor organizar seu código uma boa prática é utilizar a primeira letra maiúscula nos nomes de funções construtoras, diferenciando-as de funções comuns.</p>
+
+<p>&#8212;</p>
+
+<p>Entender conceitos de orientação a objetos em JavaScript pode levar um pouco de tempo e pode parecer bem estranho no início. Mas, uma vez entendido o funcionamento desses conceitos você descobrirá que é possível fazer diversas coisas legais e diferentes e que JavaScript é uma linguagem extremamente flexível.</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/indo-alem-no-react-native//?utm_source=tablelessRelatedLin">Indo além no Mundo React-Native</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/seu-primeiro-bot-para-o-telegram//?utm_source=tablelessRelatedLin">Seu primeiro bot para o Telegram</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245853"></script>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Googlemaps on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/googlemaps/</link>
+    <description>Recent content in Googlemaps on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 07 May 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/googlemaps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Utilizando o MarkerClusterer no Google Maps</title>
+      <link>http://localhost/jhonny-roger/public/utilizando-o-markerclusterer-google-maps/</link>
+      <pubDate>Wed, 07 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/utilizando-o-markerclusterer-google-maps/</guid>
+      <description>Seja você desenvolvedor ou não, temos que admitir o poder do Google Maps. É bem difícil encontrar alguém hoje em dia que não tenha acessado pelo menos uma vez o famoso Maps para ver onde ficava um determinado lugar.
+Esses dias me deparei novamente com o excelente artigo do Thulio Philipe sobre a API do Google Maps V3 e resolvi escrever um pouco sobre um recurso chamado MarkerClusterer.
+O que é o MarkerClusterer?</description>
+    </item>
+    
+    <item>
+      <title>API Google Maps V3</title>
+      <link>http://localhost/jhonny-roger/public/api-google-maps-v3/</link>
+      <pubDate>Fri, 10 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/api-google-maps-v3/</guid>
+      <description>Neste post irei falar um pouco sobre a API Google Maps V3, que sofreu atualizações e veio com algumas melhorias e recursos adicionais para dispositivos móveis e desktops.
+No último projeto que participei, o designer incluiu no layout um mapa com width: 100%. Até ai nada demais, não é? Fui no Google Maps, digitei o endereço do local e incorporei o mapa ao meu projeto com aquele iframe lindo cheio de tags inúteis.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Versionamento on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/versionamento/</link>
+    <description>Recent content in Versionamento on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 26 Nov 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/versionamento/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Git com Interface Gráfica</title>
+      <link>http://localhost/jhonny-roger/public/git-com-interface-grafica/</link>
+      <pubDate>Mon, 26 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/git-com-interface-grafica/</guid>
+      <description>Você deve não gostar de usar Git no terminal do windows, mac ou linux. As vezes você faz muitas alterações e é chato você parar a todo momento para commitar alterações separadas. Prejudica o fluxo do seu trabalho e você acabada perdendo o foco. Por isso as vezes é interessante você usar uma interface mais humana para facilitar as coisas. No site do Git tem indicações interessantes para você poder baixar e utilizar o Git de um jeito mais confortável.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando no GIT – Parte 2</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-no-git-parte-2/</link>
+      <pubDate>Thu, 22 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-no-git-parte-2/</guid>
+      <description>Já leu a primeira parte desse artigo?
+No primeiro artigo aprendemos sobre como funciona o Git, como iniciar um projeto e como inserimos os arquivos que serão controlados pelo sistema.
+Status Antes de tudo você precisa entender em qual status os arquivos se encontram. Você pode modificar um arquivo, mas não commita-lo. Veja abaixo uma imagem direto do site do Git que mostra os diversos status dos arquivos.
+Você já clonou ou iniciou seu projeto no Git e agora vai fazer modificações nos arquivos e enviar essas modificações para o repositório.</description>
+    </item>
+    
+  </channel>
+</rss>

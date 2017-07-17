@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ghost on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/ghost/</link>
+    <description>Recent content in Ghost on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 20 Mar 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/ghost/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ghost – A simples e perfeita plataforma para publicações</title>
+      <link>http://localhost/jhonny-roger/public/ghost-simples-e-perfeita-plataforma-para-publicacoes/</link>
+      <pubDate>Thu, 20 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ghost-simples-e-perfeita-plataforma-para-publicacoes/</guid>
+      <description>Descobrir novas plataformas é um barato pra mim. Estar envolvido no que aparece de novo na internet é algo simplesmente prazeroso. Ideias de outras pessoas me impressionam, até quando parece ser algo tão simples, mas, por ser tão simples, é que é especial.
+Caros amigos e amigas, venho lhes apresentar a nova (não tão nova assim) plataforma para blogging/publicações na web: Ghost.
+Ghost, simplificando o que há de complicado.</description>
+    </item>
+    
+  </channel>
+</rss>

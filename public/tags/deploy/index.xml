@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deploy on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/deploy/</link>
+    <description>Recent content in Deploy on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 19 Nov 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/deploy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Usando GIT para atualizar arquivos no servidor de hospedagem II – Final</title>
+      <link>http://localhost/jhonny-roger/public/usando-git-para-atualizar-arquivos-no-servidor-de-hospedagem-ii-final/</link>
+      <pubDate>Thu, 19 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/usando-git-para-atualizar-arquivos-no-servidor-de-hospedagem-ii-final/</guid>
+      <description>Esta é a segunda e última parte do artigo que explica como fazer um esquema simples para deploy automático usando GIT + Bitbucket
+A mesma configuração pode ser usada em qualquer servidor GIT e qualquer serviço de hospedagem que tenha acesso via ssh e git instalado
+Se você ainda não leu a primeira parte, segue o link: http://tableless.com.br/usando-git-para-atualizar-arquivos-no-servidor-de-hospedagem
+No artigo anterior, criamos as chaves SSH para autenticação no Bitbucket, criamos um repositório GIT e manualmente executamos o comando | git pull | para atualizar o nosso repositório.</description>
+    </item>
+    
+  </channel>
+</rss>

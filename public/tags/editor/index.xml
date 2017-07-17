@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Editor on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/editor/</link>
+    <description>Recent content in Editor on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 26 Oct 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/editor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Configurando o Sublime Text para escrever textos em MarkDown</title>
+      <link>http://localhost/jhonny-roger/public/configurando-o-sublime-text-para-escrever-textos-em-markdown/</link>
+      <pubDate>Mon, 26 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/configurando-o-sublime-text-para-escrever-textos-em-markdown/</guid>
+      <description>Neste artigo aprenderemos como configurar alguns plugins para o Sublime Text 2, para que você possa ter uma melhor experiência ao escrever textos em português com a linguagem de marcação de texto MarkDown, muito comum na criação de livros, artigos, tutoriais, e claro, dos arquivos README.md do GitHub.
+Instalando o Sublime Text 2 Você ainda não usou o Sublime Text? Eu duvido! Mas se não usou, aqui está a receita para a sua instalação:</description>
+    </item>
+    
+    <item>
+      <title>Editor Vim – Encontrar e Substituir</title>
+      <link>http://localhost/jhonny-roger/public/editor-vim-encontrar-e-substituir/</link>
+      <pubDate>Tue, 03 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/editor-vim-encontrar-e-substituir/</guid>
+      <description>Quem nunca precisou acessar o servidor de um cliente via SSH para resolver um problema de última hora? Um parâmetro errado, uma vírgula faltando pode comprometer a execução de um código.
+Quando se tem apenas a tela preta do terminal, é preciso ter conhecimento de alguns comandos muito úteis que podem te ajudar a resolver um problema rapidamente, principalmente se você não tem um computador disponível, podendo também resolver o problema até pelo celular com qualquer App de conexão SSH.</description>
+    </item>
+    
+    <item>
+      <title>Atom: o novo editor by Github</title>
+      <link>http://localhost/jhonny-roger/public/atom-o-novo-editor-github/</link>
+      <pubDate>Thu, 27 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/atom-o-novo-editor-github/</guid>
+      <description>É quase impossível não comparar o Atom com o Sublime. O Sublime cravou um padrão com seus shortcuts, sua interface e sua coleção de comandos que é muito difícil ignorar. O Atom tem a cara do Sublime. Diferente do Brackets, que é bem diferente tanto na interface quanto nos shortcuts. Estou usando o Brackets para algumas coisas e estou gostando bastante. Mas a curva de aprendizado, quando acostumado com o Sublime, é muito grande.</description>
+    </item>
+    
+  </channel>
+</rss>

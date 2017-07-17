@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Campusonline on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/campusonline/</link>
+    <description>Recent content in Campusonline on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 13 Nov 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/campusonline/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Video tutorial – Implementando HTML</title>
+      <link>http://localhost/jhonny-roger/public/video-tutorial-implementando-html/</link>
+      <pubDate>Thu, 13 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/video-tutorial-implementando-html/</guid>
+      <description>&lt;p&gt;Utilizamos esse layout como exercício nos &lt;a href=&#34;http://visie.com.br/treinamento/&#34;&gt;cursos da Visie&lt;/a&gt;. Dependendo do nível do pessoal, utilizamos outros layouts. Mas esse é um que o pessoal normalmente costuma escolher. É um bom exercício porque utiliza as principais propriedades do CSS.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245841">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>No artigo <a href="http://tableless.com.br/iniciando-com-o-docker-dicas-praticas-para-comecar-usar-agora-mesmo/" target="_blank">anterior</a>, eu descrevi alguns comandos básicos e como iniciar com o pé direito no mundo do <strong>Docker</strong>, trazendo de forma direta alguns conceitos que com o passar do tempo se tornaram fundamentais no meu fluxo de desenvolvimento.</p>
+
+<p>Hoje eu quero partir um pouco mais para o lado prático da coisa, vamos construir uma imagem para encapsular uma pequena aplicação em <strong>GO</strong>.</p>
+
+<h2 id="primeiros-passos">Primeiros passos</h2>
+
+<p>O arquivo de manifesto do Docker é o Dockerfile, nele você coloca as instruções de como você quer que sua imagem seja construída. Você pode na construção da imagem setar outro arquivo com o parâmetro -f.</p>
+
+<p>Abaixo temos um exemplo de Dockerfile, esse é um exemplo de um app em go já compilado para ubuntu então eu só preciso copiar o arquivo executável elasticpush para dentro do docker:</p>
+
+<pre class="lang-bash">FROM debian:jessie
+RUN mkdir /app
+ENV ACCESS_TOKEN abc
+ENV SECRET_TOKEN xyz
+COPY ./bin/elasticpush /app/elasticpush
+ENTRYPOINT [“/app/elasticpush”]
+</pre>
+
+<p>Detalhando os comandos utilizados:</p>
+
+<p><strong>FROM</strong>: Este é o comando mais importante, pois ele especifica a imagem base para a construção de uma nova. Na maioria das vezes a imagem especificada vai ser uma distribuição linux, se essa imagem não for encontrada na máquina local, o docker tentará buscar em algum repository. Caso queira, por exemplo, fazer a build do seu app em GO dentro do container, você vai precisar de uma imagem que tenha o GO instalado e configurado. Outra forma também seria criar diversas instruções com o comando <em>RUN</em> para fazer essa instalação.</p>
+
+<p><strong>RUN</strong>: Esse comando serve para executar outros comandos que a versão do sistema operacional permite. Por exemplo, se for debian vc pode instalar pacotes com apt-get, se for CentOS você pode utilizar o yum para pegar as dependências que seu serviço precisa para rodar. Com o RUN você também pode criar arquivos, pastas, enfim acho que deu pra entender que ele executa os mesmo comando do que você executaria na sua máquina, logo você consegue fazer praticamente tudo, e deixar a sequência de comandos versionada aqui dentro.</p>
+
+<p><strong>ENV</strong>: Serve para você setar variáveis de ambiente, você pode tanto deixar essas variáveis setadas de forma fixa dentro do Dockerfile quanto passá-las dinamicamente na hora que você instanciar o container. Para passar essas variáveis de ambiente na instanciação do container basta usar o parâmetro -e.</p>
+
+<p>Exemplo: _docker run -e ACCESS<em>TOKEN=abcd [nome da imagem]</em>.</p>
+
+<p><strong>COPY</strong>: O COPY serve para você poder copiar arquivos e pastas para dentro da imagem do Docker, nesse exemplo eu copiei o arquivo elasticpush que estava dentro da pasta bin na minha máquina local para dentro da pasta /app na imagem do docker.</p>
+
+<p><strong>ENTRYPOINT</strong>: Com esse parâmetro você pode setar se quer que algo seja executado na hora da instanciação do container. Então, quando você der um <em>docker run</em> nessa imagem, ela já vai instanciar e executar o programa que está no caminho que você colocar entre colchetes. No nosso caso queremos que essa imagem execute nossa aplicação do Elasticpush, o mesmo vale para quaisquer outros serviços como Redis, Elasticsearch, Nodejs, etc&#8230;</p>
+
+<h2 id="build-8211-construíndo-a-imagem">Build &#8211; Construíndo a imagem</h2>
+
+<p>A essa altura provavelmente você já tem o Docker instalado na sua máquina, caso contrário ensinamos a fazer isso nesse <a href="http://elasticpush.com/blog/iniciando-com-o-docker-dicas-praticas-para-comecar-a-usar-agora-mesmo/" target="_blank">artigo</a>.</p>
+
+<p>Para construir a imagem você precisa executar o seguinte comando, na mesma pasta que está o <strong>Dockerfile</strong>:</p>
+
+<pre><em>sudo docker build -t app/elasticpush .</em></pre>
+
+<p>Eu escolhi que o nome da minha imagem fosse app/elasticpush, mas isso fica a seu critério, escolha o nome que melhor se adéque ao seu serviço.</p>
+
+<p>Executado o comando, se tudo correr bem terá uma saída semelhante a essa:</p>
+
+<pre class="lang-bash">Sending build context to Docker daemon 45.03 MB
+ Sending build context to Docker daemon
+ Step 0 : FROM debian:jessie
+ — &gt; a582cd499e0f
+ Step 1 : RUN mkdir /app
+ — &gt; Using cache
+ — &gt; 3763257cc26e
+ Step 2 : COPY ./bin/elasticpush /app/elasticpush
+ — &gt; cc4b56f3fd8e
+ Removing intermediate container 0bb2091ca437
+ Step 3 : ENTRYPOINT /app/elasticpush
+ —&gt; Running in ad99734cd065
+ — &gt; 3ffec68d5499
+ Removing intermediate container ad99734cd065
+ Successfully built 3ffec68d5499
+ </pre>
+
+<p>Agora você já tem uma imagem construída. Execute o seguinte comando:</p>
+
+<p><code>sudo docker images</code></p>
+
+<p>A imagem com a tag que você escolheu vai estar listada. A partir dessa imagem você pode iniciar o container com o seguinte comando:</p>
+
+<p><code>sudo docker run -d [nome da imagem]</code></p>
+
+<p>Observe que utilizei o parâmetro -d que serve para jogar em segundo plano a inicialização do container, o que é opcional. Após isso será entregue um token que identifica o container, tipo esse:</p>
+
+<p><code>19895b08f19d7a4436afa1cb8af8f815939000d5468c7db10c4498317fd81cc3</code></p>
+
+<p>Para navegar dentro do container utilize o seguinte comando:</p>
+
+<p><code>sudo docker exec -it 19895b08f19d7a4436afa1cb8af8f815939000d5468c7db10c4498317fd81cc3 bash</code></p>
+
+<p>Com isso você estará dentro do container para caso precise fazer alguma coisa específica. Para sair é só digitar <strong>exit</strong>.</p>
+
+<p>Bom pessoal, por enquanto é isso, uma dica que dou é tentar criar imagens mais complexas do que a que eu exemplifiquei, caso tenham alguma dúvida é só deixar um comentário.</p>
+
+<p>Até a próxima!</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/seu-primeiro-bot-para-o-telegram//?utm_source=tablelessRelatedLin">Seu primeiro bot para o Telegram</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/atribuicao-multipla-com-destruturing-assignment//?utm_source=tablelessRelatedLin">Atribuição múltipla com Destruturing Assignment</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/carreira-de-front-end-vai-morrer//?utm_source=tablelessRelatedLin">O fim da profissão front-end</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245841"></script>

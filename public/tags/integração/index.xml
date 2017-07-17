@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Integração on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/integra%C3%A7%C3%A3o/</link>
+    <description>Recent content in Integração on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 28 Nov 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/integra%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Proteja seu código usando o Webpack</title>
+      <link>http://localhost/jhonny-roger/public/proteja-seu-codigo-usando-o-webpack/</link>
+      <pubDate>Mon, 28 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/proteja-seu-codigo-usando-o-webpack/</guid>
+      <description>Não é um eufemismo dizer que que as ferramentas de front-end avançam rapidamente. Por um tempo, Grunt foi o principal automatizador. E desde então a comunidade adotou o Gulp, uma alternativa de streaming. Embora essas ferramentas sejam ótimas, você ainda precisará trabalhar dura para manter o seu sistema. E é aí que entram os empacotadores como o Browserify e Webpack.
+Como usar um empacotador Os empacotadores resolvem o problema fundamental no desenvolvimento front-end.</description>
+    </item>
+    
+  </channel>
+</rss>

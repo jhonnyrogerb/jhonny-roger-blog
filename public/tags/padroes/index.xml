@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Padroes on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/padroes/</link>
+    <description>Recent content in Padroes on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 03 Mar 2010 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/padroes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Processos e Adoção de Padrões</title>
+      <link>http://localhost/jhonny-roger/public/processos-adocao-padroes/</link>
+      <pubDate>Wed, 03 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/processos-adocao-padroes/</guid>
+      <description>HTML 5 ou CSS 3 já podem ser usados? Quando o HTML 5 será lançado?
+Estou ouvindo demais essas perguntas. A resposta que darei, vai servir para as duas perguntas e para perguntas futuras sobre outras recomendações do W3C.
+Para termos uma visão melhor, você precisa entender como o W3C funciona.
+Padrões e Recomendações O W3C é um órgão que regulamenta, cria e desenvolve linguagens para publicação de conteúdo na internet.</description>
+    </item>
+    
+    <item>
+      <title>HTML 5 – Mudanças na estrutura e semântica</title>
+      <link>http://localhost/jhonny-roger/public/html5-estrutura-semantica/</link>
+      <pubDate>Mon, 16 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/html5-estrutura-semantica/</guid>
+      <description>&lt;p&gt;A &lt;strong&gt;Semântica&lt;/strong&gt; sempre um dos pontos mais importantes do &lt;strong&gt;desenvolvimento com Padrões Web&lt;/strong&gt;. Algumas iniciativas com o &lt;strong&gt;&lt;a href=&#34;http://tableless.com.br/microformatos-internet-movel-e-quem-ainda-nao-entendeu-nada&#34;&gt;Microformats&lt;/a&gt;&lt;/strong&gt; vieram na tentativa de trazer mais semântica ainda para nossos códigos, com o intuito de novas aplicações e oportunidades pudessem utilizar melhor a informação distribuída na web. Acontece que o resto do HTML não foi a bastante tempo modificado. Por exemplo, como você consegue distinguir de forma automática as informações do &amp;#8220;header&amp;#8221; (cabeçalho) dos sites? Não consegue. Você não consegue por exemplo, de maneira automatizada, identificar o que é um rodapé ou a parte do layout que está exibindo um artigo, por exemplo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>jQuery é bom para designers</title>
+      <link>http://localhost/jhonny-roger/public/jquery-e-bom-para-designers/</link>
+      <pubDate>Tue, 05 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/jquery-e-bom-para-designers/</guid>
+      <description>&lt;p&gt;No começo da web JavaScript era considerado uma linguagem de programação completamente difícil e inútil. Afinal, depois de uma semana estudando a linguagem, o sujeito só conseguia escrever um script que validasse um formulário de contato que muitas vezes dava erro em outros browsers que não o Internet Explorer. Isso acontecia porque tanto o Netscape quanto o Browser azul tinha seus prórpios padrões de implementações de solução para o Javascript que era ainda estava engatinhando como linguagem.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CSS Frameworks ou como desaprender CSS</title>
+      <link>http://localhost/jhonny-roger/public/css-frameworks-ou-como-desaprender-css/</link>
+      <pubDate>Tue, 09 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css-frameworks-ou-como-desaprender-css/</guid>
+      <description>O papo que agora está começando a rolar entre os desenvolvedores é sobre Frameworks para CSS.
+Sou totalmente contra a qualquer coisa que impeça o contato do desenvolvedor com o código. Sou avesso a qualquer tipo de interface que prometa facilitar o desenvolvimento, pelo menos de XHTML e CSS. Lembra daquele papo sobre o desenvolvedor &amp;#8220;analbético&amp;#8221; de código?
+Ainda acho que utilizar editores que suportam Snippets &amp;#8211; ou Macros, dependendo do editor &amp;#8211; são as melhores formas de se trabalhar se você quer agilidade.</description>
+    </item>
+    
+  </channel>
+</rss>

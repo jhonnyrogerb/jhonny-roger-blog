@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wanderson Macêdo on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/wanderson-mac%C3%AAdo/</link>
+    <description>Recent content in Wanderson Macêdo on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 18 Jul 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/wanderson-mac%C3%AAdo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Padrões de Código de CSS do WordPress</title>
+      <link>http://localhost/jhonny-roger/public/padroes-de-codigo-de-css-wordpress/</link>
+      <pubDate>Fri, 18 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/padroes-de-codigo-de-css-wordpress/</guid>
+      <description>Todo mundo no comecinho da carreira já desenvolveu aquele código esquisito, que dias depois não conseguiu lembrar bem o que era, se perdia nos seletores, usava padrões de nomenclatura vistos na programação tipo o CamelCase, ou algo semelhante. Ter um padrão de escrita de código é essencial para que você e também outros na equipe entendam de maneira efetiva cada ponto do sistema. Para tanto, as famosas guide lines fazem com que gostos pessoais sejam ignorados e padrões de escrita se firmem.</description>
+    </item>
+    
+    <item>
+      <title>Include Tags WordPress, conheça alguns truques legais</title>
+      <link>http://localhost/jhonny-roger/public/include-tags-wordpress-conheca-alguns-truques-legais/</link>
+      <pubDate>Fri, 13 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/include-tags-wordpress-conheca-alguns-truques-legais/</guid>
+      <description>Quem já desenvolveu algum tema ou simplesmente deu uma xeretada nos temas que vem na instalação do WordPress, deve ter percebido que em cada um daqueles arquivos há algumas funções que incluem um outro arquivo do tema. Se você já notou isso parabéns: você já conhece as Include Tags, se não, saiba quem são agora mesmo.
+As Include Tags Você já conhece a função include do PHP? Ela é uma função que simplesmente adiciona/importa um outro arquivo dentro do arquivo em que você usou essa função; geralmente usado para adicionar arquivos de configuração para determinado script funcionar corretamente.</description>
+    </item>
+    
+  </channel>
+</rss>

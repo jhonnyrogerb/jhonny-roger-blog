@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Desempenho on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/desempenho/</link>
+    <description>Recent content in Desempenho on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 07 Jul 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/desempenho/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Acelere o carregamento de seu site com PHP Caching</title>
+      <link>http://localhost/jhonny-roger/public/acelere-o-carregamento-de-seu-site-com-php-caching/</link>
+      <pubDate>Thu, 07 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/acelere-o-carregamento-de-seu-site-com-php-caching/</guid>
+      <description>Criar um site dinâmico, de fácil manutenção e que carregue rápido é o desejo de todo desenvolvedor, mas para isso não existe uma fórmula mágica, é necessário conciliar diferentes ferramentas e técnicas. 
+Mas muitos desenvolvedores iniciantes em PHP não conhecem as soluções existentes ou tem medo da curva de aprendizado que os frameworks exigem.
+O foco desse artigo é mostrar para esses desenvolvedores como uma técnica simples, utilizando apenas comandos básicos do PHP, pode acelerar o carregamento de seu site e evitar que ele fique caindo.</description>
+    </item>
+    
+  </channel>
+</rss>

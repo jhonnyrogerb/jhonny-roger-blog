@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/news/</link>
+    <description>Recent content in News on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 11 May 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adobe: The Expressive Web</title>
+      <link>http://localhost/jhonny-roger/public/adobe-the-expressive-web/</link>
+      <pubDate>Fri, 11 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/adobe-the-expressive-web/</guid>
+      <description>Essa é antiga, mas muita gente ainda não viu!
+Mais uma iniciativa da Adobe para divulgar as maravilhas do CSS3 e HTML5. O The Expressive Web é um sitezinho maneiro onde a Adobe mostra alguns exemplos das novas features do HTML5 e do CSS3 com exemplos sensacionais.
+The Expressive Web, by Adobe.
+Cada uma das features tem uma pequena descrição, e o mais importante, eles mostram uma porcentagem de quantos usuários veriam aquela feature.</description>
+    </item>
+    
+  </channel>
+</rss>

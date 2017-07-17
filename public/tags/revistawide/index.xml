@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Revistawide on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/revistawide/</link>
+    <description>Recent content in Revistawide on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 28 Aug 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/revistawide/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nem só de client-side vive um site</title>
+      <link>http://localhost/jhonny-roger/public/nem-so-de-client-side-vive-um-site/</link>
+      <pubDate>Sun, 28 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/nem-so-de-client-side-vive-um-site/</guid>
+      <description>Artigo publicado originalmente na revista Wide em Janeiro/Fevereiro de 2011.
+Estou feliz porque o mercado de client-side tem amadurecido de forma inteligente no Brasil. Empresas mais espertas entenderam a importância do código HTML/CSS/ JavaScript bem escrito. O problema é que grande parte das empresas, clientes e desenvolvedores acham que o trio HTML/CSS/JavaScript faz milagres. É certo pensar que um código bem escrito traz grandes vantagens para o projeto, mas ele sozinho não faz milages.</description>
+    </item>
+    
+  </channel>
+</rss>

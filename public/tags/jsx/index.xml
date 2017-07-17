@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jsx on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/jsx/</link>
+    <description>Recent content in Jsx on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 05 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/jsx/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>React Native: Construa aplicações móveis nativas com JavaScript</title>
+      <link>http://localhost/jhonny-roger/public/react-native-construa-aplicacoes-moveis-nativas-com-javascript/</link>
+      <pubDate>Tue, 05 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/react-native-construa-aplicacoes-moveis-nativas-com-javascript/</guid>
+      <description>Introdução O React Native é um projeto desenvolvido pelos engenheiros do Facebook e que consiste em uma série de ferramentas que viabilizam a criação de aplicações móveis nativas para a plataforma iOS e Android, utilizando o que há de mais moderno no desenvolvimento Front-end &amp;#8211; mirando no futuro. É o estado da arte no que se refere ao desenvolvimento mobile baseado em JavaScript.
+O stack do React Native é poderoso, pois nos permite utilizar ECMAScript 6, CSS Flexbox, JSX, diversos pacotes do NPM e muito mais.</description>
+    </item>
+    
+    <item>
+      <title>Introdução ao webpack</title>
+      <link>http://localhost/jhonny-roger/public/introducao-ao-webpack/</link>
+      <pubDate>Mon, 23 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-ao-webpack/</guid>
+      <description>O que é? (Onde vivem? O que comem?) webpack (com &amp;#8220;w&amp;#8221; minúsculo, respeitando a grafia do site oficial) é um empacotador de código para projetos web, como o browserify. O que ele se propõe a fazer de diferente é focar em módulos da sua aplicação. Nem sempre ter todo e qualquer JavaScript/CSS do seu projeto num único arquivo é bom, por isso o webpack tem a ideia de code splitting, onde você modulariza partes reaproveitáveis do seu projeto, facilitando o desenvolvimento independente, por exemplo, ter uma equipe trabalhando em um módulo X e outra num módulo Y, mas ambos de um mesmo projeto.</description>
+    </item>
+    
+  </channel>
+</rss>

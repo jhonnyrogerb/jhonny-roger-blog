@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jefersson Nathan on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/jefersson-nathan/</link>
+    <description>Recent content in Jefersson Nathan on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/jefersson-nathan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BDD na prática – Parte 1</title>
+      <link>http://localhost/jhonny-roger/public/bdd-na-pratica-parte-1/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/bdd-na-pratica-parte-1/</guid>
+      <description>Se você não sabe o que é Behavior driven development, para ter um melhor proveito desse artigo, leia uma introdução ao BDD antes de prosseguir.
+Para começo de conversa, estaremos fazendo uma abordagem prática sobre testes de comportamento. Para isso, utilizaremos a biblioteca para testes behat. Vamos ao nosso arquivo composer.json:
+{ &#34;require-dev&#34;: { &#34;behat/behat&#34;: &#34;2.4.*@stable&#34; }, &#34;config&#34;: { &#34;bin-dir&#34;: &#34;bin/&#34; } } Se ainda não estiver familiarizado com o uso do composer para gerenciamento de dependências de seus projetos em php, vale a pena dar uma olhada em composer para iniciantes.</description>
+    </item>
+    
+    <item>
+      <title>Introdução ao Behavior Driven Development</title>
+      <link>http://localhost/jhonny-roger/public/introducao-ao-behavior-driven-development/</link>
+      <pubDate>Fri, 21 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-ao-behavior-driven-development/</guid>
+      <description>O BDD (Behavior Driven Development ou Desenvolvimento guiado por comportamento), é uma resposta ao TDD, criado em 2003, por Dan North, e tem se expandido bastante nos últimos anos. Seu foco é obter um código testado a partir de um conjunto de cenários que descrevem como a aplicação ou unidade de código deverá se comportar em determinada situação.
+As práticas de BDD incluem:  Envolver as partes interessadas no processo através de Outside-in Development Usar linguagem ubíqua para descrever o comportamento de uma aplicação Automatizar os exemplos para provê um feedback rápido e testes de regressão Usar SHOULD na hora de descrever o comportamento de software para ajudar esclarecer responsabilidades e permitir que funcionalidades do software sejam questionadas Usar dublês de teste (mocks, stubs, fakes, dummies, spies) para auxiliar na colaboração entre módulos e códigos que ainda não foram escritos  E&amp;#8230; O grande lance do BDD, é que nos trabalhamos com comportamentos de uma maneira que</description>
+    </item>
+    
+  </channel>
+</rss>

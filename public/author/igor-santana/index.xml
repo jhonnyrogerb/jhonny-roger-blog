@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Igor Santana on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/igor-santana/</link>
+    <description>Recent content in Igor Santana on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 03 May 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/igor-santana/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Criando aplicações CLI utilizando Node.js</title>
+      <link>http://localhost/jhonny-roger/public/criando-aplicacoes-cli-utilizando-node-js/</link>
+      <pubDate>Tue, 03 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-aplicacoes-cli-utilizando-node-js/</guid>
+      <description>Introdução As aplicações que se utilizam da linha de comando do Sistema Operacional são comumente chamadas de CLI Applications ou Command-Line Interface Applications. O que isto quer dizer? Estas aplicações só sofrerão alguma interação caso ela seja feita através de um Shell (BASH, DOS, ZSH, entre outros), mediante entrada de texto.
+Este tipo de aplicação é contrária as GUI Applications ou Graphical User Interface Applications, que permitem o usuário interagir com a aplicação através de ícones, disposição dos elementos na tela, utilizando-se do Mouse para isto.</description>
+    </item>
+    
+  </channel>
+</rss>

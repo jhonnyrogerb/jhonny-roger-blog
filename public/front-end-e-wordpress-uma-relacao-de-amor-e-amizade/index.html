@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245844">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>É&nbsp;bastante comum o&nbsp;desenvolvedor front-end conseguir trabalho como freelancer e precisar do desenvolvedor back-end para tornar&nbsp;o site dinâmico. O&nbsp;cliente fica&nbsp;feliz,&nbsp;pois de forma rápida, ele consegue criar novas páginas, postagens, atualizando por conta própria o conteúdo. Mas atualmente, o&nbsp;front-end não precisa mais desta dependência:&nbsp;ele pode usar o WordPress.</p>
+
+<p>Ok, mas o WordPress usa PHP, uma&nbsp;linguagem back-end, correto?</p>
+
+<p>Sim, mas isto não é impede de tornar a ferramenta facilmente configurável, mesmo que você não entenda de linguagens de programação.</p>
+
+<p>O objetivo deste post não é oferecer&nbsp;um conhecimento da linguagem, mas levantar os tópicos mais comuns sobre a&nbsp;sintaxe de funcionamento da ferramenta.</p>
+
+<h2 id="o-wordpress">O WordPress</h2>
+
+<p>O WordPress foi criado para ser usado como uma plataforma de criação e administração de blogs, mas hoje ele evoluiu bastante,&nbsp;e&nbsp;tornou-se um grande CMS (gerenciador de conteúdo), que é utilizado para criar sites dos mais simples aos mais complexos.</p>
+
+<p><a href="https://wordpress.org/showcase/" target="_blank">Confira o showcase</a> que mostra grandes sites que foram criados com o uso deste CMS.</p>
+
+<h2 id="a-hierarquia">A Hierarquia</h2>
+
+<p>Para transformar seu site HTML em um tema, é necessário conhecer a <a href="http://tableless.com.br/hierarquia-de-arquivos-do-wordpress/" target="_blank">hierarquia de arquivos do WordPress</a>.</p>
+
+<h2 id="a-simplicidade">A Simplicidade</h2>
+
+<p>Como dito anteriormente, não é necessário ter conhecimentos avançados em PHP. O WordPress possui muitas funções nativas, como por exemplo, buscar&nbsp;o título da página, criar queries personalizadas, acessar informações de usuários, entre outras.</p>
+
+<p>Tais funções nativas evitam o desperdício de tempo e raciocínio, pois muito delas foram confeccionadas para atender as mais comuns&nbsp;utilidades assim como os casos mais específicos.</p>
+
+<p>Veja o exemplo de algumas delas:</p>
+
+<ul>
+<li><strong>the_title()</strong>Retorna o título da página ou do post;</li>
+<li><strong>the_excerpt()</strong>Traz o resumo do post e da página;</li>
+<li><strong>the_content()</strong>Traz o conteúdo completo da página ou do post;</li>
+<li><strong>the_category()</strong>Traz todas as categorias de um determinado post;</li>
+<li><strong>single_cat_title()</strong>Traz o nome da categoria.</li>
+</ul>
+
+<p><a href="https://codex.wordpress.org/Function_Reference">Aqui tem&nbsp;uma lista com todas as funções do WordPress</a>.</p>
+
+<h2 id="e-o-banco-de-dados">E o banco de dados?</h2>
+
+<p>O WordPress já vem com a configuração do banco de dados.&nbsp;Basta conhecer como funciona a função <strong>WP_Query()</strong> e passar através de um&nbsp;parâmetro o que você deseja&nbsp;acessar.&nbsp;Como este é um post para&nbsp;iniciantes&nbsp;em&nbsp;Wordpress, é possível criar de forma rápida <em>queries</em>, <em>posts types</em> e outras funcionalidades para que o tema funcione corretamente utilizando&nbsp;o site <a href="http://generatewp.com/">GenerateWP</a>. Com ele você pode gerar&nbsp;funcionalidades como: <em>shortcodes</em>, <em>sidebars</em>, posições de menu, entre outras.</p>
+
+<h2 id="custom-post-type-o-que-é-isso">Custom Post Type, o que é isso?</h2>
+
+<p><strong>Custom Post Type</strong> é uma maneira de criar conteúdos personalizados para o seu site. Exemplo: o WordPress possui os <em>custons&nbsp;post types &nbsp;</em><strong>Post</strong> e <strong>Page</strong>, mas você pode criar um <em>post type</em> chamado Portfólio, Filmes, Imóveis, etc.</p>
+
+<p>Nestes <em>posts types</em> também é possível criar campos personalizados. Para saber mais sobre Posts Types confira este artigo do Paulo Rodrigues <a href="http://tableless.com.br/custom-post-types-wordpress/">Custom Post Types WordPress</a></p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/projeto-felix-o-novo-software-de-3d-da-adobe//?utm_source=tablelessRelatedLin">Projeto Felix: O novo software de 3D da Adobe</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/3-plugins-wordpress-para-aumentar-conversoes-em-sites-e-blogs//?utm_source=tablelessRelatedLin">3 Plugins WordPress para Aumentar Conversões em Sites e Blogs</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/trabalhando-com-servicos-no-javascript//?utm_source=tablelessRelatedLin">Trabalhando com serviços no Javascript</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245845"></script>

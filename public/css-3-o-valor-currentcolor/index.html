@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245859">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      <p>O valor currentColor é muito simples de se entender e pode ser muito útil para diminuirmos o retrabalho em alguns momentos da produção. Imagine que o currentColor é uma variável cujo seu valor é definido pelo valor da propriedade color do seletor. Veja o código abaixo:</p>
+
+<pre lang="css" line="1">p {
+        background:red;
+        padding:10px;
+        font:13px verdana;
+        color: green;
+        border:1px solid green;
+    }
+</pre>
+
+<p>Note que o valor da propriedade color é igual ao valor da cor da propriedade border.</p>
+
+<p>Há uma redundância de código, que nesse caso é irrelevante, mas quando falamos de dezenas de arquivos de CSS modulados, com centenas de linhas cada, essa redundância pode incomodar a produtividade. A função do currentColor é simples: ele copia para outras propriedades do mesmo seletor o valor da propriedade color. Veja o código abaixo para entender melhor:</p>
+
+<pre lang="css" line="1">p {
+        background:red;
+        padding:10px;
+        font:13px verdana;
+        color: green;
+        border:1px solid currentColor;
+    }
+</pre>
+
+<p>Veja que apliquei o valor currentColor onde deveria estar o valor de cor da propriedade border. Agora, toda vez que o valor da propriedade color for modificado, o currentColor aplicará o mesmo valor para a propriedade onde ela está sendo aplicada.</p>
+
+<p>Isso funciona em qualquer propriedade que faça utilização de cor como background, border, etc. Obviamente não funciona para a propriedade color. O currentColor também não funciona em seletores separados, ou seja, você não consegue atrelar o valor da propriedade color ao currentColor de outro seletor.</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/teste-de-carga-em-apis-utilizando-artillery//?utm_source=tablelessRelatedLin">Teste de carga em APIs utilizando Artillery</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/crie-sites-em-questao-de-minutos-com-o-pingendo//?utm_source=tablelessRelatedLin">Crie sites em questão de minutos com o Pingendo</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245859"></script>

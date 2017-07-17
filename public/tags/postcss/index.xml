@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Postcss on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/postcss/</link>
+    <description>Recent content in Postcss on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 17 Nov 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/postcss/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Como usar variáveis no CSS de forma nativa</title>
+      <link>http://localhost/jhonny-roger/public/como-usar-variaveis-no-css-de-forma-nativa/</link>
+      <pubDate>Tue, 17 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/como-usar-variaveis-no-css-de-forma-nativa/</guid>
+      <description>Olá pessoal, neste artigo irei abordar o básico sobre variáveis nativas com CSS, e como você pode usar essa tecnologia hoje e sem medo de ser feliz. CSS Custom Properties for Cascading Variables Module Level 1 {.p4} Esta especificação ainda em fase de Last Call Working Draft, traz um novo módulo de CSS3 que permite a criação de varáveis de forma nativa, de uma forma simples e rápida como veremos a seguir.</description>
+    </item>
+    
+  </channel>
+</rss>

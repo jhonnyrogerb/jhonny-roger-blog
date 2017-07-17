@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plugin on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/plugin/</link>
+    <description>Recent content in Plugin on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 20 Jan 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/plugin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gulp: O novo automatizador</title>
+      <link>http://localhost/jhonny-roger/public/gulp-o-novo-automatizador/</link>
+      <pubDate>Mon, 20 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/gulp-o-novo-automatizador/</guid>
+      <description>Se você não esteve morando em baixo de uma rocha pelos últimos meses, provavelmente conhece o automatizador de tarefas Grunt, que já dominava a área há algum tempo. Mas agora, chegou um novo automatizador chamado Gulp que promete realizar suas tarefas de forma mais rápida e simples do que seu concorrente.
+Caso você não saiba, automatizadores de tarefa são ferramentas que ajudam programadores preguiçosos a realizarem tarefas repetitivas mas essenciais para o desenvolvimento como: concatenação de arquivos, minificação, testes e muitas outras coisas necessárias para a criação de um código rápido e eficiente.</description>
+    </item>
+    
+    <item>
+      <title>Criando um plugin JavaScript (sem jQuery!)</title>
+      <link>http://localhost/jhonny-roger/public/criando-um-plugin-javascript-sem-jquery/</link>
+      <pubDate>Wed, 07 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-um-plugin-javascript-sem-jquery/</guid>
+      <description>Neste artigo vamos criar um slider de imagens utilizando apenas JavaScript e CSS3, sem nenhuma biblioteca. O resultado final é um script de aproximadamente 160 linhas e menos de 3kb minificado. Poderia ser menor do que isso, mas nosso código vai ser extensível e 100% válido em uma verificação JSLint.
+Um plugin jQuery é basicamente um código que pode ser aplicado em um ou mais elementos do DOM. Para justificar sua existência, um plugin precisa ser, principalmente, flexível.</description>
+    </item>
+    
+    <item>
+      <title>Otimizando seu site em WordPress para SEO</title>
+      <link>http://localhost/jhonny-roger/public/otimizando-site-wordpress-seo/</link>
+      <pubDate>Thu, 17 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/otimizando-site-wordpress-seo/</guid>
+      <description>Uma característica que defina o WordPress é a customização. Em poucas linhas conseguimos soluções significantes. Seja trabalhando com suas funções ou com seus plugins, temos resultados objetivos para preparar um Blog e até mesmo um site de grande porte, como temos hoje, vários exemplos disso.
+Elogiam muito o WordPress por ele ter uma facilidade para otimização de sites (SEO). Antes de começarem a ler as dicas que vou citar, faça a seguinte reflexão: O que é um site hoje, sem ser bem indexado pelos mecanismos de busca?</description>
+    </item>
+    
+    <item>
+      <title>Anatomia de um plugin jQuery</title>
+      <link>http://localhost/jhonny-roger/public/anatomia-de-um-plugin-jquery/</link>
+      <pubDate>Tue, 14 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/anatomia-de-um-plugin-jquery/</guid>
+      <description>Um dos grandes trunfos do jQuery é a sua vasta gama de plugins. Praticamente qualquer efeito, ação ou manipulação que você consiga imaginar já deve possuir um plugin. Caso contrário, quem sabe você mesmo não desenvolve um?
+Neste artigo, você confere técnicas de como criar o seu próprio plugin. Vamos ver dois exemplos. O primeiro plugin adiciona classes ao primeiro e último ítem de uma lista, tabela, div etc. e o segundo simula a busca por textos do navegador Safari (aquele highlight bacana, como um marcador de textos, no termo procurado).</description>
+    </item>
+    
+  </channel>
+</rss>

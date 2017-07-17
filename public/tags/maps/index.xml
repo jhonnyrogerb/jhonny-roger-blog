@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maps on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/maps/</link>
+    <description>Recent content in Maps on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 07 May 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/maps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Utilizando o MarkerClusterer no Google Maps</title>
+      <link>http://localhost/jhonny-roger/public/utilizando-o-markerclusterer-google-maps/</link>
+      <pubDate>Wed, 07 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/utilizando-o-markerclusterer-google-maps/</guid>
+      <description>Seja você desenvolvedor ou não, temos que admitir o poder do Google Maps. É bem difícil encontrar alguém hoje em dia que não tenha acessado pelo menos uma vez o famoso Maps para ver onde ficava um determinado lugar.
+Esses dias me deparei novamente com o excelente artigo do Thulio Philipe sobre a API do Google Maps V3 e resolvi escrever um pouco sobre um recurso chamado MarkerClusterer.
+O que é o MarkerClusterer?</description>
+    </item>
+    
+  </channel>
+</rss>

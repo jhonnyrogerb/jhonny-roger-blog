@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245858">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>O CSS 3D é sem dúvida uma das features do CSS mais aguardadas por todas as crianças do Brasil. Fala a verdade! Fazer efeitozinhos com sombra, gradientes, transparências e etc já foi um dia na vida do desenvolvimento algo bacana. Hoje é muito fora de moda. Carne de vaca, sabe? Por isso o CSS 3D é tão esperado. Ele trará para a web efeitos visuais para layout que antes só viamos em sistemas que rodam em smartphones, tipo um iPhone ou nos sistemas operacionais mais populares como Linux e OSX.</p>
+
+<p>Mas não se anime muito. Eu sei que você está ansioso para sair por aí colocando efeitos 3D de CSS em tudo quanto é aplicação. Mas calma&#8230; entenda que o CSS foi feito para estilizar documentos. Você o utiliza para melhorar a experiência dos usuários nos diversos dispositivos e não para enfeitar seu website como se fosse uma penteadeira. Lembra-se dos websites cheios de gifs animados? Pois é, cuidado para não cair no mesmo erro. Você estará utilizando o CSS 3D da maneira certa se seus efeitos passarem desapercebidos pelo usuário ao utilizar seu sistema. Encher seu sistema com efeitos a cada clique ou a cada ação pode fazer com que o usuário perca tempo e a paciência.</p>
+
+<p>Mas vamos ao que interessa.</p>
+
+<h3 id="o-suporte">O suporte</h3>
+
+<p>Infelizmente isso ainda está restrito para browsers. O Internet Explorer não tem suporte ainda e nem tem data para tal. Todos os exercícios que você ver neste post são feitos para browsers que tem WebKit como motor de renderização. Por isso teste em seu Chrome ou no seu Safari. Eu testei no Chrome porque o Safari mostrou algumas inconsistências. O Opera está esperando as especificações de CSS Transforms amadurecerem para adicionar este recurso. Testei no Firefox 8.0.1 e o exercício não funcionou.</p>
+
+<p>A degradação do CSS 3D para os browsers que não o suportam é um pouco infeliz. Sugiro que se você for utilizar essas features, tente fazê-lo em projetos restritos para que não haja problemas com usuários de browsers antigos. Se ainda assim você quiser arriscar, crie soluções especifica para seu projeto, fazendo com que a experiência do seu cliente não seja muito prejudicada.</p>
+
+<p>Sugiro que <a href="http://tableless.com.br/utilizando-a-biblioteca-modernizr/" title="Utilizando a Biblioteca Modernizr">utilize a biblioteca Modernizr</a> para identificar os browsers que não entendem o CSS 3D.</p>
+
+<h3 id="tudo-é-uma-questão-de-perspectiva">Tudo é uma questão de perspectiva</h3>
+
+<p>Para falar de 3D, precisamos falar sobre perspectiva. Para ativar uma área 3D o elemento precisará de perspectiva.</p>
+
+<p>Você pode aplicar a perspectiva ao elemento de duas formas: utilizando diretamente a propriedade <strong>perspective</strong> ou adicionando um valor <strong>perspective()</strong> na propriedade <strong>transform</strong>.</p>
+
+<pre class="lang-css">div {
+  -webkit-perspective: 600;
+}
+</pre>
+
+<p>Ou:</p>
+
+<pre class="lang-css">div {
+  -webkit-transform: perspective(600);
+}
+</pre>
+
+<p>Estes dois formatos são os gatilhos que ativam a área 3D onde o elemento irá trabalhar.</p>
+
+<p>O valor da perspectiva determina a intensidade do efeito. Imagine como se fosse a distância de onde vemos o objeto. Quanto maior o valor, mais perto o elemento estará, logo, menos intenso será o visual 3D. Logo, se colocarmos um valor de <em>2000</em>, o objeto não terá tantas mudanças visuais e o efeito 3D será suave. Se colocarmos <em>100</em>, o efeito 3D será muito visível, como se fosse um inseto olhando um objeto gigante.</p>
+
+<p>Você também precisa entender sobre o <a href="http://pt.wikipedia.org/wiki/Perspectiva_(gráfica)" title="Wikipedia: sobre ponto de fuga">ponto de fuga</a>. O ponto de fuga por padrão está posicionado no centro. Você pode modificar essa posição com a propriedade <strong>perspective-origin</strong>, que é muito parecido com a propriedade <strong>transform-origin</strong>, que define onde a ação de transformação do objeto acontecerá, nesse caso <a href="http://tableless.github.com/exemplos/cssanimation.html">quando falamos de ações 2D</a>. A propriedade <strong>perspective-origin</strong> afeta os eixos X e Y do elemento filho.</p>
+
+<p><a href="http://tableless.github.com/exemplos/css3d/cardflip/propriedade-perspective.html">Veja um exemplo com dois elementos</a>: um com pouca perspectiva e outra com muita perspectiva.</p>
+
+<h3 id="css-3d-transforms">CSS 3D Transforms</h3>
+
+<p>Se você ainda não leu sobre CSS Transforms você pode <a href="http://tableless.com.br/introducao-ao-css-animation/" title="Introdução ao CSS Animation">ler algo aqui</a> e <a href="http://tableless.github.com/exemplos/csstransforms/">ver em ação aqui</a>. As propriedades são praticamente iguais, mas aplicadas para os princípios de 3D e não 2D.</p>
+
+<p>Você deve estar acostumado a trabalhar com os eixos X e Y no CSS padrão. No CSS 3D podemos manipular também o eixo Z, que representa a profundidade.</p>
+
+<p><a href="http://tableless.github.com/exemplos/css3d/cardflip/propriedade-transform.html">Veja um exemplo utilizando os valores <strong>rotateY, rotateX e translateZ</strong></a>. Perceba que no <strong>translateZ</strong> eu utilizei valores negativos e positivos. Quando utilizo o valor negativo, o objeto fica &#8220;mais longe&#8221;, se coloco valores positivos, o objeto fica &#8220;mais perto&#8221;.</p>
+
+<p>Abaixo segue uma imagem do resultado do exemplo:</p>
+
+<p><a href="http://tableless.github.com/exemplos/css3d/cardflip/propriedade-transform.html"><img src="http://tableless.com.br/uploads/2011/12/img-transform3d.png" alt="" title="img-transform3d" width="801" height="706" class="alignnone size-full wp-image-4795" srcset="uploads/2011/12/img-transform3d.png 801w, uploads/2011/12/img-transform3d-300x264.png 300w" sizes="(max-width: 801px) 100vw, 801px" /></a></p>
+
+<p>Nós podemos utilizar também alguns atalhos para estes valores onde podemos definir as três dimensões de uma vez:</p>
+
+<ul>
+<li>translate3d(x,y,z)</li>
+<li>scale3d(x,y,z)</li>
+<li>rotate3d(x,y,z,angle)</li>
+</ul>
+
+<p>Muito importante: ao utilizar as propriedades resumidas, os browsers ativam automaticamente a aceleração por hardware no Safari para que as animações tenham uma melhor performance.</p>
+
+<h2 id="fazendo-o-efeito-de-card-flip">Fazendo o efeito de Card Flip</h2>
+
+<p>O efeito de Card Flip é muito conhecido entre os usuários de iPhone. Para ter ideia de como é o efeito <a href="http://tableless.github.com/exemplos/css3d/cardflip/cardflip.html" title="Exemplo de efeito card flip com CSS 3 3D" target="_blank">veja o exemplo final</a>.</p>
+
+<p>A estrutura HTML é esta:</p>
+
+<pre class="lang-html">&lt;section class="geral"&gt;
+  &lt;div class="carta"&gt;
+    &lt;figure class="frente"&gt;&lt;img src="card-front.jpg"&gt;&lt;/figure&gt;
+    &lt;figure class="atras"&gt;&lt;img src="card-back.jpg"&gt;&lt;/figure&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+</pre>
+
+<p>O elemento <em>.geral</em> é onde iniciaremos o ambiente 3D. O elemento <em>.carta</em> age como container dos objetos 3D. Cada face da carta está separada por um elemento <strong>figure</strong>, com uma imagem.</p>
+
+<p>Para começar, precisamos aplicar a perspectiva para o elemento <em>.geral</em> iniciar o espaço 3D.</p>
+
+<pre class="lang-css">.geral { 
+    width: 200px;
+    height: 293px;
+    position: relative;
+    margin:10% auto 0;
+    -webkit-perspective: 500;
+}
+</pre>
+
+<p>Defini uma largura e altura, coloquei um <strong>position: relative;</strong> para que os elementos dentro dele sejam posicionados se referenciando por ele. Coloquei uma margem só para separá-lo do topo do body a fim de conseguirmos ver melhor os efeitos.</p>
+
+<p>Por fim, coloquei a propriedade <strong>-webkit-perspective: 500;</strong> para aplicarmos o efeito 3D. O valor de 500 faz uma boa perspectiva.</p>
+
+<p>Agora definiremos as dimensões da carta e suas propriedades.</p>
+
+<pre class="lang-css">.carta {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  -webkit-transition: -webkit-transform 1s;
+}
+</pre>
+
+<p>Largura e altura precisam ser de 100% para definir a área que o 3D irá aplicar. O <strong>position: absolute;</strong> é necessário para que as cartas fiquem relativas ao elemento <em>.geral</em>. A propriedade <strong>-webkit-transition: -webkit-transform 1s;</strong> define o tempo de transição do efeito, neste caso ele vai durar 1 segundo.</p>
+
+<p>Formatando as cartas:</p>
+
+<pre class="lang-css">.carta figure {
+  margin:0;
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+}
+</pre>
+
+<p>Vamos direto para a propriedade <strong>-webkit-backface-visibility: hidden;</strong> já que as outras dispensam comentários. Essa propriedade faz com que a face de trás da carta não apareça e nem se sobreponha no momento do efeito.</p>
+
+<p>E finalmente, para fazer com que a parte de trás da carta apareça no verso correto, nós temos que rotacioná-la.</p>
+
+<pre class="lang-css">.atras{-webkit-transform: rotateY(180deg);}
+</pre>
+
+<p>E feito se completa com o trigger para fazer a animação acontecer. Nesse caso farei com um hover no elemento <em>.carta</em>, onde iremos rotacioná-lo em -180 graus.</p>
+
+<pre class="lang-css">.carta:hover {
+  -webkit-transform: rotateY(-180deg);
+}
+</pre>
+
+<p>E Voilá! Se quiser brincar um pouco, modifique a origem da transformação com a propriedade <strong>-webkit-transform-origin</strong>. Adicionando essa linha, a transformação acontece para a direita em vez de ser pelo centro, como é o padrão:</p>
+
+<pre class="lang-css">.carta:hover {
+  -webkit-transform: rotateY(-180deg);
+  -webkit-transform-origin: right center;
+}
+</pre>
+
+<h3 id="3drollover-css">3Drollover.css</h3>
+
+<p>Encontrei uma biblioteca muito interessante que nos permite fazer estes efeitos de forma fácil e de acordo com os princípios do OOCSS. É necessário apenas estruturar da forma correta e trocar as classes de acordo com o efeito que você quer fazer. Coisa muito simples.</p>
+
+<p>O nome da biblioteca é <a href="https://github.com/codepo8/3drollovers.css">3Drollover</a>. Clone no seu computador e divirta-se. Dá para usar em projetos facilmente. Veja abaixo um vídeo que mostra os efeitos:</p>
+
+<h3 id="para-ler-mais">Para ler mais</h3>
+
+<ul>
+<li>Leia a <a href="http://dev.w3.org/csswg/css3-3d-transforms/">documentação oficial do W3C sobre CSS 3D Transforms</a>.</li>
+<li>Pessoal do <a href="http://www.webkit.org/blog/386/3d-transforms/">WebKit explicando sobre outras propriedades do CSS 3D Transforms</a>.</li>
+<li>Você pode <a href="http://desandro.github.com/3dtransforms/examples/perspective-03.html">brincar um pouco com as propriedades do CSS 3D aqui</a>.</li>
+</ul>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/indo-alem-no-react-native//?utm_source=tablelessRelatedLin">Indo além no Mundo React-Native</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/seu-primeiro-bot-para-o-telegram//?utm_source=tablelessRelatedLin">Seu primeiro bot para o Telegram</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245858"></script>

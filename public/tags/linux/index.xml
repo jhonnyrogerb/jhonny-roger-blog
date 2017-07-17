@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/linux/</link>
+    <description>Recent content in Linux on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 09 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Como instalar Node.js no Linux corretamente (Ubuntu, Debian, Elementary OS)</title>
+      <link>http://localhost/jhonny-roger/public/como-instalar-node-js-no-linux-corretamente-ubuntu-debian-elementary-os/</link>
+      <pubDate>Mon, 09 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/como-instalar-node-js-no-linux-corretamente-ubuntu-debian-elementary-os/</guid>
+      <description>Recentemente comecei a minha migração do JSF para o Angular então busquei por um bom curso, pela documentação do Framework e um bom livro técnico.
+No caso do curso escolhi inicialmente o do Flávio Almeida na Alura e logo de cara fica claro que não é um Framework para iniciantes no mundo do JavaScript e nem para iniciantes no mundo da programação, o próprio Flávio avisa sobre isso mais de uma vez além de informar sobre a necessidade de dominar o terminal (o terror dos novatos) do seu sistema operacional.</description>
+    </item>
+    
+    <item>
+      <title>O básico sobre o automatizador de tarefas Make</title>
+      <link>http://localhost/jhonny-roger/public/jaime-o-garoto-quer-make/</link>
+      <pubDate>Mon, 11 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/jaime-o-garoto-quer-make/</guid>
+      <description>O trabalho no client-side é cercado por tarefas pequenas e frequentes. Por causa dessas tarefas frequentes, surgiram ferramentas fantásticas como Grunt, Gulp e vários outros.
+Mas se voltarmos um pouco no tempo, vamos encontrar um cara chamado MAKE. Quem já instalou algum programa em alguma distribuição unix-like sabe bem do quem estou falando.
+Esse era o processo básico pra instalar o programa.
+$ ./configure $ make $ make install  Mas junto com isso, você precisava resolver uma série de problemas de dependências, caminhos de arquivos, permissões, versão e em último caso, ligava ou chamava quele amigo que manjava muito de Linux e implorava por ajuda.</description>
+    </item>
+    
+    <item>
+      <title>Por que Python?</title>
+      <link>http://localhost/jhonny-roger/public/por-que-python/</link>
+      <pubDate>Tue, 29 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/por-que-python/</guid>
+      <description>Eu sou apaixonado por Python. Muito. Daquele tipo que fala de Python sempre que pode. E uma pergunta que sempre me fazem é: por quê? Vou tentar fazer uma lista dos motivos mais relevantes:
+1. É muito bom escrever código Python Geralmente, quando alguém cria uma linguagem de programação, tem em vista um objetivo. Por exemplo, Lisp foi escrita para programação funcional. Java foi escrita para que o mesmo código pudesse rodar em qualquer lugar.</description>
+    </item>
+    
+    <item>
+      <title>Criando comandos de atalhos no terminal</title>
+      <link>http://localhost/jhonny-roger/public/criando-comandos-de-atalhos-no-terminal/</link>
+      <pubDate>Sun, 14 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-comandos-de-atalhos-no-terminal/</guid>
+      <description>Esta dica pode ser utilizada em qualquer distribuição Linux ou Mac OS X.
+Se você está cansado de digitar comandos gigantescos no terminal, aqui vai uma dica: crie atalhos para os comandos no seu terminal para melhorar a produtividade. Uma dica simples mas é muito util.
+Para rodar um projeto python/django, geralmente executamos este comando:
+python manage.py runserver  Com o comando de atalho criado, execute-o desta maneira:
+run Criando os atalhos Para começar a criar seus atalhos, abra o arquivo .</description>
+    </item>
+    
+    <item>
+      <title>Flock 1.0 – agora dá para usar</title>
+      <link>http://localhost/jhonny-roger/public/flock-10-agora-da-para-usar/</link>
+      <pubDate>Sun, 02 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/flock-10-agora-da-para-usar/</guid>
+      <description>O Firefox é o browser do meu coracão. Não vivo mais sem suas extensões. Se você é desenvolvedor e usa Firefox, sabe do que estou falando.
+Só que eu não sou apenas desenvolvedor. Nas horas vagas, sou gente normal. Gosto de passar uma parte do meu tempo navegando pelos meus sites prediletos. Por isso, eu gastava algumas horas procurando por extensões que me deixassem mais ligado em sites como Flickr, Twitter e Del.</description>
+    </item>
+    
+    <item>
+      <title>FAQ sobre Tableless</title>
+      <link>http://localhost/jhonny-roger/public/faq/</link>
+      <pubDate>Mon, 08 Aug 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/faq/</guid>
+      <description>O que são os Web Standards? Imagine se cada eletrodoméstico usasse um tipo de tomada. E ao comprar um novo eletrodoméstico, você tivesse que adaptar uma tomada nova em sua casa. Imaginou o caos que seria? Felizmente existe um PADRÃO de tomadas para todos os aparelhos domésticos. Se comprarmos um aparelho de som, e então levarmos para outra cidade, estado ou país, a tomada será a mesma e seu aparelho funcionará.</description>
+    </item>
+    
+    <item>
+      <title>Revista do Linux</title>
+      <link>http://localhost/jhonny-roger/public/revista_do_linux/</link>
+      <pubDate>Tue, 17 Jun 2003 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/revista_do_linux/</guid>
+      <description>Sou leitor assíduo da Revista do Linux. Fiquei muito surpreso, e contente, quando comecei a ler a edição desse mês e encontrei, na página 7, uma nota sobre o desenvolvimento tableless, com link para o Tableless.com.br, o nome do Diego e o meu. Obrigado ao pessoal da Revista do Linux pela força. Um viva multiplataforma!</description>
+    </item>
+    
+  </channel>
+</rss>

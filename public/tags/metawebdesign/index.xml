@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Metawebdesign on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/metawebdesign/</link>
+    <description>Recent content in Metawebdesign on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 24 Oct 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/metawebdesign/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Formulários e o Metawebdesign – Parte 1</title>
+      <link>http://localhost/jhonny-roger/public/formularios-e-o-metawebdesign-parte-1/</link>
+      <pubDate>Mon, 24 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/formularios-e-o-metawebdesign-parte-1/</guid>
+      <description>O front-end é uma profissão de uma amplitude imensa. Temos profissionais montando mockups/PSDs, especialistas em acessibilidade, usabilidade, arquitetura da informação, integração com aplicações, designers de interface, application developers. Tem até SEO.
+O background do profissional neste momento não importa muito, apenas a afirmação que ele está trabalhando na camada de front-end. Só isso basta para confirmar os papéis acima.
+Em muitas empresas o front-end é trabalhado de maneira criteriosa, com separação de tarefas em maior ou menor intensidade, de modo que o processo esteja sempre azeitado e atento aos prazos dos outros times que dependem da interface.</description>
+    </item>
+    
+  </channel>
+</rss>

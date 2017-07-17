@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pré Processadores on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/categories/pr%C3%A9-processadores/</link>
+    <description>Recent content in Pré Processadores on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 18 Nov 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/categories/pr%C3%A9-processadores/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Analisando o código Stylus de um projeto</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-o-pre-processador-stylus/</link>
+      <pubDate>Fri, 18 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-o-pre-processador-stylus/</guid>
+      <description>O que é um pré-processador CSS? Como o nome ja diz, é uma linguagem que precisa ser pré-processada por um parser para assim gerar o arquivo de extensão .css que será renderizado pelo browser. Atualmente há vários pré-processadores que você pode utilizar para facilitar a codificação e reaproveitamento de código, você pode estar utilizando SASS, LESS e Stylus que são os mais conhecidos no mercado. A diferença do Stylus para os outros pré-processadores que estão sendo utilizados no mercado é que ele já é baseado em NodeJS e não em ruby.</description>
+    </item>
+    
+    <item>
+      <title>Sass vs. LESS vs. Stylus: Batalha dos Pré-processadores</title>
+      <link>http://localhost/jhonny-roger/public/sass-vs-less-vs-stylus-batalha-dos-pre-processadores/</link>
+      <pubDate>Mon, 28 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sass-vs-less-vs-stylus-batalha-dos-pre-processadores/</guid>
+      <description>Introdução Pré-processadores CSS3 são linguagens criadas com um único propósito de adicionar funcionalidades legais e criativas para o CSS sem quebrar a compatibilidade entre browsers. Os pré-processadores disponibilizam milhares de funcionalidades, e nesse artigo iremos falar sobre as mais utilizadas e conhecidas e algumas nem tanto conhecidas. Vamos começar:
+Sintaxe A parte mais importante ao escrever códigos utilizando um pré-processador é entender a sua sintaxe. Felizmente para nós, a sintaxe é (ou pode ser) idêntica à do CSS puro para os três pré-processadores.</description>
+    </item>
+    
+    <item>
+      <title>Acelere o desenvolvimento front-end com Jade</title>
+      <link>http://localhost/jhonny-roger/public/acelere-o-desenvolvimento-front-end-com-jade/</link>
+      <pubDate>Mon, 03 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/acelere-o-desenvolvimento-front-end-com-jade/</guid>
+      <description>Certos elementos em nossos sites sempre se repetem, como o menu, o cabeçalho e o rodapé. Replicar o código desses elementos em cada página é uma péssima ideia. Imagine ter um site com mais de 100 páginas HTML e para cada uma, ter que codificar o mesmo menu, o mesmo cabeçalho e o mesmo rodapé. Além de ser algo extremamente trabalhoso, dar manutenção em um código desses é uma tarefa complicada.</description>
+    </item>
+    
+    <item>
+      <title>Criando Layouts com Susy Framework</title>
+      <link>http://localhost/jhonny-roger/public/criando-layouts-com-susy-framework/</link>
+      <pubDate>Mon, 03 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-layouts-com-susy-framework/</guid>
+      <description>Com a alta demanda e prazos cada vez menores somos obrigados a trabalhar cada vez mais rápido e isso serve de incentivo para que novos frameworks sejam feitos buscando melhorar a qualidade no desenvolvimento. Um desses frameworks é o Susy e nesse artigo vamos conhecer e dar os primeiros passos com ele.
+O que é Susy? Susy é um framework que permite criar grids de acordo com as necessidades do seu site.</description>
+    </item>
+    
+    <item>
+      <title>Workflow Front-end</title>
+      <link>http://localhost/jhonny-roger/public/workflow-front-end/</link>
+      <pubDate>Wed, 21 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/workflow-front-end/</guid>
+      <description>O desenvolvimento em html, javascript e CSS é uma forma mágica de se construir um mundo novo a cada linha de código. Os mágicos do front-end precisam de cartolas para que retirem seus coelhos. Essas cartolas e varinhas mágicas devem ser escolhidas a dedo, para que a mágica aconteça de forma suave e agradável à plateia.
+Cada mágico tem sua técnica, portanto o objetivo não é estabelecer um padrão imutável, mas estabelecer diretrizes que possam servir de auxílio a qualquer ilusionista.</description>
+    </item>
+    
+    <item>
+      <title>Em um relacionamento sério com generators front-end – Parte 2</title>
+      <link>http://localhost/jhonny-roger/public/em-um-relacionamento-serio-com-generators-front-end-parte-2/</link>
+      <pubDate>Wed, 10 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/em-um-relacionamento-serio-com-generators-front-end-parte-2/</guid>
+      <description>O início O objetivo desse post não é para fazer com que os desenvolvedores só usem esta ferramenta, e sim para apresentar opções de desenvolvimentos ágeis que podem ser úteis no seu dia a dia. É uma ferramenta a qual lhe oferece um stack completo de estrutura de projeto, basta você saber como usar e para que vai usar.
+O Yeoman O Yeoman é considerado uma ferramenta web de andaimes para criação de webapp modernos, nele você consegue montar um esquema de trabalho facilitando seu desenvolvimento.</description>
+    </item>
+    
+    <item>
+      <title>Instalando SASS na máquina – video</title>
+      <link>http://localhost/jhonny-roger/public/instalando-sass-na-maquina-video/</link>
+      <pubDate>Mon, 18 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/instalando-sass-na-maquina-video/</guid>
+      <description>Se você quiser usar um pré-processador em seus projetos, aqui vão instruções simples para você começar agora. Darei mais atenção para quem usa Mac porque é o sistema que eu uso. Mas no Windows as instruções são quase as mesmas, principalmente se você for usar algum sistema que gerencia os assets. Também estou abordando aqui apenas o SASS, nada de LESS, Style ou qualquer outro pré-processador. Depois desse disclaimer, vamos ao que interessa.</description>
+    </item>
+    
+    <item>
+      <title>Utilizando Map Structure do Sass</title>
+      <link>http://localhost/jhonny-roger/public/utilizando-maps-sass/</link>
+      <pubDate>Mon, 11 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/utilizando-maps-sass/</guid>
+      <description>O Sass é um pré-processador usado para melhorar sua produtividade ao codificar CSS. Dentre as várias funcionalidades, existe uma chamada maps.
+O maps é como um array de variáveis. Ela guarda uma série de chaves com valores. A sintaxe é bastante comum, veja:
+$map: ( key1: value1, key2: value2, key3: value3 );  A primeira vista se parece com Json, né?
+A ideia é que você consiga pegar o valor de qualquer chave que está dentro do seu mapa e usar em momentos onde você irá repetir bastante código.</description>
+    </item>
+    
+    <item>
+      <title>SASS: Mixin ou Placeholder?</title>
+      <link>http://localhost/jhonny-roger/public/sass-mixin-ou-placeholder/</link>
+      <pubDate>Sun, 16 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sass-mixin-ou-placeholder/</guid>
+      <description>Se é um tema que sempre vejo a respeito da utilização ou não, é sobre o uso de pré processadores CSS. Alguns devs que costumo seguir e ler os artigos, e que pra mim são algumas das nossas referências, apontam as suas considerações sobre o tema. O Miller Medeiros, em um post mostra alguns pontos negativos na utilização de pré processadores. O Jean Carlos Emer em um outro post mostra as reais vantagens de se utilizar um pré-processador.</description>
+    </item>
+    
+    <item>
+      <title>Utilizando Mixins em pré-processadores CSS</title>
+      <link>http://localhost/jhonny-roger/public/utilizando-mixins-em-css-preprocessors/</link>
+      <pubDate>Mon, 13 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/utilizando-mixins-em-css-preprocessors/</guid>
+      <description>Recentemente respondi à uma enquete (não me perguntem aonde, eu esqueci! :-() onde era perguntado sobre como lidávamos com prefixos proprietários em nossos códigos CSS. Até aquele momento apenas cerca de 9% dos participantes usavam Pré-processadores e cerca de 26% escreviam os prefixos do browsers “na unha”.
+Pré-processadores de CSS ainda não são um comum para algumas pessoas, mas eu, particularmente, defendo o uso devido à organização e redução de trabalho na escrita de folhas de estilo, proporcionado entre outros, pelo encadeamento e os “mixins”, algo como “associação interna”, que funcionam melhores que muitos analgésicos para dores de cabeça causadas pelo retrabalho.</description>
+    </item>
+    
+    <item>
+      <title>Turbinando as Media Queries</title>
+      <link>http://localhost/jhonny-roger/public/turbinando-media-queries/</link>
+      <pubDate>Thu, 12 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/turbinando-media-queries/</guid>
+      <description>Media Queries são uma das ferramenta mais importante do CSS pra quem se preocupa com Web Design Responsivo. Com uma ajudinha dos pré-processadores as media queries podem ficar ainda melhores. Neste artigo vamos turbinar as Media Queries usando um pouco das opções que o SASS nos oferece para ajudar na organização, manutenção e garantir legibilidade ao nosso código.
+Nota: os exemplos deste post serão todos em SASS com a sintaxe do .</description>
+    </item>
+    
+  </channel>
+</rss>

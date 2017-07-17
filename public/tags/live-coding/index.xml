@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Live Coding on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/live-coding/</link>
+    <description>Recent content in Live Coding on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 13 Jan 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/live-coding/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Live Coding] Implementando um site com WordPress</title>
+      <link>http://localhost/jhonny-roger/public/live-coding-implementando-um-site-com-wordpress/</link>
+      <pubDate>Mon, 13 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/live-coding-implementando-um-site-com-wordpress/</guid>
+      <description>Se você não viu nosso primeiro Live Coding, corre! No primeiro Live Coding, nós fizemos a implementação front-end de uma home de website, partindo de um PSD direto do Photoshop.
+Neste segundo Live Coding, iremos implementar o WordPress em um pequeno website, com o HTML e CSS já feito. Se você sempre teve curiosidade em como fazer desde o início a implementação de um tema de WordPress, nesse micro workshop você vai aprender bastante coisa.</description>
+    </item>
+    
+  </channel>
+</rss>

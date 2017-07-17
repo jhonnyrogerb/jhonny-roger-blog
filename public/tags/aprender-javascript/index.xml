@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aprender Javascript on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/aprender-javascript/</link>
+    <description>Recent content in Aprender Javascript on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 19 Jun 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/aprender-javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aprendendo JavaScript online</title>
+      <link>http://localhost/jhonny-roger/public/aprendendo-javascript-online/</link>
+      <pubDate>Fri, 19 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/aprendendo-javascript-online/</guid>
+      <description>Outro dia eu estava tentando me lembrar de um site bem simpático e simples para aprender JavaScript online. Eu não me lembrava do nome do site, nem o nome de quem havia feito. Joguei no twitter a pergunta e uma pancada de gente trouxe vários websites cuja a abordagem era aprender JS online, grátis, de forma fácil. Nenhum dos sites era o que eu estava procurando, mas eram sites bem legais que talvez você possa se interessar.</description>
+    </item>
+    
+    <item>
+      <title>Código Limpo</title>
+      <link>http://localhost/jhonny-roger/public/codigo-limpo/</link>
+      <pubDate>Wed, 11 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/codigo-limpo/</guid>
+      <description>Um dos assuntos que costumo discutir bastante com a galera é sobre qualidade de código. Nesses papos sempre vem questões como: quais práticas podemos adotar para ter um código de alta qualidade? E como sabemos se o nosso código está bom? Como temos certeza de que estamos no caminho certo?
+Vou explicar meu humilde ponto de vista com exemplos e opiniões sobre qualidade de código. Vou abordar casos de uso com JavaScript, mas nada te impede aplicar muitas dessas dicas usando outras linguagens.</description>
+    </item>
+    
+  </channel>
+</rss>

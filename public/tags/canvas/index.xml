@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Canvas on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/canvas/</link>
+    <description>Recent content in Canvas on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 28 Mar 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/canvas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cut the Rope</title>
+      <link>http://localhost/jhonny-roger/public/cut-the-rope/</link>
+      <pubDate>Wed, 28 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/cut-the-rope/</guid>
+      <description>Cut the Rope foi feito primeiramente para iOS. A Microsoft fez uma parceria com o time que produziu o jogo, fazendo com que ele ficasse disponível para todos, totalmente feito em HTML5. O resultado foi o jogo integralmente portado para web, utilizando o melhor do HTML5: gráficos em canvas, audo e vídeo direto do browser, CSS3 e fonts WOFF.
+Você pode jogar Cut the Rope pelo link: www.cuttherope.ie.
+Ao transformar o jogo para web, os desenvolvedores quiseram mantiveram a física e a movimentação do jogo original.</description>
+    </item>
+    
+  </channel>
+</rss>

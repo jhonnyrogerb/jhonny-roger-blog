@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245848">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>O Sass é um pré-processador usado para melhorar sua produtividade ao codificar CSS. Dentre as várias funcionalidades, existe uma chamada <code>maps</code>.</p>
+
+<p>O <code>maps</code> é como um array de variáveis. Ela guarda uma série de chaves com valores. A sintaxe é bastante comum, veja:</p>
+
+<pre class="lang-sass">$map: (
+  key1: value1, 
+  key2: value2, 
+  key3: value3
+);
+</pre>
+
+<p>A primeira vista se parece com Json, né?</p>
+
+<p>A ideia é que você consiga pegar o valor de qualquer chave que está dentro do seu mapa e usar em momentos onde você irá repetir bastante código.</p>
+
+<h2 id="demo">Demo</h2>
+
+<p>No exemplo abaixo, vou mostrar uma situação muito comum ao desenvolvermos um site com variação de temas de cores. Na maneira normal, você faria um código basicamente assim:</p>
+
+<pre class="lang-css">.tema-azul body {
+  background-color: #0176bb;
+}
+
+.tema-vermelho body {
+  background-color: #e3413e;
+}
+
+.tema-amarelo body {
+  background-color: #f8e042;
+}
+</pre>
+
+<p>Usando o mapa do SASS, a primeira coisa que faríamos seria separar as cores em variáveis, assim:</p>
+
+<pre class="lang-sass">$cores: (
+  azul: #0176bb, 
+  vermelho: #e3413e, 
+  amarelo: #f8e042
+);
+</pre>
+
+<p>E faríamos uma função dessa forma:</p>
+
+<pre class="lang-sass">@each $tema, $cor in $cores {
+  .tema-#{tema} body {
+     background-color: $cor;
+  }
+}
+</pre>
+
+<p>O <code>$tema</code> seria cada uma das chaves, no nosso caso <code>azul</code>, <code>vermelho</code> e <code>amarelo</code>. O <code>$cor</code> seria cada um dos valores dos temas, ou seja, os valores hexadecimais. A função <code>@each</code> está dizendo assim: a cada valor dos temas (azul, vermelho, amarelo) que encontrar no mapa <code>$cores</code>, repita o bloco de código.</p>
+
+<p>Isso resultaria no seguinte código:</p>
+
+<pre class="lang-css">.tema-azul body {
+  background-color: #0176bb;
+}
+
+.tema-vermelho body {
+  background-color: #e3413e;
+}
+
+.tema-amarelo body {
+  background-color: #f8e042;
+}
+</pre>
+
+<p>Isso salva vidas. Agora vamos complicar mais. Normalmente um tema é composto de mais cores. Para isso o mapa vai ficar parecido isso:</p>
+
+<pre class="lang-sass">$cores: (
+  azul: (
+    color1: #0176bb, 
+    color2: #23aad0,
+    color3: #edf7fd
+  ),
+  vermelho: (
+    color1: #e3413e, 
+    color2: #1f518c,
+    color3: #f8e042
+  ),
+  amarelo: (
+    color1: #4a5269, 
+    color2: #fc7d74,
+    color3: #4a5269
+  )
+);
+</pre>
+
+<p>O código do <code>@each</code> não mudará muito, mas precisaremos guardar cada uma dessas cores dentro de uma variável que será usada no código final. Ficará assim:</p>
+
+<pre class="lang-sass">@each $tema, $cor in $cores {
+  $color1: map-get($cor, color1);
+  $color2: map-get($cor, color2);
+  $color3: map-get($cor, color3);
+}
+</pre>
+
+<p>Explicando: a cada <code>$tema</code> (azul, vermelho e amarelo) que há no mapa <code>$cores</code>, ele vai gravar as variáveis <code>$color1</code>, <code>$color2</code> e <code>$color3</code>. A função <code>map-get</code> vai pegar o valor específico de cada variável <code>color1</code>, <code>color2</code> e <code>color3</code> de cada tema e irá guardar. O código CSS fica assim:</p>
+
+<pre class="lang-scss">@each $tema, $cor in $cores {
+  $color1: map-get($cor, color1);
+  $color2: map-get($cor, color2);
+  $color3: map-get($cor, color3);
+
+  .color-#{$tema} {
+    body {
+      background-color: $color1;
+    }
+
+    .header {
+      background-color: $color2;
+    }
+
+    .menu a {
+      background-color: $color3;
+    }
+
+  }
+}
+</pre>
+
+<p>Ele vai repetir o bloco acima uma vez para cada tema de cor. No nosso caso, 3 vezes: uma para azul, vermelho e amarelo.</p>
+
+<p>Novamente: isso salva vidas.</p>
+
+<p>A única coisa que você vai gerenciar depois são as variáveis para modificar ou inserir novas cores.</p>
+
+<p>Veja abaixo um exemplo mais completo, mostrando o código final do CSS gerado:</p>
+
+<p class="sassmeister" data-gist-id="9fc788894331313ce485" data-height="480">
+  <a href="http://sassmeister.com/gist/9fc788894331313ce485">Play with this gist on SassMeister.</a>
+</p>
+
+<p><a href="http://viget.com/extend/sass-maps-are-awesome">O pessoal do Viget explorou outro problema</a> para resolver. Na verdade, as implicações são diversas. A qualquer momento que você tiver um bloco de código repetitivo e que depende de muitas variações, o <code>maps</code> é indicado.</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/indo-alem-no-react-native//?utm_source=tablelessRelatedLin">Indo além no Mundo React-Native</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/seu-primeiro-bot-para-o-telegram//?utm_source=tablelessRelatedLin">Seu primeiro bot para o Telegram</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245848"></script>

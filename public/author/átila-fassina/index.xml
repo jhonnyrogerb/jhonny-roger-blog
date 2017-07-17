@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Átila Fassina on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/%C3%A1tila-fassina/</link>
+    <description>Recent content in Átila Fassina on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 12 Dec 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/%C3%A1tila-fassina/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Turbinando as Media Queries</title>
+      <link>http://localhost/jhonny-roger/public/turbinando-media-queries/</link>
+      <pubDate>Thu, 12 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/turbinando-media-queries/</guid>
+      <description>Media Queries são uma das ferramenta mais importante do CSS pra quem se preocupa com Web Design Responsivo. Com uma ajudinha dos pré-processadores as media queries podem ficar ainda melhores. Neste artigo vamos turbinar as Media Queries usando um pouco das opções que o SASS nos oferece para ajudar na organização, manutenção e garantir legibilidade ao nosso código.
+Nota: os exemplos deste post serão todos em SASS com a sintaxe do .</description>
+    </item>
+    
+  </channel>
+</rss>

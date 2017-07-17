@@ -1,0 +1,152 @@
+.sd-is-post
+	height: auto !important
+
+.sb-categories-post 
+	text-align: center
+
+	a
+		background: #332925
+		display: inline-block
+		margin: 5px
+		padding: 10px 20px
+		border-radius: 40px
+		text-decoration: none
+		color: #fac200
+		font-weight: bolder
+
+#sd-post
+	display: flex
+	max-width: 100%
+	width: 100%
+
+#sd-post-content
+	flex: 1 0
+	padding: 40px
+	max-width: 70%
+	width: 70%
+	flex-basis: 70%
+	font-size: 21px
+	color: #3c3c3c
+	line-height: 32px
+	overflow: hidden
+
+
+	img
+		max-width: 100%
+		box-shadow: 0px 0px 3px 0px rgba(51, 41, 37, .7)
+		border-radius: 5px
+
+	iframe
+		max-width: 100%
+
+	p
+		font-size: 1em
+		margin-bottom: 32px
+
+	a
+		color: #FAC200
+		word-wrap: break-word
+		font-weight: bolder
+
+		&:hover
+			color: #332925
+
+	li
+		margin-bottom: 10px
+		font-size: 1em
+
+	ul, ol
+		margin: 40px 20px
+		padding-left: 40px
+		font-weight: lighter
+
+	h1 
+		font-size: 2.5em
+		line-height: 45px
+
+	h2
+		margin: 50px 0 30px
+		font-size: 2em
+		line-height: 45px
+	
+	h3
+		margin: 50px 0 30px
+		font-size: 1.4em
+	
+	h6
+		margin: 30px 0 20px
+		font-size: 1.1e
+
+	blockquote
+		padding: 30px
+		display: block
+
+	.hljs
+		padding: 20px
+		margin: 20px 0
+		font-size: 13px
+		line-height: 1.2rem
+		max-width: 100%
+		white-space: pre-wrap
+
+#sd-post-sidebar
+	padding: 40px 0 0 20px
+	color: #332925
+
+	h2
+		font-size: 1.5rem
+		color: #FAC200
+		margin-bottom: 10px
+
+	li
+		max-width: 300px
+		list-style: none
+		padding-bottom: 20px
+
+	a
+		text-decoration: none
+		color: #332925
+
+		&:hover
+			color: #FAC200
+
+	#sd-main-list
+		margin: 0
+
+		.sd-post-figure
+			margin: 0 0 15px 0
+			display: block
+			flex: none
+			max-width: 100%
+			width: 100%
+
+			a
+				figure
+					height: 160px
+					width: 100%
+
+					img
+						width: 120%
+
+			h1
+				font-size: 16px
+
+
+@media screen and (max-width: 860px)
+	#sd-post
+		display: block
+
+	#sd-post-sidebar
+		display: none
+
+	#sd-post-content
+		width: 100%
+		max-width: 100%
+		flex-basis: 100%
+		margin-left: 0
+		margin-right: 0
+		padding: 0 20px
+
+		img
+			max-width: 100%
+			width: 100%

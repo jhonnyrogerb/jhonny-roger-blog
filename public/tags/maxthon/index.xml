@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maxthon on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/maxthon/</link>
+    <description>Recent content in Maxthon on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 14 Jan 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/maxthon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Maxthon</title>
+      <link>http://localhost/jhonny-roger/public/maxthon/</link>
+      <pubDate>Mon, 14 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/maxthon/</guid>
+      <description>Você conhece um browser chamado Maxthon? Suponho que não.
+O Maxthon é o browser que mais suporta os padrões web atuais. Nem o Chrome Canary &amp;#8211; que é o Chrome ultra power, feito para testarmos novidades que ainda nem foram publicadas &amp;#8211; ganha da versão atual do Maxthon. Pois é&amp;#8230; Ele é um browser que usa dois engines: o Webkit que você já deve conhecer e o Trident, do IE. O design dele lembra o Chrome, mas é um pouco menos rebuscado.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Underscorejs on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/underscorejs/</link>
+    <description>Recent content in Underscorejs on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 19 Sep 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/underscorejs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Underscore.js: cinto de utilidades JavaScript</title>
+      <link>http://localhost/jhonny-roger/public/underscore-js-cinto-de-utilidades-javascript/</link>
+      <pubDate>Wed, 19 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/underscore-js-cinto-de-utilidades-javascript/</guid>
+      <description>Underscore.js é uma pequena biblioteca de códigos utilitários voltados principalmente para a manipulação de estrutura de dados.
+Por míseros 4kb você ganha funcionalidades como map, select e invoke, além de uma engine de templating que, por si só, já faz valer o uso da biblioteca.
+Outro ponto legal é que os scripts procuram sempre utilizar recursos nativos do navegador, ou seja, em browsers modernos a biblioteca tira proveito das implementações de forEach, map, indexOf, filter etc.</description>
+    </item>
+    
+  </channel>
+</rss>

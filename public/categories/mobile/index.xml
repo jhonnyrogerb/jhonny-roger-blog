@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobile on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/categories/mobile/</link>
+    <description>Recent content in Mobile on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 24 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/categories/mobile/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Indo além no Mundo React-Native</title>
+      <link>http://localhost/jhonny-roger/public/indo-alem-no-react-native/</link>
+      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/indo-alem-no-react-native/</guid>
+      <description>Indo além no Mundo React-Native. Nos últimos meses resolvi aprofundar meus estudos no React Native. Após anos trabalhando apenas com desenvolvimento mobile nativo, um grande amigo me convenceu a experimentar esse novo framework.
+Confesso que até então, eu era um pouco reticente sobre frameworks que prometem entregar aplicativos nas duas plataformas (iOS e Android) a partir de um código único. Minha experiência com Cordova me dizia que isso não funcionava bem.</description>
+    </item>
+    
+    <item>
+      <title>O futuro das interfaces: Chatbots</title>
+      <link>http://localhost/jhonny-roger/public/o-futuro-das-interfaces-chatbots/</link>
+      <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-futuro-das-interfaces-chatbots/</guid>
+      <description>Estamos acostumados a interagir diariamente com interfaces gráficas, seja no computador, celular, tablet, smart tv, etc. Naturalmente incorporamos a utilização dessas interfaces para obter nossos objetivos no dispositivo em questão, seja fazer uma busca no google, ver uma página no Facebook, ler um artigo em um portal de notícias ou escolher um filme no Netflix.
+Podemos não perceber, mas quando ligamos para um call-center onde a máquina (URA — Unidade de Resposta Audível) nos pede para dizer em voz alta o que desejamos, ou o número correspondente ao que queremos, também estamos interagindo com uma interface de voz para atingir nosso propósito.</description>
+    </item>
+    
+    <item>
+      <title>Indexando mobile-first – Google anuncia novidades</title>
+      <link>http://localhost/jhonny-roger/public/indexando-mobile-first-google-anuncia-novidades/</link>
+      <pubDate>Wed, 30 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/indexando-mobile-first-google-anuncia-novidades/</guid>
+      <description>Segundo o Google, atualmente a maioria das pessoas já fazem busca utilizando um dispositivo móvel. Entretanto, os sistemas de classificação ainda costumam olhar a versão desktop do conteúdo da página em questão para dar relevância ao usuário. Pensando em mobile-first, isso pode trazer alguns problemas caso a página mobile tenha menos conteúdo do que a página desktop porque os algoritmos do Google não estão avaliando a página que está sendo vista pelo usuário da página mobile.</description>
+    </item>
+    
+    <item>
+      <title>Criando uma aplicação móvel com Ionic 2 e Angular 2 em dez passos</title>
+      <link>http://localhost/jhonny-roger/public/criando-uma-aplicacao-movel-com-ionic-2-e-angular-2-em-dez-passos/</link>
+      <pubDate>Fri, 04 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-uma-aplicacao-movel-com-ionic-2-e-angular-2-em-dez-passos/</guid>
+      <description>Introdução À esta altura do campeonato é provável que você já tenha ouvido falar da nova versão deste famoso framework para criação de aplicações móveis híbridas. O Ionic 2 acaba de chegar em seu Release Candidate e, com ele, trás uma série de recursos e otimizações de código, além de um considerável ganho de performance! Muito desse mérito se deve ao Angular (como é chamada a nova versão do framework, que deixa para trás o &amp;#8220;JS&amp;#8221; ao final do nome) que chega &amp;#8211; finalmente &amp;#8211; na sua versão estável, provando que não está para brincadeiras.</description>
+    </item>
+    
+    <item>
+      <title>Menos é mais com Android Annotations</title>
+      <link>http://localhost/jhonny-roger/public/menos-e-mais-com-android-annotations/</link>
+      <pubDate>Mon, 19 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/menos-e-mais-com-android-annotations/</guid>
+      <description>De todo o trabalho que você tem ao programar uma aplicação android, uma grande parte dele é por conta de todo o código boilerplate que sempre temos que fazer. Uma das coisas que mais me incomoda é que todos os recursos (views e afins) precisam ser referenciados para poderem ser acessados e isso, dependendo da quantidade de recursos que você precisa ter na aplicação, pode resultar em muitas e muitas linhas de código.</description>
+    </item>
+    
+    <item>
+      <title>Você conhece AMP?</title>
+      <link>http://localhost/jhonny-roger/public/voce-conhece-amp/</link>
+      <pubDate>Wed, 13 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/voce-conhece-amp/</guid>
+      <description>O projeto AMP &amp;#8211; Accelerated Mobile Pages, é uma iniciativa Google em conjunto com alguns publishers como Chartbeat, Vox, WordPress.com, Twitter, The Washington Post, UOL, etc; de trabalhar uma estrutura de rápido carregamento de conteúdos em Smartphones. Afinal, apesar da navegação mobile crescer dia-a-dia as soluções para uma entrega com mais velocidade ainda andam a passos lentos. Nossa conexão de internet em celulares ainda não tem a devida capacidade e nos obriga a, em alguns casos, buscar tamanha versatilidade em nosso desenvolvimento web a ponto de, em um site responsivo, ter que oferecer uma &amp;#8220;cidade completa e bem elaborada&amp;#8221; em sua versão desktop e uma &amp;#8220;ilha&amp;#8221; em sua versão mobile para não correr o risco de prejudicar nosso usuário.</description>
+    </item>
+    
+    <item>
+      <title>Introduzindo “Rich Cards”, um novo formato de resultados para Buscas</title>
+      <link>http://localhost/jhonny-roger/public/introduzindo-rich-cards-um-novo-formato-de-resultados-para-buscas/</link>
+      <pubDate>Mon, 04 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introduzindo-rich-cards-um-novo-formato-de-resultados-para-buscas/</guid>
+      <description>Como uma boa empresa de tecnologia, o Google parece fazer da necessidade de evoluir suas ferramentas uma &amp;#8220;obsessão&amp;#8221;. Quando o assunto é mobilidade então, essa questão é um pouco superior.
+Todo mundo sabe que a maneira de interagir em um resultado de busca depende muito de como as informações estão organizadas no topo. Temos uma tendência em clicar nos primeiros resultados, algo que o o próprio Google nos educou. Com os Dados Estruturados (Rich Snippets), temos uma nova forma de obter resultados relevantes, através de imagens, votação entre outros meios que certamente influenciarão nosso clique.</description>
+    </item>
+    
+    <item>
+      <title>React Native: Construa aplicações móveis nativas com JavaScript</title>
+      <link>http://localhost/jhonny-roger/public/react-native-construa-aplicacoes-moveis-nativas-com-javascript/</link>
+      <pubDate>Tue, 05 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/react-native-construa-aplicacoes-moveis-nativas-com-javascript/</guid>
+      <description>Introdução O React Native é um projeto desenvolvido pelos engenheiros do Facebook e que consiste em uma série de ferramentas que viabilizam a criação de aplicações móveis nativas para a plataforma iOS e Android, utilizando o que há de mais moderno no desenvolvimento Front-end &amp;#8211; mirando no futuro. É o estado da arte no que se refere ao desenvolvimento mobile baseado em JavaScript.
+O stack do React Native é poderoso, pois nos permite utilizar ECMAScript 6, CSS Flexbox, JSX, diversos pacotes do NPM e muito mais.</description>
+    </item>
+    
+    <item>
+      <title>Login com a API do GooglePlus no Android.</title>
+      <link>http://localhost/jhonny-roger/public/login-com-api-do-googleplus-no-android/</link>
+      <pubDate>Thu, 31 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/login-com-api-do-googleplus-no-android/</guid>
+      <description>Temos uma opção bastante útil hoje em dia no Android, que é usar a sincronização da conta de e-mail do Google.
+Não vou alongar muito a introdução, vamos partir para a codificação e configuração da API.
+Criando um novo Projeto no AndroidStudio 
+Digite o nome da aplicação e escolha também um nome do package, vamos precisar para ativar a API do GooglePlus no Console do Google. Continuei a criação e escolha uma Empty Activity.</description>
+    </item>
+    
+    <item>
+      <title>A importância de desenvolver considerando off-line first</title>
+      <link>http://localhost/jhonny-roger/public/a-importancia-do-offline-first/</link>
+      <pubDate>Wed, 18 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/a-importancia-do-offline-first/</guid>
+      <description>Você está em casa à noite e resolve baixar um jogo no seu smartphone. Depois de algumas horas jogando, é hora de ir dormir porque no dia seguinte você tem um voo para pegar. Logo após a decolagem você resolve passar mais uma fase daquele joguinho que instalou. Ao abrir o aplicativo, você se depara com a necessidade de conexão com a internet para jogar (e muitas vezes até para abrir o jogo).</description>
+    </item>
+    
+    <item>
+      <title>Material Design na barra de navegação &amp; status do Chrome</title>
+      <link>http://localhost/jhonny-roger/public/material-design-na-barra-de-navegacao-status-chrome/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/material-design-na-barra-de-navegacao-status-chrome/</guid>
+      <description>Recentemente muitos aplicativos já estão seguindo essa nova tendência de aplicar o material design do google no seus aplicativos mas meu foco hoje não são os aplicativos mas sim em sites responsivos, o que isso de aplicar material de design na barra de navegação?
+
+Pois bem vamos aplicar essa barra de status alterada e a barra de navegação também (Obs: Só vai pegar em Android 5.0 ou superior com Chome instalado)</description>
+    </item>
+    
+    <item>
+      <title>A pasta “res” e os resources em um projeto Android</title>
+      <link>http://localhost/jhonny-roger/public/a-pasta-res-e-os-resources-em-um-projeto-android/</link>
+      <pubDate>Wed, 15 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/a-pasta-res-e-os-resources-em-um-projeto-android/</guid>
+      <description>É preciso mais do que só código para criarmos um aplicativo realmente bom para Android. E por mais que amemos código, temos que entender como usar todos os recursos que o Android nos dá, por isso, vamos lá!
+O primeiro passo é entender que resources o Android nos permite usar na criação de um App.
+Tipos de Resources Como vamos ver daqui a pouco, todos os resources de um projeto ficam na pasta res/ dele.</description>
+    </item>
+    
+    <item>
+      <title>Tutorial Ionic – Meu primeiro app</title>
+      <link>http://localhost/jhonny-roger/public/tutorial-ionic-meu-primeiro-app/</link>
+      <pubDate>Thu, 05 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tutorial-ionic-meu-primeiro-app/</guid>
+      <description>Introdução Após publicar uma breve introdução do Ionic Framework, vamos agora tentar construir uma app que consiga abordar o uso de componentes nativos de um celular assim como o build para as determinadas plataformas.
+Para isso, ao decorrer deste tutorial, vamos construir uma app bastante simples que utiliza a posição do usuário para exibir os dados do tempo na tela.
+O que é necessário?  NodeJS NPM  Após instalar os 2, vamos instalar o ionic e o cordova como módulos globais.</description>
+    </item>
+    
+    <item>
+      <title>Introdução ao Ionic Framework</title>
+      <link>http://localhost/jhonny-roger/public/introducao-ao-ionic-framework/</link>
+      <pubDate>Thu, 26 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-ao-ionic-framework/</guid>
+      <description>O que é o Ionic? Ionic é um framework criado no final de 2013 que visa a criação de aplicações híbridas para dispositivos móveis. Hoje o Ionic encontra-se na versão 1.0.0-beta.14 que segundo a equipe por trás do desenvolvimento, será o último release beta.
+Ele nada mais é do que uma pilha de componentes e outros frameworks. Estes componentes são:
+ Cordova: Integração com recursos nativos dos dispositivos AngularJS: Criação da parte Web da App Ionic Module e o Ionic CLI: Ferramentas e Componentes disponibilizados pelo framework  Pré-requisitos Para utilizar o Ionic e desenvolvedor aplicações móveis com o Cordova é necessário ter instalado as seguintes dependências:</description>
+    </item>
+    
+    <item>
+      <title>Tamanho da tela e tamanho da janela com JavaScript</title>
+      <link>http://localhost/jhonny-roger/public/tamanho-da-tela-e-tamanho-da-janela-com-js/</link>
+      <pubDate>Mon, 09 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tamanho-da-tela-e-tamanho-da-janela-com-js/</guid>
+      <description>Se você trabalha em um projeto que precisa ser em visto em todos os dispositivos, você precisará ir muito além das Media Queries. Um passo adiante será detectar o tamanho da tela do usuário e também o tamanho da janela usada pelo usuário.
+Note que os dois são bem diferentes. Enquanto o usuário está um desktop, ele pode modificar o tamanho da janela do browser e consequentemente isso irá alterar o breakpoint da página.</description>
+    </item>
+    
+    <item>
+      <title>Destaques responsivos</title>
+      <link>http://localhost/jhonny-roger/public/destaques-responsivos/</link>
+      <pubDate>Mon, 29 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/destaques-responsivos/</guid>
+      <description>Hoje criaremos três destaques com um comportamento totalmente responsivo.
+Com um crescimento das SPAs e seguindo o mesmo conceito do artigo anterior, vou passar agora de uma forma simples de como usar, o input radio para transformar nossos destaques em galeria navegável.
+Aproveitando Como já temos um header responsivo, vamos continuar com a mesma estrutura até o final dos artigos só com css e html. Se você ainda não viu como criar um header responsivo, clique aqui.</description>
+    </item>
+    
+    <item>
+      <title>Anotações sobre Material Design do Google</title>
+      <link>http://localhost/jhonny-roger/public/anotacoes-sobre-material-design-google/</link>
+      <pubDate>Wed, 03 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/anotacoes-sobre-material-design-google/</guid>
+      <description>O Material Design nasceu com a necessidade de melhorar o design do Google. Não é segredo que o design do Google era quase inexistente, pra não dizer um lixo. O Google é uma empresa de programadores e muito por causa disso não havia uma essência clara de que o design é algo importante. Mas isso tem mudado desde 2011, que foi quando Larry Page teve controle total da empresa e decidiu mudar esse quadro.</description>
+    </item>
+    
+    <item>
+      <title>Sobre desenvolvimento multi-device</title>
+      <link>http://localhost/jhonny-roger/public/sobre-desenvolvimento-multi-device/</link>
+      <pubDate>Mon, 30 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sobre-desenvolvimento-multi-device/</guid>
+      <description>Hoje existem uma série de dispositivos misturados em pelo menos três categorias que conhecemos: smartphones, tablets e desktops. Mas onde começa um e termina outro? Um smartphone de seis ou sete polegadas é um tablet? Se você acha que não existem smartphones deste tamanho, pesquise sobre o Fonepad da Asus para ter um exemplo. Dividir os aparelhos pelo tamanho da tela ou por features já não é mais tão seguro como antes.</description>
+    </item>
+    
+    <item>
+      <title>O futuro chegou: O elemento picture</title>
+      <link>http://localhost/jhonny-roger/public/o-futuro-chegou-o-elemento-picture/</link>
+      <pubDate>Tue, 10 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-futuro-chegou-o-elemento-picture/</guid>
+      <description>O título é muito tentador, não é? Então, eu apenas estou completando o que a Dani Guerrato disse nesse artigo sobre Imagens Responsivas (Elemento Picture). O &amp;#8220;futuro&amp;#8221;, agora, é nosso querido presente.
+No dia 04/06/2014 o site A List Apart postou um artigo falando sobre o elemento picture que era estudado há um bom tempo e foi finalmente implementado para testes no Google Chrome Canary (Browser para testes das mais novas coisas que inventam).</description>
+    </item>
+    
+    <item>
+      <title>Debug Remoto com Chrome no Android</title>
+      <link>http://localhost/jhonny-roger/public/debug-remoto-com-chrome-android/</link>
+      <pubDate>Sat, 22 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/debug-remoto-com-chrome-android/</guid>
+      <description>Vasculhando a web me deparei com uma coisa muito interessante: a Google criou uma forma de nós, desenvolvedores, usarmos nossas máquinas e o Google Chrome DevTools para inspecionar, debugar e analizar páginas em nossos dispositivos móveis.
+Como isso funciona? O &amp;#8220;RemoteDebugging&amp;#8221; ocorre pela porta USB, a partir do momento que você conecta seu celular no computador, você pode inspecionar páginas html, css, javascript, rodar scripts no console, visualizar o comportamento de uma página nem precisar realizar deploy, testar web apps, outra coisa interessante é que você pode até inspecionar Webviews.</description>
+    </item>
+    
+    <item>
+      <title>Design de Aplicativos para Android – Parte 2</title>
+      <link>http://localhost/jhonny-roger/public/design-de-aplicativos-para-android-parte-2/</link>
+      <pubDate>Wed, 05 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/design-de-aplicativos-para-android-parte-2/</guid>
+      <description>No primeiro artigo desta série, conversamos um pouco sobre a anatomia de um App Android e no que ele difere de outros sistemas operacionais. Hoje vamos nos aprofundar nos aspectos mais técnicos do design de aplicativos. Busque seu café e boa leitura!
+O que é um pixel? Um pixel é o menor ponto físico em um dispositivo. É uma combinação espertinha de duas palavras pix (como em &amp;#8220;picture&amp;#8221;) e el (como em &amp;#8220;element&amp;#8221;).</description>
+    </item>
+    
+    <item>
+      <title>Design de Aplicativos para Android – Parte 1</title>
+      <link>http://localhost/jhonny-roger/public/design-de-aplicativos-para-android-parte-1/</link>
+      <pubDate>Mon, 27 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/design-de-aplicativos-para-android-parte-1/</guid>
+      <description>Uma questão de motivação Recentemente participei de uma maratona de desenvolvimento chamada Google Developer Bus onde encarei o seguinte desafio: criar o layout para um aplicativo Android em apenas 3 dias. Já trabalho há alguns anos com design para a web e, quem acompanha meus textos sabe, sou uma grande evangelista do design responsivo. Mas esta experiência anterior não foi o suficiente para me preparar para a tarefa. Criar aplicativos nativos é algo completamente diferente!</description>
+    </item>
+    
+    <item>
+      <title>Não tenho versão mobile, faço ou não faço?</title>
+      <link>http://localhost/jhonny-roger/public/nao-tenho-versao-mobile-faco-ou-nao-faco/</link>
+      <pubDate>Mon, 06 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/nao-tenho-versao-mobile-faco-ou-nao-faco/</guid>
+      <description>Estamos fazendo uma reestruturação no framework da firma. A primeira versão do projeto tinha como objetivo iniciar uma estruturação e uniformização de comportamento e design dos layouts de cada produto, melhorando o código front-end gerado, automatizando algumas tarefas e uniformizando o design e a expediência de uso. Não havíamos planejado nessa primeira versão qualquer tipo de compatibilidade com dispositivos móveis.
+Nessa reestruturação, o objetivo principal é produzir um novo código mais legível e escalável possível, de forma que não apenas nossa equipe de front-end consiga usar componentes, mas também que os back-ends possam montar painéis inteiros, como um quebra-cabeças, sem a necessidade de um front-end para tarefas básicas.</description>
+    </item>
+    
+    <item>
+      <title>Frame Player: Indo além da tag video em dispositivos móveis</title>
+      <link>http://localhost/jhonny-roger/public/frame-player-indo-alem-da-tag-video-em-dispositivos-moveis/</link>
+      <pubDate>Wed, 27 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/frame-player-indo-alem-da-tag-video-em-dispositivos-moveis/</guid>
+      <description>Desde que o Flash se tornou obsoleto em dispositivos móveis (ou em outras palavras: quando a Apple o baniu do iOS) a forma de manipular arquivos de media ficou cada vez mais tendenciosa para uso das tags audio e video, consolidando o padrão Web. De toda forma o Flash ainda sobrevive bem neste ramo (prova disso é o YouTube que mantém seu player), mas este não será o foco deste artigo.</description>
+    </item>
+    
+    <item>
+      <title>Design para Google Glass</title>
+      <link>http://localhost/jhonny-roger/public/design-para-google-glass/</link>
+      <pubDate>Mon, 26 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/design-para-google-glass/</guid>
+      <description>A não ser que você tenha passado o último ano da sua vida em coma, é provável que você já tenha ouvido falar no Google Glass. Mas o que ele realmente faz? Quais são as limitações técnicas? Como criar layouts tanto para a web quanto para aplicativos nativos que possuam um design adequado para esta nova mídia? E como testar isto tudo sem possuir um aparelho? Ok, Tableless! Vamos responder estas perguntas&amp;#8230;</description>
+    </item>
+    
+    <item>
+      <title>Design para telas sensíveis ao toque</title>
+      <link>http://localhost/jhonny-roger/public/design-para-telas-sensiveis-ao-toque/</link>
+      <pubDate>Mon, 05 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/design-para-telas-sensiveis-ao-toque/</guid>
+      <description>A popularização das telas sensíveis ao toque adicionou uma esfera completamente nova ao design de interfaces: a experiência tátil. Este é um trabalho bem diferente do que nós designers e desenvolvedores estávamos acostumados até então, já que a possibilidade de utilizar esta nova forma de toque permite ao usuário interagir diretamente com a informação como se estivesse manipulando dados com propriedades físicas. Este novo universo de possibilidades, embora fascinante, também trouxe novos desafios.</description>
+    </item>
+    
+    <item>
+      <title>O Cenário do Web Design Responsivo</title>
+      <link>http://localhost/jhonny-roger/public/o-cenario-do-web-design-responsivo/</link>
+      <pubDate>Wed, 17 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-cenario-do-web-design-responsivo/</guid>
+      <description>O Web design responsivo está por aí há alguns anos, e foi destaque em 2012. Muitas estrelas da web, como Brad Frost e Luke Wroblewski, possuem vasta experiência neste tema e têm nos ajudado a fazer grandes melhorias. Mesmo assim, ainda há muito a ser feito.
+Neste artigo, vamos ver o que já é possível fazer hoje, o que será possível no futuro &amp;#8211; usando propriedades ainda não padronizadas (como CSS nível 4 e API&amp;#8217;s do HTML5) &amp;#8211; e o que ainda precisa ser melhorado.</description>
+    </item>
+    
+    <item>
+      <title>Padrões Complexos de Navegação no Design Responsivo</title>
+      <link>http://localhost/jhonny-roger/public/padroes-complexos-de-navegacao-no-design-responsivo/</link>
+      <pubDate>Fri, 28 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/padroes-complexos-de-navegacao-no-design-responsivo/</guid>
+      <description>A pergunta que mais recebo desde que postei meu artigo sobre Modelos responsivos de navegação é: Como lidar com uma navegação complexa no design responsivo?
+Ótima pergunta, mas antes de entrar nos pormenores, eu vos peço: Use o celular como uma desculpa para revisitar sua navegação. Observe suas análises. Quais os pontos chave da sua experiência? Onde as pessoas passam a maior parte do tempo? Você realmente precisa da sua &amp;#8220;política de privacidade&amp;#8221; na navegação principal?</description>
+    </item>
+    
+    <item>
+      <title>Mitos sobre dispositivos móveis</title>
+      <link>http://localhost/jhonny-roger/public/mitos-sobre-dispositivos-moveis/</link>
+      <pubDate>Tue, 26 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/mitos-sobre-dispositivos-moveis/</guid>
+      <description>Mito 1 &amp;#8211; Usuários utilizam dispositivos móveis apenas na rua (e a conexão é sempre lenta) Entre todos os meus gadgets o meu tablet é o meu favorito. Ele fica sempre por perto e nunca desliga. Se eu preciso de uma informação é só estender o braço e ler. Muito mais rápido e prático do que andar até o escritório, ligar o computador, esperar o navegador abrir e realizar uma busca.</description>
+    </item>
+    
+    <item>
+      <title>Design responsivo: foco no ser humano</title>
+      <link>http://localhost/jhonny-roger/public/design-responsivo-foco-no-ser-humano/</link>
+      <pubDate>Thu, 21 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/design-responsivo-foco-no-ser-humano/</guid>
+      <description>Quando o computador tornou-se realmente pessoal, o desenvolvimento de softwares cresceu exponencialmente. Uma enorme demanda de aplicativos surgia para aquele produto enorme, com monitor CRT e velocidade de processamento muito menor do que o telefone celular que está no seu bolso.
+Esses aplicativos traziam novidades e surgiam para resolver problemas que ainda não tínhamos. Com o tempo, passamos a nos familiarizar com a interface desse dispositivo mas hoje, olhando para trás, é possível entender como naquela época desenvolvíamos um software pensando na máquina, e não na pessoa que faria o uso dela.</description>
+    </item>
+    
+    <item>
+      <title>As muitas faces do Mobile First</title>
+      <link>http://localhost/jhonny-roger/public/as-muitas-faces-do-mobile-first/</link>
+      <pubDate>Fri, 25 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/as-muitas-faces-do-mobile-first/</guid>
+      <description>Vemos a frase &amp;#8220;mobile-first&amp;#8221; em todos os lugares. Luke Wroblewski definitivamente atingiu uma veia quando cunhou este termo há alguns anos, e criou um importante grito de guerra a medida que entramos neste futuro multi-screen.
+A definição mobile-first de Luke consiste em três componentes principais:
+ O crescimento do mobile é, mais do que nunca, uma grande oportunidade de atingir as pessoas;
+ As restrições do meio mobile nos força a focar no que realmente importa;</description>
+    </item>
+    
+    <item>
+      <title>Web Móvel e suas aplicações</title>
+      <link>http://localhost/jhonny-roger/public/web-movel-e-suas-aplicacoes/</link>
+      <pubDate>Mon, 07 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/web-movel-e-suas-aplicacoes/</guid>
+      <description>Compreender os seus pontos fortes e suas limitações, e utilização de tecnologias que se encaixam nessas condições são fundamentais para criar o sucesso de conteúdo.
+O que é especifico para criação em dispositivos móveis Idealmente, os autores de sites seriam capaz de atender à crescente demanda por uma experiência móvel de qualidade, sem mudar uma linha de código. Mas a realidade é que um site projetado especificamente com mobilidade em mente sempre nos proporciona uma experiência de usuário muito melhor para os usuários móveis.</description>
+    </item>
+    
+    <item>
+      <title>Seu Conteúdo, Agora Mobile</title>
+      <link>http://localhost/jhonny-roger/public/seu-conteudo-agora-mobile/</link>
+      <pubDate>Thu, 22 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/seu-conteudo-agora-mobile/</guid>
+      <description>_Resumo do 1° capítulo do livro “Strategy for Mobile” de Karen MacGrane, disponível na Editora A Book Apart_.
+Quando falamos sobre criar produtos e serviços para mobile, a conversa tende a concentrar-se nos desafios do design e desenvolvimento. Como a estética do nosso design muda quando estamos lidando com uma tela menor (ou com maior resolução)? Como podemos empregar (e ensinar) novas interações gestuais, que aproveitem as capacidades touchscreen? Como (e quem) vamos escrever o código para todas essas diferentes plataformas – e como manteremos todas elas?</description>
+    </item>
+    
+    <item>
+      <title>Passwords em Mobiles</title>
+      <link>http://localhost/jhonny-roger/public/passwords-em-mobiles/</link>
+      <pubDate>Sun, 11 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/passwords-em-mobiles/</guid>
+      <description>Estava conversando outro dia com um pessoal sobre melhores práticas em sites/sistemas mobile. Um dos pontos foi a forma que tratamos senhas em mobiles. Em desktops e outros terminais (como caixas eletrônicos) é necessário que sua senha seja escondida conforme você a digita. Isso é bom por que pode ter algum engraçadinho perto de você, olhando a sua tela. Com mobile é um pouco diferente. Normalmente você está com o dispositivo na sua mão, utilizando-o perto do seu corpo, bem difícil de alguém tentar ficar bisbilhotando, e se estiver é fácil de esconder.</description>
+    </item>
+    
+    <item>
+      <title>Responsive Web Design – Adaptação vs Otimização</title>
+      <link>http://localhost/jhonny-roger/public/responsive-web-design-adaptacao-vs-otimizacao/</link>
+      <pubDate>Tue, 26 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/responsive-web-design-adaptacao-vs-otimizacao/</guid>
+      <description>Uma pancada de pessoas já me perguntaram sobre qual é o melhor: criar um site responsive e adaptável ou uma versão específica para mobiles e outros dispositivos. A resposta é: depende.
+Depende. Cada situação é um caso diferente. O Responsive tem vantagens e desvantagens, assim como versões específicas. A ideia é sempre fazer a melhor expediência possível para o usuário. Isso inclui, além de design, velocidade, performance e vários outros pontos.</description>
+    </item>
+    
+    <item>
+      <title>Entendendend a regra @viewport do HTML</title>
+      <link>http://localhost/jhonny-roger/public/regra-viewport/</link>
+      <pubDate>Mon, 04 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/regra-viewport/</guid>
+      <description>Faz algum tempo que podemos manipular o viewport dos browsers para podermos entregar um website mais adequado e confortável para os usuários. Essa manipulação era feita diretamente via uma metatag no head do documento, algo assim:
+&amp;lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1, maximum-scale=1.0&#34;&amp;gt;  Isso é necessário por que você tem uma resolução gigante em aparelhos com a tela &amp;#8220;relativamente&amp;#8221; pequena, com 320&amp;#215;480. Lembre-se que a resolução é uma coisa, o tamanho da tela é outra.</description>
+    </item>
+    
+    <item>
+      <title>A Batalha das App Stores – Conheça os Pontos Fortes e Previsões</title>
+      <link>http://localhost/jhonny-roger/public/a-batalha-das-app-stores-conheca-os-pontos-fortes-e-previsoes/</link>
+      <pubDate>Wed, 04 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/a-batalha-das-app-stores-conheca-os-pontos-fortes-e-previsoes/</guid>
+      <description>Os celulares estão cada vez mais conectados com a Internet. Com a invasão do iPhone e também dos smartphones dotados com a plataforma Android, um novo e extenso leque de opções foi aberto: agora é possível fazer download de jogos e inúmeros aplicativos para as mais diversas funções direto de lojas online, as chamadas app stores.
+Para você que se interessa pelo tema ou está em dúvida sobre quais os pontos fortes de cada plataforma, a Ponto Frio disponibilizou na internet um infográfico sobre app stores que reúne diversas informações relevantes e interessantes sobre o tema.</description>
+    </item>
+    
+    <item>
+      <title>Qualidade de Imagens e densidade de pixels</title>
+      <link>http://localhost/jhonny-roger/public/qualidade-de-imagens-e-densidade-de-pixels/</link>
+      <pubDate>Mon, 26 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/qualidade-de-imagens-e-densidade-de-pixels/</guid>
+      <description>Você se lembra quando planejavamos nossos layouts para resoluções acima de 1024? Chega ser engraçado lembrar que um dia fizemos websites para 640&amp;#215;480, pensando que a resolução de 1024&amp;#215;768 eram a minoria dos usuários. Os tempos mudaram e naturalmente diversas outras resoluções apareceram por conta de novos dispositivos, melhores monitores e etc. Acontece que na web nada é tão fácil assim. A gente se livra de um problema, mas aparece outro no lugar.</description>
+    </item>
+    
+    <item>
+      <title>Responsive Web Design – focando a coisa certa</title>
+      <link>http://localhost/jhonny-roger/public/responsive-web-design-voce-esta-fazendo-isso-errado/</link>
+      <pubDate>Tue, 20 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/responsive-web-design-voce-esta-fazendo-isso-errado/</guid>
+      <description>Eu andei pensando em um assunto e procurando sobre encontrei um artigo, fresquinho, no Brad Frost que veio de encontro ao que eu estava matutando. Eu escrevi em tempos passados um artigo sobre por que estávamos desenvolvendo apenas para iPhone. Foi aí que começamos a pensar em versões mobiles. Mas fazíamos versões mobiles dos nossos sistemas e websites simplesmente sem entender quando a necessidade de ter um site mobile era real.</description>
+    </item>
+    
+    <item>
+      <title>Seu lugar ao sol</title>
+      <link>http://localhost/jhonny-roger/public/seu-lugar-ao-sol/</link>
+      <pubDate>Mon, 12 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/seu-lugar-ao-sol/</guid>
+      <description>Você realmente acha que vai escrever CSS e HTML como escreve hoje em um cenário como este?
+Você já parou para pensar onde CSS/HTML e Javascript se encaixam em um ambiente onde a web é praticamente camuflada por APPs específicos? Eu não estou me referindo a estes Apps como conhecemos hoje. Podem ser Apps instaladas ou WebApps, neste futuro, dá na mesma. Não há diferença.
+Pior do que pensar o lugar que CSS e HTML estarão é pensar em como VOCÊ se colocará em um ambiente tão novo quanto este.</description>
+    </item>
+    
+    <item>
+      <title>Conheça de verdade o Boot2Gecko (ou FirefoxOS)</title>
+      <link>http://localhost/jhonny-roger/public/conheca-de-verdade-o-boot2gecko-ou-firefoxos/</link>
+      <pubDate>Sun, 29 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/conheca-de-verdade-o-boot2gecko-ou-firefoxos/</guid>
+      <description>Uma das coisas que eu tenho notado nos últimos tempos é o volume de desenvolvedores web com interesse no mundo mobile. Não é por menos, esse é um dos mercados de desenvolvimento que mais crescem no mundo.
+Com essa onda, muitos curiosos começam a investir um pouco do seu tempo para criar apps de iPhone ou Android. Só que, logo de cara, esbarram com uma tremenda barreira, as diferentes linguagens de programação.</description>
+    </item>
+    
+    <item>
+      <title>Um pensamento sobre design para web</title>
+      <link>http://localhost/jhonny-roger/public/um-pensamento-sobre-design-para-web/</link>
+      <pubDate>Thu, 19 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/um-pensamento-sobre-design-para-web/</guid>
+      <description>É engraçado quando designers de peças offline tentam migrar para web e ficam assustados com as diferenças no processo de criação e produção. O controle que o design para impresso tem sobre a posição dos elementos e a forma final da arte nunca (nunca?) será a mesma na web. No impresso você define precisamente as medidas, posicionando dos elementos, o tamanho das letras, entrelinhas e cores (mesmo brigando bastante nas gráficas por aí).</description>
+    </item>
+    
+    <item>
+      <title>Style Guide para Android</title>
+      <link>http://localhost/jhonny-roger/public/style-guide-para-android/</link>
+      <pubDate>Fri, 13 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/style-guide-para-android/</guid>
+      <description>A Wired entrevistou o Matias Duarte, o cara por trás (ui!) do planejamento de UX do Android.
+O Google lançou recentemente um guia de estilo para desenvolvedores do Android. Neste artigo eles conversam sobre como é difícil manter um sistema operacional para mobiles que pode ser instalado e portado para praticamente qualquer dispositivo. Quando um sistema tem essa flexibilidade, as chances da usabilidade e acessibilidade das aplicações e também do sistema tem grandes chances de dar carquinha.</description>
+    </item>
+    
+    <item>
+      <title>Utilizando APPs em vez de browsers</title>
+      <link>http://localhost/jhonny-roger/public/utilizando-apps-em-vez-de-browsers/</link>
+      <pubDate>Fri, 06 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/utilizando-apps-em-vez-de-browsers/</guid>
+      <description>De acordo com a comScore as pessoas estão usando mais mobile Apps para consumir conteúdo do que browsers.
+O tráfego medido pela comScore mostra o market share dos principais players do mercado de mobile em Novembro. O Android continua ganhando, logo atrás vem o iPhone que foi impulsionado pelas vendas do 4S. Todas as outras plataformas perderam campo. Outra coisa, o report da comScore não conta com iPads nem iPods.</description>
+    </item>
+    
+    <item>
+      <title>Experiência cross-device</title>
+      <link>http://localhost/jhonny-roger/public/experiencia-cross-device/</link>
+      <pubDate>Thu, 22 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/experiencia-cross-device/</guid>
+      <description>Eu vivo comentando aqui no Tableless sobre o desenvolvimento de sistemas e websites para os diversos meios de acesso. Eu falei sobre esse assunto em diversos artigos. Eu li um artigo chamado The Coming Zombie Apocalypse, escrito por Scott Jenson em abril deste ano. Este artigo me fez perceber que eu estava levando o assunto muito superficialmente, mas que tem muito a ver com o artigo publicado aqui chamado A Experiência deve ter começo, meio e fim.</description>
+    </item>
+    
+    <item>
+      <title>Mobile First – A arte de pensar com foco</title>
+      <link>http://localhost/jhonny-roger/public/mobile-first-a-arte-de-pensar-com-foco/</link>
+      <pubDate>Tue, 13 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/mobile-first-a-arte-de-pensar-com-foco/</guid>
+      <description>Durante muito tempo especialistas de diversas áreas previram o crescimento do uso dos dispositivos móveis. Demorou um pouco mas a previsão se tornou verdadeira. Hoje todo mundo carrega um pedaço de plástico com uma tela de vidro na mão o dia inteiro&amp;#8230; quase uma extensão de nossos corpos.
+Os dispositivos móveis se tornaram uma febre e vieram para ficar. É a melhor forma de fazer a inclusão digital para aqueles que não tem uma forma de ter um notebook ou um desktop em casa.</description>
+    </item>
+    
+    <item>
+      <title>Você sabe o que é a “nova usabilidade”? – parte II</title>
+      <link>http://localhost/jhonny-roger/public/o-que-e-nova-usabilidade-parte2/</link>
+      <pubDate>Mon, 12 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-que-e-nova-usabilidade-parte2/</guid>
+      <description>A nova usabilidade procura trazer abordagens para lidar com os novos desafios para o desenvolvimento de aplicações baseadas em tecnologias emergentes, como os dispositivos móveis.
+A intenção dessa denominação é chamar a atenção para o fato de que a os métodos, técnicas e ferramentas de usabilidade que possuímos hoje precisam ser revistos para contemplar a evolução tecnológica e as especificidades dos interesses dos usuários.
+O problema com os testes de usabilidade Os testes de usabilidade como conhecemos hoje (realizados em laboratório) passam a não ter o mesmo grau de eficiência nestes novos cenários de uso.</description>
+    </item>
+    
+    <item>
+      <title>Você sabe o que é a “nova usabilidade”? – parte I</title>
+      <link>http://localhost/jhonny-roger/public/nova-usabilidade-parte1/</link>
+      <pubDate>Mon, 05 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/nova-usabilidade-parte1/</guid>
+      <description>Vimos na parte I e parte II dos artigos sobre usabilidade em dispositivos móveis que as heurísticas permanecem praticamente as mesmas tanto para as aplicações móveis quanto convencionais, a diferença é o quão crítica ou severa elas se tornam para as aplicações móveis. Por este motivo, Thomas e Macredie propuseram em 2002 (sim, há 9 anos!) o paradigma da Nova Usabilidade.
+ &amp;#8220;A usabilidade convencional e mais amplamente disseminada tem suas bases no paradigma do computador pessoal.</description>
+    </item>
+    
+    <item>
+      <title>Experiência deve ter começo, meio e fim</title>
+      <link>http://localhost/jhonny-roger/public/experiencia-deve-ter-comeco-meio-e-fim/</link>
+      <pubDate>Mon, 28 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/experiencia-deve-ter-comeco-meio-e-fim/</guid>
+      <description>Esse artigo pode parecer meio confuso, mas é apenas um pensamento que estive matutando. Não ligue se a ordem das ideias estiverem tortas e sinuosas. 😉
+Tive uma experiência muito ruim no primeiro dia de 2010: pulei na piscina com meu iPhone no bolso.
+Ok, pode me xingar agora.
+Depois da tragédia, ele durou rápidos 5 segundos, e faleceu. Não ligava, não apitava, não fazia nada. &amp;#8220;Paciência&amp;#8221;, falei para mim mesmo.</description>
+    </item>
+    
+    <item>
+      <title>Usabilidade de interfaces para dispositivos móveis – parte II</title>
+      <link>http://localhost/jhonny-roger/public/usabilidade-interfaces-dispositivos-moveis-parte2/</link>
+      <pubDate>Wed, 23 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/usabilidade-interfaces-dispositivos-moveis-parte2/</guid>
+      <description>Como vimos na primeira parte do artigo, as diretrizes existentes de usabilidade continuam valendo no contexto mobile, mas precisam ser revistas e interpretadas de outra forma. Podemos perceber que o gargalo é conseguir manter as informações e funcionalidades que fazem sentido neste cenário. Adequar aplicações ao contexto de dispositivos móveis apresenta determinados vieses de desenvolvimento.
+ Variedade de Dispositivos  Variação de hardware (muito maior do que computadores convencionais) Dispositivos móveis têm uma grande variedade de displays (tamanhos, cores, resolução), de forma de entrada de dados (touchscreen, teclado físico &amp;#8211; QWERTY ou convencional -, microfone, câmera) e também de capacidade (processamento, armazenamento, etc.</description>
+    </item>
+    
+    <item>
+      <title>Usabilidade de interfaces para dispositivos móveis – parte I</title>
+      <link>http://localhost/jhonny-roger/public/usabilidade-de-interfaces-para-dispositivos-moveis-parte1/</link>
+      <pubDate>Mon, 21 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/usabilidade-de-interfaces-para-dispositivos-moveis-parte1/</guid>
+      <description>Já escrevemos aqui no Tableless sobre melhores práticas de front-end / usabilidade para dispositivos móveis. Um questionamento comum a estas diretrizes é o quanto elas são específicas ao contexto mobile, pois muitas delas não se distinguem das diretrizes que vêm sendo difundidas há 20 anos.
+É fato que grande parte das diretrizes são semelhantes, mas o que muda é a criticidade quando tratamos de mobile. Algumas recomendações tornam-se mais graves e imperdoáveis quando não são seguidas no projeto de interfaces para dispositivos móveis.</description>
+    </item>
+    
+    <item>
+      <title>Introdução ao Responsive Web Design</title>
+      <link>http://localhost/jhonny-roger/public/introducao-ao-responsive-web-design/</link>
+      <pubDate>Mon, 15 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-ao-responsive-web-design/</guid>
+      <description>Você já deve ter ouvido falar sobre Responsive Web Design. Você pode ler sobre isso aqui e aqui.
+Até pouco tempo atrás tínhamos praticamente apenas um meio de acessar a internet, que era pelo desktop. Podíamos acessar mal e porcamente a internet pelos celulares ou por outros aparelhos ligados a televisão etc, mas nenhum destes meios nos permitia acessar a internet com a facilidade que tínhamos quando utilizávamos um desktop.</description>
+    </item>
+    
+    <item>
+      <title>Especificação para touch screens</title>
+      <link>http://localhost/jhonny-roger/public/especificacao-para-touch-screens/</link>
+      <pubDate>Wed, 22 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/especificacao-para-touch-screens/</guid>
+      <description>Até alguns anos atrás nós acessávamos a internet apenas utilizando computadores e celulares. Hoje existem aparelhos de diversos tipos. Temos até dispositivos como o Surface, ainda que seu uso seja mais restrito e específico. Mas não demora muito que outros dispositivos surjam e preencham alguma lacuna escondida. O importante é entender que cada aparelho tem sua forma de interação.
+Hoje, as interfaces touch estão maduras e estáveis, que chegam a inspirar as interfaces dos sistemas desktops.</description>
+    </item>
+    
+    <item>
+      <title>Interface Guide para Apps Mobiles</title>
+      <link>http://localhost/jhonny-roger/public/interface-guide-para-apps-mobiles/</link>
+      <pubDate>Thu, 26 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/interface-guide-para-apps-mobiles/</guid>
+      <description>Um dos sucessos dos Apps da Apple, tanto para mobiles quanto para desktops é a fidelidade e respeito que os desenvolvedores e designers tem ao seguir os padrões de interface que a Apple dispõe. São guias com informações importantes para que o App tenha um layout mais adequado e homogêneo com o sistema operacional. Dessa maneira o usuário final não se sente em um ambiente hostil e desconhecido.
+Separei 3 guias para que você, independente da sua área de atuação, leia e compreenda mais os padrões dos três principais sistemas operacionais para mobiles existentes: Android, iOS e Windows Phone.</description>
+    </item>
+    
+    <item>
+      <title>Manipulando a metatag Viewport</title>
+      <link>http://localhost/jhonny-roger/public/manipulando-metatag-viewport/</link>
+      <pubDate>Mon, 18 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/manipulando-metatag-viewport/</guid>
+      <description>O viewport é a área onde seu website aparece. É a área branca da janela quando você abre o browser. O viewport sempre vai ter o tamanho da janela. Mas a forma como os elementos são renderizados vai depender bastante do dispositivo. Em máquinas desktop nós não precisamos nos preocupar muito, já estamos acostumados com um determinado tamanho de tela e resolução média utilizada pelos usuários. Mas quando começamos a variar muito o tamanho das telas, a largura do viewport começa a ser uma preocupação porque afeta diretamente a forma como o usuário utiliza seu website.</description>
+    </item>
+    
+    <item>
+      <title>Bem vindo a Xangri-lá – Parte 2</title>
+      <link>http://localhost/jhonny-roger/public/bem-vindo-a-xangrila-parte-2/</link>
+      <pubDate>Mon, 06 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/bem-vindo-a-xangrila-parte-2/</guid>
+      <description>Uma vez familiares com a premissa do Progressive Enhancement, vamos entender como aplicar a abordagem para criar suas páginas do zero, garantindo que elas funcionem na maior aplitude de navegadores e dispositivos. Antes de começar, é importante lembrar que para tudo funcionar bem, você precisa conhecer as funcionalidades e limitações da especificacao HTML, seus elementos, tags, e atributos aprovados, isso esta disponivel no site do w3c. É importante tambem se manter no bleeding edge, para que novas linguagens (como o HTML5) não fiquem de fora de suas análises e ponderações.</description>
+    </item>
+    
+    <item>
+      <title>Bem vindo a Xangri-lá – Parte 1</title>
+      <link>http://localhost/jhonny-roger/public/bem-vindo-a-xangrila-parte-1/</link>
+      <pubDate>Thu, 25 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/bem-vindo-a-xangrila-parte-1/</guid>
+      <description>Um dia desses eu estava no meio de muita gente boa em um treinamento em São Paulo – um dos melhores que já fiz – e no meio de uma discussão sobre abordagens de desenvolvimento de aplicações internet crossbrowser e a maravilha que era o HTML5, o Elcio &amp;#8211; ele mesmo &amp;#8211; da Visie disse que Progressive Enhancement e Graceful Degradation eram a &amp;#8220;mesma coisa&amp;#8221;. Eu discordava dele porém não continuei o assunto porque essa questão poderia ser abordada de maneira mais abrangente, e porque o momento era de HTML5, não de como temos que escrever código.</description>
+    </item>
+    
+    <item>
+      <title>Navegabilidade em Dispositivos Móveis</title>
+      <link>http://localhost/jhonny-roger/public/navegabilidade-em-dispositivos-moveis/</link>
+      <pubDate>Wed, 17 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/navegabilidade-em-dispositivos-moveis/</guid>
+      <description>Um dos principais desafios ao projetar um site ou um sistema web para mobile é o tamanho em KB do conteúdo. Internet pelo celular ainda é cobrada por KB utilizados por muitas operadoras e o custo ainda é muito elevado no Brasil. Além disso, temos um espaço muito pequeno para mostrar o conteúdo. Mesmo os melhores smartphones touch-screen têm telas relativamente pequenas se compararmos com um monitor convencional ou notebook, o que cria um esforço de interação maior.</description>
+    </item>
+    
+    <item>
+      <title>Emuladores para browsers mobiles</title>
+      <link>http://localhost/jhonny-roger/public/emuladores-para-browsers-mobiles/</link>
+      <pubDate>Tue, 23 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/emuladores-para-browsers-mobiles/</guid>
+      <description>Criar sites para mobiles hoje não é bicho de sete cabeças, mas também não é tarefa fácil. Quando fazemos sites para desktops, temos tudo o que precisamos para testar ao nosso alcance. Se você usa Mac ou Linux, pode usar um virtualizador para ter o IE, se você usa Windows, tem todos os browsers que necessita para testes. Você pode ver o resultado em diferentes resoluções, tamanho de fontes e etc.</description>
+    </item>
+    
+    <item>
+      <title>Porque é a web que comanda</title>
+      <link>http://localhost/jhonny-roger/public/porque-e-a-web-que-comanda/</link>
+      <pubDate>Wed, 27 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/porque-e-a-web-que-comanda/</guid>
+      <description>A AppStore fez sucesso. Bastante. Por vários motivos: um deles foi por conta da remuneração do desenvolvedor. Teve gente que ganhou milhares de dólares sozinho vendendo aplicações por 99 centavos. Obviamente isso chamou a atenção de muita gente, que começou a fazer aplicações enlouquecidamente para ganhar alguns trocados. Consequentemente um grande números de aplicações que não precisam ser instaláveis no aparelho, apareceram. Vários desenvolvedores não perceberam que dependendo do seu sistema, ele não precisa ser desenvolvido exclusivamente para ser instalado na plataforma do iPhone.</description>
+    </item>
+    
+    <item>
+      <title>Simuladores de Browsers Mobiles</title>
+      <link>http://localhost/jhonny-roger/public/simuladores-de-browsers-mobiles/</link>
+      <pubDate>Wed, 20 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/simuladores-de-browsers-mobiles/</guid>
+      <description>Antigamente não existiam simuladores dos pequenos celulares. Na verdade, não precisava. Você provavelmente usava WAP. Quando começamos a utilizar CSS e XHTML para fazer sites mais decentes para os mobiles, tudo ficou mais complicado, você precisava ter um aparelho para fazer testes. Em muitos casos era simples resolver utilizando o Opera no desktop mesmo, mas em forma de visualização mobile/handheld. Contudo, você estava desenvolvendo para apenas aparelhos com Opera. Não havia, por exemplo, um simulador de IE Mobile.</description>
+    </item>
+    
+    <item>
+      <title>Versionamento inteligente para mobiles</title>
+      <link>http://localhost/jhonny-roger/public/versionamento-inteligente-para-mobiles/</link>
+      <pubDate>Wed, 20 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/versionamento-inteligente-para-mobiles/</guid>
+      <description>O iPhone fez a festa dele. Todo mundo gostou do que viu e usou. Acontece que não só de iPhone vive o homem, e há pessoas por aí que não gostam do aparelho por motivos diversos. Há mercado para todos e por isso é natural que apareçam outros aparelhos com novos sistemas. Acontece que o lançamento do iPhone criou uma moda de criar versões dos sites específicas para ele. No começo isso foi ótimo.</description>
+    </item>
+    
+    <item>
+      <title>Graceful degradation é tudo sobre Acessibilidade</title>
+      <link>http://localhost/jhonny-roger/public/graceful-degradation-e-tudo-sobre-acessibilidade/</link>
+      <pubDate>Sun, 12 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/graceful-degradation-e-tudo-sobre-acessibilidade/</guid>
+      <description>Não há uma tradução literal para Graceful Degradation. O mais próximo seria Degradação Harmoniosa. Não é um termo muito bonito de ficar dizendo por aí. Por isso, vamos utilizar o termo original inglês durante todo o artigo.
+Graceful Degradation é algo que vemos todos os dias. Trata-se de um método comum em dias onde a Internet é muito mais que um simples computador ligado no telefone. Acho que resumidamente, podemos dizer o que exatamente é Graceful Degradation com a frase:</description>
+    </item>
+    
+    <item>
+      <title>Porque só para o iPhone?</title>
+      <link>http://localhost/jhonny-roger/public/porque-so-para-o-iphone/</link>
+      <pubDate>Mon, 17 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/porque-so-para-o-iphone/</guid>
+      <description>&lt;p&gt;Engraçado como desde o lançamento do iPhone, muitas empresas e desenvolvedores se mobilizaram para fazer versões de sites e sistemas para iPhone. Me chama a atenção porque antes disso nunca ninguém (ou quase ninguém) se interessava de verdade em fazer uma versão para dispositivos móveis, muito menos uma versão para um dispositivo específico.&lt;/p&gt;
+
+&lt;p&gt;Ok, ok&amp;#8230; Você deve estar falando que o iPhone virou hype, moda e etc. Mas isso não é o bastante. Muitos dispositivos já fizeram barulho antes. Acho que o buraco é mais embaixo.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>O Safari para iPhone – Desenvolvimento web para iPhone</title>
+      <link>http://localhost/jhonny-roger/public/o-safari-para-iphone/</link>
+      <pubDate>Mon, 13 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-safari-para-iphone/</guid>
+      <description>&lt;p&gt;Esse texto e muitos outros fazem parte do &lt;a href=&#34;http://visie.com.br/campus/&#34; title=&#34;Vídeos tutoriais sobre Tableless&#34;&gt;Campus Online&lt;/a&gt;. Visite e &lt;a href=&#34;http://visie.com.br/campus/cadastrese&#34;&gt;cadastre-se grátis&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://visie.com.br/campus/iphone&#34; title=&#34;Desenvolvimento web para iPhone&#34;&gt;Sessão exclusiva sobre Desenvolvimento web para iPhone&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;um-pouco-de-história&#34;&gt;Um pouco de História&lt;/h3&gt;
+
+&lt;p&gt;Por volta de 1997, os computadores da Apple traziam por padrão o Netscape. Naquele tempo o mercado de browsers não era tão acirrado como hoje e os concorrentes eram poucos. O Internet Explorer estava em sua versão &lt;sup&gt;2&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt;. Mesmo assim, o Internet Explorer para Mac era também distribuído com o MacOS durante os 5 anos de acordo entre Apple e Microsoft. A Microsoft laçou 3 versões principais do seu navegador para o Mac, parando na versão 5 em março de 2000.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Vídeos, WordPress, Internet Móvel e mais</title>
+      <link>http://localhost/jhonny-roger/public/videos-wordpress-internetmovel-mais/</link>
+      <pubDate>Sun, 31 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/videos-wordpress-internetmovel-mais/</guid>
+      <description>&lt;p&gt;O &lt;a href=&#34;http://tableless.com.br/&#34; title=&#34;Informações sobre tableless e boas práticas de desenvolvimento&#34;&gt;Tableless&lt;/a&gt; está passando por pequenas mudanças, pequenas mas substanciais.&lt;/p&gt;
+
+&lt;p&gt;Muita gente me disse que depois do último redesign, ficou muito difícil para encontrar informações aqui no Tableless. Para mim, dono do site, que sei onde encontrar tudo nessa budega, duvidei um pouco, mas depois notei que isso era verdade. Por isso, resolvi organizar melhor o conteúdo. Para começar, separei&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Browsers para Mobile – Nova era</title>
+      <link>http://localhost/jhonny-roger/public/browsers-para-mobile-nova-era/</link>
+      <pubDate>Sun, 29 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/browsers-para-mobile-nova-era/</guid>
+      <description>&lt;p&gt;Pense um pouco e tente lembrar de pelo menos uma maneira de acessar a internet que não seja a partir de dispositivos móveis ou computadores (notebooks e desktops). Difícil, não é?&lt;/p&gt;
+
+&lt;p&gt;Hoje, conhecemos bem apenas um meio de acessar a internet que é o computador. Estamos começando agora a navegar decentemente com dispositivos móveis, como um PDAs ou Smartphones. Além do óbvio, não conhecemos os futuros reais problemas de usabilidade e arquitetura de informação dos sites destinados à estes aparelhos. Estamos apenas engatinhando.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Quem precisa de versão mobile?</title>
+      <link>http://localhost/jhonny-roger/public/quem-precisa-de-versao-mobile/</link>
+      <pubDate>Wed, 12 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/quem-precisa-de-versao-mobile/</guid>
+      <description>&lt;p&gt;Parece ser um erro comum dos novatos criar versões diferentes do mesmo site.&lt;/p&gt;
+
+&lt;p&gt;O ano era 1997. Eu e e todo mundo que eu conhecia usávamos Netscape Navigator. Foi o ano em que, pela primeira vez, fiz um site sozinho. Tudo, atendi o cliente, preparei textos, fotos, fiz o layout, se é que se pode chamar aquilo de layout, criei uma conta no &lt;a href=&#34;http://geocities.yahoo.com/&#34;&gt;Geocities&lt;/a&gt; e publiquei. Em seguida entrei no &lt;a href=&#34;http://www.yahoo.com&#34;&gt;Yahoo!&lt;/a&gt; e cadastrei o site, para que aparecesse nas buscas.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sites para Dispositivos Móveis – MediaType</title>
+      <link>http://localhost/jhonny-roger/public/sites-para-dispositivos-moveis-mediatype/</link>
+      <pubDate>Thu, 06 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sites-para-dispositivos-moveis-mediatype/</guid>
+      <description>Felizmente, com a ajuda dos Web Standards, o trabalho para criar um site ficou muito mais fácil, rápida e o mais importante, divertida.
+Hoje, você troca de layout a hora que quiser, sem se preocupar em ter que refazer todo o código e programação. Eles já estão feitos, por que ter que recriá-los? Então, você troca apenas 1 arquivo CSS, e seu site muda completamente, sem dor de cabeça, apenas mudando a lente de formatação.</description>
+    </item>
+    
+    <item>
+      <title>Sobre Internet Explorer para Mobile – Breve impressão</title>
+      <link>http://localhost/jhonny-roger/public/sobre-internet-explorer-para-mobile-breve-impressao/</link>
+      <pubDate>Wed, 07 Nov 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sobre-internet-explorer-para-mobile-breve-impressao/</guid>
+      <description>Desde que adquiri um MotoQ (se lê MotoQUIU) eu venho usando o Opera Mobile como browser padrão. Ao contrário da versão pra desktops, o Opera Mobile é pago. Por este motivo, quando a data expirou, eu resolvi usar por um tempo o Internet Explorer.
+Descobri que a forma com que o IE Mobile renderiza as páginas é tão boa quanto a do Opera Mobile. A velocidade de navegação também é ótima.</description>
+    </item>
+    
+    <item>
+      <title>Navegação em mobiles</title>
+      <link>http://localhost/jhonny-roger/public/navegacao-em-mobiles/</link>
+      <pubDate>Fri, 31 Aug 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/navegacao-em-mobiles/</guid>
+      <description>Adquiri faz pouco tempo um MotoQ. Já estou passando da parte de adaptação e me acostumando melhor com as frescuras, limitações e vantagens do aparelho. Agora, consigo dar mais atenção a pontos mais interessantes e claro, que irão me ajudar no trabalho diário. Um deles é a navegação.
+Se acostumar a navegar num aparelhinho desses é algo realmente interessante e dependendo dos casos quebra um galho absurdo.
+Hoje eu uso o Opera Mobile para navegar.</description>
+    </item>
+    
+    <item>
+      <title>Rapidinhas – para começar a pseudo-segunda-feira</title>
+      <link>http://localhost/jhonny-roger/public/rapidinhas-para-comecar-a-pseudo-segunda-feira/</link>
+      <pubDate>Tue, 10 Jul 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/rapidinhas-para-comecar-a-pseudo-segunda-feira/</guid>
+      <description>Alguns links rápidos para começar a pseudo-segunda-feira (aqui em SP foi feriado na segunda).
+ Se você usa Mac ou qualquer outro sistema operacional, você sabe que é meio difícil testar seus projetos no IE. Se quiser fazer testes rápidos, sem perder tempo, tente usar o Ie NetRenderer. Em qual versão a tag ABBR foi implementada no HTML? E a BLOCKQUOTE?
+O HTML Elements Index uma tabela de tags, onde você consegue saber em qual versão do HTML a tag foi implementada e se a tag ainda existe nas versões atuais do HTML/XHTML.</description>
+    </item>
+    
+    <item>
+      <title>Mobilidade na cabeça</title>
+      <link>http://localhost/jhonny-roger/public/mobilidade-na-cabeca/</link>
+      <pubDate>Wed, 10 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/mobilidade-na-cabeca/</guid>
+      <description>Ontem, depois do lançamento do iPhone e de ter visto suas funcionalidades (nem tão novas assim, mas reinvatadas de verdade), fiquei pensando em uma funcionalidade em particular: navegação na internet. Quem assistiu o Keynote viu o camarada navegando de verdade com um browser de verdade (Safari) e tendo uma experiência realmente boa. O browser carrega o site inteiro, lendo XHTML e CSS, nada de SSR ou qualquer coisa parecida e é renderizado como se fosse uma miniatura na tela, mas a formatação é integral, como se estivesse sendo visualizado de um desktop.</description>
+    </item>
+    
+    <item>
+      <title>Podcast Tableless #23 – .mobi</title>
+      <link>http://localhost/jhonny-roger/public/podcast-tableless-23-mobi/</link>
+      <pubDate>Thu, 28 Sep 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/podcast-tableless-23-mobi/</guid>
+      <description>Pois é&amp;#8230; parece que lá fora, a moda (ou quase) é registrar domínios .mobi para sites destinados a dispositivos móveis.
+Isso está gerando uma polêmica muito produtiva: Uns acham que isso não é certo, porque defendem uma única versão do site para vários dispositivos. Outros, acham que é uma saída fazer uma versão específica para esses dispositivos.
+Este assunto na verdade não é tão novo quanto parece, mas agora que foi tudo aprovado, discussões serão travadas e ainda não há como saber qual caminho o mercado irá tomar.</description>
+    </item>
+    
+    <item>
+      <title>Sites para Dispositivos Móveis – Breve introdução</title>
+      <link>http://localhost/jhonny-roger/public/sites-para-dispositivos-moveis-breve-introducao/</link>
+      <pubDate>Thu, 05 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sites-para-dispositivos-moveis-breve-introducao/</guid>
+      <description>Você tem celular? De acordo com a Teleco, em novembro de 2005, havia mais ou menos 82.351.644 de celulares. Ainda me lembro de quando eles eram artigos de luxo, mesmo sendo grandes e pesados.
+Hoje, por um preço razoável, você consegue celulares que tiram fotos e fazem outras coisas que nem James Bond ousava imaginar. E quer saber da melhor? Esse é só o começo.
+Aparelhos com essas e outras possibilidades aparecerão.</description>
+    </item>
+    
+    <item>
+      <title>Podcast #15</title>
+      <link>http://localhost/jhonny-roger/public/podcast-15/</link>
+      <pubDate>Wed, 28 Dec 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/podcast-15/</guid>
+      <description>Estava ouvindo um podcast (ótimo por sinal) por aí, que me fez pensar um pouco sobre os anos vindouros.
+Comecei a pensar então sobre a entrada triunfal dos celulares e outros aparelhos móveis. É melhor começarmos a ficar espertos com eles.
+Você pode baixar o Mp3 direto, ou se quiser receber automagicamente nossas atualizações, cadastre nosso Feed.
+Tamanho: ~14.32Mb
+Tempo: ~15 Min
+Você está gostando do podcast? O cara tá falando bem?</description>
+    </item>
+    
+  </channel>
+</rss>

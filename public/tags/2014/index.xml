@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2014 on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/2014/</link>
+    <description>Recent content in 2014 on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 01 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/2014/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Uma coletânea front-end escrito por 11 devs</title>
+      <link>http://localhost/jhonny-roger/public/uma-coletanea-front-end-escrito-por-11-devs/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/uma-coletanea-front-end-escrito-por-11-devs/</guid>
+      <description>Um grupo de desenvolvedores, encabeçado pelo glorioso Sérgio Lopes, se juntou para escrever o primeiro de alguns livros sobre desenvolvimento web. Esse primeiro livro chama-se Coletânea Front-end: Uma antologia da comunidade front-end brasileira.
+Eu tive o prazer de escrever um capítulo, juntamente com um grupo de 10 outros devs, sendo eles: Almir Filho, Bernard De Luna, Caio Gondim, Deivid Marques, Diego Eis, Eduardo Shiota, Giovanni Keppelen, Luiz Corte Real, Jaydson Gomes, Reinaldo Ferraz e Sérgio Lopes!</description>
+    </item>
+    
+    <item>
+      <title>Não tenho versão mobile, faço ou não faço?</title>
+      <link>http://localhost/jhonny-roger/public/nao-tenho-versao-mobile-faco-ou-nao-faco/</link>
+      <pubDate>Mon, 06 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/nao-tenho-versao-mobile-faco-ou-nao-faco/</guid>
+      <description>Estamos fazendo uma reestruturação no framework da firma. A primeira versão do projeto tinha como objetivo iniciar uma estruturação e uniformização de comportamento e design dos layouts de cada produto, melhorando o código front-end gerado, automatizando algumas tarefas e uniformizando o design e a expediência de uso. Não havíamos planejado nessa primeira versão qualquer tipo de compatibilidade com dispositivos móveis.
+Nessa reestruturação, o objetivo principal é produzir um novo código mais legível e escalável possível, de forma que não apenas nossa equipe de front-end consiga usar componentes, mas também que os back-ends possam montar painéis inteiros, como um quebra-cabeças, sem a necessidade de um front-end para tarefas básicas.</description>
+    </item>
+    
+    <item>
+      <title>Ensine mais</title>
+      <link>http://localhost/jhonny-roger/public/ensine-mais/</link>
+      <pubDate>Fri, 27 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ensine-mais/</guid>
+      <description>Nosso mercado cresceu bastante durante os últimos 5 anos. Não apenas aqui no Brasil, mas no mundo todo. O front-end amadureceu e ganhou corpo.
+O Tableless existe há 10 anos. O mercado front-end brasileiro nessa época era tão pobre, que eu consigo contar nos dedos os sites e listas de discussão que eu conhecia na época sobre o assunto. Não havia muitas fontes brasileiras para ler e aprender, principalmente quando buscávamos sobre novidades das linguagens.</description>
+    </item>
+    
+  </channel>
+</rss>

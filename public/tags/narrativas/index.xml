@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Narrativas on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/narrativas/</link>
+    <description>Recent content in Narrativas on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 17 Jun 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/narrativas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Storytelling</title>
+      <link>http://localhost/jhonny-roger/public/storytelling/</link>
+      <pubDate>Mon, 17 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/storytelling/</guid>
+      <description>Um dos desafios de viver em um mundo onde o conhecimento está sempre facilmente disponível é lidar com a sobrecarga de informação. Na realidade existe tanto para se descobrir na internet que é difícil capturar a atenção do usuário por mais do que alguns minutos. Simplesmente mostrar uma informação não é mais relevante o suficiente. Estamos cada vez mais desconectados do significado e as vezes as palavras se tornam apenas ruídos de fundo.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>O Slideshow Com Javascript on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/o-slideshow-com-javascript/</link>
+    <description>Recent content in O Slideshow Com Javascript on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 15 Mar 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/o-slideshow-com-javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Criando slideshow do zero com javascript puro</title>
+      <link>http://localhost/jhonny-roger/public/criando-slideshow-zero-com-javascript-puro-2/</link>
+      <pubDate>Sat, 15 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-slideshow-zero-com-javascript-puro-2/</guid>
+      <description>Depois de criar um artigo no devmedia de como criar um slideshow do zero em Jquery sem plugins, recebi vários pedidos para fazer o mesmo com javascript, também pude notar que muitas pessoas estavam com dificuldade em colocar link nas imagens e os botões de anterior/próximo. Veremos neste artigo como criar um slideshow do zero apenas com javascript e uma dose elegante de CSS3, com controladores, legendas e links nas imagens.</description>
+    </item>
+    
+  </channel>
+</rss>

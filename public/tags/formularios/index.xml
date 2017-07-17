@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Formularios on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/formularios/</link>
+    <description>Recent content in Formularios on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 06 Feb 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/formularios/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Formulário responsivo com MailChimp</title>
+      <link>http://localhost/jhonny-roger/public/formulario-responsivo-com-mailchimp/</link>
+      <pubDate>Fri, 06 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/formulario-responsivo-com-mailchimp/</guid>
+      <description>Há cada dia mais utilizamos serviços disponíveis na web que tem um plano básico e gratuito que permite integrações. Nos últimos meses tenho feito formulários com frequência usando uma abordagem bem simples. Vou mostrar agora como criar um formulário responsivo, integrando com MailChimp e usando jQuery Validate.
+O HTML Vamos criar o formulário da seguinte maneira:
+&amp;lt;section&amp;gt; &amp;lt;h1&amp;gt;CREATE RESPONSIVE FORM WITH INTEGRATE MAILCHIMP&amp;lt;/h1&amp;gt; &amp;lt;form id=&#34;form-contact&#34; method=&#34;POST&#34; action=&#34;mailchimp-contact.php&#34;&amp;gt; &amp;lt;div class=&#34;input&#34;&amp;gt; &amp;lt;label for=&#34;</description>
+    </item>
+    
+    <item>
+      <title>Validação de formulários com HTML5</title>
+      <link>http://localhost/jhonny-roger/public/validacao-de-formularios-com-html5/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/validacao-de-formularios-com-html5/</guid>
+      <description>O HTML5 trouxe diversas possibilidades e, principalmente facilidades para os desenvolvedores. Uma delas é relacionada a validação de formulários. O que antes era feito com algum tempo e JavaScript, hoje pode ser feito diretamente no HTML e em um tempo muito menor. Por isso, navegando pela internet achei no SitePoint esse artigo do Agbonghama Collins, um desenvolvedor nigeriano, que escreveu de forma rápida e direta alguns pontos da validação de formulários utilizando HTML5 e, resolvi traduzi-lo para nós.</description>
+    </item>
+    
+    <item>
+      <title>Formulário HTML Básico em 8 minutos</title>
+      <link>http://localhost/jhonny-roger/public/formulario-basico-em-8-minutos/</link>
+      <pubDate>Mon, 02 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/formulario-basico-em-8-minutos/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;update:&lt;/strong&gt; Se você quiser mais vídeos e em alta-resolução, visite o &lt;a title=&#34;Vídeo tutoriais sobre Tableless e Ajax.&#34; href=&#34;http://visie.com.br/campus&#34;&#34;&gt;Campus Online&lt;/a&gt;. Lá você vai encontrar &lt;a href=&#34;http://campus.visie.com.br/&#34; title=&#34;Vídeos sobre Tableless e Ajax&#34;&gt;vídeos tutoriais de Tableless, Ajax, Javascript&lt;/a&gt; e boas práticas de desenvolvimento web.&lt;/p&gt;
+
+&lt;p&gt;Na verdade ele foi escrito em 7 minutos e 51 segundos e foram escritos apenas o XHTML e CSS. Infelizmente está sem áudio.&lt;/p&gt;
+
+&lt;p&gt;O formulário, depois do link, é o &amp;#8220;objeto&amp;#8221; mais utilizado pelos usuários para interagir com o site. É questão de vida e morte para muitos profissionais. Se não for bem escrito, pode virar um inferno. Com as tags certas, você consegue fazer uma estrutura enxuta e fácil de customizar. Siga a regra áurea do desenvolvimento web: Keep It Simple Stupid.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

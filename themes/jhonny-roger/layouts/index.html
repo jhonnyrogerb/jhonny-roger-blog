@@ -1,1 +1,69 @@
 {{ partial "header.html" . }}
+
+<section id="sd-main-post">
+    {{ range first 1 (where .Site.Pages "Type" "post")}}
+    <h1>
+        <a href="{{ .RelPermalink }}">
+            {{ .Title | markdownify }}
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+        {{if .Param "excerpt"}} {{ .Param "excerpt" }} {{else}} {{ .Summary }} {{end}}
+    </p>
+    <p class="sd-main-author">
+        por <a href="{{ "/author/" | relLangURL }}{{ .Param "author" | urlize }}">{{ .Param "author" }}"</a>{{ .Date.Format "02/01/2006" }}
+    </p>
+     <p class="sb-categories-post">
+        {{ range .Params.categories }}
+        <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="sd-btn-category">{{ . }}</a> 
+        {{ end }}
+    </p>
+    {{end}}
+</section>
+
+<section id="sd-main-list">
+    {{ range first 9 (after 1 .Pages)}}
+    <div class="sd-post-figure">
+        <a href="{{ .RelPermalink }}">
+            <figure class="tb-post-img" style="background: url('{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}') no-repeat center; background-size: cover">
+                        </figure>
+        </a>
+        {{ range first 1 .Params.categories }}
+        <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="sd-btn-category">{{ . }}</a> {{ end }}
+        <h1>
+            <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+        </h1>
+        <p class="sd-main-excerpt">
+            {{if .Param "excerpt"}} {{ .Param "excerpt" }} {{else}} {{ .Summary }} {{end}}
+        </p>
+        <p class="sd-main-author">
+            por <a href="{{ "/author/" | relLangURL }}{{ .Param "author" | urlize }}">{{ .Param "author" }}</a>{{ .Date.Format "02/01/2006" }}
+        </p>
+    </div>
+    {{end}}
+</section>
+
+<section class="sd-post-list">
+    <h1><span></span></h1>
+    {{ range first 20 (after 9 .Pages)}}
+    <div class="sd-post-figure">
+        <h3>
+            <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+            <p class="sd-main-excerpt">
+                {{if .Param "excerpt"}} {{ .Param "excerpt" }} {{else}} {{ .Summary }} {{end}}
+            </p>
+            <p class="sd-main-author">
+                por <a href="{{ "/author/" | relLangURL }}{{ .Param "author" | urlize }}">{{ .Param "author" }}</a>{{ .Date.Format "02/01/2006" }}
+            </p>
+        </h3>
+        {{ range first 1 .Params.categories }}
+        <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="sd-btn-category">{{ . }}</a> {{ end }}
+    </div>
+    {{end}}
+</section>
+
+<section id="sb-todos-artigos">
+    <a href="#"><span>+ </span> Todos Artigos</a>
+</section>
+
+{{ partial "footer.html" . }}

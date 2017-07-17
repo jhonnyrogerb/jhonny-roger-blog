@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245859">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>O viewport é a área onde seu website aparece. É a área branca da janela quando você abre o browser. O viewport sempre vai ter o tamanho da janela. Mas a forma como os elementos são renderizados vai depender bastante do dispositivo. Em máquinas desktop nós não precisamos nos preocupar muito, já estamos acostumados com um determinado tamanho de tela e resolução média utilizada pelos usuários. Mas quando começamos a variar muito o tamanho das telas, a largura do viewport começa a ser uma preocupação porque afeta diretamente a forma como o usuário utiliza seu website. O ponto é que em uma tela pequena, com uma resolução muito grande, por exemplo como as telas dos iPhone e da maioria dos smartphones de hoje, o conteúdo pode aparecer muito, muito pequeno. Imagine uma resolução FULL HD dentro de uma tela bem menor que uma TV&#8230; Por isso precisamos fazer com que o viewport mostre o conteúdo se baseando pelo tamanho da tela e não da resolução.</p>
+
+<p>Hoje existe uma gama muito grande de aparelhos com telas de tamanhos variados. Comece a pensar pelos notebooks de 11 ou 10 polegadas. Depois vá diminuindo até chegar em um smartphone popular como iPhone e os Samsungs da vida. A variação de tamanho de tela é muito grande. Lembrando que o tamanho da tela é uma coisa e a resolução de tela é outra. Nunca confunda os dois. A largura da tela do iPhone 5s na posição retrato é de 320px. Mas sua resolução padrão é 980px. Isso quer dizer que se você fizer um HTML simples, colocar uma imagem de 980px de largura e visualizar no iPhone, não existirá barra de rolagem. Obviamente a imagem ficará miniaturizada, como mostra abaixo:</p>
+
+<p><img src="http://tableless.com.br/uploads/2011/04/980px.png" alt="" /></p>
+
+<p>Isso é interessante porque possibilita a boa visualização de websites que não estão preparados para mobiles. Vemos o site inteiro miniaturizado, com possibilidade de fazer zoom em qualquer parte do layout.</p>
+
+<h3 id="a-tag-meta-viewport">A tag meta viewport</h3>
+
+<p>Mesmo assim os smartphones tem telas pequenas podem dificultar a leitura se fizermos um sistema planejado para grandes resoluções. Por isso é interessante que possamos customizar o viewport para que ele se adeque a realidade desses dispositivos. É aí que entra a metatag viewport.</p>
+
+<p>Com essa metatag iremos customizar a resolução inicial que o browser deve renderizar do viewport do dispositivo. Dessa forma, podemos preparar websites com resoluções personalizadas para smartphones e outros aparelhos.</p>
+
+<p>A sintaxe é muito simples e deve ser colocada, como sempre, na tag <strong>head</strong>:</p>
+
+<pre class="lang-html">&lt;meta name="viewport" content=""&gt;
+</pre>
+
+<p>Os valores de content são os que seguem abaixo:</p>
+
+<table>
+<thead>
+<tr>
+<th>Valor</th>
+<th>Descrição</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>width</td>
+<td>Define uma largura para o viewport. Os valores podem ser em PX ou &#8220;device-width&#8221;, que determina automaticamente um valor igual a largura da tela do dispositivo.</td>
+</tr>
+
+<tr>
+<td>height</td>
+<td>Define uma altura para o viewport. Os valores podem ser em PX ou &#8220;device-height&#8221;, que determina automaticamente um valor igual a altura da tela do dispositivo.</td>
+</tr>
+
+<tr>
+<td>initial-scale</td>
+<td>Define a escala inicial do viewport.</td>
+</tr>
+
+<tr>
+<td>user-scalable</td>
+<td>Define a possibilidade de o usuário fazer &#8220;zoom&#8221; em um determinado lugar da tela. É ativado quando o usuário bate duas vezes com o dedo em um lugar da tela.</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="como-usar">Como usar</h3>
+
+<p>A tela abaixo não tem nenhuma tag de viewport definida.</p>
+
+<p><img src="http://tableless.com.br/uploads/2011/04/viewport-980.png" alt="" /></p>
+
+<p>Veja que o texto do elemento está bem pequeno. Isso é porque estamos visualizando-o em 980px de resolução em uma tela de smartphone.</p>
+
+<p>Vou acrescentar a seguinte linha:</p>
+
+<pre class="lang-html">&lt;meta name="viewport" content="width=320px"&gt;
+</pre>
+
+<p>Define que a largura do viewport será 320px. O resultado está abaixo:</p>
+
+<p><img src="http://tableless.com.br/uploads/2011/04/viewport-320px.png" alt="" /></p>
+
+<p>Se inserirmos uma imagem ou um objeto maior que a largura do viewport, uma barra de rolagem é criada. Não precisa se preocupar com o espaço da barra, já que pelo menos nos OSs de smartphones novos, como iPhone e Android, a barra fica invisível e só aparece pro cima dos elementos.</p>
+
+<p><img src="http://tableless.com.br/uploads/2011/04/rolagem.png" alt="" /></p>
+
+<p>Adicionando o <strong>initial-scale</strong> com o valor de 1.5, temos um aumento na escala da visualização. Abaixo segue um exemplo comparativo. A imagem inserida tem 320px de largura, logo ela ficará bem justa na tela quando a escala é 1.0, e um pouco estourada quando a escala é 1.5 ou maior. Veja:</p>
+
+<p><img src="http://tableless.com.br/uploads/2011/04/initi-scale1.png" alt="" /></p>
+
+<p>Agora com escala de 1.5:</p>
+
+<p><img src="http://tableless.com.br/uploads/2011/04/init-scale15.png" alt="" /></p>
+
+<p>Agora com escala de 2:</p>
+
+<p><img src="http://tableless.com.br/uploads/2011/04/init-scale2.png" alt="" /></p>
+
+<p>E agora com texto, nas mesmas proporções:</p>
+
+<p><img src="http://tableless.com.br/uploads/2011/04/scale1-text.png" alt="" /></p>
+
+<p><img src="http://tableless.com.br/uploads/2011/04/scale15-text.png" alt="" /></p>
+
+<p><img src="http://tableless.com.br/uploads/2011/04/scale2-text.png" alt="" /></p>
+
+<p>Se colocarmos o <strong>user-scalable</strong> como NO, desabilitamos a possibilidade do usuário de fazer zoom quando ele bate duas vezes com o dedo. Deixar habilitado o zoom é interessante utilizar quando o viewport não está sendo customizado. No nosso caso aqui, isso não iria adiantar muita coisa, já que todos os elementos estão com o tamanho natural, por isso vamos desabilitá-lo.</p>
+
+<pre class="lang-html">&lt;meta name="viewport" content="width=320px, user-scalable=no"&gt;
+</pre>
+
+<p>Atente-se para o detalhe de colocar , (vírgula) entre um valor e outro.</p>
+
+<p>Veja um <a href="http://tableless.github.com/exemplos/viewport/viewport.html">exemplo aqui</a>. Tente ver com um smartphone como o iPhone, Android, etc.</p>
+
+<p>Manipular o Viewport nos dá possibilidades para personalizar o visual de qualquer site para praticamente qualquer dispositivo, não importa sua resolução ou seu tamanho de tela. Quando unimos isso às <a href="http://tableless.com.br/introducao-sobre-media-queries">media queries</a>, temos um outro mundo de possibilidades.</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/indo-alem-no-react-native//?utm_source=tablelessRelatedLin">Indo além no Mundo React-Native</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/paginas_acessiveis_hatemile//?utm_source=tablelessRelatedLin">Páginas acessíveis com o HaTeMiLe</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245859"></script>

@@ -1,0 +1,1787 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Css on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/categories/css/</link>
+    <description>Recent content in Css on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 27 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/categories/css/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Front-end Week</title>
+      <link>http://localhost/jhonny-roger/public/frontend-week/</link>
+      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/frontend-week/</guid>
+      <description>Se você não sabe, vou te mandar a letra (a galera do CSS CastShow já tinha cantado a bola muito antes): desde o dia 22 de Junho até o dia 01 de Julho está rolando aqui em São Paulo uma super iniciativa que concentra uma série de eventos e Meetups sobre front-end em apenas uma semana, essa iniciativa se chama Front-end Week.
+O que já rolou? Dia 22 e 23 de Junho rolou um novo evento sobre JavaScript chamado JS Experience, que reuniu os maiores palestrantes sobre front-end do Brasil num lugar só.</description>
+    </item>
+    
+    <item>
+      <title>Performance do Tableless estático</title>
+      <link>http://localhost/jhonny-roger/public/velocidade-tableless-estatico/</link>
+      <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/velocidade-tableless-estatico/</guid>
+      <description>Não faz muito tempo eu decidi retirar o Wordpress do Tableless e migrá-lo totalmente para o Hugo, que é um gerador de websites estáticos, como o Middleman ou o Jekyll. Dentre todas as vantagens, a mais aparente, sem dúvida, é o aumento de performance de carregamento do site.
+Todo mundo sabe como fazer um site carregar mais rápido. Existem diversas dicas, diversas manobras para fazer um site carregar num piscar de olhos, mas nenhuma se compara em ter um site totalmente estático, sem dependencias de banco ou back-end.</description>
+    </item>
+    
+    <item>
+      <title>Crie sites em questão de minutos com o Pingendo</title>
+      <link>http://localhost/jhonny-roger/public/crie-sites-em-questao-de-minutos-com-o-pingendo/</link>
+      <pubDate>Mon, 06 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/crie-sites-em-questao-de-minutos-com-o-pingendo/</guid>
+      <description>Sem dúvidas, o Bootstrap é uma das frameworks mais utilizadas ultimamente, porém, para algumas pessoas, ainda é meio complicado lidar com os códigos, sejam eles HTML, CSS ou JavaScript.
+O que é o Pingendo? Pingendo é um programa de interface simples e de fácil uso. O Pingendo é um criador de sites em Bootstrap 3 que permite a criação de websites de maneira simples e rápida.
+Drag and drop O programa usa um modo muito popular em criadores de sites online como Wix, Weebly, etc.</description>
+    </item>
+    
+    <item>
+      <title>Minha experiência com o CT (Centro de Treinamento)</title>
+      <link>http://localhost/jhonny-roger/public/minha-experiencia-com-o-ct-centro-de-treinamento/</link>
+      <pubDate>Sun, 22 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/minha-experiencia-com-o-ct-centro-de-treinamento/</guid>
+      <description>Meu nome é Danilo, tenho 25 anos, e moro em São Paulo. Antes de conhecer o projeto do CT , eu havia trabalhado pouco tempo como Front-end em uma empresa chamada Athos Informática. Minha experiência não foi uma das melhores, e acabou não dando muito certo. Porém, aconteceu algo muito bacana , quando eu fiquei disponível para o mercado de trabalho.
+Comecei a frequentar todos os Meetup&amp;#8217;s que eu podia, conversei com muitos Dev&amp;#8217;s da comunidade, e coloquei de fato a mão na massa.</description>
+    </item>
+    
+    <item>
+      <title>Analisando o código Stylus de um projeto</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-o-pre-processador-stylus/</link>
+      <pubDate>Fri, 18 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-o-pre-processador-stylus/</guid>
+      <description>O que é um pré-processador CSS? Como o nome ja diz, é uma linguagem que precisa ser pré-processada por um parser para assim gerar o arquivo de extensão .css que será renderizado pelo browser. Atualmente há vários pré-processadores que você pode utilizar para facilitar a codificação e reaproveitamento de código, você pode estar utilizando SASS, LESS e Stylus que são os mais conhecidos no mercado. A diferença do Stylus para os outros pré-processadores que estão sendo utilizados no mercado é que ele já é baseado em NodeJS e não em ruby.</description>
+    </item>
+    
+    <item>
+      <title>#BlendingCSS – Modos de mesclagem em CSS: Teoria da Cor e Aplicação Prática</title>
+      <link>http://localhost/jhonny-roger/public/blendingcss-modos-de-mesclagem-em-css-teoria-da-cor-e-aplicacao-pratica/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/blendingcss-modos-de-mesclagem-em-css-teoria-da-cor-e-aplicacao-pratica/</guid>
+      <description>OBS:. o método abordado sobre Blending (mesclagem de cores e camadas) não é igual, mas não diferente do método abordado pela nossa colega Dani Guerrato no post Modos de Mesclagem em CSS – Blend Mode CSS
+Diga-se de passagem nós abordaremos visões abrangentes e características técnicas do método de aplicação de Blending no CSS, mas se você quer dar uma previa nos conceitos de background css antes de ler esse post seria legal: [OBS:.</description>
+    </item>
+    
+    <item>
+      <title>Entrevista com Bert Bos (Criador da CSS) e W3C</title>
+      <link>http://localhost/jhonny-roger/public/entrevista-com-bert-bos-e-hakon-wium-lie-criador-da-css-e-w3c/</link>
+      <pubDate>Wed, 14 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/entrevista-com-bert-bos-e-hakon-wium-lie-criador-da-css-e-w3c/</guid>
+      <description>Na 8ª edição da Web.br teremos a presença ilustre de Bert Bos como keynote speaker. Ele, junto com Håkon Wium Lie, foram os dois inventores dos Cascading Style Sheets, tecnologia também conhecida pela sigla CSS. Bert trabalha no W3C desde 1995 com desenvolvimento e padronização do CSS, assim como de outros padrões da web, como HTML, XML e MathML. Nessa entrevista ele descreve o contexto que o levou a trabalhar nos primeiros rascunhos do padrão CSS, o que ainda falta ser aprimorado e sua perspectiva para a evolução do CSS e do HTML a longo-prazo.</description>
+    </item>
+    
+    <item>
+      <title>Carrossel descomplicado com HTML, CSS</title>
+      <link>http://localhost/jhonny-roger/public/carrocel-descomplicado-com-html-css/</link>
+      <pubDate>Sun, 04 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/carrocel-descomplicado-com-html-css/</guid>
+      <description>Não é difícil perceber que muitos desenvolvedores tanto iniciantes como os veteranos de guerra ainda sofrem quando o assunto é carrossel, mesmo utilizando frameworks como BootStrap. Mas seus problemas acabaram! (música de chegada milagrosa), com o conhecimento de poucas técnicas podemos resolver esse &amp;#8220;gigante&amp;#8221; problema facilmente.
+Pseudo classe :target &amp;#8211; CSS Para resolver o grande problema de transição do carrossel, vamos utilizar a pseudo classe :target, que atribui algumas características do CSS para o elemento HTML.</description>
+    </item>
+    
+    <item>
+      <title>Aplicativos Desktop com NW.js – Node Webkit – Introdução</title>
+      <link>http://localhost/jhonny-roger/public/aplicativos-desktop-com-nw-js-node-webkit-introducao/</link>
+      <pubDate>Thu, 14 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/aplicativos-desktop-com-nw-js-node-webkit-introducao/</guid>
+      <description>Este é o primeiro artigo de uma série que vou escrever sobre aplicações desktop usando tecnologias web. (HTML, CSS, Javascript e WebGL) O NW.js é uma aplicação em tempo de execução baseado em Chromium e Node.js, com ele é possível desenvolver aplicativos nativos para Windows, Linux e Mac, usando tecnologias web e usufruindo dos pacotes do Node.js.
+Para ter uma ideia do que é possível fazer, visite este link e veja alguns aplicativos desenvolvidos com NW.</description>
+    </item>
+    
+    <item>
+      <title>Você conhece AMP?</title>
+      <link>http://localhost/jhonny-roger/public/voce-conhece-amp/</link>
+      <pubDate>Wed, 13 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/voce-conhece-amp/</guid>
+      <description>O projeto AMP &amp;#8211; Accelerated Mobile Pages, é uma iniciativa Google em conjunto com alguns publishers como Chartbeat, Vox, WordPress.com, Twitter, The Washington Post, UOL, etc; de trabalhar uma estrutura de rápido carregamento de conteúdos em Smartphones. Afinal, apesar da navegação mobile crescer dia-a-dia as soluções para uma entrega com mais velocidade ainda andam a passos lentos. Nossa conexão de internet em celulares ainda não tem a devida capacidade e nos obriga a, em alguns casos, buscar tamanha versatilidade em nosso desenvolvimento web a ponto de, em um site responsivo, ter que oferecer uma &amp;#8220;cidade completa e bem elaborada&amp;#8221; em sua versão desktop e uma &amp;#8220;ilha&amp;#8221; em sua versão mobile para não correr o risco de prejudicar nosso usuário.</description>
+    </item>
+    
+    <item>
+      <title>Bulma: framework CSS baseado em flexbox</title>
+      <link>http://localhost/jhonny-roger/public/bulma-framework-css-baseado-em-flexbox/</link>
+      <pubDate>Tue, 28 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/bulma-framework-css-baseado-em-flexbox/</guid>
+      <description>&amp;#8220;Inspirado pelo Bootstrap, o Bulma visa oferecer a todos a alegria de fazer o design do site, com a simplicidade do flexbox e a elegância de Sass.&amp;#8221; &amp;#8211; Jeremy Thomas, criador do projeto Bulma.io.
+ &amp;nbsp;
+Como o título diz, o Bulma é um framework CSS baseado na tecnologia flexbox, que já tem uma grande compatibilidade entre os navegadores. O pacote contém todos os elementos mais comuns como botões, formulários, menus, tabelas, títulos, notificações, barras de progresso e um simples sistema de grid (basta adicionar uma coluna, o resize das colunas é automático).</description>
+    </item>
+    
+    <item>
+      <title>React Native: Construa aplicações móveis nativas com JavaScript</title>
+      <link>http://localhost/jhonny-roger/public/react-native-construa-aplicacoes-moveis-nativas-com-javascript/</link>
+      <pubDate>Tue, 05 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/react-native-construa-aplicacoes-moveis-nativas-com-javascript/</guid>
+      <description>Introdução O React Native é um projeto desenvolvido pelos engenheiros do Facebook e que consiste em uma série de ferramentas que viabilizam a criação de aplicações móveis nativas para a plataforma iOS e Android, utilizando o que há de mais moderno no desenvolvimento Front-end &amp;#8211; mirando no futuro. É o estado da arte no que se refere ao desenvolvimento mobile baseado em JavaScript.
+O stack do React Native é poderoso, pois nos permite utilizar ECMAScript 6, CSS Flexbox, JSX, diversos pacotes do NPM e muito mais.</description>
+    </item>
+    
+    <item>
+      <title>Sass vs. LESS vs. Stylus: Batalha dos Pré-processadores</title>
+      <link>http://localhost/jhonny-roger/public/sass-vs-less-vs-stylus-batalha-dos-pre-processadores/</link>
+      <pubDate>Mon, 28 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sass-vs-less-vs-stylus-batalha-dos-pre-processadores/</guid>
+      <description>Introdução Pré-processadores CSS3 são linguagens criadas com um único propósito de adicionar funcionalidades legais e criativas para o CSS sem quebrar a compatibilidade entre browsers. Os pré-processadores disponibilizam milhares de funcionalidades, e nesse artigo iremos falar sobre as mais utilizadas e conhecidas e algumas nem tanto conhecidas. Vamos começar:
+Sintaxe A parte mais importante ao escrever códigos utilizando um pré-processador é entender a sua sintaxe. Felizmente para nós, a sintaxe é (ou pode ser) idêntica à do CSS puro para os três pré-processadores.</description>
+    </item>
+    
+    <item>
+      <title>Fazendo a animação do coração de like do Twitter</title>
+      <link>http://localhost/jhonny-roger/public/fazendo-a-animacao-do-coracao-de-like-do-twitter/</link>
+      <pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/fazendo-a-animacao-do-coracao-de-like-do-twitter/</guid>
+      <description>Quando o Twitter colocou uma animação no coração de Like na versão web, eu fiquei me perguntando como fazer aquela animação. De cara, parece ser bastante simples, e é. Mas é um detalhe que faz a diferença na interface para quem usa a rede social com frequência. Fiz uma versão mais simples. Segue abaixo:
+Antes de olhar o código deles pra pesquisar como foi feito, fiquei pensando em uma série de formas para fazer isso aí.</description>
+    </item>
+    
+    <item>
+      <title>Como usar variáveis no CSS de forma nativa</title>
+      <link>http://localhost/jhonny-roger/public/como-usar-variaveis-no-css-de-forma-nativa/</link>
+      <pubDate>Tue, 17 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/como-usar-variaveis-no-css-de-forma-nativa/</guid>
+      <description>Olá pessoal, neste artigo irei abordar o básico sobre variáveis nativas com CSS, e como você pode usar essa tecnologia hoje e sem medo de ser feliz. CSS Custom Properties for Cascading Variables Module Level 1 {.p4} Esta especificação ainda em fase de Last Call Working Draft, traz um novo módulo de CSS3 que permite a criação de varáveis de forma nativa, de uma forma simples e rápida como veremos a seguir.</description>
+    </item>
+    
+    <item>
+      <title>Acessibilidade na web: Como tornar seu site acessível.</title>
+      <link>http://localhost/jhonny-roger/public/acessibilidade-na-web-atualizando-como-tornar-seu-site-acessivel/</link>
+      <pubDate>Mon, 26 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/acessibilidade-na-web-atualizando-como-tornar-seu-site-acessivel/</guid>
+      <description>Você talvez esteja lendo essas primeiras linhas e pensando: por que tornar um site acessível? E por que me preocupar com isso quando meu prazo de entrega é tão curto?
+Eu explico: acessibilidade na web é uma questão de boa prática. Além de você colaborar para que mais pessoas sejam impactadas pelo conteúdo disseminado em seu site, você ainda estará fazendo parte dos profissionais que conhecem e querem implementar cuidados básicos que geram imensos resultados à navegação diferenciada à que estamos habituados.</description>
+    </item>
+    
+    <item>
+      <title>Use as facilidades do CSS 4 hoje</title>
+      <link>http://localhost/jhonny-roger/public/use-as-facilidades-do-css-4-hoje/</link>
+      <pubDate>Mon, 26 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/use-as-facilidades-do-css-4-hoje/</guid>
+      <description>Se CSS 3 trouxe muitas animações e transições, CSS 4 por sua vez traz muitos seletores novos que facilitam e muito a resolver problemas recorrentes em projetos complexos e grandes. E a maioria ou quase todas você já pode usar hoje com ajuda de alguns transpilers de CSS. Você consegue ter variáveis sem precisar usar pre processadores como Sass ou Less. A spec de CSS nível 4 ainda está em desenvolvimento, mas com transpilers como CSSNext e Rework, você já pode começar a usar essas features hoje.</description>
+    </item>
+    
+    <item>
+      <title>Afinal, como usar herança no CSS?</title>
+      <link>http://localhost/jhonny-roger/public/afinal-como-usar-heranca-no-css/</link>
+      <pubDate>Sun, 11 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/afinal-como-usar-heranca-no-css/</guid>
+      <description>Herança surgiu para ajudar desenvolvedores a escreverem mesmo e produzirem mais. Vamos ver aqui como esse conceito básico das folhas de estilo pode nos ajudar no dia-a-dia.
+Geralmente quando alguém começa a desenvolver interfaces web, o processo é aos trancos e barrancos. Nessa situação, iniciantes buscam aprender como se faz aquela borda arredondada ou como aplicar transparência. Por fim, acabam deixando de lado conceitos básicos de CSS. Levando isso em conta, precisamos primeiramente aprender sobre especificidade e efeito cascata.</description>
+    </item>
+    
+    <item>
+      <title>Centralizando conteúdo na vertical e horizontal  com CSS Flexbox</title>
+      <link>http://localhost/jhonny-roger/public/centralizando-conteudo-na-vertical-e-horizontal-com-css-flexbox/</link>
+      <pubDate>Wed, 07 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/centralizando-conteudo-na-vertical-e-horizontal-com-css-flexbox/</guid>
+      <description>Centralizar as coisas com CSS não é algo trivial. Na verdade, centralizar na horizontal é até fácil. Mas centralizar elementos na vertical já beira o impossível. Existem as maneiras antigas, com position por exemplo, mas que não passam de gambiarras. Dá para fazer com display: table; emulando uma tabela. Mas também não é a melhor das soluções.
+Como eu estou usando cada vez mais Flexbox, acho que já é uma boa hora de usarmos essa alegria em produção.</description>
+    </item>
+    
+    <item>
+      <title>Criando Layouts com Susy Framework</title>
+      <link>http://localhost/jhonny-roger/public/criando-layouts-com-susy-framework/</link>
+      <pubDate>Mon, 03 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-layouts-com-susy-framework/</guid>
+      <description>Com a alta demanda e prazos cada vez menores somos obrigados a trabalhar cada vez mais rápido e isso serve de incentivo para que novos frameworks sejam feitos buscando melhorar a qualidade no desenvolvimento. Um desses frameworks é o Susy e nesse artigo vamos conhecer e dar os primeiros passos com ele.
+O que é Susy? Susy é um framework que permite criar grids de acordo com as necessidades do seu site.</description>
+    </item>
+    
+    <item>
+      <title>Entendendo os valores ‘initial’ e ‘inherit’ do CSS</title>
+      <link>http://localhost/jhonny-roger/public/entendendo-os-valores-initial-e-inherit-do-css/</link>
+      <pubDate>Tue, 21 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/entendendo-os-valores-initial-e-inherit-do-css/</guid>
+      <description>Algum tempo atrás, se alguém me perguntasse qual a diferença entre os valores initial e inherit do CSS eu responderia:
+&amp;#8211; Existe alguma diferença?
+Trabalho com CSS por mais de 5 anos e de algum jeito faltou entender o significado do que exatamente initial é e faz. Pode chamar isso de ignorância, preguiça, burrice ou sorte, mas nunca pensei em olhar ao redor e tentar entender fixamente o comportamento que inherit poderia fazer.</description>
+    </item>
+    
+    <item>
+      <title>Material Design Lite: O framework do Google</title>
+      <link>http://localhost/jhonny-roger/public/material-design-lite-o-framework-google/</link>
+      <pubDate>Wed, 08 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/material-design-lite-o-framework-google/</guid>
+      <description>Em 2014 o Google apresentou o Material Design: um guia para redefinir o visual de aplicativos. Vários aplicativos aderiram ao Material Design, como por exemplo, o WhatsApp, que mudou por completo o visual.
+Para facilitar ainda mais a vida do usuário, o Google anunciou uma ferramenta para introduzir o Material Design em websites, chamado de Material Design Lite (MDL).
+Assim como qualquer outro framework, o MDL oferece uma documentação e vários exemplos para facilitar a aplicação em websites.</description>
+    </item>
+    
+    <item>
+      <title>nth-child() e calc() – Uma proposta para o abandono de frameworks de grids responsivos</title>
+      <link>http://localhost/jhonny-roger/public/nth-child-calc-responsivos/</link>
+      <pubDate>Mon, 06 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/nth-child-calc-responsivos/</guid>
+      <description>Apesar da adoção do _Tableless _para construção de layouts o conceito de tabela ainda persiste através de inúmeros frameworks de grids responsivos.
+ Além da semântica, o conceito Tableless prega, sempre que possível, levar a responsabilidade do layout para o CSS. O problema dos frameworks CSS focados em grids é que a especificação do layout continua dentro do HTML, descrita através de classes CSS, ancoradas diretamente aos elementos HTML, e de forma intrusiva, ou seja, os elementos  antigamente utilizados foram substituídos por elementos  para a criação do layout.</description>
+    </item>
+    
+    <item>
+      <title>Animações fluídas à 60fps</title>
+      <link>http://localhost/jhonny-roger/public/animacoes-fluidas-60fps/</link>
+      <pubDate>Mon, 29 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/animacoes-fluidas-60fps/</guid>
+      <description>Existem diversas maneiras da página interagir com o usurário, e uma dessas maneiras é a interação com animações. Podem ser desde animações mais triviais como o scroll de um elemento, até animações mais complexas como gráficos de jogos.
+Algumas vezes sentimos nossa UI engasgar durante essas interações, dando o sentimento de que algo está sendo executado com muito esforço. E pode apostar que é isso mesmo.
+Para criar essas animações o browser basicamente se comporta como outros softwares que reproduzem vídeo, gerando uma sequência de imagens e renderizando elas na tela do seu dispositivo.</description>
+    </item>
+    
+    <item>
+      <title>Motion UI com estilos: Zeh Fernandes no Meetup CSS SP</title>
+      <link>http://localhost/jhonny-roger/public/motion-ui-com-estilos-zeh-fernandes-no-meetup-css-sp/</link>
+      <pubDate>Tue, 23 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/motion-ui-com-estilos-zeh-fernandes-no-meetup-css-sp/</guid>
+      <description>Reunir a galera em eventos talvez seja a melhor maneira de manter-se atualizado e trocar conhecimento: você conhece pessoas que fazem a mesma coisa que a gente, soluciona dúvidas, pode discutir novas abordagens em torno de um tema e ainda reforça o network.
+Neste artigo no Tableless, quero compartilhar a experiência de participar de um Meetup e comentar sobre a palestra do Zeh Fernandes sobre Motion UI.
+Meetup CSS SP Excelente ferramenta para manter-se informado sobre os eventos que acontecem perto da sua cidade e com temas relacionados ao seu interesse, o Meetup mescla site e aplicativo, permitindo a qualquer pessoa organizar e divulgar eventos e encontros em torno de qualquer tema.</description>
+    </item>
+    
+    <item>
+      <title>Rumo ao hexa(decimal)</title>
+      <link>http://localhost/jhonny-roger/public/rumo-ao-hexadecimal/</link>
+      <pubDate>Mon, 22 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/rumo-ao-hexadecimal/</guid>
+      <description>Quantas vezes na sua vida você já se deparou com um código hexadecimal? A gente sabe que seu Command-C tá em um relacionamento sério com ele. Mas afinal, como que um punhado de letras e números representam essa tralharada de cores (ou o que quer que seja) que nós vemos por aí nos dispositivos digitais?
+Existe um artigo ótimo no Tableless explicando tudo o que você precisa saber sobre cor aqui.</description>
+    </item>
+    
+    <item>
+      <title>Ícones – SVG Sprites com CSS na prática</title>
+      <link>http://localhost/jhonny-roger/public/icones-svg-sprites-com-css-na-pratica/</link>
+      <pubDate>Fri, 29 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/icones-svg-sprites-com-css-na-pratica/</guid>
+      <description>O uso de ícones com SVG pode ser usado como uma alternativa mais poderosa, semântica e leve em relação a tradicional técnica de Icon Font.
+O artigo abaixo abordará de forma prática o uso de ícones SVG com o uso das seguintes técnicas: SVG (defs, symbol), HTML + CSS + SVG (use). Como diziao Chapolin: &amp;#8220;Sigam-me os bons!&amp;#8221;
+Obtendo arquivos SVG O site FlatIcon contém alguns ícones gratuitos que podem ser baixados no formato SVG.</description>
+    </item>
+    
+    <item>
+      <title>Email Marketing – Testes e CSS Inliner – Parte 2</title>
+      <link>http://localhost/jhonny-roger/public/email-marketing-testes-css-inliner-parte-2/</link>
+      <pubDate>Mon, 20 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/email-marketing-testes-css-inliner-parte-2/</guid>
+      <description>Não é só porque você precisa fazer seus emails utilizando tabelas, você vai desdenhar das boas práticas que você aprendeu na escola. O código final de uma Newsletter vai ficar muito maior e tão complexo quanto o código de um site institucional simples. Outro ponto importante, é que você vai fazer muitas e muitas alterações até esse email ser publicado e muito provavelmente vai precisar duplicá-lo quando alguém ter a necessidade de enviar novos emails.</description>
+    </item>
+    
+    <item>
+      <title>Em um relacionamento sério com generators front-end – Parte 3</title>
+      <link>http://localhost/jhonny-roger/public/em-um-relacionamento-serio-com-generators-front-end-parte-3/</link>
+      <pubDate>Fri, 06 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/em-um-relacionamento-serio-com-generators-front-end-parte-3/</guid>
+      <description>TL;DR Antes de iniciarmos o post, vale lembrar que em momento nenhum eu e o Pedro Polisenso estamos elegendo o melhor ou pior generator, visto que o output desse tipo de ferramenta é geralmente o mesmo dependendo da comparação, sendo assim, cabe a você analisar prós e contras de cada um e realizar uma escolha satisfatória pra sua necessidade.
+Mas vamos parar de mimimi e vamos ao que importa.</description>
+    </item>
+    
+    <item>
+      <title>Formulário responsivo com MailChimp</title>
+      <link>http://localhost/jhonny-roger/public/formulario-responsivo-com-mailchimp/</link>
+      <pubDate>Fri, 06 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/formulario-responsivo-com-mailchimp/</guid>
+      <description>Há cada dia mais utilizamos serviços disponíveis na web que tem um plano básico e gratuito que permite integrações. Nos últimos meses tenho feito formulários com frequência usando uma abordagem bem simples. Vou mostrar agora como criar um formulário responsivo, integrando com MailChimp e usando jQuery Validate.
+O HTML Vamos criar o formulário da seguinte maneira:
+&amp;lt;section&amp;gt; &amp;lt;h1&amp;gt;CREATE RESPONSIVE FORM WITH INTEGRATE MAILCHIMP&amp;lt;/h1&amp;gt; &amp;lt;form id=&#34;form-contact&#34; method=&#34;POST&#34; action=&#34;mailchimp-contact.php&#34;&amp;gt; &amp;lt;div class=&#34;input&#34;&amp;gt; &amp;lt;label for=&#34;</description>
+    </item>
+    
+    <item>
+      <title>Simples modal com CSS responsivo</title>
+      <link>http://localhost/jhonny-roger/public/simples-modal-com-css-responsivo/</link>
+      <pubDate>Wed, 21 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/simples-modal-com-css-responsivo/</guid>
+      <description>Continuando com os artigos, vamos utilizar novamente os seletores de css para exibir nosso modal.
+Se você chegou aqui e não viu os posts anteriores, para conhecer a estrutura inicial acesse os links:
+Header responsivo somente com css
+Destaques responsivos
+De uma maneira bem simples veja como preparar seu html e css.
+O LABEL Com os destaques responsivos, vamos adicionar abaixo da descrição um label que terá a função de marcar o checkbox e por css iremos exibir o modal.</description>
+    </item>
+    
+    <item>
+      <title>Workflow Front-end</title>
+      <link>http://localhost/jhonny-roger/public/workflow-front-end/</link>
+      <pubDate>Wed, 21 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/workflow-front-end/</guid>
+      <description>O desenvolvimento em html, javascript e CSS é uma forma mágica de se construir um mundo novo a cada linha de código. Os mágicos do front-end precisam de cartolas para que retirem seus coelhos. Essas cartolas e varinhas mágicas devem ser escolhidas a dedo, para que a mágica aconteça de forma suave e agradável à plateia.
+Cada mágico tem sua técnica, portanto o objetivo não é estabelecer um padrão imutável, mas estabelecer diretrizes que possam servir de auxílio a qualquer ilusionista.</description>
+    </item>
+    
+    <item>
+      <title>Seletores CSS Nível 4 – O que vem por aí</title>
+      <link>http://localhost/jhonny-roger/public/seletores-css-nivel-4-o-que-vem-por-ai/</link>
+      <pubDate>Mon, 12 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/seletores-css-nivel-4-o-que-vem-por-ai/</guid>
+      <description>Os seletores do CSS são a coisa mais importante da linguagem. As propriedades você consegue decorar e aprender de acordo com necessidade. Mas os seletores são a sua ferramenta de trabalho. A falta de um seletor adequado é determinante quando você decide fazer aquela gambiarra nojenta para conseguir formatar um elemento específico. Com seletores mais inteligentes, você também previne a chuva de classes que tem sido comum em projetos alheios.</description>
+    </item>
+    
+    <item>
+      <title>Destaques responsivos</title>
+      <link>http://localhost/jhonny-roger/public/destaques-responsivos/</link>
+      <pubDate>Mon, 29 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/destaques-responsivos/</guid>
+      <description>Hoje criaremos três destaques com um comportamento totalmente responsivo.
+Com um crescimento das SPAs e seguindo o mesmo conceito do artigo anterior, vou passar agora de uma forma simples de como usar, o input radio para transformar nossos destaques em galeria navegável.
+Aproveitando Como já temos um header responsivo, vamos continuar com a mesma estrutura até o final dos artigos só com css e html. Se você ainda não viu como criar um header responsivo, clique aqui.</description>
+    </item>
+    
+    <item>
+      <title>Extract for Brackets by Adobe</title>
+      <link>http://localhost/jhonny-roger/public/extract-brackets-adobe/</link>
+      <pubDate>Wed, 24 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/extract-brackets-adobe/</guid>
+      <description>Eu sei que você deve ser um cara apaixonado pelo Sublime, eu também sou. Mas quando algo legal está sendo feito por outras pessoas, nós temos que considerar. O meu segundo editor preferido, o Brackets, tem e vai ter algumas features sensacionais. Uma dessas features você já deve conhecer que é o PSD Lens, que ainda está em desenvolvimento. Mas outra feature que pode ser usada JÁ é o Extract for Brackets do serviço Creative Cloud da Adobe.</description>
+    </item>
+    
+    <item>
+      <title>Header responsivo somente com css</title>
+      <link>http://localhost/jhonny-roger/public/header-responsivo-somente-com-css/</link>
+      <pubDate>Mon, 08 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/header-responsivo-somente-com-css/</guid>
+      <description>A cada novo projeto queremos alcançar o máximo de usuários, não importa se o dispositivo seja grande ou pequeno, tem que funcionar.
+Com uma abordagem simples e rápida, esse tutorial vai te fazer pensar antes de querer usar o bootstrap só para ter o menu responsivo, claro que ele tem suas vantagens mas procuro sempre desenvolver do zero.
+Estarei criando uma serie de tutoriais abordando o assunto e espero que gostem do meu primeiro artigo.</description>
+    </item>
+    
+    <item>
+      <title>Em um relacionamento sério com generators front-end – Parte 1</title>
+      <link>http://localhost/jhonny-roger/public/em-um-relacionamento-serio-com-generators-front-end-parte-1/</link>
+      <pubDate>Wed, 29 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/em-um-relacionamento-serio-com-generators-front-end-parte-1/</guid>
+      <description>Conceitos e visão geral Generators front-end tem o seguinte conceito no geral: É uma ferramenta web de andaimes para criar webapp modernos.
+Baseado nesse conceito, entendemos que o uso dessa ferramenta permite que você crie suas aplicações de forma automatizada, gerenciável e com o tempo muito mais aproveitado.
+Ultimamente os devs front-end buscam melhorar seu workflow. Cada um tem seu jeito de trabalhar, porém temos algo em comum: detestamos ter retrabalho, queremos praticidade e sempre queremos automatizar tudo.</description>
+    </item>
+    
+    <item>
+      <title>Usando seletores aninhados do SASS com cuidado</title>
+      <link>http://localhost/jhonny-roger/public/nesting-selectors-sass/</link>
+      <pubDate>Mon, 22 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/nesting-selectors-sass/</guid>
+      <description>Não é só por que você está usando um pré-processador que as boas práticas de escrita de CSS devem ser ignoradas. Imagine o código abaixo:
+&amp;lt;main class=&#34;wrap&#34;&amp;gt; &amp;lt;div class=&#34;content&#34;&amp;gt; &amp;lt;article&amp;gt; &amp;lt;p&amp;gt;Lorem &amp;lt;strong&amp;gt;ipsum dolor sit amet&amp;lt;/strong&amp;gt;. Officia rem sed fuga consequatur rerum.&amp;lt;/p&amp;gt; &amp;lt;/article&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/main&amp;gt;  E você já deve ter visto um seletor desse tipo:
+.wrap .content article p strong { color: #ccc; }  Escrever seletores assim é um tiro no pé.</description>
+    </item>
+    
+    <item>
+      <title>Usando condicionais no Sass – Control Directives</title>
+      <link>http://localhost/jhonny-roger/public/usando-condicionais-sass-control-directives/</link>
+      <pubDate>Mon, 25 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/usando-condicionais-sass-control-directives/</guid>
+      <description>Ter a possibilidade de usar condicionais no CSS é uma daquelas coisas que fazem os pré-processadores de CSS tão sensuais.
+No Sass essas condicionais são chamadas de **Diretivas de controle**, ou em inglês, que é mais chique, &amp;#8220;Control Directives&amp;#8221;. As funções são @if, @for, @each e @while. São as condicionais tradicionais que estamos acostumados a usar nas outras linguagens.
+@if Se algo for qualquer coisa diferente de falso, execute determinado comando.</description>
+    </item>
+    
+    <item>
+      <title>Instalando SASS na máquina – video</title>
+      <link>http://localhost/jhonny-roger/public/instalando-sass-na-maquina-video/</link>
+      <pubDate>Mon, 18 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/instalando-sass-na-maquina-video/</guid>
+      <description>Se você quiser usar um pré-processador em seus projetos, aqui vão instruções simples para você começar agora. Darei mais atenção para quem usa Mac porque é o sistema que eu uso. Mas no Windows as instruções são quase as mesmas, principalmente se você for usar algum sistema que gerencia os assets. Também estou abordando aqui apenas o SASS, nada de LESS, Style ou qualquer outro pré-processador. Depois desse disclaimer, vamos ao que interessa.</description>
+    </item>
+    
+    <item>
+      <title>Gerando arquivos estáticos com o Middleman</title>
+      <link>http://localhost/jhonny-roger/public/gerando-arquivos-estaticos-com-o-middleman/</link>
+      <pubDate>Mon, 04 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/gerando-arquivos-estaticos-com-o-middleman/</guid>
+      <description>O Middleman, assim como o Jekyll, serve sites estáticos, sem banco de dados, baseados em puro código HTML e informação. Existem uma série de sistemas desse tipo e é uma das minhas armas em muitos projetos.
+Instalando Supondo que você tem o Ruby e RubyGems na sua máquina, basta instalar a GEM do Middleman:
+$ gem install middleman  Depois de instalado, os comandos básicos são:
+ middleman init para iniciar um projeto.</description>
+    </item>
+    
+    <item>
+      <title>Padrões de Código de CSS do WordPress</title>
+      <link>http://localhost/jhonny-roger/public/padroes-de-codigo-de-css-wordpress/</link>
+      <pubDate>Fri, 18 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/padroes-de-codigo-de-css-wordpress/</guid>
+      <description>Todo mundo no comecinho da carreira já desenvolveu aquele código esquisito, que dias depois não conseguiu lembrar bem o que era, se perdia nos seletores, usava padrões de nomenclatura vistos na programação tipo o CamelCase, ou algo semelhante. Ter um padrão de escrita de código é essencial para que você e também outros na equipe entendam de maneira efetiva cada ponto do sistema. Para tanto, as famosas guide lines fazem com que gostos pessoais sejam ignorados e padrões de escrita se firmem.</description>
+    </item>
+    
+    <item>
+      <title>CSS Filters – Aplicando filtros em imagens com CSS</title>
+      <link>http://localhost/jhonny-roger/public/css-filters-aplicando-filtros-em-imagens-com-css/</link>
+      <pubDate>Thu, 10 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css-filters-aplicando-filtros-em-imagens-com-css/</guid>
+      <description>A cada dia que passa o CSS tem virado de fato uma linguagem visual, para formatar como os elementos, imagens e qualquer outro tipo de informação aparece nos browsers, celulares e etc. Um bom exemplo disso são os CSS Filters, que permite aplicar filtros, antes vistos apenas em programas como Photoshop, diretamente no browser com CSS.
+ A filter effect is a graphical operation that is applied to an element as it is drawn into the document.</description>
+    </item>
+    
+    <item>
+      <title>Sobre desenvolvimento multi-device</title>
+      <link>http://localhost/jhonny-roger/public/sobre-desenvolvimento-multi-device/</link>
+      <pubDate>Mon, 30 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sobre-desenvolvimento-multi-device/</guid>
+      <description>Hoje existem uma série de dispositivos misturados em pelo menos três categorias que conhecemos: smartphones, tablets e desktops. Mas onde começa um e termina outro? Um smartphone de seis ou sete polegadas é um tablet? Se você acha que não existem smartphones deste tamanho, pesquise sobre o Fonepad da Asus para ter um exemplo. Dividir os aparelhos pelo tamanho da tela ou por features já não é mais tão seguro como antes.</description>
+    </item>
+    
+    <item>
+      <title>OOCSS, SMACSS, BEM, DRY CSS: afinal, como escrever CSS?</title>
+      <link>http://localhost/jhonny-roger/public/oocss-smacss-bem-dry-css-afinal-como-escrever-css/</link>
+      <pubDate>Mon, 23 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/oocss-smacss-bem-dry-css-afinal-como-escrever-css/</guid>
+      <description>Já sabemos que se tratando de CSS, apesar da escrita ser muito simples, há uma série de armadilhas. Começamos não utilizando !important ou tags para estilização, considerando o peso dos seletores e adotando um code standard. Mas ainda não damos tanta atenção para a arquitetura que está intimamente ligada a futuros conflitos. Um conflito de CSS é fruto de código mal escrito que cancela regras ou as aplicada em porções inadequadas do layout.</description>
+    </item>
+    
+    <item>
+      <title>Criando listras com CSS3</title>
+      <link>http://localhost/jhonny-roger/public/criando-listras-com-css3/</link>
+      <pubDate>Thu, 15 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-listras-com-css3/</guid>
+      <description>Cada vez mais, com o passar do tempo as ferramentas CSS3 aos poucos vem ganhando seu devido destaque. Com a constante atualização dos navegadores, a morte declarada do Windows XP, e novos dispositivos a cada dia, podemos finalmente colocar em projetos reais as funcionalidades, pelo menos algumas do CSS3.
+Anteriormente sempre que queríamos algo assim, era necessário a utilização de imagens, texturas ou dependendo do caso nem era possível. Agora com a criação de listras em CSS você poderá fazer de maneira fácil, simples e melhorar o desempenho do carregamento do seu código no browser.</description>
+    </item>
+    
+    <item>
+      <title>Fazendo uma faxina no seu CSS</title>
+      <link>http://localhost/jhonny-roger/public/fazendo-uma-faxina-seu-css/</link>
+      <pubDate>Thu, 15 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/fazendo-uma-faxina-seu-css/</guid>
+      <description>Sempre podemos discutir sobre como escrevemos CSS e também quais são as melhores práticas. Geralmente artigos sobre CSS agradam qualquer desenvolvedor independente da linguagem utilizada, já que é uma leitura fácil e o código costuma ser bem simples.
+A Origem de tudo Já foi falado aqui no Tableless várias vezes sobre performance e velocidade de páginas. Um deles você encontra aqui no artigo que fala sobre a performance do seu CSS</description>
+    </item>
+    
+    <item>
+      <title>Como fazer triângulos (setas ou arrows) com CSS</title>
+      <link>http://localhost/jhonny-roger/public/fazendo-triangulos-triangle-arrows-com-css/</link>
+      <pubDate>Fri, 18 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/fazendo-triangulos-triangle-arrows-com-css/</guid>
+      <description>Muitas vezes usamos triângulos em links, botões ou qualquer outro elemento que precise de alguma indicação de clique. Esses triângulos, por serem muito simples, é bem possível criarmos inteiramente usando CSS. Esse truque vale muito a pena para evitar que o browser tenha que baixar pequenas imagens, quem mesmo tendo um peso bem leve, elas atrapalham a performance do carregamento do site.
+Para esse truque você usará os pseudo elementos :after ou :before.</description>
+    </item>
+    
+    <item>
+      <title>SASS: Mixin ou Placeholder?</title>
+      <link>http://localhost/jhonny-roger/public/sass-mixin-ou-placeholder/</link>
+      <pubDate>Sun, 16 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sass-mixin-ou-placeholder/</guid>
+      <description>Se é um tema que sempre vejo a respeito da utilização ou não, é sobre o uso de pré processadores CSS. Alguns devs que costumo seguir e ler os artigos, e que pra mim são algumas das nossas referências, apontam as suas considerações sobre o tema. O Miller Medeiros, em um post mostra alguns pontos negativos na utilização de pré processadores. O Jean Carlos Emer em um outro post mostra as reais vantagens de se utilizar um pré-processador.</description>
+    </item>
+    
+    <item>
+      <title>Code Guide by @mdo</title>
+      <link>http://localhost/jhonny-roger/public/code-guide-mdo/</link>
+      <pubDate>Fri, 28 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/code-guide-mdo/</guid>
+      <description>Alguns devem conhecer o @mdo. Se você não conhece, ele é um dos criadores do Bootstrap.
+Ontem a noite ele liberou um Guia de Escrita de Código. É um guia simples onde ele cita uma série de boas práticas e guidelines para escrever código bem estruturado, escalável e legível para todos da equipe. Como eu sigo a grande maioria das regras do guia em todos os meus projetos, achei legal traduzir pra divulgar as boas práticas aqui no Brasil.</description>
+    </item>
+    
+    <item>
+      <title>Estilizar e formatar placeholder de inputs</title>
+      <link>http://localhost/jhonny-roger/public/estilizar-e-formatar-placeholder-de-inputs/</link>
+      <pubDate>Wed, 26 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/estilizar-e-formatar-placeholder-de-inputs/</guid>
+      <description>O atributo placeholder foi uma das maravilhas herdadas do HTML5. Eu me lembro de todas as gambiarras em Javascript e CSS que fazíamos para simular o que o atributo placeholder faz tão facilmente.
+O atributo placeholder é uma pequena dica, uma pequena frase, uma palavra, que tem o intuito de ajudar o usuário a entender como ele deve preencher aquele formulário. Entenda que e o placeholder NÃO deve ser usado como alternativa para a LABEL.</description>
+    </item>
+    
+    <item>
+      <title>Dicas de CSS para impressão</title>
+      <link>http://localhost/jhonny-roger/public/dicas-de-css-para-impressao/</link>
+      <pubDate>Mon, 24 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/dicas-de-css-para-impressao/</guid>
+      <description>Uma das premissas básicas do Design Responsivo é oferecer a melhor experiência do usuário, independente do meio utilizado para acessar a informação. Muitas vezes nos preocupamos muito com smartphones, tablets e outros dispositivos móveis e esquecemos de um tipo de mídia que ainda é essencial para a leitura: o papel. Pois é, o usuário pode sentir a necessidade de imprimir uma página na web por muitos motivos: portabilidade, guardar o conteúdo &amp;#8220;offline&amp;#8221; ou simplesmente por que &amp;#8211; eReaders que me desculpem &amp;#8211; é muito mais confortável ler em um papel.</description>
+    </item>
+    
+    <item>
+      <title>Fault Tolerance: a base do Progressive Enhancement</title>
+      <link>http://localhost/jhonny-roger/public/faut-tolerant-base-progressive-enhancement/</link>
+      <pubDate>Mon, 17 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/faut-tolerant-base-progressive-enhancement/</guid>
+      <description>Fault Tolerance é como as máquinas tratam um erro quando ele acontece. É a habilidade do sistema continuar em operação quando uma falha inesperada ocorre. Isso acontece a todo momento com seu cérebro. O sistema não pode parar até que esse erro seja resolvido, logo o sistema dá um jeito para que esse erro não afete todo o resto do sistema. A natureza inteira trabalha dessa forma. Os browsers trabalham dessa forma.</description>
+    </item>
+    
+    <item>
+      <title>BEM, um novo método para seu CSS</title>
+      <link>http://localhost/jhonny-roger/public/bem-um-novo-metodo-para-seu-css/</link>
+      <pubDate>Mon, 10 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/bem-um-novo-metodo-para-seu-css/</guid>
+      <description>O que é BEM? A sigla BEM significa block, element, modifier e segue essas propriedades para definir uma nova metodologia de criação de nomes para classes de folhas de estilo.
+A estrutura é simples:
+.elementopai, .elementopai__filho, .elementopai__filho- -primeiro
+Como assim? As marcas registradas da estruturação BEM são o uso do &amp;#8220;__&amp;#8221; e do &amp;#8220;- -&amp;#8220;: sendo que o primeiro define um elemento (filho do elemento pai), e o segundo define um modificador.</description>
+    </item>
+    
+    <item>
+      <title>Não tenho versão mobile, faço ou não faço?</title>
+      <link>http://localhost/jhonny-roger/public/nao-tenho-versao-mobile-faco-ou-nao-faco/</link>
+      <pubDate>Mon, 06 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/nao-tenho-versao-mobile-faco-ou-nao-faco/</guid>
+      <description>Estamos fazendo uma reestruturação no framework da firma. A primeira versão do projeto tinha como objetivo iniciar uma estruturação e uniformização de comportamento e design dos layouts de cada produto, melhorando o código front-end gerado, automatizando algumas tarefas e uniformizando o design e a expediência de uso. Não havíamos planejado nessa primeira versão qualquer tipo de compatibilidade com dispositivos móveis.
+Nessa reestruturação, o objetivo principal é produzir um novo código mais legível e escalável possível, de forma que não apenas nossa equipe de front-end consiga usar componentes, mas também que os back-ends possam montar painéis inteiros, como um quebra-cabeças, sem a necessidade de um front-end para tarefas básicas.</description>
+    </item>
+    
+    <item>
+      <title>O que falamos em 2013?</title>
+      <link>http://localhost/jhonny-roger/public/o-que-falamos-em-2013/</link>
+      <pubDate>Mon, 06 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-que-falamos-em-2013/</guid>
+      <description>Web Design Responsivo ou Adaptativo Falou-se muito sobre a adaptação de websites em diferentes devices.
+O acesso mobile ainda é o mais comentado, mas as vertentes também já estão de olho nos diferentes tamanhos de telas existentes de forma geral.
+Aqui no Tableless, em 2013, artigos bem legais e bem voltados ao desenvolvimento de ambos os conceitos foram publicados: http://tableless.com.br/?s=web+design+responsivo &amp;nbsp;
+Acessibilidade e SEO Ainda que não sejam considerados como itens obrigatório em todos os projetos web publicados por aí, a preocupação com websites acessíveis e estruturados para robôs de pesquisa, está finalmente ganhando espaço e 2013 foi mais um ano importante para isso.</description>
+    </item>
+    
+    <item>
+      <title>Turbinando as Media Queries</title>
+      <link>http://localhost/jhonny-roger/public/turbinando-media-queries/</link>
+      <pubDate>Thu, 12 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/turbinando-media-queries/</guid>
+      <description>Media Queries são uma das ferramenta mais importante do CSS pra quem se preocupa com Web Design Responsivo. Com uma ajudinha dos pré-processadores as media queries podem ficar ainda melhores. Neste artigo vamos turbinar as Media Queries usando um pouco das opções que o SASS nos oferece para ajudar na organização, manutenção e garantir legibilidade ao nosso código.
+Nota: os exemplos deste post serão todos em SASS com a sintaxe do .</description>
+    </item>
+    
+    <item>
+      <title>Geração de conteúdo estático via CSS</title>
+      <link>http://localhost/jhonny-roger/public/geracao-estatica-de-conteudo-via-css/</link>
+      <pubDate>Mon, 02 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/geracao-estatica-de-conteudo-via-css/</guid>
+      <description>A Propriedade content cria um conteúdo estático utilizando os pseudo-elementos ::after e ::before.
+Só para esclarecer: o W3C determinou que pseudo-elementos usem sempre :: em vez de apenas dois pontos : que é para diferenciar das pseudo-classes. Por isso não fique intrigado caso os exemplos usarem ::.
+Relembrando No CSS existe a possibilidade de você inserir um elemento de mentira (pseudo-elemento) em objetos no HTML. Estes elementos pode te auxiliar em diversos momentos do desenvolvimento, prevenindo a criação de elementos HTML vazios para produzir algum detalhe do layout que possa se misturar com o conteúdo real.</description>
+    </item>
+    
+    <item>
+      <title>CSS on steroids</title>
+      <link>http://localhost/jhonny-roger/public/css-steroids/</link>
+      <pubDate>Tue, 12 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css-steroids/</guid>
+      <description>Os pré-processadores de CSS têm a função de adicionar funcionalidades não nativas às folhas de estilo. Estes açúcares sintáticos, como são chamados, estabelecem uma nova linguagem cujo código precisa ser processado para se tornar CSS e então ser interpretado por qualquer navegador.
+Cá entre nós, pré-processadores não são nenhuma novidade, o mais antigo deles surgiu em 2007. O que talvez não seja conhecido por muita gente, inclusive por aqueles que já utilizam um pré-processador, são quais os problemas que eles se propõe a solucionar.</description>
+    </item>
+    
+    <item>
+      <title>Ferramentas e sites para tornar mais ágil o seu desenvolvimento</title>
+      <link>http://localhost/jhonny-roger/public/ferramentas-e-sites-prontos-para-tornar-seu-processo-de-desenvolvimento-mais-agil/</link>
+      <pubDate>Thu, 19 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ferramentas-e-sites-prontos-para-tornar-seu-processo-de-desenvolvimento-mais-agil/</guid>
+      <description>Planejamento Na grande maioria dos projetos web, tudo se inicia pela Arquitetura de Informação (UX) e mesmo que talvez esta não seja a sua área, eventualmente organizar e entender um website por inteiro, também possa ser uma necessidade.
+Sem considerar todos os argumentos aplicados às melhores metodologias, criar um sitemap* pode ser algo bastante útil então, a dica é, uma das ferramentas online que trabalha bem com esse tipo de documento é o Coggle.</description>
+    </item>
+    
+    <item>
+      <title>Dicas de como fazer seu próprio framework CSS</title>
+      <link>http://localhost/jhonny-roger/public/dicas-de-como-fazer-seu-proprio-framework-css/</link>
+      <pubDate>Tue, 03 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/dicas-de-como-fazer-seu-proprio-framework-css/</guid>
+      <description>Algumas anotações da minha palestra na QCon 2013, sobre como fazer seu próprio framework CSS.
+ Construindo seu framework CSS  from Diego Eis Por que usar Frameworks?  Aumentar a eficiência Consistência e padrão de código Compatibilidade mais confiável Fácil manutenção Facilita a repetições de tarefas  Por que não usar Frameworks?  Curva de aprendizado HTML engessado CSS engessado Sopa de classes Tem que manter tudo atualizado o tempo todo Versionamento problemático  Separe seu CSS em partes É bom para manutenção, escalabilidade do código e também evita misturar assuntos diferentes.</description>
+    </item>
+    
+    <item>
+      <title>Tridiv – Dominando 3D com CSS</title>
+      <link>http://localhost/jhonny-roger/public/tridiv-dominando-3d-com-css/</link>
+      <pubDate>Thu, 22 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tridiv-dominando-3d-com-css/</guid>
+      <description>Quer brincar com 3D? Quer brincar com 3D usando CSS? Então você está procurando algo como o Tridiv, um editor para criar formas 3D, web-based, usando CSS. Isso, pode chorar&amp;#8230;
+Olha só o exemplo abaixo:
+Nem preciso dizer que roda lindo, sem travar, sem fazer o seu computador gritar. Browsers como Chrome e Safari usam o hardware para renderizar o 3D do CSS&amp;#8230; COISA LINDA.
+Experimente e seja feliz.</description>
+    </item>
+    
+    <item>
+      <title>EditorConfig</title>
+      <link>http://localhost/jhonny-roger/public/editorconfig/</link>
+      <pubDate>Mon, 19 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/editorconfig/</guid>
+      <description>Você já deve ter visto discussões em equipes para definir o estilo de código usado em projetos. Discutir se será tabs ou espaços, o tamanho do tab, charset e etc. Todo mundo tem que configurar o editor igualmente para que não quebre nenhum arquivo e fique aquela bagunça. Não existia solução de verdade para isso, até agora. Cada um usa um editor diferente, com configurações diferentes e muito pior, todo mundo tem um gosto pessoal diferente.</description>
+    </item>
+    
+    <item>
+      <title>Tabela comparativa de Frameworks CSS</title>
+      <link>http://localhost/jhonny-roger/public/tabela-comparativa-de-frameworks-css/</link>
+      <pubDate>Mon, 19 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tabela-comparativa-de-frameworks-css/</guid>
+      <description>Todo mundo tem dúvidas sobre qual framework usar. Foi aí que um pessoal compilou uma lista dos melhores frameworks do mercado. Existem milhares de outros, mas estes são os mais conhecidos e talvez apenas os que você deveria se focar para estudar e considerar usar em seus trabalhos.
+Nessa lista você encontra o link do projeto, uma tabela de compatibilidade que cada framework tem com os browsers, uma indicação mostrando o suporte a responsive web design e qual a licensa usada para a utilização!</description>
+    </item>
+    
+    <item>
+      <title>Emmet LiveStyle</title>
+      <link>http://localhost/jhonny-roger/public/emmet-livestyle/</link>
+      <pubDate>Tue, 06 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/emmet-livestyle/</guid>
+      <description>Dos mesmos criadores de Emmet, conheça o Emmet LiveStyle.
+O Emmet LiveStyle é um plugin que permite que ao editar o código CSS você veja as alterações na hora, on the fly!
+A iniciativa é simples e você já deve ter visto milhares de outras iniciativas, mas agora eu acho que fizeram do jeito correto. A ideia de um editor bidirecional é que a partir do momento que você edita o código CSS, você consegue ver as alterações na hora, economizando o tempo de alternar janelas, salvar arquivos e etc.</description>
+    </item>
+    
+    <item>
+      <title>Pré-processadores: usar ou não usar?</title>
+      <link>http://localhost/jhonny-roger/public/pre-processadores-usar-ou-nao-usar/</link>
+      <pubDate>Mon, 22 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/pre-processadores-usar-ou-nao-usar/</guid>
+      <description>Faz tempo que estou tentando escrever um post sobre pré processadores de CSS. Sempre que eu digo que sou meio contra a utilização deles pra alguém, ouço a inevitável pergunta: por quê?
+O Miller Medeiros escreveu um ótimo artigo com o nome de The problem with CSS pre-processors. Lá ele cita alguns pontos interessantes, que pra mim já são suficientes para não usar.
+Mas como eu disse: sou meio contra.</description>
+    </item>
+    
+    <item>
+      <title>Modos de Mesclagem em CSS – Blend Mode CSS</title>
+      <link>http://localhost/jhonny-roger/public/modos-de-mesclagem-em-css/</link>
+      <pubDate>Tue, 16 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/modos-de-mesclagem-em-css/</guid>
+      <description>Uma das funções mais interessantes do Photoshop é a capacidade de alterar imagens em camadas através de diversos modos de mesclagens (blending modes). Utilizando este recurso é possível criar composições de cores sobrepondo imagens em camadas diferentes.
+Infelizmente, ao converter o layout para HTML e CSS, não possuíamos classes ou ferramentas para chegar no mesmo resultado de softwares de edição de imagens. A única saída era achatar as camadas e exportar a imagem no modo padrão.</description>
+    </item>
+    
+    <item>
+      <title>Guia para Iniciantes – Ajude</title>
+      <link>http://localhost/jhonny-roger/public/guia-para-iniciantes-ajude/</link>
+      <pubDate>Mon, 15 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/guia-para-iniciantes-ajude/</guid>
+      <description>Muita gente notou e talvez até mesmo você, que não existe conteúdo direcionado para aqueles que querem entrar no mercado de desenvolvimento web e precisam aprender desde o básico. Há bastante material em inglês, mas geralmente o idioma é uma barreira. Comecei com um rascunho um tempo atrás e agora estou querendo fazer algo um pouco maior: quero pedir a sua ajuda neste projeto, que é de toda a comunidade para a comunidade.</description>
+    </item>
+    
+    <item>
+      <title>O que é Sass? Entenda esse outro método de escrever CSS</title>
+      <link>http://localhost/jhonny-roger/public/sass-um-outro-metodo-de-escrever-css/</link>
+      <pubDate>Tue, 11 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sass-um-outro-metodo-de-escrever-css/</guid>
+      <description>Se você é um desenvolvedor front-end que está atualmente no mercado, já ouviu/leu palavrinhas como LESS, Foundation e Sass. Alguns sabem do que estou falando, outros não, mas o fato que é que esses nomes foram dados à pré-processadores e frameworks de folhas de estilo para auxiliar na produtividade de códigos, principalmente no que diz respeito a repetição de uma mesma ação, diversas vezes.
+Quantas vezes você se pegou copiando e colando aquele monte de classes identadas com mais de 15 linhas repetidamente e pensou: podia existir uma maneira mais rápida de fazer isso.</description>
+    </item>
+    
+    <item>
+      <title>CSS Transition e CSS Animation</title>
+      <link>http://localhost/jhonny-roger/public/transition-e-animation/</link>
+      <pubDate>Fri, 19 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/transition-e-animation/</guid>
+      <description>Transition. Prazer!  &amp;#8220;Com CSS3, podemos adicionar um efeito quando o navegador troca de um estilo para outro, sem usar animações em Flash ou JavaScript.&amp;#8221; &amp;#8211; w3schools  Mostrar um feedback ao usuário quando ele passar o mouse sobre um link (:hover) ou quando ele der foco em um campo input (:focus) são boas práticas. Há muitos jeitos de fazermos isso: mudando a cor do texto, tirando o underline da palavra, alterando a borda do input que recebeu o foco ou até alterando a cor de background do elemento.</description>
+    </item>
+    
+    <item>
+      <title>CSS e acessibilidade na web</title>
+      <link>http://localhost/jhonny-roger/public/css-e-acessibilidade-na-web/</link>
+      <pubDate>Tue, 12 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css-e-acessibilidade-na-web/</guid>
+      <description>Temos abordado bastante a importância da acessibilidade na web na estrutura e semântica do código HTML: cabeçalhos, tabelas, textos alternativos e outros recursos para deixar o markup robusto e acessível. Mas todos são elementos que podem ser manipulados pelo CSS e por isso devemos ter certos cuidados com a acessibilidade deles.
+Softwares leitores de tela já são capazes de identificar elementos de formatação visual das páginas que não foram declaradas no HTML e sim no CSS, como tipo e cor de fonte por exemplo.</description>
+    </item>
+    
+    <item>
+      <title>Grids semânticos com LESS</title>
+      <link>http://localhost/jhonny-roger/public/grids-semanticos-com-less/</link>
+      <pubDate>Fri, 08 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/grids-semanticos-com-less/</guid>
+      <description>Grids semânticos com LESS Já reparou como os blocos da sidebar aqui do Tableless possuem todos a mesma largura? Ou como a largura do bloco de artigo somada a largura da sidebar é equivalente ao wrap do menu e do rodapé? Mesmo que você não tenha percebido isto antes de maneira consciente, a informação parece mais organizada desta forma&amp;#8230;É por que o design do Tableless, como boa parte do conteúdo da internet, foi alinhado com o auxilio de um grid.</description>
+    </item>
+    
+    <item>
+      <title>Repensando CSS Resets</title>
+      <link>http://localhost/jhonny-roger/public/repensando-css-resets/</link>
+      <pubDate>Mon, 04 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/repensando-css-resets/</guid>
+      <description>Cada desenvolvedor possui um fluxo de trabalho diferente, mas uma prática mais do que comum é utilização de algum tipo de reset ou normatização para o CSS. Você provavelmente já sabe para que serve este tipo de arquivo. Como cada browser tem suas configurações padrões iniciais, esta boa prática garante a consistência do código e minimiza as diferenças visuais de um layout em diferentes navegadores. O objetivo é sempre criar um resultado mais homogêneo.</description>
+    </item>
+    
+    <item>
+      <title>Seletores de CSS3 nível 4</title>
+      <link>http://localhost/jhonny-roger/public/seletores-de-css3-nivel-4/</link>
+      <pubDate>Tue, 29 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/seletores-de-css3-nivel-4/</guid>
+      <description>Desde setembro de 2011 a W3C vem trabalhando nos seletores de CSS nível 4. Calma! Isso não significa que eles estão criando o CSS4, já que nem finalizaram o CSS3 ainda&amp;#8230; Apenas que um novo pacote de pseudo-classes e classes que podem substituir as atuais, ou expandir o seu uso. Claro que, por ser algo recente, não são todos os browsers que dão suporte&amp;#8230; Mas é bom tomar conhecimento. Afinal, é sempre bom estar um passo a frente do resto do mundo.</description>
+    </item>
+    
+    <item>
+      <title>Guia de Estilos</title>
+      <link>http://localhost/jhonny-roger/public/guia-de-estilos/</link>
+      <pubDate>Wed, 09 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/guia-de-estilos/</guid>
+      <description>Um dos elementos mais importantes do processo de criação de identidade visual é a elaboração de um documento com informações concretas sobre cores, tipografia, forma, exemplos de uso, tamanho mínimo e área de reserva do logotipo, etc. Este documento, conhecido como Guia de Identidade Visual ou simplesmente Manual da Marca, não se restringe apenas ao aspecto gráfico e pode muitas vezes incluir explicações sobre a visão, história e filosofia da empresa, uma perspectiva mais aprofundada dos símbolos e signos utilizados para compor o design ou até instruções gerais sobre a linguagem a ser utilizada na comunicação escrita, por exemplo.</description>
+    </item>
+    
+    <item>
+      <title>Criando seu próprio Framework HTML CSS</title>
+      <link>http://localhost/jhonny-roger/public/criando-seu-framework-html-css/</link>
+      <pubDate>Mon, 07 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-seu-framework-html-css/</guid>
+      <description>Em 2011, principalmente em 2012, dezenas de pessoas vinham e voltavam com o assunto &amp;#8220;Qual o melhor Framework?&amp;#8221;, fora os bootstrap fanboys de plantão que falavam tão cegamente do Twitter Bootstrap que se somasse todos os amores da internet teriamos um &amp;#8220;cupcake de gato dançando Gangnam Style após tentar beber 1 litro de absolute&amp;#8221; bootstrape. Eu sempre falo isso no meio das minhas palestras e começo dizendo no início desse post: Sejamos menos emotivos e mais analistas em Front-end, explico a seguir:</description>
+    </item>
+    
+    <item>
+      <title>Classes Funcionais</title>
+      <link>http://localhost/jhonny-roger/public/classes-funcionais/</link>
+      <pubDate>Wed, 28 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/classes-funcionais/</guid>
+      <description>Normalmente, principalmente quando manipulamos elementos com javascript, precisamos modificar diversas vezes as características básicas dos objetos no HTML. Vira e mexe você precisa esconder, fazer aparecer, transformar em bloco ou linha, retirar margens, paddings e etc&amp;#8230; você pode fazer isso com Javascript ou com uma simples linha de CSS.
+&amp;lt;div style=&#34;display:none;&#34;&amp;gt;&amp;lt;/div&amp;gt;  Via JQuery seria algo como:
+$(&#39;div&#39;).hide();  O problema disso que é não escala. Se você precisa fazer isso em muitos elementos e muito frequentemente, você acaba sujando seu HTML ou acaba jogando um trabalho para o Javascript que na verdade não é dele.</description>
+    </item>
+    
+    <item>
+      <title>Imagens em alta resolução utilizando SVG</title>
+      <link>http://localhost/jhonny-roger/public/imagens-em-alta-resolucao-utilizando-svg/</link>
+      <pubDate>Tue, 27 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/imagens-em-alta-resolucao-utilizando-svg/</guid>
+      <description>Scalable Vector Graphics (SVG) Uma das grandes tendências do momento quando se fala sobre desenvolvimento web é o formato SVG, principalmente com o advento do design responsivo e a consequente preocupação com dispositivos com densidade de pixel superior (HiDPI) como a tela retina da Apple, utilizada nos modelos mais recentes do iPhone, iPad e do Macbook Pro. Mas o que exatamente é um arquivo SVG? Qual é a diferença entre um vetor e um bitmap?</description>
+    </item>
+    
+    <item>
+      <title>Scoped CSS</title>
+      <link>http://localhost/jhonny-roger/public/scoped-css/</link>
+      <pubDate>Thu, 13 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/scoped-css/</guid>
+      <description>Scoped CSS é uma pequena novidade no HTML5 que nos permite inserir estilos CSS que sejam apenas aplicado em um determinado lugar de uma página, de modo que os estilos restantes da mesma página não sejam afetados. Para isso, foi definido um novo atributo scoped que deve ser utilizado na tag .
+Pela definição da especificação:
+ O atributo scoped é um atributo booleano. Se for setado, indica que os estilos (da tag ) serão aplicados apenas na sub-árvore do elemento pai deste mesmo elemento (), ao contrário de todo o documento.</description>
+    </item>
+    
+    <item>
+      <title>Qual unidade utilizar – Pixel, EM ou REM</title>
+      <link>http://localhost/jhonny-roger/public/unidade-pixels-em-rem/</link>
+      <pubDate>Mon, 03 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/unidade-pixels-em-rem/</guid>
+      <description>Aqui no Brasil é muito comum usarmos pixels para definição de tamanho de textos. Lá fora a galera gosta muito de usar EM. Mas qual a diferença? Por que usar um ou outro?
+Pixels Unidade em pixels é mais velho que andar para trás. Você utiliza pixels para definir a largura de um elemento, o tamanho do texto, a espessura da borda e outras coisas.
+Os pixels são utilizados para definir o tamanho dos textos por que é a medida mais exata que você pode encontrar.</description>
+    </item>
+    
+    <item>
+      <title>Font icons – Utilizando ícones em formato de font</title>
+      <link>http://localhost/jhonny-roger/public/utilizando-icones-formato-font/</link>
+      <pubDate>Mon, 20 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/utilizando-icones-formato-font/</guid>
+      <description>Você já deve ter desenvolvido um sistema onde o designer utilizou muitos ícones em botões, links e etc&amp;#8230; A primeira coisa que pensamos em fazer são sprites com todos estes ícones. O problema é que dependendo da sua necessidade, criar Sprites para todos os ícones pode se tornar algo realmente trabalhoso. Ainda mais quando estes ícones são utilizados em várias cores e tamanhos. Utilizar ícones em imagens separadas dá tanto trabalho quanto.</description>
+    </item>
+    
+    <item>
+      <title>Boas práticas para E-mail Marketing</title>
+      <link>http://localhost/jhonny-roger/public/boas-praticas-para-e-mail-marketing/</link>
+      <pubDate>Wed, 08 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/boas-praticas-para-e-mail-marketing/</guid>
+      <description>Você que é do tempo do html feito somente em tabelas, acompanhou das mudanças dos padrões web ou senão conheceu essa época, mas mesmo assim sofreu muito com o IE6, acredite, montar E-mail Marketing é um pouco pior que isso tudo junto. Mas calma, deixarei algumas dicas e boas práticas, evitando assim muito do seu sofrimento.
+Em resumo: E-mail Marketing é uma estratégia muito eficiente e útil para manter os visitantes ligados ao site e aumentar a taxa de conversão, mas isso tudo não tem resultado se sua newsletter chega quebrada ou mesmo se for direto para a caixa de SPAM.</description>
+    </item>
+    
+    <item>
+      <title>Como usar os pseudo elementos :before e o :after</title>
+      <link>http://localhost/jhonny-roger/public/como-usar-before-after/</link>
+      <pubDate>Mon, 23 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/como-usar-before-after/</guid>
+      <description>Muito parecido com as pseudo-classes os pseudo-elementos são elementos inseridos dinamicamente via CSS. No caso das pseudo-classes, o browser finge que insere uma classe dinâmica em um elemento para que você customize um determinado estado do elemento. Por exemplo, a pseudo-classe :hover estiliza o estado de quando o mouse é colocado em cima dos elementos. Os pseudo-elementos funcionam quase da mesma forma. Existem vários, mas eu vou me focar agora apenas no :before e no :after.</description>
+    </item>
+    
+    <item>
+      <title>Responsive Web Design – Adaptação vs Otimização</title>
+      <link>http://localhost/jhonny-roger/public/responsive-web-design-adaptacao-vs-otimizacao/</link>
+      <pubDate>Tue, 26 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/responsive-web-design-adaptacao-vs-otimizacao/</guid>
+      <description>Uma pancada de pessoas já me perguntaram sobre qual é o melhor: criar um site responsive e adaptável ou uma versão específica para mobiles e outros dispositivos. A resposta é: depende.
+Depende. Cada situação é um caso diferente. O Responsive tem vantagens e desvantagens, assim como versões específicas. A ideia é sempre fazer a melhor expediência possível para o usuário. Isso inclui, além de design, velocidade, performance e vários outros pontos.</description>
+    </item>
+    
+    <item>
+      <title>Variáveis no CSS – Breve</title>
+      <link>http://localhost/jhonny-roger/public/variaveis-no-css-breve/</link>
+      <pubDate>Mon, 18 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/variaveis-no-css-breve/</guid>
+      <description>Escrever variáveis no CSS é uma das features mais esperadas nesses últimos tempos. Préprocessadores como SASS e LESS já disponibilizam este recurso, mas ter essas facilidades no próprio CSS, sem a necessidade de utilizar qualquer outra ferramenta é muito mais do que útil.
+O WebKit tem trabalhado nesse assunto utilizando a documentação do W3C. E provavelmente já teremos daqui um tempo a possibilidade de utilizar variáveis em browsers que suportam webkit.</description>
+    </item>
+    
+    <item>
+      <title>Entendendend a regra @viewport do HTML</title>
+      <link>http://localhost/jhonny-roger/public/regra-viewport/</link>
+      <pubDate>Mon, 04 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/regra-viewport/</guid>
+      <description>Faz algum tempo que podemos manipular o viewport dos browsers para podermos entregar um website mais adequado e confortável para os usuários. Essa manipulação era feita diretamente via uma metatag no head do documento, algo assim:
+&amp;lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1, maximum-scale=1.0&#34;&amp;gt;  Isso é necessário por que você tem uma resolução gigante em aparelhos com a tela &amp;#8220;relativamente&amp;#8221; pequena, com 320&amp;#215;480. Lembre-se que a resolução é uma coisa, o tamanho da tela é outra.</description>
+    </item>
+    
+    <item>
+      <title>Estruturação de front-end – Parte 1: Preprocessadores, Framewoks e Bibliotecas</title>
+      <link>http://localhost/jhonny-roger/public/estruturacao-de-client-side-preprocessadores-framewoks-e-bibliotecas-parte-1/</link>
+      <pubDate>Wed, 09 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/estruturacao-de-client-side-preprocessadores-framewoks-e-bibliotecas-parte-1/</guid>
+      <description>Existem três categorias de &amp;#8220;ferramentas&amp;#8221; que nos ajudam a desenvolver um projeto client-side: Preprocessadores, Frameworks e Bibliotecas.
+Preprocessadores Preprocessadores são ferramentas onde você escreve CSS de uma determinada forma, modificando sua sintaxe, fazendo com que na hora de sua utilização o código CSS precise ser préprocessado para que o código escrito seja transformado em código CSS puro e assim então os browsers consigam entender.
+Existem muitos preprocessadores no mercado como Less, Sass, Turbine, Switch CSS e outros.</description>
+    </item>
+    
+    <item>
+      <title>Dicas de sobrevivência em uma era pós o IE6</title>
+      <link>http://localhost/jhonny-roger/public/dicas-de-sobrevivencia-ie6/</link>
+      <pubDate>Mon, 09 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/dicas-de-sobrevivencia-ie6/</guid>
+      <description>Nós ficamos mal acostumados com o Internet Explorer 6&amp;#8230; Digo isso por que tinhamos tantos problemas e limitações no tempo em que precisávamos suportá-lo, que até hoje nos privamos de algumas técnicas e propriedades do CSS que funcionam plenamente no IE8 e nos IEs mais novos. Quero confessar que eu estava até esses dias eu era prisioneiro da sombra do IE6.
+Por isso, aqui vão algumas dicas de propriedades que você já deve conhecer, mas que não usa ainda por que acha que todos os IEs são iguais ao maldito IE6.</description>
+    </item>
+    
+    <item>
+      <title>CSS3 – Texturizando textos</title>
+      <link>http://localhost/jhonny-roger/public/css3-texturizando-textos/</link>
+      <pubDate>Thu, 23 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css3-texturizando-textos/</guid>
+      <description>Com o uso da versão 3, já podemos tornar possível a criação de sombra em textos e boxes, arredondamento de bordas, múltiplos backgrounds, etc; objetivando reduzir o tempo de carregamento da página e estimulando o cuidado na utilização de códigos e textos limpos que servirão de comunicação para robôs de busca ou favorecerão a acessibilidade do website.
+A exemplo de mais uma das vantagens do CSS3, vamos conhecer melhor como aplicar uma imagem de textura ao preenchimento de um texto, utilizando apenas declarações &amp;#8220;fonts&amp;#8221; na folha de estilo.</description>
+    </item>
+    
+    <item>
+      <title>Introdução aos padrões de codificação</title>
+      <link>http://localhost/jhonny-roger/public/introducao-a-padroes-de-codificacao/</link>
+      <pubDate>Mon, 23 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-a-padroes-de-codificacao/</guid>
+      <description>Identação Espaços em brancos (Whitespaces) Nomenclatura Comentários Arquivos Chaves e ponto/vírgula        Como os idiomas reais, cada linguagem de programação tem suas respectivas regras, individualidades, pontuações, pausas e pontos em comum com outras linguagens. Você precisa conhecer essas peculiaridades para falar fluentemente ou no mínimo ser entendido. Nas linguagens de para web ou qualquer outra linguagem de programação, precisamos seguir algumas regras básicas para que o código não vire uma língua estrangeira no meio do projeto.</description>
+    </item>
+    
+    <item>
+      <title>CSS Sprites</title>
+      <link>http://localhost/jhonny-roger/public/css-sprites/</link>
+      <pubDate>Mon, 16 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css-sprites/</guid>
+      <description>Um tópico recorrente na discussão sobre performance no lado do cliente é o famoso CSS Sprite. O problema é que muita gente conhece a técnica, muita gente reconhece sua importância, mas aplicar que é bom, nada.
+Por isso, vou mostrar hoje algumas ferramentas que podem te ajudar nessa missão.
+O que é? Pra quem não conhece, essa é uma técnica que se baseia em combinar diversas imagens em uma só, em busca de diminuir o número de requisições HTTP para o servidor.</description>
+    </item>
+    
+    <item>
+      <title>Introdução ao CSS 3D – Flip Card</title>
+      <link>http://localhost/jhonny-roger/public/introducao-ao-css-3d-flip-card/</link>
+      <pubDate>Wed, 21 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-ao-css-3d-flip-card/</guid>
+      <description>O CSS 3D é sem dúvida uma das features do CSS mais aguardadas por todas as crianças do Brasil. Fala a verdade! Fazer efeitozinhos com sombra, gradientes, transparências e etc já foi um dia na vida do desenvolvimento algo bacana. Hoje é muito fora de moda. Carne de vaca, sabe? Por isso o CSS 3D é tão esperado. Ele trará para a web efeitos visuais para layout que antes só viamos em sistemas que rodam em smartphones, tipo um iPhone ou nos sistemas operacionais mais populares como Linux e OSX.</description>
+    </item>
+    
+    <item>
+      <title>OOCSS ou CSS do jeito certo</title>
+      <link>http://localhost/jhonny-roger/public/oocss-ou-css-do-jeito-certo/</link>
+      <pubDate>Mon, 19 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/oocss-ou-css-do-jeito-certo/</guid>
+      <description>O conceito Escrever CSS é fácil. Isto não deveria ser um problema, mas é. Por ser fácil os desenvolvedores acabam se esquecendo de princípios básicos, técnicas e metodologias que nos ajudam a manter o controle durante a produção. Entenda que algumas dessas metodologias não precisam ser aplicadas em sites pequenos. Por exemplo, aqui no Tableless eu não modularizo o CSS em vários arquivos por um ou dois motivos: 1) Somente eu tenho acesso ao código.</description>
+    </item>
+    
+    <item>
+      <title>CSS dinâmico com LESS</title>
+      <link>http://localhost/jhonny-roger/public/css-dinamico-com-less/</link>
+      <pubDate>Wed, 16 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css-dinamico-com-less/</guid>
+      <description>O desenvolvimento front-end nunca esteve tão dinâmico. Ferramentas como HAML, SASS e ZenCoding vêm revolucionando a maneira como trabalhamos. Em projetos onde qualquer coisa pode mudar a qualquer hora, flexibilidade é um ponto importantíssimo.
+O [LESS][1] chega nesse barco, adicionando um alto nível de personalização e permitindo recursos de programação em folhas de estilo estáticas. Com a biblioteca, é possível utilizar recursos como variáveis, funções, operações e escopo dentro de simples regras CSS.</description>
+    </item>
+    
+    <item>
+      <title>Formulários e o Metawebdesign – Parte 1</title>
+      <link>http://localhost/jhonny-roger/public/formularios-e-o-metawebdesign-parte-1/</link>
+      <pubDate>Mon, 24 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/formularios-e-o-metawebdesign-parte-1/</guid>
+      <description>O front-end é uma profissão de uma amplitude imensa. Temos profissionais montando mockups/PSDs, especialistas em acessibilidade, usabilidade, arquitetura da informação, integração com aplicações, designers de interface, application developers. Tem até SEO.
+O background do profissional neste momento não importa muito, apenas a afirmação que ele está trabalhando na camada de front-end. Só isso basta para confirmar os papéis acima.
+Em muitas empresas o front-end é trabalhado de maneira criteriosa, com separação de tarefas em maior ou menor intensidade, de modo que o processo esteja sempre azeitado e atento aos prazos dos outros times que dependem da interface.</description>
+    </item>
+    
+    <item>
+      <title>Quando utilizar (ou não) frameworks CSS</title>
+      <link>http://localhost/jhonny-roger/public/quando-utilizar-ou-nao-frameworks-css/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/quando-utilizar-ou-nao-frameworks-css/</guid>
+      <description>Framework é um conjunto de componentes que provêm uma estrutura básica de elementos reutilizáveis, tendo uma arquitetura consistente de funcionalidade genérica sob a qual a aplicação será construída.
+No caso de CSS, os frameworks constituem bibliotecas que visam permitir a codificação do CSS de modo mais fácil e compatível com padrões de estilos, agregando uma série de opções já prontas para projetar uma página web, como se fosse um esqueleto, reduzindo o tempo gasto com o desenvolvimento.</description>
+    </item>
+    
+    <item>
+      <title>Nem só de client-side vive um site</title>
+      <link>http://localhost/jhonny-roger/public/nem-so-de-client-side-vive-um-site/</link>
+      <pubDate>Sun, 28 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/nem-so-de-client-side-vive-um-site/</guid>
+      <description>Artigo publicado originalmente na revista Wide em Janeiro/Fevereiro de 2011.
+Estou feliz porque o mercado de client-side tem amadurecido de forma inteligente no Brasil. Empresas mais espertas entenderam a importância do código HTML/CSS/ JavaScript bem escrito. O problema é que grande parte das empresas, clientes e desenvolvedores acham que o trio HTML/CSS/JavaScript faz milagres. É certo pensar que um código bem escrito traz grandes vantagens para o projeto, mas ele sozinho não faz milages.</description>
+    </item>
+    
+    <item>
+      <title>Introdução ao Responsive Web Design</title>
+      <link>http://localhost/jhonny-roger/public/introducao-ao-responsive-web-design/</link>
+      <pubDate>Mon, 15 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-ao-responsive-web-design/</guid>
+      <description>Você já deve ter ouvido falar sobre Responsive Web Design. Você pode ler sobre isso aqui e aqui.
+Até pouco tempo atrás tínhamos praticamente apenas um meio de acessar a internet, que era pelo desktop. Podíamos acessar mal e porcamente a internet pelos celulares ou por outros aparelhos ligados a televisão etc, mas nenhum destes meios nos permitia acessar a internet com a facilidade que tínhamos quando utilizávamos um desktop.</description>
+    </item>
+    
+    <item>
+      <title>RGB e HSL</title>
+      <link>http://localhost/jhonny-roger/public/rgb-e-hsl/</link>
+      <pubDate>Mon, 27 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/rgb-e-hsl/</guid>
+      <description>A manipulação de cores no HTML nunca foi muito flexível. No começo escolhíamos as cores escrevendo seus nomes por extenso. Os nomes eram padrões eram: black, blue, yellow, green, olive, maroon, fuchsia, red, white, silver, navy, teal, purple, lime, gray, aqua. Na década de 80 houve um acréscimo de 131 novas cores com nomes estranhos chamada X11. Estes nomes foram adotados pelos primeiros browsers tem sido suportados até hoje. Há nomes como mintcream, moccasin, navajowhite, powderblue, springgreen entre outros&amp;#8230; O W3C ainda mantém uma lista completa com os nomes destas cores aqui.</description>
+    </item>
+    
+    <item>
+      <title>CSS3 – Sombras em textos e elementos</title>
+      <link>http://localhost/jhonny-roger/public/css3-sombras-em-textos-e-elementos/</link>
+      <pubDate>Thu, 16 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css3-sombras-em-textos-e-elementos/</guid>
+      <description>Uma das vantagens mais interessantes que o CSS3 nos dá é a possibilidade de cada vez menos abrirmos o Photoshop. Não precisamos mais abrir o Photoshop para criar bordas arredondadas, gradientes e agora até mesmo sombras. Agora temos a possibilidade de inserirmos sombras em textos e em elementos. As propriedades tem nomes diferentes mas a mesma sintaxe. Veja abaixo:
+[cc lang=&amp;#8221;html&amp;#8221;]
+p {
+text-shadow: 5px 5px 5px rbga(0,0,0,0.5);
+box-shadow: 5px 5px 5px rgba(0,0,0,0.</description>
+    </item>
+    
+    <item>
+      <title>CSS3 – Módulo Template Layout</title>
+      <link>http://localhost/jhonny-roger/public/css3-modulo-template-layout/</link>
+      <pubDate>Mon, 30 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css3-modulo-template-layout/</guid>
+      <description>Talvez você me chame de louco, mas para mim a parte mais fácil de desenvolver um site com CSS é o planejamento e diagramação do layout. Coincidentemente é a parte que mais os desenvolvedores tem problemas crossbrowser ou por falta de recursos mais avançados. Mas se você parar para pensar, apenas uma propriedade cuida dessa parte, que é a propriedade float. De longe, para mim, o float é a propriedade mais importante que há no CSS.</description>
+    </item>
+    
+    <item>
+      <title>Em tempo de transição, quais recursos utilizar?</title>
+      <link>http://localhost/jhonny-roger/public/em-tempo-de-transicao-quais-recursos-utilizar/</link>
+      <pubDate>Tue, 24 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/em-tempo-de-transicao-quais-recursos-utilizar/</guid>
+      <description>HTML 5, CSS3, IE9, Firefox 4&amp;#8230; enfim, siglas, nomes e versões que não param de pipocar nos tweets, posts, artigos, e em todos os lugares dentro do nosso universo do desenvolvimento web e automaticamente nos perguntamos &amp;#8211; como traçar nosso trabalho nesta época de transição? O que é certo? O que é errado?
+Graciosamente retroceder ou progressivamente evoluir? A melhor análise antes de decidir qual caminho tomar e a qual evolução recorrer vem do planejamento de seu projeto.</description>
+    </item>
+    
+    <item>
+      <title>CSS3 – Animation e regra keyframe</title>
+      <link>http://localhost/jhonny-roger/public/css3-animation-keyframe/</link>
+      <pubDate>Mon, 09 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css3-animation-keyframe/</guid>
+      <description>A propriedade trasition trabalha de forma muito simples e flexível. Você praticamente diz para o browser qual o valor inicial e o valor final para que ele aplique a transição automaticamente, controlamos praticamente apenas o tempo de execução. Para termos mais controle sobre a animação temos a propriedade animation que trabalha juntamente com a rule keyframe.
+Basicamente você consegue controlar as características do objeto e suas diversas transformações definindo fases da animação.</description>
+    </item>
+    
+    <item>
+      <title>CSS 3 – O valor currentColor</title>
+      <link>http://localhost/jhonny-roger/public/css-3-o-valor-currentcolor/</link>
+      <pubDate>Mon, 02 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css-3-o-valor-currentcolor/</guid>
+      <description>O valor currentColor é muito simples de se entender e pode ser muito útil para diminuirmos o retrabalho em alguns momentos da produção. Imagine que o currentColor é uma variável cujo seu valor é definido pelo valor da propriedade color do seletor. Veja o código abaixo:
+p { background:red; padding:10px; font:13px verdana; color: green; border:1px solid green; }  Note que o valor da propriedade color é igual ao valor da cor da propriedade border.</description>
+    </item>
+    
+    <item>
+      <title>CSS3 – Breve introdução ao RGBA</title>
+      <link>http://localhost/jhonny-roger/public/css3-breve-introducao-a-rgba/</link>
+      <pubDate>Mon, 02 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css3-breve-introducao-a-rgba/</guid>
+      <description>Introdução ao RGB Normalmente em web trabalhamos com cores na forma de hexadecimal. É a forma mais comum e mais utilizada desde os primórdios do desenvolvimento web. Mesmo assim, há outros formatos menos comuns que funcionam sem problemas, um destes formatos é o RGB. O RGB são 3 conjuntos de números que começam no 0 e vão até 255 (0% até 100%), onde o primeiro bloco define a quantidade de vermelho (Red), o segundo bloco a quantidade de verde (Green) e o último bloco a quantidade de azul (Blue).</description>
+    </item>
+    
+    <item>
+      <title>Pontuação de especificidade da CSS</title>
+      <link>http://localhost/jhonny-roger/public/pontuacao-especificidade-css/</link>
+      <pubDate>Mon, 25 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/pontuacao-especificidade-css/</guid>
+      <description>Você pode ler algo sobre herança e especificadade do CSS aqui. O problema é que nesse artigo eu não explico muito sobre a pontuação da especificidade do CSS. Como que o browser calcula qual propriedade é mais especifica que outra?
+Para que serve? A graça do CSS é que você pode manipular os estilos de diversos elementos com pouco esforço. Se você quer modificar a font de todos os parágrafos ou títulos do seu site é simples de se fazer mudando um parâmetro da linha onde é definida a propriedade font.</description>
+    </item>
+    
+    <item>
+      <title>Drops 5 – Responsabilidade Dev Front-end</title>
+      <link>http://localhost/jhonny-roger/public/drops-5-responsabilidade-dev-front-end/</link>
+      <pubDate>Wed, 20 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/drops-5-responsabilidade-dev-front-end/</guid>
+      <description>Qual a responsabilidade do desenvolvedor front-end? Ele precisa ser designer? Tem que aprender a programar?
+Se preferir faça o download do arquivo em Mp3 ou OGA.  Veja todos os nossos drops no Soundcloud.
+Se preferir faça o download do arquivo em Mp3 ou OGA. Ou inscreva no iTunes. Feed direto dos Podcasts.</description>
+    </item>
+    
+    <item>
+      <title>Ferramentas de diagnóstico</title>
+      <link>http://localhost/jhonny-roger/public/ferramentas-de-diagnostico/</link>
+      <pubDate>Mon, 11 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ferramentas-de-diagnostico/</guid>
+      <description>Se você escreve CSS e HTML provavelmente tem problemas de compatibilidade e visualização. Isso é normal, acontece com os melhores desenvolvedores. Quando isso acontece, o melhor a se fazer é um trabalho investigativo. Esse trabalho normalmente é ingrato porque você demora horas investigando o seu código para encontrar o erro e geralmente esse erro é solucionado com uma linha de código. Para você descobrir qual é essa linha, você precisa de ferramentas que te ajudem a decifrar todo o problema.</description>
+    </item>
+    
+    <item>
+      <title>CSS3 com PIE – bordas, sombras e gradiente</title>
+      <link>http://localhost/jhonny-roger/public/css3-bordas-arredondadas-sombras-e-gradiente/</link>
+      <pubDate>Mon, 04 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css3-bordas-arredondadas-sombras-e-gradiente/</guid>
+      <description>Apesar das incompatibilidades entre browsers, utilizar as novas ou modificadas propriedades em folhas de estilo na versão 3 virou motivo de testes e de implementação das modificações que tanto almejamos no desenvolvimento web. Junto como HTML 5, o uso de CSS3 resultará em facilidades na criação de estruturas semânticas e válidas bem como melhor planejadas visualmente e com velocidade de carregamento reduzida, mas enquanto ainda não o colocamos em prática com HTML5, neste processo de transição em que nos encontramos já podemos utilizar algumas propriedades de CSS3 com os navegadores de mercado, ainda que com o uso de scripts externos para tanto.</description>
+    </item>
+    
+    <item>
+      <title>Performance do seu CSS</title>
+      <link>http://localhost/jhonny-roger/public/melhorando-performance-css/</link>
+      <pubDate>Tue, 29 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/melhorando-performance-css/</guid>
+      <description>Modular seu código CSS é uma boa prática para que o website carregue apenas o código necessário para montar a pagina que o visitante está. Por isso não precisamos carregar o código CSS que monta a página de contato uma vez que o usuário está na home, possibilitando um ganho de performance.
+Podemos ainda melhorar um pouco mais nossa performance tendo atenção com a forma que escrevemos os seletores do CSS.</description>
+    </item>
+    
+    <item>
+      <title>Múltiplos backgrounds com CSS</title>
+      <link>http://localhost/jhonny-roger/public/multiplos-backgrounds-com-css/</link>
+      <pubDate>Mon, 28 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/multiplos-backgrounds-com-css/</guid>
+      <description>Uma das features mais esperadas por mim é sem dúvida a possibilidade de podermos definir múltiplos backgrounds via CSS. Chega de elementos extras e gambiarras. No CSS3 a propriedade background ganha várias funções, dentro elas a possibilidade de definirmos várias imagens como background em um único elemento.
+A sintaxe é muito simples. Na verdade, é idêntica a sintaxe existente. Segue abaixo:
+[cc lang=&amp;#8221;css&amp;#8221;]
+div {
+width:600px;
+height:500px;
+border:1px solid black;</description>
+    </item>
+    
+    <item>
+      <title>CSS3 – Abas com a pseudo-classe :target</title>
+      <link>http://localhost/jhonny-roger/public/css3-abas-com-a-pseudo-classe-target/</link>
+      <pubDate>Mon, 21 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css3-abas-com-a-pseudo-classe-target/</guid>
+      <description>O CSS está cada vez mais facilitando as coisas. Alguns problemas que eram resolvidos apenas via Javascript já podem ser resolvidos inteiramente com CSS. Obviamente que para alguns browsers temos que usar algum script para conseguir a compatibilidade. Mesmo assim, se for já possível utilizar as novas maravilhas do CSS 3 e outras compatibilidades que estão surgindo do CSS 2.1, faça-o já. Você com certeza vai se agradecer um tempo próximo!</description>
+    </item>
+    
+    <item>
+      <title>PDF – Browsers antigos: guerra contra o terror</title>
+      <link>http://localhost/jhonny-roger/public/browsers-antigos-guerra-contra-o-terror/</link>
+      <pubDate>Wed, 09 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/browsers-antigos-guerra-contra-o-terror/</guid>
+      <description>É muito difícil tomar a decisão de não suportar browsers antigos. Sempre há diversas desculpas, mas dependendo da empresa ou da popularidade do site/serviço, mesmo uma pequena porcentagem pode significar milhões de usuários usando browsers antigos ou que não tem um bom suporte de Padrões Web. Simplesmente ignorar algumas centenas de milhares de usuários não é algo muito aceitável. O ponto é que você não precisa ignorar estes valiosos 1%. Mas também não precisa gastar milhões nem perder muito tempo tentando resolver os problemas causados pelos browsers antigos que estes usuários usam.</description>
+    </item>
+    
+    <item>
+      <title>Um raio-x do seu website</title>
+      <link>http://localhost/jhonny-roger/public/um-raio-x-do-seu-website/</link>
+      <pubDate>Thu, 03 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/um-raio-x-do-seu-website/</guid>
+      <description>A criacão de aplicações web evolui ao longo dos anos. A interação front-end/aplicação também segue esta evolução e é previsivel que a complexidade e a integração de funcionalidades com a interface web deva evoluir tambem. Só que para devs front-end, essa complexidade não está em novas linguagens ou tecnologias, e sim em como embarcar todas elas em um HTML semântico, limpo e de acordo com os requisitos. Tudo isso no menor tempo possível.</description>
+    </item>
+    
+    <item>
+      <title>Drops 3 – Duas formas de modular seu CSS</title>
+      <link>http://localhost/jhonny-roger/public/drops3-modular-css/</link>
+      <pubDate>Mon, 28 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/drops3-modular-css/</guid>
+      <description>Existem várias formas de modular seu CSS, vou citar duas delas. A primeira delas é modulando seu código por página. A segunda é modulando por áreas do site.
+Se preferir faça o download do arquivo em Mp3 ou OGA.  Veja todos os nossos drops no Soundcloud.
+Se preferir faça o download do arquivo em Mp3 ou OGA. Ou inscreva no iTunes.</description>
+    </item>
+    
+    <item>
+      <title>Customizando links</title>
+      <link>http://localhost/jhonny-roger/public/customizando-links/</link>
+      <pubDate>Fri, 18 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/customizando-links/</guid>
+      <description>Além do aspecto visual, customizar links é importante por causa da Acessibilidade. Não estou falando aqui da acessibilidade para pessoas cegas e etc, estou falando de acessibilidade para pessoas que enxergam também. Eu gosto muito de usar o browser sem a barra de status. O problema de se fazer isso é que eu nunca sei para onde um link vai. Quando estou lendo um texto e há um link interessante, quase nunca tenho a indicação de que aquele link vai me levar para fora do site, ou vai me levar para o download arquivo e etc&amp;#8230; Por isso é interessante que você, se puder, indique ao leitor qual o tipo de link ele está prestes a clicar.</description>
+    </item>
+    
+    <item>
+      <title>CSS Transforms</title>
+      <link>http://localhost/jhonny-roger/public/css-transforms/</link>
+      <pubDate>Mon, 10 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css-transforms/</guid>
+      <description>O W3C descreve CSS Transform assim:
+ CSS 2D Transforms allow elements rendered by CSS to be trans- formed in two-dimensional space.
+ Há dois tipos de CSS Transforms: no formato 2D e 3D. Veremos aqui apenas o formato 2D que é o que tem mais suporte entre os browsers. Testaremos com Firefox 4, Safari 5 e Opera 10.5. Perceba que o código estará com o prefixo de cada browser para que não haja problemas em browsers que não reconheçam as propriedades que iremos aplicar.</description>
+    </item>
+    
+    <item>
+      <title>CSSDoc – padrão para documentação de folhas de estilo</title>
+      <link>http://localhost/jhonny-roger/public/cssdoc-documentacao-css/</link>
+      <pubDate>Sun, 02 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/cssdoc-documentacao-css/</guid>
+      <description>Cada designer ou desenvolvedor front-end tem o hábito de documentar o código CSS de uma forma diferente através dos comentários. Alguns colocam os nomes das seções, outros inserem uma descrição mais detalhada, alguns utilizam letras maiúsculas e uma sequência de caracteres para formar uma linha.
+/* -----------------------------------*/ /* ----------&amp;gt;&amp;gt;&amp;gt; GLOBAL &amp;lt;&amp;lt;&amp;lt;-----------*/ /* -----------------------------------*/ /* STRUCTURE &amp;gt; HEADER &amp;gt; LOGO //////////////////////////////////////*/  Mas em nenhum destes formatos há uma padronização. Por isto, desde 2007 três desenvolvedores alemães têm desenvolvido a especificação do CSSDoc, que eu já havia mencionado em outro artigo.</description>
+    </item>
+    
+    <item>
+      <title>JQuery para produção de Layouts</title>
+      <link>http://localhost/jhonny-roger/public/jquery-para-layouts/</link>
+      <pubDate>Wed, 15 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/jquery-para-layouts/</guid>
+      <description>O JQuery tem me dado um importante suporte para aqueles problemas que o CSS não consegue resolver por falta de compatibilidade em alguns browsers e também para evitar sujar o código HTML com elementos dispensáveis, em ocasiões comuns como no caso da criação de bordas arredondadas.
+Nestes cenários, invarialmente temos que criar alguns elementos agregados que servirão para dar exclusivamente suporte visual para o layout.
+Não é bom que sujemos nosso HTML com código que não carregue significado semântico nenhum, mas em alguns casos, como ao fazer bordas arredondadas, a criação destes elementos é necessária.</description>
+    </item>
+    
+    <item>
+      <title>Bem vindo a Xangri-lá – Parte 2</title>
+      <link>http://localhost/jhonny-roger/public/bem-vindo-a-xangrila-parte-2/</link>
+      <pubDate>Mon, 06 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/bem-vindo-a-xangrila-parte-2/</guid>
+      <description>Uma vez familiares com a premissa do Progressive Enhancement, vamos entender como aplicar a abordagem para criar suas páginas do zero, garantindo que elas funcionem na maior aplitude de navegadores e dispositivos. Antes de começar, é importante lembrar que para tudo funcionar bem, você precisa conhecer as funcionalidades e limitações da especificacao HTML, seus elementos, tags, e atributos aprovados, isso esta disponivel no site do w3c. É importante tambem se manter no bleeding edge, para que novas linguagens (como o HTML5) não fiquem de fora de suas análises e ponderações.</description>
+    </item>
+    
+    <item>
+      <title>Desenvolvendo para IE6</title>
+      <link>http://localhost/jhonny-roger/public/dev-ie6/</link>
+      <pubDate>Mon, 06 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/dev-ie6/</guid>
+      <description>Você ainda faz sites para IE6? Já me fizeram uma pergunta dessas certa vez. A resposta: Sim. Mas&amp;#8230;
+Desenvolver para Internet Explorer 6 já foi uma obrigação. Enquanto ele era o browser mais utilizado e ainda era o browser mais atual da série, nós tínhamos que desenvolver para ele. Não havia escolha. O cenário atual é outro.
+Eu não desenvolvo sites para o Internet Explorer 6 se o cliente não pedir.</description>
+    </item>
+    
+    <item>
+      <title>Bem vindo a Xangri-lá – Parte 1</title>
+      <link>http://localhost/jhonny-roger/public/bem-vindo-a-xangrila-parte-1/</link>
+      <pubDate>Thu, 25 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/bem-vindo-a-xangrila-parte-1/</guid>
+      <description>Um dia desses eu estava no meio de muita gente boa em um treinamento em São Paulo – um dos melhores que já fiz – e no meio de uma discussão sobre abordagens de desenvolvimento de aplicações internet crossbrowser e a maravilha que era o HTML5, o Elcio &amp;#8211; ele mesmo &amp;#8211; da Visie disse que Progressive Enhancement e Graceful Degradation eram a &amp;#8220;mesma coisa&amp;#8221;. Eu discordava dele porém não continuei o assunto porque essa questão poderia ser abordada de maneira mais abrangente, e porque o momento era de HTML5, não de como temos que escrever código.</description>
+    </item>
+    
+    <item>
+      <title>CSS3 – O que vem por aí…</title>
+      <link>http://localhost/jhonny-roger/public/css3-o-que-vem-por-ai/</link>
+      <pubDate>Mon, 22 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css3-o-que-vem-por-ai/</guid>
+      <description>O grande papel do desenvolvedor Front-End, na minha opinião, é traduzir em tags html, folhas de estilos e programação Javascript ou até mesmo uma linguagem backside, aquilo que o designer de interface criou e espera estar disponível a clicks e à leitura dos usuários. Ao meu ver, este é o nosso grande trabalho, recriar interfaces de forma adaptada aos diversos browsers de mercado e às diversas possibilidades tecnológicas que temos na web respeitando os limites dos padrões online e a essência da criação visual.</description>
+    </item>
+    
+    <item>
+      <title>Vote no Especialista em Usabilidade para Presidente</title>
+      <link>http://localhost/jhonny-roger/public/vote-no-especialista-em-usabilidade-para-presidente/</link>
+      <pubDate>Thu, 21 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/vote-no-especialista-em-usabilidade-para-presidente/</guid>
+      <description>﻿(A discussão deste post vale para aplicações de grande porte, o que não significa que a mesma abordagem possa ser aplicada com sucesso em ambientes menores como blogs, por exemplo)        ﻿(A discussão deste post vale para aplicações de grande porte, o que não significa que a mesma abordagem possa ser aplicada com sucesso em ambientes menores como blogs, por exemplo) Usabilidade é um termo usado para definir a facilidade com que as pessoas podem empregar uma ferramenta ou objeto a fim de realizar uma tarefa específica e importante.</description>
+    </item>
+    
+    <item>
+      <title>Usabilidade para desenvolvedores front-end</title>
+      <link>http://localhost/jhonny-roger/public/usabilidade-para-desenvolvedores-front-end/</link>
+      <pubDate>Wed, 13 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/usabilidade-para-desenvolvedores-front-end/</guid>
+      <description>A usabilidade é uma qualidade das interfaces que caracteriza a facilidade de uso. Várias diretrizes sobre usabilidade de interfaces web foram desenvolvidas ao longo dos últimos 15 anos e o interesse em proporcionar interfaces de fácil utilização tem crescido entre designers e desenvolvedores.
+Entre as várias diretrizes de usabilidade, os princípios convergem para a seguinte tríade:
+ Fácil de usar: o uso da interface deve ser intuitivo, com recursos de fácil reconhecimento e elementos que não dificultem a navegação, leitura, interpretação, clique, etc.</description>
+    </item>
+    
+    <item>
+      <title>6 dicas para evitar problemas de incompatibilidade entre browsers.</title>
+      <link>http://localhost/jhonny-roger/public/evite-incompatibilidade-browsers/</link>
+      <pubDate>Tue, 28 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/evite-incompatibilidade-browsers/</guid>
+      <description>Nas últimas semanas muito falou-se das novas versões de browsers que serão colocadas à disposição dos usuários nos próximos meses. Alguns esperam para ver se a gigante Microsoft recuperará o mercado e outros acompanham as novidades de Mozilla e Google com suas versões beta do Firefox 4 e do Chrome 6. É inevitável perceber a preocupação de todos em adaptar-se às necessidades dos usuários, padrões de desenvolvimento web e compatibilidade com o novo protagonista da web &amp;#8211; o HTML5 &amp;#8211; porém em meio à esses lançamentos, fica a pergunta: enquanto isso, como agir com os atuais browsers?</description>
+    </item>
+    
+    <item>
+      <title>Gradientes em CSS</title>
+      <link>http://localhost/jhonny-roger/public/gradientes-em-css/</link>
+      <pubDate>Wed, 22 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/gradientes-em-css/</guid>
+      <description>Uma das vantagens do CSS3 é a economia de imagem. É normal utilizar imagens para tratar partes do layout que são exclusivamente visuais. Um exemplo é o uso de gradientes. Até agora a única maneira de produzir gradientes era com imagens. E dá um trabalhão caso você queira modificá-la ou caso você esteja produzindo um site baseado em themes. Com CSS3 você consegue produzir gradientes diretamente pelo código CSS. Isso dá possibilidades para manipulação via Javascript e outros frameworks.</description>
+    </item>
+    
+    <item>
+      <title>6 estratégias para melhorar a organização do seu CSS</title>
+      <link>http://localhost/jhonny-roger/public/6-estrategias-para-melhorar-a-organizacao-do-seu-css-2/</link>
+      <pubDate>Mon, 20 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/6-estrategias-para-melhorar-a-organizacao-do-seu-css-2/</guid>
+      <description>Durante a codificação do CSS para um site, é interessante que o designer/programador utilize algumas convenções para que o código fique organizado e bem documentado.
+Nos casos em que um projeto é compartilhado entre vários designers e programadores, a definição destas convenções é especialmente necessária para manter o código consistente e inteligível a todos que necessitam trabalhar ou dar manutenção no CSS.
+Neste artigo compartilho algumas estratégias simples que aprendi ao longo dos anos e que auxiliam a melhor organizar folhas de estilo.</description>
+    </item>
+    
+    <item>
+      <title>HTML5 e seus companheiros</title>
+      <link>http://localhost/jhonny-roger/public/html5-e-seus-companheiros/</link>
+      <pubDate>Tue, 06 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/html5-e-seus-companheiros/</guid>
+      <description>Este artigo faz parte de uma pesquisa que fiz para o novo livro. Estou com o tempo bastante curto para diagramá-lo de forma adequada para um artigo, por isso ele pode parecer sem pé nem cabeça. 😉
+A guerra entre os Padrões Web e tecnologias como o Flash começou de verdade.
+Desde o momento que as possibilidades do HTML5 e CSS3 foram publicadas, um pequeno burburinho entre os desenvolvedores sobre uma possível concorrência entre os Padrões e tecnologias como o Flash começou a rolar.</description>
+    </item>
+    
+    <item>
+      <title>Propriedade @font-face CSS – Fonts externas na web</title>
+      <link>http://localhost/jhonny-roger/public/font-face-fonts-externas-na-web/</link>
+      <pubDate>Tue, 30 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/font-face-fonts-externas-na-web/</guid>
+      <description>Tipografia na web sempre foi um sonho para todo designer. Alguns designers que trabalharam durante muito tempo com impressão se sentem presos com web por conta da limitação de escolha das fonts. A tipografia é parte importante na criação de peças gráficas e na web isso não poderia ser diferente. Mesmo assim, não havia uma maneira &amp;#8216;inteligente&amp;#8217; de utilizar uma fonts que não seja padrão do sistema operacional do usuário na criação de layouts para web.</description>
+    </item>
+    
+    <item>
+      <title>Simuladores de Browsers Mobiles</title>
+      <link>http://localhost/jhonny-roger/public/simuladores-de-browsers-mobiles/</link>
+      <pubDate>Wed, 20 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/simuladores-de-browsers-mobiles/</guid>
+      <description>Antigamente não existiam simuladores dos pequenos celulares. Na verdade, não precisava. Você provavelmente usava WAP. Quando começamos a utilizar CSS e XHTML para fazer sites mais decentes para os mobiles, tudo ficou mais complicado, você precisava ter um aparelho para fazer testes. Em muitos casos era simples resolver utilizando o Opera no desktop mesmo, mas em forma de visualização mobile/handheld. Contudo, você estava desenvolvendo para apenas aparelhos com Opera. Não havia, por exemplo, um simulador de IE Mobile.</description>
+    </item>
+    
+    <item>
+      <title>Versionamento inteligente para mobiles</title>
+      <link>http://localhost/jhonny-roger/public/versionamento-inteligente-para-mobiles/</link>
+      <pubDate>Wed, 20 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/versionamento-inteligente-para-mobiles/</guid>
+      <description>O iPhone fez a festa dele. Todo mundo gostou do que viu e usou. Acontece que não só de iPhone vive o homem, e há pessoas por aí que não gostam do aparelho por motivos diversos. Há mercado para todos e por isso é natural que apareçam outros aparelhos com novos sistemas. Acontece que o lançamento do iPhone criou uma moda de criar versões dos sites específicas para ele. No começo isso foi ótimo.</description>
+    </item>
+    
+    <item>
+      <title>Colocar Rodapé fixo no fim da página</title>
+      <link>http://localhost/jhonny-roger/public/colocar-rodape-fixo-no-bottom/</link>
+      <pubDate>Tue, 12 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/colocar-rodape-fixo-no-bottom/</guid>
+      <description>Você já precisou ter o rodapé fixo no fim da página algum dia. Normalmente os clientes chatos acham feio aquele rodapé terminando no meio da página quando há pouco conteúdo. Há uma técnica no CSS que resolve isso. Não funciona no IE6, já aviso agora. Na verdade, tem um jeito de funcionar, mas não quero te acostumar mal. 🙂
+Lembrando que você pode fazer isso facilmente com JQuery.
+Suponha que você tenha o código HTML:</description>
+    </item>
+    
+    <item>
+      <title>Camadas de desenvolvimento client-side</title>
+      <link>http://localhost/jhonny-roger/public/camadas-de-desenvolvimento-client-side/</link>
+      <pubDate>Sat, 10 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/camadas-de-desenvolvimento-client-side/</guid>
+      <description>Esse artigo foi publicado originalmente na Revista TIDigital de Abril de 2009.
+A utilização de tabelas no desenvolvimento web foi um marco na história. Pode ser estranho falar isso, mas a verdade é que antes das tabelas os sites eram feios. As tabelas possibilitaram a criação de sites com 3 colunas. Você pode estar pensando que isso não é grande coisa. Mas em meados de 1996-97 isso era nirvana do design para web.</description>
+    </item>
+    
+    <item>
+      <title>Ah, o maravilhoso mundo real</title>
+      <link>http://localhost/jhonny-roger/public/ah-o-maravilhoso-mundo-real/</link>
+      <pubDate>Thu, 10 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ah-o-maravilhoso-mundo-real/</guid>
+      <description>O Diego publicou, há mais de uma semana, um artigo sobre o impacto da mudança de estratégia do W3C em relação ao ciclo de vida de seus padrões. O artigo gerou algumas opiniões contrárias nos comentários, em relação ao fato de ele ter dito que bordas arredondadas são mais importantes que a web semântica e em relação à estratégia de especificações modulares do W3C. Vou compartilhar minha opinião sobre os dois pontos.</description>
+    </item>
+    
+    <item>
+      <title>Prepare-se para a Revolução</title>
+      <link>http://localhost/jhonny-roger/public/se-prepare-para-a-revolucao/</link>
+      <pubDate>Wed, 02 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/se-prepare-para-a-revolucao/</guid>
+      <description>O W3C mudou. O W3C foi criado exatamente para homologar, regularizar e criar novos padrões de publicação de informação na internet. O trabalho do W3C é exatamente criar caminhos para que os desenvolvedores e os fabricantes de browsers possam trilhar no futuro. Acontece que o W3C ficou tão grande, tão lerdo, tão aficcionado pelos problemas do futuro que acabou se perdendo nos seus próprios sonhos.
+Um dos objetivos do W3C &amp;#8211; se não o maior objetivo &amp;#8211; é organizar toda a informação da internet.</description>
+    </item>
+    
+    <item>
+      <title>Efeito cascata, herança e especificidade do CSS</title>
+      <link>http://localhost/jhonny-roger/public/efeito-cascata-e-especificidade-do-css/</link>
+      <pubDate>Tue, 21 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/efeito-cascata-e-especificidade-do-css/</guid>
+      <description>Herança Existem algumas propriedades do CSS que quando aplicadas aos &amp;#8220;elementos pais&amp;#8221;, os &amp;#8220;elementos filhos&amp;#8221; herdam a característica aplicada no pai. Um exemplo disso é a propriedade color. Quando aplicamos a propriedade color em um elemento div, o texto dos elementos contidos no div são coloridos de acordo com a propriedade.
+div { color: green; }  O texto que há dentro deste div irá ter a cor verde, independente se este texto está &amp;#8220;solto&amp;#8221; dentro do div ou se ele está dentro de um parágrafo, por exemplo.</description>
+    </item>
+    
+    <item>
+      <title>Digest – Referências de CSS</title>
+      <link>http://localhost/jhonny-roger/public/referencias-online-css/</link>
+      <pubDate>Mon, 20 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/referencias-online-css/</guid>
+      <description> Lista de propriedades CSS mantida por Jens Meiert  Referência de CSS da SitePoint Referência de CSS da XHTML.com Tabela de Compatibilidade de CSS (do Tableless) Guia de Referência rápida do Tableless Referência mantida pelo W3Schools   </description>
+    </item>
+    
+    <item>
+      <title>Propriedade do CSS: nth-child</title>
+      <link>http://localhost/jhonny-roger/public/nth-child/</link>
+      <pubDate>Thu, 16 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/nth-child/</guid>
+      <description>Se você é um cara muito técnico, que adora matemática e números, prefiro que você leia a documentação do W3C sobre nth-child. Ela é mais rica em detalhes sobre o cálculo que essa pseudo-classe faz. Este artigo é para os pobres mortais.
+Você já precisou de criar uma tabela zebrada? Eu já, muitas vezes. Provavelmente se você não sabe programar, você precisa chamar um programador para escrever duas ou três linhas de código Javascript ou até mesmo usando JQuery, para fazer a mágica para você.</description>
+    </item>
+    
+    <item>
+      <title>CSS 3 Columns</title>
+      <link>http://localhost/jhonny-roger/public/css3-columns/</link>
+      <pubDate>Tue, 14 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css3-columns/</guid>
+      <description>Com o controle de colunas no CSS, podemos definir colunas de texto de forma automática. Até hoje não havia maneira de fazer isso de maneira inteligente com CSS e o grupo de propriedades columns pode fazer isso de maneira livre de gambiarras.
+column-count A propriedade column-count define a quantidade de colunas terá o bloco de textos.
+/* Define a quantidade de colunas, a largura é definida uniformimente. */ -moz-column-count: 2; -webkit-column-count: 2;  column-width Com a propriedade column-width definimos a largura destas colunas.</description>
+    </item>
+    
+    <item>
+      <title>Digest 06/09: Técnicas de CSS</title>
+      <link>http://localhost/jhonny-roger/public/digest-0609-tecnicas-de-css/</link>
+      <pubDate>Tue, 07 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/digest-0609-tecnicas-de-css/</guid>
+      <description> Cool CSS Techniques for Links  Make your forms beautiful with CSS The Art of Crafting Beautiful Stylesheets &amp;#8220;Checkmark&amp;#8221; Your Visited Links with Pure CSS 10 Cross-Browser CSS Properties You&amp;#8217;ve Probably Forgotten CSS Typography: Contrast Techniques, Tutorials and Best Practices Poll Results: CSS3 Features ( with almost 7,000 people ! ) CSS Drop Caps, the @font-face tag, sIFR and Cufon List of Really Useful Tools for CSS Developers The Do&amp;#8217;s &amp;amp; Don&amp;#8217;ts of Modern Web Design Hiding with CSS: Problems &amp;amp; Solutions   </description>
+    </item>
+    
+    <item>
+      <title>Introdução sobre Media Queries</title>
+      <link>http://localhost/jhonny-roger/public/introducao-sobre-media-queries/</link>
+      <pubDate>Mon, 06 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-sobre-media-queries/</guid>
+      <description>Eu não posso explicar sobre Media Queries sem um pouco do contexto das Media Types, que foram a primeira versão de um esforço para direcionar a formatação CSS para determinados tipos de meios de acesso.
+O HTML foi criado para ser portável, ou seja, ele deve ser lido e interpretado por qualquer tipo de dispositivo. Cada dispositivo exibe HTML de uma determinada maneira. Logo, a forma com que você formata o layout precisa ser diferente para cada dispositivo.</description>
+    </item>
+    
+    <item>
+      <title>Lançado Firefox 3.5</title>
+      <link>http://localhost/jhonny-roger/public/lancado-firefox-3-5/</link>
+      <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/lancado-firefox-3-5/</guid>
+      <description>A Mozilla acaba de lançar a versão 3.5 do Firefox. Esta versão traz uma série de atualizações interessantes tanto para usuários quanto para nós desenvolvedores. Fiz um resumo de algumas novas características logo abaixo. Irei fazer alguns posts posteriores explicando mais detalhadamente as propriedades e outras funcionalidades.
+Elementos de Áudio e Vídeo do HTML5 A adoção de algumas características do HTML5 está se tornando cada vez mais frequente nos novos browsers.</description>
+    </item>
+    
+    <item>
+      <title>Introdução ao CSS Animation</title>
+      <link>http://localhost/jhonny-roger/public/introducao-ao-css-animation/</link>
+      <pubDate>Mon, 29 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-ao-css-animation/</guid>
+      <description>Tudo o que eu falarei aqui sobre CSS Animation e CSS Transforms só podem ser testados no Safari ou em qualquer outro browser que utilize as últimas versões do Webkit. Há algumas aplicações que modificam muito o Webkit para usá-lo, pode ser que nestes, não funcione direito. Mesmo assim, infelizmente, o Webkit (por enquanto) é o único motor que suporta esse tipo de característica.
+CSS Animation permite que modifiquemos propriedades do CSS e tenhamos o resultado ali, na hora.</description>
+    </item>
+    
+    <item>
+      <title>Digest 05/09: Técnicas de CSS</title>
+      <link>http://localhost/jhonny-roger/public/digest-0509-tecnicas-de-css/</link>
+      <pubDate>Fri, 15 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/digest-0509-tecnicas-de-css/</guid>
+      <description> Navigation Menu  Navigation Matrix Collapsible Tables Checkbox Customization   </description>
+    </item>
+    
+    <item>
+      <title>Propriedade Position do CSS</title>
+      <link>http://localhost/jhonny-roger/public/propriedade-position-do-css/</link>
+      <pubDate>Tue, 12 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/propriedade-position-do-css/</guid>
+      <description>Entendendo a propriedade Position O Position é uma propriedade perigosa para iniciantes. Normalmente o desenvolvedor que acaba de conhecer essa propriedade, acha que ela é a resposta para todos os problemas de posicionamento e diagramação de layout. Pelo contrário. O Position não serve para diagramar a estrutura de layouts. Para isso, você utiliza a propriedade float do css. O Position vai servir para fazer coisas mais simples.
+Coordenadas Para posicionar seus elementos, você precisa inserir uma coordenada.</description>
+    </item>
+    
+    <item>
+      <title>Digest 04/09: CSS, HTML e Layout</title>
+      <link>http://localhost/jhonny-roger/public/digest-0409-css-html-e-layout/</link>
+      <pubDate>Sat, 25 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/digest-0409-css-html-e-layout/</guid>
+      <description> Powerful CSS-Techniques For Effective Coding  53 CSS-Techniques You Couldn’t Live Without 101 CSS Techniques Of All Time- Part 1 25 Code Snippets for Web Designers (Part2) Most Used CSS Tricks [ * Powerful CSS-Techniques For Effective Coding 53 CSS-Techniques You Couldn’t Live Without 101 CSS Techniques Of All Time- Part 1 25 Code Snippets for Web Designers (Part2) Most Used CSS Tricks *]6 Create CSS Pin Balloons 30 Exceptional CSS Navigation Techniques The Road to HTML 5: Link Relations   </description>
+    </item>
+    
+    <item>
+      <title>Graceful degradation é tudo sobre Acessibilidade</title>
+      <link>http://localhost/jhonny-roger/public/graceful-degradation-e-tudo-sobre-acessibilidade/</link>
+      <pubDate>Sun, 12 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/graceful-degradation-e-tudo-sobre-acessibilidade/</guid>
+      <description>Não há uma tradução literal para Graceful Degradation. O mais próximo seria Degradação Harmoniosa. Não é um termo muito bonito de ficar dizendo por aí. Por isso, vamos utilizar o termo original inglês durante todo o artigo.
+Graceful Degradation é algo que vemos todos os dias. Trata-se de um método comum em dias onde a Internet é muito mais que um simples computador ligado no telefone. Acho que resumidamente, podemos dizer o que exatamente é Graceful Degradation com a frase:</description>
+    </item>
+    
+    <item>
+      <title>Seletores do CSS: Pseudo-classes</title>
+      <link>http://localhost/jhonny-roger/public/pseudo-classes-css/</link>
+      <pubDate>Mon, 23 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/pseudo-classes-css/</guid>
+      <description>&lt;p&gt;Existem vários tipos de &lt;strong&gt;pseudo-classes&lt;/strong&gt;. Podemos separá-las em dois grandes grupos: &lt;strong&gt;Estruturais&lt;/strong&gt; e &lt;strong&gt;Dinâmicas&lt;/strong&gt;. Existem outras pseudo-classes que não se encaixam nestes dois grupos principais, que controlam a interface do usuário, elementos de URLs e etc. Não irei me alongar em todos os grupos, entenda melhor sobre todos os grupos e pseudo-classes diretamente da fonte:&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Seletores Complexos do CSS</title>
+      <link>http://localhost/jhonny-roger/public/seletores-complexos-do-css/</link>
+      <pubDate>Wed, 11 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/seletores-complexos-do-css/</guid>
+      <description>Os seletores complexos foram feitos para suprir necessidades muito específicas do layout. Por exemplo: Imagine uma página de cadastro, essa página há um formulário enorme, com campos de todos os tipos: radio, checkbox, text, submit etc&amp;#8230;
+Um HTML de exemplo:
+&amp;lt;form action=&#34;&#34;&amp;gt; &amp;lt;fieldset&amp;gt; &amp;lt;label&amp;gt;Nome: &amp;lt;input type=&#34;text&#34; class=&#34;input-text&#34; /&amp;gt;&amp;lt;/label&amp;gt; &amp;lt;label&amp;gt;&amp;lt;input type=&#34;checkbox&#34; class=&#34;input-checkbox&#34; /&amp;gt; Desejo receber newsletters&amp;lt;/label&amp;gt; &amp;lt;/fieldset&amp;gt; &amp;lt;/form&amp;gt;  Agora imagine que você tenha a necessidade de definir a largura somente dos campos de texto, você não poderá colocar a linha como a de baixo:</description>
+    </item>
+    
+    <item>
+      <title>Seletores Agrupados e Encadeados</title>
+      <link>http://localhost/jhonny-roger/public/seletores-agrupados-e-encadeados/</link>
+      <pubDate>Mon, 09 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/seletores-agrupados-e-encadeados/</guid>
+      <description>&lt;p&gt;O CSS é responsável por formatar e manipular toda informação exibida pelo HTML, de forma que o layout fique fiel ao que o designer desenhou. Essa é a explicação básica e resumida sobre a função do CSS.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Propriedade Float do CSS</title>
+      <link>http://localhost/jhonny-roger/public/propriedade-float-do-css/</link>
+      <pubDate>Fri, 13 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/propriedade-float-do-css/</guid>
+      <description>&lt;p&gt;Se o Internet Explorer não soubesse como funciona a propriedade float do CSS, o advento dos Padrões Web não vingaria tão cedo. A propriedade float é a propriedade responsável por &amp;#8220;administrar&amp;#8221; a diagramação do site. É com ela que você irá organizar as caixas e deixá-las exatamente onde devem ficar. A propriedade float dá mais consistência ao Layout. Diferentemente da propriedade position, que pode trazer uma série de inflexibilidades, deixando o layout mais engessado.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Client-side e sua importância</title>
+      <link>http://localhost/jhonny-roger/public/client-side-e-sua-importancia/</link>
+      <pubDate>Wed, 21 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/client-side-e-sua-importancia/</guid>
+      <description>&lt;p&gt;Não é de hoje que o mercado de desenvolvimento web subestima a importância de algumas áreas como acessibilidade, usabilidade, arquitetura de informação, etc. Normal em uma área que tem um mercado tão complexo e que não pára de crescer.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Implementar XHTML/CSS é grátis</title>
+      <link>http://localhost/jhonny-roger/public/implementar-xhtmlcss-e-gratis/</link>
+      <pubDate>Mon, 08 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/implementar-xhtmlcss-e-gratis/</guid>
+      <description>&lt;p&gt;Muita gente conhece a história do Tableless. Eu iniciei o Tableless quando estava aprendendo e me aprofundando nos Padrões Web. Meus estudos consistiam em dois momentos: ler e aplicar. Eu lia muito material de fora – quase não haviam fontes sobre Padrões Web aqui no Brasil &amp;#8211; e depois tentava colocar na prática tudo aquilo que eu havia estudado.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Porque só para o iPhone?</title>
+      <link>http://localhost/jhonny-roger/public/porque-so-para-o-iphone/</link>
+      <pubDate>Mon, 17 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/porque-so-para-o-iphone/</guid>
+      <description>&lt;p&gt;Engraçado como desde o lançamento do iPhone, muitas empresas e desenvolvedores se mobilizaram para fazer versões de sites e sistemas para iPhone. Me chama a atenção porque antes disso nunca ninguém (ou quase ninguém) se interessava de verdade em fazer uma versão para dispositivos móveis, muito menos uma versão para um dispositivo específico.&lt;/p&gt;
+
+&lt;p&gt;Ok, ok&amp;#8230; Você deve estar falando que o iPhone virou hype, moda e etc. Mas isso não é o bastante. Muitos dispositivos já fizeram barulho antes. Acho que o buraco é mais embaixo.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Modulando o CSS</title>
+      <link>http://localhost/jhonny-roger/public/modulando-o-css/</link>
+      <pubDate>Wed, 12 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/modulando-o-css/</guid>
+      <description>&lt;p&gt;Quando trabalhamos com Padrões Web, trabalhamos com três camadas principais: Informação, formatação e comportamento.&lt;/p&gt;
+
+&lt;p&gt;A informação seria controlada pelo &lt;strong&gt;HTML&lt;/strong&gt;. Ele exibiria a informação na tela com significado.&lt;/p&gt;
+
+&lt;p&gt;O &lt;strong&gt;CSS&lt;/strong&gt; manipularia a formatação desses elementos para que ficassem belos e controlaria suas posições na tela.&lt;/p&gt;
+
+&lt;p&gt;E o &lt;strong&gt;Javascript / Ajax&lt;/strong&gt; cuidaria do comportamento destes elementos.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Não “otimize” seu código</title>
+      <link>http://localhost/jhonny-roger/public/nao-otimize-seu-codigo/</link>
+      <pubDate>Sun, 09 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/nao-otimize-seu-codigo/</guid>
+      <description>&lt;p&gt;Quando fazíamos sites com tabelas, o grande problema era a quantidade de código que escrevíamos. Naquele tempo – 1996, 97, 98 – tínhamos outros pontos que precisavam de uma atenção maior. A conexão era lerda para todo mundo e isso dificultava um bocado as coisas. Por isso, fazer um site pesado era fora de cogitação. Ficávamos “mendigando” cada byte para que o site ficasse milésimos de segundo mais rápido.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tabelas semânticas</title>
+      <link>http://localhost/jhonny-roger/public/tabelas-semanticas/</link>
+      <pubDate>Mon, 27 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tabelas-semanticas/</guid>
+      <description>&lt;p&gt;Você já deve saber que o desenvolvimento utilizando Padrões Web preza pela Semântica no código. Todo código que você escrever deve dar algum significado ao conteúdo. E toda tag sem sua função específica e te ajuda a formar um código mais esperto e legível.&lt;/p&gt;
+
+&lt;p&gt;Alguns elementos por dependerem de várias tags para ter um funcionamento pleno, acabam sofrendo com o desinteresse dos desenvolvedores em entender melhor os diversos objetos que compoem um determinado elemento. Um caso bastante comum, &lt;a href=&#34;http://tableless.com.br/formulario-basico-em-8-minutos&#34;&gt;além dos Formulários&lt;/a&gt;, é a formação das TABLES.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Exercício Básico</title>
+      <link>http://localhost/jhonny-roger/public/exercicio-basico/</link>
+      <pubDate>Mon, 20 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/exercicio-basico/</guid>
+      <description>&lt;p&gt;Costumo dar esse exercício para alguns dos alunos aqui da &lt;a href=&#34;http://visie.com.br/treinamento/&#34;&gt;Visie&lt;/a&gt;. Ele é um exercício básico e utiliza as propriedades mais importantes para se construir um site. A idéia é mostrar para o desenvolvedor que está abrindo os olhos agora, como é fácil, em algumas horas de treinamento (tipo 3 horas), o desenvolvimento com CSS e XHTML é produtivo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Palestra: Implementação de Layout com CSS</title>
+      <link>http://localhost/jhonny-roger/public/palestra-implementacao-de-layout-com-css/</link>
+      <pubDate>Mon, 21 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/palestra-implementacao-de-layout-com-css/</guid>
+      <description>Essa semana, dia 23, quarta-feira, irei fazer uma palestra de 2 horas exclusivamente sobre Implementação de Layout com CSS. Irei implementar um layout, desde o HTML até o CSS, tudo explicado nos mínimos detalhes.
+http://visie.com.br/eventos/
+O valor da palestra é de R$29 e será em São Paulo.
+Este post se auto-destruirá no dia 24.</description>
+    </item>
+    
+    <item>
+      <title>Vídeo: Menu horizontal com CSS em 5 minutos</title>
+      <link>http://localhost/jhonny-roger/public/video-menu-horizontal-em-5-minutos/</link>
+      <pubDate>Mon, 07 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/video-menu-horizontal-em-5-minutos/</guid>
+      <description>&lt;p&gt;Criar um menu horizontal com CSS é muito fácil e tráz algumas vantagens como a facilidade de fazer uma mudança no layout. Sem encostar no HTML, você pode modificar todo o visual do menu via CSS. Se quiser mudar o menu para a vertical, você pode fazê-lo também sem muitos problemas. Fiz um vídeo básico, mudo e rápido de 5 minutos mostrando como se faz um menu horizontal em CSS.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Layout Fixo / Fluido de 3 colunas em 8 Minutos</title>
+      <link>http://localhost/jhonny-roger/public/layout-fixo-fluido-de-3-colunas-em-8-minutos/</link>
+      <pubDate>Tue, 10 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/layout-fixo-fluido-de-3-colunas-em-8-minutos/</guid>
+      <description>&lt;p&gt;Na verdade a gravação foi feita em 7 minutos e 51 segundos.&lt;/p&gt;
+
+&lt;p&gt;Neste vídeo mostro como faço para criar um layout básico de 3 colunas. Esta técnica tem um diferencial: retirando apenas uma linha do CSS, o layout passa de fixo, para fluido (como o layout do submarino ou americanas). Isso dá várias possibilidades de layout para o designer e poupa muito trabalho da equipe ao redesenhar e modificar o layout.&lt;/p&gt;
+
+&lt;p&gt;Se quiser ver o exemplo com o código fonte, &lt;a href=&#34;http://tableless.com.br/uploads/2008/06/3colunas-oitominutos.html&#34;&gt;clique aqui&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Formulário HTML Básico em 8 minutos</title>
+      <link>http://localhost/jhonny-roger/public/formulario-basico-em-8-minutos/</link>
+      <pubDate>Mon, 02 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/formulario-basico-em-8-minutos/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;update:&lt;/strong&gt; Se você quiser mais vídeos e em alta-resolução, visite o &lt;a title=&#34;Vídeo tutoriais sobre Tableless e Ajax.&#34; href=&#34;http://visie.com.br/campus&#34;&#34;&gt;Campus Online&lt;/a&gt;. Lá você vai encontrar &lt;a href=&#34;http://campus.visie.com.br/&#34; title=&#34;Vídeos sobre Tableless e Ajax&#34;&gt;vídeos tutoriais de Tableless, Ajax, Javascript&lt;/a&gt; e boas práticas de desenvolvimento web.&lt;/p&gt;
+
+&lt;p&gt;Na verdade ele foi escrito em 7 minutos e 51 segundos e foram escritos apenas o XHTML e CSS. Infelizmente está sem áudio.&lt;/p&gt;
+
+&lt;p&gt;O formulário, depois do link, é o &amp;#8220;objeto&amp;#8221; mais utilizado pelos usuários para interagir com o site. É questão de vida e morte para muitos profissionais. Se não for bem escrito, pode virar um inferno. Com as tags certas, você consegue fazer uma estrutura enxuta e fácil de customizar. Siga a regra áurea do desenvolvimento web: Keep It Simple Stupid.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>IE8 – O sonho não acabou</title>
+      <link>http://localhost/jhonny-roger/public/ie8-o-sonho-nao-acabou/</link>
+      <pubDate>Sun, 09 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ie8-o-sonho-nao-acabou/</guid>
+      <description>&lt;p&gt;Para você se inteirar do assunto, leia &lt;a href=&#34;http://tableless.com.br/ie8-targeting-version&#34;&gt;Browser Targeting Version&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;No artigo que recomendei acima, lá nos últimos parágrafos dei minha opinião sobre a antiga decisão da Microsoft:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Mesmo assim, acho que tudo deveria ser nivelado por cima. Porque os desenvolvedores que se preocupam e utilizam os Padrões da maneira correta, são os que devem marcar o browser? Não seria mais fácil criar uma metatag para marcar os sites que não devem ser renderizados com o suporte avançado de Padrões? Quem deve se preocupar, são os desenvolvedores que não dão a mínima para os Padrões. Eles sim devem trabalhar para deixar seus sites atualizados.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Centralizando um objeto na Horizontal e Vertical com CSS</title>
+      <link>http://localhost/jhonny-roger/public/centralizando-um-objeto-na-horizontal-e-vertical-com-css/</link>
+      <pubDate>Thu, 06 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/centralizando-um-objeto-na-horizontal-e-vertical-com-css/</guid>
+      <description>[]1
+Objeto no centro da tela Uma das dúvidas mais freqüentes é esta: Como fazer para que um objeto fique no centro da tela usando css?
+A resposta está nos passos abaixo!
+Colocando a imagem: Neste exemplo vamos usar uma imagem, mas você pode perfeitamente usar um div, o processo é o mesmo.
+Coloque na imagem (ou no div) um nome de ID&amp;#8230; Colocamos neste exemplo o ID com nome &amp;#8220;centro&amp;#8221;.</description>
+    </item>
+    
+    <item>
+      <title>Criando um Menu Horizontal com CSS</title>
+      <link>http://localhost/jhonny-roger/public/criando-um-menu-horizontal-com-css/</link>
+      <pubDate>Thu, 06 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-um-menu-horizontal-com-css/</guid>
+      <description>Se você não quiser ler, mas ver como fazer, assista um vídeo. Neste vídeo é mostrado como fazer um menu horizontal com CSS. E se quiser aprender mais, visite o Campus Online e cadastre-se grátis para ver vídeos sobre desenvolvimento web.
+Quer fazer um menu horizontal que seja fácil de personalizar e de fazer manutenção?
+Siga os passos abaixo e descubra como é fácil.
+Estrutura: Primeiramente faça um elemento NAV (antigamente usaríamos a tag DIV) e atribua um ID.</description>
+    </item>
+    
+    <item>
+      <title>CSS Frameworks ou como desaprender CSS</title>
+      <link>http://localhost/jhonny-roger/public/css-frameworks-ou-como-desaprender-css/</link>
+      <pubDate>Tue, 09 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css-frameworks-ou-como-desaprender-css/</guid>
+      <description>O papo que agora está começando a rolar entre os desenvolvedores é sobre Frameworks para CSS.
+Sou totalmente contra a qualquer coisa que impeça o contato do desenvolvedor com o código. Sou avesso a qualquer tipo de interface que prometa facilitar o desenvolvimento, pelo menos de XHTML e CSS. Lembra daquele papo sobre o desenvolvedor &amp;#8220;analbético&amp;#8221; de código?
+Ainda acho que utilizar editores que suportam Snippets &amp;#8211; ou Macros, dependendo do editor &amp;#8211; são as melhores formas de se trabalhar se você quer agilidade.</description>
+    </item>
+    
+    <item>
+      <title>CSS Reset</title>
+      <link>http://localhost/jhonny-roger/public/css-reset/</link>
+      <pubDate>Thu, 13 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css-reset/</guid>
+      <description>Sempre que começo a escrever meu CSS, eu inicio colocando um * (asterísco) e zero algumas propriedades. Esse técnica se chama CSS Reset.
+Alguns elementos do HTML já tem um valor de margin, padding, borda e outros tipos de formatação definidos como padrão. O que acontece é que esses valores pré-definidos são necessários para que quando o site seja visto sem CSS algum, o usuário conseguirá ter um mínimo de legibilidade na visita.</description>
+    </item>
+    
+    <item>
+      <title>font-face</title>
+      <link>http://localhost/jhonny-roger/public/font-face/</link>
+      <pubDate>Tue, 14 Aug 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/font-face/</guid>
+      <description>A propriedade @font-face permite que usemos famílias de fontes que não estão instaladas no computador do usuário. Estamos acostumados a usar (os designers que o digam) um pacote de fontes muito limitado de fonts.
+O @font-face faz com que o browser baixe, instale e renderize uma font na página.
+Nem preciso falar que isso pode deixar o site um pouco mais lerdo. Outro ponto é que nenhum dos browsers tem suporte para isso hoje.</description>
+    </item>
+    
+    <item>
+      <title>Referência rápida de CSS em Português</title>
+      <link>http://localhost/jhonny-roger/public/referenciacss/</link>
+      <pubDate>Mon, 14 May 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/referenciacss/</guid>
+      <description>Principalmente quem está começando na área tem algumas dificuldades para lembrar e entender melhor quais são as propriedades do CSS e qual a sua utilidade. Pensando nisso, fiz um guia básico de referência do CSS em português, baseada na referência em inglês do GoSquared. Se você tiver qualquer tipo de sugestão, por favor, me diga!
+Guia de Referência Rápida de CSS</description>
+    </item>
+    
+    <item>
+      <title>Podcast Tableless #25 – Validação é importante?!</title>
+      <link>http://localhost/jhonny-roger/public/podcast-tableless-25-validacao-e-importante/</link>
+      <pubDate>Thu, 09 Nov 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/podcast-tableless-25-validacao-e-importante/</guid>
+      <description>&lt;p&gt;Validar ou não validar, eis a questão. Será que validar é realmente importante? Para quem ela é importante? Qual o sentido da vida? Mas &lt;a href=&#34;http://en.wikipedia.org/wiki/The_Answer_to_Life,_the_Universe,_and_Everything#The_search_for_the_Ultimate_Question&#34;&gt;porque 42 é a resposta&lt;/a&gt;?&lt;/p&gt;
+
+&lt;p&gt;Validação sempre foi um assunto muito interessante. Não temos como falar sobre validação sem tocar em assuntos como semântica, xhtml2, html5 e etc. Instigados pelo assunto (um tanto polêmico, confesso) e pelos comentários do &lt;a href=&#34;http://tableless.com.br/validar-e-importante&#34;&gt;post que escrevi anteriormente&lt;/a&gt;, decidimos fazer um podcast madrugada adentro.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CSS3 – Novo mundo de possibilidades</title>
+      <link>http://localhost/jhonny-roger/public/css-3-novo-mundo-de-possibilidades/</link>
+      <pubDate>Thu, 20 Jul 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css-3-novo-mundo-de-possibilidades/</guid>
+      <description>O CSS está para o desenvolvedor como o martelo está para o marceneiro. Companheiro inseparável na hora de implementar algum site.
+Atualmente o CSS está em sua segunda versão. Ele surgiu no ano de 94 (mais detalhes aqui) e a partir daí vem facilitando cada vez mais a vida dos desenvolvedores.
+Em tempos passados, o CSS foi ignorado por quase todos. Hoje, com toda esta revolução em volta dos Padrões, é difícil dizer como vivíamos sem ele.</description>
+    </item>
+    
+    <item>
+      <title>Breve introdução: XHTML Mobile Profile</title>
+      <link>http://localhost/jhonny-roger/public/breve-introducao-xhtml-mobile-profile/</link>
+      <pubDate>Tue, 28 Mar 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/breve-introducao-xhtml-mobile-profile/</guid>
+      <description>XHTML MP é um subset do já conhecido XHTML. Ele é baseado em um outro subset de XHTML chamada XHTML Basic. O XHTML Basic é uma versão simplificada do XHTML definido pelo W3C. Ele foi feito especificamente para dispositivos com baixo poder de processamento como celulares, PDAs, pagers etc&amp;#8230; O XHTML Basic não contém algumas características que esses dispositivos dificilmente suportam, como por exemplo: Frames, Folhas de Estilo em Cascata e scripts.</description>
+    </item>
+    
+    <item>
+      <title>O que são Media Types do CSS?</title>
+      <link>http://localhost/jhonny-roger/public/o-que-sao-media-types/</link>
+      <pubDate>Mon, 06 Feb 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-que-sao-media-types/</guid>
+      <description>O CSS foi feito para que pudéssemos dizer como o documento irá se apresentar ao usuário em diferentes meios de acesso. Seja ele na tela do seu monitor, na sua impressora, no seu PDA, no seu sintetizador de voz, celular, smartphone, microondas etc e etc&amp;#8230; Não importa com qual dispositivo o usuário esteja acessando seu site, ele deve ser bem apresentado.
+O W3C criou uma forma para fazermos isso com a maior facilidade.</description>
+    </item>
+    
+  </channel>
+</rss>

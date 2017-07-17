@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobile First on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/mobile-first/</link>
+    <description>Recent content in Mobile First on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 30 Nov 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/mobile-first/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Indexando mobile-first – Google anuncia novidades</title>
+      <link>http://localhost/jhonny-roger/public/indexando-mobile-first-google-anuncia-novidades/</link>
+      <pubDate>Wed, 30 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/indexando-mobile-first-google-anuncia-novidades/</guid>
+      <description>Segundo o Google, atualmente a maioria das pessoas já fazem busca utilizando um dispositivo móvel. Entretanto, os sistemas de classificação ainda costumam olhar a versão desktop do conteúdo da página em questão para dar relevância ao usuário. Pensando em mobile-first, isso pode trazer alguns problemas caso a página mobile tenha menos conteúdo do que a página desktop porque os algoritmos do Google não estão avaliando a página que está sendo vista pelo usuário da página mobile.</description>
+    </item>
+    
+    <item>
+      <title>As muitas faces do Mobile First</title>
+      <link>http://localhost/jhonny-roger/public/as-muitas-faces-do-mobile-first/</link>
+      <pubDate>Fri, 25 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/as-muitas-faces-do-mobile-first/</guid>
+      <description>Vemos a frase &amp;#8220;mobile-first&amp;#8221; em todos os lugares. Luke Wroblewski definitivamente atingiu uma veia quando cunhou este termo há alguns anos, e criou um importante grito de guerra a medida que entramos neste futuro multi-screen.
+A definição mobile-first de Luke consiste em três componentes principais:
+ O crescimento do mobile é, mais do que nunca, uma grande oportunidade de atingir as pessoas;
+ As restrições do meio mobile nos força a focar no que realmente importa;</description>
+    </item>
+    
+  </channel>
+</rss>

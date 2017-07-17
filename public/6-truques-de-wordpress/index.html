@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245849">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>O <strong>functions.php</strong> é o arquivo de funções do seu tema. É nele que você habilita os menus, cria widgets e define uma série de configurações dos temas de WordPress. Essas são 5 pequenos truques que uso nos meus projetos em WordPress.</p>
+
+<h2 id="como-tirar-a-barra-de-admin">Como tirar a barra de admin</h2>
+
+<p>Eu odeio aquela barra de administração que o WordPress coloca no site quando estamos logados. Eles atrapalham muitas vezes o desenvolvimento do projeto, por isso enquanto estou desenvolvendo, eu desabilito essa feature. Para fazer isso basta inserir uma linha no functions.php:</p>
+
+<pre class="lang-php">add_filter('show_admin_bar', '__return_false');
+</pre>
+
+<h2 id="atualizando-o-wordpress-sem-necessidade-de-ftp">Atualizando o WordPress sem necessidade de FTP</h2>
+
+<p>Com apenas um clique você consegue atualizar seu WordPress pela própria interface administrativa. Basta clicar um botão e pronto. Eu geralmente atualizo o WordPress localmente, comito via git e depois atualizo os arquivos no server.</p>
+
+<p>Geralmente, por motivos de segurança, quando o WordPress é atualizado pela interface administrativa, ele pede as informações de FTP. Como não tenho FTP instalado nem no server, nem local, eu desabilito essa parte. Para isso, uso a linha abaixo:</p>
+
+<pre class="lang-php">define('FS_METHOD','direct');
+</pre>
+
+<h2 id="definindo-o-tamanho-padrão-das-imagens">Definindo o tamanho padrão das imagens</h2>
+
+<p>Quando você sobe uma imagem no WordPress, por padrão ele salva algumas imagens em tamanhos específicos. Isso é bom porque você pode usar imagens menores quando necessário em vez de usar no tamanho original. Por isso é bom que você configure o tamanho das imagens geradas de acordo com o seu layout.</p>
+
+<pre class="lang-php">if ( function_exists( 'add_theme_support' ) ) {
+    add_theme_support( 'post-thumbnails' );
+    set_post_thumbnail_size( 650, 250, true ); // Tamanho da largura das imagens.
+}
+</pre>
+
+<h2 id="adicionando-excerpt-nas-páginas-do-wordpress">Adicionando EXCERPT nas páginas do WordPress</h2>
+
+<p>No WordPress há duas maneiras de cadastrar textos: usando páginas ou posts. Páginas contém textos mais estáticos, que vão mudar pouco. Os posts tem uma ordem cronológica, indicam novidades e etc. Os Excerpts são os resumos que fazem a introdução exclusivamente de posts. Mas as vezes, em alguns projetos, precisamos usar em Páginas também. Essa linha habilita o uso de excerpts em páginas:</p>
+
+<pre class="lang-php">add_post_type_support( 'page', 'excerpt' );
+</pre>
+
+<h2 id="retirando-a-metatag-wordpress-generator">Retirando a metatag WordPress Generator</h2>
+
+<p>Geralmente o WordPress coloca uma metatag indicando que o site foi gerado com WordPress e também qual a versão do CMS.</p>
+
+<pre class="lang-html">&lt;meta name="generator" content="WordPress 3.2.1"&gt;
+</pre>
+
+<p>Eu, particularmente, não preciso disso, bem como muitos sites por aí. Essa linha retira a metatag.</p>
+
+<pre class="lang-php">remove_action('wp_head', 'wp_generator');
+</pre>
+
+<h2 id="inserindo-a-imagem-de-destaque-para-o-feed">Inserindo a imagem de destaque para o FEED</h2>
+
+<p>No WordPress há como definir uma imagem de destaque para os posts. Essa imagem, por padrão, não é inserida quando os leitores leem o post via feed. Para habilitar isso, basta inserir as linhas abaixo:</p>
+
+<pre class="lang-php">add_filter('the_content_feed', 'rss_post_thumbnail');
+function rss_post_thumbnail($content) {
+    global $post;
+    if( has_post_thumbnail($post->ID) )
+        $content = '&lt;p&gt;' . get_the_post_thumbnail($post->ID, 'thumbnail') . '&lt;/p&gt;' . $content;
+    return $content;
+}
+</pre>
+
+<p>E pronto. 😉</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/3-plugins-wordpress-para-aumentar-conversoes-em-sites-e-blogs//?utm_source=tablelessRelatedLin">3 Plugins WordPress para Aumentar Conversões em Sites e Blogs</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/construindo-um-firewall-no-wordpress-parte-2//?utm_source=tablelessRelatedLin">Construindo um firewall no WordPress – Parte 2</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/construindo-um-firewall-no-wordpress-parte-1//?utm_source=tablelessRelatedLin">Construindo um firewall no WordPress – Parte 1</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245849"></script>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Semântica on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/categories/web-sem%C3%A2ntica/</link>
+    <description>Recent content in Web Semântica on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 07 May 2017 16:10:22 -0300</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/categories/web-sem%C3%A2ntica/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>O básico sobre Sparql e Turtle</title>
+      <link>http://localhost/jhonny-roger/public/o-basico-sobre-sparql-turtle/</link>
+      <pubDate>Sun, 07 May 2017 16:10:22 -0300</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-basico-sobre-sparql-turtle/</guid>
+      <description>A Web Semântica tem um conteúdo técnico extenso, onde você pode se aprofundar infinitamente. Eu adoro o assunto Web Semântica, mas não sou nem um pouco capaz de entender as partes mais técnicas dessa matéria. Por isso, estudo bastante toda a parte conceitual e teorica, que já é suficientemente interessante. Mesmo assim, queria introduzir dois assuntos que podem ser o ponto de partida para uma segunda fase de estudos para estudos mais técnicos: o Turtle e o SPARQL.</description>
+    </item>
+    
+    <item>
+      <title>Web Semântica na Prática Parte 1: A Web do futuro (ou quase isso)</title>
+      <link>http://localhost/jhonny-roger/public/web-semantica-na-pratica-parte-1-web-do-futuro-ou-quase-isso/</link>
+      <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/web-semantica-na-pratica-parte-1-web-do-futuro-ou-quase-isso/</guid>
+      <description>É possível conferir aqui mesmo no Tableless alguns bons artigos introdutórios sobre Web Semântica (veja aqui e aqui), os quais eu recomendo a leitura caso você nunca tenha ouvido falar sobre o assunto.
+A intenção dessa sequência de posts que nomeei como “Web Semântica na Prática” é destrinchar esse assunto de modo aprofundado, apresentando os conceitos e exemplificando-os na prática. O tutorial completo será composto de 9 posts que irão reunir, ao final, um guia bastante abrangente sobre os conceitos, padrões, tecnologias, linguagens e ferramentas utilizadas na criação de aplicações para Web Semântica.</description>
+    </item>
+    
+    <item>
+      <title>Uso acessível: O cumprimento das premissas na web contemporânea</title>
+      <link>http://localhost/jhonny-roger/public/uso-acessivel-o-cumprimento-das-premissas-na-web-contemporanea/</link>
+      <pubDate>Thu, 29 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/uso-acessivel-o-cumprimento-das-premissas-na-web-contemporanea/</guid>
+      <description>Há muito tempo venho pensado sobre acessibilidade nos dias de hoje. Notei que muitos dos sites, atualmente, sejam de comércio eletrônico ou não, são, em parte, inacessíveis a usuários com necessidades especiais.
+A parte mais intrigante é que, se pararmos pra pensar, todos temos alguma necessidade. Seja algo relacionado ao tempo que podemos gastar em uma conexão a um site, ou ao design de uma página que nos prejudica por não ser adaptável, ou ainda, ao tráfego de dados por uma conexão ruim e até mesmo, como disse uma vez nosso conhecido Diego Eis: &amp;#8220;Acessibilidade é tudo sobre a necessidade das pessoas&amp;#8220;, e realmente é.</description>
+    </item>
+    
+    <item>
+      <title>Acessibilidade na web: Como tornar seu site acessível.</title>
+      <link>http://localhost/jhonny-roger/public/acessibilidade-na-web-atualizando-como-tornar-seu-site-acessivel/</link>
+      <pubDate>Mon, 26 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/acessibilidade-na-web-atualizando-como-tornar-seu-site-acessivel/</guid>
+      <description>Você talvez esteja lendo essas primeiras linhas e pensando: por que tornar um site acessível? E por que me preocupar com isso quando meu prazo de entrega é tão curto?
+Eu explico: acessibilidade na web é uma questão de boa prática. Além de você colaborar para que mais pessoas sejam impactadas pelo conteúdo disseminado em seu site, você ainda estará fazendo parte dos profissionais que conhecem e querem implementar cuidados básicos que geram imensos resultados à navegação diferenciada à que estamos habituados.</description>
+    </item>
+    
+    <item>
+      <title>Código não é poesia. É política</title>
+      <link>http://localhost/jhonny-roger/public/codigo-nao-e-poesia-e-politica/</link>
+      <pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/codigo-nao-e-poesia-e-politica/</guid>
+      <description>Maio foi um mês intenso para o New York Times. Além de cortes importantes no staff, &amp;#8220;vazou&amp;#8221; na web um interessante documento da equipe de inovação do jornal. Por meio dele, ficamos sabendo que a audiência da home do site está em decadência. Apenas um terço dos visitantes chega ao NYT por ali. O resto vem de redes sociais e de busca orgânica.
+Faz sentido. Quantos artigos você leu recentemente a partir de algum tipo de home?</description>
+    </item>
+    
+    <item>
+      <title>Semântica, padrões e o que você tem a ver com isto</title>
+      <link>http://localhost/jhonny-roger/public/semantica-padroes-e-o-que-voce-tem-a-ver-com-isto/</link>
+      <pubDate>Wed, 11 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/semantica-padroes-e-o-que-voce-tem-a-ver-com-isto/</guid>
+      <description>O HTML é uma linguagem simples de aprender, mas muito difícil de dominar. Segundo a documentação da W3C existem atualmente 107 elementos de HTML5. Muitos deles ainda causam certa confusão entre os desenvolvedores ou por possuírem funções muito parecidas, comportamentos visuais praticamente idênticos ou ainda por serem simplesmente desconhecidos pela comunidade. Alguns elementos ainda são chamados de &amp;#8220;mais semânticos&amp;#8221; que outros. Mas o que isto quer dizer afinal?
+No post de hoje vamos fazer uma breve comparação entre alguns destes elementos para que você tenha sempre a carta certa na manga na hora certa e possa atribuir significado de maneira efetiva.</description>
+    </item>
+    
+  </channel>
+</rss>

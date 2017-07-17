@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dyemerson Almeida on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/dyemerson-almeida/</link>
+    <description>Recent content in Dyemerson Almeida on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 29 Jun 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/dyemerson-almeida/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Paginação com JavaScript e jQuery</title>
+      <link>http://localhost/jhonny-roger/public/paginacao-com-javascript-e-jquery/</link>
+      <pubDate>Wed, 29 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/paginacao-com-javascript-e-jquery/</guid>
+      <description>Algumas vezes, vamos deparar com uma situação onde é preciso fazer uma paginação sem a ajuda de uma linguagem de backend. É exatamente isso que vou ensinar aqui: fazer um sistema de paginação utilizando JavaScript , jQuery e Bootstrap.
+Vamos primeiramente criar a nossa estrutura HTML e chamar as bibliotecas:
+&amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;script src=&#34;http://localhost/jhonny-roger/public/jquery/1.11.3/jquery.min.js&#34;&amp;gt;&amp;lt;/script&amp;gt; &amp;lt;link rel=&#34;stylesheet&#34;href=&#34;/css/bootstrap.min.css&#34;&amp;gt; // somente para ficar mais &#34;bonito o layout&#34; vamos dar um padding-bottom no select &amp;lt;style type=&#34;</description>
+    </item>
+    
+  </channel>
+</rss>

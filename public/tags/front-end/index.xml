@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Front End on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/front-end/</link>
+    <description>Recent content in Front End on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 18 Nov 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/front-end/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Analisando o código Stylus de um projeto</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-o-pre-processador-stylus/</link>
+      <pubDate>Fri, 18 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-o-pre-processador-stylus/</guid>
+      <description>O que é um pré-processador CSS? Como o nome ja diz, é uma linguagem que precisa ser pré-processada por um parser para assim gerar o arquivo de extensão .css que será renderizado pelo browser. Atualmente há vários pré-processadores que você pode utilizar para facilitar a codificação e reaproveitamento de código, você pode estar utilizando SASS, LESS e Stylus que são os mais conhecidos no mercado. A diferença do Stylus para os outros pré-processadores que estão sendo utilizados no mercado é que ele já é baseado em NodeJS e não em ruby.</description>
+    </item>
+    
+    <item>
+      <title>Como boas práticas de escrita de código podem influenciar em uma melhor rotina de trabalho</title>
+      <link>http://localhost/jhonny-roger/public/como-boas-praticas-de-escrita-de-codigo-podem-influenciar-em-uma-melhor-rotina-de-trabalho/</link>
+      <pubDate>Sat, 17 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/como-boas-praticas-de-escrita-de-codigo-podem-influenciar-em-uma-melhor-rotina-de-trabalho/</guid>
+      <description>Observei que alguns itens estão me ajudando na rotina de trabalho, como obter um melhor tempo de produção e um melhor controle sobre o que estou fazendo.
+São alguns hábitos simples que podem lhe ajudar muito. É apenas questão de implementar no seu dia a dia e demonstrar para a sua equipe (caso trabalhe em equipe) o quanto é mais organizado e produtivo trabalhar desta forma.
+A seguir listei algumas técnicas que podem ajudar bastante no seu dia a dia como desenvolvedor front-end.</description>
+    </item>
+    
+    <item>
+      <title>Invertendo o Redux</title>
+      <link>http://localhost/jhonny-roger/public/invertendo-o-redux/</link>
+      <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/invertendo-o-redux/</guid>
+      <description>Introdução &amp;nbsp;
+Já faz um tempo desde que implementei pela primeira vez o Redux. Numa época que só se falava nos frameworks, ele apareceu do nada, pelo menos para mim. Eu já conhecia o Flux, mas ainda não era o que estava procurando. O Redux realmente é uma das melhores idéias que vi, para mim faz todo o sentido e ainda é simples de entender e de se implementar.</description>
+    </item>
+    
+    <item>
+      <title>Material Design com Materialize</title>
+      <link>http://localhost/jhonny-roger/public/material-design-com-materialize/</link>
+      <pubDate>Wed, 30 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/material-design-com-materialize/</guid>
+      <description>Há muito tempo quero falar um pouco sobre desenvolvimento de sites utilizando layouts baseados no Material Design do Google, mas entre fazer e falar há um abismo enorme. Minha verdadeira intenção é compartilhar um pouco a maneira mais fácil de desenvolver um layout utilizando todos aqueles conceitos que a Google tem implementado atualmente.
+Primeiros Passos O Materialize é um Framework desenvolvido para facilitar e agilizar nosso desenvolvimento quando o assunto é Material Design.</description>
+    </item>
+    
+    <item>
+      <title>O nome UX está errado</title>
+      <link>http://localhost/jhonny-roger/public/o-nome-ux-esta-errado/</link>
+      <pubDate>Tue, 09 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-nome-ux-esta-errado/</guid>
+      <description>O que é um profissional de UX? Se você for responder rápido, você vai dizer: “É o mano (ou a mana) que faz o Wireframe do projeto.” Essa resposta é no mínimo incompleta. O profissional de UX é responsável por muito mais que isso. O Wireframe é na verdade uma resposta representativa de todo um trabalho prévio de pesquisa, organização e garimpo de informação junto com usuários e clientes. Há uma preocupação muito forte com fluxo de conteúdo e principalmente fluxo de navegação, além de juntar especificar a função e comportamento do sistema.</description>
+    </item>
+    
+    <item>
+      <title>Front-end e WordPress: uma relação de amor e amizade</title>
+      <link>http://localhost/jhonny-roger/public/front-end-e-wordpress-uma-relacao-de-amor-e-amizade/</link>
+      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/front-end-e-wordpress-uma-relacao-de-amor-e-amizade/</guid>
+      <description>É&amp;nbsp;bastante comum o&amp;nbsp;desenvolvedor front-end conseguir trabalho como freelancer e precisar do desenvolvedor back-end para tornar&amp;nbsp;o site dinâmico. O&amp;nbsp;cliente fica&amp;nbsp;feliz,&amp;nbsp;pois de forma rápida, ele consegue criar novas páginas, postagens, atualizando por conta própria o conteúdo. Mas atualmente, o&amp;nbsp;front-end não precisa mais desta dependência:&amp;nbsp;ele pode usar o WordPress.
+Ok, mas o WordPress usa PHP, uma&amp;nbsp;linguagem back-end, correto?
+Sim, mas isto não é impede de tornar a ferramenta facilmente configurável, mesmo que você não entenda de linguagens de programação.</description>
+    </item>
+    
+    <item>
+      <title>O mercado de desenvolvimento front-end</title>
+      <link>http://localhost/jhonny-roger/public/pensamentos-sobre-o-mercado-de-desenvolvimento-front-end/</link>
+      <pubDate>Thu, 14 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/pensamentos-sobre-o-mercado-de-desenvolvimento-front-end/</guid>
+      <description>Você já deve ter notado que o mercado cresceu demais nos últimos anos. De repente, codificar HTML virou a coisa mais importante do mundo e saber JavaScript transforma você automaticamente em um rockstar.
+O interesse das empresas também aumentou bastante. Empresas gringas tem buscado desesperadamente profissionais no mundo todo, inclusive no Brasil. Hoje não é muito difícil ir trabalhar em Amsterdam ou em Bangkok. A mão de obra nestes países está bem escassa.</description>
+    </item>
+    
+    <item>
+      <title>Palestra sobre como se tornar um dev front-end</title>
+      <link>http://localhost/jhonny-roger/public/palestra-sobre-como-se-tornar-um-dev-front-end/</link>
+      <pubDate>Thu, 24 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/palestra-sobre-como-se-tornar-um-dev-front-end/</guid>
+      <description>Fiz um artigo há um tempo atrás escrevi um artigo sobre como se tornar um desenvolvedor front-end. Fiz uma palestra em Florianópolis estes dias e transformei este artigo em uma apresentação. Não deixe de ler o artigo, lá tem mais detalhes do que apenas a palestra. Veja os slides abaixo:
+ O que você precisa saber para se tornar um dev front-end  from Diego Eis  </description>
+    </item>
+    
+    <item>
+      <title>Qual a dose certa de JavaScript</title>
+      <link>http://localhost/jhonny-roger/public/qual-dose-certa-de-javascript/</link>
+      <pubDate>Mon, 03 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/qual-dose-certa-de-javascript/</guid>
+      <description>Para uma linguagem de programação que começou de maneira tão despretensiosa, o JavaScript ganhou muito espaço. É bem verdade que alguns navegadores não dão suporte à linguagem, mas estes possuem propósitos particulares ou estacionaram em alguma era que não esta.
+O navegador Chrome deve muito da sua popularidade pela rapidez com que interpreta JavaScript e a Mozilla há pouco removeu a opção de desabilitar a linguagem no Firefox. Os fabricantes de navegadores bem sabem, querendo ou não, a internet como conhecemos tem o JavaScript como uma de suas principais dependências.</description>
+    </item>
+    
+    <item>
+      <title>Wintersmith: Outro gerador de conteúdo estático</title>
+      <link>http://localhost/jhonny-roger/public/wintersmith-aprendendo-outro-gerador-de-conteudo-estatico/</link>
+      <pubDate>Wed, 15 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/wintersmith-aprendendo-outro-gerador-de-conteudo-estatico/</guid>
+      <description>Primeiro, o que são os Geradores de Conteúdos Estáticos? Diferente de plataformas como WordPress, Joomla e etc., os geradores de conteúdo estáticos servem para criar páginas de conteúdo sem a utilização de qualquer persistência ou dependência server-side, onde ao final, você possui um pacote de arquivos html e seus companheiros (css,javascript,imagens&amp;#8230;).
+O Tableless tem um artigo sobre Jekyll, outro gerador de conteúdo estático. O Jekyll é usado pelo pessoal do Bootstrap.</description>
+    </item>
+    
+    <item>
+      <title>Como se tornar um dev front-end</title>
+      <link>http://localhost/jhonny-roger/public/tornar-dev-front-end/</link>
+      <pubDate>Wed, 09 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tornar-dev-front-end/</guid>
+      <description>Esse artigo inspirou um livro, mais completo, com mais assuntos e detalhes. Olha só: Guia Front-end.
+Estava navegando por aí e acabei encontrando um artigo bem legal do Leandro Oriente, que fala sobre um assunto muito interessante e que sempre me perguntam por aí. Decidi então escrever minha versão do artigo, colocando meus pontos de vista sobre como se tornar um desenvolvedor front-end.
+Entrar na área de front-end é algo muito fácil.</description>
+    </item>
+    
+    <item>
+      <title>Tableless Conference 2 – versão 2013</title>
+      <link>http://localhost/jhonny-roger/public/tableless-conference-2-versao-2013/</link>
+      <pubDate>Mon, 25 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tableless-conference-2-versao-2013/</guid>
+      <description>O desenvolvimento front-end está na moda. Isso pode ser bom e ruim ao mesmo tempo. O Tableless Conference deste ano vai abordar assuntos pertinentes a design, UX e desenvolvimento móvel. Também falaremos sobre comportamento e como deve ser suas atitudes em um mercado onde nem Back-ends nem Designers sabem lidar com profissionais de front-end. Vai ser interessante para que você entenda melhor como se encaixar na equipe de forma que você seja um agente de mudança.</description>
+    </item>
+    
+    <item>
+      <title>Front-end, UX e Back-end</title>
+      <link>http://localhost/jhonny-roger/public/front-end-ux-e-back-end/</link>
+      <pubDate>Wed, 16 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/front-end-ux-e-back-end/</guid>
+      <description>“One of the reasons for poor design execution is that UX teams need to own more than just design. We need to own front-end development.”
+ Frase sensacional em um artigo do site UXMatters, um dos melhores sites sobre experiência do usuário e arquitetura de informação que tenho nas minhas leituras regulares.
+Os designers para web precisam muito aprender a linguagem com que seus layouts serão codificados. Na minha opinião é estranho um designer para web não entender HTML e CSS, pelo menos o básico, o suficiente.</description>
+    </item>
+    
+    <item>
+      <title>Eventos Front-end que você não pode perder em 2012 – parte 2</title>
+      <link>http://localhost/jhonny-roger/public/eventos-front-end-que-voce-nao-pode-perder-em-2012-parte-2/</link>
+      <pubDate>Mon, 22 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/eventos-front-end-que-voce-nao-pode-perder-em-2012-parte-2/</guid>
+      <description>O ano de 2012 foi um dos mais &amp;#8220;recheados&amp;#8221; de eventos para desenvolvedores front-end e o destaque fica por conta das franquias regionais que vêm surgindo fora dos eixos das capitais como forma de atender a demandas locais. Quem mora nas cidades do interior, independente do estado, percebe que, muitas vezes, para comparecer a grandes eventos, é preciso se deslocar a cidades maiores, o que nem sempre é possível por questões de tempo e custo.</description>
+    </item>
+    
+    <item>
+      <title>O Front-end auxiliando o Marketing Digital</title>
+      <link>http://localhost/jhonny-roger/public/o-front-end-auxiliando-o-marketing-digital/</link>
+      <pubDate>Sun, 30 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-front-end-auxiliando-o-marketing-digital/</guid>
+      <description>Aos desenvolvedores front-ends, que trabalham em agências que possuem a área de Marketing Digital, saiba que vocês podem ser muito úteis para esses profissionais.
+Nesse post resolvi escrever sobre criação de um app simples e deixá-lo como Aba Personalizada dentro de uma Página do Facebook, gerando insights (dados estatísticos) para a equipe de Marketing Digital, pois assim fica mais fácil para criar estratégias e mensurar os resultados gerados pela própria rede social.</description>
+    </item>
+    
+    <item>
+      <title>Estruturação de front-end – Parte 2: Designers e Programadores</title>
+      <link>http://localhost/jhonny-roger/public/estruturacao-de-client-side-designers-e-programadores-parte-2/</link>
+      <pubDate>Mon, 14 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/estruturacao-de-client-side-designers-e-programadores-parte-2/</guid>
+      <description>Se dividirmos as áreas de desenvolvimento, chegaremos a 3 grandes grupos, totalmente distintos que são: designers, programadores e nós, front-end.
+Nós estamos no meio dos dois grupos. Nós nos relacionamos diretamente com os dois profissionais, fazendo uma ponte e tentando adequar as necessidades de cada um durante o projeto. E é aí que entra o problema.
+Os dois mundos são totalmente diferentes. O designer se preocupa em deixar o sistema lindo, maravilhoso, fácil de usar, vendável e etc.</description>
+    </item>
+    
+    <item>
+      <title>Drops 5 – Responsabilidade Dev Front-end</title>
+      <link>http://localhost/jhonny-roger/public/drops-5-responsabilidade-dev-front-end/</link>
+      <pubDate>Wed, 20 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/drops-5-responsabilidade-dev-front-end/</guid>
+      <description>Qual a responsabilidade do desenvolvedor front-end? Ele precisa ser designer? Tem que aprender a programar?
+Se preferir faça o download do arquivo em Mp3 ou OGA.  Veja todos os nossos drops no Soundcloud.
+Se preferir faça o download do arquivo em Mp3 ou OGA. Ou inscreva no iTunes. Feed direto dos Podcasts.</description>
+    </item>
+    
+  </channel>
+</rss>

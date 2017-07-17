@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Humble Bundle on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/humble-bundle/</link>
+    <description>Recent content in Humble Bundle on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 20 Oct 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/humble-bundle/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Humble Mozilla Bundle</title>
+      <link>http://localhost/jhonny-roger/public/humble-mozilla-bundle/</link>
+      <pubDate>Mon, 20 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/humble-mozilla-bundle/</guid>
+      <description>Você já deve conhecer o Humble Bundle, um site que junta jogos e apps e os vende por um preço baratíssimo, onde você doa qualquer quantia para ter acesso a jogos selecionados. Se você doar um pouco mais do que a média você ganha jogos adicionais exclusivos. O Humble Bundle da vez é da Mozilla, onde um pacote de indie games, que eram jogados via desktops, agora podem ser jogados diretamente do sue browser.</description>
+    </item>
+    
+  </channel>
+</rss>

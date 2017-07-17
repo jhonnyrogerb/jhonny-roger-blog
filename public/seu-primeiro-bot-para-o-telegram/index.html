@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245837">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>Os BOTS de chats hoje já são uma realidade, eles já estão presentes nos aplicativos de mensagens do seu celular, e com certeza você já ficou curioso em como alguns deles são desenvolvidos. Nesse artigo, vamos mostrar o desenvolvimento de um BOT muito simples utilizando a API do Telegram.</p>
+
+<p>Artigo adaptado de <a href="https://github.com/suissa/bot-telegram">Bot Telegram</a></p>
+
+<h2 id="criando-o-seu-bot">Criando o seu BOT</h2>
+
+<p>Para esse simples exemplo será utilizado o JavaScript na plataforma NodeJS em conjunto com a API do Telegram, caso você não esteja familiarizado com essa plataforma, você pode conferir esse ótimo artigo aqui do Tableless <a href="https://tableless.com.br/como-instalar-node-js-no-linux-corretamente-ubuntu-debian-elementary-os/">Como instalar Node.js no Linux corretamente</a></p>
+
+<p>Execute o seguinte comando no terminal/prompt de comando, para fazer a instalação da API do Telegram:</p>
+
+<pre><code>npm install node-telegram-bot-api --save
+</code></pre>
+
+<p>Depois, vamos incluir o mesmo em nosso index.js da seguinte forma:</p>
+
+<pre><code class="language-js">const TelegramBot = require( `node-telegram-bot-api` )
+
+const TOKEN = `SEU TOKEN`
+
+const bot = new TelegramBot( TOKEN, { polling: true } )
+</code></pre>
+
+<h2 id="gerando-o-token">Gerando o Token</h2>
+
+<p>Para gerar o nosso token, será necessário falar com o <a href="https://telegram.me/botfather">@BotFather</a></p>
+
+<p><img src="http://i.imgur.com/3dvVOwT.png" alt="@BotFather" /></p>
+
+<p>Execute o seguinte comando: <code>/newbot</code> e siga as instruções:</p>
+
+<p><img src="http://i.imgur.com/q5GsuRY.png" alt="Criando o Bot" /></p>
+
+<p>Agora, vou incluir o token na minha configuração:</p>
+
+<pre><code class="language-js">const TelegramBot = require( `node-telegram-bot-api` )
+
+const TOKEN = `373045955:AAGvpCeqMocpkDgrdqjebqK5ZiV24vDifZU`
+
+const bot = new TelegramBot( TOKEN, { polling: true } )
+</code></pre>
+
+<h2 id="entenda-como-o-bot-funciona">Entenda como o BOT funciona</h2>
+
+<p>Agora que já temos o nosso BOT configurado, vamos entender um pouco como ele funciona. Vamos começar criando o comando mais básico que ele possa entender.</p>
+
+<pre><code class="language-js">bot.on('message', function(msg){
+  console.log('msg', msg)
+})
+</code></pre>
+
+<p>Inicie o nosso BOT com o seguinte comando:</p>
+
+<pre><code>node index.js
+</code></pre>
+
+<p>Abra a conversa com o seu BOT e digite alguma mensagem para ele da seguinte forma:</p>
+
+<p><img src="http://i.imgur.com/nocVBto.png" alt="Falando com o Bot" /></p>
+
+<p>O resultado no console do Node será o seguinte:</p>
+
+<pre><code>{ message_id: 2,
+  from:
+   { id: 77586615,
+     first_name: 'Rafael',
+     last_name: 'Vicio',
+     username: 'rafaelvicio' },
+  chat:
+   { id: 77586615,
+     first_name: 'Rafael',
+     last_name: 'Vicio',
+     username: 'rafaelvicio',
+     type: 'private' },
+  date: 1492093704,
+  text: 'Ola Bot!' }
+}
+</code></pre>
+
+<p>Com essa estrutura você consegue perceber algumas informações importantes, como quem mandou, o que mandou, entre outras informações.</p>
+
+<h2 id="criando-o-seu-primeiro-comando">Criando o seu primeiro comando</h2>
+
+<p>O BOT trabalha escutando alguns eventos, para esse simples BOT, nós vamos trabalhar apenas com um comando básico, que escuta as mensagens enviadas pelo chat e retorna a mesma mensagem para quem enviou.</p>
+
+<p>Para isso, vamos utilizar o evento onText, que, como você deve estar imaginando, escuta os textos enviados nas mensagens.</p>
+
+<p>Para mais detalhes sobre os de eventos suportados, você pode consultar a documentação da API: <a href="https://github.com/yagop/node-telegram-bot-api/blob/master/doc/usage.md">Usage - node-telegram-bot-api</a></p>
+
+<p>Um detalhe desse evento é que ele recebe como primeiro parâmetro uma RegEx, o que nos permite verificar o texto enviado. Vamos ao exemplo:</p>
+
+<pre><code class="language-js">bot.onText( /\/echo (.*)/, function(msg, match){
+  console.log( `echo msg: `, msg )
+  console.log( `echo match: `, match )
+})
+</code></pre>
+
+<p>Rodando a aplicação novamente, e enviando a mensagem &lsquo;/echo oi&rsquo; para o BOT, temos o seguinte retorno:</p>
+
+<pre><code>echo msg:  { message_id: 7,
+  from:
+   { id: 77586615,
+     first_name: 'Rafael',
+     last_name: 'Vicio',
+     username: 'rafaelvicio' },
+  chat:
+   { id: 77586615,
+     first_name: 'Rafael',
+     last_name: 'Vicio',
+     username: 'rafaelvicio',
+     type: 'private' },
+  date: 1492093704,
+  text: '/echo oi',
+  entities: [ { type: 'bot_command', offset: 0, length: 5 } ] }
+
+echo match:  [ '/echo oi',
+  'oi',
+  index: 0,
+  input: '/echo oi' ]
+</code></pre>
+
+<p>A estrutura do &lsquo;msg&rsquo; já foi apresentada a você anteriormente, agora fique atento a estrutura do objeto match:</p>
+
+<pre><code>echo match:  [ '/echo oi',
+  'oi',
+  index: 0,
+  input: '/echo oi' ]
+</code></pre>
+
+<p>Ele é simplesmente um array que contém o resultado do match testando a mensagem recebida com a RegEx que foi definida no onText.</p>
+
+<p>Com isso podemos identificar o que está em cada posição do array:</p>
+
+<ul>
+<li>na posiçao 0: temos o valor total do texto</li>
+<li>na posiçao 1: o texto sem a RegEx</li>
+<li>na posiçao 2: o índice onde foi encontrada a RegEx</li>
+<li>na posiçao 3: a entrada</li>
+</ul>
+
+<p>Como o objetivo do comando /echo é responder com o mesmo texto enviado, o que nos interessa é o item na posição 1 desse array.</p>
+
+<p>Para fazer o BOT enviar uma mensagem, vamos utilizar a função bot.sendMessage, da seguinte maneira:</p>
+
+<pre><code class="language-js">bot.sendMessage( id, text )
+</code></pre>
+
+<p>Portanto, nosso código funciona da seguinte forma:</p>
+
+<pre><code class="language-js">var logErrorEcho = function logErrorEcho(msg) {
+  return function (err) {
+    return console.log(msg, err);
+  };
+};
+
+var logSuccessEcho = function(msg, match){
+  return function(data){
+    console.log( 'Success:', data);
+  };
+};
+
+var sendEcho = function(msg, match){
+  bot.sendMessage( msg.chat.id, match[ 1 ] )
+      .then( logSuccessEcho( msg, match ) )
+      .catch( logErrorEcho( 'Error:') );
+};
+
+bot.onText( /\/echo (.*)/, sendEcho);
+</code></pre>
+
+<p>Com isso, o seu BOT vai ter a função /echo que funciona da seguinte forma:</p>
+
+<p><img src="http://i.imgur.com/nocVBto.png" alt="Comando /echo" /></p>
+
+<p>O código desse projeto está disponível no <a href="https://github.com/rafaelvicio/primeiro-bot">GitHub</a> do autor.</p>
+
+<p>Aos interessados em continuar os estudos sobre esse assunto, junte-se ao nosso <a href="https://t.me/brbotdevs">grupo no Telegram</a>.</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/indo-alem-no-react-native//?utm_source=tablelessRelatedLin">Indo além no Mundo React-Native</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/paginas_acessiveis_hatemile//?utm_source=tablelessRelatedLin">Páginas acessíveis com o HaTeMiLe</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245837"></script>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elementos De Interface on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/elementos-de-interface/</link>
+    <description>Recent content in Elementos De Interface on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 09 May 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/elementos-de-interface/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Elementos de interface utilizando apenas CSS3</title>
+      <link>http://localhost/jhonny-roger/public/elementos-de-interface-utilizando-apenas-css3/</link>
+      <pubDate>Thu, 09 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/elementos-de-interface-utilizando-apenas-css3/</guid>
+      <description>Se por um lado está na hora de você parar de usar jQuery para tudo e investir mais em códigos JavaScript, por outro já é possível criar elementos animados e interativos utilizando apenas CSS3.
+É claro que você vai precisar abrir mão de efeitos em navegadores antigos (ou, na maioria dos casos, da implementação inteira). É claro também que as implementações são até certo ponto limitadas em comparação a plugins e bibliotecas JavaScript, mas dão um show em performance e otimização.</description>
+    </item>
+    
+  </channel>
+</rss>

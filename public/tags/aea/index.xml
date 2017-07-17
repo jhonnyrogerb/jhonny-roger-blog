@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aea on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/aea/</link>
+    <description>Recent content in Aea on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 30 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/aea/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Event Apart Boston 2014</title>
+      <link>http://localhost/jhonny-roger/public/event-apart-boston-2014/</link>
+      <pubDate>Wed, 30 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/event-apart-boston-2014/</guid>
+      <description>Eu fui para Boston (agradecimentos à Locaweb) no início da semana para acompanhar o An Event Apart Boston. Para quem não manja, o An Event Apart é um dos maiores e melhores eventos sobre front-end e web design que existem atualmente. Quem faz o evento? Simplesmente o Jeffrey Zeldman e o Eric Meyer. Se você não conhece qualquer um dos dois, sinta-se envergonhado. 😉
+ An Event Apart is an intensely educational two-day learning session for passionate practitioners of standards-based web design.</description>
+    </item>
+    
+  </channel>
+</rss>

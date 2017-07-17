@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Back End on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/categories/back-end/</link>
+    <description>Recent content in Back End on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 06 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/categories/back-end/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Teste de carga em APIs utilizando Artillery</title>
+      <link>http://localhost/jhonny-roger/public/teste-de-carga-em-apis-utilizando-artillery/</link>
+      <pubDate>Mon, 06 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/teste-de-carga-em-apis-utilizando-artillery/</guid>
+      <description>Independente do produto que você esteja criando, é sempre importante assegurar a qualidade do mesmo fazendo uma bateria de testes antes de colocar no mercado. Se tratando de desenvolvimento de software, existem algumas métricas que são essenciais para deixar claro para todos os envolvidos no projeto, incluindo seus usuários, o quanto determinado sistema/aplicativo é confiável para suportar o uso do público.
+Dentro da área de qualidade de software, existem diversos tipos de testes que visam atingir o objetivo citado acima, de mostrar a todos que o produto é estável e robusto, alguns deles: teste de integração, teste unitário, teste de penetração, teste de regressão e por aí vai.</description>
+    </item>
+    
+    <item>
+      <title>Silex 2 &amp; Middlewares 101 – Parte 02</title>
+      <link>http://localhost/jhonny-roger/public/silex-2-middlewares-101-parte-02/</link>
+      <pubDate>Sun, 19 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/silex-2-middlewares-101-parte-02/</guid>
+      <description>Estamos de volta com mais um post da série sobre o micro-framework Silex! Desta vez, vamos fazer uma parada para atualizar a versão do nosso micro-framework, para versão 2.*!
+A partir deste post vamos escrever baseada nesta versão e falaremos ao longo de cada post, sobre as principais diferenças em relação as versões passadas! Vamos lá!
+Silex 2 Uma das grandes mudanças do micro-framework, foi o seu componente de Dependency Injection, o Pimple.</description>
+    </item>
+    
+    <item>
+      <title>Adicionando SSL no NGINX com o Let’s Encrypt</title>
+      <link>http://localhost/jhonny-roger/public/adicionando-ssl-no-nginx-com-o-lets-encrypt/</link>
+      <pubDate>Fri, 02 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/adicionando-ssl-no-nginx-com-o-lets-encrypt/</guid>
+      <description>O Let&amp;#8217;s Encrypt é uma forma fácil, automatizada e gratuita de se inserir SSL em uma aplicação web. A utilização do SSL é bem importante quando se há autenticação, tráfego de dados privados ou até mesmo para ser melhor colocado no ranking do Google.
+Neste artigo vou demonstrar como gerar e adicionar o SSL no NGINX com a ferramenta Let&amp;#8217;s Encrypt. Irei utilizar o sistema operacional Debian para executar os comandos, mas estes podem ser facilmente modificados para serem executados em qualquer distro.</description>
+    </item>
+    
+    <item>
+      <title>Features que sua API REST precisa ter desde o início</title>
+      <link>http://localhost/jhonny-roger/public/features-que-sua-api-rest-precisa-ter-desde-o-inicio/</link>
+      <pubDate>Thu, 17 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/features-que-sua-api-rest-precisa-ter-desde-o-inicio/</guid>
+      <description>Eu tenho trabalhado com dados suavemente flutuando através do protocolo http por um tempo e agora eu tenho esse sentimento altruísta de que eu posso contribuir com os desenvolvedores mais jovens com algumas histórias sobre os desafios que enfrentei durante a minha jornada.
+Este artigo basicamente tem o objetivo de listar e discutir sobre alguns pontos importantes que sua API, possivelmente, poderia abraçar desde o início do projeto, a fim de acelerar o processo de desenvolvimento para todos em sua equipe.</description>
+    </item>
+    
+    <item>
+      <title>Criando aplicações portáveis entre diferentes SGBDs usando PDO(PHP Data Objects)</title>
+      <link>http://localhost/jhonny-roger/public/criando-aplicacoes-portaveis-entre-diferentes-sgbds-usando-pdophp-data-objects/</link>
+      <pubDate>Mon, 26 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-aplicacoes-portaveis-entre-diferentes-sgbds-usando-pdophp-data-objects/</guid>
+      <description>Quero apresentar nesse artigo as principais funcionalidades do PDO. PDO é uma biblioteca que implementa abstração ao acesso dos dados, ou seja, ela utiliza um driver específico, para cada SGBD (Sistema Gerenciador de Banco de Dados), tornando possível a portabilidade da base de dados de sua aplicação, sem que a mesma sofra danos ou que você passe horas e horas reescrevendo linhas e mais linhas de código.
+O primeiro passo é habilitar o driver do PDO no php.</description>
+    </item>
+    
+    <item>
+      <title>Upload de imagens desmistificado com simpleGallery.js</title>
+      <link>http://localhost/jhonny-roger/public/upload-de-imagens-desmistificado-com-simplegallery-js/</link>
+      <pubDate>Wed, 07 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/upload-de-imagens-desmistificado-com-simplegallery-js/</guid>
+      <description>Olá pessoal, tudo bem?
+Neste artigo vou procurar abordar algo comum no dia-a-dia de qualquer desenvolver, o &amp;#8220;temido&amp;#8221; upload de imagens. No processo utilizarei NodeJS e Express para o back-end. A grande sacada será a utilização da lib simpleGallery.js, que nos auxiliará no front-end.
+Passos iniciais.. A seguir criaremos um servidor bem simples. Utilizarei o package &amp;#8220;Multer&amp;#8221; como middleware para as requisições de arquivo. Não vou prezar por segurança nem boas práticas, já que este artigo é apenas para encorajar aqueles que ainda possuem dificuldades.</description>
+    </item>
+    
+    <item>
+      <title>Construindo uma página com login no JSF</title>
+      <link>http://localhost/jhonny-roger/public/construindo-uma-pagina-com-login-no-jsf/</link>
+      <pubDate>Tue, 06 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/construindo-uma-pagina-com-login-no-jsf/</guid>
+      <description>Neste post vou falar sobre um assunto um pouco trivial e que qualquer iniciante no framework JSF pode se perder: As fases do JSF e onde interceptar a navegação para que o usuário realize a autenticação.
+É importante que você saiba o que é JSF e como configurá-lo em seu editor, aqui estarei utilizando o Eclipse, caso não saiba como configurar em seu editor, ao final, deixarei alguns links para lhe ajudar.</description>
+    </item>
+    
+    <item>
+      <title>JPA de A à Z – Por que conhecer?</title>
+      <link>http://localhost/jhonny-roger/public/jpa-de-z-por-que-conhecer/</link>
+      <pubDate>Tue, 30 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/jpa-de-z-por-que-conhecer/</guid>
+      <description>Não dá pra negar que o Java é uma linguagem bastante verbosa e quando falávamos em juntar o Java com um banco de dados ai sim dava pra ver o tamanho do problema.
+Se não tivéssemos cuidado era muito fácil perder o controle da complexidade de nossas entidades e consultas.
+Antes de entendermos sobre a JPA, é necessário entender que costumávamos utilizar em nossos projetos o JDBC (Java Database Connectivity) que é uma API presente no Java desde a versão 1.</description>
+    </item>
+    
+    <item>
+      <title>Você sabe paginar dados no MySQL corretamente?</title>
+      <link>http://localhost/jhonny-roger/public/voce-sabe-paginar-dados-no-mysql-corretamente/</link>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/voce-sabe-paginar-dados-no-mysql-corretamente/</guid>
+      <description>Esta postagem já começa com uma pergunta: Será que sabemos realmente fazer uma paginação de dados da forma correta?
+ ATENÇÃO! Não irei falar do uso de nenhum framework PHP, bibliotecas de ORM ou plugins em JavaScript. Irei tratar sobre a consulta ao banco de dados, somente.  &amp;nbsp;
+Talvez você conheça esta funcionalidade do MySQL, e talvez até comentará que isto é algo &amp;#8220;muito básico&amp;#8221;, mas vale lembrar: &amp;#8220;Nem todos sabem de tudo.</description>
+    </item>
+    
+    <item>
+      <title>Vulnerabilidades em Sistemas Web</title>
+      <link>http://localhost/jhonny-roger/public/vulnerabilidades-em-sistemas-web/</link>
+      <pubDate>Mon, 11 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/vulnerabilidades-em-sistemas-web/</guid>
+      <description>O que são vulnerabilidades em sistemas web? Vulnerabilidades em sistemas web são uma realidade cada vez mais crescente na internet. Primeiro deixem-me explicar rapidamente como funciona a comunicação entre o browser e o servidor web. Sistemas web funcionam com uma dupla muito conhecida neste ramo: requisição e resposta.
+A requisição se origina do lado do usuário (pelo Chrome, IE, Firefox, Safari, cURL, etc) composta de elementos como header, URL, método, parâmetros, cookies, etc.</description>
+    </item>
+    
+    <item>
+      <title>Por que utilizar Go/Golang no seu backend?</title>
+      <link>http://localhost/jhonny-roger/public/por-que-utilizar-gogolang-no-seu-backend/</link>
+      <pubDate>Tue, 28 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/por-que-utilizar-gogolang-no-seu-backend/</guid>
+      <description>O tempo passa e quando você é viciado no que faz, no meu caso, codar, a busca por se aprimorar ou descobrir novas maneiras de resolver os problemas da sua área nunca param, assim sendo, um belo dia, cheguei até o Go e desde então não parei mais de aprender sobre a linguagem. A ideia é a cada semana fazer um post sobre, iniciando agora com uma simples introdução e sugestões de artigos para se animar.</description>
+    </item>
+    
+    <item>
+      <title>Silex Middlewares 101 – Parte 1</title>
+      <link>http://localhost/jhonny-roger/public/silex-middlewares-101-parte-1/</link>
+      <pubDate>Sun, 26 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/silex-middlewares-101-parte-1/</guid>
+      <description>Fala pessoal! Tudo bem? Espero que sim! Depois de uma longa temporada retorno com mais este post sobre o micro-framework Silex! Desta vez abordarei o uso dos middlewares no mesmo.
+Middlewares Os middlewares no Silex são utilizados para mudar o comportamento padrão do mesmo, os middlewares se mostram muito úteis quando pensamos na validação de tokens de acesso, save de logs e muitas outras tarefas. Basicamente temos dois tipos de middlewares, os de aplicação e os de rota.</description>
+    </item>
+    
+    <item>
+      <title>JPA Hibernate – Como funciona a anotação @version?</title>
+      <link>http://localhost/jhonny-roger/public/hibernate-como-funciona-anotacao-version/</link>
+      <pubDate>Sun, 19 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/hibernate-como-funciona-anotacao-version/</guid>
+      <description>Recentemente um colega de trabalho me perguntou qual era função da anotação @version presente nas entidades aqui do projeto. Achei interessante essa pergunta e resolvi fazer da resposta o meu primeiro post no blog.
+Para responder essa de pergunta temos que lembrar que todo banco de dados possui um controle de concorrência entre transações (se necessário solicitem nos comentários que faço um post explicando a fundo sobre isso). Para esse post só precisamos conhecer o método de controle Optimistic concurrency control (controle de concorrência otimista).</description>
+    </item>
+    
+    <item>
+      <title>Criando aplicações CLI utilizando Node.js</title>
+      <link>http://localhost/jhonny-roger/public/criando-aplicacoes-cli-utilizando-node-js/</link>
+      <pubDate>Tue, 03 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-aplicacoes-cli-utilizando-node-js/</guid>
+      <description>Introdução As aplicações que se utilizam da linha de comando do Sistema Operacional são comumente chamadas de CLI Applications ou Command-Line Interface Applications. O que isto quer dizer? Estas aplicações só sofrerão alguma interação caso ela seja feita através de um Shell (BASH, DOS, ZSH, entre outros), mediante entrada de texto.
+Este tipo de aplicação é contrária as GUI Applications ou Graphical User Interface Applications, que permitem o usuário interagir com a aplicação através de ícones, disposição dos elementos na tela, utilizando-se do Mouse para isto.</description>
+    </item>
+    
+    <item>
+      <title>Consumo eficiente de recursos computacionais de servidores de aplicação web com Node.js</title>
+      <link>http://localhost/jhonny-roger/public/consumo-eficiente-de-recursos-computacionais-de-servidores-de-aplicacao-web-com-node-js/</link>
+      <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/consumo-eficiente-de-recursos-computacionais-de-servidores-de-aplicacao-web-com-node-js/</guid>
+      <description>INTRODUÇÃO Nos últimos anos, houve um considerável crescimento do número de usuários e volume de dados na Internet. Em 2014, cerca de 3 bilhões de pessoas no mundo usavam a internet e 43.6% das residências em todo mundo possuíam algum forma de acesso a grande rede. Os sites de redes sociais têm registrado, ao longo dos anos, um crescimento exponencial, o Facebook, por exemplo, possuía no final de 2013, 1,3 bilhões de usuários ativos, enquanto o Twitter, maior microblog internacional, registrava, na mesma época, 646 milhões de usuários ativos, responsáveis por 58 milhões de tweets postados diariamente (ITU, 2014).</description>
+    </item>
+    
+    <item>
+      <title>MySQL Essencial (parte 1)</title>
+      <link>http://localhost/jhonny-roger/public/mysql-essencial-parte-1/</link>
+      <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/mysql-essencial-parte-1/</guid>
+      <description>O inicio e quem usa o MySQL O MySQL é um sistema relacional de gerenciamento de banco de dados de código aberto, que utiliza o SQL (Linguagem de consulta estruturada) como interface, é atualmente um dos bancos de dados mais populares na internet, mais de 10 milhões de instalações pelo mundo inteiro. Em Julho de 2013, foi considerado o segundo banco mais utilizado do mundo.
+Criado na Suécia por David Axmark, Allan Larsson e Michael &amp;#8220;Monty&amp;#8221; Widenius, a primeira versão surgiu em 23 de Maio de 1995.</description>
+    </item>
+    
+    <item>
+      <title>Novidade PHP 7 – Operador Null Coalesce</title>
+      <link>http://localhost/jhonny-roger/public/novidade-php-7-operador-null-coalesce/</link>
+      <pubDate>Fri, 19 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/novidade-php-7-operador-null-coalesce/</guid>
+      <description>Estou começando a estudar as features do PHP 7 e paralelamente irei escrever sobre elas. A primeira feature que vou falar é sobre o operador Null Coalescing.
+Este operador já existia em outras linguagens, como C# e Pearl. Eu achei muito interessante como ele melhora a legibilidade do código na checagem de variáveis.
+A lógica do operador é a seguinte: retornar o primeiro valor que exista e não seja nulo dentre os valores passados.</description>
+    </item>
+    
+    <item>
+      <title>Constant Array no PHP 7</title>
+      <link>http://localhost/jhonny-roger/public/constant-array-no-php-7/</link>
+      <pubDate>Thu, 18 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/constant-array-no-php-7/</guid>
+      <description>&lt;p&gt;Até o lançamento da versão do PHP 7, só era possível criar constantes com dados do tipo &lt;em&gt;inteiro&lt;/em&gt;, &lt;em&gt;float&lt;/em&gt;, &lt;em&gt;string&lt;/em&gt;, &lt;em&gt;boolean&lt;/em&gt;, ou &lt;em&gt;NULL&lt;/em&gt;, mas com o PHP 7 agora é possível criar constantes do tipo &lt;em&gt;array&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Instalando Laravel 5.2</title>
+      <link>http://localhost/jhonny-roger/public/instalando-laravel-5-2/</link>
+      <pubDate>Wed, 13 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/instalando-laravel-5-2/</guid>
+      <description>Neste artigo irei demonstrar como instalar e começar a utilizar o Laravel 5.2, framework que vem ganhando visibilidade no mercado.
+O que iremos utilizar: Composer   Requisitos do servidor: PHP versão maior ou igual a 5.5.9;  OpenSSL PHP Extension;  PDO PHP Extension;  Mbstring PHP Extension;  Tokenizer PHP Extension;   Instalando o Composer Na pasta onde localiza-se a aplicação, abra o terminal e digite: #Caso tenha o Curl instalado curl -s https://getcomposer.</description>
+    </item>
+    
+    <item>
+      <title>Por que Python? (parte 2)</title>
+      <link>http://localhost/jhonny-roger/public/por-que-python-parte-2/</link>
+      <pubDate>Thu, 07 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/por-que-python-parte-2/</guid>
+      <description>Continuando meu artigo anterior, vou tentar mostrar alguns motivos porque, em minha opinião, é tão bom escrever código Python. E dessa vez vamos falar da sintaxe da linguagem e seus tipos de dados. As características e recursos da sintaxe tornam Python uma linguagem tão poderosa e produtiva. Veja os exemplos:
+Packing e Unpacking # encoding: utf-8 # Atribuindo três valores de uma vez a, b, c = 2, 3, 5 # Trocando o valor de duas variáveis: a, b = b, a # Uma função que retorna mais de um valor: def vizinhos(n): return n-1, n+1 # Executando a função acima e guardando os valores em duas variáveis: x, y = vizinhos(42) Sem sobrecarga de métodos Você pode escrever uma função que pode receber parâmetros opcionais assim:</description>
+    </item>
+    
+    <item>
+      <title>Usando GIT para atualizar arquivos no servidor de hospedagem II – Final</title>
+      <link>http://localhost/jhonny-roger/public/usando-git-para-atualizar-arquivos-no-servidor-de-hospedagem-ii-final/</link>
+      <pubDate>Thu, 19 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/usando-git-para-atualizar-arquivos-no-servidor-de-hospedagem-ii-final/</guid>
+      <description>Esta é a segunda e última parte do artigo que explica como fazer um esquema simples para deploy automático usando GIT + Bitbucket
+A mesma configuração pode ser usada em qualquer servidor GIT e qualquer serviço de hospedagem que tenha acesso via ssh e git instalado
+Se você ainda não leu a primeira parte, segue o link: http://tableless.com.br/usando-git-para-atualizar-arquivos-no-servidor-de-hospedagem
+No artigo anterior, criamos as chaves SSH para autenticação no Bitbucket, criamos um repositório GIT e manualmente executamos o comando | git pull | para atualizar o nosso repositório.</description>
+    </item>
+    
+    <item>
+      <title>10 Dicas Simples Para Acelerar Seu Site Até 278 Vezes</title>
+      <link>http://localhost/jhonny-roger/public/10-dicas-simples-para-acelerar-seu-site-ate-278-vezes/</link>
+      <pubDate>Sat, 07 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/10-dicas-simples-para-acelerar-seu-site-ate-278-vezes/</guid>
+      <description>Seu site é veloz?
+Você sabia que, quanto mais veloz for seu site, mais satisfeito seu visitante vai ficar?
+Isso é o que apontam algumas pesquisas realizadas pela Akamai e pela Gomez.com. Elas demonstraram que a satisfação do seu visitante com o seu site decai em 16% a cada 1 segundo a mais que ele aguarda pelo carregamento da página.
+As pesquisas também concluíram que os usuários esperam que os sites carreguem em 2 segundos ou menos, sendo que eles abandonariam páginas que levassem mais de 3 segundos para carregar.</description>
+    </item>
+    
+    <item>
+      <title>Criando seu próprio servidor HTTP do zero (ou quase) – Parte Final</title>
+      <link>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-final/</link>
+      <pubDate>Tue, 27 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-final/</guid>
+      <description>Os servidores HTTP são parte fundamental da Web como conhecemos, sendo responsáveis por fornecer todo o conteúdo que acessamos através de nossos navegadores. Durante esse tutorial, entenderemos como funciona a comunicação entre o navegador e o servidor e como a informação é entregue ao usuário.
+Caso não tenha acompanhado os últimos posts, recomendo que leia as Partes um, dois e três antes de prosseguir a leitura deste post.
+Essa é a última parte do tutorial, mas antes de prosseguir vamos recapitular o que vimos até agora então: Nós conhecemos o protocolo HTTP/1.</description>
+    </item>
+    
+    <item>
+      <title>Criando seu próprio servidor HTTP do zero (ou quase) – Parte III</title>
+      <link>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-iii/</link>
+      <pubDate>Mon, 05 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-iii/</guid>
+      <description>Estamos entrando na terceira parte do tutorial, e quem está acompanhando até aqui já sabe então como funciona a comunicação entre cliente e servidor, envio de requisição pelo cliente e recebimento de resposta (na duvida só voltar e releia a Parte I e/ou Parte II), porém o que a gente quer é criar o servidor, receber as requisições e enviar a resposta ao cliente.
+O Servidor A idéia do servidor é bem simples e estende a do cliente, como assim?</description>
+    </item>
+    
+    <item>
+      <title>Por que Python?</title>
+      <link>http://localhost/jhonny-roger/public/por-que-python/</link>
+      <pubDate>Tue, 29 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/por-que-python/</guid>
+      <description>Eu sou apaixonado por Python. Muito. Daquele tipo que fala de Python sempre que pode. E uma pergunta que sempre me fazem é: por quê? Vou tentar fazer uma lista dos motivos mais relevantes:
+1. É muito bom escrever código Python Geralmente, quando alguém cria uma linguagem de programação, tem em vista um objetivo. Por exemplo, Lisp foi escrita para programação funcional. Java foi escrita para que o mesmo código pudesse rodar em qualquer lugar.</description>
+    </item>
+    
+    <item>
+      <title>Criando seu próprio servidor HTTP do zero (ou quase) – Parte II</title>
+      <link>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-ii/</link>
+      <pubDate>Fri, 11 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-ii/</guid>
+      <description>Se chegou até aqui é por que você terminou de ler a primeira parte do tutorial (Caso não, leia a Parte I ), mas não desista, a parte legal vai chegar, mas antes de começar, falta mais um item de teoria &amp;#8211; sim eu sei que é chato, mas juro que é importante &amp;#8211; os Sockets.
+Sockets e portas Falamos muito de requisições e respostas no último post mas ainda não falamos de conexão e troca de informações.</description>
+    </item>
+    
+    <item>
+      <title>Criando seu próprio servidor HTTP do zero (ou quase) – Parte I</title>
+      <link>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-i/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-i/</guid>
+      <description>Sou apaixonado por tecnologias livres e como sou extremamente curioso, gosto de saber como as coisas funcionam. Como também sou cinestésico, não me contento em apenas em entender, tenho que criar, recriar, escrever, rescrever, inventar, reinventar, enfim sentir realmente como se faz. Nesse vai e vem de aprendizado, minha última curiosidade foi entender como os servidores HTTP funcionam e criar um do zero (ou pelo menos quase).
+É claro que para fazer isso eu não fui tão lá embaixo a ponto de utilizar C, utilizei da linguagem de programação da qual me sinto mais confortável e que já oferece algumas facilidades que em C teria que sangrar pra fazer o mesmo porém não impossível, mas enfim, optei por desenvolver em Java, os passos vou contar pra vocês aqui, mas utilizando os mesmo conceitos nada impede que utilize qualquer outra linguagem de programação.</description>
+    </item>
+    
+    <item>
+      <title>Teste automatizado de API com frisby e jasmine</title>
+      <link>http://localhost/jhonny-roger/public/teste-automatizado-de-api-com-frisby-e-jasmine/</link>
+      <pubDate>Thu, 27 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/teste-automatizado-de-api-com-frisby-e-jasmine/</guid>
+      <description>O Frisby é um framework para teste de API REST que roda em cima do nodejs. Seu principal apelo é a facilidade em se fazer testes automatizados de API com o apoio do framework de teste BDD jasmine.
+Instalação: Pré requisitos: nodejs, npm.
+1) jasmine-node. Instalação global.
+sudo npm install -g jasmine-node 2) frisby. Instalação local no projeto.
+sudo nam install --save-dev frisby Hello, World! Para o uso devemos instanciar seu módulo:</description>
+    </item>
+    
+    <item>
+      <title>O que há de novo no Rails 5</title>
+      <link>http://localhost/jhonny-roger/public/novidades-do-rails-5/</link>
+      <pubDate>Mon, 24 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/novidades-do-rails-5/</guid>
+      <description>O framework é o mais utilizado pelos desenvolvedores Ruby ao criar aplicações web e mantém a frequência de uma grande atualização a cada 2 anos. Vamos conferir um pouco destas novidades.
+Incorporando a gem rails-api Muitas aplicações Rails são criadas com objetivo de prover uma API para outros serviços/aplicações. A gem rails-api é famosa na comunidade por permitir a criação de aplicações Rails que descartam funcionalidades e aspectos desnecessários em uma API.</description>
+    </item>
+    
+    <item>
+      <title>Rotas dinâmicas no Silex</title>
+      <link>http://localhost/jhonny-roger/public/silex-rotas-dinamicas/</link>
+      <pubDate>Mon, 13 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/silex-rotas-dinamicas/</guid>
+      <description>Continuando nossa jornada sobre o Silex Framework, neste post falarei sobre rotas dinâmicas. Se você não está familiarizado com o Silex, confira nosso primeiro post _Conhecendo e instalando o Silex_.
+Rotas dinâmicas são a possibilidade de passar parâmetros nas rotas da sua aplicação. O Silex possui diversos métodos para facilitar o uso dessa dinâmica em suas rotas.
+Utilização Para tornar sua rota dinâmica, veja o código abaixo:
+&amp;lt;?php use Silex\Application; require &#39;vendor/autoload.</description>
+    </item>
+    
+    <item>
+      <title>Parse – Objetos na nuvem</title>
+      <link>http://localhost/jhonny-roger/public/parse-objetos-na-nuvem-2/</link>
+      <pubDate>Tue, 07 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/parse-objetos-na-nuvem-2/</guid>
+      <description>Alguns dias atrás eu estava estudando um projeto que deveria apresentar, relacionado a WebApps. Decidi a plataforma da minha apresentação, mas acrescentar algo mais.
+Eu tinha lido algumas coisas sobre um banco de dados que traria uma nova perspectiva aos desenvolvedores, facilitando seu acesso e fazendo suas conexões até por JavaScript (coisa que me intrigou bastante até começar a utilizá-lo), possibilitando leitura, gravação e consulta de dados. Foi aí que comecei a estudar sobre o Parse.</description>
+    </item>
+    
+    <item>
+      <title>7 funções essenciais do PHP que você deve conhecer</title>
+      <link>http://localhost/jhonny-roger/public/7-funcoes-essenciais-php-que-voce-deve-conhecer/</link>
+      <pubDate>Fri, 03 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/7-funcoes-essenciais-php-que-voce-deve-conhecer/</guid>
+      <description>range() Geralmente ao se fazer um &amp;#8220;loop&amp;#8220;, utiliza-se o _while _ou for. Ambas estruturas são ligeiramente &amp;#8220;feias&amp;#8221; ao visualizar o código. Uma boa alternativa é utilizar o foreach. Mas como fazer uma repetição, se o foreach trabalha com um array existente?
+No exemplo vamos fazer um loop de 5 posições, começando do número 1.
+&amp;lt;?php foreach (range(1,5) as $ordem) { print(&#39;Ordem : &#39;.$ordem.&#39;&amp;lt;br&amp;gt;&#39;); } //Resultado //Ordem: 1 //Ordem: 2 //Ordem: 3 //Ordem: 4 //Ordem: 5  array_unique() Diversas vezes nos deparamos com um array e valores duplicados.</description>
+    </item>
+    
+    <item>
+      <title>Conhecendo e instalando o Silex</title>
+      <link>http://localhost/jhonny-roger/public/conhecendo-e-instalando-o-silex/</link>
+      <pubDate>Tue, 30 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/conhecendo-e-instalando-o-silex/</guid>
+      <description>O Silex é um micro framework baseado nos componentes do Symfony. Foi desenvolvido por Fabien Potencier, o mesmo criador do Symfony.
+O Silex foi concebido para a criação de aplicações pequenas com foco na agilidade, extensibilidade e para ser facilmente testável. Ele provê um sistema de rotas muito poderoso, e se propõe a resolvê-las através dos Services e Providers, conceitos que veremos mais à frente. Você perceberá que ele é facilmente estendido e suas funcionalidades recebem uma vantagem através dessas integrações.</description>
+    </item>
+    
+    <item>
+      <title>Porque o Codeigniter ainda é uma boa opção</title>
+      <link>http://localhost/jhonny-roger/public/porque-codeigniter-ainda-e-uma-boa-opcao/</link>
+      <pubDate>Fri, 26 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/porque-codeigniter-ainda-e-uma-boa-opcao/</guid>
+      <description>O que é Codeigniter? O Codeigniter é um framework para desenvolvimento web baseado na arquitetura MVC. Se você não sabe o que significa MVC ou não entende bem o seu funcionamento poderá encontrar maiores informações neste post do Tableless.
+Este framework apresenta uma estrutura que lhe permite de forma rápida fazer uso de bibliotecas para ganhar tempo e aproveitar a reutilização de código. Entenda este framework como um kit de ferramentas que tornarão seu ambiente de desenvolvimento ainda mais rápido.</description>
+    </item>
+    
+    <item>
+      <title>Entendendo o padrão MVC na prática</title>
+      <link>http://localhost/jhonny-roger/public/entendendo-o-padrao-mvc-na-pratica/</link>
+      <pubDate>Thu, 25 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/entendendo-o-padrao-mvc-na-pratica/</guid>
+      <description>&lt;p&gt;Práticas modernas do PHP exigem estudo e preparação, e o padrão de projeto que merece muita atenção é o MVC. Muita gente conhece este padrão através dos &lt;em&gt;frameworks&lt;/em&gt; (isso não é um problema, eu mesmo estou neste grupo), mas ir a fundo é essencial para evitar erros e falar coisas como:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Seu MVC está errado, o &lt;em&gt;controller&lt;/em&gt; está maior que o &lt;em&gt;model&lt;/em&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Este erro de definição acontece pois em nenhum lugar está escrito que a quantidade de linhas define o padrão MVC, mas vamos entender isto melhor?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Formulário sem Model no CakePHP 3.x</title>
+      <link>http://localhost/jhonny-roger/public/formulario-sem-model-no-cakephp-3-x/</link>
+      <pubDate>Tue, 16 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/formulario-sem-model-no-cakephp-3-x/</guid>
+      <description>Requisitos do artigos:
+&amp;#8211; Ter o CakePHP 3 instalado ( Artigo de como instalar o Cakephp 3.x)
+O que aprenderemos:
+ Como trabalhar com formulários que não necessitam de um Model. Criar uma página de contato.  Formulários Na maioria das vezes, trabalhamos com formulários relacionados a um Model para persistir dados. Outras vezes precisamos validar os dados de um formulário onde não há persistência, como é no caso de um Formulário de Contato.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2 – Parte Final</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-final/</link>
+      <pubDate>Tue, 16 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-final/</guid>
+      <description>Chegamos ao final da nossa série sobre Symfony. Se você não leu os outros, no final do artigo há uma listagem com todos os artigos já publicados dessa série.
+No tutorial anterior, instalamos e configuramos o bundle StofDoctrineExtensionsBundle, para fazermos os slugs de nossos posts, agora vamos instalar e configurar o Bundle FOSUserBundle, para fazer a autenticação da área administrativa do nosso blog.
+Instalação do bundle FOSUserBundle. Para instalar o FOSUserBundle, temos que adicioná-lo em nosso composer.</description>
+    </item>
+    
+    <item>
+      <title>JAVA – Estruturas de Repetição</title>
+      <link>http://localhost/jhonny-roger/public/java-estruturas-de-repeticao/</link>
+      <pubDate>Wed, 10 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/java-estruturas-de-repeticao/</guid>
+      <description>As estruturas de repetição também são conhecidas como laços (loops) e são utilizados para executar, repetidamente, uma instrução ou bloco de instrução enquanto determinada condição estiver sendo satisfeita.
+Qualquer que seja a estrutura de repetição, ela contém quatro elementos fundamentais: inicialização, condição, corpo e iteração. A inicialização compõe-se de todo código que determina a condição inicial da repetição. A condição é uma expressão booleana avaliada após cada leitura do corpo e determina se uma nova leitura deve ser feita ou se a estrutura de repetição deve ser encerrada.</description>
+    </item>
+    
+    <item>
+      <title>Instalando o CAKEPHP 3.0 via Composer</title>
+      <link>http://localhost/jhonny-roger/public/instalando-o-cakephp-3-0-via-composer/</link>
+      <pubDate>Sun, 07 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/instalando-o-cakephp-3-0-via-composer/</guid>
+      <description>Requisitos do tutorial:
+ PHP instalado e configurado Ambiente Linux  No dia 22/03/2015 foi disponibilizado para download no site do CakePHP a versão 3.0 do framework para PHP CakePHP. Já utilizamos a versão 2.x em projetos aqui na empresa e tivemos bons resultados.
+Com o lançamento desta nova versão, muita coisa mudou: um novo ORM foi lançado; o uso de namespaces foi adotado; entre outras features que iremos abordar em outras publicações.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2 – Parte 09</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-09/</link>
+      <pubDate>Sun, 24 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-09/</guid>
+      <description>No tutorial anterior, instalamos e configuramos o bundle Knp Paginator, para fazer a paginação de posts em nosso index, agora vamos instalar e configurar o Bundle StofDoctrineExtensionsBundle, para fazermos os slugs de nossos posts
+Instalação do bundle StofDoctrineExtensionsBundle Para instalar o StofDoctrineExtensionsBundle, temos que adicioná-lo em nosso composer.json. Abra o arquivo composer.json e adicione a linha abaixo:
+&#34;stof/doctrine-extensions-bundle&#34;: &#34;1.2.*@dev&#34;  Depois de adicionando o StofDoctrineExtensionsBundle no composer, vamos instalá- lo.</description>
+    </item>
+    
+    <item>
+      <title>JAVA – Estruturas de Decisão</title>
+      <link>http://localhost/jhonny-roger/public/java-estruturas-de-decisao/</link>
+      <pubDate>Fri, 22 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/java-estruturas-de-decisao/</guid>
+      <description>As estruturas de decisão são utilizadas para controlar o fluxo de execução dos aplicativos, possibilitando que a leitura das instruções siga caminhos alternativos em função da análise de determinadas condições. Com elas, é possível condicionar a leitura de uma instrução ou de um bloco delas a uma ou mais condições que precisam ser satisfeitas.
+Todos os aplicativos de exemplo precedentes executam suas instruções de forma linear, ou seja, todas elas são lidas sequencialmente, na ordem em que foram escritas no código.</description>
+    </item>
+    
+    <item>
+      <title>Facebook API – SDK PHP na prática e preview de como aprovar seu aplicativo</title>
+      <link>http://localhost/jhonny-roger/public/facebook-api-sdk-php-na-pratica-e-preview-de-como-aprovar-seu-aplicativo/</link>
+      <pubDate>Wed, 13 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/facebook-api-sdk-php-na-pratica-e-preview-de-como-aprovar-seu-aplicativo/</guid>
+      <description>Recentemente o Facebook anunciou que sua API seria atualizada para a versão 4.0 e a mesma sofreria fortes mudanças. Eis que esse dia chegou, pff!
+A principal dessas mudanças foi a extinção do suporte ao FQL (Facebook Query Language &amp;#8211; uma maneira linda de fazer requisões na API) e que os aplicativos que exigissem permições de publicar na timeline e outras coisas, passariam por um processo de aprovação, parecido com o que ocorre com a AppStore.</description>
+    </item>
+    
+    <item>
+      <title>JAVA – Principais características</title>
+      <link>http://localhost/jhonny-roger/public/java-principais-caracteristicas/</link>
+      <pubDate>Tue, 05 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/java-principais-caracteristicas/</guid>
+      <description>A simplicidade é uma de suas mais importantes características. É isso que possibilita que a sua aprendizagem possa ocorrer sem necessidade de treinamento intensos ou larga experiência anterior. Programadores com conhecimento das linguagens C e C++ encontrarão muitas semelhanças destas com o Java e o assimilarão de forma ainda mais rápida. Além disso, o código escrito com o Java é muito mais limpo do que aquele escrito em C ou C++.</description>
+    </item>
+    
+    <item>
+      <title>JAVA – Como plataforma</title>
+      <link>http://localhost/jhonny-roger/public/java-como-plataforma/</link>
+      <pubDate>Thu, 30 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/java-como-plataforma/</guid>
+      <description>Uma plataforma é uma estrutura que possibilita a execução de softwares aplicativos. Basicamente, o que você precisa para rodar um aplicativo são um computador e um sistema operacional instalado nele. Mas os sistemas operacionais são concebidos para determinadas arquiteturas de computadores e são incompatíveis com todas as demais. Por isso, os próprios sistemas operacionais são utilizados para identificar as plataformas.
+Do mesmo modo que os sistemas operacionais são compatíveis apenas com determinado tipo de computador, os programas compilados com as tecnologias tradicionais somente são compatíveis com um único sistema operacional, e isso tira o sono de um desenvolvedor quando ele escreve um programa e compila em C++ para executar no Windows, e o mesmo não será possível executar em outra plataforma.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2 – Parte 08</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-08/</link>
+      <pubDate>Tue, 28 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-08/</guid>
+      <description>No tutorial anterior, criamos um upload de imagens para servirem de capa para nossos posts, agora vamos instalar e configurar um Bundle, disponibilizado pela comunidade, para fazer a paginação de nossa página index. Para isso temos que instalar o Knp Paginator em nossa aplicação.
+Instalação do Knp Paginator Para instalar o Knp Paginator, temos que adicioná-lo em nosso composer.json. Abra o arquivo composer.json e adicione a linha abaixo:
+&#34;knplabs/knp-paginator-bundle&#34;: &#34;</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2 – Parte 07</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-07/</link>
+      <pubDate>Fri, 10 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-07/</guid>
+      <description>No tutorial anterior, estilizamos nossas páginas, index e show, e incluímos um imagem para apresentar nossos posts no index, porém colocamos esta imagem pelo código fonte, agora vamos fazer algumas configurações, para que, na criação dos posts, tenha a opção de fazer o upload de uma imagem, para ser apresentada como capa de nossos posts.
+Configurando a entidade Post Para criarmos um upload de imagem, vamos usar o componente http-foundation do Symfony, e usar sua classe UploadedFile em nossa entidade Post.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2 – Parte 06</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-06/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-06/</guid>
+      <description>No tutorial anterior, configuramos nosso projeto e criamos nossas páginas, home e show, porém as mesmas se encontram sem estilização, neste tutorial, vamos apenas estruturar nossas páginas de um modo simples e básico, porém funcional. Não entrarei em detalhes sobre o Bootstrap, não é meu objetivo, porém para iniciantes, recomendo a documentação.
+Sobre o Twig, falarei o básico do básico, somente o que vamos usar. Lembrando que ele já vem instalado e configurado no Symfony, porém podemos instalá-lo separadamente via Composer e configurá- lo em outros projetos, usando ou não outros frameworks.</description>
+    </item>
+    
+    <item>
+      <title>Como fazer integração do CakePHP com Mailchimp</title>
+      <link>http://localhost/jhonny-roger/public/como-fazer-integracao-cakephp-com-mailchimp/</link>
+      <pubDate>Thu, 26 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/como-fazer-integracao-cakephp-com-mailchimp/</guid>
+      <description>Em um projeto que trabalhei, o cliente tinha um espaço no site para cadastro de newsletter, dessa forma ele gostaria de fazer automaticamente esse cadastro em suas listas no Mailchimp para não ter que ficar importando uma lista nova de e-mails sempre.
+Dai surgiu a necessidade de pesquisar um pouco e encontrar diversas maneiras de fazer isso, algumas que até já não funcionam mais devido a versões.. Vou mostrar aqui como funcionou pra mim.</description>
+    </item>
+    
+    <item>
+      <title>Migrando do MySQL para Mongo</title>
+      <link>http://localhost/jhonny-roger/public/migrando-mysql-para-mongo/</link>
+      <pubDate>Sun, 22 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/migrando-mysql-para-mongo/</guid>
+      <description>Introdução O Mongodb é um banco de dados NoSql, open-source e escrito em C++ que salva seus dados em formato JSON(usando BSON — uma versão binária de JSON) utilizando chaves e valores para isso.
+
+O que mais diferencia o Mongo dos outros bancos NoSQL é a simplicidade em converter instruções SQL.
+Alem de ser muito simples de instalar e usar, com binários e drivers disponíveis para os principais sistemas operacionais e linguagens de programação, ele ainda é suportado pelas mais populares linguagens tais como: C, C#, C++, Haskell, Java™, JavaScript, Perl, PHP, Python, Ruby e Scala.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2 – Parte 05</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-05/</link>
+      <pubDate>Thu, 19 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-05/</guid>
+      <description>No tutorial anterior, criamos a entidade Author, e fizemos o relacionamento com os posts, neste tutorial vamos fazer as configurações adequadas para que possamos deixar nossa aplicação estruturada corretamente, e vamos criar e configurar a página index, onde os usuários terão acesso para visualizar e ler os posts.
+Configurando Vamos começar com as configurações.
+Entrando no bundle CoreBundle, caminho: src/Tableless/CoreBundle, exclua a pasta Controller.
+
+Ainda neste mesmo bundle vamos excluir a pasta view, caminho: src/Tableless/CoreBundle/Resources/view.</description>
+    </item>
+    
+    <item>
+      <title>Alergia à SQL</title>
+      <link>http://localhost/jhonny-roger/public/alergia-sql/</link>
+      <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/alergia-sql/</guid>
+      <description>Introdução Quem nunca ouviu as seguintes frases: “Escrever SQL nos dias de hoje não é uma boa prática” ou “Tente não escrever SQL, usa os recursos do ORM”, ainda não trabalhou o suficiente.
+O mercado de startups parece cada vez mais alérgico ao SQL, um dos recursos mais poderosos e antigos(1974!) no mundo dos bancos de dados.
+O que as pessoas esquecem ou escolhem ignorar é a capacidade que um banco de dados tem e pode te oferecer para resolver problemas banais.</description>
+    </item>
+    
+    <item>
+      <title>Funções extras para tratamento de Strings no PHP</title>
+      <link>http://localhost/jhonny-roger/public/funcoes-extras-para-tratamento-de-strings-no-php/</link>
+      <pubDate>Mon, 09 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/funcoes-extras-para-tratamento-de-strings-no-php/</guid>
+      <description>Como o projeto já estava atrasado, decidi que seria melhor continuar pesquisando alguma alternativa para resolver o problema da &amp;#8220;limpagem&amp;#8221; de strings, então encontrei a biblioteca URLify for PHP
+A principio ele é uma classe simples em PHP com as funcionalidades que não são nativas do PHP, porém são uma mão na roda na hora de trabalhar com strings em projetos grandes, onde não existe tempo para o dev criar do zero (muito menos testá-los sem perder o foco do problema que realmente importa).</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2 – Parte 04</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-04/</link>
+      <pubDate>Wed, 04 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-04/</guid>
+      <description>Anteriormente, criamos a entidade Post, vamos dar continuidade ao nosso simples projeto, criando uma entidade Author, faremos o relacionamento para que cada autor fique ligado ao post que criou.
+Criando a entidade Author Vamos criar a entidade Author, entre no terminal e digite:
+$ php app/console generate:doctrine:entity  Vamos digitar o nome da entidade como : TablelessModelBundle:Author.
+$ The Entity shortcut name: TablelessModelBundle:Author  Vamos mapeá-la usando annotation. Apenas damos enter.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2 – Parte 03</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-03/</link>
+      <pubDate>Wed, 18 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-03/</guid>
+      <description>Dando continuidade ao tutorial anterior, vamos continuar usando o componente console do Symfony, agora criaremos uma entidade, para acessar o banco de dados, usando o Doctrine ORM.
+Banco de dados com Doctrine ORM Quando falamos de banco de dados em projetos com Symfony, estamos falando de Doctrine ORM (Object Relational Mapper), onde criamos uma camada de persistência entre a aplicação e um banco de dados, que mapeia nossas tabelas com entidades, para que possamos acessar o banco.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2 – Parte 02</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-02/</link>
+      <pubDate>Mon, 09 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-02/</guid>
+      <description>Depois de já instalado o Symfony 2, como postado no artigo anterior que escrevi, vamos avançar nosso processo criando um simples blog.
+É claro que o Symfony é para projetos maiores, mas para efeito de didática, achei um bom começo, espero que gostem.
+Bundle o coração do symfony O Symfony trabalha com bundle (pacote), que é um conjunto de códigos que pode ser reutilizado em outros projetos. Simplificando: são componentes prontos, que facilitam nossa vida na hora de desenvolver.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2/</link>
+      <pubDate>Wed, 21 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2/</guid>
+      <description>O symfony é um framework fullstack de aplicações web para as necessidades de alto desempenho, é um conjunto de componentes PHP, para grandes e avançados projetos, porém podemos instalar seus componentes separadamente em casos de projetos menores. É muito respeitado pela comunidade, não é apenas um Framework popular, mas também é uma das melhores plataformas para construir projetos Open-Source. Muitos projetos PHP estão incorporando alguns dos componentes ou estão usando o framework full-stack, projetos como Drupal, Laravel, entre outros, veja a lista.</description>
+    </item>
+    
+    <item>
+      <title>API de cotações de Bolsa de Valores, Dólar e Euro</title>
+      <link>http://localhost/jhonny-roger/public/api-de-cotacoes-de-bolsa-de-valores-dolar-e-euro/</link>
+      <pubDate>Mon, 29 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/api-de-cotacoes-de-bolsa-de-valores-dolar-e-euro/</guid>
+      <description>Hoje em dia é muito comum os sites terem um widget ou uma barra lateral com informações de cotações do dólar, euro e os principais mercados financeiros do mundo.
+Como o mercado oscila muito, essas informações são atualizadas constantemente, de minuto a minuto. Se você está pensando em mostrar essas informações em seu site, com certeza vai precisar de uma API para consultar estes dados em tempo real.
+O pessoal da Agência Ideias criou uma API bem legal para consulta de cotações em tempo real, sendo o valor do euro e do dólar referentes aos valores de compra dessas moedas.</description>
+    </item>
+    
+    <item>
+      <title>Yii Framework - um framework PHP profissional, rápido e seguro!</title>
+      <link>http://localhost/jhonny-roger/public/amework-um-framework-php-profissional-rapido-e-seguro/</link>
+      <pubDate>Sun, 03 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/amework-um-framework-php-profissional-rapido-e-seguro/</guid>
+      <description>Todo desenvolvedor ao longo de sua carreira, em algum momento, faz o uso de frameworks para complementar seus projetos, reduzir tempo de produção e prover na maioria dos casos, um código limpo, profissional e de fácil manutenção.
+Hoje lhes apresento o Yii Framework, um framework Open-Source PHP com alto poder de desempenho e escalabilidade.
+Chegou a sua versão histórica Yii 1.0 em 2008 e, desde então, sua popularidade entre os desenvolvedores tem crescido cada vez mais.</description>
+    </item>
+    
+    <item>
+      <title>O que é Node.js e saiba os primeiros passos</title>
+      <link>http://localhost/jhonny-roger/public/o-que-nodejs-primeiros-passos-com-node-js/</link>
+      <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-que-nodejs-primeiros-passos-com-node-js/</guid>
+      <description>O que é Node.js? Node.js é uma plataforma para desenvolvimento de aplicações server-side baseadas em rede utilizando JavaScript e o V8 JavaScript Engine, ou seja, com Node.js podemos criar uma variedade de aplicações Web utilizando apenas código em JavaScript.
+Em uma primeira análise essa informação pode não parecer tão interessante, uma vez que existem diversas outras maneiras em que esses tipos de serviços podem ser implementados. Mas se pensarmos um pouco mais sobre as demandas de aplicações na internet e o modo em que o código em JavaScript pode ser estruturado, vamos nos deparar com uma gama de novas possibilidades para desenvolvimento Web, e provavelmente nos juntar à crescente comunidade que tem adotado essa plataforma.</description>
+    </item>
+    
+    <item>
+      <title>Upload de arquivos com PHP</title>
+      <link>http://localhost/jhonny-roger/public/upload-de-arquivos-com-php/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/upload-de-arquivos-com-php/</guid>
+      <description>Neste artigo vamos aprender como fazer upload de arquivos com PHP. Porém, com alguns recursos adicionais em cada exemplo.
+No primeiro exemplo, iremos fazer um upload básico de apenas um arquivo, assim conseguimos pegar o jeito da coisa.
+No segundo exemplo, vamos fazer um upload de múltiplas imagens, e utilizaremos a classe WideImage para tratá-las (redimensionar, cortar e salvar).
+E por fim, no último exemplo, vamos fazer o upload por AJAX, utilizando o Jquery Form Plugin.</description>
+    </item>
+    
+    <item>
+      <title>PHP Slim Framework</title>
+      <link>http://localhost/jhonny-roger/public/php-slim-framework/</link>
+      <pubDate>Wed, 04 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/php-slim-framework/</guid>
+      <description>O Slim Framework é um microframework PHP que facilita sua vida na hora de fazer pequenas APIs.
+Vou falar sobre um problema que tive em um projeto em uma empresa que trabalho. Lá eu codifico com diferentes linguagens de programação em pequenos sistemas. Esses sistemas precisam ser acessados por 3 filiais e os usuários se logam com o mesmo login usado no E.R.P. que eles utilizam.
+Para simplificar meu trabalho resolvi criar uma API simples para autenticar os usuários.</description>
+    </item>
+    
+    <item>
+      <title>Criando uma galeria de imagens com administração em CakePHP, Fancybox e WideImage)</title>
+      <link>http://localhost/jhonny-roger/public/criando-uma-galeria-de-imagens-com-administracao-em-cakephp-fancybox-e-wideimage/</link>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-uma-galeria-de-imagens-com-administracao-em-cakephp-fancybox-e-wideimage/</guid>
+      <description>Eu sou da opinião que todo bom desenvolvedor frontend tem que ter pelo menos uma noção de backend, e o contrário também tem que acontecer, é comum as pessoas virem me perguntar como que faz pra fazer o Fancybox funcionar no CakePHP, ou como que eu integro um plugin para Jquery no site, puxa, a maioria das vezes é adicionar um seletor, chamar o javascript no Html e configurar de acordo com a documentação, vamos ver se simplifico pra vocês.</description>
+    </item>
+    
+    <item>
+      <title>Deletando registros duplicados no banco de dados</title>
+      <link>http://localhost/jhonny-roger/public/deletando-registros-duplicados-banco-de-dados/</link>
+      <pubDate>Thu, 09 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/deletando-registros-duplicados-banco-de-dados/</guid>
+      <description>Precisei fazer a migração de dados de algumas tabelas de cadastro (telefones, hobbies, interesses, formações e etc.) para uma única tabela diferenciando-os pelo id do usuário e o id do campo. O problema é que meu script acabou duplicando as informações. Para a minha sorte isso aconteceu em um banco de desenvolvimento, onde era possível apagar os dados da tabela, ajustar os scripts e refazer a migração. Eu não queria ter esse trabalho novamente e logo resolvi pesquisar um script sql que me ajudasse a apagar os registros duplicados, nesse caso deixando apenas o último registro gravado.</description>
+    </item>
+    
+  </channel>
+</rss>

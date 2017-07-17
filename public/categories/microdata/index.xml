@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microdata on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/categories/microdata/</link>
+    <description>Recent content in Microdata on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 21 May 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/categories/microdata/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Porque você deve sua vida a Dave Winer</title>
+      <link>http://localhost/jhonny-roger/public/porque-voce-deve-sua-vida-dave-winer/</link>
+      <pubDate>Wed, 21 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/porque-voce-deve-sua-vida-dave-winer/</guid>
+      <description>Talvez você não saiba, mas sua vida é muito influenciada por Dave Winer. Você deve usar as invenções desse developer norte-americano com mais frequência do que bebe água ou do que vai ao banheiro (se bem que, vai saber).
+Winer criou o primeiro web CMS. O RSS. Os podcasts. Foi um dos desenvolvedores do XML-RPC protocol. Ou seja: esteve e, aos 59 anos, ainda está no centro da web syndication, provavelmente um dos fenômenos tecnológicos mais importantes do século 20.</description>
+    </item>
+    
+  </channel>
+</rss>

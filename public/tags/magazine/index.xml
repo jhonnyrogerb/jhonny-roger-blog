@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Magazine on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/magazine/</link>
+    <description>Recent content in Magazine on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 15 Sep 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/magazine/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Revista Front-end Magazine</title>
+      <link>http://localhost/jhonny-roger/public/revista-front-end-magazine/</link>
+      <pubDate>Mon, 15 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/revista-front-end-magazine/</guid>
+      <description>No último dia 28 de Julho a DevMedia lançou mais uma revista: a Front-end Magazine, com foco em desenvolvimento para tecnologias front-end. Esta já é a décima revista lançada pela empresa que terá uma publicação mensal e nada mais que 110 mil caracteres distribuídos em, pelo menos, três artigos com muito conteúdo de qualidade, atualizado e totalmente focado para o público web.
+A revista terá como editor geral o consultor Diogo Souza, que trabalha há mais de 5 anos com desenvolvimento front-end, back-end, web, mobile, bem como tecnologias afins.</description>
+    </item>
+    
+  </channel>
+</rss>

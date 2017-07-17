@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245864">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      <p>Recebi há poucos dias um email que me deixou intrigado. Um amigo descrevia um site que vai construir em breve e me perguntava: você acha que devo fazê-lo em Ajax? Essa é uma pergunta ruim. A boa pergunta seria: onde, nesse site, eu deveria usar Ajax?</p>
+
+<p>Enquanto os cabeças-pequenas ficam discutindo se devem fazer ou não site em Flash, o Flickr faz um site HTML, com um excelente slideshow em Flash. Deixe-me perguntar: o <a href="http://www.youtube.com">YouTube</a> é um &#8220;site em Flash&#8221;? O <a href="http://video.google.com/">Google Video</a>? E o <a href="http://www.charges.com.br">Charges.com.br</a>? Não? Uma vez que o uso de Flash era inevitável, porque não fizeram logo o site todo em Flash? Porque, amiguinhos, Flash é bom para umas coisas, HTML é bom para outras. Eis uma lição que precisamos aprender: não ao radicalismo, nem oito, nem oitenta.</p>
+
+<p>HTML é a ferramenta ideal se você quer que as pessoas consigam usar o botão voltar, adicionar bookmarks, mandar o endereço para os amigos, selecionar e copiar texto, imprimir a página, encontrar seu conteúdo no Google e etc. Claro, dá para fazer <strong>quase</strong> tudo isso funcionar com Flash ou Ajax, mas com HTML você faz isso sem trabalho nenhum. Está pronto. Basta escrever bom HTML que o resto acontece sozinho. Além disso, HTML tem um custo de desenvolvimento muito reduzido em relação ao Flash. Custo de desenvolvimento, amigos, se mede em horas de trabalho. Gerar formulários, buscas, listagens e relatórios é muito mais fácil em HTML do que em Flash. Se você usa um desses frameworks modernosos então, nem se fala.</p>
+
+<p>Por outro lado, Flash é bom para algumas outras coisas. Por exemplo, se você vai publicar vídeo numa página web, Flash é hoje a opção mais leve, simples e compatível. Ajax, por sua vez, é excelente para evitar refreshs e modifica o modelo de interação com a página. Então não precisamos escolher entre um &#8220;site em Flash&#8221; e um &#8220;site em Ajax&#8221; em detrimento de um &#8220;site comum, em HTML&#8221;.</p>
+
+<p>Para ajudar meu amigo, vou publicar aqui algumas coisas que levo em consideração ao escolher onde usar Javascript e Ajax em um site. Entenda que isso não é uma verdade absoluta, há provavelmente muito mais coisas que você pode levar em consideração, em que eu talvez nunca tenha pensado. Hoje, eu penso no seguinte:</p>
+
+<ul>
+<li><strong>Acessibilidade</strong>: o bom Javascript não quebra a acessibilidade do bom HTML (posso falar mais sobre isso outro dia.) Mas isso pode dar algum trabalho. É preciso levar em conta a importância da acessibilidade para aquela aplicação específica. Sim, acessibilidade pode não ser importante para determinadas aplicações. Por exemplo, o <a href="http://maps.google.com/">Google Maps</a> é inacessível a deficientes visuais e a qualquer um que não consiga usar um mouse. Quem aí vai dizer que eles fizeram uma escolha errada? Mas, para a maioria das aplicações, acessibilidade é importante, e é preciso pensar nisso antes de planejar nosso Javascript.</li>
+<li><strong>Modelo de interação</strong>: você pode torcer o nariz, mas as pessoas estão acostumadas com o modelo de interação com páginas: clica &#8211; espera um pouquinho &#8211; carrega uma nova página. Elas sabem usar os recursos do navegador feitos para esse modelo, como a barra de endereços, os bookmarks, e o botão voltar. Ah, o que seria de nós sem o botão voltar? Então, eu uso Javascript sem medo onde é claro para as pessoas que elas estão interagindo com a mesma página, no modelo &#8220;aplicação&#8221;. Mas evito usá-lo onde possa dar a impressão de que estão navegando para outra página. Caso contrário, elas vão tentar usar o botão voltar e o resto todo. Você leu certo, &#8220;evito&#8221; não quer dizer que eu nunca faça, só tento ser muito parcimonioso. O nosso <a href="http://tableless.com.br/artigos/ajaxdemo/" title="Tutorial de Ajax">Tutorial de Ajax</a> (e também a <a href="http://tableless.com.br/artigos/ajaxdemo2/" title="Tutorial de Ajax, parte 2">continuação</a>) foi feito em Ajax por motivos didáticos. Navegando nele você vai sentir falta do botão voltar e de poder usar bookmarks.</li>
+<li><strong>Custo x benefício</strong>: convenhamos, HTML comum funciona bem para a maioria das coisas, e realmente muito bem para algumas. É a ferramenta ideal, por exemplo, para publicar um site de conteúdo, como esse aqui. Um portal de notícias, um blog, um manual de produto, etc. Usando Ajax você pode fazer com que, ao navegar em um site assim, seja recarregada apenas a parte principal, com o conteúdo. Menus, cabeçalho e rodapé permanecem. Mas será que vale a pena? Trabalhando com padrões web, com seu CSS, javascript e imagens no cache, você vai economizar quanto em banda com esse Ajax? Aqui no Tableless economizaríamos cerca de 15 Kb por página. Por outro lado, teríamos que incluir um bocado de Javascript colocar esse Ajax para funcionar, e manter funcionando coisas como o botão voltar. Sendo que cada visitante vê em média 2 páginas (1,95 para ser mais exato) isso dificilmente representaria alguma economia em banda. E daria um bocado de trabalho.</li>
+</ul>
+
+<p>Logo, meu conselho é: não faça sites &#8220;em Ajax&#8221;, nem sites &#8220;em Flash&#8221;. Faça sites com os padrões web, e use Ajax ou Flash onde isso for realmente ajudar seus usuários.</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/seu-primeiro-bot-para-o-telegram//?utm_source=tablelessRelatedLin">Seu primeiro bot para o Telegram</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/estatistica-basica-projetos-agile//?utm_source=tablelessRelatedLin">Estatística básica nas entregas de projetos agile — Moda, mediana e percentil</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245864"></script>

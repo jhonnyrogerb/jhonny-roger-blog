@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wordpress on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/categories/wordpress/</link>
+    <description>Recent content in Wordpress on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 22 Nov 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/categories/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3 Plugins WordPress para Aumentar Conversões em Sites e Blogs</title>
+      <link>http://localhost/jhonny-roger/public/3-plugins-wordpress-para-aumentar-conversoes-em-sites-e-blogs/</link>
+      <pubDate>Tue, 22 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/3-plugins-wordpress-para-aumentar-conversoes-em-sites-e-blogs/</guid>
+      <description>Aumentar Conversões Para quem possui Negócios na Internet explorar formas de melhorar as conversões pode ser financeiramente bastante interessante.
+Especificamente para quem trabalha com WordPress, isso pode representar mudanças significativas nos resultados do site.
+Alguns exemplos de Sites de Negócios muitas vezes conseguem elevar até 30% do faturamento com apenas estas ações que duram minutos.
+É claro que não é voltado a todo tipo de site, como E-commerce também.</description>
+    </item>
+    
+    <item>
+      <title>Construindo um firewall no WordPress – Parte 2</title>
+      <link>http://localhost/jhonny-roger/public/construindo-um-firewall-no-wordpress-parte-2/</link>
+      <pubDate>Mon, 26 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/construindo-um-firewall-no-wordpress-parte-2/</guid>
+      <description>Neste artigo de hoje iremos dar continuar com a série onde construímos um plugin de controle e monitoramento de acessos no WordPress, para controlarmos e impedirmos tentativas de login, ataques DDOS e outros eventos que possam vir a prejudicar nosso ambiente WordPress.
+Para quem ainda não leu o primeiro artigo comece pela parte 1 onde criamos a base do plugin e uma notificação por e-mail quando tivermos uma tentativa de login fracassada, nessa segunda parte iremos implementar um contador dessas tentativas e junto dele um bloqueio quando atingirmos um limite previamente configurado, para isso utilizaremos as funções: get_transient, set_transient e delete_transient&amp;#8230;</description>
+    </item>
+    
+    <item>
+      <title>Construindo um firewall no WordPress – Parte 1</title>
+      <link>http://localhost/jhonny-roger/public/construindo-um-firewall-no-wordpress-parte-1/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/construindo-um-firewall-no-wordpress-parte-1/</guid>
+      <description>Quem desenvolve para WEB e nunca passou por um ataque DDoS provavelmente não está fazendo o monitoramento de forma correta, principalmente em plataformas que utilizam WordPress, por ser OpenSorce existe uma infinidade de robores navegando pela internet em busca de brechas para obter acesso administrativo.
+Nessa serie de artigos iremos desenvolver um plugin que possa monitorar, identificar e barrar esses acessos e tentativas de invasão, por hoje iremos apenas criar o plugin e implementar uma ação que nos indique por e-mail quando over uma falha de login.</description>
+    </item>
+    
+    <item>
+      <title>Como aumentar a autoridade de um site ou blog através de links quebrados</title>
+      <link>http://localhost/jhonny-roger/public/como-aumentar-autoridade-de-um-site-ou-blog-atraves-de-links-quebrados/</link>
+      <pubDate>Sun, 28 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/como-aumentar-autoridade-de-um-site-ou-blog-atraves-de-links-quebrados/</guid>
+      <description>Aumentar Autoridade do um site  &amp;nbsp;
+Aumentar Autoridade de um site ou blog é algo que pode fazer com que seus resultados cresçam bastante nas buscas do Google.
+Existem diversas empresas no mercado especializadas em SEO, que oferecem ferramentas e métricas que visam mensurar a autoridade de sites e páginas.
+A mais conhecida de todas é o Moz, que possui as métricas DA (Domain Autorithy) e PA (Page Autorithy).</description>
+    </item>
+    
+    <item>
+      <title>Requisições AJAX no WordPress</title>
+      <link>http://localhost/jhonny-roger/public/requisicoes-ajax-no-wordpress/</link>
+      <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/requisicoes-ajax-no-wordpress/</guid>
+      <description>O objetivo deste artigo é tentar mostrar uma forma simples e bem completa (e melhor. Segura!) de trabalhar com requisições AJAX e WordPress.
+ Obs. Mostrarei de forma genérica e com exemplos banais, o importante é entender o processo. 🙂  Como já trabalhei em muitos lugares e peguei muito freela pra fazer nessa vida, acabo esbarrando com códigos no mínimo questionáveis, outros muito bons também. Porém a questão de fazer requisições AJAX no WordPress sempre é um assunto delicado pois várias e várias vezes vi códigos em que a complexidade que o desenvolvedor fez o código não só é desnecessária como também é ineficaz e insegura.</description>
+    </item>
+    
+    <item>
+      <title>Carrinho de orçamento para WordPress</title>
+      <link>http://localhost/jhonny-roger/public/carrinho-de-orcamento-para-wordpress/</link>
+      <pubDate>Mon, 09 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/carrinho-de-orcamento-para-wordpress/</guid>
+      <description>O WordPress agiliza muito o trabalho de qualquer um que queira publicar online um site simples ou complexo e que tenha um painel administrativo decente. A comunidade é bem ampla e a plataforma dá passos firmes a caminho do e-commerce, cada vez mais ganhando espaço até mesmo entre as plataformas fechadas. E se você tem um negócio experimental ou não quer ter custos e nem dor de cabeça com transações bancárias, aqui vai uma dica de como ter um e-commerce com produtos em que o cliente faz o fluxo de orçamento e no final ele envia uma lista dos produtos de seu interesse com os dados para contato, vamos lá então.</description>
+    </item>
+    
+    <item>
+      <title>WP Rest API – O futuro do WordPress</title>
+      <link>http://localhost/jhonny-roger/public/rest-json-wp-api-e-o-futuro-do-wordpress/</link>
+      <pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/rest-json-wp-api-e-o-futuro-do-wordpress/</guid>
+      <description>TL;DR O WP-API é a nova aposta do WordPress. Atualmente, funciona como um plugin do WordPress, a ser incorporado em duas etapas no Core, que expõe o conteúdo em uma arquitetura REST dispondo-o em formato JSON, pronto para consumo em outras linguagens/sites/aplicações/aplicativos.
+Índice  Conceito O que o API significa para o WordPress? Se esse é o futuro, do que o WP-API é capaz?  Romper laços com o PHP Fazer uma integração mobile de verdade.</description>
+    </item>
+    
+    <item>
+      <title>JavaScript e CSS no WordPress</title>
+      <link>http://localhost/jhonny-roger/public/javascript-e-css-no-wordpress/</link>
+      <pubDate>Wed, 02 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/javascript-e-css-no-wordpress/</guid>
+      <description>Você faz um front-end impecável, mas ao transformá-lo em um tema WordPress, o carregamento fica lento, os plugins não funcionam e ocorrem milhares de outros problemas? Saiba que você pode não estar utilizando seus scripts corretamente no WordPress.
+Não se prenda ao termo! Neste post vamos usar &amp;#8220;scripts&amp;#8221; para qualquer JavaScript ou CSS que você queira adicionar ao seu tema ou plugin.
+Ao adicionar um novo script na sua aplicação, você deve fazê-lo da forma adequada para que o WordPress cuide de todo o processo, não usando código desnecessário e impedindo conflitos entre sua aplicação e de terceiros (plugins).</description>
+    </item>
+    
+    <item>
+      <title>Gantry 5 – Desenvolvimento de templates para Joomla e WordPress</title>
+      <link>http://localhost/jhonny-roger/public/gantry-5-desenvolvimento-de-templates-para-joomla-e-wordpress/</link>
+      <pubDate>Mon, 17 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/gantry-5-desenvolvimento-de-templates-para-joomla-e-wordpress/</guid>
+      <description>&amp;nbsp;
+Com o surgimento dos Gerenciadores de Conteúdo como o Joomla e WordPress, os desenvolvedores de sites começaram a aproveitar mais o tempo e entregar projetos mais rápido. Quando surgem os frameworks de templates, que se integram aos CMSs para gerenciar e facilitar o desenvolvimento dos layouts das páginas, as coisas ficam mais interessantes. E é justamente nesse ponto que vamos chegar. Farei uma breve abordagem sobre o novo Framework de Template Gantry 5.</description>
+    </item>
+    
+    <item>
+      <title>Criando um widget de “Artigos Populares” por numero de visualizações</title>
+      <link>http://localhost/jhonny-roger/public/criando-um-widget-de-artigos-populares-por-numero-de-visualizacoes/</link>
+      <pubDate>Thu, 13 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-um-widget-de-artigos-populares-por-numero-de-visualizacoes/</guid>
+      <description>Recentemente tive que implementar um widget de artigos populares para um cliente. Acontece que até então a única maneira que eu sabia fazer isso era ordenando os posts por número de comentários. Propus a solução ao meu cliente e o mesmo disse que queria que o mesmo fosse ordenados por número de visualizações. Bom, nunca tinha feito isso, então corri atrás de alguns artigos &amp;#8220;gringos&amp;#8221; explicando como fazer e me espantei sobre como era simples.</description>
+    </item>
+    
+    <item>
+      <title>Utilizando a API do bit.ly para gerar links encurtados para seus posts WordPress</title>
+      <link>http://localhost/jhonny-roger/public/utilizando-api-bit-ly-para-gerar-links-encurtados-para-seus-posts-wordpress/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/utilizando-api-bit-ly-para-gerar-links-encurtados-para-seus-posts-wordpress/</guid>
+      <description>Todo mundo sabe que é fundamental criar links de compartilhamento no seu artigo, só que no Twitter isso se restringe a 140 caracteres, e ao enviar o título do seu artigo, URL e seu usuário no Twitter pode faltar espaço. E para economizar espaço fazemos o quê? Uma das táticas é utilizar links curtos através de serviços como o bit.ly. Como tudo na programação, criamos uma maneira de automatizar nossas ações e para isso vamos ao código!</description>
+    </item>
+    
+    <item>
+      <title>Front-end e WordPress: uma relação de amor e amizade</title>
+      <link>http://localhost/jhonny-roger/public/front-end-e-wordpress-uma-relacao-de-amor-e-amizade/</link>
+      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/front-end-e-wordpress-uma-relacao-de-amor-e-amizade/</guid>
+      <description>É&amp;nbsp;bastante comum o&amp;nbsp;desenvolvedor front-end conseguir trabalho como freelancer e precisar do desenvolvedor back-end para tornar&amp;nbsp;o site dinâmico. O&amp;nbsp;cliente fica&amp;nbsp;feliz,&amp;nbsp;pois de forma rápida, ele consegue criar novas páginas, postagens, atualizando por conta própria o conteúdo. Mas atualmente, o&amp;nbsp;front-end não precisa mais desta dependência:&amp;nbsp;ele pode usar o WordPress.
+Ok, mas o WordPress usa PHP, uma&amp;nbsp;linguagem back-end, correto?
+Sim, mas isto não é impede de tornar a ferramenta facilmente configurável, mesmo que você não entenda de linguagens de programação.</description>
+    </item>
+    
+    <item>
+      <title>Saiu o WordPress 4.0: “Benny”</title>
+      <link>http://localhost/jhonny-roger/public/saiu-o-wordpress-4-0-benny/</link>
+      <pubDate>Thu, 04 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/saiu-o-wordpress-4-0-benny/</guid>
+      <description>O WordPress 4.0, homenageando o clarinetista Benny Goodman está disponível hoje!
+Ele trouxe uma série de mudanças interessantes, mas nada muito grande, basicamente pequenas mudancas de design na interface.
+Uma dessas mudanças é a área de media que toda reestilizada. Sempre foi bastante chato encontrar e gerenciar arquivos que foram incluídos no WordPress. Aquela modal nojenta não faz mais parte das nossas vidas. Amém.
+A tela de edição de conteúdo também recebeu um realinhamento.</description>
+    </item>
+    
+    <item>
+      <title>Padrões de Código de CSS do WordPress</title>
+      <link>http://localhost/jhonny-roger/public/padroes-de-codigo-de-css-wordpress/</link>
+      <pubDate>Fri, 18 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/padroes-de-codigo-de-css-wordpress/</guid>
+      <description>Todo mundo no comecinho da carreira já desenvolveu aquele código esquisito, que dias depois não conseguiu lembrar bem o que era, se perdia nos seletores, usava padrões de nomenclatura vistos na programação tipo o CamelCase, ou algo semelhante. Ter um padrão de escrita de código é essencial para que você e também outros na equipe entendam de maneira efetiva cada ponto do sistema. Para tanto, as famosas guide lines fazem com que gostos pessoais sejam ignorados e padrões de escrita se firmem.</description>
+    </item>
+    
+    <item>
+      <title>Include Tags WordPress, conheça alguns truques legais</title>
+      <link>http://localhost/jhonny-roger/public/include-tags-wordpress-conheca-alguns-truques-legais/</link>
+      <pubDate>Fri, 13 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/include-tags-wordpress-conheca-alguns-truques-legais/</guid>
+      <description>Quem já desenvolveu algum tema ou simplesmente deu uma xeretada nos temas que vem na instalação do WordPress, deve ter percebido que em cada um daqueles arquivos há algumas funções que incluem um outro arquivo do tema. Se você já notou isso parabéns: você já conhece as Include Tags, se não, saiba quem são agora mesmo.
+As Include Tags Você já conhece a função include do PHP? Ela é uma função que simplesmente adiciona/importa um outro arquivo dentro do arquivo em que você usou essa função; geralmente usado para adicionar arquivos de configuração para determinado script funcionar corretamente.</description>
+    </item>
+    
+    <item>
+      <title>6 truques básicos do functions.php do WordPress</title>
+      <link>http://localhost/jhonny-roger/public/6-truques-de-wordpress/</link>
+      <pubDate>Tue, 22 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/6-truques-de-wordpress/</guid>
+      <description>O functions.php é o arquivo de funções do seu tema. É nele que você habilita os menus, cria widgets e define uma série de configurações dos temas de WordPress. Essas são 5 pequenos truques que uso nos meus projetos em WordPress.
+Como tirar a barra de admin Eu odeio aquela barra de administração que o WordPress coloca no site quando estamos logados. Eles atrapalham muitas vezes o desenvolvimento do projeto, por isso enquanto estou desenvolvendo, eu desabilito essa feature.</description>
+    </item>
+    
+    <item>
+      <title>Mudar ícones dos Custom Post Types no WordPress 3.8</title>
+      <link>http://localhost/jhonny-roger/public/mudar-icones-dos-custom-post-types-wordpress-3-8/</link>
+      <pubDate>Mon, 13 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/mudar-icones-dos-custom-post-types-wordpress-3-8/</guid>
+      <description>No dia 12 de Dezembro a Equipe do WordPress liberou a sua mais nova versão, o WordPress 3.8 Parker, que é uma referência ao Charlie Parker, grande saxofonista de Jazz. Visualmente a versão 3.8 do WordPress foi a que trouxe mais mudanças, a começar pela belíssima renovação de design do painel que também passou a ser responsivo e acessível por todos os dispositivos móveis, o que é um grande avanço, já que não será mais preciso usar os aplicativos móveis para fazer moderação e criação de posts.</description>
+    </item>
+    
+    <item>
+      <title>WordPress Modus Operandi</title>
+      <link>http://localhost/jhonny-roger/public/wordpress-modus-operandi/</link>
+      <pubDate>Tue, 03 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/wordpress-modus-operandi/</guid>
+      <description>Sábado, dia 23 de Novembro, tive o prazer de participar do WordCamp São Paulo 2013. De acordo com informações divulgadas no site do evento, foram mais de 200 inscritos a procura de compartilhar e trocar idéias sobre o uso do WordPress em seus projetos. Essa edição do WordCamp contou com palestras nas áreas de design e desenvolvimento, produção de conteúdo e negócios.
+Acredito que ter ampliado o alcance dos temas abordados, não restrigindo apenas a códigos e aberto espaço para discussões referente ao mercado, negócios; foi sem dúvida uma grande sacada dos organizadores que agregou imenso valor a esse encontro de profissionais.</description>
+    </item>
+    
+    <item>
+      <title>WordPress e seus utilizadores</title>
+      <link>http://localhost/jhonny-roger/public/wordpress-e-seus-utilizadores/</link>
+      <pubDate>Thu, 14 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/wordpress-e-seus-utilizadores/</guid>
+      <description>O WordPress sem dúvidas é uma excelente alternativa caso precise de um sistema para gerenciar o conteúdo de um site. No entanto entre os mais diversos envolvidos no processo de criação de um site reside algumas questões a serem respondidas. Como um designer deve encarar um projeto para WordPress, o quê um front-end precisa saber, qual o papel do gestor de conteúdo diante disso tudo; são apenas algumas indagações entre outras que serão abertas para discussão a seguir.</description>
+    </item>
+    
+    <item>
+      <title>Lojas virtuais com WooCommerce II – Criando temas personalizados</title>
+      <link>http://localhost/jhonny-roger/public/lojas-virtuais-com-woocommerce-ii-criando-temas-personalizados/</link>
+      <pubDate>Mon, 04 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/lojas-virtuais-com-woocommerce-ii-criando-temas-personalizados/</guid>
+      <description>O WooCommerce é um plugin capaz de transformar qualquer site desenvolvido em WordPress em uma loja virtual super potente. Mas para adaptar o seu tema para o sistema e garantir que o seu layout seja visualizado corretamente existem alguns truques, funções e ações fundamentais para que tudo funcione direitinho. A documentação oficial, embora bem completa, pode ser um pouco confusa pois não está organizada em uma ordem cronológica. Pensando nisto preparei este artigo recheado de dicas úteis para que você possa criar temas em WooCommerce facilmente.</description>
+    </item>
+    
+    <item>
+      <title>Lojas virtuais com WooCommerce</title>
+      <link>http://localhost/jhonny-roger/public/lojas-virtuais-com-woocommerce/</link>
+      <pubDate>Tue, 08 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/lojas-virtuais-com-woocommerce/</guid>
+      <description>O que é WooCommerce? O WooCommerce é um plugin gratuito que permite a criação de lojas virtuais diretamente através do WordPress. Ele funciona como um kit de ferramentas modular contendo os elementos mais comuns em eCommerce como carrinho de compras, gerenciamento de estoques, estatísticas, gateways de pagamento, etc. O WooCommerce foi criado pela empresa WooThemes de forma opensource e traduzido para diversas línguas, inclusive português brasileiro. Por padrão o WooCommerce é integrado ao PayPal, mas é possível integrar outros métodos de pagamento através de extensões gratuitas e pagas.</description>
+    </item>
+    
+    <item>
+      <title>Child Themes – O que é, como fazer e quando usar</title>
+      <link>http://localhost/jhonny-roger/public/child-themes-o-que-e-como-fazer-e-quando-usar/</link>
+      <pubDate>Thu, 04 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/child-themes-o-que-e-como-fazer-e-quando-usar/</guid>
+      <description>Acredito que o Child Theme, ou “tema filho”, ****é um dos melhores recursos do WordPress. Com ele você pode adicionar ou alterar estilos, funções, templates de páginas e etc. sem a necessidade de mexer nos arquivos core do seu tema.
+Ao criar um child theme você herda todas as funcionalidades de outro tema e pode modificá-las através de um novo arquivo totalmente independente.
+Neste artigo vou mostrar como é fácil criar, ativar e fazer uma alteração no seu tema com o uso de um child theme e mostrar quais são os prós e contras em usá-lo.</description>
+    </item>
+    
+    <item>
+      <title>Personalizando o painel de administração do WordPress</title>
+      <link>http://localhost/jhonny-roger/public/customizando-o-painel-de-administracao-do-wordpress/</link>
+      <pubDate>Wed, 03 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/customizando-o-painel-de-administracao-do-wordpress/</guid>
+      <description>Você provavelmente já conhece o WordPress e já sabe como criar seus próprios temas. Mas isto não significa que o trabalho acabou. É possível &amp;#8211; e extremamente recomendável &amp;#8211; personalizar os elementos da interface do Painel de Administração para que ele se adeque as necessidades de cada marca.
+Layouts únicos Muitas vezes ao fazer a escolha entre utilizar um sistema de administração de conteúdo padrão ou projetar o seu próprio do zero o critério de desempate é a capacidade de personalização.</description>
+    </item>
+    
+    <item>
+      <title>WordPress para front-end, iniciando um projeto.</title>
+      <link>http://localhost/jhonny-roger/public/wordpress-para-front-end-iniciando-um-projeto/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/wordpress-para-front-end-iniciando-um-projeto/</guid>
+      <description>Após um sumiço (justificável) aqui do Tableless, garanto: continuo, por aí, na ativa “codando“, testando e opinando da perspectiva front-end/UX a respeito da evolução do desenvolvimento web.
+No último ano tive a chance de trabalhar incansavelmente com o opensource CMS Worpdress e se você não sabe do que estou falando, te aconselho a parar por aqui e clicar nos links abaixo:
+http://tableless.com.br/front-end-concluido-como-comecar-wordpress-parte-i/#.UVh-Aqt36So
+http://br.wordpress.org/
+http://www.youtube.com/watch?v=1skFgAcgZik
+Esta experiência, me fez adquirir alguns processos para iniciar novos projetos com o uso da plataforma e agora vou dividir com vocês.</description>
+    </item>
+    
+    <item>
+      <title>Como se tornar um profissional Top em WordPress</title>
+      <link>http://localhost/jhonny-roger/public/como-se-tornar-um-profissional-top-em-wordpress/</link>
+      <pubDate>Mon, 04 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/como-se-tornar-um-profissional-top-em-wordpress/</guid>
+      <description>Neste artigo, vou mostrar como você poderá se tornar um profissional Top em WordPress e isso pode valer não só para os desenvolvedores, mas também para blogueiros, designers e todos os outros.
+Primeiro, vamos definir algumas coisas: Se tornar um profissional Top em WordPress é um trabalho duro &amp;#8211; muito duro. Você precisará de tempo, energia e determinação. Se você está procurando um artigo rápido sobre esse tema, irá perder seu tempo.</description>
+    </item>
+    
+    <item>
+      <title>Cuidado com invasões no WordPress</title>
+      <link>http://localhost/jhonny-roger/public/cuidado-com-invasoes-no-wordpress/</link>
+      <pubDate>Fri, 20 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/cuidado-com-invasoes-no-wordpress/</guid>
+      <description>Um dos principais gerenciadores de conteúdo, o WordPress, possui ainda possui algumas falhas. É necessário ficar atento e tomar cuidado para qualquer situação.
+Há duas semanas, passei sérios problemas com o WordPress, com o blog Papo de Buteco. Nunca tinha passado por uma situação parecida com essa, e por isso que tomar cuidado antes de agir.
+Como verifiquei Por otimizar o site, sempre estou verificando como as páginas do blog estão se comportando no Google.</description>
+    </item>
+    
+    <item>
+      <title>Usando Meta Box em seu tema WordPress</title>
+      <link>http://localhost/jhonny-roger/public/usando-meta-box-em-seu-tema-wordpress/</link>
+      <pubDate>Tue, 20 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/usando-meta-box-em-seu-tema-wordpress/</guid>
+      <description>O que são Meta Boxes? Os Meta Boxes (Caixas de informações) foi implementado a partir da versão 2.5 do CMS, os Meta Boxes são aquelas caixas arrastáveis que estão presente na Dashboard, edição de um post, páginas, além de outros locais na área administrativa do WordPress.
+Os Meta Boxes é uma maneira atraente para a tela do editor de post e evita forçar os usuários a confiar em campos personalizados.</description>
+    </item>
+    
+    <item>
+      <title>Front-end concluído, como começar no WordPress? Parte I</title>
+      <link>http://localhost/jhonny-roger/public/front-end-concluido-como-comecar-wordpress-parte-i/</link>
+      <pubDate>Thu, 05 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/front-end-concluido-como-comecar-wordpress-parte-i/</guid>
+      <description>Andando pelo fórum do Tableless, me deparei com esta postagem, e pelo que eu vi, essa é uma grande dúvida para todos que estão iniciando no desenvolvimento com WordPress.
+O usuário Angelo Lucas do nosso fórum postou a seguinte resposta:
+  Desenvolva o Front-End do tema (HTML, CSS e Javascript) Instale o PHP, Mysql na sua máquina. Baixe o WordPress e instale-o, ele vem com alguns temas incluso Duplique um tema do wordpress e começe a implementar seu HTML na programação já existente, não é difícil, não é chato.</description>
+    </item>
+    
+    <item>
+      <title>Quando utilizar (ou não) frameworks CSS</title>
+      <link>http://localhost/jhonny-roger/public/quando-utilizar-ou-nao-frameworks-css/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/quando-utilizar-ou-nao-frameworks-css/</guid>
+      <description>Framework é um conjunto de componentes que provêm uma estrutura básica de elementos reutilizáveis, tendo uma arquitetura consistente de funcionalidade genérica sob a qual a aplicação será construída.
+No caso de CSS, os frameworks constituem bibliotecas que visam permitir a codificação do CSS de modo mais fácil e compatível com padrões de estilos, agregando uma série de opções já prontas para projetar uma página web, como se fosse um esqueleto, reduzindo o tempo gasto com o desenvolvimento.</description>
+    </item>
+    
+    <item>
+      <title>Melhorando carregamento do WordPress</title>
+      <link>http://localhost/jhonny-roger/public/melhorando-carregamento-wordpress/</link>
+      <pubDate>Thu, 09 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/melhorando-carregamento-wordpress/</guid>
+      <description>(Imagem retirada de http://www.netpaths.net/blog/how-to-increase-site-speed-for-google-page-load-algorithm/, em 02/06/11 às 21:06) A web cresceu, e com isso várias tecnologias e ferramentas foram criadas ou melhoradas para suprir necessidades requisitadas pelos usuários. Ao longo do tempo clientes e usuários vão pedindo sites mais bonitos e atraentes, e também exigindo rapidez. Para quem usa WordPress, existe aperfeiçoamento e acertos para deixar ele mais rápido. Já para quem não usa, lamento, mas é bom prestar atenção algumas dicas, pois podem servir.</description>
+    </item>
+    
+    <item>
+      <title>Posts Formats do WordPress</title>
+      <link>http://localhost/jhonny-roger/public/posts-formats-do-wordpress/</link>
+      <pubDate>Wed, 18 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/posts-formats-do-wordpress/</guid>
+      <description>O WordPress depois de sua atualização para versão 3.1, trouxe uma função de Formato nos Posts, que consiste em personalizar a visualização do post. É uma funcionalidade para temas, que oferece uma lista de formatos que estão disponíveis. São suportados os seguintes formatos:
+ aside gallery link image quote status video audio chat  Esses formatos são padrões, até hoje não se tem maneiras para criar um novo tipo de formato.</description>
+    </item>
+    
+    <item>
+      <title>Tags Condicionais do WordPress</title>
+      <link>http://localhost/jhonny-roger/public/tags-condicionais-do-wordpress/</link>
+      <pubDate>Tue, 12 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tags-condicionais-do-wordpress/</guid>
+      <description>As Tags Condicionais são funções próprias do WordPress capazes de manipular todo o conteúdo de sua página. Com elas, você ganha aquele tempo que iria perder criando aquelas condições para retornar seus valores de maneira personalizada. Geralmente retornam o valor em Booleano, ou seja, TRUE (verdadeiro) ou FALSE (falso).
+Como usar? [cce lang=&amp;#8221;php&amp;#8221;]
+&amp;lt;?php if(tag_condicional()){ //se verdadeiro, retorne isso }else{ //se falso, retorne isso } ?&amp;gt;
+[/cce]
+Tags que podem receber parâmetros dentro de sua função, ex:</description>
+    </item>
+    
+    <item>
+      <title>Custom Post Types no WordPress</title>
+      <link>http://localhost/jhonny-roger/public/custom-post-types-wordpress/</link>
+      <pubDate>Tue, 29 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/custom-post-types-wordpress/</guid>
+      <description>Custom Post Types é a função que manipula os tipos de conteúdo no WordPress, ou seja, pode-se criar conteúdos personalizados a partir da sua demanda. Isso é uma das provas mais concretas que temos hoje um CMS muito forte que não serve apenas para criar blog e/ou sites de pequeno porte.
+Criando Custom Post Types Como o assunto é muito amplo, criarei com vocês um exemplo de Notícias.
+Em functions.</description>
+    </item>
+    
+    <item>
+      <title>Otimizando seu site em WordPress para SEO</title>
+      <link>http://localhost/jhonny-roger/public/otimizando-site-wordpress-seo/</link>
+      <pubDate>Thu, 17 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/otimizando-site-wordpress-seo/</guid>
+      <description>Uma característica que defina o WordPress é a customização. Em poucas linhas conseguimos soluções significantes. Seja trabalhando com suas funções ou com seus plugins, temos resultados objetivos para preparar um Blog e até mesmo um site de grande porte, como temos hoje, vários exemplos disso.
+Elogiam muito o WordPress por ele ter uma facilidade para otimização de sites (SEO). Antes de começarem a ler as dicas que vou citar, faça a seguinte reflexão: O que é um site hoje, sem ser bem indexado pelos mecanismos de busca?</description>
+    </item>
+    
+    <item>
+      <title>Criando Menus no WordPress</title>
+      <link>http://localhost/jhonny-roger/public/criando-menus-no-wordpress/</link>
+      <pubDate>Wed, 02 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-menus-no-wordpress/</guid>
+      <description>Depois da versão 3.0, a criação de menus no WordPress tornou-se muito importante, pois se utiliza um gerenciador para reproduzir as informações do menu. No menu, pode-se criar links, integrar páginas e páginas de arquivo.
+Habilitando e registrando o menu Em functions.php do seu tema, adicione:
+[cce lang=&amp;#8221;php&amp;#8221;]
+if ( function_exists( &amp;#8216;register_nav_menu&amp;#8217; ) ) {
+register_nav_menu( &amp;#8216;meu_menu&amp;#8217;, &amp;#8216;Este é meu primeiro menu&amp;#8217; );
+register_nav_menu( &amp;#8216;segundo_menu&amp;#8217;, &amp;#8216;Este é meu segundo menu&amp;#8217; );</description>
+    </item>
+    
+    <item>
+      <title>Criando Sidebar Dinâmica no WordPress</title>
+      <link>http://localhost/jhonny-roger/public/criando-sidebar-dinamica-no-wordpress/</link>
+      <pubDate>Tue, 18 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-sidebar-dinamica-no-wordpress/</guid>
+      <description>O WordPress disponibiliza uma função para criar sidebars de forma dinâmica, onde no painel de administração podemos gerenciar todos os Widgets disponíveis ou Widgets instalados.
+Essa função, mais uma vez, sai na frente e contribui para o WordPress ser esse CMS tão poderoso para os desenvolvedores e os usuários que o utilizam.
+De início iremos registrar a sidebar. Para isso coloque esse código em functions.php:
+[cc lang=&amp;#8221;php&amp;#8221;]
+/* Registando a primeira sidebar*/</description>
+    </item>
+    
+    <item>
+      <title>Shortcodes</title>
+      <link>http://localhost/jhonny-roger/public/shortcodes/</link>
+      <pubDate>Tue, 18 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/shortcodes/</guid>
+      <description>Os shortcodes são abreviaturas no intuito de retornar o código desejado em uma única linha.
+Exemplos de Shortcodes Um exemplo de shortcode:
+[botao]Meu primeiro botão[/botao]
+Um exemplo de shortcode com parâmetros:
+[botao cor=”vermelho” url=”http://tableless.com.br”]Site do Tableless[/botao]
+Essa é a melhor solução para quem desenvolve sites para terceiros e deseja criar elementos com rapidez.
+Criando um Shortcode Para criar um shortcode, adicione o seguinte código em functions.php:
+[cce lang=&amp;#8221;php&amp;#8221;]
+&amp;lt;?php</description>
+    </item>
+    
+    <item>
+      <title>Adicionando Post Thumbnail</title>
+      <link>http://localhost/jhonny-roger/public/adicionando-post-thumbnail/</link>
+      <pubDate>Mon, 17 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/adicionando-post-thumbnail/</guid>
+      <description>Ativando o suporte ao Post Thumbnails em seu tema Antes de qualquer coisa, volto a lembrar que essa característica é do tema. Pode ser que alguns autores não ativem esse suporte. Para iniciar, adicione este seguinte código no arquivo functions.php:
+[cc lang=&amp;#8221;php&amp;#8221;]
+[/cc]
+Para ativar o suporte só é necessário este código. Bacana, né? O WordPress faz com que em poucas linhas de código possamos obter soluções significantes.
+A condição verifica se a função &amp;#8216;add_theme_support&amp;#8217; existe, caso ela exista, adicionamos um suporte ao nosso tema, que é o Post Thumbnails.</description>
+    </item>
+    
+    <item>
+      <title>Hierarquia de arquivos do WordPress</title>
+      <link>http://localhost/jhonny-roger/public/hierarquia-de-arquivos-do-wordpress/</link>
+      <pubDate>Wed, 08 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/hierarquia-de-arquivos-do-wordpress/</guid>
+      <description>Para criar um bom theme para WordPress, você precisa conhecer bem a estrutura de arquivos que são utilizados no construir estes themes. São usados vários arquivos que setorizam as várias funcionalidades do blog ou site. Veja abaixo arquivos que são normalmente utilizados:
+ Página de Erro 404 &amp;#8211; 404.php Histórico e Arquivo &amp;#8211; archive.php Index de Histórico e Arquivo &amp;#8211; archives.php Página de uma Categoria &amp;#8211; category.php Comentários &amp;#8211; comments.</description>
+    </item>
+    
+    <item>
+      <title>Mostrar posts recentes no WordPress</title>
+      <link>http://localhost/jhonny-roger/public/mostrar-posts-recentes-no-wordpress/</link>
+      <pubDate>Tue, 23 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/mostrar-posts-recentes-no-wordpress/</guid>
+      <description>&lt;p&gt;Pode ser interessante para você mostrar em seu site os posts mais recentes criados no &lt;a href=&#34;http://taleless.com.br/wordpress/&#34; title=&#34;Artigos sobre WordPress&#34;&gt;WordPress&lt;/a&gt;, na sidebar, por exemplo, dessa forma você pode deixar seu site mais atrativo aos visitantes pois assim eles não ficariam limitados a ver somente os posts que são listados na home do site. O código para gerar uma lista com os últimos posts é muito simples, basta ter algum conhecimento de HTML para editar os arquivos.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Vídeos, WordPress, Internet Móvel e mais</title>
+      <link>http://localhost/jhonny-roger/public/videos-wordpress-internetmovel-mais/</link>
+      <pubDate>Sun, 31 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/videos-wordpress-internetmovel-mais/</guid>
+      <description>&lt;p&gt;O &lt;a href=&#34;http://tableless.com.br/&#34; title=&#34;Informações sobre tableless e boas práticas de desenvolvimento&#34;&gt;Tableless&lt;/a&gt; está passando por pequenas mudanças, pequenas mas substanciais.&lt;/p&gt;
+
+&lt;p&gt;Muita gente me disse que depois do último redesign, ficou muito difícil para encontrar informações aqui no Tableless. Para mim, dono do site, que sei onde encontrar tudo nessa budega, duvidei um pouco, mas depois notei que isso era verdade. Por isso, resolvi organizar melhor o conteúdo. Para começar, separei&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Criar páginas no WordPress</title>
+      <link>http://localhost/jhonny-roger/public/criar-paginas-no-wordpress/</link>
+      <pubDate>Tue, 26 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criar-paginas-no-wordpress/</guid>
+      <description>&lt;p&gt;O WordPress permite total controle sobre a criação de conteúdo, inclusive a criação de novas páginas.&lt;/p&gt;
+
+&lt;p&gt;Para termos acesso a esse recurso, utilizamos o método &lt;a title=&#34;wp_list_pages ()&#34; rel=&#34;external&#34; href=&#34;http://codex.wordpress.org/Template_Tags/wp_list_pages&#34;&gt;wp_list_pages ()&lt;/a&gt;, método pelo qual, após a criação das páginas, elas são mostradas automaticamente no seu site, pois a grande maioria dos templates para WordPress já vem com essa função, que fica localizada no arquivo header.php do tema do WordPress, gerando uma lista de páginas semelhante a essa:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bloginfo Template Tag</title>
+      <link>http://localhost/jhonny-roger/public/bloginfo-template-tag/</link>
+      <pubDate>Thu, 21 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/bloginfo-template-tag/</guid>
+      <description>&lt;p&gt;A &lt;a href=&#34;http://tableless.com.br/bloginfo-template-tag/&#34;&gt;Template Tag Bloginfo&lt;/a&gt; mostra informações sobre o blog. A maioria dessas informações são modificadas diretamente no painel de controle da sua instalação do WordPress. Isso pode ser utilizado em qualquer lugar do seu site. A Template Tag é a &lt;strong&gt;get_bloginfo()&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Por exempo, se você precisa do nome do site para colocar em algum lugar do site, como o Logo, a sintaxe seria:&lt;/p&gt;
+
+&lt;pre lang=&#34;php&#34; line=&#34;1&#34;&gt;&lt;h1&gt;
+  &lt;?php bloginfo(&#39;name&#39;); ?&gt;
+&lt;/h1&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>WordPress Include Tags</title>
+      <link>http://localhost/jhonny-roger/public/wordpress-include-tags/</link>
+      <pubDate>Sun, 06 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/wordpress-include-tags/</guid>
+      <description>&lt;p&gt;O &lt;a href=&#34;http://wordpress.org/&#34;&gt;WordPress&lt;/a&gt; tem 3 TemplatesTags para incluir elementos básicos de Cabeçalho, Coluna lateral (sidebar) e Rodapé, são eles: get_header(), get_sidebar() e get_footer(). Essas TemplateTags não aceitam qualquer tipo de parâmetro, portanto são simples de se aplicar. Em todos os themes do WordPress, essas 3 TemplateTags estão sempre presentes, mesmo assim, você pode modificar isso incluindo outro arquivo que não seja o padrão que o WP estabeleceu.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>O LOOP do WordPress</title>
+      <link>http://localhost/jhonny-roger/public/o-loop-do-wordpress/</link>
+      <pubDate>Mon, 28 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-loop-do-wordpress/</guid>
+      <description>O WordPress tem vários segredos&amp;#8230; um dos segredos mais interessantes é o Loop.
+O Loop é usado no WordPress para mostrar os posts e páginas do site. O WordPress procura pelas páginas ou posts publicados no sistema e exibe seu conteúdo na página de acordo com os critérios que especificamos com as Template Tags. Qualquer código HTML ou PHP colocado no Loop será repetido em cada um dos posts exibidos.</description>
+    </item>
+    
+    <item>
+      <title>WordPress – Uma pequena introdução</title>
+      <link>http://localhost/jhonny-roger/public/wordpress-uma-pequena-introducao/</link>
+      <pubDate>Sun, 10 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/wordpress-uma-pequena-introducao/</guid>
+      <description>O WordPress não foi feito para ser um CMS. Ele foi criado primeiramente para suprir necessidades de criação de blogs. Por acaso, talvez como se fosse um acidente, começamos a utilizá-lo para criar websites, desde os mais simples até os mais complicados. O pessoal do WordPress curtiu a ideia e agora está melhorando cada vez mais o sistema para que ele se torne um CMS de verdade, mesmo assim mantendo toda a simplicidade do WordPress original.</description>
+    </item>
+    
+  </channel>
+</rss>

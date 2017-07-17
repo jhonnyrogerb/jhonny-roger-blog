@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245849">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<h2 id="um-pouco-de-teoria-antes-da-diversão">Um pouco de Teoria antes da diversão.</h2>
+
+<p>Muitas vezes, um simples princípio não compreendido, pode confundir novatos ou especialistas em JavaScript. Neste artigo, vamos tentar entender melhor um problema comum, que é mais simples do que parece.</p>
+
+<h2 id="declarações-na-frente">Declarações na frente</h2>
+
+<p>Antigamente em linguagens como C, se usavam funções ou procedimentos para dividir um programa, mas havia um problema: as declarações deveriam ficar sempre na frente.</p>
+
+<p>Suponha que você queira usar uma função que junta palavras:</p>
+
+<pre class="lang-javascript">juntarPalavras('Arco', 'íris');</pre>
+
+<p>Mas temos um problema aqui, não? Essa função não foi definida antes de ser chamada!</p>
+
+<p>O programa retornará um erro, pois <strong>juntarPalavras()</strong> não foi criada, ou acha que a linguagem deve permitir que você use funções que são definidas no final do código?</p>
+
+<p>Declarar funções no início do programa resolveu o problema por um tempo, pois todas as funções e variáveis eram declaradas antes de serem usadas, sendo assim não se tinha erros de referência.</p>
+
+<p>Com o tempo os programadores pensaram: &#8220;Mas por que cargas d&#8217;água não fazemos isso mais amigável e fácil de ler?&#8221;, &#8220;por que ler o código de baixo para cima e, não de cima para baixo?&#8221;. Agora podemos colocar as definições em qualquer lugar do código e usá-los, mesmo antes de realmente serem definidos, que maravilha não?</p>
+
+<p>O que acontece agora é que os compiladores ou até mesmo linguagens runtime leem todo o programa para saber que funções e variáveis você declarou no código. Após isso, a execução real acontece e ele já sabe onde está cada coisa. JavaScript faz exatamente isso, o que chamamos de Hoisting.</p>
+
+<h2 id="hora-da-diversão">Hora da diversão</h2>
+
+<p>Vamos começar com algo leve, para ir aquecendo os neurônios, veja o seguinte código:</p>
+
+<pre class="lang-javascript">nome = 'Jonatan';
+console.log(nome);
+// Jonatan
+</pre>
+
+<p>Até aqui nada de novo, apenas iniciamos a variável nome com o valor jonatan e mostramos na tela;</p>
+
+<p>Certo, e que tal tentarmos isso:</p>
+
+<pre class="lang-javascript">var nome = meunome;
+console.log(nome);
+// ReferenceError: meunome is not defined
+</pre>
+
+<p>Recebemos um erro bem obvio não acha? Como vamos definir o <strong>nome</strong> com o valor de <strong>meunome</strong> se essa variável nem existe ainda?</p>
+
+<p>Agora, deste jeito:</p>
+
+<pre class="lang-javascript">var nome = meunome;
+console.log(nome);
+var meunome;
+// undefined
+</pre>
+
+<p>Opa! “undefined”, sacam a jogada?</p>
+
+<p>Isso acontece porque o JavaScript não obriga você a declarar variáveis, ​​permite que você defina as funções em qualquer lugar que você queira, o que lhe permite usar uma função antes de sua definição. O nome hoisting, elevação ou até mesmo içamento, é só um termo especificado, pois ele arranca as declarações até o topo do seu escopo.</p>
+
+<p>Beleza, agora qual a diferença entre declaração e inicialização? Simples:</p>
+
+<p>Aqui apenas declaramos a variável <strong>meunome</strong>.</p>
+
+<pre class="lang-javascript">var meunome;
+//undefined
+</pre>
+
+<p>Já nesta parte iniciamos seu conteúdo como <strong>Jonatan</strong>.</p>
+
+<pre class="lang-javascript">meunome = 'Jonatan';
+//Jonatan
+</pre>
+
+<p>Este é o mesmo procedimento feito com as funções:</p>
+
+<pre class="lang-javascript">console.log(multiplicaNumero(10,10));
+var multiplicaNumero = function(a,b) {
+  return a*b;
+}
+//TypeError: undefined is not a function
+</pre>
+
+<p>Viram? Ele elevou a declaração var multiplicaNumero, mas como chamamos antes de ele ser iniciado recebemos um erro.</p>
+
+<p>Se mudarmos para:</p>
+
+<pre class="lang-javascript">console.log(multiplicaNumero(10,10));
+multiplicaNumero = function(a,b) {
+  return a*b;
+}
+//ReferenceError: multiplicaNumero is not defined
+</pre>
+
+<p>Recebemos o erro nos dizendo que <strong>multiplicaNumero</strong> não foi declarado.</p>
+
+<p>Alteramos novamente:</p>
+
+<pre class="lang-javascript">console.log(multiplicaNumero(10,10));
+function multiplicaNumero (a,b) {
+  return a*b;
+}
+// 100
+</pre>
+
+<p>E agora o código executou sem erro porque toda declaração de função não anônima é elevada para o topo do escopo.</p>
+
+<p>Fácil não é? Com isso aprendemos que é uma boa prática declarar e/ou iniciar variáveis e funções no início do escopo:</p>
+
+<pre class="lang-javascript">var a, foo = 'bar';
+var bar = function(){
+  var foo = 'foo';
+  console.log('local: '+foo);
+};
+bar();
+console.log('global: '+foo);
+//local: foo
+//global: bar 
+</pre>
+
+<p>Boas práticas nos levam a caminhos melhores.</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/indo-alem-no-react-native//?utm_source=tablelessRelatedLin">Indo além no Mundo React-Native</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/seu-primeiro-bot-para-o-telegram//?utm_source=tablelessRelatedLin">Seu primeiro bot para o Telegram</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245849"></script>

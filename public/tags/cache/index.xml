@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cache on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/cache/</link>
+    <description>Recent content in Cache on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 07 Jul 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/cache/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Acelere o carregamento de seu site com PHP Caching</title>
+      <link>http://localhost/jhonny-roger/public/acelere-o-carregamento-de-seu-site-com-php-caching/</link>
+      <pubDate>Thu, 07 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/acelere-o-carregamento-de-seu-site-com-php-caching/</guid>
+      <description>Criar um site dinâmico, de fácil manutenção e que carregue rápido é o desejo de todo desenvolvedor, mas para isso não existe uma fórmula mágica, é necessário conciliar diferentes ferramentas e técnicas. 
+Mas muitos desenvolvedores iniciantes em PHP não conhecem as soluções existentes ou tem medo da curva de aprendizado que os frameworks exigem.
+O foco desse artigo é mostrar para esses desenvolvedores como uma técnica simples, utilizando apenas comandos básicos do PHP, pode acelerar o carregamento de seu site e evitar que ele fique caindo.</description>
+    </item>
+    
+    <item>
+      <title>Cache busting: entrega inteligente de assets</title>
+      <link>http://localhost/jhonny-roger/public/cache-busting-entrega-inteligente-de-assets/</link>
+      <pubDate>Thu, 18 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/cache-busting-entrega-inteligente-de-assets/</guid>
+      <description>Definição Cache busting nada mais é do que uma técnica para contornar o problema do carregamento de versões antigas dos assets armazenados em cache no navegador do cliente.
+Problema Na verdade, essa é uma questão de longa data. Muitos desenvolvedores utilizam-se do incremento de variáveis com códigos aleatórios no final das chamadas (querystrings) dos assets para contornar o problema, o que, de acordo com Steve Souders, guru em performance de sites na web, não é uma boa prática.</description>
+    </item>
+    
+    <item>
+      <title>Otimizando seu site em WordPress para SEO</title>
+      <link>http://localhost/jhonny-roger/public/otimizando-site-wordpress-seo/</link>
+      <pubDate>Thu, 17 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/otimizando-site-wordpress-seo/</guid>
+      <description>Uma característica que defina o WordPress é a customização. Em poucas linhas conseguimos soluções significantes. Seja trabalhando com suas funções ou com seus plugins, temos resultados objetivos para preparar um Blog e até mesmo um site de grande porte, como temos hoje, vários exemplos disso.
+Elogiam muito o WordPress por ele ter uma facilidade para otimização de sites (SEO). Antes de começarem a ler as dicas que vou citar, faça a seguinte reflexão: O que é um site hoje, sem ser bem indexado pelos mecanismos de busca?</description>
+    </item>
+    
+  </channel>
+</rss>

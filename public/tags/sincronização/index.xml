@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sincronização on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/sincroniza%C3%A7%C3%A3o/</link>
+    <description>Recent content in Sincronização on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 17 Jul 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/sincroniza%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Criando um aplicativo simples de chat com Firebase</title>
+      <link>http://localhost/jhonny-roger/public/criando-um-aplicativo-simples-de-chat-com-firebase/</link>
+      <pubDate>Thu, 17 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-um-aplicativo-simples-de-chat-com-firebase/</guid>
+      <description>Firebase é uma plataforma para desenvolvimento de aplicativos baseados em armazenamento e sincronização de dados em tempo real utilizando apenas código client-side. Utilizando o Firebase você será capaz de armazenar e sincronizar os dados da aplicação de uma maneira extremamente simples e direta, o que é extremamente conveniente quando pensamos em aplicações como chats e jogos.
+Firebase oferece integração com várias plataformas como Angular, Ember e Node.js, mas você pode simplesmente incluir a biblioteca javascript em uma página html simples e começar a desenvolver uma aplicação com transmissão de dados em tempo real.</description>
+    </item>
+    
+  </channel>
+</rss>

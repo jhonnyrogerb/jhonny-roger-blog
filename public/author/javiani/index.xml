@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javiani on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/javiani/</link>
+    <description>Recent content in Javiani on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 09 Sep 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/javiani/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Invertendo o Redux</title>
+      <link>http://localhost/jhonny-roger/public/invertendo-o-redux/</link>
+      <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/invertendo-o-redux/</guid>
+      <description>Introdução &amp;nbsp;
+Já faz um tempo desde que implementei pela primeira vez o Redux. Numa época que só se falava nos frameworks, ele apareceu do nada, pelo menos para mim. Eu já conhecia o Flux, mas ainda não era o que estava procurando. O Redux realmente é uma das melhores idéias que vi, para mim faz todo o sentido e ainda é simples de entender e de se implementar.</description>
+    </item>
+    
+    <item>
+      <title>A arquitetura Redux usando Jails</title>
+      <link>http://localhost/jhonny-roger/public/arquitetura-redux-usando-jails/</link>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/arquitetura-redux-usando-jails/</guid>
+      <description>Ultimamente tenho me preocupado mais com arquiteturas no front-end do que propriamente com as implementações de alguns frameworks. Isso porque eu acho que realmente nos falta um pouco mais de conhecimento sistêmico, mais arquitetural, porque os problemas só estão crescendo e percebi que pelo menos eu não estava acompanhando devidamente a complexidade das aplicações desenvolvidas em Javascript.
+Uma pequena reflexão Os frameworks acabaram aparecendo nos últimos tempos e percebo que tiveram uma importância muito maior do que o nosso amadurecimento quanto aos novos desafios nas aplicações web, especificamente na linguagem Javascript.</description>
+    </item>
+    
+    <item>
+      <title>Jails – O Framework e a Arquitetura do Javascript</title>
+      <link>http://localhost/jhonny-roger/public/jails-o-framework-e-arquitetura-javascript/</link>
+      <pubDate>Wed, 17 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/jails-o-framework-e-arquitetura-javascript/</guid>
+      <description>Quero compartilhar algo que estive desenvolvendo há um tempo: um framework JavaScript. Sim, mais um&amp;#8230; porém este não é um MVC. Eu não acredito muito no MVC como vem sendo difundido para o front-end. Quem já leu algo sobre o React deve imaginar que não estou só nesta maneira de pensar.
+Faz um bom tempo que trabalho com JavaScript e dentre todas as formas que usei para elaborar um projeto, uma se destacou por ser a mais eficaz.</description>
+    </item>
+    
+  </channel>
+</rss>

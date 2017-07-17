@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245864">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>Felizmente, com a ajuda dos Web Standards, o trabalho para criar um site ficou muito mais fácil, rápida e o mais importante, divertida.</p>
+
+<p>Hoje, você troca de layout a hora que quiser, sem se preocupar em ter que refazer todo o código e programação. Eles já estão feitos, por que ter que recriá-los? Então, você troca apenas 1 arquivo CSS, e seu site muda completamente, sem dor de cabeça, apenas mudando a lente de formatação.</p>
+
+<p>E com as qualidades do <acronym title="Cascading Style Sheets - Folhas de Estilo em Cascata">CSS</acronym>, também se tornou fácil fazer várias vesões de um mesmo site para diversas medias. O que eu quero dizer com isso? Muito simples&#8230; Antes, se você quisesse prover para seu visitante uma versão do seu site para imprimir, você faria uma versão do seu layout mais enxuta, sem as informações que se tornariam desnecessárias uma vez impressas. Teria que refazer o HTML, tirar partes de código e etc&#8230; Hoje, você simplesmente cria um CSS para a media de impressão, e pelo CSS oculta os objetos que você quiser. Muito mais fácil, muito mais prático.</p>
+
+<p>Do mesmo jeito que você faz uma versão do CSS para site ser impresso, você fará uma folha de estilo para os HandHelds. Ou seja, o camarada que entrar usando um dispositivo móvel, terá uma versão totalmente compatível, e sem informações que não lhe é interessante quando está usando esse dispositivo.</p>
+
+<p>A mecanica é mesma. Com CSS você oculta as informações não são interessantes para o usuário de mobiles. Por exemplo, se o cidadão acessar o site da <a href="http://www.uol.com.br/">UOL</a> com um mobile, não é interessante para ele, ver boa parte de cabeçalho do UOL. Como por exemplo os links de ASSINE UOL ou links para o BATE-PAPO. Essas informações seriam facilmente ocultadas.</p>
+
+<p>Você fará então, várias versões de CSS para vários tipos de Medias. Usará o mesmo XHTML, sem tocar em nenhum código de programação, manipulando totalmente o site para se adequarem às Medias desejáveis.</p>
+
+<p>Suas tags para linkar os arquivos CSS ficarão desta maneira:</p>
+
+<dl>
+<dt>Screen: Para Desktops</dt>
+<dd><link rel=&#8221;stylesheet&#8221; type=&#8221;text/css&#8221; href=&#8221;screen.css&#8221; media=&#8221;screen&#8221; /></dd>
+<dt>Print: Para Impressão</dt>
+<dd><link rel=&#8221;stylesheet&#8221; type=&#8221;text/css&#8221; href=&#8221;print.css&#8221; media=&#8221;print&#8221; /></dd>
+<dt>HandHelds: Para HandHelds, PDA´s, etc</dt>
+<dd><link rel=&#8221;stylesheet&#8221; type=&#8221;text/css&#8221; href=&#8221;handheld.css&#8221; media=&#8221;handheld&#8221; /></dd>
+</dl>
+
+<p>Perceba que em todas as linhas, há um atributo MEDIA. É com esse atributo que diremos ao navegar onde ele deve aplicar o CSS. Se o camarada visita o site com um dispositivo móvel, com um navegador que seja de acordo com os Padrões (óbvio), vai usar automáticamente para renderizar o site, o CSS de HandHelds, em vez de Screen. Você não terá trabalho para fazer um script que chaveia nem nada parecido, como fazem alguns sites hoje em dia. Esse chaveamento será feito automáticamente, pelo navegador.</p>
+
+<p>Trabalho? Quase zero. Você teve apenas que criar um novo CSS, escondendo objetos, diminuindo e modificando outros. Alguns mais ousados, farão uma versão que segue o estilo do site visto por desktops, mas mais direcionado a usuários de Mobiles, deixando mais confortáveis.</p>
+
+<p>Compare as duas imagens abaixo. Usei como modelo o site do Opera, eles fizeram um belo trabalho. Primeiro, um screeshot do site visto de um monitor, com MediaType Screen.</p>
+
+<p><a href="/artigos/sites-mobiles/opera-screen.jpg"><img src="/artigos/sites-mobiles/opera-screen.jpg" alt="Opera visto pelo Desktop" width="530" /></a></p>
+
+<p>Agora, confira o mesmo site, só que visto com o CSS destinado a HandHelds. Perceba as diferenças e veja que eles ocultaram boa parte das informações, como por exemplo, aquela chamada enorme sobre o download do Opera 8.5, que é interessante apenas para os usuários de Desktop, não para usuários de Mobiles.</p>
+
+<p><a href="/artigos/sites-mobiles/opera-handheld.jpg"><img src="/artigos/sites-mobiles/opera-handheld-preview.jpg" alt="Opera visto em um HandHeld" /></a></p>
+
+<p>Eles aproveitaram também para rebuscar o design para esses dispositivos. A experiência do usuário, com certeza será satisfatória. É confortável de navegar. Você pode trabalhar melhor outras partes do desenvolvimento, como por exemplo, estudos de usabilidade. Você tem toda liberdade que o CSS pode lhe dar.</p>
+
+<h3 id="propriedades-css-mais-usadas">Propriedades CSS mais usadas</h3>
+
+<p>Todas as propriedades do CSS estarão disposníveis para o uso na manipulação para qualquer media. Claro, na media screen é que você usará mais largamente os mais variados tipos de propriedades que o CSS concede. Na media screen, as propriedades que você mais usará será a WIDTH, HEIGHT e DISPLAY.</p>
+
+<p><strong>Width</strong> e <strong>Height</strong> são propriedades que serve para definir largura e altura, respectivamente. Elas tem duas variação, onde você define qual largura/altura máxima que dado objeto pode ter. São elas <strong>max-width</strong> e <strong>max-hight</strong>.</p>
+
+<p>Então, você definirá no CSS de handheld, qual a largura máxima, que por exemplo, o body deverá ter.</p>
+
+<pre>body {max-width: 240px;}</pre>
+
+<p>Já a propriedade <strong>display</strong>, será muito usada para ocultar os objetos. Muitas informações que aparecem em alguma parte do layout, muitas vezes não são úteis para os usuários de mobiles, portanto, ocultar essas informações é um favor que você faz para os usuários.</p>
+
+<p>Há algo sobre o assunto no site do Opera, não custa nada dar uma olhada&#8230; <a href="http://www.opera.com/products/mobile/dev/multiple/">Visite e leia</a>.</p>
+
+<h3 id="testando">Testando</h3>
+
+<p>Você não precisa ter um dispositivo móvel para conseguir saber como seu site se comportará. Basta simplesmente usar o sistema de SSR do Opera, ele é ativado apertando a combinação de teclado <kbd>SHIFT + F11</kbd>.</p>
+
+<p>Se você já tem um CSS para media de HandHeld, ele ativará automáticamente esse CSS no SSR.</p>
+
+<p>Meu conselho é você primeiro tudo testar o site sem CSS para HandHeld para ter uma noção de como ele será exibido sem formatação específica. Depois, aplique um CSS para HandHelds, e compare a diferença. Veja como você tem mais controle sobre o layout.</p>
+
+<p>E atenção&#8230; Não são todos os browsers que tem um sistema tão bom quanto o Opera. E, hoje em dia, apenas o Opera e o <a href="http://www.mozilla.org/projects/minimo/">MiniMo</a> (uma versão do Mozilla para mobiles) tem amplo suporte de CSS. O resto dos browsers tem pouca ou quase nenhum suporte. O IE para HandHeld por exemplo, não tem tanto suporte quanto os outros dois, por exemplo, ele não reconhece MediaTypes.</p>
+
+<p>Vamos nos dar mais atenção a esse mercado. Ele está crescendo e a cada ano surgem novas possibilidades. É um ramo que cresce rápido, e não vai demorar muito você ver qualquer pessoa na rua visitando algum site para consultar um mapa ou procurar qualquer tipo de informação. É muito importante que os desenvolvedores atentem para esse grande caminho.</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/indo-alem-no-react-native//?utm_source=tablelessRelatedLin">Indo além no Mundo React-Native</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/estatistica-basica-projetos-agile//?utm_source=tablelessRelatedLin">Estatística básica nas entregas de projetos agile — Moda, mediana e percentil</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245864"></script>

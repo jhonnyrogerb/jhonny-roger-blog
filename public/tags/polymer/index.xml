@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Polymer on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/polymer/</link>
+    <description>Recent content in Polymer on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 08 Jun 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/polymer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Polymer 1.0 : Pronto para produção</title>
+      <link>http://localhost/jhonny-roger/public/polymer-1-0-pronto-para-producao/</link>
+      <pubDate>Mon, 08 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/polymer-1-0-pronto-para-producao/</guid>
+      <description>Fala Galera,&amp;nbsp;vamos falar hoje sobre a versão 1.0 do&amp;nbsp;Polymer. Fiz um compilado da palestra de lançamento realizada&amp;nbsp;no Google I/O 2015 que você pode conferir aqui.
+Mas vamos ao que interessa&amp;#8230; Para&amp;nbsp;continuar, nada melhor do que relembrar que o propósito do Polymer é de oferecer&amp;nbsp;uma nova solução sobre&amp;nbsp;a forma que desenvolvemos aplicações web (desktop e/ou mobile), tendo como base os Web Components e os&amp;nbsp;diversos recursos oferecidos pela web moderna, visando assim um amadurecimento da Web Platform como um todo e a&amp;nbsp;nível do que já encontramos em outras plataformas consolidadas.</description>
+    </item>
+    
+  </channel>
+</rss>

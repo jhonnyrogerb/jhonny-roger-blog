@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245842">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>Vivemos um momento de transição no mundo Javascript com a aprovação do ES2015 ou ES6, porém, este novo padrão ainda não é suportado totalmente por todos os navegadores, para administrar este problema foi criado o Babel, um compiler Javascript, que além de suas muitas funções, nesta versão 6, pode transformar ES2015 em ES5.</p>
+
+<h2 id="instalando">Instalando</h2>
+
+<p>Para este tutorial, iremos utilizar o <a href="https://github.com/babel/babelify" target="_blank">Babelify</a>, um módulo <a href="https://www.npmjs.com/" target="_blank">npm</a> feito para funcionar juntamente com o <a href="http://browserify.org/" target="_blank">Browserify</a>, outro módulo que empacota todos os seus requires para serem usados no browser.</p>
+
+<p>Para instalar ambos, é necessário ter instalado em seu computador o <a href="https://nodejs.org/" target="_blank">Node.js</a>, que juntamente instala o npm (Node Package Manager) ou Gerenciador de Pacotes Node.</p>
+
+<p>Navegue via terminal até a raiz do seu projeto e digite o comando abaixo:</p>
+
+<pre class="lang-bsh">npm install --save-dev browserify babelify babel-preset-es2015
+</pre>
+
+<p>O comando irá instalar o Browserify, Babelify e o plugin es2015 do Babel, responsável por cuidar da conversão de ES2015 para ES5, além de salvá-los na lista de devDependencies do seu <a href="https://docs.npmjs.com/files/package.json" target="_blank">package.json</a>. Nesta versão do Babel (6) nenhum plugin é instalado por padrão, por isso precisamos instalar ele à parte, você pode encontrar a lista completa de plugins <a href="http://babeljs.io/docs/plugins/" target="_blank">aqui</a>.</p>
+
+<h2 id="configurando">Configurando</h2>
+
+<h3 id="script">Script</h3>
+
+<p>Para configurarmos via script, abra o seu arquivo <a href="https://docs.npmjs.com/files/package.json" target="_blank">package.json</a>, crie a sessão <a href="https://docs.npmjs.com/misc/scripts" target="_blank">scripts</a> e nela vamos adicionar o código que irá transformar seu código ES2015 para ES5:</p>
+
+<pre class="lang-js">"build-browserify": "browserify ./src/meuarquivo.js -t [ babelify --presets [ es2015 ] ] -o ./dist/meunovoarquivo.js"
+</pre>
+
+<p>Explicando um pouco mais sobre o código acima:</p>
+
+<p>./src/meuarquivo.js &#8211; Este é o local do seu arquivo JS escrito nos padrões ES2015.</p>
+
+<p>-t [ babelify &#8211;presets [ es2015 ] ] &#8211; A option -t se refere à transform, que utiliza de módulos de transformação terceiros, neste caso o <a href="https://github.com/babel/babelify" target="_blank">Babelify</a>. Passamos o módulo que iremos utilizar e passamos uma option para o módulo (&#8211;presets), nesta option listamos os <a href="http://babeljs.io/docs/plugins/" target="_blank">plugins</a> que iremos utilizar do Babel, que será o es2015.</p>
+
+<p>-o ./dist/meunovoarquivo.js &#8211; A option -o se refere à output, aqui passamos o destino do nosso arquivo, que será gerado após a transformação.</p>
+
+<h3 id="grunt">Grunt</h3>
+
+<p>Podemos utilizar também o <a href="http://gruntjs.com/" target="_blank">Grunt</a>, um Task Runner de Javascript, para realizarmos a transformação do arquivo. Para isso é necessário instalarmos mais um módulo npm, o <a href="https://www.npmjs.com/package/grunt-browserify" target="_blank">grunt-browserify</a> (contando que você já tenha instalado em seu projeto os módulos <a href="https://www.npmjs.com/package/grunt" target="_blank">grunt</a> e <a href="https://www.npmjs.com/package/grunt-cli" target="_blank">grunt-cli</a>).</p>
+
+<p>Novamente na raiz do seu projeto via terminal, digite o comando abaixo:</p>
+
+<pre class="lang-bsh">npm install --save-dev grunt-browserify
+</pre>
+
+<p>Após a instalação, vá em seu arquivo <a href="http://gruntjs.com/sample-gruntfile" target="_blank">Gruntfile.js</a> e adicione no config:</p>
+
+<pre class="lang-js">browserify: {
+    dist: {
+        options: {
+            "transform": [ ["babelify", { "presets": ["es2015"] }] ]
+        },
+        files: {
+            './dist/meunovoarquivo.js': ['./src/meuarquivo.js']
+        }
+    }
+}
+</pre>
+
+<p>Depois, carregue o módulo e registre uma task:</p>
+
+<pre class="lang-js">grunt.loadNpmTasks('grunt-browserify');
+grunt.registerTask('default', ['browserify']);
+</pre>
+
+<h2 id="conclusão">Conclusão</h2>
+
+<p>Ainda estamos iniciando essa nova fase de ES2015, porém já podemos perceber que o futuro espera muitas novidades e um crescimento maravilhoso do Javascript.</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/indo-alem-no-react-native//?utm_source=tablelessRelatedLin">Indo além no Mundo React-Native</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/seu-primeiro-bot-para-o-telegram//?utm_source=tablelessRelatedLin">Seu primeiro bot para o Telegram</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/paginas_acessiveis_hatemile//?utm_source=tablelessRelatedLin">Páginas acessíveis com o HaTeMiLe</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245842"></script>

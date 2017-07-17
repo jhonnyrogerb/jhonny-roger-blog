@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Backend on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/backend/</link>
+    <description>Recent content in Backend on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 17 Nov 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/backend/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Features que sua API REST precisa ter desde o início</title>
+      <link>http://localhost/jhonny-roger/public/features-que-sua-api-rest-precisa-ter-desde-o-inicio/</link>
+      <pubDate>Thu, 17 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/features-que-sua-api-rest-precisa-ter-desde-o-inicio/</guid>
+      <description>Eu tenho trabalhado com dados suavemente flutuando através do protocolo http por um tempo e agora eu tenho esse sentimento altruísta de que eu posso contribuir com os desenvolvedores mais jovens com algumas histórias sobre os desafios que enfrentei durante a minha jornada.
+Este artigo basicamente tem o objetivo de listar e discutir sobre alguns pontos importantes que sua API, possivelmente, poderia abraçar desde o início do projeto, a fim de acelerar o processo de desenvolvimento para todos em sua equipe.</description>
+    </item>
+    
+    <item>
+      <title>Por que utilizar Go/Golang no seu backend?</title>
+      <link>http://localhost/jhonny-roger/public/por-que-utilizar-gogolang-no-seu-backend/</link>
+      <pubDate>Tue, 28 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/por-que-utilizar-gogolang-no-seu-backend/</guid>
+      <description>O tempo passa e quando você é viciado no que faz, no meu caso, codar, a busca por se aprimorar ou descobrir novas maneiras de resolver os problemas da sua área nunca param, assim sendo, um belo dia, cheguei até o Go e desde então não parei mais de aprender sobre a linguagem. A ideia é a cada semana fazer um post sobre, iniciando agora com uma simples introdução e sugestões de artigos para se animar.</description>
+    </item>
+    
+    <item>
+      <title>Por que Python?</title>
+      <link>http://localhost/jhonny-roger/public/por-que-python/</link>
+      <pubDate>Tue, 29 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/por-que-python/</guid>
+      <description>Eu sou apaixonado por Python. Muito. Daquele tipo que fala de Python sempre que pode. E uma pergunta que sempre me fazem é: por quê? Vou tentar fazer uma lista dos motivos mais relevantes:
+1. É muito bom escrever código Python Geralmente, quando alguém cria uma linguagem de programação, tem em vista um objetivo. Por exemplo, Lisp foi escrita para programação funcional. Java foi escrita para que o mesmo código pudesse rodar em qualquer lugar.</description>
+    </item>
+    
+    <item>
+      <title>JAVA – O caminho do aprendizado</title>
+      <link>http://localhost/jhonny-roger/public/java-o-caminho-aprendizado/</link>
+      <pubDate>Thu, 16 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/java-o-caminho-aprendizado/</guid>
+      <description>Para entender o que é o Java, é preciso compreender três elementos que quando estão juntos, se torna possível o desenvolvimento de um sistema, são eles: Uma linguagem de programação, um ambiente de desenvolvimento e uma interface de programas aplicativos (Applications Programming Interface – API).
+Uma linguagem é composta por um conjunto de palavras e símbolos utilizados pelos programadores para escrever cada parte de um programa. Além disso, ela também define regras de sintaxe que precisam ser observadas.</description>
+    </item>
+    
+    <item>
+      <title>PHP Slim Framework</title>
+      <link>http://localhost/jhonny-roger/public/php-slim-framework/</link>
+      <pubDate>Wed, 04 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/php-slim-framework/</guid>
+      <description>O Slim Framework é um microframework PHP que facilita sua vida na hora de fazer pequenas APIs.
+Vou falar sobre um problema que tive em um projeto em uma empresa que trabalho. Lá eu codifico com diferentes linguagens de programação em pequenos sistemas. Esses sistemas precisam ser acessados por 3 filiais e os usuários se logam com o mesmo login usado no E.R.P. que eles utilizam.
+Para simplificar meu trabalho resolvi criar uma API simples para autenticar os usuários.</description>
+    </item>
+    
+  </channel>
+</rss>

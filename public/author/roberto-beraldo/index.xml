@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roberto Beraldo on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/roberto-beraldo/</link>
+    <description>Recent content in Roberto Beraldo on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 07 Nov 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/roberto-beraldo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>10 Dicas Simples Para Acelerar Seu Site Até 278 Vezes</title>
+      <link>http://localhost/jhonny-roger/public/10-dicas-simples-para-acelerar-seu-site-ate-278-vezes/</link>
+      <pubDate>Sat, 07 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/10-dicas-simples-para-acelerar-seu-site-ate-278-vezes/</guid>
+      <description>Seu site é veloz?
+Você sabia que, quanto mais veloz for seu site, mais satisfeito seu visitante vai ficar?
+Isso é o que apontam algumas pesquisas realizadas pela Akamai e pela Gomez.com. Elas demonstraram que a satisfação do seu visitante com o seu site decai em 16% a cada 1 segundo a mais que ele aguarda pelo carregamento da página.
+As pesquisas também concluíram que os usuários esperam que os sites carreguem em 2 segundos ou menos, sendo que eles abandonariam páginas que levassem mais de 3 segundos para carregar.</description>
+    </item>
+    
+    <item>
+      <title>10 novidades do PHP 7</title>
+      <link>http://localhost/jhonny-roger/public/10-novidades-do-php-7/</link>
+      <pubDate>Tue, 29 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/10-novidades-do-php-7/</guid>
+      <description>O PHP 7 está prestes a ser lançada oficialmente, até o final deste ano de 2015.
+A versão Release Candidate (RC) do PHP 7 foi lançada no dia 21 de agosto. Sendo uma versão RC, não haverá implementações novas no PHP 7.0, apenas correções de bugs.
+Vou apresentar aqui algumas novidades e recursos novos desta versão do PHP.
+1. Desempenho Fantástico O PHP 7 teve seu motor remodelado. Com isso, houve um grande ganho de desempenho.</description>
+    </item>
+    
+  </channel>
+</rss>

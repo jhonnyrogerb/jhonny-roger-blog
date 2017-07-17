@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245846">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>Geralmente eu tenho problemas para encontrar os nomes corretos para os meus controllers, views, models e tabelas. Talvez a tarefa mais difícil de todo programador seja nomear as coisas. Quem nunca ficou indeciso por causa do nome de uma função ou de uma variável? Eu busco sempre permanecer o projeto todo em inglês.</p>
+
+<p>Bem, <strong>CakePHP</strong> faz um monte de trabalho tedioso e repetitivo para você, para que você possa se concentrar melhor nas regras do negocio. Mas o CakePHP depende de você! Ele se agarrar às suas convenções de nomenclatura, por isso é importante ter atenção em nomes de <strong>tabelas</strong>, <strong>controllers</strong>, <strong>models</strong>..</p>
+
+<p>Eu mesmo já tive diversos problemas com nomenclaturas e passei por muita dor de cabeça! Acredite.. O CakePHP espera que você converta corretamente esse problema entre singular, plural, etc 😉</p>
+
+<p>As Models são singular. Ex: <strong>BigPerson</strong> e <strong>ReallyBigPerson</strong> são exemplos de nomes de modelos convencionais. Os nomes das tabelas correspondentes a model do CakePHP são plurais e sublinhado. As tabelas para as models acima mencionadas seriam <strong>big_people</strong>, <strong>really_big_people</strong>, respectivamente.</p>
+
+<p>Aparentemente CakePHP converte substantivos irregulares corretamente e eu me pergunto: Como? Será que ela tem um look-up table enorme para todos eles? Bem, não! Em vez disso, ele faz algumas coisas muito sofisticadas em uma classe chamada <strong>cake/libs/ inflector.php,</strong></p>
+
+<p>com um monte de correspondências de regex e muito mais!</p>
+
+<h2 id="métodos">Métodos</h2>
+
+<ul>
+<li><strong>pluralize</strong>: Converte para o plural: Apple, Man → Apples, Men</li>
+<li><strong>singularize</strong>: Converte para o singular: Apples, Men → Apple, Man</li>
+<li><strong>camelize</strong>: Converte underscored hadron_collider → hadronCollider</li>
+<li><strong>underscore</strong>: Converte para underscored adronCollider → hadron_collider</li>
+<li><strong>humanize</strong>: Converte unserscore para stirng com Captalize devine_intervention → Devine Intervention</li>
+<li><strong>tableize</strong>: Converte para underscore e plural MajorFeatureThing → major_feature_things</li>
+<li><strong>classify</strong>: Converte para underscore com plural para string no singular major_feature_things → MajorFeatureThing</li>
+<li><strong>variable</strong>: Converte de underscored plural ou singular para singular e lowercase. major_feature_things → majorFeatureThing</li>
+<li><strong>slug</strong>: Converte caracteres especias/espaços em underscore de qualquer formatação. Este método é UTF-8 encoding! apple purée → apple_puree</li>
+</ul>
+
+<p>Agora que você tem uma ideia do que o Inflector pode fazer por você, vamos explorar cada um desses métodos em detalhes.</p>
+
+<p><strong>Inflector::pluralize();</strong></p>
+
+<p>O método pluralize () recebe uma palavra no singular (string) e retorna a versão plural da mesma. Aqui estão alguns exemplos:</p>
+
+<pre class="lang-php">Inflector::pluralize('Apple'); // returns "Apples"
+Inflector::pluralize('Menu'); // returns "Menus"
+Inflector::pluralize('News'); // returns "News"</pre>
+
+<p><strong>Inflector::singularize()</strong></p>
+
+<p>O método singularize() recebe uma palavra no plural (string) e retorna a versão no singular dele. Aqui estão alguns exemplos:</p>
+
+<pre class="lang-php">Inflector::singularize('Houses'); // returns "House"
+Inflector::singularize('Bananas'); // returns "Banana"
+Inflector::singularize('Men'); // returns "Man"</pre>
+
+<p><strong>Inflector::camelize ()</strong></p>
+
+<p>Você pode passar um método ou a ou uma palavra under_scored para o camelize () e ele</p>
+
+<p>irá retornar esta palavra FooBar ou fooBar(se você passar false como o segundo argumento). Alguns exemplos:</p>
+
+<pre class="lang-php">Inflector::camelize('foo_bar'); // returns "FooBar" 
+Inflector::camelize('foo_bar', false); // returns "fooBar"
+</pre>
+
+<p><strong>Inflector::underscore()</strong></p>
+
+<p>Este o nome já diz.</p>
+
+<p>O método underscore () tem basicamente uma palavra e converte os espaços dela em &#8220;_&#8221; , e também converte os caracteres especiais em caracteres normais. Ex:</p>
+
+<pre class="lang-php">Inflector::underscore('TestField') // returns test_field
+Inflector::underscore('FeineApfel') // returns feine_aepfel
+</pre>
+
+<p>Este é o meu preferido!</p>
+
+<p><strong>Inflector::slug()</strong></p>
+
+<p>O método slug () recebe uma string e cria uma representação &#8220;slugged&#8221; dele.</p>
+
+<p>Isto significa basicamente que todos os espaços serão substituídos por um determinado caractere (o padrão é &#8220;-&#8220;),</p>
+
+<p>o que não for palavra será removido e os caracteres com acentos como &#8220;áÁéÍÓÚ&#8221; será traduzida para a sua representação ASCII.</p>
+
+<p>Aqui estão alguns exemplos:</p>
+
+<pre class="lang-php">Inflector::slug('The truth - and- more- news'); // returns "the-truth-and-more-news"
+Inflector::slug('!@$#exciting stuff! - what !@-# was that?'); // returns "exciting-stuff-what-was-that"
+</pre>
+
+<p><strong>Inflector::humanize()</strong></p>
+
+<p>O método humanize () recebe uma palavra sublinhada, remove um determinado seperator (padrão para &#8220;_&#8221;) e uppercases os primeiros caracteres das palavras. Alguns exemplos dos testes principais:</p>
+
+<pre class="lang:php decode:true ">Inflector::humanize('posts'); // returns "Posts"
+Inflector::humanize('posts_tags'); // returns "Posts Tags"
+Inflector::humanize('file_systems'); // returns  "File Systems"</pre>
+
+<p>Estes são os que eu achei mais importante ..</p>
+
+<p>Mas se você quiser ver todos os métodos veja na <a href="http://book.cakephp.org/2.0/en/core-utility-libraries/inflector.html">documentação aqui</a>.</p>
+
+<p>Adicione suas próprias regras</p>
+
+<p>Se você precisar, você pode adicionar suas próprias regras e / ou substituir regras padrão. As regras inflector::method() é responsável por isso e funciona como um setter ou getter para todas as regras armazenados. Os testes básicos proporcionam um exemplo:</p>
+
+<pre lang="php">Inflector::rules('singular', array('/rata/' =&gt; '\1ratus'));
+</pre>
+
+<p>Você também pode adicionar transliterações que mapeia caracteres específicos ou acentuados de linguagem para os ASCII (que são usados ​​para criar slugs, por exemplo). Os teste no core também oferecem um bom exemplo:</p>
+
+<pre class="lang-php">$this-&gt;assertNotEqual(Inflector::slug('JØRGEN'), 'JORGEN');
+Inflector::rules('transliteration', array('/Ø/' =&gt; 'O'));
+$this-&gt;assertEqual(Inflector::slug('JØRGEN'), 'JORGEN');
+</pre>
+
+<p>Uma boa prática é armazenar suas regras personalizadas em um arquivo de inicialização, de modo que eles estão imediatamente disponíveis para a sua aplicação quando estiver totalmente carregado.</p>
+
+<p>Minha dica é criar dentro do arquivo Bootstrap =D ou até mesmo um helper..</p>
+
+<p>Agora, vá! Vá e diga a todos os seus amigos sobre a sua nova descoberta! \o/</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/silex-2-middlewares-101-parte-02//?utm_source=tablelessRelatedLin">Silex 2 &amp; Middlewares 101 – Parte 02</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/codigo-limpo-escreva-seu-codigo-hoje-sem-esquecer-da-manutencao-de-amanha//?utm_source=tablelessRelatedLin">Código Limpo – Escreva seu código hoje sem esquecer da manutenção de amanhã</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/upload-de-arquivos-com-upin//?utm_source=tablelessRelatedLin">Upload de Arquivos com a Upin</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245846"></script>

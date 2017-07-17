@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tableless Conference on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/tableless-conference/</link>
+    <description>Recent content in Tableless Conference on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 26 Oct 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/tableless-conference/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gravação do Tableless Conference 2014</title>
+      <link>http://localhost/jhonny-roger/public/gravacao-tableless-conference-2014/</link>
+      <pubDate>Sun, 26 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/gravacao-tableless-conference-2014/</guid>
+      <description>Muitos que não conseguiram comparecer ao evento do Tableless (Tableless Conference) deste ano, podem assistir a todas as palestras comprando diretamente pela Eventials. Você terá acesso a todas as palestras, sem limites, por R$75.
+Para adquirir, clique aqui.
+São 7 palestras:
+ Tag History &amp;#8211; Uma breve história da Teia E se você não usasse jQuery? Service Workers &amp;#8211; O jeito certo de fazer offline Como funciona e o que é Data Binding O que o front-end pode aprender com o Rails?</description>
+    </item>
+    
+    <item>
+      <title>Tableless Conference #2 2013</title>
+      <link>http://localhost/jhonny-roger/public/tableless-conference-2013/</link>
+      <pubDate>Wed, 22 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tableless-conference-2013/</guid>
+      <description>Para quem vacilou, bobeou, dormiu no ponto, viajou na maionese e não foi no Tableless Conference 2013, quero dizer que: perdeu. Pode chorar, pode espernear, mas perdeu um ótimo evento. Conseguimos reunir não só palestrantes de ponta, mas também ótimos participantes que vieram de diversos lugares e empresas. No evento falamos sobre desenvolvimento mobile, UX, front-end e mercado. O Tableless Conference 2013 aconteceu na última quinta-feira, em São Paulo e foi sensacional.</description>
+    </item>
+    
+  </channel>
+</rss>

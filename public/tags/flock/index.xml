@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flock on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/flock/</link>
+    <description>Recent content in Flock on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 02 Dec 2007 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/flock/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flock 1.0 – agora dá para usar</title>
+      <link>http://localhost/jhonny-roger/public/flock-10-agora-da-para-usar/</link>
+      <pubDate>Sun, 02 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/flock-10-agora-da-para-usar/</guid>
+      <description>O Firefox é o browser do meu coracão. Não vivo mais sem suas extensões. Se você é desenvolvedor e usa Firefox, sabe do que estou falando.
+Só que eu não sou apenas desenvolvedor. Nas horas vagas, sou gente normal. Gosto de passar uma parte do meu tempo navegando pelos meus sites prediletos. Por isso, eu gastava algumas horas procurando por extensões que me deixassem mais ligado em sites como Flickr, Twitter e Del.</description>
+    </item>
+    
+  </channel>
+</rss>

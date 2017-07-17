@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245869">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<h3 id="o-que-são-os-css-hacks">O que são os CSS Hacks?</h3>
+
+<p>Css Hacks não são mais do que “gambiarras” no código do css que abusam de erros de renderização dos navegadores.</p>
+
+<h3 id="para-que-serve">Para que serve?!</h3>
+
+<p>Talvez você já enfrentou um problema parecido:</p>
+
+<p>Quando você está implementando um layout, e compara o resultado em vários navegadores, percebe que ficou certo em dois deles mas exclusivamente em um, ficou totalmente diferente. Você sabe que o defeito é simples de ser resolvido… sabe que é só mudar o tamanho do div, para fazer funcionar, mas se você o fizer, vai dar defeito nos outros dois navegadores que estavam certos. Então, O que fazer?</p>
+
+<p>É exatamente aqui que entra o Css Hack.</p>
+
+<p>Você irá usá-lo para fazer funcionar seu layout neste único browser que está errado.</p>
+
+<p>Em suma: Css Hack é um código CSS que faz funcionar ou não, um certo código CSS em um browser.</p>
+
+<h3 id="existem-quantos-tipos">Existem quantos tipos?!</h3>
+
+<p>Existem várias formas de fazer os Hacks de CSS. Basta procurar no google o tipo de hack que você deseja.</p>
+
+<p>Hacks que escondem código css para Netscape, Opera, Mozilla, IE para Mac, e por aí vai.</p>
+
+<p>O fato é que você quase não irá usar hacks para estes browsers, e sim, para o grande venerado Internet Explorer para PC.</p>
+
+<p>Vou ensinar aqui 2 tipos de hack. São os dois que eu mais uso. Como os problemas acontecem na maioria das vezes com o Internet Explorer, você precisa apenas de um hack que esconda o css deste browser ou que faça o código funcionar apenas nele.</p>
+
+<h3 id="exemplo-1">Exemplo 1</h3>
+
+<p>Este hack fará com o que certo código CSS funcione apenas nele. Ou seja, apenas o Ie vai reconhecer o hack, os outros browsers vão ignorar.</p>
+
+<p>Isso funciona em Internet Explorer 5, e o 6 se estiver funcionando em Quirks Mode (assunto para outro artigo).</p>
+
+<pre>div { width:500px; }</pre>
+
+<p>No código acima fizemos todos os divs terem 500 pixels de largura.</p>
+
+<p>Suponha que por alguma razão, com este tamanho de largura, o layout ficou bagunçado apenas no Internet Explorer… no Firefox, Opera, Konqueror, Safari, Galeon, e etc ficou certinho.</p>
+
+<p>Você precisa então fazer com que esse tamanho diminua apenas para o Internet Explorer, veja o código abaixo:</p>
+
+<pre>div { width:500px; _width:400px; }</pre>
+
+<p>Note que coloquei um underline na segunda propriedade.</p>
+
+<p>Todo browser decente não entenderá essa propriedade e a ignorará, pelo simples motivo de que não existe nada no CSS que tenha um underline na frente da propriedade. Isso é errado, não existe, portanto é ignorado.</p>
+
+<p>Mas por algum motivo obscuro, o Internet Explorer aceita essa propriedade.</p>
+
+<p>Logo, no Internet Explorer, a largura dos divs somente no Internet Explorer terão 400 pixels de largura.</p>
+
+<p><strong>Atenção.</strong></p>
+
+<p>Esse hack deve vir depois da propriedade correta. Se vir antes, o IE aceitará a última propriedade que vier, ela sobrescreverá a propriedade underline e dará prioridade para a propriedade que está sem underline.</p>
+
+<p>Outra coisa: Esse hack faz seu CSS não ser validado pelo W3C.</p>
+
+<p>Nesse caso, você decide.</p>
+
+<h3 id="exemplo-2">Exemplo 2</h3>
+
+<p>Nesse exemplo, usarei um seletor que irá ser desconhecido de muitos. Não vou entrar em muitos detalhes. Sinta-se à vontade para pesquisar pela internet. Abaixo temos o seguinte seletor</p>
+
+<pre>div>p span { background-color:red; }</pre>
+
+<p>Agora preste atenção no código HTML:</p>
+
+<pre><div>
+  Aqui vai o texto.
+</div>
+O seletor de css acima funciona assim:</pre>
+
+<p>Todo ?span? que estiver dentro de um ?p? que por sua vez seja diretamente filho de um ?div? ter o a cor de fundo vermelha.</p>
+
+<p>Então, se tiver algum outro ?span?, dentro de um ?p?, mas que não esteja dentro de um ?div?, não terá o fundo vermelho.</p>
+
+<p>Eu prometo (ai, lá vem) que tentarei fazer um artigo explicando seletores. É um assunto bastante interessante e vale a pena estudar.</p>
+
+<p>Bem… Agora voltemos ao tema do artigo.</p>
+
+<p>O Internet Explorer simplesmente não reconhece este seletor, ele não sabe que isso existe, não sabe que faz parte do CSS. Portanto, ele ignora totalmente.</p>
+
+<p>Então, se você quisesse fazer com que os spans tivessem uma cor de fundo diferente de vermelho no Internet Explorer, você faria assim:</p>
+
+<pre>span { background-color:blue; }  div>p span { background-color:red; }</pre>
+
+<p>O Ie, relevaria o primeiro código. Ele não reconhece o segundo seletor, logo ele ignora.</p>
+
+<p>Interessante notar que ele reconhece um código que não existe e não reconhece outro que existe. <img width="18" height="18" title=":-D" class="wp-smiley" alt=":-D" src="http://tableless.com.br/smilies/yahoo_bigsmile.gif" /></p>
+
+<p>Todos os outros navegadores que tem uma melhor abordagem ao css, reconhece este seletor e não ignorará.</p>
+
+<p>Uso muito esse hack porque ele não impede que seu CSS valide.</p>
+
+<p>Aqui estão 2 Hacks para você usar abusar. Vai ao seu gosto escolher qual dos dois você usará.</p>
+
+<p>O primeiro tem menos código, embora não valide. O segundo valida, mas usa mais linhas de código para ser feito.</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/estatistica-basica-projetos-agile//?utm_source=tablelessRelatedLin">Estatística básica nas entregas de projetos agile — Moda, mediana e percentil</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/sketch43-novo-formato-arquivo//?utm_source=tablelessRelatedLin">O novo formato de arquivo do Sketch 43</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/site-tableless-estatico//?utm_source=tablelessRelatedLin">Agora o Tableless é estático</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245870"></script>

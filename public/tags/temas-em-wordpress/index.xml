@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Temas Em Wordpress on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/temas-em-wordpress/</link>
+    <description>Recent content in Temas Em Wordpress on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 29 Jul 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/temas-em-wordpress/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Utilizando a API do bit.ly para gerar links encurtados para seus posts WordPress</title>
+      <link>http://localhost/jhonny-roger/public/utilizando-api-bit-ly-para-gerar-links-encurtados-para-seus-posts-wordpress/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/utilizando-api-bit-ly-para-gerar-links-encurtados-para-seus-posts-wordpress/</guid>
+      <description>Todo mundo sabe que é fundamental criar links de compartilhamento no seu artigo, só que no Twitter isso se restringe a 140 caracteres, e ao enviar o título do seu artigo, URL e seu usuário no Twitter pode faltar espaço. E para economizar espaço fazemos o quê? Uma das táticas é utilizar links curtos através de serviços como o bit.ly. Como tudo na programação, criamos uma maneira de automatizar nossas ações e para isso vamos ao código!</description>
+    </item>
+    
+    <item>
+      <title>Personalizando o painel de administração do WordPress</title>
+      <link>http://localhost/jhonny-roger/public/customizando-o-painel-de-administracao-do-wordpress/</link>
+      <pubDate>Wed, 03 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/customizando-o-painel-de-administracao-do-wordpress/</guid>
+      <description>Você provavelmente já conhece o WordPress e já sabe como criar seus próprios temas. Mas isto não significa que o trabalho acabou. É possível &amp;#8211; e extremamente recomendável &amp;#8211; personalizar os elementos da interface do Painel de Administração para que ele se adeque as necessidades de cada marca.
+Layouts únicos Muitas vezes ao fazer a escolha entre utilizar um sistema de administração de conteúdo padrão ou projetar o seu próprio do zero o critério de desempate é a capacidade de personalização.</description>
+    </item>
+    
+    <item>
+      <title>Como se tornar um profissional Top em WordPress</title>
+      <link>http://localhost/jhonny-roger/public/como-se-tornar-um-profissional-top-em-wordpress/</link>
+      <pubDate>Mon, 04 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/como-se-tornar-um-profissional-top-em-wordpress/</guid>
+      <description>Neste artigo, vou mostrar como você poderá se tornar um profissional Top em WordPress e isso pode valer não só para os desenvolvedores, mas também para blogueiros, designers e todos os outros.
+Primeiro, vamos definir algumas coisas: Se tornar um profissional Top em WordPress é um trabalho duro &amp;#8211; muito duro. Você precisará de tempo, energia e determinação. Se você está procurando um artigo rápido sobre esse tema, irá perder seu tempo.</description>
+    </item>
+    
+  </channel>
+</rss>

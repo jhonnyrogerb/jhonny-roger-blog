@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internetmovel on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/internetmovel/</link>
+    <description>Recent content in Internetmovel on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 20 Mar 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/internetmovel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Responsive Web Design – focando a coisa certa</title>
+      <link>http://localhost/jhonny-roger/public/responsive-web-design-voce-esta-fazendo-isso-errado/</link>
+      <pubDate>Tue, 20 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/responsive-web-design-voce-esta-fazendo-isso-errado/</guid>
+      <description>Eu andei pensando em um assunto e procurando sobre encontrei um artigo, fresquinho, no Brad Frost que veio de encontro ao que eu estava matutando. Eu escrevi em tempos passados um artigo sobre por que estávamos desenvolvendo apenas para iPhone. Foi aí que começamos a pensar em versões mobiles. Mas fazíamos versões mobiles dos nossos sistemas e websites simplesmente sem entender quando a necessidade de ter um site mobile era real.</description>
+    </item>
+    
+    <item>
+      <title>Mobile First – A arte de pensar com foco</title>
+      <link>http://localhost/jhonny-roger/public/mobile-first-a-arte-de-pensar-com-foco/</link>
+      <pubDate>Tue, 13 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/mobile-first-a-arte-de-pensar-com-foco/</guid>
+      <description>Durante muito tempo especialistas de diversas áreas previram o crescimento do uso dos dispositivos móveis. Demorou um pouco mas a previsão se tornou verdadeira. Hoje todo mundo carrega um pedaço de plástico com uma tela de vidro na mão o dia inteiro&amp;#8230; quase uma extensão de nossos corpos.
+Os dispositivos móveis se tornaram uma febre e vieram para ficar. É a melhor forma de fazer a inclusão digital para aqueles que não tem uma forma de ter um notebook ou um desktop em casa.</description>
+    </item>
+    
+    <item>
+      <title>Introdução ao Responsive Web Design</title>
+      <link>http://localhost/jhonny-roger/public/introducao-ao-responsive-web-design/</link>
+      <pubDate>Mon, 15 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-ao-responsive-web-design/</guid>
+      <description>Você já deve ter ouvido falar sobre Responsive Web Design. Você pode ler sobre isso aqui e aqui.
+Até pouco tempo atrás tínhamos praticamente apenas um meio de acessar a internet, que era pelo desktop. Podíamos acessar mal e porcamente a internet pelos celulares ou por outros aparelhos ligados a televisão etc, mas nenhum destes meios nos permitia acessar a internet com a facilidade que tínhamos quando utilizávamos um desktop.</description>
+    </item>
+    
+    <item>
+      <title>Especificação para touch screens</title>
+      <link>http://localhost/jhonny-roger/public/especificacao-para-touch-screens/</link>
+      <pubDate>Wed, 22 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/especificacao-para-touch-screens/</guid>
+      <description>Até alguns anos atrás nós acessávamos a internet apenas utilizando computadores e celulares. Hoje existem aparelhos de diversos tipos. Temos até dispositivos como o Surface, ainda que seu uso seja mais restrito e específico. Mas não demora muito que outros dispositivos surjam e preencham alguma lacuna escondida. O importante é entender que cada aparelho tem sua forma de interação.
+Hoje, as interfaces touch estão maduras e estáveis, que chegam a inspirar as interfaces dos sistemas desktops.</description>
+    </item>
+    
+    <item>
+      <title>Manipulando a metatag Viewport</title>
+      <link>http://localhost/jhonny-roger/public/manipulando-metatag-viewport/</link>
+      <pubDate>Mon, 18 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/manipulando-metatag-viewport/</guid>
+      <description>O viewport é a área onde seu website aparece. É a área branca da janela quando você abre o browser. O viewport sempre vai ter o tamanho da janela. Mas a forma como os elementos são renderizados vai depender bastante do dispositivo. Em máquinas desktop nós não precisamos nos preocupar muito, já estamos acostumados com um determinado tamanho de tela e resolução média utilizada pelos usuários. Mas quando começamos a variar muito o tamanho das telas, a largura do viewport começa a ser uma preocupação porque afeta diretamente a forma como o usuário utiliza seu website.</description>
+    </item>
+    
+    <item>
+      <title>Emuladores para browsers mobiles</title>
+      <link>http://localhost/jhonny-roger/public/emuladores-para-browsers-mobiles/</link>
+      <pubDate>Tue, 23 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/emuladores-para-browsers-mobiles/</guid>
+      <description>Criar sites para mobiles hoje não é bicho de sete cabeças, mas também não é tarefa fácil. Quando fazemos sites para desktops, temos tudo o que precisamos para testar ao nosso alcance. Se você usa Mac ou Linux, pode usar um virtualizador para ter o IE, se você usa Windows, tem todos os browsers que necessita para testes. Você pode ver o resultado em diferentes resoluções, tamanho de fontes e etc.</description>
+    </item>
+    
+    <item>
+      <title>Porque é a web que comanda</title>
+      <link>http://localhost/jhonny-roger/public/porque-e-a-web-que-comanda/</link>
+      <pubDate>Wed, 27 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/porque-e-a-web-que-comanda/</guid>
+      <description>A AppStore fez sucesso. Bastante. Por vários motivos: um deles foi por conta da remuneração do desenvolvedor. Teve gente que ganhou milhares de dólares sozinho vendendo aplicações por 99 centavos. Obviamente isso chamou a atenção de muita gente, que começou a fazer aplicações enlouquecidamente para ganhar alguns trocados. Consequentemente um grande números de aplicações que não precisam ser instaláveis no aparelho, apareceram. Vários desenvolvedores não perceberam que dependendo do seu sistema, ele não precisa ser desenvolvido exclusivamente para ser instalado na plataforma do iPhone.</description>
+    </item>
+    
+    <item>
+      <title>Simuladores de Browsers Mobiles</title>
+      <link>http://localhost/jhonny-roger/public/simuladores-de-browsers-mobiles/</link>
+      <pubDate>Wed, 20 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/simuladores-de-browsers-mobiles/</guid>
+      <description>Antigamente não existiam simuladores dos pequenos celulares. Na verdade, não precisava. Você provavelmente usava WAP. Quando começamos a utilizar CSS e XHTML para fazer sites mais decentes para os mobiles, tudo ficou mais complicado, você precisava ter um aparelho para fazer testes. Em muitos casos era simples resolver utilizando o Opera no desktop mesmo, mas em forma de visualização mobile/handheld. Contudo, você estava desenvolvendo para apenas aparelhos com Opera. Não havia, por exemplo, um simulador de IE Mobile.</description>
+    </item>
+    
+    <item>
+      <title>O Safari para iPhone – Desenvolvimento web para iPhone</title>
+      <link>http://localhost/jhonny-roger/public/o-safari-para-iphone/</link>
+      <pubDate>Mon, 13 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-safari-para-iphone/</guid>
+      <description>&lt;p&gt;Esse texto e muitos outros fazem parte do &lt;a href=&#34;http://visie.com.br/campus/&#34; title=&#34;Vídeos tutoriais sobre Tableless&#34;&gt;Campus Online&lt;/a&gt;. Visite e &lt;a href=&#34;http://visie.com.br/campus/cadastrese&#34;&gt;cadastre-se grátis&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://visie.com.br/campus/iphone&#34; title=&#34;Desenvolvimento web para iPhone&#34;&gt;Sessão exclusiva sobre Desenvolvimento web para iPhone&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;um-pouco-de-história&#34;&gt;Um pouco de História&lt;/h3&gt;
+
+&lt;p&gt;Por volta de 1997, os computadores da Apple traziam por padrão o Netscape. Naquele tempo o mercado de browsers não era tão acirrado como hoje e os concorrentes eram poucos. O Internet Explorer estava em sua versão &lt;sup&gt;2&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt;. Mesmo assim, o Internet Explorer para Mac era também distribuído com o MacOS durante os 5 anos de acordo entre Apple e Microsoft. A Microsoft laçou 3 versões principais do seu navegador para o Mac, parando na versão 5 em março de 2000.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Quem precisa de versão mobile?</title>
+      <link>http://localhost/jhonny-roger/public/quem-precisa-de-versao-mobile/</link>
+      <pubDate>Wed, 12 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/quem-precisa-de-versao-mobile/</guid>
+      <description>&lt;p&gt;Parece ser um erro comum dos novatos criar versões diferentes do mesmo site.&lt;/p&gt;
+
+&lt;p&gt;O ano era 1997. Eu e e todo mundo que eu conhecia usávamos Netscape Navigator. Foi o ano em que, pela primeira vez, fiz um site sozinho. Tudo, atendi o cliente, preparei textos, fotos, fiz o layout, se é que se pode chamar aquilo de layout, criei uma conta no &lt;a href=&#34;http://geocities.yahoo.com/&#34;&gt;Geocities&lt;/a&gt; e publiquei. Em seguida entrei no &lt;a href=&#34;http://www.yahoo.com&#34;&gt;Yahoo!&lt;/a&gt; e cadastrei o site, para que aparecesse nas buscas.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sites para Dispositivos Móveis – MediaType</title>
+      <link>http://localhost/jhonny-roger/public/sites-para-dispositivos-moveis-mediatype/</link>
+      <pubDate>Thu, 06 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sites-para-dispositivos-moveis-mediatype/</guid>
+      <description>Felizmente, com a ajuda dos Web Standards, o trabalho para criar um site ficou muito mais fácil, rápida e o mais importante, divertida.
+Hoje, você troca de layout a hora que quiser, sem se preocupar em ter que refazer todo o código e programação. Eles já estão feitos, por que ter que recriá-los? Então, você troca apenas 1 arquivo CSS, e seu site muda completamente, sem dor de cabeça, apenas mudando a lente de formatação.</description>
+    </item>
+    
+    <item>
+      <title>Sobre Internet Explorer para Mobile – Breve impressão</title>
+      <link>http://localhost/jhonny-roger/public/sobre-internet-explorer-para-mobile-breve-impressao/</link>
+      <pubDate>Wed, 07 Nov 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sobre-internet-explorer-para-mobile-breve-impressao/</guid>
+      <description>Desde que adquiri um MotoQ (se lê MotoQUIU) eu venho usando o Opera Mobile como browser padrão. Ao contrário da versão pra desktops, o Opera Mobile é pago. Por este motivo, quando a data expirou, eu resolvi usar por um tempo o Internet Explorer.
+Descobri que a forma com que o IE Mobile renderiza as páginas é tão boa quanto a do Opera Mobile. A velocidade de navegação também é ótima.</description>
+    </item>
+    
+    <item>
+      <title>Mobilidade na cabeça</title>
+      <link>http://localhost/jhonny-roger/public/mobilidade-na-cabeca/</link>
+      <pubDate>Wed, 10 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/mobilidade-na-cabeca/</guid>
+      <description>Ontem, depois do lançamento do iPhone e de ter visto suas funcionalidades (nem tão novas assim, mas reinvatadas de verdade), fiquei pensando em uma funcionalidade em particular: navegação na internet. Quem assistiu o Keynote viu o camarada navegando de verdade com um browser de verdade (Safari) e tendo uma experiência realmente boa. O browser carrega o site inteiro, lendo XHTML e CSS, nada de SSR ou qualquer coisa parecida e é renderizado como se fosse uma miniatura na tela, mas a formatação é integral, como se estivesse sendo visualizado de um desktop.</description>
+    </item>
+    
+    <item>
+      <title>Breve introdução: XHTML Mobile Profile</title>
+      <link>http://localhost/jhonny-roger/public/breve-introducao-xhtml-mobile-profile/</link>
+      <pubDate>Tue, 28 Mar 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/breve-introducao-xhtml-mobile-profile/</guid>
+      <description>XHTML MP é um subset do já conhecido XHTML. Ele é baseado em um outro subset de XHTML chamada XHTML Basic. O XHTML Basic é uma versão simplificada do XHTML definido pelo W3C. Ele foi feito especificamente para dispositivos com baixo poder de processamento como celulares, PDAs, pagers etc&amp;#8230; O XHTML Basic não contém algumas características que esses dispositivos dificilmente suportam, como por exemplo: Frames, Folhas de Estilo em Cascata e scripts.</description>
+    </item>
+    
+    <item>
+      <title>Sites para Dispositivos Móveis – Breve introdução</title>
+      <link>http://localhost/jhonny-roger/public/sites-para-dispositivos-moveis-breve-introducao/</link>
+      <pubDate>Thu, 05 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sites-para-dispositivos-moveis-breve-introducao/</guid>
+      <description>Você tem celular? De acordo com a Teleco, em novembro de 2005, havia mais ou menos 82.351.644 de celulares. Ainda me lembro de quando eles eram artigos de luxo, mesmo sendo grandes e pesados.
+Hoje, por um preço razoável, você consegue celulares que tiram fotos e fazem outras coisas que nem James Bond ousava imaginar. E quer saber da melhor? Esse é só o começo.
+Aparelhos com essas e outras possibilidades aparecerão.</description>
+    </item>
+    
+    <item>
+      <title>Browsers dos Dispositivos Móveis</title>
+      <link>http://localhost/jhonny-roger/public/browsers_em_dispositivos_moveis/</link>
+      <pubDate>Thu, 31 Mar 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/browsers_em_dispositivos_moveis/</guid>
+      <description>Dispositivos Móveis. Este é um terreno muito estranho para os desenolvedores de sites.
+Talvez você tenha ouvido falar em fazer sites para Dispositivos Móveis (Mobiles) depois que começou a estudar Web Standards. Confesso que comecei a dar mais atenção a essa área depois que estudei a fundo os Padrões.
+Mas, para aquele usuário um pouco mais avançado, que quer fazer seus sites aparecerem melhores nestes dispositivos, nada melhor que conhecer os Browsers que estão disponíveis e que são usados pelos usuários de Mobiles.</description>
+    </item>
+    
+  </channel>
+</rss>

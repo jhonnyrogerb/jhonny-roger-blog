@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245837">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<h1 id="indo-além-no-mundo-react-native">Indo além no Mundo React-Native.</h1>
+
+<p>Nos últimos meses resolvi aprofundar meus estudos no React Native. Após anos trabalhando apenas com desenvolvimento mobile nativo, um grande amigo me convenceu a experimentar esse novo framework.</p>
+
+<p>Confesso que até então, eu era um pouco reticente sobre frameworks que prometem entregar aplicativos nas duas plataformas (iOS e Android) a partir de um código único. Minha experiência com Cordova me dizia que isso não funcionava bem. A perfomance era sempre pobre e frustrante.</p>
+
+<p>Se você ainda não acredita muito nesse tipo de solução, talvez seja a hora de você experimentar coisas novas. Acredito que, em breve, você também será um entusiasta dessa tecnologia.</p>
+
+<hr />
+
+<h2 id="mergulhando-um-pouco-mais-fundo">Mergulhando um pouco mais fundo</h2>
+
+<p>Na internet, você encontra milhares de posts explicando como começar um projeto React-Native. Há tutoriais para todos os lados. O framework é simples e qualquer um com poucas horas irá conseguir criar uma tela básica. Entretanto, a situação é um pouco diferente quando falamos em integração com aplicações nativas e sobre escalabilidade.</p>
+
+<p><strong>Nesse post quero sair do óbvio e explorar um cenário diferente. Nada para iniciantes ou desenvolvedores que querem construir aplicações simples.</strong></p>
+
+<p><strong>Faremos duas &ldquo;aplicações&rdquo; React-Native rodando em um mesmo aplicativo. Uma sobre a outra.</strong></p>
+
+<p><img src="http://i.imgur.com/DiTFTwM.png" alt="Overview" /></p>
+
+<p>Inicialmente você poderá ter dificuldade em visualizar um motivo para construir tal cenário, mas tenha certeza que ao final desse post sua cabeça terá ideias malucas da aplicabilidade dessa brincadeira.</p>
+
+<h2 id="começando">Começando</h2>
+
+<p>Depois do ambiente React-Native instalado na sua máquina, vamos inicializar um projeto React-Native com dois arquivos um chamado <em>&ldquo;App 1&rdquo;</em> e outro chamado <em>&ldquo;App2&rdquo;</em>.</p>
+
+<p>Eu já disponibilizei um projeto em: <a href="https://github.com/oximer/react-inside-react">https://github.com/oximer/react-inside-react</a></p>
+
+<h2 id="editando-e-empacotando-o-app-2">Editando e Empacotando o App 2</h2>
+
+<p>Agora, vamos começar editando o <em>&ldquo;App 2&rdquo;</em>.</p>
+
+<p>Abra o arquivo <em>&ldquo;app2.js&rdquo;</em> e o modifique conforme o desejado. Nesse primeiro exemplo, não adicione imagens ou outros recursos. Em um outro post, posso explicar como é possível adicionar recursos dentro desse projeto.</p>
+
+<p>Após a realização das alterações, faça o empacotamento desse projeto. Para isso acesse o folder base do teu projeto e execute o &ldquo;react-native bundle&rdquo;</p>
+
+<pre><code>react-native bundle — platform android — dev false — entry-file app2.js — bundle-output app2.jsbundle
+</code></pre>
+
+<p><img src="http://i.imgur.com/OUzgVp0.png" alt="react-native-bundle" /></p>
+
+<p>Você observará que o empacotador irá criar um arquivo chamado app2.jsbundle. Esse arquivo é semelhante ao que o teu servidor node disponibiliza por padrão na porta 8081.</p>
+
+<p>Caso você nunca tenha feito isso, como o servidor node rodando em algum outro projeto, acesse o endereço <a href="http://localhost:8081/index.android.bundle?dev=false&amp;mimify=true&amp;platform=android">http://localhost:8081/index.android.bundle?dev=false&amp;mimify=true&amp;platform=android</a> no teu browser. Olhe esse arquivo e o compare com o arquivo gerado pelo empacotador.</p>
+
+<h2 id="editando-e-empacotando-o-app-1">Editando e Empacotando o App 1</h2>
+
+<p>Após concluir a edição do App 2, vamos para a modificação do aplicativo <em>&ldquo;App 1&rdquo;</em>. Agora iremos modificar também as camadas nativas do Android.</p>
+
+<p>Primeiro abra a pasta &ldquo;android&rdquo; do projeto 1 no Android Studio. Pegue o arquivo <em>&ldquo;app2.jsbundle&rdquo;</em> e o coloque dentro da pasta &ldquo;assests&rdquo; do projeto.</p>
+
+<p>Agora vamos criar uma View que irá conter o App 1 e o App 2.</p>
+
+<pre><code>@Override
+protected void onCreate(Bundle savedInstanceState) {
+    super.onCreate(savedInstanceState);
+    setContentView(R.layout.activity_main);
+
+    ReactRootView app1RootView = new ReactRootView(getApplication());
+    ReactInstanceManagerBuilder builder = ReactInstanceManager.builder()
+            .setApplication(getApplication())
+            .setDefaultHardwareBackBtnHandler(this)
+            .setInitialLifecycleState(LifecycleState.RESUMED)
+            .addPackage(new MainReactPackage())
+            .setCurrentActivity(this)
+            .setBundleAssetName(&quot;app1.jsbundle&quot;)
+            .setJSMainModuleName(&quot;app1&quot;)
+            .setUseDeveloperSupport(false);
+    ReactInstanceManager appReactInstanceManager = builder.build();
+
+    app1RootView.startReactApplication(appReactInstanceManager, &quot;app1&quot;, null);
+    LinearLayout linearLayout = (LinearLayout) findViewById(R.id.app1);
+    linearLayout.addView(app1RootView);
+
+    ReactRootView app2RootView = new ReactRootView(getApplication());
+    builder = ReactInstanceManager.builder()
+            .setApplication(getApplication())
+            .setDefaultHardwareBackBtnHandler(this)
+            .setInitialLifecycleState(LifecycleState.RESUMED)
+            .addPackage(new MainReactPackage())
+            .setCurrentActivity(this)
+            .setBundleAssetName(&quot;app2.jsbundle&quot;)
+            .setJSMainModuleName(&quot;app2&quot;)
+            .setUseDeveloperSupport(false);
+    ReactInstanceManager appReactInstanceManager2 = builder.build();
+
+    app2RootView.startReactApplication(appReactInstanceManager2, &quot;app2&quot;, null);
+    FrameLayout frameLayout = (FrameLayout) findViewById(R.id.app2);
+    frameLayout.addView(app2RootView);
+}
+</code></pre>
+
+<p>Feito isso, volte para o mundo JS. Modifique o Aplicativo 1 e o empacote de maneira semelhante ao App2. Também, o coloque dentro da pasta <em>&ldquo;assets&rdquo;</em></p>
+
+<pre><code>react-native bundle — platform android — dev false — entry-file app1.js — bundle-output app1.jsbundle
+</code></pre>
+
+<h2 id="resultado-final">Resultado Final</h2>
+
+<h2 id="finalresult-http-i-imgur-com-qdfu91f-png"><img src="http://i.imgur.com/qDFU91F.png" alt="finalResult" /></h2>
+
+<h2 id="visão-geral">Visão Geral</h2>
+
+<p>Esse projeto pode lhe parecer um pouco maluco e sem serventia, mas lhe garanto que entendê-lo é um importante passo para compreender como o React-Native realmente funciona.</p>
+
+<p>O famoso Code Push da Microsoft entende essa ideia muito bem e tira proveito dele. O Code Push serve esses arquivos estáticos em um servidor na internet e como isso consegue atualizar as aplicações 1 e 2 remotamente.</p>
+
+<p>Outro aspecto interesse é o fato de cada aplicativo funcionar como uma sandbox. Eles não compartilham estados e variáveis. Eles são literalmente independentes e podem até mesmo ser desenvolvidos por times diferentes.</p>
+
+<p>Experimente colocar um contador e um botão em cada um deles… Você verá que as aplicações são independentes.</p>
+
+<p>Finalmente, entenda que não existe mágica no React-Native. O seu aplicativo é uma View como qualquer outra, nesse caso uma ReactRootView. O ReactInstanceManger é outra classe essencial para o desenvolvedor que irá integrar uma aplicação React em uma aplicação nativa já existente.</p>
+
+<h2 id="nem-tudo-são-flores">Nem tudo são flores</h2>
+
+<p>Ao optar pelo empacotamento estático, você fica sem algumas features legais do React-Native. Nada de <em><strong>reload</strong></em> ou <em><strong>hot-reload</strong></em> nesse cenário.</p>
+
+<p><strong>Vocês vêem alguma solução?</strong></p>
+
+<p>Eu vejo e posso detalhar mais em outros posts, mas lhes garanto que é possível colocar dois servidores node locais em sua máquina (cada um em uma porta) e ter as principais features de desenvolvimento do React.</p>
+
+<p>Outro problema está relacionado à comunicação entre esses dois aplicativos. Se esses aplicativos são independentes, como eles se comunicam?</p>
+
+<p>A resposta passa pela DeviceEventManagerModule e a criação de um ReactPackage. Elas exploraram a comunicação entre a camada Java e a camada Javascript.</p>
+
+<p>Seria possível fazer isso no iOS? Sim, mas esse post já está longo demais.</p>
+
+<p><strong>Referências para iniciantes em português</strong></p>
+
+<p><a href="https://tableless.com.br/react-native-construa-aplicacoes-moveis-nativas-com-javascript/">https://tableless.com.br/react-native-construa-aplicacoes-moveis-nativas-com-javascript/</a>
+<a href="https://facebook.github.io/react-native/docs/getting-started.html">https://facebook.github.io/react-native/docs/getting-started.html</a>
+<a href="https://medium.com/react-native-training">https://medium.com/react-native-training</a></p>
+
+<p><strong>Referências para iniciantes em inglês</strong></p>
+
+<p><a href="https://www.raywenderlich.com/126063/react-native-tutorial">https://www.raywenderlich.com/126063/react-native-tutorial</a></p>
+
+<p><strong>Curso pago, mas bem interessante para quem quer investir um pouco mais</strong></p>
+
+<p><a href="https://www.udemy.com/the-complete-react-native-and-redux-course/">https://www.udemy.com/the-complete-react-native-and-redux-course/</a></p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/seu-primeiro-bot-para-o-telegram//?utm_source=tablelessRelatedLin">Seu primeiro bot para o Telegram</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/paginas_acessiveis_hatemile//?utm_source=tablelessRelatedLin">Páginas acessíveis com o HaTeMiLe</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245837"></script>

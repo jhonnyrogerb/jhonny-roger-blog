@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joridos on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/joridos/</link>
+    <description>Recent content in Joridos on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Jun 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/joridos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Elevação ou JavaScript hoisting</title>
+      <link>http://localhost/jhonny-roger/public/elevacao-ou-javascript-hoisting/</link>
+      <pubDate>Wed, 04 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/elevacao-ou-javascript-hoisting/</guid>
+      <description>Um pouco de Teoria antes da diversão. Muitas vezes, um simples princípio não compreendido, pode confundir novatos ou especialistas em JavaScript. Neste artigo, vamos tentar entender melhor um problema comum, que é mais simples do que parece.
+Declarações na frente Antigamente em linguagens como C, se usavam funções ou procedimentos para dividir um programa, mas havia um problema: as declarações deveriam ficar sempre na frente.
+Suponha que você queira usar uma função que junta palavras:</description>
+    </item>
+    
+  </channel>
+</rss>

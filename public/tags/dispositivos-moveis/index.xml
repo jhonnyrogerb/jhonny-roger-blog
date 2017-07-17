@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dispositivos Moveis on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/dispositivos-moveis/</link>
+    <description>Recent content in Dispositivos Moveis on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 03 May 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/dispositivos-moveis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adobe e os Padrões Web</title>
+      <link>http://localhost/jhonny-roger/public/adobe-e-os-padroes-web/</link>
+      <pubDate>Thu, 03 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/adobe-e-os-padroes-web/</guid>
+      <description>Depois que o Steve Jobs fez o favor de nos livrar do Flash em seus dispositivos, parece que a Adobe acordou e resolveu entender o que realmente ele estava querendo dizer. Em vez de tentar devorar o mercado com uma tecnologia proprietária, por que não ajudar uma comunidade e os padrões que já existem no mercado?
+O pessoal da Apple fez isso com o Webkit. Eles tomaram emprestado o motor de renderização criado pelo pessoal do KDE &amp;#8211; com o motor chamado KHTML &amp;#8211; e fuçaram, mexeram, arrumaram, criaram e devolveram o resultado para a comunidade como um dos melhores motores de renderização que já existiu, o Webkit.</description>
+    </item>
+    
+    <item>
+      <title>Qualidade de Imagens e densidade de pixels</title>
+      <link>http://localhost/jhonny-roger/public/qualidade-de-imagens-e-densidade-de-pixels/</link>
+      <pubDate>Mon, 26 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/qualidade-de-imagens-e-densidade-de-pixels/</guid>
+      <description>Você se lembra quando planejavamos nossos layouts para resoluções acima de 1024? Chega ser engraçado lembrar que um dia fizemos websites para 640&amp;#215;480, pensando que a resolução de 1024&amp;#215;768 eram a minoria dos usuários. Os tempos mudaram e naturalmente diversas outras resoluções apareceram por conta de novos dispositivos, melhores monitores e etc. Acontece que na web nada é tão fácil assim. A gente se livra de um problema, mas aparece outro no lugar.</description>
+    </item>
+    
+    <item>
+      <title>Responsive Web Design – focando a coisa certa</title>
+      <link>http://localhost/jhonny-roger/public/responsive-web-design-voce-esta-fazendo-isso-errado/</link>
+      <pubDate>Tue, 20 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/responsive-web-design-voce-esta-fazendo-isso-errado/</guid>
+      <description>Eu andei pensando em um assunto e procurando sobre encontrei um artigo, fresquinho, no Brad Frost que veio de encontro ao que eu estava matutando. Eu escrevi em tempos passados um artigo sobre por que estávamos desenvolvendo apenas para iPhone. Foi aí que começamos a pensar em versões mobiles. Mas fazíamos versões mobiles dos nossos sistemas e websites simplesmente sem entender quando a necessidade de ter um site mobile era real.</description>
+    </item>
+    
+    <item>
+      <title>Um pensamento sobre design para web</title>
+      <link>http://localhost/jhonny-roger/public/um-pensamento-sobre-design-para-web/</link>
+      <pubDate>Thu, 19 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/um-pensamento-sobre-design-para-web/</guid>
+      <description>É engraçado quando designers de peças offline tentam migrar para web e ficam assustados com as diferenças no processo de criação e produção. O controle que o design para impresso tem sobre a posição dos elementos e a forma final da arte nunca (nunca?) será a mesma na web. No impresso você define precisamente as medidas, posicionando dos elementos, o tamanho das letras, entrelinhas e cores (mesmo brigando bastante nas gráficas por aí).</description>
+    </item>
+    
+    <item>
+      <title>Utilizando APPs em vez de browsers</title>
+      <link>http://localhost/jhonny-roger/public/utilizando-apps-em-vez-de-browsers/</link>
+      <pubDate>Fri, 06 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/utilizando-apps-em-vez-de-browsers/</guid>
+      <description>De acordo com a comScore as pessoas estão usando mais mobile Apps para consumir conteúdo do que browsers.
+O tráfego medido pela comScore mostra o market share dos principais players do mercado de mobile em Novembro. O Android continua ganhando, logo atrás vem o iPhone que foi impulsionado pelas vendas do 4S. Todas as outras plataformas perderam campo. Outra coisa, o report da comScore não conta com iPads nem iPods.</description>
+    </item>
+    
+    <item>
+      <title>Experiência cross-device</title>
+      <link>http://localhost/jhonny-roger/public/experiencia-cross-device/</link>
+      <pubDate>Thu, 22 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/experiencia-cross-device/</guid>
+      <description>Eu vivo comentando aqui no Tableless sobre o desenvolvimento de sistemas e websites para os diversos meios de acesso. Eu falei sobre esse assunto em diversos artigos. Eu li um artigo chamado The Coming Zombie Apocalypse, escrito por Scott Jenson em abril deste ano. Este artigo me fez perceber que eu estava levando o assunto muito superficialmente, mas que tem muito a ver com o artigo publicado aqui chamado A Experiência deve ter começo, meio e fim.</description>
+    </item>
+    
+    <item>
+      <title>Você sabe o que é a “nova usabilidade”? – parte II</title>
+      <link>http://localhost/jhonny-roger/public/o-que-e-nova-usabilidade-parte2/</link>
+      <pubDate>Mon, 12 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-que-e-nova-usabilidade-parte2/</guid>
+      <description>A nova usabilidade procura trazer abordagens para lidar com os novos desafios para o desenvolvimento de aplicações baseadas em tecnologias emergentes, como os dispositivos móveis.
+A intenção dessa denominação é chamar a atenção para o fato de que a os métodos, técnicas e ferramentas de usabilidade que possuímos hoje precisam ser revistos para contemplar a evolução tecnológica e as especificidades dos interesses dos usuários.
+O problema com os testes de usabilidade Os testes de usabilidade como conhecemos hoje (realizados em laboratório) passam a não ter o mesmo grau de eficiência nestes novos cenários de uso.</description>
+    </item>
+    
+    <item>
+      <title>Você sabe o que é a “nova usabilidade”? – parte I</title>
+      <link>http://localhost/jhonny-roger/public/nova-usabilidade-parte1/</link>
+      <pubDate>Mon, 05 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/nova-usabilidade-parte1/</guid>
+      <description>Vimos na parte I e parte II dos artigos sobre usabilidade em dispositivos móveis que as heurísticas permanecem praticamente as mesmas tanto para as aplicações móveis quanto convencionais, a diferença é o quão crítica ou severa elas se tornam para as aplicações móveis. Por este motivo, Thomas e Macredie propuseram em 2002 (sim, há 9 anos!) o paradigma da Nova Usabilidade.
+ &amp;#8220;A usabilidade convencional e mais amplamente disseminada tem suas bases no paradigma do computador pessoal.</description>
+    </item>
+    
+    <item>
+      <title>Usabilidade de interfaces para dispositivos móveis – parte II</title>
+      <link>http://localhost/jhonny-roger/public/usabilidade-interfaces-dispositivos-moveis-parte2/</link>
+      <pubDate>Wed, 23 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/usabilidade-interfaces-dispositivos-moveis-parte2/</guid>
+      <description>Como vimos na primeira parte do artigo, as diretrizes existentes de usabilidade continuam valendo no contexto mobile, mas precisam ser revistas e interpretadas de outra forma. Podemos perceber que o gargalo é conseguir manter as informações e funcionalidades que fazem sentido neste cenário. Adequar aplicações ao contexto de dispositivos móveis apresenta determinados vieses de desenvolvimento.
+ Variedade de Dispositivos  Variação de hardware (muito maior do que computadores convencionais) Dispositivos móveis têm uma grande variedade de displays (tamanhos, cores, resolução), de forma de entrada de dados (touchscreen, teclado físico &amp;#8211; QWERTY ou convencional -, microfone, câmera) e também de capacidade (processamento, armazenamento, etc.</description>
+    </item>
+    
+    <item>
+      <title>Usabilidade de interfaces para dispositivos móveis – parte I</title>
+      <link>http://localhost/jhonny-roger/public/usabilidade-de-interfaces-para-dispositivos-moveis-parte1/</link>
+      <pubDate>Mon, 21 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/usabilidade-de-interfaces-para-dispositivos-moveis-parte1/</guid>
+      <description>Já escrevemos aqui no Tableless sobre melhores práticas de front-end / usabilidade para dispositivos móveis. Um questionamento comum a estas diretrizes é o quanto elas são específicas ao contexto mobile, pois muitas delas não se distinguem das diretrizes que vêm sendo difundidas há 20 anos.
+É fato que grande parte das diretrizes são semelhantes, mas o que muda é a criticidade quando tratamos de mobile. Algumas recomendações tornam-se mais graves e imperdoáveis quando não são seguidas no projeto de interfaces para dispositivos móveis.</description>
+    </item>
+    
+    <item>
+      <title>Introdução ao Responsive Web Design</title>
+      <link>http://localhost/jhonny-roger/public/introducao-ao-responsive-web-design/</link>
+      <pubDate>Mon, 15 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-ao-responsive-web-design/</guid>
+      <description>Você já deve ter ouvido falar sobre Responsive Web Design. Você pode ler sobre isso aqui e aqui.
+Até pouco tempo atrás tínhamos praticamente apenas um meio de acessar a internet, que era pelo desktop. Podíamos acessar mal e porcamente a internet pelos celulares ou por outros aparelhos ligados a televisão etc, mas nenhum destes meios nos permitia acessar a internet com a facilidade que tínhamos quando utilizávamos um desktop.</description>
+    </item>
+    
+    <item>
+      <title>Bem vindo a Xangri-lá – Parte 2</title>
+      <link>http://localhost/jhonny-roger/public/bem-vindo-a-xangrila-parte-2/</link>
+      <pubDate>Mon, 06 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/bem-vindo-a-xangrila-parte-2/</guid>
+      <description>Uma vez familiares com a premissa do Progressive Enhancement, vamos entender como aplicar a abordagem para criar suas páginas do zero, garantindo que elas funcionem na maior aplitude de navegadores e dispositivos. Antes de começar, é importante lembrar que para tudo funcionar bem, você precisa conhecer as funcionalidades e limitações da especificacao HTML, seus elementos, tags, e atributos aprovados, isso esta disponivel no site do w3c. É importante tambem se manter no bleeding edge, para que novas linguagens (como o HTML5) não fiquem de fora de suas análises e ponderações.</description>
+    </item>
+    
+    <item>
+      <title>Porque é a web que comanda</title>
+      <link>http://localhost/jhonny-roger/public/porque-e-a-web-que-comanda/</link>
+      <pubDate>Wed, 27 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/porque-e-a-web-que-comanda/</guid>
+      <description>A AppStore fez sucesso. Bastante. Por vários motivos: um deles foi por conta da remuneração do desenvolvedor. Teve gente que ganhou milhares de dólares sozinho vendendo aplicações por 99 centavos. Obviamente isso chamou a atenção de muita gente, que começou a fazer aplicações enlouquecidamente para ganhar alguns trocados. Consequentemente um grande números de aplicações que não precisam ser instaláveis no aparelho, apareceram. Vários desenvolvedores não perceberam que dependendo do seu sistema, ele não precisa ser desenvolvido exclusivamente para ser instalado na plataforma do iPhone.</description>
+    </item>
+    
+    <item>
+      <title>Simuladores de Browsers Mobiles</title>
+      <link>http://localhost/jhonny-roger/public/simuladores-de-browsers-mobiles/</link>
+      <pubDate>Wed, 20 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/simuladores-de-browsers-mobiles/</guid>
+      <description>Antigamente não existiam simuladores dos pequenos celulares. Na verdade, não precisava. Você provavelmente usava WAP. Quando começamos a utilizar CSS e XHTML para fazer sites mais decentes para os mobiles, tudo ficou mais complicado, você precisava ter um aparelho para fazer testes. Em muitos casos era simples resolver utilizando o Opera no desktop mesmo, mas em forma de visualização mobile/handheld. Contudo, você estava desenvolvendo para apenas aparelhos com Opera. Não havia, por exemplo, um simulador de IE Mobile.</description>
+    </item>
+    
+    <item>
+      <title>Versionamento inteligente para mobiles</title>
+      <link>http://localhost/jhonny-roger/public/versionamento-inteligente-para-mobiles/</link>
+      <pubDate>Wed, 20 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/versionamento-inteligente-para-mobiles/</guid>
+      <description>O iPhone fez a festa dele. Todo mundo gostou do que viu e usou. Acontece que não só de iPhone vive o homem, e há pessoas por aí que não gostam do aparelho por motivos diversos. Há mercado para todos e por isso é natural que apareçam outros aparelhos com novos sistemas. Acontece que o lançamento do iPhone criou uma moda de criar versões dos sites específicas para ele. No começo isso foi ótimo.</description>
+    </item>
+    
+    <item>
+      <title>Sites para Dispositivos Móveis – MediaType</title>
+      <link>http://localhost/jhonny-roger/public/sites-para-dispositivos-moveis-mediatype/</link>
+      <pubDate>Thu, 06 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sites-para-dispositivos-moveis-mediatype/</guid>
+      <description>Felizmente, com a ajuda dos Web Standards, o trabalho para criar um site ficou muito mais fácil, rápida e o mais importante, divertida.
+Hoje, você troca de layout a hora que quiser, sem se preocupar em ter que refazer todo o código e programação. Eles já estão feitos, por que ter que recriá-los? Então, você troca apenas 1 arquivo CSS, e seu site muda completamente, sem dor de cabeça, apenas mudando a lente de formatação.</description>
+    </item>
+    
+    <item>
+      <title>Sobre Internet Explorer para Mobile – Breve impressão</title>
+      <link>http://localhost/jhonny-roger/public/sobre-internet-explorer-para-mobile-breve-impressao/</link>
+      <pubDate>Wed, 07 Nov 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sobre-internet-explorer-para-mobile-breve-impressao/</guid>
+      <description>Desde que adquiri um MotoQ (se lê MotoQUIU) eu venho usando o Opera Mobile como browser padrão. Ao contrário da versão pra desktops, o Opera Mobile é pago. Por este motivo, quando a data expirou, eu resolvi usar por um tempo o Internet Explorer.
+Descobri que a forma com que o IE Mobile renderiza as páginas é tão boa quanto a do Opera Mobile. A velocidade de navegação também é ótima.</description>
+    </item>
+    
+    <item>
+      <title>Navegação em mobiles</title>
+      <link>http://localhost/jhonny-roger/public/navegacao-em-mobiles/</link>
+      <pubDate>Fri, 31 Aug 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/navegacao-em-mobiles/</guid>
+      <description>Adquiri faz pouco tempo um MotoQ. Já estou passando da parte de adaptação e me acostumando melhor com as frescuras, limitações e vantagens do aparelho. Agora, consigo dar mais atenção a pontos mais interessantes e claro, que irão me ajudar no trabalho diário. Um deles é a navegação.
+Se acostumar a navegar num aparelhinho desses é algo realmente interessante e dependendo dos casos quebra um galho absurdo.
+Hoje eu uso o Opera Mobile para navegar.</description>
+    </item>
+    
+    <item>
+      <title>Mobilidade na cabeça</title>
+      <link>http://localhost/jhonny-roger/public/mobilidade-na-cabeca/</link>
+      <pubDate>Wed, 10 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/mobilidade-na-cabeca/</guid>
+      <description>Ontem, depois do lançamento do iPhone e de ter visto suas funcionalidades (nem tão novas assim, mas reinvatadas de verdade), fiquei pensando em uma funcionalidade em particular: navegação na internet. Quem assistiu o Keynote viu o camarada navegando de verdade com um browser de verdade (Safari) e tendo uma experiência realmente boa. O browser carrega o site inteiro, lendo XHTML e CSS, nada de SSR ou qualquer coisa parecida e é renderizado como se fosse uma miniatura na tela, mas a formatação é integral, como se estivesse sendo visualizado de um desktop.</description>
+    </item>
+    
+    <item>
+      <title>Podcast Tableless #23 – .mobi</title>
+      <link>http://localhost/jhonny-roger/public/podcast-tableless-23-mobi/</link>
+      <pubDate>Thu, 28 Sep 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/podcast-tableless-23-mobi/</guid>
+      <description>Pois é&amp;#8230; parece que lá fora, a moda (ou quase) é registrar domínios .mobi para sites destinados a dispositivos móveis.
+Isso está gerando uma polêmica muito produtiva: Uns acham que isso não é certo, porque defendem uma única versão do site para vários dispositivos. Outros, acham que é uma saída fazer uma versão específica para esses dispositivos.
+Este assunto na verdade não é tão novo quanto parece, mas agora que foi tudo aprovado, discussões serão travadas e ainda não há como saber qual caminho o mercado irá tomar.</description>
+    </item>
+    
+    <item>
+      <title>Breve introdução: XHTML Mobile Profile</title>
+      <link>http://localhost/jhonny-roger/public/breve-introducao-xhtml-mobile-profile/</link>
+      <pubDate>Tue, 28 Mar 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/breve-introducao-xhtml-mobile-profile/</guid>
+      <description>XHTML MP é um subset do já conhecido XHTML. Ele é baseado em um outro subset de XHTML chamada XHTML Basic. O XHTML Basic é uma versão simplificada do XHTML definido pelo W3C. Ele foi feito especificamente para dispositivos com baixo poder de processamento como celulares, PDAs, pagers etc&amp;#8230; O XHTML Basic não contém algumas características que esses dispositivos dificilmente suportam, como por exemplo: Frames, Folhas de Estilo em Cascata e scripts.</description>
+    </item>
+    
+    <item>
+      <title>Sites para Dispositivos Móveis – Breve introdução</title>
+      <link>http://localhost/jhonny-roger/public/sites-para-dispositivos-moveis-breve-introducao/</link>
+      <pubDate>Thu, 05 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sites-para-dispositivos-moveis-breve-introducao/</guid>
+      <description>Você tem celular? De acordo com a Teleco, em novembro de 2005, havia mais ou menos 82.351.644 de celulares. Ainda me lembro de quando eles eram artigos de luxo, mesmo sendo grandes e pesados.
+Hoje, por um preço razoável, você consegue celulares que tiram fotos e fazem outras coisas que nem James Bond ousava imaginar. E quer saber da melhor? Esse é só o começo.
+Aparelhos com essas e outras possibilidades aparecerão.</description>
+    </item>
+    
+    <item>
+      <title>Browsers dos Dispositivos Móveis</title>
+      <link>http://localhost/jhonny-roger/public/browsers_em_dispositivos_moveis/</link>
+      <pubDate>Thu, 31 Mar 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/browsers_em_dispositivos_moveis/</guid>
+      <description>Dispositivos Móveis. Este é um terreno muito estranho para os desenolvedores de sites.
+Talvez você tenha ouvido falar em fazer sites para Dispositivos Móveis (Mobiles) depois que começou a estudar Web Standards. Confesso que comecei a dar mais atenção a essa área depois que estudei a fundo os Padrões.
+Mas, para aquele usuário um pouco mais avançado, que quer fazer seus sites aparecerem melhores nestes dispositivos, nada melhor que conhecer os Browsers que estão disponíveis e que são usados pelos usuários de Mobiles.</description>
+    </item>
+    
+  </channel>
+</rss>

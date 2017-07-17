@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unidades on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/unidades/</link>
+    <description>Recent content in Unidades on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 03 Sep 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/unidades/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Qual unidade utilizar – Pixel, EM ou REM</title>
+      <link>http://localhost/jhonny-roger/public/unidade-pixels-em-rem/</link>
+      <pubDate>Mon, 03 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/unidade-pixels-em-rem/</guid>
+      <description>Aqui no Brasil é muito comum usarmos pixels para definição de tamanho de textos. Lá fora a galera gosta muito de usar EM. Mas qual a diferença? Por que usar um ou outro?
+Pixels Unidade em pixels é mais velho que andar para trás. Você utiliza pixels para definir a largura de um elemento, o tamanho do texto, a espessura da borda e outras coisas.
+Os pixels são utilizados para definir o tamanho dos textos por que é a medida mais exata que você pode encontrar.</description>
+    </item>
+    
+  </channel>
+</rss>

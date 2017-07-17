@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Litmus on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/litmus/</link>
+    <description>Recent content in Litmus on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 20 Apr 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/litmus/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Email Marketing – Testes e CSS Inliner – Parte 2</title>
+      <link>http://localhost/jhonny-roger/public/email-marketing-testes-css-inliner-parte-2/</link>
+      <pubDate>Mon, 20 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/email-marketing-testes-css-inliner-parte-2/</guid>
+      <description>Não é só porque você precisa fazer seus emails utilizando tabelas, você vai desdenhar das boas práticas que você aprendeu na escola. O código final de uma Newsletter vai ficar muito maior e tão complexo quanto o código de um site institucional simples. Outro ponto importante, é que você vai fazer muitas e muitas alterações até esse email ser publicado e muito provavelmente vai precisar duplicá-lo quando alguém ter a necessidade de enviar novos emails.</description>
+    </item>
+    
+  </channel>
+</rss>

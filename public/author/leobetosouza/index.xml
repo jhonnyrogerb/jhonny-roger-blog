@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leobetosouza on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/leobetosouza/</link>
+    <description>Recent content in Leobetosouza on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 10 Jun 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/leobetosouza/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Desempenho e eventos jQuery: event delegation</title>
+      <link>http://localhost/jhonny-roger/public/desempenho-e-eventos-jquery-event-delegation/</link>
+      <pubDate>Wed, 10 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/desempenho-e-eventos-jquery-event-delegation/</guid>
+      <description>Todo mundo que leva a experiência de uso da sua página um pouco a sério já se pegou pensando &amp;#8220;uso um plugin pronto ou faço eu mesmo?&amp;#8221; e caso cogite usar algo já pronto, acaba em dúvida sobre quais das várias opções usar.
+Esses dias eu resolvi estudar o código de algumas opções disponíveis. Fiquei com medo.
+Existem algumas falhas que nós desenvolvedores cometemos no desenvolvimento usando jQuery que são críticas e comuns.</description>
+    </item>
+    
+  </channel>
+</rss>

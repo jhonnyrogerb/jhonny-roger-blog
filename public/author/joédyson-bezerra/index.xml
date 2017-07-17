@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joédyson Bezerra on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/jo%C3%A9dyson-bezerra/</link>
+    <description>Recent content in Joédyson Bezerra on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 27 Apr 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/jo%C3%A9dyson-bezerra/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Material Design na barra de navegação &amp; status do Chrome</title>
+      <link>http://localhost/jhonny-roger/public/material-design-na-barra-de-navegacao-status-chrome/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/material-design-na-barra-de-navegacao-status-chrome/</guid>
+      <description>Recentemente muitos aplicativos já estão seguindo essa nova tendência de aplicar o material design do google no seus aplicativos mas meu foco hoje não são os aplicativos mas sim em sites responsivos, o que isso de aplicar material de design na barra de navegação?
+
+Pois bem vamos aplicar essa barra de status alterada e a barra de navegação também (Obs: Só vai pegar em Android 5.0 ou superior com Chome instalado)</description>
+    </item>
+    
+  </channel>
+</rss>

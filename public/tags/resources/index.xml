@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/resources/</link>
+    <description>Recent content in Resources on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 15 Apr 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/resources/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A pasta “res” e os resources em um projeto Android</title>
+      <link>http://localhost/jhonny-roger/public/a-pasta-res-e-os-resources-em-um-projeto-android/</link>
+      <pubDate>Wed, 15 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/a-pasta-res-e-os-resources-em-um-projeto-android/</guid>
+      <description>É preciso mais do que só código para criarmos um aplicativo realmente bom para Android. E por mais que amemos código, temos que entender como usar todos os recursos que o Android nos dá, por isso, vamos lá!
+O primeiro passo é entender que resources o Android nos permite usar na criação de um App.
+Tipos de Resources Como vamos ver daqui a pouco, todos os resources de um projeto ficam na pasta res/ dele.</description>
+    </item>
+    
+  </channel>
+</rss>

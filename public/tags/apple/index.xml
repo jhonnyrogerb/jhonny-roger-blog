@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apple on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/apple/</link>
+    <description>Recent content in Apple on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 09 Oct 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/apple/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Web Platform</title>
+      <link>http://localhost/jhonny-roger/public/web-platform/</link>
+      <pubDate>Tue, 09 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/web-platform/</guid>
+      <description>A Webplatform.org é um website dirigido por pessoas que fomentam os padrões web, criado por um grupo que inclui W3C, Adobe, Facebook, Google, HP, Microsoft, Mozilla, Nokia, Opera e outros. O site promete ser uma fonte de recursos importantes para que você, desenvolvedor front-end, tenha uma base atual e principalmente de boas práticas ao produzir seus projetos com HTML5, CSS3, Javascript e etc.
+Eles descrevem muito bem o propósito do site:</description>
+    </item>
+    
+    <item>
+      <title>WebPlatform.org – Por uma Web documentada!</title>
+      <link>http://localhost/jhonny-roger/public/webplatform-org-por-uma-web-documentada/</link>
+      <pubDate>Tue, 09 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/webplatform-org-por-uma-web-documentada/</guid>
+      <description>É bem comum aos desenvolvedores Web, frequentemente recorrer a fontes de informações e referencias em sua rotina de trabalho. Além de o conteúdo ser extenso demais para ser decorado com precisão, ainda está em constante atualização. Muitas vezes as fontes de referencia são descentralizadas fazendo que recorramos a sites diferentes para consultar essas informações. webplatform.org Pensando em solucionar este problema a comunidade webplatform.org trás a simples proposta de documentar a web.</description>
+    </item>
+    
+    <item>
+      <title>Style Guide para Android</title>
+      <link>http://localhost/jhonny-roger/public/style-guide-para-android/</link>
+      <pubDate>Fri, 13 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/style-guide-para-android/</guid>
+      <description>A Wired entrevistou o Matias Duarte, o cara por trás (ui!) do planejamento de UX do Android.
+O Google lançou recentemente um guia de estilo para desenvolvedores do Android. Neste artigo eles conversam sobre como é difícil manter um sistema operacional para mobiles que pode ser instalado e portado para praticamente qualquer dispositivo. Quando um sistema tem essa flexibilidade, as chances da usabilidade e acessibilidade das aplicações e também do sistema tem grandes chances de dar carquinha.</description>
+    </item>
+    
+    <item>
+      <title>Porque só para o iPhone?</title>
+      <link>http://localhost/jhonny-roger/public/porque-so-para-o-iphone/</link>
+      <pubDate>Mon, 17 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/porque-so-para-o-iphone/</guid>
+      <description>&lt;p&gt;Engraçado como desde o lançamento do iPhone, muitas empresas e desenvolvedores se mobilizaram para fazer versões de sites e sistemas para iPhone. Me chama a atenção porque antes disso nunca ninguém (ou quase ninguém) se interessava de verdade em fazer uma versão para dispositivos móveis, muito menos uma versão para um dispositivo específico.&lt;/p&gt;
+
+&lt;p&gt;Ok, ok&amp;#8230; Você deve estar falando que o iPhone virou hype, moda e etc. Mas isso não é o bastante. Muitos dispositivos já fizeram barulho antes. Acho que o buraco é mais embaixo.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Browsers para Mobile – Nova era</title>
+      <link>http://localhost/jhonny-roger/public/browsers-para-mobile-nova-era/</link>
+      <pubDate>Sun, 29 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/browsers-para-mobile-nova-era/</guid>
+      <description>&lt;p&gt;Pense um pouco e tente lembrar de pelo menos uma maneira de acessar a internet que não seja a partir de dispositivos móveis ou computadores (notebooks e desktops). Difícil, não é?&lt;/p&gt;
+
+&lt;p&gt;Hoje, conhecemos bem apenas um meio de acessar a internet que é o computador. Estamos começando agora a navegar decentemente com dispositivos móveis, como um PDAs ou Smartphones. Além do óbvio, não conhecemos os futuros reais problemas de usabilidade e arquitetura de informação dos sites destinados à estes aparelhos. Estamos apenas engatinhando.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rapidinhas – para começar a pseudo-segunda-feira</title>
+      <link>http://localhost/jhonny-roger/public/rapidinhas-para-comecar-a-pseudo-segunda-feira/</link>
+      <pubDate>Tue, 10 Jul 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/rapidinhas-para-comecar-a-pseudo-segunda-feira/</guid>
+      <description>Alguns links rápidos para começar a pseudo-segunda-feira (aqui em SP foi feriado na segunda).
+ Se você usa Mac ou qualquer outro sistema operacional, você sabe que é meio difícil testar seus projetos no IE. Se quiser fazer testes rápidos, sem perder tempo, tente usar o Ie NetRenderer. Em qual versão a tag ABBR foi implementada no HTML? E a BLOCKQUOTE?
+O HTML Elements Index uma tabela de tags, onde você consegue saber em qual versão do HTML a tag foi implementada e se a tag ainda existe nas versões atuais do HTML/XHTML.</description>
+    </item>
+    
+    <item>
+      <title>Safari</title>
+      <link>http://localhost/jhonny-roger/public/safari/</link>
+      <pubDate>Thu, 16 Jan 2003 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/safari/</guid>
+      <description>No dia 7 de Janeiro, a Apple disponibilizou uma versão BETA do seu novo browser: Safari.
+Andei dando uma pesquisada no Google, por informações sobre bugs de renderização que possam existir no Safari, e acabei encontrando.
+Confira em: dive://into.mark.</description>
+    </item>
+    
+  </channel>
+</rss>

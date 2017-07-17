@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qualidade on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/qualidade/</link>
+    <description>Recent content in Qualidade on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 29 Aug 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/qualidade/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Qualidade em Uso: expandindo a Usabilidade</title>
+      <link>http://localhost/jhonny-roger/public/qualidade-em-uso-expandindo-a-usabilidade/</link>
+      <pubDate>Mon, 29 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/qualidade-em-uso-expandindo-a-usabilidade/</guid>
+      <description>A usabilidade, ainda é vista como um “diferencial” ou “vantagem estratégica” dentro das organizações durante o processo de desenvolvimento de websites. Sabemos que, na realidade, é um critério de qualidade que deve ser atendido pela aplicação, ainda que muitos percebam isto de forma implícita. Mas este conceito ainda não está maduro dentro das organizações. Diversas abordagens como a engenharia de usabilidade e o design de interação vêm sendo adotadas dentro dos processos de desenvolvimento para assegurar uma boa experiência de uso das aplicações.</description>
+    </item>
+    
+  </channel>
+</rss>

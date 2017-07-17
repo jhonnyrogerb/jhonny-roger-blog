@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245845">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>Depois das grandes evoluções que tivemos na web (HTML5, CSS3 e novas APIs JavaScript), junto vieram alguns problemas, aquela história de <em>&#8220;Com grandes poderes vem grandes responsabilidades&#8221;</em>. As novas features da Open Web são fantásticas. Lembro-me bem quando nós eramos cautelosos no usar certos recursos com medo de não conseguir entregar o conteúdo ao usuário. No fim, surgiram (e surgem) <em>polyfills</em> e n maneiras de darmos <em>fallback</em> ao usuário com menos recursos. Sendo assim, conseguimos entregar um conteúdo rico para usuários com recursos modernos, e o conteúdo com uma experiência mais simples à usuários com recursos simples.</p>
+
+<p>Tudo perfeito? Na teoria sim, na prática não.</p>
+
+<h2 id="ao-menos-tente-aplicar-progressive-enhancement">Ao menos tente aplicar Progressive Enhancement</h2>
+
+<p>Em poucas palavras, <strong>Progressive Enhancement</strong> é uma maneira de desenvolver aplicações de forma a suportar browser antigos, conexões lentar, etc. Se você não sabe o que é esse termo, vá atrás porque passou da hora. _(Recomendo esse post do <a title="Diego Eis no Twitter" href="https://twitter.com/diegoeis" target="_blank">@diegoeis</a> sobre o assunto: <a title="Fault Tolerance: a base do Progressive Enhancement" href="http://tableless.com.br/faut-tolerant-base-progressive-enhancement/" target="_blank">Fault Tolerance: a base do Progressive Enhancement</a>)_</p>
+
+<p>Há pouco tempo eu era um hater de aplicações e frameworks que não davam suporte ao PE (Progressive Enhancement) ou dificultavam esse tipo de abordagem. Mas o extremismo nunca é saudável. Em um comentário que fiz em um tweet do <a title="Daniel Filho no Twitter" href="https://twitter.com/danielfilho" target="_blank">@danielfilho</a>, ele respondeu algo que me fez mudar de opinião:</p>
+
+<blockquote class="twitter-tweet" lang="pt">
+  <p dir="ltr" lang="en">
+    <a href="https://twitter.com/fernahh">@fernahh</a> it might not support it. but you need to be aware that it’s not everyone who lives on the 1st world & have blazing fast connection.
+  </p>
+  
+  <p>
+    — Daniel Filho (@danielfilho) <a href="https://twitter.com/danielfilho/status/585604385440432129">8 abril 2015</a>
+  </p>
+</blockquote>
+
+<p><strong>É isso!</strong> Nem todo mundo tem uma internet rápida ou o último release do navegador mais moderno. A ideia da web sempre foi ser inclusiva e entregar o conteúdo a todos. Mas por que não fizemos isso? Por que estamos usando o HTML só pra carregar uma tag <code>&lt;script&gt;</code>? Ao menos tente aplicar Progressive Enhancement. Tudo depende de onde sua aplicação irá rodar, quem serão os usuários dela, mas se estiver na &#8220;web pública&#8221;, considere (muito) o PE.</p>
+
+<h2 id="a-web--acessvel">A web é acessível</h2>
+
+<p>A web em sua forma mais simples é acessível. Veja <a title="Exemplo de uma página acessível" href="http://codepen.io/fernahh/pen/OVJNWB" target="_blank">esse exemplo no Codepen</a>, só usei <a href="http://necolas.github.io/normalize.css/">Normalize</a> e HTML.</p>
+
+<p>Contraste perfeito. Links legíveis. Botões que parecem botões. Um leitor de tela provavelmente se daria bem lendo o conteúdo dessa página, mesmo sem uma extensão com <a href="http://tableless.com.br/wai-aria-estendendo-o-significado-das-interacoes/">WAI-ARAI</a>. Um usuário provavelmente interpretaria rápido a informação com elementos expressados dessa forma.</p>
+
+<p>Mas se a web na sua forma mais crua é acessível, por que desenvolvedores fazem isso?</p>
+
+<div style="width: 510px" class="wp-caption aligncenter">
+  <a href="http://sighjavascript.tumblr.com/" target="_blank"><img class="" src="http://41.media.tumblr.com/49748cc0168a329867f45fcc807ae650/tumblr_mslkvjXcmX1sgju96o1_1280.png" alt="Instagram sem JavaScript não funciona." width="500" height="400" /></a>
+  
+  <p class="wp-caption-text">
+    Exemplo do tumblr &#8220;Sign, JavaScript&#8221; (http://sighjavascript.tumblr.com/)
+  </p>
+</div>
+
+<p>Todos tem a resposta para a pergunta acima na ponta da língua: desenvolvedores fazem isso pelo <em>hype</em> de usar novas tecnologias, mas esquecem de atender todos os usuários, <strong>quebrando a web</strong>.</p>
+
+<h2 id="o-reencontro-com-o-caminho-para-uma-web-inclusiva">O reencontro com o caminho para uma web inclusiva</h2>
+
+<p>Estamos seguindo o embalo das novas tecnologias deixando de lado o mais básico que um desenvolvedor web deve saber, que consiste em aprender protocolos, algoritimos, HTML, CSS e JavaScript. Apenas com esses caras já conseguimos entregar o conteúdo com uma experiência bacana ao usuário.</p>
+
+<p>Estude padrões.</p>
+
+<p><em>Frameworks</em>, bibliotecas e pré-processadores são fantásticos, mas primeiro vamos fazer o que a web se propôs a fazer desde seu início: <strong>ser inclusiva</strong>.</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/paginas_acessiveis_hatemile//?utm_source=tablelessRelatedLin">Páginas acessíveis com o HaTeMiLe</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/estatistica-basica-projetos-agile//?utm_source=tablelessRelatedLin">Estatística básica nas entregas de projetos agile — Moda, mediana e percentil</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/sketch43-novo-formato-arquivo//?utm_source=tablelessRelatedLin">O novo formato de arquivo do Sketch 43</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245845"></script>

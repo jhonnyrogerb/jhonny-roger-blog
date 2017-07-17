@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frameworks on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/frameworks/</link>
+    <description>Recent content in Frameworks on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 19 Sep 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/frameworks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Menos é mais com Android Annotations</title>
+      <link>http://localhost/jhonny-roger/public/menos-e-mais-com-android-annotations/</link>
+      <pubDate>Mon, 19 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/menos-e-mais-com-android-annotations/</guid>
+      <description>De todo o trabalho que você tem ao programar uma aplicação android, uma grande parte dele é por conta de todo o código boilerplate que sempre temos que fazer. Uma das coisas que mais me incomoda é que todos os recursos (views e afins) precisam ser referenciados para poderem ser acessados e isso, dependendo da quantidade de recursos que você precisa ter na aplicação, pode resultar em muitas e muitas linhas de código.</description>
+    </item>
+    
+    <item>
+      <title>Formulário sem Model no CakePHP 3.x</title>
+      <link>http://localhost/jhonny-roger/public/formulario-sem-model-no-cakephp-3-x/</link>
+      <pubDate>Tue, 16 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/formulario-sem-model-no-cakephp-3-x/</guid>
+      <description>Requisitos do artigos:
+&amp;#8211; Ter o CakePHP 3 instalado ( Artigo de como instalar o Cakephp 3.x)
+O que aprenderemos:
+ Como trabalhar com formulários que não necessitam de um Model. Criar uma página de contato.  Formulários Na maioria das vezes, trabalhamos com formulários relacionados a um Model para persistir dados. Outras vezes precisamos validar os dados de um formulário onde não há persistência, como é no caso de um Formulário de Contato.</description>
+    </item>
+    
+    <item>
+      <title>O que é Sass? Entenda esse outro método de escrever CSS</title>
+      <link>http://localhost/jhonny-roger/public/sass-um-outro-metodo-de-escrever-css/</link>
+      <pubDate>Tue, 11 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sass-um-outro-metodo-de-escrever-css/</guid>
+      <description>Se você é um desenvolvedor front-end que está atualmente no mercado, já ouviu/leu palavrinhas como LESS, Foundation e Sass. Alguns sabem do que estou falando, outros não, mas o fato que é que esses nomes foram dados à pré-processadores e frameworks de folhas de estilo para auxiliar na produtividade de códigos, principalmente no que diz respeito a repetição de uma mesma ação, diversas vezes.
+Quantas vezes você se pegou copiando e colando aquele monte de classes identadas com mais de 15 linhas repetidamente e pensou: podia existir uma maneira mais rápida de fazer isso.</description>
+    </item>
+    
+    <item>
+      <title>Plugins jQuery e bibliotecas JavaScript para e-commerces</title>
+      <link>http://localhost/jhonny-roger/public/plugins-jquery-e-bibliotecas-javascript-para-e-commerces/</link>
+      <pubDate>Tue, 26 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/plugins-jquery-e-bibliotecas-javascript-para-e-commerces/</guid>
+      <description>jQuery.payment https://stripe.com/blog/jquery-payment
+O plugin jQuery.payment valida o número dos principais cartões do mercado. Desenvolvido pelo pessoal da Stripe, empresa especializada em uma solução de pagamento para desenvolvedores de e-commerces, o plugin conta com validadores para números de cartão de crédito, data de validade e código de segurança.
+Exemplos de uso:
+$(&#39;.numero-cartao&#39;).payment(&#39;formatCardNumber&#39;); $(&#39;.expiracao-cartao&#39;).payment(&#39;formatCardExpiry&#39;); $(&#39;.codigo-cartao&#39;).payment(&#39;formatCardCVC&#39;); $(&#39;.numerico&#39;).payment(&#39;restrictNumeric&#39;); É possível também tirar proveito de alguns utilitários que acompanham o plugin e executar tarefas de validação, além de retornar informações do cartão baseado no número e a data de validade como um objeto:</description>
+    </item>
+    
+    <item>
+      <title>Biblioteca CSS ou Framework?</title>
+      <link>http://localhost/jhonny-roger/public/biblioteca-css-ou-framework/</link>
+      <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/biblioteca-css-ou-framework/</guid>
+      <description>Primeiro você precisa entender a diferença entre os dois. A Talita Pagani em um dos seus artigos descreve o que é um framework assim:
+ Framework é um conjunto de componentes que provêm uma estrutura básica de elementos reutilizáveis, tendo uma arquitetura consistente de funcionalidade genérica sob a qual a aplicação será construída.
+ O uso de uma Biblioteca (CSS, Javascript, etc) é bastante parecido com a utilização de um framework.</description>
+    </item>
+    
+    <item>
+      <title>Quando utilizar (ou não) frameworks CSS</title>
+      <link>http://localhost/jhonny-roger/public/quando-utilizar-ou-nao-frameworks-css/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/quando-utilizar-ou-nao-frameworks-css/</guid>
+      <description>Framework é um conjunto de componentes que provêm uma estrutura básica de elementos reutilizáveis, tendo uma arquitetura consistente de funcionalidade genérica sob a qual a aplicação será construída.
+No caso de CSS, os frameworks constituem bibliotecas que visam permitir a codificação do CSS de modo mais fácil e compatível com padrões de estilos, agregando uma série de opções já prontas para projetar uma página web, como se fosse um esqueleto, reduzindo o tempo gasto com o desenvolvimento.</description>
+    </item>
+    
+    <item>
+      <title>CSS Frameworks ou como desaprender CSS</title>
+      <link>http://localhost/jhonny-roger/public/css-frameworks-ou-como-desaprender-css/</link>
+      <pubDate>Tue, 09 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css-frameworks-ou-como-desaprender-css/</guid>
+      <description>O papo que agora está começando a rolar entre os desenvolvedores é sobre Frameworks para CSS.
+Sou totalmente contra a qualquer coisa que impeça o contato do desenvolvedor com o código. Sou avesso a qualquer tipo de interface que prometa facilitar o desenvolvimento, pelo menos de XHTML e CSS. Lembra daquele papo sobre o desenvolvedor &amp;#8220;analbético&amp;#8221; de código?
+Ainda acho que utilizar editores que suportam Snippets &amp;#8211; ou Macros, dependendo do editor &amp;#8211; são as melhores formas de se trabalhar se você quer agilidade.</description>
+    </item>
+    
+  </channel>
+</rss>

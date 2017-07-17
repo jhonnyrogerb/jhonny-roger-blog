@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mazetto on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/mazetto/</link>
+    <description>Recent content in Mazetto on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 03 Dec 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/mazetto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WordPress Modus Operandi</title>
+      <link>http://localhost/jhonny-roger/public/wordpress-modus-operandi/</link>
+      <pubDate>Tue, 03 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/wordpress-modus-operandi/</guid>
+      <description>Sábado, dia 23 de Novembro, tive o prazer de participar do WordCamp São Paulo 2013. De acordo com informações divulgadas no site do evento, foram mais de 200 inscritos a procura de compartilhar e trocar idéias sobre o uso do WordPress em seus projetos. Essa edição do WordCamp contou com palestras nas áreas de design e desenvolvimento, produção de conteúdo e negócios.
+Acredito que ter ampliado o alcance dos temas abordados, não restrigindo apenas a códigos e aberto espaço para discussões referente ao mercado, negócios; foi sem dúvida uma grande sacada dos organizadores que agregou imenso valor a esse encontro de profissionais.</description>
+    </item>
+    
+    <item>
+      <title>WordPress e seus utilizadores</title>
+      <link>http://localhost/jhonny-roger/public/wordpress-e-seus-utilizadores/</link>
+      <pubDate>Thu, 14 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/wordpress-e-seus-utilizadores/</guid>
+      <description>O WordPress sem dúvidas é uma excelente alternativa caso precise de um sistema para gerenciar o conteúdo de um site. No entanto entre os mais diversos envolvidos no processo de criação de um site reside algumas questões a serem respondidas. Como um designer deve encarar um projeto para WordPress, o quê um front-end precisa saber, qual o papel do gestor de conteúdo diante disso tudo; são apenas algumas indagações entre outras que serão abertas para discussão a seguir.</description>
+    </item>
+    
+  </channel>
+</rss>

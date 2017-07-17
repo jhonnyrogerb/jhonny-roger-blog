@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>William Martins on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/william-martins/</link>
+    <description>Recent content in William Martins on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 29 Jul 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/william-martins/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Criando páginas web para seus repositórios com o GitHub Pages</title>
+      <link>http://localhost/jhonny-roger/public/criando-paginas-web-para-seus-repositorios-com-o-github-pages/</link>
+      <pubDate>Mon, 29 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-paginas-web-para-seus-repositorios-com-o-github-pages/</guid>
+      <description>O github é um dos principais meios de compartilhamento de projetos disponíveis na internet, lá, encontram-se desde projetos simples até projetos extremamente complexos, como o kernel do linux (https://github.com/torvalds/linux).
+Visando expandir a forma de divulgação de projetos, o github possui um serviço chamado ‘github pages’, que serve principalmente para prover páginas na internet sobre os repositórios. Essas páginas podem servir para divulgar exemplos, demos, documentações e qualquer outro tipo de informação sobre o seu projeto.</description>
+    </item>
+    
+    <item>
+      <title>Contribuindo em projetos open source com o github</title>
+      <link>http://localhost/jhonny-roger/public/contribuindo-em-projetos-open-source-com-o-github/</link>
+      <pubDate>Fri, 21 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/contribuindo-em-projetos-open-source-com-o-github/</guid>
+      <description>Projetos open source são o que há de mais legal no mundo do desenvolvimento quando se quer aprender novas tecnologias e envolver-se em projetos, seja codificando, documentando, testando ou realizando qualquer tipo de atividade que envolve um projeto.
+Uma das principais ferramentas para o envolvimento em projetos open source é o github. Este artigo explica como utilizar essa ferramenta para envolver-se em projetos, visando realizar contribuições em projetos.
+Primeiros passos Antes de tudo é necessário conhecer minimamente a ferramenta e o seu fluxo de trabalho, portanto, é recomendada a leitura de dois artigos:</description>
+    </item>
+    
+  </channel>
+</rss>

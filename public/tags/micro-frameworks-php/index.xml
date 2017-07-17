@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Micro Frameworks Php on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/micro-frameworks-php/</link>
+    <description>Recent content in Micro Frameworks Php on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 26 Jun 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/micro-frameworks-php/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Silex Middlewares 101 – Parte 1</title>
+      <link>http://localhost/jhonny-roger/public/silex-middlewares-101-parte-1/</link>
+      <pubDate>Sun, 26 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/silex-middlewares-101-parte-1/</guid>
+      <description>Fala pessoal! Tudo bem? Espero que sim! Depois de uma longa temporada retorno com mais este post sobre o micro-framework Silex! Desta vez abordarei o uso dos middlewares no mesmo.
+Middlewares Os middlewares no Silex são utilizados para mudar o comportamento padrão do mesmo, os middlewares se mostram muito úteis quando pensamos na validação de tokens de acesso, save de logs e muitas outras tarefas. Basicamente temos dois tipos de middlewares, os de aplicação e os de rota.</description>
+    </item>
+    
+  </channel>
+</rss>

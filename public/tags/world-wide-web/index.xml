@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>World Wide Web on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/world-wide-web/</link>
+    <description>Recent content in World Wide Web on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 23 Nov 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/world-wide-web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Como funciona a Internet e a World Wide Web</title>
+      <link>http://localhost/jhonny-roger/public/como-funciona-internet-e-world-wide-web/</link>
+      <pubDate>Mon, 23 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/como-funciona-internet-e-world-wide-web/</guid>
+      <description>Muitas pessoas se encantaram com a Web e gostariam que ela fizesse parte da sua vida pessoal e/ou profissional. Comigo foi assim, com alguns amigos também e, acredito, que com você também foi assim. Afinal, quem não queria fazer parte desta história?
+Acontece que muitas pessoas que entram neste mundo do desenvolvimento web sequer sabem, de fato, como a Web funciona. Iniciam querendo aprender a criar sites com HTML, CSS, JavaScript, PHP ou  sem saber seu funcionamento.</description>
+    </item>
+    
+  </channel>
+</rss>

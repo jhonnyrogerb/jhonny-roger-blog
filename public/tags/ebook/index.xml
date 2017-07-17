@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ebook on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/ebook/</link>
+    <description>Recent content in Ebook on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 01 Feb 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/ebook/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ePub: Aprenda a criar um livro digital</title>
+      <link>http://localhost/jhonny-roger/public/epub-aprenda-a-criar-um-livro-digital/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/epub-aprenda-a-criar-um-livro-digital/</guid>
+      <description>Introdução Com a crescente popularização de tablets e leitores digitais não há dúvida de que os livros eletrônicos vieram para ficar. O formato ePub vem cada vez mais se consolidando como o padrão definitivo para eBooks. As editoras procuram profissionais especializados, mas, aqui no Brasil não existem muitos que de fato possuem o know-how necessário para desenvolver livros no padrão. Na verdade o que acontece é que as editoras estão alocando o tipo de profissional errado para a função.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Profissional Web on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/profissional-web/</link>
+    <description>Recent content in Profissional Web on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 30 Jan 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/profissional-web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A melhor parte da viagem é o caminho</title>
+      <link>http://localhost/jhonny-roger/public/a-melhor-parte-da-viagem-e-o-caminho/</link>
+      <pubDate>Mon, 30 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/a-melhor-parte-da-viagem-e-o-caminho/</guid>
+      <description>Eu me preocupo muito com o mercado de web no Brasil. Não estou falando de empresas especificamente, mas dos profissionais. Muitos me perguntam sobre qual faculdade cursar ou sobre qual assunto os devs deveriam aprender agora&amp;#8230; Eu não tenho faculdade e faz tempo que não aprendo algo realmente novo. E meu amigo, estou tão perdido quanto você nesse oceano. Talvez um pouco mais adiantado ou atrasado, mas igualmente perdido.</description>
+    </item>
+    
+  </channel>
+</rss>

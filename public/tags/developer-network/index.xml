@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Developer Network on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/developer-network/</link>
+    <description>Recent content in Developer Network on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 04 Feb 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/developer-network/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Locaweb Developer Network</title>
+      <link>http://localhost/jhonny-roger/public/developer-network/</link>
+      <pubDate>Mon, 04 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/developer-network/</guid>
+      <description>Já faz um tempo que iniciamos um trabalho muito bacana aqui na Locaweb de padronizar e reestruturar a área de front-end. Nesse processo percebemos que alguns desenvolvedores que conhecem a Locaweb e utilizam nossos serviços, não tinham um acesso facilitado para encontrar informações técnicas, como por exemplo a integração e utilização das APIs dos produtos. Diversos desenvolvedores precisam dessas informações para que integrarem seus produtos aos serviços da Locaweb, tanto para projetos pessoais ou projetos para seus clientes.</description>
+    </item>
+    
+  </channel>
+</rss>

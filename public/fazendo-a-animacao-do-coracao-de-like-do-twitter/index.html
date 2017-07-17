@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245842">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      <p>Quando o Twitter colocou uma animação no coração de Like na versão web, eu fiquei me perguntando como fazer aquela animação. De cara, parece ser bastante simples, e é. Mas é um detalhe que faz a diferença na interface para quem usa a rede social com frequência. Fiz uma versão mais simples. Segue abaixo:</p>
+
+<p>Antes de olhar o código deles pra pesquisar como foi feito, fiquei pensando em uma série de formas para fazer isso aí. Primeiro, pensei em ter várias imagens, e aí usar <code>keyframes</code> pra alterar esse background do elemento a cada X tempo de milésimos de segundos. Depois evolui o pensamento para fazer apenas uma imagem, com todos os &#8220;frames&#8221; da animação. Muito mais inteligente, claro&#8230; lembra dos Sprites&#8230; Pois é. Com essa imagem eu poderia simplesmente mover o background com um transition simples do CSS. A imagem em questão é essa aqui:</p>
+
+<p><a href="http://tableless.com.br/uploads/2016/01/web_heart_animation.png"><img src="http://tableless.com.br/uploads/2016/01/web_heart_animation.png" alt="web_heart_animation" style="width: 100%; height: auto;" class="alignnone size-full wp-image-52833" /></a></p>
+
+<p>Mas a coisa não funcionou muito bem. Ficou mais ou menos assim:</p>
+
+<p>Perceba que não houve o efeito de animação como eu estava esperando. Mas tem um truque: quando utilizamos a propriedade <code>transition</code>, geralmente usamos os valores <code>linear</code>, <code>ease-in</code>, <code>ease-out</code> e etc&#8230; Essas funções definem como os valores intermediários de uma transição serão calculados. Eles pegam um valor inicial e calculam como a transição vai ocorrer até o valor final.</p>
+
+<p><img src="https://developer.mozilla.org/files/3426/cubic-bezier,ease-in.png" alt="" /><img src="https://mdn.mozillademos.org/files/3429/cubic-bezier,ease.png" alt="" /></p>
+
+<p>Dá uma olhada nessa <a href="http://easings.net">tabela de referência</a> de como as transições funcionam.</p>
+
+<p>Há um valor que eu não conhecia até então, chamado <code>steps()</code>. A representação da transição do steps é assim:</p>
+
+<p><img src="https://mdn.mozillademos.org/files/3437/steps(4,end).png" alt="" /></p>
+
+<p>O <code>steps()</code>, ao contrário dos outros valores, não determina uma transição contínua, mas ele separa os valores intermediários em frames estáticos. Veja um exemplo básico abaixo. Um usando linear e outro usando steps().</p>
+
+<p>Esse efeito seria o mesmo efeito que eu conseguiria se tivesse feito manualmente a primeira ideia de separar os frames da animação em várias imagens&#8230; Mas muito mais inteligente. Mas perceba que eu ainda faço a transição movendo a posição do background. O valor <code>left</code> do <code>background-position</code> começa no **** e termina no <strong>-2800px</strong>. Esse valor é exatamente a largura da imagem original que você quer fazer a animação. O coração do twitter é bem menor do que esse que eu estamos usando aqui no exemplo (embora a imagem seja a mesma). Aí é só mudar o tamanho usando o <code>background-size</code> e fazendo os devidos acertos.</p>
+
+<p>O final, ficou assim:</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/teste-de-carga-em-apis-utilizando-artillery//?utm_source=tablelessRelatedLin">Teste de carga em APIs utilizando Artillery</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/crie-sites-em-questao-de-minutos-com-o-pingendo//?utm_source=tablelessRelatedLin">Crie sites em questão de minutos com o Pingendo</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245842"></script>

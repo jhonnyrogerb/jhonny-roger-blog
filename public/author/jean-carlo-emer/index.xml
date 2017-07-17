@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jean Carlo Emer on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/jean-carlo-emer/</link>
+    <description>Recent content in Jean Carlo Emer on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 23 May 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/jean-carlo-emer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fluxo de execução assíncrono em JavaScript – Generators e Async Functions</title>
+      <link>http://localhost/jhonny-roger/public/fluxo-de-execucao-assincrono-em-javascript-generators-e-async-functions/</link>
+      <pubDate>Mon, 23 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/fluxo-de-execucao-assincrono-em-javascript-generators-e-async-functions/</guid>
+      <description>Os últimos artigos tratam de Callbacks e Promises, corre conferir ou relembrar antes de prosseguirmos. Promises são abstrações muito importantes na evolução de escrita de código assíncrono. Tanto isto é verdade, que as técnicas e conceitos que veremos neste artigo são todos apoiados em promises.
+function mountUserComponent() { return get(&#39;profile.json&#39;).then(function (response) { return new UserComponent(response); }, function onRejected() { // falha na requisição Ajax }); }  A intenção a partir daqui é eliminar muito desta necessidade de declarar callbacks de sucesso e falha para recuperar o resultado de uma promessa.</description>
+    </item>
+    
+    <item>
+      <title>Fluxo de execução assíncrono em JavaScript – Promises</title>
+      <link>http://localhost/jhonny-roger/public/fluxo-de-execucao-assincrono-em-javascript-promises/</link>
+      <pubDate>Fri, 07 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/fluxo-de-execucao-assincrono-em-javascript-promises/</guid>
+      <description>No primeiro artigo da série falamos sobre o que é execução assíncrona, quais APIs executam código assincronamente e como se livrar de dores de cabeça quando utilizando callbacks.
+Uma série de problemas encontradas ao utilizar callbacks foram explorados junto com suas soluções. Aprendemos a utilizar closures, contornar o tratamento de excessões, reconhecer o comportamento do this e evitar o Callback Hell. O que veremos a seguir são algumas das reais limitações das callbacks.</description>
+    </item>
+    
+    <item>
+      <title>Fluxo de execução assíncrono em JavaScript – Callbacks</title>
+      <link>http://localhost/jhonny-roger/public/fluxo-de-execucao-assincrono-em-javascript-callbacks/</link>
+      <pubDate>Mon, 27 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/fluxo-de-execucao-assincrono-em-javascript-callbacks/</guid>
+      <description>O fluxo de execução de um programa é determinado pela ordem em que suas instruções são executadas. Tradicionalmente a execução é sequencial e segue a ordem em que as instruções aparecem no código fonte do programa.
+Existem instruções especiais que podem guiar o fluxo de execução, seja pela imposição de uma decisão, repetição ou pulo. No JavaScript, temos como exemplo if, for, while, try catch, return, dentre outros (como break e continue que podem ser usados de um jeito peculiar).</description>
+    </item>
+    
+    <item>
+      <title>OOCSS, SMACSS, BEM, DRY CSS: afinal, como escrever CSS?</title>
+      <link>http://localhost/jhonny-roger/public/oocss-smacss-bem-dry-css-afinal-como-escrever-css/</link>
+      <pubDate>Mon, 23 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/oocss-smacss-bem-dry-css-afinal-como-escrever-css/</guid>
+      <description>Já sabemos que se tratando de CSS, apesar da escrita ser muito simples, há uma série de armadilhas. Começamos não utilizando !important ou tags para estilização, considerando o peso dos seletores e adotando um code standard. Mas ainda não damos tanta atenção para a arquitetura que está intimamente ligada a futuros conflitos. Um conflito de CSS é fruto de código mal escrito que cancela regras ou as aplicada em porções inadequadas do layout.</description>
+    </item>
+    
+    <item>
+      <title>Semântica de variáveis e propriedades personalizadas em CSS</title>
+      <link>http://localhost/jhonny-roger/public/semantica-de-variaveis-e-propriedades-personalizadas-em-css/</link>
+      <pubDate>Wed, 16 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/semantica-de-variaveis-e-propriedades-personalizadas-em-css/</guid>
+      <description>Pré-processadores Sou defensor do uso de pré-processadores de CSS e tenho alguns bons argumentos para convencer você. Um dos benefícios dos pré-processadores é a possibilidade de uso de variáveis para armazenar medidas, cores e outros atributos do layout.
+Além de manter seu projeto facilmente configurável e permitir o uso de álgebra, a simples tarefa de dar nome aos atributos força um raciocínio mais apurado. Variações pequenas de medidas e cores, que são resquícios das ferramentas utilizadas para design, serão mais facilmente identificadas e limadas.</description>
+    </item>
+    
+    <item>
+      <title>Acelere o carregamento de suas páginas</title>
+      <link>http://localhost/jhonny-roger/public/acelere-o-carregamento-de-suas-paginas/</link>
+      <pubDate>Tue, 25 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/acelere-o-carregamento-de-suas-paginas/</guid>
+      <description>Muita coisa já foi escrita sobre este assunto, originalmente em português temos o renomado guia Como perder peso no browser cujos autores são feras e a série intitulada Performance front-end aqui mesmo no Tableless. As iniciativas gringas são muitas com destaque ao YSlow e às práticas do Yahoo! para melhorar performance.
+Neste ponto, se ainda continua nesta leitura, você deve estar se perguntando se existe alguma técnica que não é coberta por alguma destas referências.</description>
+    </item>
+    
+    <item>
+      <title>Qual a dose certa de JavaScript</title>
+      <link>http://localhost/jhonny-roger/public/qual-dose-certa-de-javascript/</link>
+      <pubDate>Mon, 03 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/qual-dose-certa-de-javascript/</guid>
+      <description>Para uma linguagem de programação que começou de maneira tão despretensiosa, o JavaScript ganhou muito espaço. É bem verdade que alguns navegadores não dão suporte à linguagem, mas estes possuem propósitos particulares ou estacionaram em alguma era que não esta.
+O navegador Chrome deve muito da sua popularidade pela rapidez com que interpreta JavaScript e a Mozilla há pouco removeu a opção de desabilitar a linguagem no Firefox. Os fabricantes de navegadores bem sabem, querendo ou não, a internet como conhecemos tem o JavaScript como uma de suas principais dependências.</description>
+    </item>
+    
+    <item>
+      <title>O grande desencontro do HTTP com o HTML</title>
+      <link>http://localhost/jhonny-roger/public/o-grande-desencontro-http-com-o-html/</link>
+      <pubDate>Mon, 06 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-grande-desencontro-http-com-o-html/</guid>
+      <description>O texto irá contar a evolução e desencontro de duas tecnologias. O importante aqui é apresentar a você uma série de conceitos e raciocínios ligados à linguagem de marcação e ao protocolo de marcação mais famosos dos nossos tempos. Vê se não banca o curioso, nada de descer até o fim do texto para conhecer o desfecho desta trama.
+Prólogo Hypertext Transfer Protocol (HTTP) O HTTP é um protocolo de comunicação para distribuição de objetos de hipermídia referenciados por uma URL.</description>
+    </item>
+    
+    <item>
+      <title>Modularização em JavaScript</title>
+      <link>http://localhost/jhonny-roger/public/modularizacao-em-javascript/</link>
+      <pubDate>Mon, 09 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/modularizacao-em-javascript/</guid>
+      <description>Modularização implica na divisão das funcionalidades de um código em partes distintas. Os módulos compõe peças que podem ser adicionadas e removidas quando necessário, vejam: reuso de código.
+Os frutos do encapsulamento alcançado com a modularização são a redução da complexidade, separação de interesses e manutenção descomplicada. Ainda, a definição de cada módulo força o programador a determinar quais os limites e responsabilidades de cada porção do código.
+Acredito que estes argumentos já justificam a adoção de um sistema de módulos para seu código.</description>
+    </item>
+    
+    <item>
+      <title>CSS on steroids</title>
+      <link>http://localhost/jhonny-roger/public/css-steroids/</link>
+      <pubDate>Tue, 12 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css-steroids/</guid>
+      <description>Os pré-processadores de CSS têm a função de adicionar funcionalidades não nativas às folhas de estilo. Estes açúcares sintáticos, como são chamados, estabelecem uma nova linguagem cujo código precisa ser processado para se tornar CSS e então ser interpretado por qualquer navegador.
+Cá entre nós, pré-processadores não são nenhuma novidade, o mais antigo deles surgiu em 2007. O que talvez não seja conhecido por muita gente, inclusive por aqueles que já utilizam um pré-processador, são quais os problemas que eles se propõe a solucionar.</description>
+    </item>
+    
+    <item>
+      <title>Workflow para cuidar dos seus assets</title>
+      <link>http://localhost/jhonny-roger/public/workflow-para-cuidar-dos-seus-assets/</link>
+      <pubDate>Thu, 31 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/workflow-para-cuidar-dos-seus-assets/</guid>
+      <description>No desenvolvimento web, o termo assets é utilizado para designar tudo o que complementa o conteúdo dos websites. Em outras palavras, assets são nossos recursos de folhas de estilo, scripts, fontes e imagens.
+Em uma primeira análise, os assets parecem algo simples de se gerenciar. Porém, o que passa muitas vezes por desapercebido é que a falta de alguns cuidados podem impactar significativamente na performance do projeto notada pelo usuário.</description>
+    </item>
+    
+  </channel>
+</rss>

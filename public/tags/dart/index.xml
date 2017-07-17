@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dart on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/dart/</link>
+    <description>Recent content in Dart on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 01 Jun 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/dart/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Como criar um Chrome App com o seu Chromebook</title>
+      <link>http://localhost/jhonny-roger/public/como-criar-um-chrome-app-com-o-seu-chromebook/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/como-criar-um-chrome-app-com-o-seu-chromebook/</guid>
+      <description>O que é um chrome app A ideia de chrome app&amp;nbsp;é trazer ferramentas que você usa no browser para o seu computador. Como se fosse uma extensão do browser. &amp;nbsp;A&amp;nbsp;instalação/desinstalação destes apps é fácil, rápida e sem dor de cabeça, além de contar com aplicativos que podem funcionar off-line.
+Por que criar um chrome APP? A grande vantagem, é que aplicativos nativos para Chrome&amp;nbsp;OS são feitos com tecnologias que já conhecemos como HTML, CSS e JS.</description>
+    </item>
+    
+  </channel>
+</rss>

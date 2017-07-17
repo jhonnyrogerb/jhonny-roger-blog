@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>18elw on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/18elw/</link>
+    <description>Recent content in 18elw on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 25 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/18elw/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Encontro Desenvolvedores Recife – 05/Maio</title>
+      <link>http://localhost/jhonny-roger/public/encontro-desenvolvedores-recife-05maio/</link>
+      <pubDate>Mon, 25 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/encontro-desenvolvedores-recife-05maio/</guid>
+      <description>Estamos passando por diversas cidades como Porto Alegre, Curitiba, São Paulo. A nossa próxima parada é Recife, no dia 05 de Maio! Veja abaixo os palestrantes que estamos levando. Você pode se cadastrar direto no site da Locaweb, tanto para Recife, quanto para outras cidades!
+No final do Post, você confere a data de todos os eventos. Quer desconto? 50% usando o cupom PRCTABLELESS.
+     Renan Ranelli da Xerpa &amp;#8211; mais conhecido como Milhouse &amp;#8211; vai falar sobre como evitar que o sonho de adotar novas tecnologias se torne um pesadolo!</description>
+    </item>
+    
+  </channel>
+</rss>

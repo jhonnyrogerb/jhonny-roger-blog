@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Www2013 on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/www2013/</link>
+    <description>Recent content in Www2013 on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 07 May 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/www2013/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Participe do Open Web Challenges na WWW2013!</title>
+      <link>http://localhost/jhonny-roger/public/participe-do-open-web-challenges-no-www2013/</link>
+      <pubDate>Tue, 07 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/participe-do-open-web-challenges-no-www2013/</guid>
+      <description>Na próxima semana, de 13 a 17 de maio, ocorre no Rio a WWW2013 (22ª Conferência Internacional sobre a World Wide Web), uma das mais importantes conferências mundiais para discutir os rumos da Web. Será uma semana com apresentação de artigos acadêmicos, técnicos e industriais, além da presença de profissionais de gigantes como a Google, IBM e Microsoft. Além disso, Sir Tim Berners-Lee é o grande destaque do evento como um dos palestrantes notáveis (keynote speakers).</description>
+    </item>
+    
+  </channel>
+</rss>

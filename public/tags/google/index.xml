@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/google/</link>
+    <description>Recent content in Google on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 30 Nov 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/google/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Indexando mobile-first – Google anuncia novidades</title>
+      <link>http://localhost/jhonny-roger/public/indexando-mobile-first-google-anuncia-novidades/</link>
+      <pubDate>Wed, 30 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/indexando-mobile-first-google-anuncia-novidades/</guid>
+      <description>Segundo o Google, atualmente a maioria das pessoas já fazem busca utilizando um dispositivo móvel. Entretanto, os sistemas de classificação ainda costumam olhar a versão desktop do conteúdo da página em questão para dar relevância ao usuário. Pensando em mobile-first, isso pode trazer alguns problemas caso a página mobile tenha menos conteúdo do que a página desktop porque os algoritmos do Google não estão avaliando a página que está sendo vista pelo usuário da página mobile.</description>
+    </item>
+    
+    <item>
+      <title>Como o Google vai tratar os gTLDs?</title>
+      <link>http://localhost/jhonny-roger/public/como-o-google-vai-tratar-os-gtlds/</link>
+      <pubDate>Tue, 11 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/como-o-google-vai-tratar-os-gtlds/</guid>
+      <description>&lt;p&gt;O Google lançou no Webmaster Central Blog uma sessão de perguntas e respostas sobre como será feita a manipulação dos &lt;a href=&#34;https://en.wikipedia.org/wiki/Generic_top-level_domain&#34; target=&#34;_blank&#34;&gt;gTLDs&lt;/a&gt; (&lt;em&gt;generic top level domains&lt;/em&gt;), em português, domínios de alto nível. Se ainda não entendeu o que são domínios de alto nível, são aquelas novas extensões que vão facilitar a vida de quem tem um segmento mas nunca encontrou um domínio legal em .com ou .com.br, como por exemplo, .CASA, .CAFE, .BAR, .GURU e assim por diante. Neste &lt;a href=&#34;https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains#ICANN-era_generic_top-level_domains&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt; você encontra a lista completa dos gTLDs.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2015 – O ano em que o celular ultrapassou o desktop</title>
+      <link>http://localhost/jhonny-roger/public/2015-o-ano-em-que-o-celular-ultrapassou-o-desktop/</link>
+      <pubDate>Mon, 20 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/2015-o-ano-em-que-o-celular-ultrapassou-o-desktop/</guid>
+      <description>O Google promoveu este ano o Mobile Day e ajudou a compreendermos ainda mais tudo que envolve este mercado que está mudando completamente a forma que o ser humano interage com tecnologia.
+Todo o material compartilhado pode ser encontrado diretamente nos blogs do Google, mas eu vou compartilhar com vocês aqui algo de forma um pouco mais resumida e também com algumas opiniões a respeito do tema baseado em minha experiência.</description>
+    </item>
+    
+    <item>
+      <title>GDG DevFest Extended 2015</title>
+      <link>http://localhost/jhonny-roger/public/gdg-devfest-extended-2015/</link>
+      <pubDate>Fri, 20 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/gdg-devfest-extended-2015/</guid>
+      <description>O Grupo de Desenvolvedores Google (GDG) das cidades de Salvador, Recife, Fortaleza, Belo Horizonte e Curitiba realizam no dia 28 de março o GDG DevFest Extended 2015. O objetivo é ser um evento focado nas tecnologias do Google, tendo como público alvo gestores, empreendedores, desenvolvedores e estudantes acontecendo nos estados com participações locais e remotas.
+O evento terá duração de 1 (um) dia, dedicado a palestras ministradas por especialistas reconhecidos nacionalmente.</description>
+    </item>
+    
+    <item>
+      <title>Utilizando o MarkerClusterer no Google Maps</title>
+      <link>http://localhost/jhonny-roger/public/utilizando-o-markerclusterer-google-maps/</link>
+      <pubDate>Wed, 07 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/utilizando-o-markerclusterer-google-maps/</guid>
+      <description>Seja você desenvolvedor ou não, temos que admitir o poder do Google Maps. É bem difícil encontrar alguém hoje em dia que não tenha acessado pelo menos uma vez o famoso Maps para ver onde ficava um determinado lugar.
+Esses dias me deparei novamente com o excelente artigo do Thulio Philipe sobre a API do Google Maps V3 e resolvi escrever um pouco sobre um recurso chamado MarkerClusterer.
+O que é o MarkerClusterer?</description>
+    </item>
+    
+    <item>
+      <title>Aplicação da Metatag de Autor no HTML</title>
+      <link>http://localhost/jhonny-roger/public/aplicacao-das-tags-de-marcacao-de-autor-html/</link>
+      <pubDate>Wed, 30 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/aplicacao-das-tags-de-marcacao-de-autor-html/</guid>
+      <description>As tags do HTML tem uma função importante para a semântica de uma página. Algumas _meta tags_ são conhecidas e amplamente utilizadas em SEO há muitos anos, como a description (com a descrição curta do conteúdo) e as keywords (com as palavras-chave, hoje já ignorada pelos buscadores). Porém há algum tempo a marcação de autor começou a ganhar espaço nas otimizações de sites, por dois grandes motivos: Snippets (resultados de busca) mais ricos; E a credibilidade passada entre artigo e autor.</description>
+    </item>
+    
+    <item>
+      <title>Como saber se seu site foi punido pelo Google</title>
+      <link>http://localhost/jhonny-roger/public/como-saber-se-seu-site-foi-punido-pelo-google/</link>
+      <pubDate>Fri, 14 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/como-saber-se-seu-site-foi-punido-pelo-google/</guid>
+      <description>Muitas pessoas percebem uma queda nas visitas do seu site com origem no Google ou até mesmo notam que já não aparecem mais tão bem posicionados para uma determinada busca. É aí que vem aquela dúvida, será que o site foi punido pelo Google? Como saber?
+Existem dois tipos de punição: a que rebaixa as páginas na busca (Exemplo: uma página que aparecia na 1ª posição dos resultados orgânicos vai para a 30ª posição.</description>
+    </item>
+    
+    <item>
+      <title>Duas dicas de como lidar com o Not Provided</title>
+      <link>http://localhost/jhonny-roger/public/duas-dicas-de-como-lidar-com-o-provided-comece-desbanca-lo/</link>
+      <pubDate>Wed, 26 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/duas-dicas-de-como-lidar-com-o-provided-comece-desbanca-lo/</guid>
+      <description>Aprenda a lidar com esse cara chato na hora de analisar relatórios no Analytics.
+Todo mundo que trabalha com SEO, ou pelo menos boa parte da galera, possui o Google Analytics instalado em seus projetos para fazer análise dos dados de acesso e comportamento do usuário. Dessa forma, podemos compreender como o usuário se comporta em nosso site e traçar estratégias melhores.
+Provavelmente, você deve ter visto no relatório de palavras chave o famoso (e chato) not provided.</description>
+    </item>
+    
+    <item>
+      <title>API Google Maps V3</title>
+      <link>http://localhost/jhonny-roger/public/api-google-maps-v3/</link>
+      <pubDate>Fri, 10 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/api-google-maps-v3/</guid>
+      <description>Neste post irei falar um pouco sobre a API Google Maps V3, que sofreu atualizações e veio com algumas melhorias e recursos adicionais para dispositivos móveis e desktops.
+No último projeto que participei, o designer incluiu no layout um mapa com width: 100%. Até ai nada demais, não é? Fui no Google Maps, digitei o endereço do local e incorporei o mapa ao meu projeto com aquele iframe lindo cheio de tags inúteis.</description>
+    </item>
+    
+    <item>
+      <title>Redesign e SEO</title>
+      <link>http://localhost/jhonny-roger/public/redesign-seo/</link>
+      <pubDate>Tue, 24 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/redesign-seo/</guid>
+      <description>É muito bom quando damos uma cara nova a algum projeto. Trazemos novas ideias, conceitos diferentes e novidades. Muitas vezes isso é uma injeção de ânimo. Até porque, a ideia é que a mudança nos faça crescer.
+Pois é! Falando do seu site, isso pode trazer problemas quando decidimos mudar e não prestamos atenção nos detalhes.
+O que acontece é que, as vezes, deixamos erros bobos atrapalhar (e muito) a nossa campanha.</description>
+    </item>
+    
+    <item>
+      <title>Efeito Parallax, o novo Flash?</title>
+      <link>http://localhost/jhonny-roger/public/efeito-parallax-flash/</link>
+      <pubDate>Thu, 12 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/efeito-parallax-flash/</guid>
+      <description>O que é Parallax? O efeito paralaxe basicamente é uma abordagem de design do site que tem sido usado por vários anos e agora leva o seu nome a partir do conceito de movimento paralaxe é muito interessante quando bem utilizado e pode ser bastante explorado se você for criativo. Você pode ver um artigo sobre como fazer um efeito parallax em apenas 3 passos aqui.
+Um dos principais benefícios do uso de projeto paralaxe é que ele permite que o site conte uma história para o visitante apenas por rolagem, não necessariamente uma história do tipo joão e maria com final feliz, mas uma linha de raciocínio lógico para informar o usuário ou até mesmo induzi-lo a alguma ação final seja ela curtir, compartilhar ou comprar algo.</description>
+    </item>
+    
+    <item>
+      <title>Design para Google Glass</title>
+      <link>http://localhost/jhonny-roger/public/design-para-google-glass/</link>
+      <pubDate>Mon, 26 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/design-para-google-glass/</guid>
+      <description>A não ser que você tenha passado o último ano da sua vida em coma, é provável que você já tenha ouvido falar no Google Glass. Mas o que ele realmente faz? Quais são as limitações técnicas? Como criar layouts tanto para a web quanto para aplicativos nativos que possuam um design adequado para esta nova mídia? E como testar isto tudo sem possuir um aparelho? Ok, Tableless! Vamos responder estas perguntas&amp;#8230;</description>
+    </item>
+    
+    <item>
+      <title>Tudo o que você precisa saber sobre Sitemaps</title>
+      <link>http://localhost/jhonny-roger/public/tudo-que-voce-precisa-saber-sobre-sitemaps/</link>
+      <pubDate>Mon, 21 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tudo-que-voce-precisa-saber-sobre-sitemaps/</guid>
+      <description>Sitemap é uma maneira fácil de informar aos motores de buscas sobre as páginas do seu site que estão disponíveis para indexação, esse tipo de arquivo é útil e válido para qualquer tipo de site seja institucional, e-commerce, blog, sites de pequeno médio ou grande porte.
+Graças ao padrão definido pelas empresas Google, Microsoft e Yahoo, os motores de buscas podem encontrar as suas páginas muito mais rápido, reduzindo assim a quantidade de tempo que leva para o seu site ou uma nova página aparecer nos resultados de busca.</description>
+    </item>
+    
+    <item>
+      <title>Web Platform</title>
+      <link>http://localhost/jhonny-roger/public/web-platform/</link>
+      <pubDate>Tue, 09 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/web-platform/</guid>
+      <description>A Webplatform.org é um website dirigido por pessoas que fomentam os padrões web, criado por um grupo que inclui W3C, Adobe, Facebook, Google, HP, Microsoft, Mozilla, Nokia, Opera e outros. O site promete ser uma fonte de recursos importantes para que você, desenvolvedor front-end, tenha uma base atual e principalmente de boas práticas ao produzir seus projetos com HTML5, CSS3, Javascript e etc.
+Eles descrevem muito bem o propósito do site:</description>
+    </item>
+    
+    <item>
+      <title>WebPlatform.org – Por uma Web documentada!</title>
+      <link>http://localhost/jhonny-roger/public/webplatform-org-por-uma-web-documentada/</link>
+      <pubDate>Tue, 09 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/webplatform-org-por-uma-web-documentada/</guid>
+      <description>É bem comum aos desenvolvedores Web, frequentemente recorrer a fontes de informações e referencias em sua rotina de trabalho. Além de o conteúdo ser extenso demais para ser decorado com precisão, ainda está em constante atualização. Muitas vezes as fontes de referencia são descentralizadas fazendo que recorramos a sites diferentes para consultar essas informações. webplatform.org Pensando em solucionar este problema a comunidade webplatform.org trás a simples proposta de documentar a web.</description>
+    </item>
+    
+    <item>
+      <title>Project Glass</title>
+      <link>http://localhost/jhonny-roger/public/project-glass/</link>
+      <pubDate>Wed, 04 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/project-glass/</guid>
+      <description>Eu estou separando um tempo frequentemente para ler sobre tecnologias que podem nos influenciar no futuro. Gosto muito de tentar imaginar como a web será daqui um tempo e como nós, desenvolvedores, designers, profissionais de usabilidade e acessibilidade podem se adequar em um lugar onde os browsers, realmente, serão secundários. Comece vendo o vídeo da HP, mostrando a Cooltown, feito há alguns anos.
+Hoje surgiu um vídeo no Brain9, sobre uma iniciativa do Google para um óculos que usa a tecnologia ao nosso favor, em tarefas simples e diárias.</description>
+    </item>
+    
+    <item>
+      <title>Schema – Marcação de dados estruturados</title>
+      <link>http://localhost/jhonny-roger/public/schema-marcacao-de-dados-estruturados/</link>
+      <pubDate>Mon, 02 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/schema-marcacao-de-dados-estruturados/</guid>
+      <description>Há cerca de cinco anos atrás os principais buscadores se uniram para definir uma nova estrutura que pode ser chamado de “mapa de um site”, um documento onde tem uma única função que é informar aos buscadores a estrutura de um site, vídeos ou imagens. Essa estrutura é utilizada até hoje pelos desenvolvedores permitindo assim que todas as áreas ou páginas sejam facilmente “descobertas” pelos crawlers dos buscadores, foi assim que surgiu o sitemap.</description>
+    </item>
+    
+    <item>
+      <title>Versionamento inteligente para mobiles</title>
+      <link>http://localhost/jhonny-roger/public/versionamento-inteligente-para-mobiles/</link>
+      <pubDate>Wed, 20 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/versionamento-inteligente-para-mobiles/</guid>
+      <description>O iPhone fez a festa dele. Todo mundo gostou do que viu e usou. Acontece que não só de iPhone vive o homem, e há pessoas por aí que não gostam do aparelho por motivos diversos. Há mercado para todos e por isso é natural que apareçam outros aparelhos com novos sistemas. Acontece que o lançamento do iPhone criou uma moda de criar versões dos sites específicas para ele. No começo isso foi ótimo.</description>
+    </item>
+    
+    <item>
+      <title>SEO para iniciantes – O básico</title>
+      <link>http://localhost/jhonny-roger/public/seo-iniciantes-basico/</link>
+      <pubDate>Mon, 15 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/seo-iniciantes-basico/</guid>
+      <description>&lt;p&gt;Se você não sabe por onde começar o &lt;strong&gt;trabalho de SEO&lt;/strong&gt;, há alguns passos por onde você pode se aventurar até entender melhor todo o sistema. Os pontos à seguir são muito superficiais e nenhum garante que seu site ficará na primeira página. Mas a combinação de todos eles te garante uma base sólida para os pontos mais profundos do tratamento SEO.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Anotações sobre SEO</title>
+      <link>http://localhost/jhonny-roger/public/anotacoes-seo/</link>
+      <pubDate>Mon, 08 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/anotacoes-seo/</guid>
+      <description>&lt;p&gt;SEO é um assunto bastante interessante porque gira em torno de boatos, mitos e suposições. Na verdade, sabemos pouca coisa sobre o que ajuda ou não na boa colocação dos sites nos sistemas de busca. O engraçado é que esse mistério todo é levantado pelos próprios buscadores. Isso é necessário, sem dúvida. Imagine se qualquer pessoa pudessem fazer dinheiro. A situação é a mesma. Por isso, os buscadores, principalmente o Google, tem seus segredos e divulga apenas o necessário para que possamos fazer um bom trabalho.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>O Chrome não quer dizer muita coisa</title>
+      <link>http://localhost/jhonny-roger/public/chrome-nao-quer-dizer-muita-coisa/</link>
+      <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/chrome-nao-quer-dizer-muita-coisa/</guid>
+      <description>&lt;p&gt;O Google lançou &lt;a href=&#34;http://www.google.com/googlebooks/chrome/&#34;&gt;sua presença no mercado de browsers&lt;/a&gt;. Atitude interessante mas que para mim não quer dizer muita coisa. Ter um novo browser não muda muito (a minha) a vida dos desenvolvedores. Lembre-se que não importa quão bom seja o Firefox, Safari ou o &lt;a href=&#34;http://www.google.com/chrome/&#34;&gt;Google Chrome&lt;/a&gt;, nós, desenvolvedores temos sempre que nivelar tudo por baixo, pelo Internet Explorer 6. Se o Chrome ou qualquer outro novo navegador ajudar com que o IE6 seja definitivamente descontinuado, eles serão bem-vindos. Caso contrário, o lançamento de bons browsers só vai, por assim dizer, brochar a vontade dos profissionais que querem utilizar recursos mais avançados do CSS mas não podem por conta do IE6. O IE7 foi um avanço interessante. O IE8 está pretendendo ser. Mas até mesmo o IE8 não vai ser muito útil enquanto ele não tomar a o lugar do Internet Explorer 6. O mesmo vale para qualquer outro browser.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>White, Gray e Black Hats</title>
+      <link>http://localhost/jhonny-roger/public/gray-e-black-hats/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/gray-e-black-hats/</guid>
+      <description>Existem várias técnicas para colocar seu site em primeiro nos buscadores. As técnicas de SEO se encaixam em três grandes árvores: White Hat (chapéu branco) que são as legais e recomendadas pelos buscadores. Gray Hat, que se utilizadas de forma abusiva são consideradas anti-éticas, embora os buscadores não tenham controle sobre sua prática. Há outras técnicas totalmente ilegais, utilizadas para ter alguma vantagem rápida ou burlar os resultados das buscas.</description>
+    </item>
+    
+    <item>
+      <title>Podcast #19 – WYSIWYG, WiMax e a onda móvel</title>
+      <link>http://localhost/jhonny-roger/public/podcast-19-wysiwyg-wimax-e-a-onda-movel/</link>
+      <pubDate>Tue, 14 Mar 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/podcast-19-wysiwyg-wimax-e-a-onda-movel/</guid>
+      <description>Fiz um podcast rápido para não perder o costume. O som não está aquela maravilha e farei aquelas promessas de político: Nos próximos prometo melhorar.
+Falei sobre a TVA e a Samsung trazendo o WiMax aqui pro Brasil &amp;#8211; São Paulo. Falei sobre uma revolução móvel que isso pode acarretar. Falei um pouquinh sobre a aquisição do Writely pelo Google.
+E o assunto principal foi Editores WYSIWYG.
+Falei pouco e não falei bonito!</description>
+    </item>
+    
+    <item>
+      <title>Google, por quê?</title>
+      <link>http://localhost/jhonny-roger/public/google-porque/</link>
+      <pubDate>Sun, 18 Dec 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/google-porque/</guid>
+      <description>O Google é aquela empresa que sabe exatamente o que é útil para todo e qualquer (ou quase) tipo de usuário. Eles detém um certo número de aplicações que vão desde organização e tratamento (bem básico) de fotos, até análise detalhada de informações sobre o seu site. O Google é um ótimo criador de soluções. E convenhamos, soluções no mínimo interessantes.
+Mas uma coisa me intriga. Depois de muito pensar sobre o Google e suas qualidades de fada madrinha, várias perguntas simples me vieram a cabeça.</description>
+    </item>
+    
+    <item>
+      <title>Pesquisar no Google</title>
+      <link>http://localhost/jhonny-roger/public/pesquisar_no_google/</link>
+      <pubDate>Fri, 24 Sep 2004 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/pesquisar_no_google/</guid>
+      <description>O Bruno Torres fez um sisteminha muito legal. Funciona assim: Você quer saber em que posição seu site se encontra no google se procurando por alguns termos, você escreve os termos e ele te dá o ranking do seu site. Muito útil para quem está querendo acompanhar a evolução do site no google.
+Ranking do Google
+O Elcio fez um também, que pode ser acessado aqui.</description>
+    </item>
+    
+  </channel>
+</rss>

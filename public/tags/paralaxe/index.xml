@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paralaxe on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/paralaxe/</link>
+    <description>Recent content in Paralaxe on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 03 Dec 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/paralaxe/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Parallax Scrolling</title>
+      <link>http://localhost/jhonny-roger/public/parallax-scrolling/</link>
+      <pubDate>Mon, 03 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/parallax-scrolling/</guid>
+      <description>Parallax Scrolling foi uma das grandes tendências do webdesign em 2012. Mesmo que você não conheça o termo é capaz de já ter visto o efeito por aí&amp;#8230; Ele serve para dar a ilusão de profundidade de campo e pode ser utilizado para criar uma experiência de navegação bem diferentes do convencional. Neste artigo vamos entender da onde surgiu este termo, quais cuidados devemos tomar e é claro, como implementar o efeito de parallax scrolling através de javascript.</description>
+    </item>
+    
+  </channel>
+</rss>

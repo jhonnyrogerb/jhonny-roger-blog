@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wendell on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/wendell/</link>
+    <description>Recent content in Wendell on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 12 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/wendell/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Entendendo o async e o await em JavaScript</title>
+      <link>http://localhost/jhonny-roger/public/entendendo-o-async-e-o-await-em-javascript/</link>
+      <pubDate>Tue, 12 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/entendendo-o-async-e-o-await-em-javascript/</guid>
+      <description>Introdução As funcionalidades async / await não conseguiram chegar para o ES6, mas isso não significa que elas não irão chegar ao JavaScript. Enquanto escrevo esse post, ela é uma proposta na fase 3 e está sendo trabalhada ativamente. As funcionalidades já estão no Edge e devem chegar a outros browsers assim que chegar na fase 4 &amp;#8211; pavimentando seu caminho para inclusão na próxima edição da linguagem (veja também: Processo TC39).</description>
+    </item>
+    
+    <item>
+      <title>Sass vs. LESS vs. Stylus: Batalha dos Pré-processadores</title>
+      <link>http://localhost/jhonny-roger/public/sass-vs-less-vs-stylus-batalha-dos-pre-processadores/</link>
+      <pubDate>Mon, 28 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sass-vs-less-vs-stylus-batalha-dos-pre-processadores/</guid>
+      <description>Introdução Pré-processadores CSS3 são linguagens criadas com um único propósito de adicionar funcionalidades legais e criativas para o CSS sem quebrar a compatibilidade entre browsers. Os pré-processadores disponibilizam milhares de funcionalidades, e nesse artigo iremos falar sobre as mais utilizadas e conhecidas e algumas nem tanto conhecidas. Vamos começar:
+Sintaxe A parte mais importante ao escrever códigos utilizando um pré-processador é entender a sua sintaxe. Felizmente para nós, a sintaxe é (ou pode ser) idêntica à do CSS puro para os três pré-processadores.</description>
+    </item>
+    
+    <item>
+      <title>Exercícios Simples de JavaScript para Entrevista</title>
+      <link>http://localhost/jhonny-roger/public/exercicios-simples-de-javascript-para-entrevista/</link>
+      <pubDate>Tue, 26 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/exercicios-simples-de-javascript-para-entrevista/</guid>
+      <description>Qualquer um pode aprender teoria lendo posts de blogs, mas muitas pessoas nunca a entendem. Então para ter certeza que o(a) candidato(a) realmente entende sobre o tópico que ele(a) está falando, é uma boa ideia testar o seus conhecimentos através de exercícios. Exercícios não devem demorar muito e eles podem mostrar o nível de proficiência do candidato imediatamente.
+Estes são alguns exercícios que podem ser aplicados em entrevistas.
+Contexto(call, apply) Essa é a forma que queremos usar &amp;#8220;someFn&amp;#8221;.</description>
+    </item>
+    
+  </channel>
+</rss>

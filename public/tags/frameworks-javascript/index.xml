@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frameworks Javascript on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/frameworks-javascript/</link>
+    <description>Recent content in Frameworks Javascript on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 29 Oct 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/frameworks-javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>EmberJS para iniciantes – Parte 1</title>
+      <link>http://localhost/jhonny-roger/public/serie-emberjs-iniciante-parte1/</link>
+      <pubDate>Wed, 29 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/serie-emberjs-iniciante-parte1/</guid>
+      <description>É com muito prazer que começo a escrever aqui no Tableless para ajudá-lo a utilizar um dos melhores frameworks (IMHO) JavaScript atualmente: o EmberJS.
+A ideia é ter uma série de artigos sobre EmberJS, visando atender aos que estão começando agora. Por isso, se você já é um cara avançado, não se empolgue, quero fazer algo bem light, certo? Vamos lá então!
+Nesta primeira parte começaremos uma aplicação. Faremos com que o resultado seja mostrar uma mensagem de boas vindas ao usuário.</description>
+    </item>
+    
+  </channel>
+</rss>

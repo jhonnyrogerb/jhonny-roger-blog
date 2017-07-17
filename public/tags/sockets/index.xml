@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sockets on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/sockets/</link>
+    <description>Recent content in Sockets on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/sockets/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Criando uma aplicação de Chat simples com NodeJS e Socket.io</title>
+      <link>http://localhost/jhonny-roger/public/criando-uma-aplicacao-de-chat-simples-com-nodejs-e-socket-io/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-uma-aplicacao-de-chat-simples-com-nodejs-e-socket-io/</guid>
+      <description>Neste tutorial iremos abordar alguns conceitos do Socket.io criando um simples sistema de chat para browser.
+O que é Socket.io? Socket.io é um uma biblioteca Javascript feita para construir aplicações real-time, possibilitando uma comunicação bi-direcional entre cliente e servidor. O socket.io utiliza as especificações de Web Sockets (para quem quer saber mais, recomendo dar uma olhada neste ótimo artigo da HTML5 Rocks).
+O Socket.io roda, no lado do servidor, em NodeJS, e, no lado do cliente, ele roda diretamente no browser, possibilitando uma enorme gama de possibilidades de aplicações, como jogos, sistemas de notificações, real-time analytics e sistemas de chats e conversas em tempo real.</description>
+    </item>
+    
+  </channel>
+</rss>

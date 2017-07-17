@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245849">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>O Slim Framework é um microframework PHP que facilita sua vida na hora de fazer pequenas APIs.</p>
+
+<p>Vou falar sobre um problema que tive em um projeto em uma empresa que trabalho. Lá eu codifico com diferentes linguagens de programação em pequenos sistemas. Esses sistemas precisam ser acessados por 3 filiais e os usuários se logam com o mesmo login usado no E.R.P. que eles utilizam.</p>
+
+<p>Para simplificar meu trabalho resolvi criar uma API simples para autenticar os usuários. Como eu queria usar uma estrutura REST e não queria fazer tudo na unha e nem queria colocar um framework grande como Rails, Laravel, Zend ou Django. Pesquisei sobre microframeworks PHP e cheguei ao <a href="http://www.sinatrarb.com/">Sinatra</a>, que já conhecia, e o <a href="http://flask.pocoo.org/">Flask</a> (Python). Então encontrei o <a href="http://www.slimframework.com/">Slim</a> um microframework PHP.</p>
+
+<p>Eu queria trabalhar com uma estrutura REST e o Slim já faz isso de forma muito simples criando rotas, como qualquer outro framework que trabalha com REST, a diferença é que um microframework é mais leve e não precisa de tantas configurações. É uma mão na roda para quem precisa escrever uma API. Para vocês terem ideia: em um dia consegui resolver meu problema de autenticação.</p>
+
+<h2 id="código">Código</h2>
+
+<p>Agora vamos ao código! O Slim pode ser instalado via <a href="https://getcomposer.org/">Composer</a> ou fazendo o download do código fonte, para quem não conhece ele é um gerenciador de dependências para PHP assim como <a href="http://bundler.io/">Bundler</a> é para o Ruby, nesse post vou mostrar a instalação via composer:</p>
+
+<h3 id="passo-1-8211-instalação-do-composer">Passo 1 &#8211; Instalação do composer</h3>
+
+<p>Leia o post (<a href="http://tableless.com.br/composer-para-iniciantes/">Composer para iniciantes</a>) do <a href="http://tableless.com.br/author/andrecardosodev/">Andre Cardoso</a>. Mas basicamente, para quem tem linux, é só abrir o terminal e digitar o código abaixo, se tiver windows, é só pegar o executável no site e instalar.</p>
+
+<pre class="lang-bash">curl -s https://getcomposer.org/installer | php</pre>
+
+<h3 id="passo-2-8211-criar-o-arquivo-composer-json">Passo 2 &#8211; Criar o arquivo composer.json</h3>
+
+<p>Crie um diretorio para seu projeto(no meu caso eu chamei de api) e coloque um arquivo chamado composer.json dentro dela:</p>
+
+<pre class="lang-bash">mkdir api
+cd api
+</pre>
+
+<p>No arquivo composer.json adicione as seguintes linhas:</p>
+
+<pre class="lang-json">{
+    "require": {
+        "slim/slim": "2.*"
+    }
+}
+</pre>
+
+<h3 id="passo-3-8211-instalar-as-dependências">Passo 3 &#8211; Instalar as dependências</h3>
+
+<pre class="lang-bash">composer install</pre>
+
+<p>Caso você não tenha o Composer, as suas variáveis de ambiente deverão ser assim:</p>
+
+<pre>php composer.phar install</pre>
+
+<h3 id="passo-4-8211-criação-da-app">Passo 4 &#8211; Criação da app</h3>
+
+<p>Crie um arquivo <code>index.php</code> e dentro dele coloque:</p>
+
+<pre class="lang-php">&lt;?php
+require 'vendor/autoload.php';
+
+//instancie o objeto
+$app = new \Slim\Slim();
+
+//defina a rota
+get('/', function () { 
+  echo "Hello, World!"; 
+}); 
+//rode a aplicação Slim 
+$app-&gt;run();</pre>
+
+<p>Se você acessar <code>http://localhost/api/</code> você verá a mensagem <strong>&#8220;Hello World!&#8221;</strong>.</p>
+
+<p>Mas não é isso que queremos, queremos uma API REST que retorne um JSON. Então vamos ver um exemplo bem simples. O Slim também trabalha com templates, então dentro do diretório da nossa aplicação vamos criar um diretório chamado de <code>templates</code> e dentro dele criaremos um arquivo chamado <code>default.php</code>, neste arquivo coloque o seguintes conteúdo:</p>
+
+<pre class="lang-php">&lt;?php 
+header('Content-Type: application/json; charset=utf-8');
+echo json_encode($data);
+</pre>
+
+<p>Agora voltando ao nosso arquivo <code>index.php</code> edite-o deixando da seguinte forma:</p>
+
+<pre class="lang-php">&lt;?php
+require 'vendor/autoload.php';
+
+//instancie o objeto
+$app = new \Slim\Slim(array(
+'templates.path' =&gt; 'templates'
+));
+
+//defina a rota
+$app-&gt;get('/', function () use ($app){ 
+  //defina
+  $data = array("data"=&gt;array("Hello"=&gt;"World!")); 
+  //set o arquivo de template
+  $app-&gt;render('default.php',$data,200); 
+}); 
+
+//rode a apliçicação Slim
+$app-&gt;run();</pre>
+
+<p>Quando você acessar a url novamente você verá algo como:</p>
+
+<pre class="lang-json">{"Hello":"World!"}
+</pre>
+
+<p>Agora vamos incrementar mais. No mesmo arquivo <code>index.php</code> antes de <code class="lang-php">$app-&gt;run();</code> adicione:</p>
+
+<pre>$app-&gt;group('/users',function() use ($app){
+
+  //rota para a home
+  $app-&gt;get('/',function() use ($app){
+    //exemplo de lista de usuarios
+    $users = array(
+     'users'=&gt;array(
+       'jo'=&gt;'senhadejo',
+       'luca'=&gt;'senhaluca',
+       'yasmin'=&gt;'senhayasmin',
+       'eric'=&gt;'seric'
+     )
+    );
+    $data = array(
+      'data'=&gt;$users
+      );
+    $app-&gt;render('default.php',$data,200);
+  });
+
+  //rota para login
+  $app-&gt;post('/login/',function() use ($app){
+    if(isset($_POST))
+    {
+      $data = $_POST;
+      $app-&gt;render('default.php',$data,200);
+    }
+    else
+    {
+      $app-&gt;render(404);
+    }
+  });
+
+});
+</pre>
+
+<p>Caso você esteja acessando o sistema por subdiretório crie um arquivo chamado <code>.htaccess</code> com o seguinte conteúdo:</p>
+
+<pre>RewriteEngine On
+RewriteBase /api/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /api/index.php [L]
+</pre>
+
+<p>Perceba que adicionei o método group no arquivo <code>index.php.</code> O Slim trabalha também com grupos de rotas, então é possível criar vários grupos com rotas próprias, dessa forma podemos organizar o código e não ter que ficar digitando o mesmo código várias vezes. Com o grupo de rotas chamado /users tudo que tiver dentro dele deverá vir precedido de /users ex: (/users/login/, /users/update/).</p>
+
+<p>Acessando <code>http://localhost/api/users/</code> você verá uma lista de usuários, caso acesse <code>http://localhost/api/users/login/</code> você verá uma página de erro. Isso ocorre porque setamos apenas uma rota POST para /users/login/ e como você acessou via GET o sistema redirecionou pois não existe a rota GET para /users/login/.</p>
+
+<p>Daqui para frente é só continuar implementando coisas novas, criando uma classe para conectar ao banco de dados, utilizando outros verbos HTTP, novos templates e etc. Você pode criar classes e usá-las normalmente é só incluí-las com o require e instanciar o objeto;</p>
+
+<p>O post termina aqui. O link para documentação do Slim é esse <a href="http://docs.slimframework.com/">http://docs.slimframework.com/</a> divirtam-se e mãos a obra! ;D</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/indo-alem-no-react-native//?utm_source=tablelessRelatedLin">Indo além no Mundo React-Native</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/seu-primeiro-bot-para-o-telegram//?utm_source=tablelessRelatedLin">Seu primeiro bot para o Telegram</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245849"></script>

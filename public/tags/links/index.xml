@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Links on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/links/</link>
+    <description>Recent content in Links on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 02 Sep 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tableless Weekly #3</title>
+      <link>http://localhost/jhonny-roger/public/tableless-weekly-3/</link>
+      <pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tableless-weekly-3/</guid>
+      <description>Mais um artigo da série Tableless Weekly. Seleção semanal de links, ferramentas e novidades front end.
+Tableless Conf 2014 O Tableless faz um evento anual trazendo os melhores palestrantes brasileiros sobre desenvolvimento para falarem sobre assuntos atuais que estão sendo pauta lá fora. Esse ano o evento vai rolar no dia 23 de Outubro e é só para 150 pessoas. Na verdade, nesse exato momento, só tem 99 vagas.</description>
+    </item>
+    
+  </channel>
+</rss>

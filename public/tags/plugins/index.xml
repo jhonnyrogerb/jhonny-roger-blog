@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plugins on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/plugins/</link>
+    <description>Recent content in Plugins on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 20 Jan 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/plugins/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Plugins de GIT para Sublime e Brackets</title>
+      <link>http://localhost/jhonny-roger/public/plugins-de-git-para-sublime-e-brackets/</link>
+      <pubDate>Tue, 20 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/plugins-de-git-para-sublime-e-brackets/</guid>
+      <description>Além do browser, outras duas ferramentas que os desenvolvedores usam todo o santo dia quase que todo o tempo é o seu editor de código e também o GIT. Aqui vão algumas indicações de plugins para Sublime e Brackets que ajudarão na integração do GIT com estes dois editores.
+Git no Sublime Se você tiver o Package Control instalado no Sublime, é uma boa ideia instalar estes plugins direto por lá.</description>
+    </item>
+    
+    <item>
+      <title>Novos plugins jQuery e bibliotecas JavaScript</title>
+      <link>http://localhost/jhonny-roger/public/novos-plugins-jquery-e-bibliotecas-javascript/</link>
+      <pubDate>Tue, 12 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/novos-plugins-jquery-e-bibliotecas-javascript/</guid>
+      <description>Confira uma lista de plugins e bibliotecas JavaScript que foram destaque nesta primeira metade do ano.
+jQuery Transit http://ricostacruz.com/jquery.transit
+Este plugin jQuery é uma espécie de wrapper para animações e transições CSS3. Possui a mesma sintaxe do método animate e permite transformar diferentes propriedades de um elemento: eixos X e Y, perspectiva, girar simulando 3D etc.
+Curtain.js http://curtain.victorcoulon.fr
+O plugin Curtain.js permite a criação de sites e aplicativos com múltiplas camadas.</description>
+    </item>
+    
+    <item>
+      <title>20 plugins jQuery que marcaram 2011</title>
+      <link>http://localhost/jhonny-roger/public/20-plugins-jquery-que-marcaram-2011/</link>
+      <pubDate>Thu, 15 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/20-plugins-jquery-que-marcaram-2011/</guid>
+      <description>jQuery Mobile http://jquerymobile.com
+Apesar de não ser um plugin, o jQuery Mobile encabeça nossa lista por ter sido uma das ferramentas mais importantes do ano. O objetivo do framework é disponibilizar uma API simples e compatível com todos os dispositivos móveis. Seu código é quase todo baseado em HTML e sua interface oferece suporte total a operações com toque.
+Quicksand http://razorjack.net/quicksand/
+Quem utiliza sistemas e dispositivos da Apple conhece bem a interface simulada pelo plugin Quick Sand, que permite ordenar e filtrar ítens de uma lista, sejam eles ícones, texto ou imagens, utilizando animações e transições.</description>
+    </item>
+    
+  </channel>
+</rss>

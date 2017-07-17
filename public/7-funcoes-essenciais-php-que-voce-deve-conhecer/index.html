@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245844">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<h2 id="range">range()</h2>
+
+<p>Geralmente ao se fazer um &#8220;<em>loop</em>&#8220;, utiliza-se o _while _ou <em>for</em>. Ambas estruturas são ligeiramente &#8220;<em>feias</em>&#8221; ao visualizar o código. Uma boa alternativa é utilizar o <em>foreach</em>. Mas como fazer uma repetição, se o <em>foreach</em> trabalha com um <em>array</em> existente?</p>
+
+<p>No exemplo vamos fazer um <em>loop</em> de 5 posições, começando do número 1.</p>
+
+<pre class="lang-php">&lt;?php
+foreach (range(1,5) as $ordem)
+{
+     print('Ordem : '.$ordem.'&lt;br&gt;');
+}
+//Resultado
+//Ordem: 1
+//Ordem: 2
+//Ordem: 3
+//Ordem: 4
+//Ordem: 5
+</pre>
+
+<h2 id="array-unique">array_unique()</h2>
+
+<p>Diversas vezes nos deparamos com um <em>array</em> e valores duplicados. Em uma experiência pessoal, trabalhei na criação de um sistema composto por uma divisão hierárquica entre setores. Nos relatórios, os usuários informavam diversos setores ao realizar os filtros. Quando os resultados eram filtrados no banco de dados, diversos códigos de setores vinham duplicados. Com isso, as _queries _do banco ficavam maiores e mais lentas.</p>
+
+<p>Com a função _array<em>unique()</em> resolvi meu problema. Veja o exemplo:</p>
+
+<pre class="lang-php">&lt;?php
+$array = array ('a','b','c','d','a');
+$unique = array_unique ($array);
+
+foreach ($unique as $letra)
+{
+     print('Letra: '.$letra.'&lt;br&gt;');
+}
+
+//Resultado
+//Letra: a
+//Letra: b
+//Letra: c
+//Letra: d
+</pre>
+
+<h2 id="in-array">in_array()</h2>
+
+<p>Esta função é realmente útil para verificar se existe um determinado valor em um <em>array</em>. Veja o exemplo:</p>
+
+<pre class="lang-php">&lt;?php
+$array = array ('a','b','c','d');
+
+if (in_array('a',$array))
+{
+   print('O valor está no array');
+}
+else
+{
+   print('Não está no array');
+}
+
+//Resultado: O valor está no array
+</pre>
+
+<h2 id="print-r">print_r()</h2>
+
+<p>Uma mão na roda em momentos que você deseja depurar a estrutura de um determinado <em>array</em> ou objeto no PHP. Em meus códigos, utilizo esta função sempre acompanhada da tag <em>pre</em> do HTML, para assim exibir de forma mais amigável a estrutura do <em>array</em> ou objeto. Veja o exemplo:</p>
+
+<pre class="lang-php">&lt;?php
+$array = array ('a','b','c','d');
+
+print_r($array);
+
+//Resultado: Array ( [0] =&gt; a [1] =&gt; b [2] =&gt; c [3] =&gt; d )
+</pre>
+
+<h2 id="implode">implode()</h2>
+
+<p>Juntar os valores de um determinado <em>array</em> e separá-los em uma determinada <em>string</em>. Utilizo muito esta função para exibir listas de nomes separados por vírgula, ou para criar cláusula <em>IN</em> no MySQL. Veja o exemplo:</p>
+
+<pre class="lang-php">&lt;?php
+$array = array ('a','b','c','d');
+
+print(implode(',',$array));
+
+//Resultado: a,b,c,d
+</pre>
+
+<h2 id="explode">explode()</h2>
+
+<p>Esta função é o oposto da função <em>implode</em>. Nela você informa uma <em>string</em> e define qual separador o PHP deverá usar para dividí-la e gerar um <em>array</em> para cada espaço dividido. Veja o exemplo:</p>
+
+<pre class="lang-php">&lt;?php
+$string = 'O PHP é bacana.';
+
+$array = explode (' ',$string);
+
+print_r($array);
+
+//Resultado: Array ( [0] =&gt; O [1] =&gt; PHP [2] =&gt; é [3] =&gt; bacana. )
+</pre>
+
+<h2 id="checkdate">checkdate()</h2>
+
+<p>Função muito útil do PHP para validar se uma determinada data está correta. Evita de inserirmos datas incorretas no banco de dados, acarretando erros de sintaxe, datas zeradas ou datas incorretas. Veja o exemplo:</p>
+
+<pre class="lang-php">&lt;?php
+$dia = 13;
+$mes = 13;
+$ano = 2015;
+if (checkdate($mes,$dia,$ano))
+{
+    print('Data correta');
+}
+else
+{
+    print('Data incorreta');
+}
+//Resultado: Data incorreta
+</pre>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/indo-alem-no-react-native//?utm_source=tablelessRelatedLin">Indo além no Mundo React-Native</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/seu-primeiro-bot-para-o-telegram//?utm_source=tablelessRelatedLin">Seu primeiro bot para o Telegram</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245844"></script>

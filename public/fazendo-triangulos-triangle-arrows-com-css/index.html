@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245849">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      <p>Muitas vezes usamos triângulos em links, botões ou qualquer outro elemento que precise de alguma indicação de clique. Esses triângulos, por serem muito simples, é bem possível criarmos inteiramente usando CSS. Esse truque vale muito a pena para evitar que o browser tenha que baixar pequenas imagens, quem mesmo tendo um peso bem leve, elas atrapalham a performance do carregamento do site.</p>
+
+<p>Para esse truque você usará os <a href="http://tableless.com.br/como-usar-before-after/">pseudo elementos :after ou :before</a>.</p>
+
+<p>Abaixo, segue o código:</p>
+
+<pre class="lang-html">&lt;a href="#" class="seta-cima"&gt;Seta para cima&lt;/a&gt;
+&lt;span class="seta-baixo"&gt;Seta para baixo&lt;/span&gt;
+&lt;i class="seta-esquerda"&gt;Seta para esquerda&lt;/i&gt;
+&lt;div class="seta-direita"&gt;Seta para direita&lt;/div&gt;
+</pre>
+
+<pre class="lang-css">/**
+*** Seta para ESQUERDA
+**/
+.seta-esquerda:before {
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 10px;
+  width: 0; 
+  height: 0; 
+
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent; 
+  border-right: 5px solid blue; 
+}
+
+/**
+*** Seta para DIREITA
+**/
+.seta-direita:before {
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 10px;
+  width: 0; 
+  height: 0; 
+
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-left: 5px solid green;
+}
+
+/**
+*** Seta para CIMA
+**/
+.seta-cima:before {
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 10px;
+  width: 0; 
+  height: 0; 
+
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-bottom: 5px solid black;
+}
+
+/**
+*** Seta para BAIXO
+**/
+.seta-baixo:before {
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 10px;
+  width: 0; 
+  height: 0; 
+
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-top: 5px solid #f00;
+}
+</pre>
+
+<p>Perceba que o que define o tamanho da seta é o tamanho das bordas. A cor também é definida pela borda. Eu usei em um pseudo-elemento, mas você pode muito bem fazer em um span ou qualquer outro elemento vazio. Eu ainda assim sugiro fazer em um pseudo-elemento para evitar elementos inúteis.</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/teste-de-carga-em-apis-utilizando-artillery//?utm_source=tablelessRelatedLin">Teste de carga em APIs utilizando Artillery</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/crie-sites-em-questao-de-minutos-com-o-pingendo//?utm_source=tablelessRelatedLin">Crie sites em questão de minutos com o Pingendo</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245850"></script>

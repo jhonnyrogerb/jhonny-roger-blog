@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slides Para Devs on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/slides-para-devs/</link>
+    <description>Recent content in Slides Para Devs on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 03 Oct 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/slides-para-devs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Slides para devs #11 – JSON</title>
+      <link>http://localhost/jhonny-roger/public/slides-devs-1x-json/</link>
+      <pubDate>Thu, 03 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/slides-devs-1x-json/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides para devs #10 – GIT</title>
+      <link>http://localhost/jhonny-roger/public/slides-devs-10-git/</link>
+      <pubDate>Thu, 26 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/slides-devs-10-git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides para devs #5 – Design</title>
+      <link>http://localhost/jhonny-roger/public/slides-para-devs-5-design/</link>
+      <pubDate>Tue, 09 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/slides-para-devs-5-design/</guid>
+      <description> Extra bônus Veja outros Slides  Slides para Devs #1 Slides para Devs #2 Slides para Devs #3 – Responsive Web Design [# Extra bônus  Veja outros Slides  Slides para Devs #1 Slides para Devs #2 Slides para Devs #3 – Responsive Web Design *]4  </description>
+    </item>
+    
+  </channel>
+</rss>

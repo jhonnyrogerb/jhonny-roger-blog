@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags Condicionais on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/tags-condicionais/</link>
+    <description>Recent content in Tags Condicionais on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 12 Apr 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/tags-condicionais/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tags Condicionais do WordPress</title>
+      <link>http://localhost/jhonny-roger/public/tags-condicionais-do-wordpress/</link>
+      <pubDate>Tue, 12 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tags-condicionais-do-wordpress/</guid>
+      <description>As Tags Condicionais são funções próprias do WordPress capazes de manipular todo o conteúdo de sua página. Com elas, você ganha aquele tempo que iria perder criando aquelas condições para retornar seus valores de maneira personalizada. Geralmente retornam o valor em Booleano, ou seja, TRUE (verdadeiro) ou FALSE (falso).
+Como usar? [cce lang=&amp;#8221;php&amp;#8221;]
+&amp;lt;?php if(tag_condicional()){ //se verdadeiro, retorne isso }else{ //se falso, retorne isso } ?&amp;gt;
+[/cce]
+Tags que podem receber parâmetros dentro de sua função, ex:</description>
+    </item>
+    
+  </channel>
+</rss>

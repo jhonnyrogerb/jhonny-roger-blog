@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Storage on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/web-storage/</link>
+    <description>Recent content in Web Storage on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 18 Nov 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/web-storage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A importância de desenvolver considerando off-line first</title>
+      <link>http://localhost/jhonny-roger/public/a-importancia-do-offline-first/</link>
+      <pubDate>Wed, 18 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/a-importancia-do-offline-first/</guid>
+      <description>Você está em casa à noite e resolve baixar um jogo no seu smartphone. Depois de algumas horas jogando, é hora de ir dormir porque no dia seguinte você tem um voo para pegar. Logo após a decolagem você resolve passar mais uma fase daquele joguinho que instalou. Ao abrir o aplicativo, você se depara com a necessidade de conexão com a internet para jogar (e muitas vezes até para abrir o jogo).</description>
+    </item>
+    
+  </channel>
+</rss>

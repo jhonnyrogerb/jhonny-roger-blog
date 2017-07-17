@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Italo Góis on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/italo-g%C3%B3is/</link>
+    <description>Recent content in Italo Góis on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 28 May 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/italo-g%C3%B3is/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Front-end e WordPress: uma relação de amor e amizade</title>
+      <link>http://localhost/jhonny-roger/public/front-end-e-wordpress-uma-relacao-de-amor-e-amizade/</link>
+      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/front-end-e-wordpress-uma-relacao-de-amor-e-amizade/</guid>
+      <description>É&amp;nbsp;bastante comum o&amp;nbsp;desenvolvedor front-end conseguir trabalho como freelancer e precisar do desenvolvedor back-end para tornar&amp;nbsp;o site dinâmico. O&amp;nbsp;cliente fica&amp;nbsp;feliz,&amp;nbsp;pois de forma rápida, ele consegue criar novas páginas, postagens, atualizando por conta própria o conteúdo. Mas atualmente, o&amp;nbsp;front-end não precisa mais desta dependência:&amp;nbsp;ele pode usar o WordPress.
+Ok, mas o WordPress usa PHP, uma&amp;nbsp;linguagem back-end, correto?
+Sim, mas isto não é impede de tornar a ferramenta facilmente configurável, mesmo que você não entenda de linguagens de programação.</description>
+    </item>
+    
+  </channel>
+</rss>

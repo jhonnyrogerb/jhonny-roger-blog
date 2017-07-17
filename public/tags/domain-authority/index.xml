@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Domain Authority on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/domain-authority/</link>
+    <description>Recent content in Domain Authority on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 07 Oct 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/domain-authority/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>O que é autoridade do domínio ou Domain Authority?</title>
+      <link>http://localhost/jhonny-roger/public/o-que-e-autoridade-dominio-ou-domain-authority/</link>
+      <pubDate>Tue, 07 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-que-e-autoridade-dominio-ou-domain-authority/</guid>
+      <description>Autoridade do domínio ou Domain Authority (DA), é uma métrica criada pela empresa americana MOZ, que simula o algoritmo do Google. Seu número vai de 0 a 100 e você pode checá-lo através do Open Site Explorer.
+Porque devo me preocupar com o Domain Authority? Em primeiro lugar, é um indicador de qualidade que analisa links, volumes de visitas e outros aspectos que demonstram a relevância do seu domínio. Geralmente, sites que possuem melhores rankings tem o DA mais alto do que o de seus concorrentes.</description>
+    </item>
+    
+  </channel>
+</rss>

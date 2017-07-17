@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rodrigo Fávaro on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/rodrigo-f%C3%A1varo/</link>
+    <description>Recent content in Rodrigo Fávaro on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 30 Nov 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/rodrigo-f%C3%A1varo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Indexando mobile-first – Google anuncia novidades</title>
+      <link>http://localhost/jhonny-roger/public/indexando-mobile-first-google-anuncia-novidades/</link>
+      <pubDate>Wed, 30 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/indexando-mobile-first-google-anuncia-novidades/</guid>
+      <description>Segundo o Google, atualmente a maioria das pessoas já fazem busca utilizando um dispositivo móvel. Entretanto, os sistemas de classificação ainda costumam olhar a versão desktop do conteúdo da página em questão para dar relevância ao usuário. Pensando em mobile-first, isso pode trazer alguns problemas caso a página mobile tenha menos conteúdo do que a página desktop porque os algoritmos do Google não estão avaliando a página que está sendo vista pelo usuário da página mobile.</description>
+    </item>
+    
+    <item>
+      <title>Introduzindo “Rich Cards”, um novo formato de resultados para Buscas</title>
+      <link>http://localhost/jhonny-roger/public/introduzindo-rich-cards-um-novo-formato-de-resultados-para-buscas/</link>
+      <pubDate>Mon, 04 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introduzindo-rich-cards-um-novo-formato-de-resultados-para-buscas/</guid>
+      <description>Como uma boa empresa de tecnologia, o Google parece fazer da necessidade de evoluir suas ferramentas uma &amp;#8220;obsessão&amp;#8221;. Quando o assunto é mobilidade então, essa questão é um pouco superior.
+Todo mundo sabe que a maneira de interagir em um resultado de busca depende muito de como as informações estão organizadas no topo. Temos uma tendência em clicar nos primeiros resultados, algo que o o próprio Google nos educou. Com os Dados Estruturados (Rich Snippets), temos uma nova forma de obter resultados relevantes, através de imagens, votação entre outros meios que certamente influenciarão nosso clique.</description>
+    </item>
+    
+    <item>
+      <title>Como o Google vai tratar os gTLDs?</title>
+      <link>http://localhost/jhonny-roger/public/como-o-google-vai-tratar-os-gtlds/</link>
+      <pubDate>Tue, 11 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/como-o-google-vai-tratar-os-gtlds/</guid>
+      <description>&lt;p&gt;O Google lançou no Webmaster Central Blog uma sessão de perguntas e respostas sobre como será feita a manipulação dos &lt;a href=&#34;https://en.wikipedia.org/wiki/Generic_top-level_domain&#34; target=&#34;_blank&#34;&gt;gTLDs&lt;/a&gt; (&lt;em&gt;generic top level domains&lt;/em&gt;), em português, domínios de alto nível. Se ainda não entendeu o que são domínios de alto nível, são aquelas novas extensões que vão facilitar a vida de quem tem um segmento mas nunca encontrou um domínio legal em .com ou .com.br, como por exemplo, .CASA, .CAFE, .BAR, .GURU e assim por diante. Neste &lt;a href=&#34;https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains#ICANN-era_generic_top-level_domains&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt; você encontra a lista completa dos gTLDs.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2015 – O ano em que o celular ultrapassou o desktop</title>
+      <link>http://localhost/jhonny-roger/public/2015-o-ano-em-que-o-celular-ultrapassou-o-desktop/</link>
+      <pubDate>Mon, 20 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/2015-o-ano-em-que-o-celular-ultrapassou-o-desktop/</guid>
+      <description>O Google promoveu este ano o Mobile Day e ajudou a compreendermos ainda mais tudo que envolve este mercado que está mudando completamente a forma que o ser humano interage com tecnologia.
+Todo o material compartilhado pode ser encontrado diretamente nos blogs do Google, mas eu vou compartilhar com vocês aqui algo de forma um pouco mais resumida e também com algumas opiniões a respeito do tema baseado em minha experiência.</description>
+    </item>
+    
+  </channel>
+</rss>

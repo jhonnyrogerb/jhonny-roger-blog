@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245864">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>Estava lendo o <a href="http://www.techbits.com.br/2007/11/29/vamos-matar-o-ie6/">artigo do Fugita</a> e pensei comigo mesmo: &#8211; Porque todo mundo sempre quer matar o Internet Explorer?</p>
+
+<p>A pergunta não foi difícil de responder: Compatibilidade.</p>
+
+<p>Quando desenvolvemos com Padrões Web, a primeira coisa que aprendemos é a odiar o Internet Explorer. Sei disso porque a frase mais falada nos meus cursos e em algumas palestras é: Não funciona no IE6. Ou: Se funcionasse no IE6.</p>
+
+<p>Grande parte dos problemas de desenvolvimento de um site se deve pela falta de compatibilidade entre browsers.</p>
+
+<p>Infelizmente não posso dizer: &#8211; Esqueça o IE6.</p>
+
+<p>Ele é até hoje o browser mais usado, &#8211; não por mérito, mas isso é outra história &#8211; portanto, viveremos por um tempo com a falta de compatibilidade e alguns bugs não só do IE, mas de todos os browsers. Mesmo assim, há maneiras de minimizar os problemas:</p>
+
+<h3 id="graceful-degradation">Graceful Degradation</h3>
+
+<p>Para quem não sabe, isso é uma premissa do desenvolvimento com Padrões Web. Este assunto é bem interessante. A idéia é a seguinte: existem diversos dispositivos, aparelhos e softwares que podem acessar sua aplicação web ou site. Acontece que cada destes meios tem sua limitação, seja uma limitação de software ou hardware. Mesmo assim, seu site precisa funcionar quando for acessado por eles. Se você faz um site com PNG semi-transparente, que não funciona no IE6, os usuários do IE6, precisam utilizar o site sem problemas. Se você faz seu site em flash e o camarada entra no site com algum SmartPhone que não funciona flash, seu site precisa funcionar de alguma maneira alternativa.</p>
+
+<p>A moral da história é a seguinte: faça o site funcionar da melhor maneira possível para aquele meio de acesso. Você precisa dar a melhor experiência para aquele usuário. Mesmo que tenha que abrir mão de algumas coisas, como design, por exemplo. O importante é que funcione.</p>
+
+<p>Logo, o usuário de desktop terá uma melhor experiência que o usuário de Smartphone. Mesmo assim, o usuário de smartphone terá a melhor experiência que o seu aparelho pode lhe trazer.</p>
+
+<h3 id="entenda-e-estude-a-solução-dos-bugs">Entenda e estude a solução dos bugs</h3>
+
+<p>É mentira que apenas o IE6 tem bugs. Mas é fato que o IE6 é campeão em número de bugs. O remédio para contornar os bugs é sempre saber mais de uma técnica para fazer a mesma coisa. Acredite, sempre há mais de uma alternativa com CSS.</p>
+
+<p>O mais importante é conhecer soluções simples, que não lhe tragam trabalho posteriormente. Se você sabe que determinada combinação de propriedades pode gerar algum tipo de bug em determinado browser, tente uma maneira alternativa. Crie, invente, converse com outras pessoas, pesquise. Se mesmo assim não houver jeito, use CSS HACK, mas apenas em ÚLTIMO CASO!</p>
+
+<h3 id="css-hacks-use-com-moderação">CSS HACKS, use com moderação</h3>
+
+<p>Vou ser sincero: CSS HACK pode fazer sua vida virar o inferno. Não estou brincando. Use com moderação. Com cuidado, com inteligência.</p>
+
+<p>Grande parte dos desenvolvedores não gostam de perder seu precioso tempo tentando entender o problema para achar uma solução inteligente. Acabam usando CSS HACK par a resolver um problema imediato e acabam se acostumando mal. Sou a favor de perder tempo procurando a solução, mesmo naquelas horas apertadas e que cliente respira fundo no seu cangote. Você vai trabalhar duro apenas uma vez para nunca mais perder tempo com aquele problema.</p>
+
+<p>Repita comigo: CSS HACK apenas em último caso.</p>
+
+<p>Hoje, felizmente é possível fazer sites complicadíssimos sem utilizar CSS HACKS. Na maioria das vezes o uso do Hack é necessário por causa de um problema anterior: o código complicado.</p>
+
+<h3 id="seja-simples">Seja simples</h3>
+
+<p>Pense quantas vezes for necessário. Se você resolveu um problema com 3 divs, tente resolver com apenas 2. Se resolveu com 2, tente resolver com 1. Apenas se não conseguir, volte para 2 divs. E assim você faz com o resto do site. Quanto menos código HTML, melhor. Mas lembre-se, o pouco código HTML que você escrever, precisa ter significado. A semântica ajuda bastante neste sentido. Escrevendo código semântico, você garante que o código escrito será mínimo e significativo para sistemas de busca e outras aplicações que dependam da semântica para funcionar.</p>
+
+<p>Escrever código demais é herança da metodologia antiga, onde nós escrevíamos uma gambiarra atrás de outra. Onde colocávamos tabelas em todos os lugares. Lembre-se que tudo mudou. Você tem que mudar também e o desenvolvimento apenas muda se você mudar sua maneira de pensar. Pense simples. Reaprenda o que puder e esqueça o antigo.</p>
+
+<h3 id="visualize-o-resultado-no-próprio-browser">Visualize o resultado no próprio browser.</h3>
+
+<p>Outro costume terrível nosso é visualizar o resultado nos previews nojentos dos editores. Geralmente estes previews são baseados em apenas um browser, normalmente o browser padrão. Há uma opção de mudar o preview para o browser que você que quiser. Mesmo assim, pense comigo: Você sabe qual será o browser do visitante? Você sabe, na melhor das hipóteses que ele pode navegar com pelo menos 4 browsers: Firefox, IE, Safari e Opera. Isso se ele usar Windows. Portanto, não tem sentido utilizar o preview do editor.</p>
+
+<p>Minha sugestão é a seguinte: abra os principais browsers e visualize a implementação ao mesmo tempo.</p>
+
+<p>Eu abro Firefox, IE e Safari (de vez em quando). A cada modificação no CSS e no HTML, eu aperto F5 em cada um deles e vejo o resultado. Se percebo algum erro, já corrijo e sigo em frente. Nunca deixo para visualizar em todos os browsers depois que termino a implementação. Esso é um método muito perigoso. Você procrastina todos os problemas que você teve para o final. Isso pode gerar problemas irreversíveis e na maioria das vezes, quando acontece, é mais fácil recomeçar.</p>
+
+<p>Lembre-se de que com Padrões Web ficou tudo mais fácil.</p>
+
+<p>Era tudo muito mais difícil quando tentávamos desenvolver com padrões, mas nenhum browser suportava grane parte dos métodos. Hoje, todos estão interessados em ter suporte com os padrões e felizmente os browsers estão mais espertos.</p>
+
+<p>O jeito é estudar, estudar e estudar. Pelo menos se você quiser ser um bom profissional.</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/seu-primeiro-bot-para-o-telegram//?utm_source=tablelessRelatedLin">Seu primeiro bot para o Telegram</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/estatistica-basica-projetos-agile//?utm_source=tablelessRelatedLin">Estatística básica nas entregas de projetos agile — Moda, mediana e percentil</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/sketch43-novo-formato-arquivo//?utm_source=tablelessRelatedLin">O novo formato de arquivo do Sketch 43</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245864"></script>

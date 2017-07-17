@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/design/</link>
+    <description>Recent content in Design on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>UX: Como aumentar a tolerância do usuário para atrasos</title>
+      <link>http://localhost/jhonny-roger/public/ux-como-aumentar-tolerancia-do-usuario-para-atrasos/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ux-como-aumentar-tolerancia-do-usuario-para-atrasos/</guid>
+      <description>Vivemos em um tempo onde velocidade é diferencial. Exigimos rapidez de tudo ao nosso redor, seja em um atendimento, em uma entrega de produto, na velocidade da Internet, no feedback do cliente, na estratégia de SEO do nosso site, entre tantos outros exemplos que poderiam ser citados. A realidade é evidente: esperar é doloroso.
+E em um cenário onde rapidez é fator de satisfação, a espera pode influenciar negativamente no valor de um produto ou serviço oferecido.</description>
+    </item>
+    
+    <item>
+      <title>Reação é melhor que previsão</title>
+      <link>http://localhost/jhonny-roger/public/reacao-e-melhor-que-previsao/</link>
+      <pubDate>Fri, 23 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/reacao-e-melhor-que-previsao/</guid>
+      <description>Entender o usuário é algo difícil. Você pode perceber isso facilmente comparando a sua forma de usar algum serviço de internet, digamos o Facebook, com qualquer outra pessoa ao seu redor. Provavelmente você tem um costume totalmente diferente de navegar, consumir conteúdo, comentar etc. Pessoas diferentes, usam de formas diferentes um mesmo produto e isso é totalmente normal. É por isso que tentar prever cenários para desenvolver um produto para internet é algo complicado.</description>
+    </item>
+    
+    <item>
+      <title>Projeto Felix: O novo software de 3D da Adobe</title>
+      <link>http://localhost/jhonny-roger/public/projeto-felix-o-novo-software-de-3d-da-adobe/</link>
+      <pubDate>Sun, 18 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/projeto-felix-o-novo-software-de-3d-da-adobe/</guid>
+      <description>A Adobe liberou no dia 17/12/2016 o seu mais novo software, nomeado de Felix. Buscando aqueles que hoje utilizam 2D, mas pensam em partir para o 3D sem muita dificuldade, o software apresenta uma
+interface simples e amigável, seguindo os padrões da empresa.
+ You already think in 3D. Now design in it.
+ O foco principal aparente é se utilizar dos atuais usuários da marca e chama-los para uma nova vibe, o 3D.</description>
+    </item>
+    
+    <item>
+      <title>Precisamos confirmar a senha?</title>
+      <link>http://localhost/jhonny-roger/public/precisamos-confirmar-senha/</link>
+      <pubDate>Fri, 02 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/precisamos-confirmar-senha/</guid>
+      <description>Você deve me entender: formulários são muito chatos. Tanto para desenhá-los quanto para produzir código front-end. Mas cada vez que desenho um formulário, eu tento simplificar ao máximo. A inclusão ou a exclusão de um campo pode afetar a taxa de conversão ou causar um desinteresse do usuário ao produto. Mas um dos campos que sempre me deixa com a pulga atrás da orelha é o de “cadastramento de senha”.</description>
+    </item>
+    
+    <item>
+      <title>Criando Layouts com Susy Framework</title>
+      <link>http://localhost/jhonny-roger/public/criando-layouts-com-susy-framework/</link>
+      <pubDate>Mon, 03 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-layouts-com-susy-framework/</guid>
+      <description>Com a alta demanda e prazos cada vez menores somos obrigados a trabalhar cada vez mais rápido e isso serve de incentivo para que novos frameworks sejam feitos buscando melhorar a qualidade no desenvolvimento. Um desses frameworks é o Susy e nesse artigo vamos conhecer e dar os primeiros passos com ele.
+O que é Susy? Susy é um framework que permite criar grids de acordo com as necessidades do seu site.</description>
+    </item>
+    
+    <item>
+      <title>O nome UX está errado</title>
+      <link>http://localhost/jhonny-roger/public/o-nome-ux-esta-errado/</link>
+      <pubDate>Tue, 09 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-nome-ux-esta-errado/</guid>
+      <description>O que é um profissional de UX? Se você for responder rápido, você vai dizer: “É o mano (ou a mana) que faz o Wireframe do projeto.” Essa resposta é no mínimo incompleta. O profissional de UX é responsável por muito mais que isso. O Wireframe é na verdade uma resposta representativa de todo um trabalho prévio de pesquisa, organização e garimpo de informação junto com usuários e clientes. Há uma preocupação muito forte com fluxo de conteúdo e principalmente fluxo de navegação, além de juntar especificar a função e comportamento do sistema.</description>
+    </item>
+    
+    <item>
+      <title>Realinhamento ou Redesign</title>
+      <link>http://localhost/jhonny-roger/public/realinhamento-redesign/</link>
+      <pubDate>Mon, 13 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/realinhamento-redesign/</guid>
+      <description>Eu não sei você, mas sempre que pipoca a bolotinha vermelha no meu AppStore mostrando que existem atualizações de alguns Apps, eu sempre, sempre olho o change notes para ver se há alguma mudança de design na interface. Eu quase nunca fico empolgado por mudanças nas funcionalidades, embora sejam muito bem-vindas.
+ A feature without design is like an idea without language.﻿ Jurgen Appelo
+ Todo mundo gosta de coisas bonitas.</description>
+    </item>
+    
+    <item>
+      <title>Tendências Web 2015 para desenvolvedores</title>
+      <link>http://localhost/jhonny-roger/public/tendencias-web-2015-para-desenvolvedores/</link>
+      <pubDate>Thu, 09 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tendencias-web-2015-para-desenvolvedores/</guid>
+      <description>O mundo dos desenvolvedores web está cada vez mais inovador e fantástico. Em 2015 teremos ferramentas mais qualificadas e conceitos que nos ajudarão na jornada de desenvolver um material super satisfatório. Pois não trará vantagens somente para nossos clientes, mas também nos poupará tempo, e para quem trabalha nessa área sabe que tempo é MUITO PRECIOSO.
+FLAT DESIGN Sites com sombras, diversas fontes e cores para ressaltar o realismo da página ficou no passado, agora o que manda é a simplicidade.</description>
+    </item>
+    
+    <item>
+      <title>Usabilidade e a Utilidade dos Elementos</title>
+      <link>http://localhost/jhonny-roger/public/usabilidade-e-utilidade-dos-elementos/</link>
+      <pubDate>Wed, 02 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/usabilidade-e-utilidade-dos-elementos/</guid>
+      <description>A Usabilidade está completamente ligada à utilidade e ao propósito de cada elemento ou objetos que criamos. Na verdade a própria palavra já nos traz logo em mente o método como algo é usado, e nos remete diretamente à facilidade deste uso.
+Há poucos dias, andava eu pesquisando sobre o assunto e vi este vídeo de Donald Norman: Obs: O vídeo tem legendas 🙂
+[youtube http://www.youtube.com/watch?v=NK1Zb_5VxuM]
+Posso dizer que não me seria necessário acrescentar mais nada neste momento, pois, assistindo ao vídeo, o leitor já está totalmente inteirado do que estou querendo mostrar, mas para não ficar vago o texto, vamos há alguns conceitos.</description>
+    </item>
+    
+    <item>
+      <title>A sua empresa tem alma e não é a do seu cliente</title>
+      <link>http://localhost/jhonny-roger/public/empresa-alma-nao-cliente/</link>
+      <pubDate>Mon, 23 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/empresa-alma-nao-cliente/</guid>
+      <description>Você não cria um aplicativo pensando exclusivamente no usuário, você é contratado para pensar em um objetivo: ROI. Infelizmente a maioria dos profissionais da área esquecem isso por estarem extremamente focados (o que é muito errado) apenas em User-centered Design. Ao menos que seu projeto seja filantrópico, seu GOAL não é só agradar o usuário, e sim visar o lucro, seja através de comércio, branding ou o que for. Veja bem, agradar o usuário é apenas um dos (na maioria dos casos o mais importante) meios no qual você utilizará para conseguir atingir um ROI positivo.</description>
+    </item>
+    
+    <item>
+      <title>Sobre Cor e Webdesign II</title>
+      <link>http://localhost/jhonny-roger/public/cor-webdesign-2/</link>
+      <pubDate>Mon, 23 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/cor-webdesign-2/</guid>
+      <description>No primeiro artigo desta série discutimos os sistemas de cores e apresentamos algumas ferramentas úteis para a criação e organização de paletas. Hoje vamos mergulhar mais a fundo na teoria da cor e discutir aspectos como características, combinação de cores, função, legibilidade e técnicas para escolher &amp;#8211; sem depender de &amp;#8220;bom gosto&amp;#8221; ou chute &amp;#8211; uma boa paleta de cores para a web.
+Propriedades Não vou entrar muito na parte física ou psicológica da coisa, ok?</description>
+    </item>
+    
+    <item>
+      <title>3 patinhos foram passear. Por que? Quem eram eles?</title>
+      <link>http://localhost/jhonny-roger/public/3-patinhos-passear-eram/</link>
+      <pubDate>Mon, 09 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/3-patinhos-passear-eram/</guid>
+      <description>Algumas vezes se perde muito tempo falando das funcionalidades de um produto, os objetivos financeiros da empresa e o processo do serviço da empresa, e esquecem o mais importante, o que os usuários querem. Acredito que o desejo do usuário é tão importante no processo do Design que determinamos um capítulo só para ele.
+Nesses anos de profissão, acredito que já tenha ouvido de tudo de clientes, desde alguns que nem tinham empresa até outros de multinacionais.</description>
+    </item>
+    
+    <item>
+      <title>O Designer Gladiador</title>
+      <link>http://localhost/jhonny-roger/public/o-designer-gladiador/</link>
+      <pubDate>Tue, 27 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-designer-gladiador/</guid>
+      <description>Em 2012 fechei um contrato de lançar um livro sobre as etapas e conceitos em cima de um projeto digital, no meio do caminho decidi abortar o livro e seguir um caminho aberto onde todos possam ter acesso ao conteúdo de forma gratuita. Assim, publicarei alguns dos textos criados 🙂
+ Em Design, a primeira coisa a ser feita em um projeto é a pesquisa sobre o negócio do cliente, mas só ouvi chamarem essa pesquisa inicial de arena em um curso de planejamento que fiz com o Professor Jorge Langone em 2009 na PUC Rio.</description>
+    </item>
+    
+    <item>
+      <title>Design para telas sensíveis ao toque</title>
+      <link>http://localhost/jhonny-roger/public/design-para-telas-sensiveis-ao-toque/</link>
+      <pubDate>Mon, 05 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/design-para-telas-sensiveis-ao-toque/</guid>
+      <description>A popularização das telas sensíveis ao toque adicionou uma esfera completamente nova ao design de interfaces: a experiência tátil. Este é um trabalho bem diferente do que nós designers e desenvolvedores estávamos acostumados até então, já que a possibilidade de utilizar esta nova forma de toque permite ao usuário interagir diretamente com a informação como se estivesse manipulando dados com propriedades físicas. Este novo universo de possibilidades, embora fascinante, também trouxe novos desafios.</description>
+    </item>
+    
+    <item>
+      <title>Guia de Estilos</title>
+      <link>http://localhost/jhonny-roger/public/guia-de-estilos/</link>
+      <pubDate>Wed, 09 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/guia-de-estilos/</guid>
+      <description>Um dos elementos mais importantes do processo de criação de identidade visual é a elaboração de um documento com informações concretas sobre cores, tipografia, forma, exemplos de uso, tamanho mínimo e área de reserva do logotipo, etc. Este documento, conhecido como Guia de Identidade Visual ou simplesmente Manual da Marca, não se restringe apenas ao aspecto gráfico e pode muitas vezes incluir explicações sobre a visão, história e filosofia da empresa, uma perspectiva mais aprofundada dos símbolos e signos utilizados para compor o design ou até instruções gerais sobre a linguagem a ser utilizada na comunicação escrita, por exemplo.</description>
+    </item>
+    
+    <item>
+      <title>Personalidade no Design</title>
+      <link>http://localhost/jhonny-roger/public/personalidade-no-design/</link>
+      <pubDate>Mon, 12 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/personalidade-no-design/</guid>
+      <description>_Traduzido com autorização da A List Apart Magazine e do autor._
+Estamos animados em apresentar um trecho do 3° capítulo do livro “Designing for Emotion” de Aarron Walter (Ed. A Book Apart, 2011)
+Chamamos de personalidade, o centro de relações duradouras, em torno de qualidades únicas, e perspectivas que todos possuímos. Através de nossa personalidade, expressamos uma gama de emoções humanas. Personalidade é a força que nos atrai a certas pessoas e nos repele de outras.</description>
+    </item>
+    
+    <item>
+      <title>Adobe e os Padrões Web</title>
+      <link>http://localhost/jhonny-roger/public/adobe-e-os-padroes-web/</link>
+      <pubDate>Thu, 03 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/adobe-e-os-padroes-web/</guid>
+      <description>Depois que o Steve Jobs fez o favor de nos livrar do Flash em seus dispositivos, parece que a Adobe acordou e resolveu entender o que realmente ele estava querendo dizer. Em vez de tentar devorar o mercado com uma tecnologia proprietária, por que não ajudar uma comunidade e os padrões que já existem no mercado?
+O pessoal da Apple fez isso com o Webkit. Eles tomaram emprestado o motor de renderização criado pelo pessoal do KDE &amp;#8211; com o motor chamado KHTML &amp;#8211; e fuçaram, mexeram, arrumaram, criaram e devolveram o resultado para a comunidade como um dos melhores motores de renderização que já existiu, o Webkit.</description>
+    </item>
+    
+    <item>
+      <title>As cores da minha web</title>
+      <link>http://localhost/jhonny-roger/public/as-cores-da-minha-web/</link>
+      <pubDate>Mon, 02 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/as-cores-da-minha-web/</guid>
+      <description>Talvez as cores que eu veja não sejam as mesmas que você enxerga, mas isso não faz com que a sua percepção da web seja diferente. Nesse ambiente tão democrático, nada mais justo do que discutir as diversas formas de perceber as cores da web.
+Tenho um grande amigo que sonhava ser piloto de avião. Por trabalhar em uma empresa aérea, a proximidade com as grandes máquinas voadoras o encantava. Porém, seu sonho de pilotar acabou quando, aos trinta anos de idade, ele descobriu que tinha um grau de daltonismo que o impediu de continuar o treinamento.</description>
+    </item>
+    
+    <item>
+      <title>Qualidade de Imagens e densidade de pixels</title>
+      <link>http://localhost/jhonny-roger/public/qualidade-de-imagens-e-densidade-de-pixels/</link>
+      <pubDate>Mon, 26 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/qualidade-de-imagens-e-densidade-de-pixels/</guid>
+      <description>Você se lembra quando planejavamos nossos layouts para resoluções acima de 1024? Chega ser engraçado lembrar que um dia fizemos websites para 640&amp;#215;480, pensando que a resolução de 1024&amp;#215;768 eram a minoria dos usuários. Os tempos mudaram e naturalmente diversas outras resoluções apareceram por conta de novos dispositivos, melhores monitores e etc. Acontece que na web nada é tão fácil assim. A gente se livra de um problema, mas aparece outro no lugar.</description>
+    </item>
+    
+    <item>
+      <title>Responsive Web Design – focando a coisa certa</title>
+      <link>http://localhost/jhonny-roger/public/responsive-web-design-voce-esta-fazendo-isso-errado/</link>
+      <pubDate>Tue, 20 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/responsive-web-design-voce-esta-fazendo-isso-errado/</guid>
+      <description>Eu andei pensando em um assunto e procurando sobre encontrei um artigo, fresquinho, no Brad Frost que veio de encontro ao que eu estava matutando. Eu escrevi em tempos passados um artigo sobre por que estávamos desenvolvendo apenas para iPhone. Foi aí que começamos a pensar em versões mobiles. Mas fazíamos versões mobiles dos nossos sistemas e websites simplesmente sem entender quando a necessidade de ter um site mobile era real.</description>
+    </item>
+    
+    <item>
+      <title>ePub: Aprenda a criar um livro digital</title>
+      <link>http://localhost/jhonny-roger/public/epub-aprenda-a-criar-um-livro-digital/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/epub-aprenda-a-criar-um-livro-digital/</guid>
+      <description>Introdução Com a crescente popularização de tablets e leitores digitais não há dúvida de que os livros eletrônicos vieram para ficar. O formato ePub vem cada vez mais se consolidando como o padrão definitivo para eBooks. As editoras procuram profissionais especializados, mas, aqui no Brasil não existem muitos que de fato possuem o know-how necessário para desenvolver livros no padrão. Na verdade o que acontece é que as editoras estão alocando o tipo de profissional errado para a função.</description>
+    </item>
+    
+    <item>
+      <title>Boas práticas de Acessibilidade</title>
+      <link>http://localhost/jhonny-roger/public/boas-praticas-de-acessibilidade/</link>
+      <pubDate>Mon, 23 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/boas-praticas-de-acessibilidade/</guid>
+      <description>Preparei uma pequena (nem tão pequena assim) apresentação que mostra algumas boas práticas e técnicas sobre acessibilidade para sistemas e websites. São pequenos ajustes que podemos incorporar mesmo depois de todo o desenvolvimento pronto e que dão resultados importantes para adequação dos seus sites ou sistemas.
+Apresentancao acessibilidade Veja mais apresentações de Diego Eis 
+ </description>
+    </item>
+    
+    <item>
+      <title>Um pensamento sobre design para web</title>
+      <link>http://localhost/jhonny-roger/public/um-pensamento-sobre-design-para-web/</link>
+      <pubDate>Thu, 19 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/um-pensamento-sobre-design-para-web/</guid>
+      <description>É engraçado quando designers de peças offline tentam migrar para web e ficam assustados com as diferenças no processo de criação e produção. O controle que o design para impresso tem sobre a posição dos elementos e a forma final da arte nunca (nunca?) será a mesma na web. No impresso você define precisamente as medidas, posicionando dos elementos, o tamanho das letras, entrelinhas e cores (mesmo brigando bastante nas gráficas por aí).</description>
+    </item>
+    
+    <item>
+      <title>Style Guide para Android</title>
+      <link>http://localhost/jhonny-roger/public/style-guide-para-android/</link>
+      <pubDate>Fri, 13 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/style-guide-para-android/</guid>
+      <description>A Wired entrevistou o Matias Duarte, o cara por trás (ui!) do planejamento de UX do Android.
+O Google lançou recentemente um guia de estilo para desenvolvedores do Android. Neste artigo eles conversam sobre como é difícil manter um sistema operacional para mobiles que pode ser instalado e portado para praticamente qualquer dispositivo. Quando um sistema tem essa flexibilidade, as chances da usabilidade e acessibilidade das aplicações e também do sistema tem grandes chances de dar carquinha.</description>
+    </item>
+    
+    <item>
+      <title>Utilizando APPs em vez de browsers</title>
+      <link>http://localhost/jhonny-roger/public/utilizando-apps-em-vez-de-browsers/</link>
+      <pubDate>Fri, 06 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/utilizando-apps-em-vez-de-browsers/</guid>
+      <description>De acordo com a comScore as pessoas estão usando mais mobile Apps para consumir conteúdo do que browsers.
+O tráfego medido pela comScore mostra o market share dos principais players do mercado de mobile em Novembro. O Android continua ganhando, logo atrás vem o iPhone que foi impulsionado pelas vendas do 4S. Todas as outras plataformas perderam campo. Outra coisa, o report da comScore não conta com iPads nem iPods.</description>
+    </item>
+    
+    <item>
+      <title>Experiência cross-device</title>
+      <link>http://localhost/jhonny-roger/public/experiencia-cross-device/</link>
+      <pubDate>Thu, 22 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/experiencia-cross-device/</guid>
+      <description>Eu vivo comentando aqui no Tableless sobre o desenvolvimento de sistemas e websites para os diversos meios de acesso. Eu falei sobre esse assunto em diversos artigos. Eu li um artigo chamado The Coming Zombie Apocalypse, escrito por Scott Jenson em abril deste ano. Este artigo me fez perceber que eu estava levando o assunto muito superficialmente, mas que tem muito a ver com o artigo publicado aqui chamado A Experiência deve ter começo, meio e fim.</description>
+    </item>
+    
+    <item>
+      <title>Mobile First – A arte de pensar com foco</title>
+      <link>http://localhost/jhonny-roger/public/mobile-first-a-arte-de-pensar-com-foco/</link>
+      <pubDate>Tue, 13 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/mobile-first-a-arte-de-pensar-com-foco/</guid>
+      <description>Durante muito tempo especialistas de diversas áreas previram o crescimento do uso dos dispositivos móveis. Demorou um pouco mas a previsão se tornou verdadeira. Hoje todo mundo carrega um pedaço de plástico com uma tela de vidro na mão o dia inteiro&amp;#8230; quase uma extensão de nossos corpos.
+Os dispositivos móveis se tornaram uma febre e vieram para ficar. É a melhor forma de fazer a inclusão digital para aqueles que não tem uma forma de ter um notebook ou um desktop em casa.</description>
+    </item>
+    
+    <item>
+      <title>Introdução ao Responsive Web Design</title>
+      <link>http://localhost/jhonny-roger/public/introducao-ao-responsive-web-design/</link>
+      <pubDate>Mon, 15 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-ao-responsive-web-design/</guid>
+      <description>Você já deve ter ouvido falar sobre Responsive Web Design. Você pode ler sobre isso aqui e aqui.
+Até pouco tempo atrás tínhamos praticamente apenas um meio de acessar a internet, que era pelo desktop. Podíamos acessar mal e porcamente a internet pelos celulares ou por outros aparelhos ligados a televisão etc, mas nenhum destes meios nos permitia acessar a internet com a facilidade que tínhamos quando utilizávamos um desktop.</description>
+    </item>
+    
+    <item>
+      <title>Interface Guide para Apps Mobiles</title>
+      <link>http://localhost/jhonny-roger/public/interface-guide-para-apps-mobiles/</link>
+      <pubDate>Thu, 26 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/interface-guide-para-apps-mobiles/</guid>
+      <description>Um dos sucessos dos Apps da Apple, tanto para mobiles quanto para desktops é a fidelidade e respeito que os desenvolvedores e designers tem ao seguir os padrões de interface que a Apple dispõe. São guias com informações importantes para que o App tenha um layout mais adequado e homogêneo com o sistema operacional. Dessa maneira o usuário final não se sente em um ambiente hostil e desconhecido.
+Separei 3 guias para que você, independente da sua área de atuação, leia e compreenda mais os padrões dos três principais sistemas operacionais para mobiles existentes: Android, iOS e Windows Phone.</description>
+    </item>
+    
+    <item>
+      <title>Vote no Especialista em Usabilidade para Presidente</title>
+      <link>http://localhost/jhonny-roger/public/vote-no-especialista-em-usabilidade-para-presidente/</link>
+      <pubDate>Thu, 21 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/vote-no-especialista-em-usabilidade-para-presidente/</guid>
+      <description>﻿(A discussão deste post vale para aplicações de grande porte, o que não significa que a mesma abordagem possa ser aplicada com sucesso em ambientes menores como blogs, por exemplo)        ﻿(A discussão deste post vale para aplicações de grande porte, o que não significa que a mesma abordagem possa ser aplicada com sucesso em ambientes menores como blogs, por exemplo) Usabilidade é um termo usado para definir a facilidade com que as pessoas podem empregar uma ferramenta ou objeto a fim de realizar uma tarefa específica e importante.</description>
+    </item>
+    
+    <item>
+      <title>6 estratégias para melhorar a organização do seu CSS</title>
+      <link>http://localhost/jhonny-roger/public/6-estrategias-para-melhorar-a-organizacao-do-seu-css-2/</link>
+      <pubDate>Mon, 20 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/6-estrategias-para-melhorar-a-organizacao-do-seu-css-2/</guid>
+      <description>Durante a codificação do CSS para um site, é interessante que o designer/programador utilize algumas convenções para que o código fique organizado e bem documentado.
+Nos casos em que um projeto é compartilhado entre vários designers e programadores, a definição destas convenções é especialmente necessária para manter o código consistente e inteligível a todos que necessitam trabalhar ou dar manutenção no CSS.
+Neste artigo compartilho algumas estratégias simples que aprendi ao longo dos anos e que auxiliam a melhor organizar folhas de estilo.</description>
+    </item>
+    
+    <item>
+      <title>Animando com jQuery</title>
+      <link>http://localhost/jhonny-roger/public/animando-com-jquery/</link>
+      <pubDate>Mon, 05 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/animando-com-jquery/</guid>
+      <description>Um dos recursos mais procurados pelos designers (e programadores) em bibliotecas é animação. Existem bibliotecas e mais bibliotecas que fazem animações de diversas formas. Em prototype por exemplo, deve-se anexar a biblioteca scriptaculous para que seja possivel realizar animações. Já em mootools existem várias formas de resolver o mesmo problema, sendo assim um pouco mais complicado de lembrar de tudo isso. Por jQuery ser uma biblioteca simples com somente o funcional, o trabalho se torna mais simples, logo mais rápido de desenvolver as soluções.</description>
+    </item>
+    
+    <item>
+      <title>Tableless.com.br – The Wonder Years</title>
+      <link>http://localhost/jhonny-roger/public/tablelesscombr-the-wonder-years/</link>
+      <pubDate>Fri, 07 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tablelesscombr-the-wonder-years/</guid>
+      <description>&lt;p&gt;No dia primeiro de Janeiro de 2008, o Tableless.com.br faz 5 anos de idade. Por isso, uma reformulação total do site era bem vinda. Essa reformulação não será rápida e não envolve apenas a constante mudança do layout, mas também a filtragem de todo o conteúdo contido no site.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>O Caminho Suave para o Tableless</title>
+      <link>http://localhost/jhonny-roger/public/o-caminho-suave-para-o-tableless/</link>
+      <pubDate>Thu, 06 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-caminho-suave-para-o-tableless/</guid>
+      <description>A maior parte dos desenvolvedores web, designers ou programadores, começaram antes do surgimento dos movimentos em prol dos padrões web, usando tabelas para montar layouts em editores WYSIWYG, e ainda hoje este método é usado na maioria dos projetos de internet. Logo, é natural que muita gente, ao começar a entender o valor dos padrões, se pergunte como migrar do desenvolvimento &amp;#8220;tradicional&amp;#8221; para o desenvolvimento de código semanticamente coerente.</description>
+    </item>
+    
+    <item>
+      <title>Sites para Dispositivos Móveis – MediaType</title>
+      <link>http://localhost/jhonny-roger/public/sites-para-dispositivos-moveis-mediatype/</link>
+      <pubDate>Thu, 06 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sites-para-dispositivos-moveis-mediatype/</guid>
+      <description>Felizmente, com a ajuda dos Web Standards, o trabalho para criar um site ficou muito mais fácil, rápida e o mais importante, divertida.
+Hoje, você troca de layout a hora que quiser, sem se preocupar em ter que refazer todo o código e programação. Eles já estão feitos, por que ter que recriá-los? Então, você troca apenas 1 arquivo CSS, e seu site muda completamente, sem dor de cabeça, apenas mudando a lente de formatação.</description>
+    </item>
+    
+    <item>
+      <title>Sobre Internet Explorer para Mobile – Breve impressão</title>
+      <link>http://localhost/jhonny-roger/public/sobre-internet-explorer-para-mobile-breve-impressao/</link>
+      <pubDate>Wed, 07 Nov 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sobre-internet-explorer-para-mobile-breve-impressao/</guid>
+      <description>Desde que adquiri um MotoQ (se lê MotoQUIU) eu venho usando o Opera Mobile como browser padrão. Ao contrário da versão pra desktops, o Opera Mobile é pago. Por este motivo, quando a data expirou, eu resolvi usar por um tempo o Internet Explorer.
+Descobri que a forma com que o IE Mobile renderiza as páginas é tão boa quanto a do Opera Mobile. A velocidade de navegação também é ótima.</description>
+    </item>
+    
+    <item>
+      <title>Rapidinhas – para começar a pseudo-segunda-feira</title>
+      <link>http://localhost/jhonny-roger/public/rapidinhas-para-comecar-a-pseudo-segunda-feira/</link>
+      <pubDate>Tue, 10 Jul 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/rapidinhas-para-comecar-a-pseudo-segunda-feira/</guid>
+      <description>Alguns links rápidos para começar a pseudo-segunda-feira (aqui em SP foi feriado na segunda).
+ Se você usa Mac ou qualquer outro sistema operacional, você sabe que é meio difícil testar seus projetos no IE. Se quiser fazer testes rápidos, sem perder tempo, tente usar o Ie NetRenderer. Em qual versão a tag ABBR foi implementada no HTML? E a BLOCKQUOTE?
+O HTML Elements Index uma tabela de tags, onde você consegue saber em qual versão do HTML a tag foi implementada e se a tag ainda existe nas versões atuais do HTML/XHTML.</description>
+    </item>
+    
+    <item>
+      <title>Bonito de se ver #23 – Brasil</title>
+      <link>http://localhost/jhonny-roger/public/bonito-de-se-ver-23-brasil/</link>
+      <pubDate>Mon, 19 Dec 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/bonito-de-se-ver-23-brasil/</guid>
+      <description> http://www.wrodrigues.com/  http://www.revolucao.etc.br/ http://www.rfreitas.eng.br/rubens/ http://www.panacea.com.br/ http://www.docemel.com.br/   </description>
+    </item>
+    
+    <item>
+      <title>Bonito de se ver #21</title>
+      <link>http://localhost/jhonny-roger/public/bonito_de_se_ver21/</link>
+      <pubDate>Sun, 04 Dec 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/bonito_de_se_ver21/</guid>
+      <description> http://blog.splashdesigngroup.com/  http://blog.daninko.ca/ http://www.somethingspecialgiftbaskets.com/ http://armeau2.studioavons.com/ http://www.firewheeldesign.com/   </description>
+    </item>
+    
+  </channel>
+</rss>

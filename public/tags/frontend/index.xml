@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frontend on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/frontend/</link>
+    <description>Recent content in Frontend on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 28 Sep 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/frontend/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introdução: diversidade dos meios acesso</title>
+      <link>http://localhost/jhonny-roger/public/diversidade-dos-meios-acesso/</link>
+      <pubDate>Mon, 28 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/diversidade-dos-meios-acesso/</guid>
+      <description>Estive no mês de Setembro/2009 fazendo uma consultoria para a Globo.com. Nesta consultoria, dentre muitas coisas, conversamos sobre a diversidade de aparelhos móveis utilizados para acessar os sites da Globo. Este problema está se tornando cada vez mais recorrente em grandes e pequenos sites. A quantidade de aparelhos que são lançados, não apenas celulares e smartphones, mas também outros aparelhos que permitem o usuário acessar a internet, cresce a cada ano.</description>
+    </item>
+    
+  </channel>
+</rss>

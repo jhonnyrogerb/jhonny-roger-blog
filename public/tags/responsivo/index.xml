@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Responsivo on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/responsivo/</link>
+    <description>Recent content in Responsivo on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 08 Jul 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/responsivo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Material Design Lite: O framework do Google</title>
+      <link>http://localhost/jhonny-roger/public/material-design-lite-o-framework-google/</link>
+      <pubDate>Wed, 08 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/material-design-lite-o-framework-google/</guid>
+      <description>Em 2014 o Google apresentou o Material Design: um guia para redefinir o visual de aplicativos. Vários aplicativos aderiram ao Material Design, como por exemplo, o WhatsApp, que mudou por completo o visual.
+Para facilitar ainda mais a vida do usuário, o Google anunciou uma ferramenta para introduzir o Material Design em websites, chamado de Material Design Lite (MDL).
+Assim como qualquer outro framework, o MDL oferece uma documentação e vários exemplos para facilitar a aplicação em websites.</description>
+    </item>
+    
+    <item>
+      <title>Formulário responsivo com MailChimp</title>
+      <link>http://localhost/jhonny-roger/public/formulario-responsivo-com-mailchimp/</link>
+      <pubDate>Fri, 06 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/formulario-responsivo-com-mailchimp/</guid>
+      <description>Há cada dia mais utilizamos serviços disponíveis na web que tem um plano básico e gratuito que permite integrações. Nos últimos meses tenho feito formulários com frequência usando uma abordagem bem simples. Vou mostrar agora como criar um formulário responsivo, integrando com MailChimp e usando jQuery Validate.
+O HTML Vamos criar o formulário da seguinte maneira:
+&amp;lt;section&amp;gt; &amp;lt;h1&amp;gt;CREATE RESPONSIVE FORM WITH INTEGRATE MAILCHIMP&amp;lt;/h1&amp;gt; &amp;lt;form id=&#34;form-contact&#34; method=&#34;POST&#34; action=&#34;mailchimp-contact.php&#34;&amp;gt; &amp;lt;div class=&#34;input&#34;&amp;gt; &amp;lt;label for=&#34;</description>
+    </item>
+    
+    <item>
+      <title>Destaques responsivos</title>
+      <link>http://localhost/jhonny-roger/public/destaques-responsivos/</link>
+      <pubDate>Mon, 29 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/destaques-responsivos/</guid>
+      <description>Hoje criaremos três destaques com um comportamento totalmente responsivo.
+Com um crescimento das SPAs e seguindo o mesmo conceito do artigo anterior, vou passar agora de uma forma simples de como usar, o input radio para transformar nossos destaques em galeria navegável.
+Aproveitando Como já temos um header responsivo, vamos continuar com a mesma estrutura até o final dos artigos só com css e html. Se você ainda não viu como criar um header responsivo, clique aqui.</description>
+    </item>
+    
+    <item>
+      <title>Vamos falar de Joomla!?</title>
+      <link>http://localhost/jhonny-roger/public/vamos-falar-de-joomla/</link>
+      <pubDate>Fri, 14 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/vamos-falar-de-joomla/</guid>
+      <description>Vamos falar um pouco de Joomla? Não é um assunto muito comum aqui no Tableless, mas estamos querendo mudar isso.
+Joomla é conhecido por ter uma interface complicada e bem, digamos, feia. Ele tem mudado bastante e nas novas versões as melhoras são bem visíveis. No início tudo era mais complicado. Eu não chego a ser um dinossauro do Joomla, porém posso contar um pouco da história dele.
+O Joomla surgiu da separação entre a equipe de desenvolvedores do Mambo e a empresa Miro.</description>
+    </item>
+    
+  </channel>
+</rss>

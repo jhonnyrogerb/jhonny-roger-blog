@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorial on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/tutorial/</link>
+    <description>Recent content in Tutorial on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 04 Nov 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Criando uma aplicação móvel com Ionic 2 e Angular 2 em dez passos</title>
+      <link>http://localhost/jhonny-roger/public/criando-uma-aplicacao-movel-com-ionic-2-e-angular-2-em-dez-passos/</link>
+      <pubDate>Fri, 04 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-uma-aplicacao-movel-com-ionic-2-e-angular-2-em-dez-passos/</guid>
+      <description>Introdução À esta altura do campeonato é provável que você já tenha ouvido falar da nova versão deste famoso framework para criação de aplicações móveis híbridas. O Ionic 2 acaba de chegar em seu Release Candidate e, com ele, trás uma série de recursos e otimizações de código, além de um considerável ganho de performance! Muito desse mérito se deve ao Angular (como é chamada a nova versão do framework, que deixa para trás o &amp;#8220;JS&amp;#8221; ao final do nome) que chega &amp;#8211; finalmente &amp;#8211; na sua versão estável, provando que não está para brincadeiras.</description>
+    </item>
+    
+    <item>
+      <title>ES2015 – Babel 6 com Browserify e Babelify</title>
+      <link>http://localhost/jhonny-roger/public/es2015-babel-6-com-browserify-e-babelify/</link>
+      <pubDate>Mon, 23 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/es2015-babel-6-com-browserify-e-babelify/</guid>
+      <description>Vivemos um momento de transição no mundo Javascript com a aprovação do ES2015 ou ES6, porém, este novo padrão ainda não é suportado totalmente por todos os navegadores, para administrar este problema foi criado o Babel, um compiler Javascript, que além de suas muitas funções, nesta versão 6, pode transformar ES2015 em ES5.
+Instalando Para este tutorial, iremos utilizar o Babelify, um módulo npm feito para funcionar juntamente com o Browserify, outro módulo que empacota todos os seus requires para serem usados no browser.</description>
+    </item>
+    
+    <item>
+      <title>Criando um widget de “Artigos Populares” por numero de visualizações</title>
+      <link>http://localhost/jhonny-roger/public/criando-um-widget-de-artigos-populares-por-numero-de-visualizacoes/</link>
+      <pubDate>Thu, 13 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-um-widget-de-artigos-populares-por-numero-de-visualizacoes/</guid>
+      <description>Recentemente tive que implementar um widget de artigos populares para um cliente. Acontece que até então a única maneira que eu sabia fazer isso era ordenando os posts por número de comentários. Propus a solução ao meu cliente e o mesmo disse que queria que o mesmo fosse ordenados por número de visualizações. Bom, nunca tinha feito isso, então corri atrás de alguns artigos &amp;#8220;gringos&amp;#8221; explicando como fazer e me espantei sobre como era simples.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2 – Parte Final</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-final/</link>
+      <pubDate>Tue, 16 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-final/</guid>
+      <description>Chegamos ao final da nossa série sobre Symfony. Se você não leu os outros, no final do artigo há uma listagem com todos os artigos já publicados dessa série.
+No tutorial anterior, instalamos e configuramos o bundle StofDoctrineExtensionsBundle, para fazermos os slugs de nossos posts, agora vamos instalar e configurar o Bundle FOSUserBundle, para fazer a autenticação da área administrativa do nosso blog.
+Instalação do bundle FOSUserBundle. Para instalar o FOSUserBundle, temos que adicioná-lo em nosso composer.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2 – Parte 09</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-09/</link>
+      <pubDate>Sun, 24 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-09/</guid>
+      <description>No tutorial anterior, instalamos e configuramos o bundle Knp Paginator, para fazer a paginação de posts em nosso index, agora vamos instalar e configurar o Bundle StofDoctrineExtensionsBundle, para fazermos os slugs de nossos posts
+Instalação do bundle StofDoctrineExtensionsBundle Para instalar o StofDoctrineExtensionsBundle, temos que adicioná-lo em nosso composer.json. Abra o arquivo composer.json e adicione a linha abaixo:
+&#34;stof/doctrine-extensions-bundle&#34;: &#34;1.2.*@dev&#34;  Depois de adicionando o StofDoctrineExtensionsBundle no composer, vamos instalá- lo.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2 – Parte 08</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-08/</link>
+      <pubDate>Tue, 28 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-08/</guid>
+      <description>No tutorial anterior, criamos um upload de imagens para servirem de capa para nossos posts, agora vamos instalar e configurar um Bundle, disponibilizado pela comunidade, para fazer a paginação de nossa página index. Para isso temos que instalar o Knp Paginator em nossa aplicação.
+Instalação do Knp Paginator Para instalar o Knp Paginator, temos que adicioná-lo em nosso composer.json. Abra o arquivo composer.json e adicione a linha abaixo:
+&#34;knplabs/knp-paginator-bundle&#34;: &#34;</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2 – Parte 07</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-07/</link>
+      <pubDate>Fri, 10 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-07/</guid>
+      <description>No tutorial anterior, estilizamos nossas páginas, index e show, e incluímos um imagem para apresentar nossos posts no index, porém colocamos esta imagem pelo código fonte, agora vamos fazer algumas configurações, para que, na criação dos posts, tenha a opção de fazer o upload de uma imagem, para ser apresentada como capa de nossos posts.
+Configurando a entidade Post Para criarmos um upload de imagem, vamos usar o componente http-foundation do Symfony, e usar sua classe UploadedFile em nossa entidade Post.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2 – Parte 06</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-06/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-06/</guid>
+      <description>No tutorial anterior, configuramos nosso projeto e criamos nossas páginas, home e show, porém as mesmas se encontram sem estilização, neste tutorial, vamos apenas estruturar nossas páginas de um modo simples e básico, porém funcional. Não entrarei em detalhes sobre o Bootstrap, não é meu objetivo, porém para iniciantes, recomendo a documentação.
+Sobre o Twig, falarei o básico do básico, somente o que vamos usar. Lembrando que ele já vem instalado e configurado no Symfony, porém podemos instalá-lo separadamente via Composer e configurá- lo em outros projetos, usando ou não outros frameworks.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2 – Parte 05</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-05/</link>
+      <pubDate>Thu, 19 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-05/</guid>
+      <description>No tutorial anterior, criamos a entidade Author, e fizemos o relacionamento com os posts, neste tutorial vamos fazer as configurações adequadas para que possamos deixar nossa aplicação estruturada corretamente, e vamos criar e configurar a página index, onde os usuários terão acesso para visualizar e ler os posts.
+Configurando Vamos começar com as configurações.
+Entrando no bundle CoreBundle, caminho: src/Tableless/CoreBundle, exclua a pasta Controller.
+
+Ainda neste mesmo bundle vamos excluir a pasta view, caminho: src/Tableless/CoreBundle/Resources/view.</description>
+    </item>
+    
+    <item>
+      <title>Tutorial Ionic – Meu primeiro app</title>
+      <link>http://localhost/jhonny-roger/public/tutorial-ionic-meu-primeiro-app/</link>
+      <pubDate>Thu, 05 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tutorial-ionic-meu-primeiro-app/</guid>
+      <description>Introdução Após publicar uma breve introdução do Ionic Framework, vamos agora tentar construir uma app que consiga abordar o uso de componentes nativos de um celular assim como o build para as determinadas plataformas.
+Para isso, ao decorrer deste tutorial, vamos construir uma app bastante simples que utiliza a posição do usuário para exibir os dados do tempo na tela.
+O que é necessário?  NodeJS NPM  Após instalar os 2, vamos instalar o ionic e o cordova como módulos globais.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2 – Parte 04</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-04/</link>
+      <pubDate>Wed, 04 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-04/</guid>
+      <description>Anteriormente, criamos a entidade Post, vamos dar continuidade ao nosso simples projeto, criando uma entidade Author, faremos o relacionamento para que cada autor fique ligado ao post que criou.
+Criando a entidade Author Vamos criar a entidade Author, entre no terminal e digite:
+$ php app/console generate:doctrine:entity  Vamos digitar o nome da entidade como : TablelessModelBundle:Author.
+$ The Entity shortcut name: TablelessModelBundle:Author  Vamos mapeá-la usando annotation. Apenas damos enter.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2 – Parte 03</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-03/</link>
+      <pubDate>Wed, 18 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-03/</guid>
+      <description>Dando continuidade ao tutorial anterior, vamos continuar usando o componente console do Symfony, agora criaremos uma entidade, para acessar o banco de dados, usando o Doctrine ORM.
+Banco de dados com Doctrine ORM Quando falamos de banco de dados em projetos com Symfony, estamos falando de Doctrine ORM (Object Relational Mapper), onde criamos uma camada de persistência entre a aplicação e um banco de dados, que mapeia nossas tabelas com entidades, para que possamos acessar o banco.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2/</link>
+      <pubDate>Wed, 21 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2/</guid>
+      <description>O symfony é um framework fullstack de aplicações web para as necessidades de alto desempenho, é um conjunto de componentes PHP, para grandes e avançados projetos, porém podemos instalar seus componentes separadamente em casos de projetos menores. É muito respeitado pela comunidade, não é apenas um Framework popular, mas também é uma das melhores plataformas para construir projetos Open-Source. Muitos projetos PHP estão incorporando alguns dos componentes ou estão usando o framework full-stack, projetos como Drupal, Laravel, entre outros, veja a lista.</description>
+    </item>
+    
+    <item>
+      <title>Rastreando exceções no PHP com o Airbrake</title>
+      <link>http://localhost/jhonny-roger/public/rastreando-excecoes-no-php-com-o-airbrake/</link>
+      <pubDate>Mon, 15 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/rastreando-excecoes-no-php-com-o-airbrake/</guid>
+      <description>Identificar erros, e suas causas, em uma aplicação web pode se tornar uma tarefa complicada. Ter algumas ferramentas à mão pode simplificar bastante essa missão.
+Algo que provavelmente ajuda a rastrear uma falha são os logs da aplicação ou do servidor onde ela está sendo executada, mas não é fácil encontrar algo específico, especialmente se o volume de registros é grande.
+Outra situação desagradável é quando os erros acontecem em situações específicas, difíceis de reproduzir.</description>
+    </item>
+    
+    <item>
+      <title>O que é Node.js e saiba os primeiros passos</title>
+      <link>http://localhost/jhonny-roger/public/o-que-nodejs-primeiros-passos-com-node-js/</link>
+      <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-que-nodejs-primeiros-passos-com-node-js/</guid>
+      <description>O que é Node.js? Node.js é uma plataforma para desenvolvimento de aplicações server-side baseadas em rede utilizando JavaScript e o V8 JavaScript Engine, ou seja, com Node.js podemos criar uma variedade de aplicações Web utilizando apenas código em JavaScript.
+Em uma primeira análise essa informação pode não parecer tão interessante, uma vez que existem diversas outras maneiras em que esses tipos de serviços podem ser implementados. Mas se pensarmos um pouco mais sobre as demandas de aplicações na internet e o modo em que o código em JavaScript pode ser estruturado, vamos nos deparar com uma gama de novas possibilidades para desenvolvimento Web, e provavelmente nos juntar à crescente comunidade que tem adotado essa plataforma.</description>
+    </item>
+    
+    <item>
+      <title>PHP na linha de comando</title>
+      <link>http://localhost/jhonny-roger/public/php-na-linha-de-comando/</link>
+      <pubDate>Thu, 24 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/php-na-linha-de-comando/</guid>
+      <description>Quem conhece um pouco de alguma linguagem de programação, acaba se acostumando a escrever trechos de código para automatizar tarefas simples ou resolver problemas. Para aqueles mais íntimos do PHP, se torna habitual escrever aplicações com uma interface simples em HTML, mas com isso deixamos de aproveitar algumas vantagens da linha de comando em conjunto com o nosso script para resolver essas questões triviais (ou nem tanto). Também existe benefício de não depender de um servidor web e um navegador.</description>
+    </item>
+    
+    <item>
+      <title>Mudar ícones dos Custom Post Types no WordPress 3.8</title>
+      <link>http://localhost/jhonny-roger/public/mudar-icones-dos-custom-post-types-wordpress-3-8/</link>
+      <pubDate>Mon, 13 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/mudar-icones-dos-custom-post-types-wordpress-3-8/</guid>
+      <description>No dia 12 de Dezembro a Equipe do WordPress liberou a sua mais nova versão, o WordPress 3.8 Parker, que é uma referência ao Charlie Parker, grande saxofonista de Jazz. Visualmente a versão 3.8 do WordPress foi a que trouxe mais mudanças, a começar pela belíssima renovação de design do painel que também passou a ser responsivo e acessível por todos os dispositivos móveis, o que é um grande avanço, já que não será mais preciso usar os aplicativos móveis para fazer moderação e criação de posts.</description>
+    </item>
+    
+    <item>
+      <title>CSS Transition e CSS Animation</title>
+      <link>http://localhost/jhonny-roger/public/transition-e-animation/</link>
+      <pubDate>Fri, 19 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/transition-e-animation/</guid>
+      <description>Transition. Prazer!  &amp;#8220;Com CSS3, podemos adicionar um efeito quando o navegador troca de um estilo para outro, sem usar animações em Flash ou JavaScript.&amp;#8221; &amp;#8211; w3schools  Mostrar um feedback ao usuário quando ele passar o mouse sobre um link (:hover) ou quando ele der foco em um campo input (:focus) são boas práticas. Há muitos jeitos de fazermos isso: mudando a cor do texto, tirando o underline da palavra, alterando a borda do input que recebeu o foco ou até alterando a cor de background do elemento.</description>
+    </item>
+    
+    <item>
+      <title>Grunt: você deveria estar usando!</title>
+      <link>http://localhost/jhonny-roger/public/grunt-voce-deveria-estar-usando/</link>
+      <pubDate>Sun, 14 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/grunt-voce-deveria-estar-usando/</guid>
+      <description>Todo programador é preguiçoso, e isso é fato, pois sempre estamos procurando ferramentas que automatizem o trabalho para nós. Mas isso necessariamente não é algo ruim, pelo contrário, automatizar tarefas (objetivo do Grunt) implica em ganho de produção e isso é ótimo. O que não podemos deixar acontecer é a não realização de tarefas primordiais para que uma aplicação tenha qualidade.
+Minificação e concatenação de arquivos por exemplo são tarefas básicas e você não deve deixar isso de lado, mas fazer isso usando um plugin no editor (que seja o Sublime Text) ou um site, copiar o código minificado, colar em um novo arquivo renomeado com .</description>
+    </item>
+    
+    <item>
+      <title>Propriedade background-clip</title>
+      <link>http://localhost/jhonny-roger/public/propriedade-background-clip/</link>
+      <pubDate>Tue, 03 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/propriedade-background-clip/</guid>
+      <description>A propriedade background-clip é muito simples de se entender. Até agora nós nunca tínhamos como controlar onde o background começaria a ser desenhado. Imagine que temos um elemento com um determinado padding e que você queira que o background, seja ele uma imagem ou uma cor, aparecesse somente onde está o conteúdo, ignorando a parte do padding.
+O background-clip tem 4 valores: border-box, content-box, padding-box e text. O valor text foi inserido pelo pessoal do Webkit em 2008 e dave ser incluída no padrões em algum momento por conta da sua utilidade!</description>
+    </item>
+    
+    <item>
+      <title>HTML5: Elemento AUDIO</title>
+      <link>http://localhost/jhonny-roger/public/elemento-tag-audio/</link>
+      <pubDate>Tue, 14 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/elemento-tag-audio/</guid>
+      <description>O elemento audio do HTML5 representa um som ou um stream de áudio. Atributos como: src, preload, autoplay, loop e controls podem ser utilizados em todos elementos de media, como o elemento audio.
+Formatos suportados Os formatos de audio suportados são:
+ Formato  IE 8  Firefox 3.5  Opera 10.5  Chrome 3.0  Safari 3.0     Ogg Vorbis   Não   Sim   Sim   Sim   Não     MP3   Não   Não   Não   Sim   Sim     Wav   Não   Sim   Sim   Não   Sim    Como no caso dos vídeos, ainda é um problema termos um formato que funcione com sucesso em todos os browsers.</description>
+    </item>
+    
+    <item>
+      <title>Sections: seções do HTML5 – Parte 1</title>
+      <link>http://localhost/jhonny-roger/public/sections-html5/</link>
+      <pubDate>Thu, 23 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sections-html5/</guid>
+      <description>A estrutura de um site é dividida em diversas seções. Cada seção representa uma fatia do layout e também representa um grupo de conteúdo. Cada um destes grupos tem seu assunto específico. Nas minhas aulas eu costumava apresentar estas seções como seções mestres ou seções principais. Normalmente para descrever em HTML estas seções, usávamos a tag div. O elemento div é um elemento genérico que serve para criar DIVISÕES. Estas divisões não tinham significado semântico nenhum, não levavam nenhum tipo de informação &amp;#8220;extra&amp;#8221;, mas a nível de formatação resolvia nosso problema.</description>
+    </item>
+    
+    <item>
+      <title>Propriedade @font-face CSS – Fonts externas na web</title>
+      <link>http://localhost/jhonny-roger/public/font-face-fonts-externas-na-web/</link>
+      <pubDate>Tue, 30 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/font-face-fonts-externas-na-web/</guid>
+      <description>Tipografia na web sempre foi um sonho para todo designer. Alguns designers que trabalharam durante muito tempo com impressão se sentem presos com web por conta da limitação de escolha das fonts. A tipografia é parte importante na criação de peças gráficas e na web isso não poderia ser diferente. Mesmo assim, não havia uma maneira &amp;#8216;inteligente&amp;#8217; de utilizar uma fonts que não seja padrão do sistema operacional do usuário na criação de layouts para web.</description>
+    </item>
+    
+    <item>
+      <title>Colocar Rodapé fixo no fim da página</title>
+      <link>http://localhost/jhonny-roger/public/colocar-rodape-fixo-no-bottom/</link>
+      <pubDate>Tue, 12 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/colocar-rodape-fixo-no-bottom/</guid>
+      <description>Você já precisou ter o rodapé fixo no fim da página algum dia. Normalmente os clientes chatos acham feio aquele rodapé terminando no meio da página quando há pouco conteúdo. Há uma técnica no CSS que resolve isso. Não funciona no IE6, já aviso agora. Na verdade, tem um jeito de funcionar, mas não quero te acostumar mal. 🙂
+Lembrando que você pode fazer isso facilmente com JQuery.
+Suponha que você tenha o código HTML:</description>
+    </item>
+    
+    <item>
+      <title>jQuery é bom para designers</title>
+      <link>http://localhost/jhonny-roger/public/jquery-e-bom-para-designers/</link>
+      <pubDate>Tue, 05 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/jquery-e-bom-para-designers/</guid>
+      <description>&lt;p&gt;No começo da web JavaScript era considerado uma linguagem de programação completamente difícil e inútil. Afinal, depois de uma semana estudando a linguagem, o sujeito só conseguia escrever um script que validasse um formulário de contato que muitas vezes dava erro em outros browsers que não o Internet Explorer. Isso acontecia porque tanto o Netscape quanto o Browser azul tinha seus prórpios padrões de implementações de solução para o Javascript que era ainda estava engatinhando como linguagem.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Criando um Menu Horizontal com CSS</title>
+      <link>http://localhost/jhonny-roger/public/criando-um-menu-horizontal-com-css/</link>
+      <pubDate>Thu, 06 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-um-menu-horizontal-com-css/</guid>
+      <description>Se você não quiser ler, mas ver como fazer, assista um vídeo. Neste vídeo é mostrado como fazer um menu horizontal com CSS. E se quiser aprender mais, visite o Campus Online e cadastre-se grátis para ver vídeos sobre desenvolvimento web.
+Quer fazer um menu horizontal que seja fácil de personalizar e de fazer manutenção?
+Siga os passos abaixo e descubra como é fácil.
+Estrutura: Primeiramente faça um elemento NAV (antigamente usaríamos a tag DIV) e atribua um ID.</description>
+    </item>
+    
+    <item>
+      <title>Escrevendo um XHTML válido</title>
+      <link>http://localhost/jhonny-roger/public/escrevendo-um-xhtml-valido/</link>
+      <pubDate>Thu, 06 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/escrevendo-um-xhtml-valido/</guid>
+      <description>Acho que todos já ouviram falar de Web Semântica, para quem não ouviu, em poucas palavras é: Um projeto para organizar e estruturar a informação da WEB.
+Ter uma Web com as suas informações todas &amp;#8220;organizadas&amp;#8221; é extremamente importante, isso facilita uma busca pela Web por informações mais precisas.
+Para que seu arquivo possa ser lido por máquinas além de humanos é muito importante que você escreva um XHTML válido, com isso você está fazendo com que as informações do seu site fique mais acessível para as buscas, contribuindo para o projeto e principalmente melhorando as visitas do seu site.</description>
+    </item>
+    
+    <item>
+      <title>O Caminho Suave para o Tableless</title>
+      <link>http://localhost/jhonny-roger/public/o-caminho-suave-para-o-tableless/</link>
+      <pubDate>Thu, 06 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-caminho-suave-para-o-tableless/</guid>
+      <description>A maior parte dos desenvolvedores web, designers ou programadores, começaram antes do surgimento dos movimentos em prol dos padrões web, usando tabelas para montar layouts em editores WYSIWYG, e ainda hoje este método é usado na maioria dos projetos de internet. Logo, é natural que muita gente, ao começar a entender o valor dos padrões, se pergunte como migrar do desenvolvimento &amp;#8220;tradicional&amp;#8221; para o desenvolvimento de código semanticamente coerente.</description>
+    </item>
+    
+    <item>
+      <title>Video Tutorial #9 – Implementando a home de um site</title>
+      <link>http://localhost/jhonny-roger/public/video-tutorial-9-criando-a-home-da-visie-css/</link>
+      <pubDate>Fri, 24 Mar 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/video-tutorial-9-criando-a-home-da-visie-css/</guid>
+      <description>Update: Você pode assistir mais video aulas como essa no Campus Online. Vídeos grátis de Tableless e Javascript.
+Esse Video Tutorial mostra o processo de aplicação de CSS em cima da estrutura HTML criada no Video Tutorial #8.
+UPDATE: Se alguém quiser baixar o vídeo, só clicar nesse link. O arquivo está em formato Rar (rarlab.com).
+O vídeo tem uma hora de duração, portanto esteja preparado. Meus comentários não foram muito incisivos porque eu não fiz o audio durante gravação.</description>
+    </item>
+    
+    <item>
+      <title>Arrumando a casa</title>
+      <link>http://localhost/jhonny-roger/public/arrumando-a-casa/</link>
+      <pubDate>Thu, 15 Dec 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/arrumando-a-casa/</guid>
+      <description>Estamos muito felizes com a mudança, ainda mais depois de tantos comentários de vocês. Obrigado pelo feedback, é muito gratificante escrever assim.
+Como numa mudança real, algumas coisas ficam dentro das caixas até que alguém dê pela falta delas. Obrigado também por sua paciência. Aos poucos estamos colocando todo o conteúdo de volta.
+Agora foi a vez do Tutorial Tableless Básico, um dos primeiros estudos que escrevi aqui para o Tableless.</description>
+    </item>
+    
+    <item>
+      <title>Tutorial Tableless Básico em HTML5 – Layout de 3 colunas</title>
+      <link>http://localhost/jhonny-roger/public/tutorial-tableless/</link>
+      <pubDate>Wed, 14 May 2003 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tutorial-tableless/</guid>
+      <description>Aqui está! Aprenda agora a construir sites acessíveis em qualquer navegador ou dispositivo, leves, que carregam extremamente rápido, e ganhe muito tempo de desenvolvimento e manutenção.
+São dois vídeos que explicam a implementação HTML e o CSS de um layout básico. Aproveite!
+Implementação HTML de um layout básico
+Implementação CSS do layout
+O arquivos para você tentar você mesmo estão aqui.
+Quer ver mais vídeos sobre desenvolvimento web? Visite nosso Campus Online.</description>
+    </item>
+    
+  </channel>
+</rss>

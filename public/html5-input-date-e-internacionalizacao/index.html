@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245843">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      <p>Alguns navegadores como Chrome, Edge e Safari já começaram a suportar o elemento <input type=&#8221;date&#8221;> com sua nova propriedade valueAsDate. Ao invés de utilizar bibliotecas para exibição de calendário e até mesmo para tratamento de datas com internacionalização, sugiro adotar estes novos recursos HTML5 com pequenos fallbacks para navegadores que não suportam.</p>
+
+<h3 style="text-align: left;">
+  Elemento <input type=&#8221;date&#8221;>
+</h3>
+
+<p>Este novo elemento dispensa apresentação. Sua grande vantagem é a excelente usabilidade e internacionalização automática. Veja como fica a apresentação deste elemento no Android 5:</p>
+
+<p><a href="http://tableless.com.br/uploads/2015/08/inputdateandroid.png"><img class="  wp-image-50884 aligncenter" src="http://tableless.com.br/uploads/2015/08/inputdateandroid.png" alt="inputdateandroid" width="198" height="352" /></a></p>
+
+<h3 style="text-align: left;">
+  <strong>Propriedade valueAsDate:</strong>
+</h3>
+
+<p>Esta propriedade é a grande sacada para não termos que fazer o parse manual do texto digitado para convertê-lo para objeto Date. Caso o texto digitado ou selecionado através do calendário seja uma data válida, esta propriedade irá retornar a data num objeto e caso o texto não seja uma data a propriedade irá retornar o valor null.</p>
+
+<p>Está fácil demais, é só usar o elemento input com tipo Date e obter ou setar o valor da data pela propriedade valueAsDate. Nem preciso me preocupar com internacionalização, que já é oferecida pelo próprio navegador compatível com ECMAScript Internationalization API(ECMA 402)&#8230; é quase isso&#8230; &#8220;Rapadura é doce mas não é mole&#8221; por dois motivos:</p>
+
+<p>Motivo 1) O objeto Date do JavaScript pode representar datas tanto no formato GMT quanto UTC;</p>
+
+<p>Motivo 2) ECMA 402 é bem recente sendo suportada navegadores superiores a &#8220;Chome 24, Firefox 29, IE 11, Opera 15&#8221; ;</p>
+
+<p>Ambos os problemas podem ser solucionados com um pequeno entendimento de como o objeto Date trabalha, assim como pequenos fallbacks para navegadores que não suportam ECMA 402.</p>
+
+<h3 style="text-align: left;">
+  Date &#8211; GMT e UTC
+</h3>
+
+<p>Quando executamos a operação new Date() ou trabalhamos com serialização e desserialização (JSON.parse() e JSON.stringify()), o padrão é GMT (com timezone). Quando usamos o método Date.UTC() conseguimos construir um objeto no padrão UTC (sem timezone). Então qual é a encrenca? Vamos usar tudo com timezone (inclusive no banco para não dar zica) e esqueço que existe este tal de método Date.UTC(). O problema, não consegui entender o motivo ainda, é que quando obtenho o valor do objeto valueAsDate ele vem no formato UTC (karaka véi!&#8230;.). O modo mais simples para tratar isso é continuar setando a propriedade valueAsDate com Date GMT, e ao recuperar o valor, construir um novo objeto Date para que ele esteja no formato GMT.</p>
+
+<pre>Ex: 
+dataGMT = new Date(dataUTC.getFullYear(),dataUTC.getMonth(),dataUTC.getDate())</pre>
+
+<p>Criei uma pequena demo com código fonte completo demonstrando esta operação em: <a href="http://codepen.io/rogeriodegoiania/pen/OVGWry" target="_blank"><a href="http://codepen.io/rogeriodegoiania/pen/OVGWry">http://codepen.io/rogeriodegoiania/pen/OVGWry</a></a></p>
+
+<h3 style="text-align: left;">
+  Método toLocaleDateString()
+</h3>
+
+<p>Este método faz mágica: ele consegue formatar uma data no formato local (Internacionalização)</p>
+
+<pre>console.log(new Date().toLocaleDateString())</pre>
+
+<p>Para navegadores que não suportam este método podemos criar este pequeno fallback</p>
+
+<pre>var isDateInvert = (function(){
+  var lang = window.navigator.userLanguage || window.navigator.language;
+  if (lang.substring(0,2) === "en"){
+    return true;
+  }
+  else{
+    return false;
+  }
+})();
+ 
+if (Date.prototype.toLocaleDateString === undefined){
+  Date.prototype.toLocaleDateString = function(){
+    if (isDateInvert){
+      return (this.getUTCMonth() + 1) + "/" + this.getUTCDate() + "/" + this.getFullYear();
+    }
+    else{
+      return this.getUTCDate() + "/" + (this.getUTCMonth() + 1) + "/" + this.getFullYear();
+    }
+  }
+}
+ 
+if (Date.prototype.toLocaleString === undefined){
+  Date.prototype.toLocaleString = function(){
+    return this;
+  }
+}</pre>
+
+<pre style="text-align: center;"></pre>
+
+<h3 style="text-align: left;">
+  <strong>Propriedade valueAsDate com defineProperty:</strong>
+</h3>
+
+<p>Para navegadores que não suportam a propriedade valueAsDate podemos criar um pequeno fallback através do método defineProperty suportado até pelo IE8. Para saber mais veja: <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty">https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty</a></p>
+
+<p>&nbsp;</p>
+
+<pre>var dataProperty = {
+  set : function (value) {
+    var dia, mes, ano;
+    if (value){
+      dia = value.getDate().toString();
+      if (dia.length === 1){
+        dia = "0" + dia;
+      }
+      mes = (value.getMonth() + 1).toString();
+      if (mes.length === 1){
+        mes = "0" + mes;
+      }
+      ano = value.getFullYear().toString();</pre>
+
+<pre>if (isDateInvert){
+        this.value = mes + "/" + dia + "/" + ano;
+      }
+      else{
+        this.value = dia + "/" + mes + "/" + ano;
+      }
+    }
+    else{
+      this.value = "";
+    }
+  },
+  get : function () {
+    var valueV;
+    var valueTimeStamp;
+    var dia, mes, ano;
+    try{
+      valueV = this.value.trim().split("/");
+      if(valueV.length === 3){
+        if (isDateInvert){
+          dia = valueV[1];
+          mes = valueV[0];
+          ano = valueV[2]; 
+        }
+        else{
+          dia = valueV[0];
+          mes = valueV[1];
+          ano = valueV[2];
+        }
+ 
+        if (dia.length === 1){
+          dia = "0" + dia;
+        }
+        if (mes.length === 1){
+          mes = "0" + mes;
+        }
+        valueTimeStamp = Date.parse(ano + '-' + mes + '-' + dia);
+        if (isNaN(valueTimeStamp)){
+          return null;
+        }
+        else{
+          return new Date(parseInt(ano), (parseInt(mes) - 1), parseInt(dia));
+        }
+      }
+      else{
+        return null;
+      }
+    }
+    catch(err){
+      return null;
+    }
+  }
+}
+ 
+if (HTMLInputElement.prototype.valueAsDate === undefined){
+  Object.defineProperty(HTMLInputElement.prototype, 'valueAsDate', dataProperty);
+}</pre>
+
+<p>Uma última atenção a ser tomada é em relação ao método Date.parse(). Dependendo do navegador, se o dia ou o mês não estiver no formato com duas casas o parse não é feito.</p>
+
+<p>Acredito que já seja possível utilizar os novos recursos da <strong>especificação</strong> de internacionalização HTML5 em alguns projetos, com pequenos fallbacks, ao invés de utilizar bibliotecas específicas de internacionalização, como globalize.js e moment.js.</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/indo-alem-no-react-native//?utm_source=tablelessRelatedLin">Indo além no Mundo React-Native</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/seu-primeiro-bot-para-o-telegram//?utm_source=tablelessRelatedLin">Seu primeiro bot para o Telegram</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/paginas_acessiveis_hatemile//?utm_source=tablelessRelatedLin">Páginas acessíveis com o HaTeMiLe</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245843"></script>

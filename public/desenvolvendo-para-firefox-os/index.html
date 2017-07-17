@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245853">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<h2 id="introdução">Introdução</h2>
+
+<p>Firefox OS é novo sistema operacional móvel desenvolvido pela Mozilla. Para nós desenvolvedores web ficou fácil criar aplicativos para aparelhos mobile, pois para desenvolver é utilizado apenas HTM5, CSS e JAVASCRIPT.</p>
+
+<p>Para testar seus aplicativos não precisa ter um smartphone com Firefox OS, basta baixar a extensão (Firefox OS Simulator) do Firefox disponível em Windows, Linux e MAC OS X.</p>
+
+<h2 id="colocando-em-pratica">Colocando em pratica</h2>
+
+<p>Primeiro passo é instalar a extensão Firefox OS Simulator em seu Firefox.</p>
+
+<p>Firefox OS Simulator &#8211; links para Download</p>
+
+<ul>
+<li>Windows &#8211; <a href="https://addons.mozilla.org/firefox/downloads/file/190978/firefox_os_simulator-2.0-fx-windows.xpi" target="_blank">download</a></li>
+<li>Linux &#8211; <a href="https://addons.mozilla.org/firefox/downloads/file/190986/firefox_os_simulator-2.0-fx-linux.xpi" target="_blank">download</a></li>
+<li>Mac OS X &#8211; <a href="https://addons.mozilla.org/firefox/downloads/file/190998/firefox_os_simulator-2.0-fx-mac.xpi" target="_blank">download</a></li>
+</ul>
+
+<h2 id="iniciando-firefox-os-simulator">Iniciando Firefox OS Simulator</h2>
+
+<p>Para abrir o Firefox OS Simulator procure a aba Ferramentas &gt; Desenvolvedor web &gt; Firefox OS Simulator. Uma aba será aberta com as informações do Firefox OS Simulator. Nesta aba você pode desligar e ligar o emulador e nela também são adicionados os aplicativos que serão instalados no emulador assim que iniciado. Para adicionar seus aplicativos, clique em Add diretory e localizar a pasta em que você desenvolveu seu aplicativo.</p>
+
+<h2 id="criando-uma-aplicação-para-firefox-os">Criando uma aplicação para Firefox OS</h2>
+
+<p>Para iniciar, crie uma pasta do seu projeto e nela ficarão os arquivos da sua aplicação. No meu caso willemallan. Dentro do diretório crie um arquivo manifest.webapp este arquivo contém as configurações do projeto como: nome, autor, versão, icones e outros dados importantes do aplicativo. Veja abaixo o exemplo do arquivo manifest.webapp.</p>
+
+<pre class="lang-html linenums">{
+    "version": "0.1",
+    "name": "Willem Allan",
+    "description": "Willem Allan - Blog posts",
+    "launch_path": "/index.html",
+    "icons": {
+        "16": "/imgs/icons/wi16.png",
+        "48": "/imgs/icons/wi48.png",
+        "128": "/imgs/icons/wi128.png"
+    },
+    "developer": {
+        "name": "Willem Allan",
+        "url": "http://willemallan.com.br"
+    },
+    "installs_allowed_from": ["*"],
+    "locales": {
+        "es": {
+            "description": "Willem Allan - Blog posts",
+            "developer": {
+                "url": "http://willemallan.com.br"
+            }
+        },
+        "it": {
+            "description": "Willem Allan - Blog posts",
+            "developer": {
+                "url": "http://willemallan.com.br"
+            }
+        }
+    },
+    "default_locale": "en"
+}</pre>
+
+<p>Analisando o código acima, perceba que possuem locais para definir a versão do aplicativo, nome e descrição. Logo após, repare que o launch_path aponta para /index.html, que é o primeiro arquivo a ser carregado quando o aplicativo for iniciado. Pode ser também definido os ícones em diversos tamanhos. Por último temos opções para os dados do desenvolvedor que também podem ser traduzidos em outros idiomas.</p>
+
+<h2 id="mão-na-massa">Mão na massa</h2>
+
+<p>Para iniciar crie um diretório da sua aplicação e em seguida crie um arquivo index.html e utilize o arquivo citado acima manifest.webapp alterando as configurações do seu projeto.</p>
+
+<p>O resultado final é uma pasta com o nome do projeto e dentro os arquivos index.html e manifest.webapp.</p>
+
+<p>Adicione um texto qualquer no arquivo index.html, pode ser o famoso hello world.</p>
+
+<pre class="lang-html linenums">&lt;html&gt;
+&lt;head&gt;
+    &lt;title&gt;Primeira aplicação Firefox OS&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;h1&gt;hello world!!! Primeira aplicação Firefox OS&lt;/h1&gt;
+&lt;/body&gt;
+&lt;/html&gt;</pre>
+
+<p>Para testar a aplicação é preciso ir na extensão do Firefox OS Simulator, Bashboard e adicionar a pasta do projeto &#8220;add directory&#8221;, depois inicie o emulador a aplicação será instalada e aparecerá nos aplicativos.</p>
+
+<ul>
+<li>github &#8211; exemplo de aplicação do Firefox OS: <a href="https://github.com/willemallan/tableless-firefox-os-example" target="_blank">link</a></li>
+<li>github page &#8211; <a href="http://willemallan.github.io/tableless-firefox-os-example/" target="_blank">link</a></li>
+</ul>
+
+<h2 id="saiba-mais">Saiba mais</h2>
+
+<ul>
+<li>Firefox OS Quick Start &#8211; <a href="https://marketplace.firefox.com/developers/docs/quick_start" target="_blank">link</a></li>
+<li>Desenvolva para Firefox OS sem um smartphone &#8211; <a href="https://marketplace.firefox.com/developers/docs/firefox_os_simulator" target="_blank">link</a></li>
+<li>Aplicativos de exemplo &#8211; <a href="https://marketplace.firefox.com/developers/docs/reference_apps" target="_blank">link</a></li>
+<li>Disponibilizando um aplicativo no Mozilla Marketplace &#8211; <a href="https://developer.mozilla.org/pt-BR/docs/Apps/Submitting_an_app" target="_blank">link</a></li>
+</ul>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/teste-de-carga-em-apis-utilizando-artillery//?utm_source=tablelessRelatedLin">Teste de carga em APIs utilizando Artillery</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/o-que-aprendi-em-5-dias-como-front-end--e-uma-pergunta-voce-esta-preparado-para-se-tornar-um-desenvolvedor//?utm_source=tablelessRelatedLin">O que aprendi em 5 dias como Front-end, e uma pergunta: você esta preparado para se tornar um desenvolvedor?</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245853"></script>

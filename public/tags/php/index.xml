@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Php on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/php/</link>
+    <description>Recent content in Php on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 12 Nov 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/php/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Upload de Arquivos com a Upin</title>
+      <link>http://localhost/jhonny-roger/public/upload-de-arquivos-com-upin/</link>
+      <pubDate>Sat, 12 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/upload-de-arquivos-com-upin/</guid>
+      <description>A Upin é uma biblioteca para manipulação de arquivos em PHP Orientado a Objetos, que visa facilitar a vida de programadores iniciantes ou até profissionais. Afinal, tempo é dinheiro não é mesmo?
+Para começar você deve baixar a versão mais atualizada da biblioteca nesta página.
+Após ter realizado o download da biblioteca copie a pasta class para dentro do diretório do seu projeto.
+Agora, com os arquivos da biblioteca em seu projeto, você deverá criar um formulário de upload semelhante ao abaixo:</description>
+    </item>
+    
+    <item>
+      <title>Criando aplicações portáveis entre diferentes SGBDs usando PDO(PHP Data Objects)</title>
+      <link>http://localhost/jhonny-roger/public/criando-aplicacoes-portaveis-entre-diferentes-sgbds-usando-pdophp-data-objects/</link>
+      <pubDate>Mon, 26 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-aplicacoes-portaveis-entre-diferentes-sgbds-usando-pdophp-data-objects/</guid>
+      <description>Quero apresentar nesse artigo as principais funcionalidades do PDO. PDO é uma biblioteca que implementa abstração ao acesso dos dados, ou seja, ela utiliza um driver específico, para cada SGBD (Sistema Gerenciador de Banco de Dados), tornando possível a portabilidade da base de dados de sua aplicação, sem que a mesma sofra danos ou que você passe horas e horas reescrevendo linhas e mais linhas de código.
+O primeiro passo é habilitar o driver do PDO no php.</description>
+    </item>
+    
+    <item>
+      <title>Acelere o carregamento de seu site com PHP Caching</title>
+      <link>http://localhost/jhonny-roger/public/acelere-o-carregamento-de-seu-site-com-php-caching/</link>
+      <pubDate>Thu, 07 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/acelere-o-carregamento-de-seu-site-com-php-caching/</guid>
+      <description>Criar um site dinâmico, de fácil manutenção e que carregue rápido é o desejo de todo desenvolvedor, mas para isso não existe uma fórmula mágica, é necessário conciliar diferentes ferramentas e técnicas. 
+Mas muitos desenvolvedores iniciantes em PHP não conhecem as soluções existentes ou tem medo da curva de aprendizado que os frameworks exigem.
+O foco desse artigo é mostrar para esses desenvolvedores como uma técnica simples, utilizando apenas comandos básicos do PHP, pode acelerar o carregamento de seu site e evitar que ele fique caindo.</description>
+    </item>
+    
+    <item>
+      <title>Novidade PHP 7 – Operador Null Coalesce</title>
+      <link>http://localhost/jhonny-roger/public/novidade-php-7-operador-null-coalesce/</link>
+      <pubDate>Fri, 19 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/novidade-php-7-operador-null-coalesce/</guid>
+      <description>Estou começando a estudar as features do PHP 7 e paralelamente irei escrever sobre elas. A primeira feature que vou falar é sobre o operador Null Coalescing.
+Este operador já existia em outras linguagens, como C# e Pearl. Eu achei muito interessante como ele melhora a legibilidade do código na checagem de variáveis.
+A lógica do operador é a seguinte: retornar o primeiro valor que exista e não seja nulo dentre os valores passados.</description>
+    </item>
+    
+    <item>
+      <title>Constant Array no PHP 7</title>
+      <link>http://localhost/jhonny-roger/public/constant-array-no-php-7/</link>
+      <pubDate>Thu, 18 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/constant-array-no-php-7/</guid>
+      <description>&lt;p&gt;Até o lançamento da versão do PHP 7, só era possível criar constantes com dados do tipo &lt;em&gt;inteiro&lt;/em&gt;, &lt;em&gt;float&lt;/em&gt;, &lt;em&gt;string&lt;/em&gt;, &lt;em&gt;boolean&lt;/em&gt;, ou &lt;em&gt;NULL&lt;/em&gt;, mas com o PHP 7 agora é possível criar constantes do tipo &lt;em&gt;array&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Instalando Laravel 5.2</title>
+      <link>http://localhost/jhonny-roger/public/instalando-laravel-5-2/</link>
+      <pubDate>Wed, 13 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/instalando-laravel-5-2/</guid>
+      <description>Neste artigo irei demonstrar como instalar e começar a utilizar o Laravel 5.2, framework que vem ganhando visibilidade no mercado.
+O que iremos utilizar: Composer   Requisitos do servidor: PHP versão maior ou igual a 5.5.9;  OpenSSL PHP Extension;  PDO PHP Extension;  Mbstring PHP Extension;  Tokenizer PHP Extension;   Instalando o Composer Na pasta onde localiza-se a aplicação, abra o terminal e digite: #Caso tenha o Curl instalado curl -s https://getcomposer.</description>
+    </item>
+    
+    <item>
+      <title>Usando GIT para atualizar arquivos no servidor de hospedagem II – Final</title>
+      <link>http://localhost/jhonny-roger/public/usando-git-para-atualizar-arquivos-no-servidor-de-hospedagem-ii-final/</link>
+      <pubDate>Thu, 19 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/usando-git-para-atualizar-arquivos-no-servidor-de-hospedagem-ii-final/</guid>
+      <description>Esta é a segunda e última parte do artigo que explica como fazer um esquema simples para deploy automático usando GIT + Bitbucket
+A mesma configuração pode ser usada em qualquer servidor GIT e qualquer serviço de hospedagem que tenha acesso via ssh e git instalado
+Se você ainda não leu a primeira parte, segue o link: http://tableless.com.br/usando-git-para-atualizar-arquivos-no-servidor-de-hospedagem
+No artigo anterior, criamos as chaves SSH para autenticação no Bitbucket, criamos um repositório GIT e manualmente executamos o comando | git pull | para atualizar o nosso repositório.</description>
+    </item>
+    
+    <item>
+      <title>10 novidades do PHP 7</title>
+      <link>http://localhost/jhonny-roger/public/10-novidades-do-php-7/</link>
+      <pubDate>Tue, 29 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/10-novidades-do-php-7/</guid>
+      <description>O PHP 7 está prestes a ser lançada oficialmente, até o final deste ano de 2015.
+A versão Release Candidate (RC) do PHP 7 foi lançada no dia 21 de agosto. Sendo uma versão RC, não haverá implementações novas no PHP 7.0, apenas correções de bugs.
+Vou apresentar aqui algumas novidades e recursos novos desta versão do PHP.
+1. Desempenho Fantástico O PHP 7 teve seu motor remodelado. Com isso, houve um grande ganho de desempenho.</description>
+    </item>
+    
+    <item>
+      <title>Formulário de e-mail e envio com PHP</title>
+      <link>http://localhost/jhonny-roger/public/formulario-de-e-mail-e-envio-com-php/</link>
+      <pubDate>Tue, 18 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/formulario-de-e-mail-e-envio-com-php/</guid>
+      <description>Há anos atrás, quando queríamos colocar um formulário de e-mail em nosso site, simplesmente pegávamos um script em Perl que funcionava, mas não fazíamos ideia de como as coisas aconteciam por trás. Neste post demonstrarei que é muito simples fazer a mesma coisa em PHP. Perceba que o foco é principalmente no PHP, e não necessariamente na validação do formulário ou CSS, embora usaremos algumas boas práticas de validação.</description>
+    </item>
+    
+    <item>
+      <title>Utilizando a API do bit.ly para gerar links encurtados para seus posts WordPress</title>
+      <link>http://localhost/jhonny-roger/public/utilizando-api-bit-ly-para-gerar-links-encurtados-para-seus-posts-wordpress/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/utilizando-api-bit-ly-para-gerar-links-encurtados-para-seus-posts-wordpress/</guid>
+      <description>Todo mundo sabe que é fundamental criar links de compartilhamento no seu artigo, só que no Twitter isso se restringe a 140 caracteres, e ao enviar o título do seu artigo, URL e seu usuário no Twitter pode faltar espaço. E para economizar espaço fazemos o quê? Uma das táticas é utilizar links curtos através de serviços como o bit.ly. Como tudo na programação, criamos uma maneira de automatizar nossas ações e para isso vamos ao código!</description>
+    </item>
+    
+    <item>
+      <title>Rotas dinâmicas no Silex</title>
+      <link>http://localhost/jhonny-roger/public/silex-rotas-dinamicas/</link>
+      <pubDate>Mon, 13 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/silex-rotas-dinamicas/</guid>
+      <description>Continuando nossa jornada sobre o Silex Framework, neste post falarei sobre rotas dinâmicas. Se você não está familiarizado com o Silex, confira nosso primeiro post _Conhecendo e instalando o Silex_.
+Rotas dinâmicas são a possibilidade de passar parâmetros nas rotas da sua aplicação. O Silex possui diversos métodos para facilitar o uso dessa dinâmica em suas rotas.
+Utilização Para tornar sua rota dinâmica, veja o código abaixo:
+&amp;lt;?php use Silex\Application; require &#39;vendor/autoload.</description>
+    </item>
+    
+    <item>
+      <title>7 funções essenciais do PHP que você deve conhecer</title>
+      <link>http://localhost/jhonny-roger/public/7-funcoes-essenciais-php-que-voce-deve-conhecer/</link>
+      <pubDate>Fri, 03 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/7-funcoes-essenciais-php-que-voce-deve-conhecer/</guid>
+      <description>range() Geralmente ao se fazer um &amp;#8220;loop&amp;#8220;, utiliza-se o _while _ou for. Ambas estruturas são ligeiramente &amp;#8220;feias&amp;#8221; ao visualizar o código. Uma boa alternativa é utilizar o foreach. Mas como fazer uma repetição, se o foreach trabalha com um array existente?
+No exemplo vamos fazer um loop de 5 posições, começando do número 1.
+&amp;lt;?php foreach (range(1,5) as $ordem) { print(&#39;Ordem : &#39;.$ordem.&#39;&amp;lt;br&amp;gt;&#39;); } //Resultado //Ordem: 1 //Ordem: 2 //Ordem: 3 //Ordem: 4 //Ordem: 5  array_unique() Diversas vezes nos deparamos com um array e valores duplicados.</description>
+    </item>
+    
+    <item>
+      <title>Conhecendo e instalando o Silex</title>
+      <link>http://localhost/jhonny-roger/public/conhecendo-e-instalando-o-silex/</link>
+      <pubDate>Tue, 30 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/conhecendo-e-instalando-o-silex/</guid>
+      <description>O Silex é um micro framework baseado nos componentes do Symfony. Foi desenvolvido por Fabien Potencier, o mesmo criador do Symfony.
+O Silex foi concebido para a criação de aplicações pequenas com foco na agilidade, extensibilidade e para ser facilmente testável. Ele provê um sistema de rotas muito poderoso, e se propõe a resolvê-las através dos Services e Providers, conceitos que veremos mais à frente. Você perceberá que ele é facilmente estendido e suas funcionalidades recebem uma vantagem através dessas integrações.</description>
+    </item>
+    
+    <item>
+      <title>Porque o Codeigniter ainda é uma boa opção</title>
+      <link>http://localhost/jhonny-roger/public/porque-codeigniter-ainda-e-uma-boa-opcao/</link>
+      <pubDate>Fri, 26 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/porque-codeigniter-ainda-e-uma-boa-opcao/</guid>
+      <description>O que é Codeigniter? O Codeigniter é um framework para desenvolvimento web baseado na arquitetura MVC. Se você não sabe o que significa MVC ou não entende bem o seu funcionamento poderá encontrar maiores informações neste post do Tableless.
+Este framework apresenta uma estrutura que lhe permite de forma rápida fazer uso de bibliotecas para ganhar tempo e aproveitar a reutilização de código. Entenda este framework como um kit de ferramentas que tornarão seu ambiente de desenvolvimento ainda mais rápido.</description>
+    </item>
+    
+    <item>
+      <title>Entendendo o padrão MVC na prática</title>
+      <link>http://localhost/jhonny-roger/public/entendendo-o-padrao-mvc-na-pratica/</link>
+      <pubDate>Thu, 25 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/entendendo-o-padrao-mvc-na-pratica/</guid>
+      <description>&lt;p&gt;Práticas modernas do PHP exigem estudo e preparação, e o padrão de projeto que merece muita atenção é o MVC. Muita gente conhece este padrão através dos &lt;em&gt;frameworks&lt;/em&gt; (isso não é um problema, eu mesmo estou neste grupo), mas ir a fundo é essencial para evitar erros e falar coisas como:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Seu MVC está errado, o &lt;em&gt;controller&lt;/em&gt; está maior que o &lt;em&gt;model&lt;/em&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Este erro de definição acontece pois em nenhum lugar está escrito que a quantidade de linhas define o padrão MVC, mas vamos entender isto melhor?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Formulário sem Model no CakePHP 3.x</title>
+      <link>http://localhost/jhonny-roger/public/formulario-sem-model-no-cakephp-3-x/</link>
+      <pubDate>Tue, 16 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/formulario-sem-model-no-cakephp-3-x/</guid>
+      <description>Requisitos do artigos:
+&amp;#8211; Ter o CakePHP 3 instalado ( Artigo de como instalar o Cakephp 3.x)
+O que aprenderemos:
+ Como trabalhar com formulários que não necessitam de um Model. Criar uma página de contato.  Formulários Na maioria das vezes, trabalhamos com formulários relacionados a um Model para persistir dados. Outras vezes precisamos validar os dados de um formulário onde não há persistência, como é no caso de um Formulário de Contato.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2 – Parte Final</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-final/</link>
+      <pubDate>Tue, 16 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-final/</guid>
+      <description>Chegamos ao final da nossa série sobre Symfony. Se você não leu os outros, no final do artigo há uma listagem com todos os artigos já publicados dessa série.
+No tutorial anterior, instalamos e configuramos o bundle StofDoctrineExtensionsBundle, para fazermos os slugs de nossos posts, agora vamos instalar e configurar o Bundle FOSUserBundle, para fazer a autenticação da área administrativa do nosso blog.
+Instalação do bundle FOSUserBundle. Para instalar o FOSUserBundle, temos que adicioná-lo em nosso composer.</description>
+    </item>
+    
+    <item>
+      <title>Instalando o CAKEPHP 3.0 via Composer</title>
+      <link>http://localhost/jhonny-roger/public/instalando-o-cakephp-3-0-via-composer/</link>
+      <pubDate>Sun, 07 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/instalando-o-cakephp-3-0-via-composer/</guid>
+      <description>Requisitos do tutorial:
+ PHP instalado e configurado Ambiente Linux  No dia 22/03/2015 foi disponibilizado para download no site do CakePHP a versão 3.0 do framework para PHP CakePHP. Já utilizamos a versão 2.x em projetos aqui na empresa e tivemos bons resultados.
+Com o lançamento desta nova versão, muita coisa mudou: um novo ORM foi lançado; o uso de namespaces foi adotado; entre outras features que iremos abordar em outras publicações.</description>
+    </item>
+    
+    <item>
+      <title>Templates Joomla!: o básico e relações com o WordPress</title>
+      <link>http://localhost/jhonny-roger/public/templates-joomla-o-basico-e-relacoes-com-o-wordpress/</link>
+      <pubDate>Mon, 25 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/templates-joomla-o-basico-e-relacoes-com-o-wordpress/</guid>
+      <description>Ao lado do WordPress, o Joomla! é sem dúvida um dos melhores CMS que existem atualmente. Como o amigo Girlan bem já escreveu noutro artigo, o Joomla! tem se superado muito a cada versão&amp;nbsp;e, desta perspectiva, torna-se mais que vantajoso ao desenvolvedor front-end dominar a criação de temas tanto para&amp;nbsp;o WordPress quanto para o Joomla!.
+A boa notícia é que se você já sabe&amp;nbsp;criar temas para o WordPress, você praticamente já&amp;nbsp;sabe criar&amp;nbsp;templates para o Joomla!</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2 – Parte 09</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-09/</link>
+      <pubDate>Sun, 24 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-09/</guid>
+      <description>No tutorial anterior, instalamos e configuramos o bundle Knp Paginator, para fazer a paginação de posts em nosso index, agora vamos instalar e configurar o Bundle StofDoctrineExtensionsBundle, para fazermos os slugs de nossos posts
+Instalação do bundle StofDoctrineExtensionsBundle Para instalar o StofDoctrineExtensionsBundle, temos que adicioná-lo em nosso composer.json. Abra o arquivo composer.json e adicione a linha abaixo:
+&#34;stof/doctrine-extensions-bundle&#34;: &#34;1.2.*@dev&#34;  Depois de adicionando o StofDoctrineExtensionsBundle no composer, vamos instalá- lo.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2 – Parte 08</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-08/</link>
+      <pubDate>Tue, 28 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-08/</guid>
+      <description>No tutorial anterior, criamos um upload de imagens para servirem de capa para nossos posts, agora vamos instalar e configurar um Bundle, disponibilizado pela comunidade, para fazer a paginação de nossa página index. Para isso temos que instalar o Knp Paginator em nossa aplicação.
+Instalação do Knp Paginator Para instalar o Knp Paginator, temos que adicioná-lo em nosso composer.json. Abra o arquivo composer.json e adicione a linha abaixo:
+&#34;knplabs/knp-paginator-bundle&#34;: &#34;</description>
+    </item>
+    
+    <item>
+      <title>Você conhece o Framework brasileiro Maestro?</title>
+      <link>http://localhost/jhonny-roger/public/voce-conhece-o-framework-brasileiro-maestro/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/voce-conhece-o-framework-brasileiro-maestro/</guid>
+      <description>Aqui em nossa Universidade tivemos o privilégio de poder construir um framework quase que do zero, adaptado inicialmente às nossas necessidades. Tínhamos como desafio criar uma ERP acadêmica, caminho este que temos percorrido desde 2002. São quase 13 anos de muita experiência e dedicação, e neste ano de 2015 estamos contribuindo (ou tentando) disponibilizando o framework para a comunidade. Sabemos que não basta apenas disponibilizar o código fonte, mas precisamos também criar artigos e prover suporte para que todos possam se beneficiar deste framework.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2 – Parte 07</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-07/</link>
+      <pubDate>Fri, 10 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-07/</guid>
+      <description>No tutorial anterior, estilizamos nossas páginas, index e show, e incluímos um imagem para apresentar nossos posts no index, porém colocamos esta imagem pelo código fonte, agora vamos fazer algumas configurações, para que, na criação dos posts, tenha a opção de fazer o upload de uma imagem, para ser apresentada como capa de nossos posts.
+Configurando a entidade Post Para criarmos um upload de imagem, vamos usar o componente http-foundation do Symfony, e usar sua classe UploadedFile em nossa entidade Post.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2 – Parte 06</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-06/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-06/</guid>
+      <description>No tutorial anterior, configuramos nosso projeto e criamos nossas páginas, home e show, porém as mesmas se encontram sem estilização, neste tutorial, vamos apenas estruturar nossas páginas de um modo simples e básico, porém funcional. Não entrarei em detalhes sobre o Bootstrap, não é meu objetivo, porém para iniciantes, recomendo a documentação.
+Sobre o Twig, falarei o básico do básico, somente o que vamos usar. Lembrando que ele já vem instalado e configurado no Symfony, porém podemos instalá-lo separadamente via Composer e configurá- lo em outros projetos, usando ou não outros frameworks.</description>
+    </item>
+    
+    <item>
+      <title>CakePHP convenções de nomenclatura e o poderoso Inflector!</title>
+      <link>http://localhost/jhonny-roger/public/cakephp-convencoes-de-nomenclatura-e-o-poderoso-inflector/</link>
+      <pubDate>Thu, 19 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/cakephp-convencoes-de-nomenclatura-e-o-poderoso-inflector/</guid>
+      <description>Geralmente eu tenho problemas para encontrar os nomes corretos para os meus controllers, views, models e tabelas. Talvez a tarefa mais difícil de todo programador seja nomear as coisas. Quem nunca ficou indeciso por causa do nome de uma função ou de uma variável? Eu busco sempre permanecer o projeto todo em inglês.
+Bem, CakePHP faz um monte de trabalho tedioso e repetitivo para você, para que você possa se concentrar melhor nas regras do negocio.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2 – Parte 05</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-05/</link>
+      <pubDate>Thu, 19 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-05/</guid>
+      <description>No tutorial anterior, criamos a entidade Author, e fizemos o relacionamento com os posts, neste tutorial vamos fazer as configurações adequadas para que possamos deixar nossa aplicação estruturada corretamente, e vamos criar e configurar a página index, onde os usuários terão acesso para visualizar e ler os posts.
+Configurando Vamos começar com as configurações.
+Entrando no bundle CoreBundle, caminho: src/Tableless/CoreBundle, exclua a pasta Controller.
+
+Ainda neste mesmo bundle vamos excluir a pasta view, caminho: src/Tableless/CoreBundle/Resources/view.</description>
+    </item>
+    
+    <item>
+      <title>Funções extras para tratamento de Strings no PHP</title>
+      <link>http://localhost/jhonny-roger/public/funcoes-extras-para-tratamento-de-strings-no-php/</link>
+      <pubDate>Mon, 09 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/funcoes-extras-para-tratamento-de-strings-no-php/</guid>
+      <description>Como o projeto já estava atrasado, decidi que seria melhor continuar pesquisando alguma alternativa para resolver o problema da &amp;#8220;limpagem&amp;#8221; de strings, então encontrei a biblioteca URLify for PHP
+A principio ele é uma classe simples em PHP com as funcionalidades que não são nativas do PHP, porém são uma mão na roda na hora de trabalhar com strings em projetos grandes, onde não existe tempo para o dev criar do zero (muito menos testá-los sem perder o foco do problema que realmente importa).</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2 – Parte 04</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-04/</link>
+      <pubDate>Wed, 04 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-04/</guid>
+      <description>Anteriormente, criamos a entidade Post, vamos dar continuidade ao nosso simples projeto, criando uma entidade Author, faremos o relacionamento para que cada autor fique ligado ao post que criou.
+Criando a entidade Author Vamos criar a entidade Author, entre no terminal e digite:
+$ php app/console generate:doctrine:entity  Vamos digitar o nome da entidade como : TablelessModelBundle:Author.
+$ The Entity shortcut name: TablelessModelBundle:Author  Vamos mapeá-la usando annotation. Apenas damos enter.</description>
+    </item>
+    
+    <item>
+      <title>Múltiplas galerias de fotos dinâmicas com Fancybox, Ajax e JSON</title>
+      <link>http://localhost/jhonny-roger/public/multiplas-galerias-de-fotos-dinamicas-com-fancybox-ajax-e-json/</link>
+      <pubDate>Fri, 27 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/multiplas-galerias-de-fotos-dinamicas-com-fancybox-ajax-e-json/</guid>
+      <description>Introdução Ano passado trabalhei em um projeto que era um concurso de fotografia online, o Prix Photo Web, onde cada fotógrafo podia se cadastrar, fazer upload de suas fotos e concorrer a um prêmio.
+O site tinha uma página de galeria, onde se podia ver os diversos trabalhos publicados a partir de thumbnails.
+Eu havia pego o código já quase todo pronto, mas resolvi atualizar algumas coisas e uma delas foi a tal galeria.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2 – Parte 03</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-03/</link>
+      <pubDate>Wed, 18 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-03/</guid>
+      <description>Dando continuidade ao tutorial anterior, vamos continuar usando o componente console do Symfony, agora criaremos uma entidade, para acessar o banco de dados, usando o Doctrine ORM.
+Banco de dados com Doctrine ORM Quando falamos de banco de dados em projetos com Symfony, estamos falando de Doctrine ORM (Object Relational Mapper), onde criamos uma camada de persistência entre a aplicação e um banco de dados, que mapeia nossas tabelas com entidades, para que possamos acessar o banco.</description>
+    </item>
+    
+    <item>
+      <title>Assinatura de newsletter com PHP integrada à API do Mailchimp</title>
+      <link>http://localhost/jhonny-roger/public/assinatura-de-newsletter-com-php-integrada-a-api-do-mailchimp/</link>
+      <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/assinatura-de-newsletter-com-php-integrada-a-api-do-mailchimp/</guid>
+      <description>O Mailchimp tem uma API bem completa. Arrisco dizer que é possível fazer uma interface com muitas das funcionalidades de gerenciamento de listas, envios, etc usando a API — fica a dica para quem quiser desenvolver uma aplicação explorando alguma lacuna que o painel do Mailchimp deixa a desejar.
+Eu sabia da existência da API faz algum tempo, mas usava uma função simples de exportação de CSV em alguns projetos.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2 – Parte 02</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-02/</link>
+      <pubDate>Mon, 09 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-02/</guid>
+      <description>Depois de já instalado o Symfony 2, como postado no artigo anterior que escrevi, vamos avançar nosso processo criando um simples blog.
+É claro que o Symfony é para projetos maiores, mas para efeito de didática, achei um bom começo, espero que gostem.
+Bundle o coração do symfony O Symfony trabalha com bundle (pacote), que é um conjunto de códigos que pode ser reutilizado em outros projetos. Simplificando: são componentes prontos, que facilitam nossa vida na hora de desenvolver.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2/</link>
+      <pubDate>Wed, 21 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2/</guid>
+      <description>O symfony é um framework fullstack de aplicações web para as necessidades de alto desempenho, é um conjunto de componentes PHP, para grandes e avançados projetos, porém podemos instalar seus componentes separadamente em casos de projetos menores. É muito respeitado pela comunidade, não é apenas um Framework popular, mas também é uma das melhores plataformas para construir projetos Open-Source. Muitos projetos PHP estão incorporando alguns dos componentes ou estão usando o framework full-stack, projetos como Drupal, Laravel, entre outros, veja a lista.</description>
+    </item>
+    
+    <item>
+      <title>Upload de arquivos com PHP</title>
+      <link>http://localhost/jhonny-roger/public/upload-de-arquivos-com-php/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/upload-de-arquivos-com-php/</guid>
+      <description>Neste artigo vamos aprender como fazer upload de arquivos com PHP. Porém, com alguns recursos adicionais em cada exemplo.
+No primeiro exemplo, iremos fazer um upload básico de apenas um arquivo, assim conseguimos pegar o jeito da coisa.
+No segundo exemplo, vamos fazer um upload de múltiplas imagens, e utilizaremos a classe WideImage para tratá-las (redimensionar, cortar e salvar).
+E por fim, no último exemplo, vamos fazer o upload por AJAX, utilizando o Jquery Form Plugin.</description>
+    </item>
+    
+    <item>
+      <title>PHP Slim Framework</title>
+      <link>http://localhost/jhonny-roger/public/php-slim-framework/</link>
+      <pubDate>Wed, 04 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/php-slim-framework/</guid>
+      <description>O Slim Framework é um microframework PHP que facilita sua vida na hora de fazer pequenas APIs.
+Vou falar sobre um problema que tive em um projeto em uma empresa que trabalho. Lá eu codifico com diferentes linguagens de programação em pequenos sistemas. Esses sistemas precisam ser acessados por 3 filiais e os usuários se logam com o mesmo login usado no E.R.P. que eles utilizam.
+Para simplificar meu trabalho resolvi criar uma API simples para autenticar os usuários.</description>
+    </item>
+    
+    <item>
+      <title>Criando uma galeria de imagens com administração em CakePHP, Fancybox e WideImage)</title>
+      <link>http://localhost/jhonny-roger/public/criando-uma-galeria-de-imagens-com-administracao-em-cakephp-fancybox-e-wideimage/</link>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-uma-galeria-de-imagens-com-administracao-em-cakephp-fancybox-e-wideimage/</guid>
+      <description>Eu sou da opinião que todo bom desenvolvedor frontend tem que ter pelo menos uma noção de backend, e o contrário também tem que acontecer, é comum as pessoas virem me perguntar como que faz pra fazer o Fancybox funcionar no CakePHP, ou como que eu integro um plugin para Jquery no site, puxa, a maioria das vezes é adicionar um seletor, chamar o javascript no Html e configurar de acordo com a documentação, vamos ver se simplifico pra vocês.</description>
+    </item>
+    
+    <item>
+      <title>Composer – um pouco além do básico</title>
+      <link>http://localhost/jhonny-roger/public/composer-um-pouco-alem-basico/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/composer-um-pouco-alem-basico/</guid>
+      <description>No post anterior expliquei o que vem a ser o composer, como baixar, criar o arquivo de configurações e instalar pacotes ou bibliotecas. Agora veremos algumas questões um pouco mais avançadas sobre o uso do composer.
+Instalação global O composer suporta instalação global para que seja utilizado apenas um &amp;#8220;executável&amp;#8221; para todo e qualquer projeto. Usei o termo executável pois refere-se ao composer.phar, que como explicado no post anterior é uma forma de empacotamento no PHP que transforma a aplicação toda em um único arquivo que é facilmente executável em qualquer local de seu sistema operacional.</description>
+    </item>
+    
+    <item>
+      <title>Composer para iniciantes</title>
+      <link>http://localhost/jhonny-roger/public/composer-para-iniciantes/</link>
+      <pubDate>Tue, 18 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/composer-para-iniciantes/</guid>
+      <description>Composer é uma ferramenta para gerenciamento de dependências para o PHP que vem ganhando espaço e se tornando cada vez mais indispensável. Com algumas poucas linhas de configurações você define todas as bibliotecas de terceiros ou mesmo suas que deseja/precisa utilizar em seu projeto, o composer encarrega-se de baixá-las e criar um autoloader deixando-as prontas para uso.
+Para muitos o composer ainda é um mistério então o intuito deste post é mostrar ao usuário que ainda não conhece como baixar, configurar e utilizar o composer de forma básica.</description>
+    </item>
+    
+    <item>
+      <title>Introdução ao Behavior Driven Development</title>
+      <link>http://localhost/jhonny-roger/public/introducao-ao-behavior-driven-development/</link>
+      <pubDate>Fri, 21 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-ao-behavior-driven-development/</guid>
+      <description>O BDD (Behavior Driven Development ou Desenvolvimento guiado por comportamento), é uma resposta ao TDD, criado em 2003, por Dan North, e tem se expandido bastante nos últimos anos. Seu foco é obter um código testado a partir de um conjunto de cenários que descrevem como a aplicação ou unidade de código deverá se comportar em determinada situação.
+As práticas de BDD incluem:  Envolver as partes interessadas no processo através de Outside-in Development Usar linguagem ubíqua para descrever o comportamento de uma aplicação Automatizar os exemplos para provê um feedback rápido e testes de regressão Usar SHOULD na hora de descrever o comportamento de software para ajudar esclarecer responsabilidades e permitir que funcionalidades do software sejam questionadas Usar dublês de teste (mocks, stubs, fakes, dummies, spies) para auxiliar na colaboração entre módulos e códigos que ainda não foram escritos  E&amp;#8230; O grande lance do BDD, é que nos trabalhamos com comportamentos de uma maneira que</description>
+    </item>
+    
+    <item>
+      <title>Otimizando e organizando seu front-end com PHP</title>
+      <link>http://localhost/jhonny-roger/public/otimizando-e-organizando-seu-front-end-com-php/</link>
+      <pubDate>Sun, 28 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/otimizando-e-organizando-seu-front-end-com-php/</guid>
+      <description>Não é de hoje que se fala em otimização e organização de scripts. Não há dor de cabeça maior para um desenvolvedor back-end receber uma marcação HTML bagunçada e sem padronização. Isso é mais comum do que imaginamos e nem sempre é por falta de conhecimento ou preguiça. O maior fator é o curto tempo para finalizar os projetos.
+A ideia desse post é justamente auxiliar os desenvolvedores a criarem um núcleo de código no PHP para reaproveitá-lo diversas vezes, como se fosse um módulo.</description>
+    </item>
+    
+    <item>
+      <title>Bloginfo Template Tag</title>
+      <link>http://localhost/jhonny-roger/public/bloginfo-template-tag/</link>
+      <pubDate>Thu, 21 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/bloginfo-template-tag/</guid>
+      <description>&lt;p&gt;A &lt;a href=&#34;http://tableless.com.br/bloginfo-template-tag/&#34;&gt;Template Tag Bloginfo&lt;/a&gt; mostra informações sobre o blog. A maioria dessas informações são modificadas diretamente no painel de controle da sua instalação do WordPress. Isso pode ser utilizado em qualquer lugar do seu site. A Template Tag é a &lt;strong&gt;get_bloginfo()&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Por exempo, se você precisa do nome do site para colocar em algum lugar do site, como o Logo, a sintaxe seria:&lt;/p&gt;
+
+&lt;pre lang=&#34;php&#34; line=&#34;1&#34;&gt;&lt;h1&gt;
+  &lt;?php bloginfo(&#39;name&#39;); ?&gt;
+&lt;/h1&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>WordPress Include Tags</title>
+      <link>http://localhost/jhonny-roger/public/wordpress-include-tags/</link>
+      <pubDate>Sun, 06 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/wordpress-include-tags/</guid>
+      <description>&lt;p&gt;O &lt;a href=&#34;http://wordpress.org/&#34;&gt;WordPress&lt;/a&gt; tem 3 TemplatesTags para incluir elementos básicos de Cabeçalho, Coluna lateral (sidebar) e Rodapé, são eles: get_header(), get_sidebar() e get_footer(). Essas TemplateTags não aceitam qualquer tipo de parâmetro, portanto são simples de se aplicar. Em todos os themes do WordPress, essas 3 TemplateTags estão sempre presentes, mesmo assim, você pode modificar isso incluindo outro arquivo que não seja o padrão que o WP estabeleceu.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>WordPress – Uma pequena introdução</title>
+      <link>http://localhost/jhonny-roger/public/wordpress-uma-pequena-introducao/</link>
+      <pubDate>Sun, 10 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/wordpress-uma-pequena-introducao/</guid>
+      <description>O WordPress não foi feito para ser um CMS. Ele foi criado primeiramente para suprir necessidades de criação de blogs. Por acaso, talvez como se fosse um acidente, começamos a utilizá-lo para criar websites, desde os mais simples até os mais complicados. O pessoal do WordPress curtiu a ideia e agora está melhorando cada vez mais o sistema para que ele se torne um CMS de verdade, mesmo assim mantendo toda a simplicidade do WordPress original.</description>
+    </item>
+    
+  </channel>
+</rss>

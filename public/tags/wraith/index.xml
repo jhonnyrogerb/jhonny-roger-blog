@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wraith on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/wraith/</link>
+    <description>Recent content in Wraith on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 10 Aug 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/wraith/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Processo front-end na Locaweb</title>
+      <link>http://localhost/jhonny-roger/public/processo-front-end-na-locaweb/</link>
+      <pubDate>Mon, 10 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/processo-front-end-na-locaweb/</guid>
+      <description>É muito interessante entender como funcionam os processos em grandes empresas e comparar com processo que você executa na sua própria empresa. Depois que li o post que o Jaydson fez falando um pouco sobre o processo de desenvolvimento no Terra, fiquei de escrever um artigo parecido mostrando mais ou menos como nós aqui da Locaweb fazemos nosso front-end. Sugiro que leia o post do Jaydson e mate a sua curiosidade sobre o processo que eles tem lá.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carlos Renato Gaddini on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/carlos-renato-gaddini/</link>
+    <description>Recent content in Carlos Renato Gaddini on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 03 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/carlos-renato-gaddini/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I de Inteligente</title>
+      <link>http://localhost/jhonny-roger/public/i-de-inteligente/</link>
+      <pubDate>Sun, 03 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/i-de-inteligente/</guid>
+      <description>A famosa letra i que remete a nossa era &amp;#8211; a da informação &amp;#8211; na maioria das vezes significa i de invenção. A mesma letra i daquela marca famosa da fruta mordida, que diz que seu “_i_” (eu, em inglês) é como algo pessoal mas acho que de pessoal não tem nada, pois eles colocaram i em tudo, até no OS&amp;#8230;
+ Há alguns poucos anos não tínhamos praticamente nenhuma tecnologia popular pois vivíamos em outra velocidade inventiva, mas da última década para cá houve uma considerável mudança.</description>
+    </item>
+    
+    <item>
+      <title>Afinal é web, online ou cloud? Não sei mas quero tudo nas nuvens!</title>
+      <link>http://localhost/jhonny-roger/public/afinal-e-web-online-ou-cloud-nao-sei-mas-quero-tudo-nas-nuvens/</link>
+      <pubDate>Thu, 29 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/afinal-e-web-online-ou-cloud-nao-sei-mas-quero-tudo-nas-nuvens/</guid>
+      <description>Felizmente vem pouco a pouco entrando nas pautas de desenvolvimento um conceito que já é adotado mundialmente principalmente encabeçado pelas desenvolvedoras de software livre: O conceito de intercomunicação entre aplicações e intercomunicação entre ecossistemas diferentes, como softwares online com desktop, desktop para desktop e online para online. E isso certamente é um grande progresso a nível de Brasil.
+O grande “canal” que está possibilitando conectar tudo que é informático no mundo é a internet.</description>
+    </item>
+    
+    <item>
+      <title>O que acontece abaixo da linha do horizonte dos “freelas”</title>
+      <link>http://localhost/jhonny-roger/public/o-que-acontece-abaixo-da-linha-horizonte-dos-freelas/</link>
+      <pubDate>Fri, 16 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-que-acontece-abaixo-da-linha-horizonte-dos-freelas/</guid>
+      <description>Atender a uma empresa organizada, chamada de TOP é o sonho de 10 entre cada 10 profissionais de TI. Quando digo uma empresa organizada não quero dizer tamanho da empresa, pois já ví micro e pequenas empresas com organização exemplar e o resultado da organização é saber o que quer. O oposto seria uma empresa desorganizada, do tipo de cliente mais difícil (e as vezes impossível) de atender: Aquele que não sabe o que quer.</description>
+    </item>
+    
+  </channel>
+</rss>

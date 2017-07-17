@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Entrevista on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/entrevista/</link>
+    <description>Recent content in Entrevista on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 26 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/entrevista/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exercícios Simples de JavaScript para Entrevista</title>
+      <link>http://localhost/jhonny-roger/public/exercicios-simples-de-javascript-para-entrevista/</link>
+      <pubDate>Tue, 26 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/exercicios-simples-de-javascript-para-entrevista/</guid>
+      <description>Qualquer um pode aprender teoria lendo posts de blogs, mas muitas pessoas nunca a entendem. Então para ter certeza que o(a) candidato(a) realmente entende sobre o tópico que ele(a) está falando, é uma boa ideia testar o seus conhecimentos através de exercícios. Exercícios não devem demorar muito e eles podem mostrar o nível de proficiência do candidato imediatamente.
+Estes são alguns exercícios que podem ser aplicados em entrevistas.
+Contexto(call, apply) Essa é a forma que queremos usar &amp;#8220;someFn&amp;#8221;.</description>
+    </item>
+    
+  </channel>
+</rss>

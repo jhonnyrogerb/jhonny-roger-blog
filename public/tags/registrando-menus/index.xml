@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Registrando Menus on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/registrando-menus/</link>
+    <description>Recent content in Registrando Menus on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 02 Mar 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/registrando-menus/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Criando Menus no WordPress</title>
+      <link>http://localhost/jhonny-roger/public/criando-menus-no-wordpress/</link>
+      <pubDate>Wed, 02 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-menus-no-wordpress/</guid>
+      <description>Depois da versão 3.0, a criação de menus no WordPress tornou-se muito importante, pois se utiliza um gerenciador para reproduzir as informações do menu. No menu, pode-se criar links, integrar páginas e páginas de arquivo.
+Habilitando e registrando o menu Em functions.php do seu tema, adicione:
+[cce lang=&amp;#8221;php&amp;#8221;]
+if ( function_exists( &amp;#8216;register_nav_menu&amp;#8217; ) ) {
+register_nav_menu( &amp;#8216;meu_menu&amp;#8217;, &amp;#8216;Este é meu primeiro menu&amp;#8217; );
+register_nav_menu( &amp;#8216;segundo_menu&amp;#8217;, &amp;#8216;Este é meu segundo menu&amp;#8217; );</description>
+    </item>
+    
+  </channel>
+</rss>

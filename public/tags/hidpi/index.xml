@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hidpi on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/hidpi/</link>
+    <description>Recent content in Hidpi on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 27 Nov 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/hidpi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Imagens em alta resolução utilizando SVG</title>
+      <link>http://localhost/jhonny-roger/public/imagens-em-alta-resolucao-utilizando-svg/</link>
+      <pubDate>Tue, 27 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/imagens-em-alta-resolucao-utilizando-svg/</guid>
+      <description>Scalable Vector Graphics (SVG) Uma das grandes tendências do momento quando se fala sobre desenvolvimento web é o formato SVG, principalmente com o advento do design responsivo e a consequente preocupação com dispositivos com densidade de pixel superior (HiDPI) como a tela retina da Apple, utilizada nos modelos mais recentes do iPhone, iPad e do Macbook Pro. Mas o que exatamente é um arquivo SVG? Qual é a diferença entre um vetor e um bitmap?</description>
+    </item>
+    
+  </channel>
+</rss>

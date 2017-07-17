@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talesbaz on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/talesbaz/</link>
+    <description>Recent content in Talesbaz on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 26 Jun 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/talesbaz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>O Product Owner deve estar na Sprint Retrospective?</title>
+      <link>http://localhost/jhonny-roger/public/o-product-owner-deve-estar-na-sprint-retrospective/</link>
+      <pubDate>Sun, 26 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-product-owner-deve-estar-na-sprint-retrospective/</guid>
+      <description>Existe uma polêmica entre os usuários da metodologia e na comunidade agilista quanto a não participação deste membro na retrospectiva. Pense um momento nesta hipótese:
+ “Scrum Master em conjunto com o time de desenvolvedores, decidem que testers não farão mais parte das retrospectivas. Eles não são necessários, pois eles não são parte do time, suas atividades são diferentes das de desenvolvimento e seus feedback’s são irrelevantes.”
+ Pensou? É tão estranho de criar a hipótese quanto de praticá-la, certo?</description>
+    </item>
+    
+  </channel>
+</rss>

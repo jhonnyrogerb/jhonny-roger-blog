@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testes Automatizados on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/testes-automatizados/</link>
+    <description>Recent content in Testes Automatizados on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 21 Feb 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/testes-automatizados/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introdução ao Behavior Driven Development</title>
+      <link>http://localhost/jhonny-roger/public/introducao-ao-behavior-driven-development/</link>
+      <pubDate>Fri, 21 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-ao-behavior-driven-development/</guid>
+      <description>O BDD (Behavior Driven Development ou Desenvolvimento guiado por comportamento), é uma resposta ao TDD, criado em 2003, por Dan North, e tem se expandido bastante nos últimos anos. Seu foco é obter um código testado a partir de um conjunto de cenários que descrevem como a aplicação ou unidade de código deverá se comportar em determinada situação.
+As práticas de BDD incluem:  Envolver as partes interessadas no processo através de Outside-in Development Usar linguagem ubíqua para descrever o comportamento de uma aplicação Automatizar os exemplos para provê um feedback rápido e testes de regressão Usar SHOULD na hora de descrever o comportamento de software para ajudar esclarecer responsabilidades e permitir que funcionalidades do software sejam questionadas Usar dublês de teste (mocks, stubs, fakes, dummies, spies) para auxiliar na colaboração entre módulos e códigos que ainda não foram escritos  E&amp;#8230; O grande lance do BDD, é que nos trabalhamos com comportamentos de uma maneira que</description>
+    </item>
+    
+    <item>
+      <title>PHPUnit, como iniciar sem dores</title>
+      <link>http://localhost/jhonny-roger/public/phpunit-como-iniciar-sem-dores/</link>
+      <pubDate>Tue, 07 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/phpunit-como-iniciar-sem-dores/</guid>
+      <description>Como já mencionei em um artigo anterior, o PHPUnit é um framework de testes unitários para a linguagem PHP. Ele provê um ecossistema para a execução de testes de forma automatizada.
+Neste artigo veremos a sua instalação utilizando o gerenciador de pacotes composer, configuração e estrutura de pastas e alguns testes simples sem persistência de dados.
+Instalando o PHPUnit Para iniciar a instalação do PHPUnit precisamos primeiramente de um diretório que será nosso diretório de trabalho neste exemplo.</description>
+    </item>
+    
+    <item>
+      <title>TDD, por que usar?</title>
+      <link>http://localhost/jhonny-roger/public/tdd-por-que-usar/</link>
+      <pubDate>Tue, 17 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tdd-por-que-usar/</guid>
+      <description>TDD é o desenvolvimento de software orientado a testes, ou em inglês, Test Driven Development. Mas mais do que simplesmente testar seu código, TDD é uma filosofia, uma cultura. Neste artigo você conhecerá um pouco sobre sua motivação e também saberá os fatores que contribuem e dificultam sua prática.
+Por que muitos não praticam? Muitos fatores contribuem para que inúmeros programadores deixem de utilizar TDD logo no início. Alguns deles são:</description>
+    </item>
+    
+  </channel>
+</rss>

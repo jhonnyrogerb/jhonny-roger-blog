@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Centralizar on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/centralizar/</link>
+    <description>Recent content in Centralizar on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 06 Dec 2007 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/centralizar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Centralizando um objeto na Horizontal e Vertical com CSS</title>
+      <link>http://localhost/jhonny-roger/public/centralizando-um-objeto-na-horizontal-e-vertical-com-css/</link>
+      <pubDate>Thu, 06 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/centralizando-um-objeto-na-horizontal-e-vertical-com-css/</guid>
+      <description>[]1
+Objeto no centro da tela Uma das dúvidas mais freqüentes é esta: Como fazer para que um objeto fique no centro da tela usando css?
+A resposta está nos passos abaixo!
+Colocando a imagem: Neste exemplo vamos usar uma imagem, mas você pode perfeitamente usar um div, o processo é o mesmo.
+Coloque na imagem (ou no div) um nome de ID&amp;#8230; Colocamos neste exemplo o ID com nome &amp;#8220;centro&amp;#8221;.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gradientes on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/gradientes/</link>
+    <description>Recent content in Gradientes on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 12 Jun 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/gradientes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flat design: a nova tendência dos gradientes</title>
+      <link>http://localhost/jhonny-roger/public/flat-design-nova-tendencia-dos-gradientes/</link>
+      <pubDate>Fri, 12 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/flat-design-nova-tendencia-dos-gradientes/</guid>
+      <description>O flat design está dominando cada pixel: isso é uma coisa que nós já sabemos. Mas você já ouviu falar dos gradientes no flat design?
+Soa meio estranho, não é? Pois é, mas existe, e hoje vou mostrar a você que o gradiente voltou. Não daquele jeito horrível e assustador, que causa medo aos olhos, mas sim de uma forma bonita e confortável, e o melhor de tudo, flat &amp;lt;3.</description>
+    </item>
+    
+  </channel>
+</rss>

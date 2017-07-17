@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Breadcrumbs on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/breadcrumbs/</link>
+    <description>Recent content in Breadcrumbs on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 18 Aug 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/breadcrumbs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Breadcrumb Navigation – Facilite a vida do seu cliente e aumente sua linkagem interna</title>
+      <link>http://localhost/jhonny-roger/public/breadcrumb-navigation-facilite-a-vida-do-seu-cliente-e-aumente-sua-linkagem-interna/</link>
+      <pubDate>Sun, 18 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/breadcrumb-navigation-facilite-a-vida-do-seu-cliente-e-aumente-sua-linkagem-interna/</guid>
+      <description>O que é Breadcrumb? É uma estrutura de navegação que auxilia o usuário a se localizar entre as páginas (níveis) do website. Para cada nível da estrutura, é criado um link da sessão correspondente. Assim, caso o usuário queira ir direto para a sessão de Eletrônicos, bastaria clicar no nível “Eletrônico”. Veja na prática:
+
+Porque eu devo utilizar breadcrumb? Primeiramente, é uma forma bem legal de demonstrar a organização do seu site, de mostrar ao usuário onde ele está e contextualizá-lo, melhorando a experiência desse visitante.</description>
+    </item>
+    
+  </channel>
+</rss>

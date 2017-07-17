@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Itanor on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/itanor/</link>
+    <description>Recent content in Itanor on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 24 Mar 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/itanor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Um mix de orientação a objetos &#43; filter, map e reduce com Javascript.</title>
+      <link>http://localhost/jhonny-roger/public/um-mix-de-orientacao-objetos-filter-map-e-reduce-com-javascript/</link>
+      <pubDate>Tue, 24 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/um-mix-de-orientacao-objetos-filter-map-e-reduce-com-javascript/</guid>
+      <description>Criei alguns objetos simples mas com propriedades usadas no nosso dia-a-dia. Estes objetos estão armazenados num vetor de projetos. Cada objeto representa um projeto e tem as propriedades id, objeto, valorTotal e investido.
+var projetos = [ {id: 12, objeto: &#34;revitalização da ponte abc&#34;, valorTotal: 220000.25, investido: 10000.00}, {id: 14, objeto: &#34;duplicação da rodovia br-101&#34;, valorTotal: 747800.50, investido: 35000.00}, {id: 34, objeto: &#34;aterramento localidade xyz&#34;, valorTotal: 635405.70, investido: 16500.00} ]; Aqui temos uma função que age como um construtor.</description>
+    </item>
+    
+  </channel>
+</rss>

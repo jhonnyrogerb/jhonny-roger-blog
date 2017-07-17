@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sun on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/sun/</link>
+    <description>Recent content in Sun on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 07 Apr 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/sun/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>JAVA – A ORIGEM</title>
+      <link>http://localhost/jhonny-roger/public/java-origem/</link>
+      <pubDate>Tue, 07 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/java-origem/</guid>
+      <description>Nossa história começa em 1991, quando um grupo de empregados da Sun Microsystems iniciaram um projeto para pequenos dispositivos eletrônicos de consumo, tais como o PDA (Personal Digital Assistant), o projeto recebeu o nome de Projeto Green, e James Gosling assumiu sua coordenação.
+A ideia era possibilitar a criação de programas portáveis que pudessem ser executados em diversos dispositivos. Mais a equipe teria que desenvolver programas específicos para cada tipo de dispositivo, dai surgiu a ideia de desenvolver um sistema operacional que permitiria a utilização de seus programas pelos mais diversos tipos de equipamento.</description>
+    </item>
+    
+  </channel>
+</rss>

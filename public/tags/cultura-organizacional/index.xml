@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cultura Organizacional on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/cultura-organizacional/</link>
+    <description>Recent content in Cultura Organizacional on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 30 Jul 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/cultura-organizacional/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Desenvolvedores não são máquinas</title>
+      <link>http://localhost/jhonny-roger/public/desenvolvedores-nao-sao-maquinas/</link>
+      <pubDate>Thu, 30 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/desenvolvedores-nao-sao-maquinas/</guid>
+      <description>O setor de desenvolvimento de uma empresa muitas vezes é visto como o setor operacional, onde pessoas passam seu tempo construindo sites, sistemas, apps etc. Os prazos e as especificações são previamente debatidos por um grupo X de pessoas, e quando isso é decidido, essas informações são entregues aos programadores, que por fim apenas digitam sem parar regras de negócio em uma linguagem X ou Y, como máquinas programadas apenas para vomitar códigos.</description>
+    </item>
+    
+    <item>
+      <title>Trabalhe ao lado de gente boa (e seja a gente boa)</title>
+      <link>http://localhost/jhonny-roger/public/trabalhe-ao-lado-de-gente-boa-e-seja-a-gente-boa/</link>
+      <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/trabalhe-ao-lado-de-gente-boa-e-seja-a-gente-boa/</guid>
+      <description>&lt;p&gt;Comecei na área de Desenvolvimento um pouco atrasado comparado aos meus companheiros de serviço. Claro que já estou envolvido com informática há muito mais tempo do que desenvolvo para a Web, porém, trabalhava com a área de infraestrutura. Hoje, depois de algum tempo de experiência em grandes empresas, &lt;em&gt;startups&lt;/em&gt; e equipes de &lt;em&gt;freelancers&lt;/em&gt;, posso contar um pouco do que aprendi e deixar uma dica para quem quer crescer profissionalmente: &lt;strong&gt;Trabalhe ao lado de gente boa!&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Como criar e manter uma cultura de desenvolvimento no seu time</title>
+      <link>http://localhost/jhonny-roger/public/cultura-organizacional/</link>
+      <pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/cultura-organizacional/</guid>
+      <description>Quando falamos em desenvolvimento na área de tecnologia, logo pensamos na tarefa de programar, desenvolver código, softwares ou produtos relacionados ao digital e informática. Mas o desenvolvimento que abordaremos neste artigo refere-se ao desenvolvimento do profissional em si, seja na carreira ou nas suas funções dentro da empresa em que trabalha.
+A intenção aqui não é falar sobre ferramentas ou metodologias para desenvolvimento das tarefas da equipe, gerenciamento de projetos, ou como ser mais produtivo e evitar perda de tempo e trabalhos desnecessários, até porque, são inúmeras as opções existentes no mercado de tecnologia, aplicadas desde que a informática existe.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Back End on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/back-end/</link>
+    <description>Recent content in Back End on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 19 Jun 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/back-end/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>JPA Hibernate – Como funciona a anotação @version?</title>
+      <link>http://localhost/jhonny-roger/public/hibernate-como-funciona-anotacao-version/</link>
+      <pubDate>Sun, 19 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/hibernate-como-funciona-anotacao-version/</guid>
+      <description>Recentemente um colega de trabalho me perguntou qual era função da anotação @version presente nas entidades aqui do projeto. Achei interessante essa pergunta e resolvi fazer da resposta o meu primeiro post no blog.
+Para responder essa de pergunta temos que lembrar que todo banco de dados possui um controle de concorrência entre transações (se necessário solicitem nos comentários que faço um post explicando a fundo sobre isso). Para esse post só precisamos conhecer o método de controle Optimistic concurrency control (controle de concorrência otimista).</description>
+    </item>
+    
+    <item>
+      <title>Consumo eficiente de recursos computacionais de servidores de aplicação web com Node.js</title>
+      <link>http://localhost/jhonny-roger/public/consumo-eficiente-de-recursos-computacionais-de-servidores-de-aplicacao-web-com-node-js/</link>
+      <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/consumo-eficiente-de-recursos-computacionais-de-servidores-de-aplicacao-web-com-node-js/</guid>
+      <description>INTRODUÇÃO Nos últimos anos, houve um considerável crescimento do número de usuários e volume de dados na Internet. Em 2014, cerca de 3 bilhões de pessoas no mundo usavam a internet e 43.6% das residências em todo mundo possuíam algum forma de acesso a grande rede. Os sites de redes sociais têm registrado, ao longo dos anos, um crescimento exponencial, o Facebook, por exemplo, possuía no final de 2013, 1,3 bilhões de usuários ativos, enquanto o Twitter, maior microblog internacional, registrava, na mesma época, 646 milhões de usuários ativos, responsáveis por 58 milhões de tweets postados diariamente (ITU, 2014).</description>
+    </item>
+    
+    <item>
+      <title>Por que Python?</title>
+      <link>http://localhost/jhonny-roger/public/por-que-python/</link>
+      <pubDate>Tue, 29 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/por-que-python/</guid>
+      <description>Eu sou apaixonado por Python. Muito. Daquele tipo que fala de Python sempre que pode. E uma pergunta que sempre me fazem é: por quê? Vou tentar fazer uma lista dos motivos mais relevantes:
+1. É muito bom escrever código Python Geralmente, quando alguém cria uma linguagem de programação, tem em vista um objetivo. Por exemplo, Lisp foi escrita para programação funcional. Java foi escrita para que o mesmo código pudesse rodar em qualquer lugar.</description>
+    </item>
+    
+    <item>
+      <title>JAVA – Estruturas de Decisão</title>
+      <link>http://localhost/jhonny-roger/public/java-estruturas-de-decisao/</link>
+      <pubDate>Fri, 22 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/java-estruturas-de-decisao/</guid>
+      <description>As estruturas de decisão são utilizadas para controlar o fluxo de execução dos aplicativos, possibilitando que a leitura das instruções siga caminhos alternativos em função da análise de determinadas condições. Com elas, é possível condicionar a leitura de uma instrução ou de um bloco delas a uma ou mais condições que precisam ser satisfeitas.
+Todos os aplicativos de exemplo precedentes executam suas instruções de forma linear, ou seja, todas elas são lidas sequencialmente, na ordem em que foram escritas no código.</description>
+    </item>
+    
+    <item>
+      <title>PHP Slim Framework</title>
+      <link>http://localhost/jhonny-roger/public/php-slim-framework/</link>
+      <pubDate>Wed, 04 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/php-slim-framework/</guid>
+      <description>O Slim Framework é um microframework PHP que facilita sua vida na hora de fazer pequenas APIs.
+Vou falar sobre um problema que tive em um projeto em uma empresa que trabalho. Lá eu codifico com diferentes linguagens de programação em pequenos sistemas. Esses sistemas precisam ser acessados por 3 filiais e os usuários se logam com o mesmo login usado no E.R.P. que eles utilizam.
+Para simplificar meu trabalho resolvi criar uma API simples para autenticar os usuários.</description>
+    </item>
+    
+    <item>
+      <title>Front-end, UX e Back-end</title>
+      <link>http://localhost/jhonny-roger/public/front-end-ux-e-back-end/</link>
+      <pubDate>Wed, 16 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/front-end-ux-e-back-end/</guid>
+      <description>“One of the reasons for poor design execution is that UX teams need to own more than just design. We need to own front-end development.”
+ Frase sensacional em um artigo do site UXMatters, um dos melhores sites sobre experiência do usuário e arquitetura de informação que tenho nas minhas leituras regulares.
+Os designers para web precisam muito aprender a linguagem com que seus layouts serão codificados. Na minha opinião é estranho um designer para web não entender HTML e CSS, pelo menos o básico, o suficiente.</description>
+    </item>
+    
+  </channel>
+</rss>

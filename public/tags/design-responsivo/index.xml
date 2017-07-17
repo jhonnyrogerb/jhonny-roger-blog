@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design Responsivo on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/design-responsivo/</link>
+    <description>Recent content in Design Responsivo on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 06 Jul 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/design-responsivo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>nth-child() e calc() – Uma proposta para o abandono de frameworks de grids responsivos</title>
+      <link>http://localhost/jhonny-roger/public/nth-child-calc-responsivos/</link>
+      <pubDate>Mon, 06 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/nth-child-calc-responsivos/</guid>
+      <description>Apesar da adoção do _Tableless _para construção de layouts o conceito de tabela ainda persiste através de inúmeros frameworks de grids responsivos.
+ Além da semântica, o conceito Tableless prega, sempre que possível, levar a responsabilidade do layout para o CSS. O problema dos frameworks CSS focados em grids é que a especificação do layout continua dentro do HTML, descrita através de classes CSS, ancoradas diretamente aos elementos HTML, e de forma intrusiva, ou seja, os elementos  antigamente utilizados foram substituídos por elementos  para a criação do layout.</description>
+    </item>
+    
+    <item>
+      <title>Tendências Web 2015 para desenvolvedores</title>
+      <link>http://localhost/jhonny-roger/public/tendencias-web-2015-para-desenvolvedores/</link>
+      <pubDate>Thu, 09 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tendencias-web-2015-para-desenvolvedores/</guid>
+      <description>O mundo dos desenvolvedores web está cada vez mais inovador e fantástico. Em 2015 teremos ferramentas mais qualificadas e conceitos que nos ajudarão na jornada de desenvolver um material super satisfatório. Pois não trará vantagens somente para nossos clientes, mas também nos poupará tempo, e para quem trabalha nessa área sabe que tempo é MUITO PRECIOSO.
+FLAT DESIGN Sites com sombras, diversas fontes e cores para ressaltar o realismo da página ficou no passado, agora o que manda é a simplicidade.</description>
+    </item>
+    
+    <item>
+      <title>RWD é fácil/difícil – Anotações Dan Mall – An Event Apart 2014</title>
+      <link>http://localhost/jhonny-roger/public/rwd-ainda-e-facildificil-anotacoes-dan-mall-event-apart-2014/</link>
+      <pubDate>Tue, 29 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/rwd-ainda-e-facildificil-anotacoes-dan-mall-event-apart-2014/</guid>
+      <description>danielmall.com  Henry Ford moveu as pessoas que cuidavam da montagem do motor para mais perto umas das outras, assim ele reduziu custos e usou poucos trabalhadores, mais bem preparados e bem pagos, para fazer bem as coisas. Waterfall (fluxo linear) é ruim. Não é paralelo. É muito engessado. Muitas empresas tem equipes no modelo de montagem em linha. Um processo típico waterfall consistem em pequenas partes, isoladas: você finaliza uma tarefa e corre para próxima.</description>
+    </item>
+    
+    <item>
+      <title>Imagens Responsivas de Alta Performance</title>
+      <link>http://localhost/jhonny-roger/public/imagens-responsivas-de-alta-performance/</link>
+      <pubDate>Mon, 31 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/imagens-responsivas-de-alta-performance/</guid>
+      <description>Desenvolver sites responsivos muitas vezes é como fazer malabarismo. São muitas bolas para manter no ar: largura do viewport, medidas relativas, velocidade da conexão, densidade de pixel e experiência do usuário. Lidar com o peso de tudo isto sem quebrar o layout é um objetivo bem difícil de atingir e por isto, muitos desenvolvedores, clientes e consequentemente usuários se afastam da ideia. No artigo de hoje vamos conhecer algumas técnicas de design responsivo para otimização de imagens que ajudam a reduzir (e muito) o peso final dos sites responsivos e equilibrar as bolas no ar.</description>
+    </item>
+    
+    <item>
+      <title>Como testar design responsivo</title>
+      <link>http://localhost/jhonny-roger/public/como-testar-design-responsivo/</link>
+      <pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/como-testar-design-responsivo/</guid>
+      <description>Você já sabe como criar layouts e desenvolver um site responsivo. Na verdade seu projeto já está quase pronto. A última etapa é testar o funcionamento! Existem diversas maneira de garantir a efetividade do layout. A primeira delas, e mais óbvia, é testando ao vivo em diversos dispositivos. Em um mundo ideal você deveria testar o seu layout na maior quantidade de aparelhos, browsers e sistemas operacionais possíveis! Alias, você pode até ser fanático por isto e incomodar todo amigo que ver com um celular diferente com um &amp;#8220;posso testar uma coisa rapidinho?</description>
+    </item>
+    
+    <item>
+      <title>URLs Amigáveis, Design Responsivo e o SEO</title>
+      <link>http://localhost/jhonny-roger/public/urls-amigaveis-design-responsivo-e-o-seo/</link>
+      <pubDate>Wed, 28 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/urls-amigaveis-design-responsivo-e-o-seo/</guid>
+      <description>Recentemente, o Google anunciou mudanças em seu algoritmo para o rankeamento de dispositivos móveis. O intuito é penalizar aqueles sites que ainda não aderiram ao design responsivo e beneficiar os que já estão com a tecnologia implementada. Confira aqui alguns pontos considerados chave pelo Google para aprimorar os resultados mobile.
+URL Amigável e Design Responsivo Essa é uma relação bem interessante. Antigamente os sites mobile ficavam armazenados em um diretório à parte, geralmente um subdomínio (m.</description>
+    </item>
+    
+    <item>
+      <title>Design para Google Glass</title>
+      <link>http://localhost/jhonny-roger/public/design-para-google-glass/</link>
+      <pubDate>Mon, 26 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/design-para-google-glass/</guid>
+      <description>A não ser que você tenha passado o último ano da sua vida em coma, é provável que você já tenha ouvido falar no Google Glass. Mas o que ele realmente faz? Quais são as limitações técnicas? Como criar layouts tanto para a web quanto para aplicativos nativos que possuam um design adequado para esta nova mídia? E como testar isto tudo sem possuir um aparelho? Ok, Tableless! Vamos responder estas perguntas&amp;#8230;</description>
+    </item>
+    
+    <item>
+      <title>Menu Retrátil com CSS e jQuery</title>
+      <link>http://localhost/jhonny-roger/public/menu-retratil-com-css-e-jquery/</link>
+      <pubDate>Mon, 12 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/menu-retratil-com-css-e-jquery/</guid>
+      <description>Neste artigo vamos criar passo-a-passo um menu retrátil super versátil que, com apenas algumas linhas de modificação, poderá ser utilizado na horizontal, vertical, sobrepondo ou empurrando o conteúdo de um site. Veja ainda como evitar os malditos bugs problemas mais comuns deste tipo de navegação.
+Mini bibliotecas Uma das principais vantagens de escrever um HTML semântico e bem organizado é a versatilidade. Com um mesmo código é possível criar diversas variações de estilo utilizando apenas CSS.</description>
+    </item>
+    
+    <item>
+      <title>3 parâmetros de HTML que você deve usar em um futuro próximo</title>
+      <link>http://localhost/jhonny-roger/public/3-parametros-de-html-que-voce-dev-usar-em-um-futuro-proximo/</link>
+      <pubDate>Tue, 14 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/3-parametros-de-html-que-voce-dev-usar-em-um-futuro-proximo/</guid>
+      <description>Neste artigo vamos conhecer alguns parâmetros que ainda não são largamente utilizados por algum motivo ou outro, mas que merecem ser conhecidos por serem práticos, úteis e interessantes. Alguns não foram aprovados oficialmente por orgãos como W3C, outros já receberam o ok da instituição mas não são compatíveis com a maioria dos browsers&amp;#8230; De qualquer maneira valem a pena serem conhecidos pois todos tem o poder de facilitar nosso dia-a-dia de alguma forma.</description>
+    </item>
+    
+    <item>
+      <title>Design Responsivo na prática: do rascunho ao digital</title>
+      <link>http://localhost/jhonny-roger/public/design-responsivo-na-pratica-do-rascunho-ao-digita/</link>
+      <pubDate>Wed, 17 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/design-responsivo-na-pratica-do-rascunho-ao-digita/</guid>
+      <description>Você já convenceu o seu chefe ou cliente que Design Responsivo é a última bolacha de chocolate do pacote, já sabe como trabalhar com media queries e como desenvolver códigos bonitos, semânticos e cheirosos. Mas a dúvida ainda persiste &amp;#8211; por onde começar? Você não está sozinho. Esta é uma dúvida bem frequente. Por isto resolvi escrever um artigo básico só com dicas de prototipagem para design responsivo coletando algumas ferramentas úteis, artigos interessantes e comentando também um pouco da minha experiência pessoal ao lidar com o assunto no dia-a-dia gerindo um pequeno estúdio de webdesign.</description>
+    </item>
+    
+    <item>
+      <title>Mitos sobre dispositivos móveis</title>
+      <link>http://localhost/jhonny-roger/public/mitos-sobre-dispositivos-moveis/</link>
+      <pubDate>Tue, 26 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/mitos-sobre-dispositivos-moveis/</guid>
+      <description>Mito 1 &amp;#8211; Usuários utilizam dispositivos móveis apenas na rua (e a conexão é sempre lenta) Entre todos os meus gadgets o meu tablet é o meu favorito. Ele fica sempre por perto e nunca desliga. Se eu preciso de uma informação é só estender o braço e ler. Muito mais rápido e prático do que andar até o escritório, ligar o computador, esperar o navegador abrir e realizar uma busca.</description>
+    </item>
+    
+  </channel>
+</rss>

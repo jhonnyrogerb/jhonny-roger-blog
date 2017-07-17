@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245850">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>Se você não esteve morando em baixo de uma rocha pelos últimos meses, provavelmente conhece o automatizador de tarefas <a href="http://tableless.com.br/grunt-voce-deveria-estar-usando/">Grunt</a>, que já dominava a área há algum tempo. Mas agora, chegou um novo automatizador chamado <a href="http://gulpjs.com">Gulp</a> que promete realizar suas tarefas de forma mais rápida e simples do que seu concorrente.</p>
+
+<p>Caso você não saiba, automatizadores de tarefa são ferramentas que ajudam programadores <del>preguiçosos</del> a realizarem tarefas repetitivas mas essenciais para o desenvolvimento como: concatenação de arquivos, minificação, testes e muitas outras coisas necessárias para a criação de um código rápido e eficiente.</p>
+
+<h3 id="por-que-gulp">Por que Gulp?</h3>
+
+<p>Se você já utiliza o Grunt em seus projetos, deve estar se perguntando por que mudar de automatizador. A resposta é simples: O Gulp é muito mais rápido que o Grunt, já que faz uso das streams do nodejs para escrever arquivos diretamente para o disco, dispensando intermediários. Sem falar na simplicidade do Gulpfile(equivalente ao Gruntfile), que utiliza uma sintaxe de código semelhante ao código comum do nodejs.</p>
+
+<p>Espero que até o final do texto você fique impressionado com a simplicidade do Gulp, e pense duas vezes antes de escolher o automatizador de tarefas para o seu próximo projeto.</p>
+
+<h3 id="instalação">Instalação</h3>
+
+<p>Lembrando que o Gulp roda no <a href="http://nodejs.org/">nodejs</a> então é preciso que você o tenha instalado no seu computador, caso esteja tudo ok, basta rodar o comando abaixo na sua linha de comando para instalar o CLI:</p>
+
+<pre class="lang-javascript">npm install -g gulp
+</pre>
+
+<p>Caso você esteja em um sistema baseado em Unix, talvez seja preciso rodar `sudo` antes do comando acima. Agora você vai poder rodar o Gulp na sua linha de comando. Para ver a versão instalada, execute:</p>
+
+<pre class="lang-javascript">gulp -v
+</pre>
+
+<p>Se o comando acima retornar a versão do Gulp instalada, a instalação foi um sucesso.</p>
+
+<h3 id="iniciando-com-o-gulp">Iniciando com o Gulp</h3>
+
+<p>Agora vamos ao que interessa, a automatização! O Gulp faz uso do Gulpfile para configuração das tarefas que ele vai rodar, que é o único arquivo necessário.</p>
+
+<p>Para nossos testes, criei uma estrutura desta forma:</p>
+
+<pre class="lang-html">|projeto/
+|--dist/
+|--src/
+|----source.js
+|--Gulpfile.js
+</pre>
+
+<p>Vou rodar três testes diferentes: Concatenação, minificação e teste de código com o jshint. O Gulp faz uso de <a href="http://gratimax.github.io/search-gulp-plugins/">plugins</a> para facilitar a criação de tarefas, então vou instalar alguns para nós rodarmos nossos testes.</p>
+
+<pre class="lang-javascript">npm install gulp gulp-jshint gulp-uglify gulp-concat gulp-rename --save-dev
+</pre>
+
+<p>Note que eu instalei o próprio Gulp DE NOVO e alguns plugins. Isto é porque o Gulp instalado anteriormente foi o CLI, responsável por rodar o comando `gulp` na linha de comando e o instalado desta vez é o local que é usado para rodar os testes no projeto. Agora podemos criar nosso Gulpfile:</p>
+
+<pre class="lang-javascript">// Aqui nós carregamos o gulp e os plugins através da função `require` do nodejs
+var gulp = require('gulp');
+var jshint = require('gulp-jshint');
+var uglify = require('gulp-uglify');
+var concat = require('gulp-concat');
+var rename = require('gulp-rename');
+
+// Definimos o diretorio dos arquivos para evitar repetição futuramente
+var files = "./src/*.js";
+
+//Aqui criamos uma nova tarefa através do ´gulp.task´ e damos a ela o nome 'lint'
+gulp.task('lint', function() {
+
+// Aqui carregamos os arquivos que a gente quer rodar as tarefas com o `gulp.src`
+// E logo depois usamos o `pipe` para rodar a tarefa `jshint`
+gulp.src(files)
+.pipe(jshint())
+.pipe(jshint.reporter('default'));
+});
+
+//Criamos outra tarefa com o nome 'dist'
+gulp.task('dist', function() {
+
+// Carregamos os arquivos novamente
+// E rodamos uma tarefa para concatenação
+// Renomeamos o arquivo que sera minificado e logo depois o minificamos com o `uglify`
+// E pra terminar usamos o `gulp.dest` para colocar os arquivos concatenados e minificados na pasta build/
+gulp.src(files)
+.pipe(concat('./dist'))
+.pipe(rename('dist.min.js'))
+.pipe(uglify())
+.pipe(gulp.dest('./dist'));
+});
+
+//Criamos uma tarefa 'default' que vai rodar quando rodamos `gulp` no projeto
+gulp.task('default', function() {
+
+// Usamos o `gulp.run` para rodar as tarefas
+// E usamos o `gulp.watch` para o Gulp esperar mudanças nos arquivos para rodar novamente
+gulp.run('lint', 'dist');
+gulp.watch(files, function(evt) {
+gulp.run('lint', 'dist');
+});
+});
+</pre>
+
+<p>O código acima está muito bem comentado e dispensa mais explicações. Caso você tenha usado o Grunt anteriormente, percebeu como a criação de tarefas com o Gulpfile é muito mais simples. Para rodar as tarefas, rode o comando:</p>
+
+<pre class="lang-javascript">gulp
+</pre>
+
+<p>Perceba que ele executa a rotina de tarefas que você definiu e fica esperando mudanças no seu código para rodar novamente(lembra do watch?), mas se você quiser rodar apenas um tarefa específica, basta adicionar o nome da tarefa após o comando:</p>
+
+<pre class="lang-javascript">gulp lint
+</pre>
+
+<p>No exemplo acima rodamos o teste de código usando o nome da task que definimos anteriormente.</p>
+
+<h3 id="conclusão">Conclusão</h3>
+
+<p>Enfim, neste texto vimos como usar o Gulp para automatizar as tarefas do seu próximo projeto de forma simples e eficiente. O Gulp é um projeto novo e que ainda deve amadurecer muito nas próximas semanas. Caso você queira contribuir de alguma maneira, acesse o projeto no <a href="https://github.com/gulpjs/gulp">github</a> e veja como ajudar.</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/indo-alem-no-react-native//?utm_source=tablelessRelatedLin">Indo além no Mundo React-Native</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/seu-primeiro-bot-para-o-telegram//?utm_source=tablelessRelatedLin">Seu primeiro bot para o Telegram</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/paginas_acessiveis_hatemile//?utm_source=tablelessRelatedLin">Páginas acessíveis com o HaTeMiLe</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245851"></script>

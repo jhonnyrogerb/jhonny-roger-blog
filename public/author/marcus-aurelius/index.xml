@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marcus Aurelius on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/marcus-aurelius/</link>
+    <description>Recent content in Marcus Aurelius on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 11 Jul 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/marcus-aurelius/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vulnerabilidades em Sistemas Web</title>
+      <link>http://localhost/jhonny-roger/public/vulnerabilidades-em-sistemas-web/</link>
+      <pubDate>Mon, 11 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/vulnerabilidades-em-sistemas-web/</guid>
+      <description>O que são vulnerabilidades em sistemas web? Vulnerabilidades em sistemas web são uma realidade cada vez mais crescente na internet. Primeiro deixem-me explicar rapidamente como funciona a comunicação entre o browser e o servidor web. Sistemas web funcionam com uma dupla muito conhecida neste ramo: requisição e resposta.
+A requisição se origina do lado do usuário (pelo Chrome, IE, Firefox, Safari, cURL, etc) composta de elementos como header, URL, método, parâmetros, cookies, etc.</description>
+    </item>
+    
+    <item>
+      <title>Testes de Invasão e Análise de Vulnerabilidades</title>
+      <link>http://localhost/jhonny-roger/public/testes-de-invasao-e-analise-de-vulnerabilidades/</link>
+      <pubDate>Tue, 26 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/testes-de-invasao-e-analise-de-vulnerabilidades/</guid>
+      <description>O que é um Teste de Invasão Teste de invasão ou pentest são métodos que avaliam a segurança de um sistema de computador ou de uma rede, simulando ataques de uma fonte maliciosa. O processo envolve uma análise nas atividades do sistema, que envolvem a busca de alguma vulnerabilidade em potencial que possa ser resultado de uma má configuração do sistema, falhas em hardwares/softwares desconhecidas, deficiência no sistema operacional ou técnicas contramedidas.</description>
+    </item>
+    
+  </channel>
+</rss>

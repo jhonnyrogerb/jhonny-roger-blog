@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thumb on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/thumb/</link>
+    <description>Recent content in Thumb on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 17 Jan 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/thumb/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adicionando Post Thumbnail</title>
+      <link>http://localhost/jhonny-roger/public/adicionando-post-thumbnail/</link>
+      <pubDate>Mon, 17 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/adicionando-post-thumbnail/</guid>
+      <description>Ativando o suporte ao Post Thumbnails em seu tema Antes de qualquer coisa, volto a lembrar que essa característica é do tema. Pode ser que alguns autores não ativem esse suporte. Para iniciar, adicione este seguinte código no arquivo functions.php:
+[cc lang=&amp;#8221;php&amp;#8221;]
+[/cc]
+Para ativar o suporte só é necessário este código. Bacana, né? O WordPress faz com que em poucas linhas de código possamos obter soluções significantes.
+A condição verifica se a função &amp;#8216;add_theme_support&amp;#8217; existe, caso ela exista, adicionamos um suporte ao nosso tema, que é o Post Thumbnails.</description>
+    </item>
+    
+  </channel>
+</rss>

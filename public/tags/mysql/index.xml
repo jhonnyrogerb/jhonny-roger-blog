@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mysql on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/mysql/</link>
+    <description>Recent content in Mysql on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 26 Sep 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Criando aplicações portáveis entre diferentes SGBDs usando PDO(PHP Data Objects)</title>
+      <link>http://localhost/jhonny-roger/public/criando-aplicacoes-portaveis-entre-diferentes-sgbds-usando-pdophp-data-objects/</link>
+      <pubDate>Mon, 26 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-aplicacoes-portaveis-entre-diferentes-sgbds-usando-pdophp-data-objects/</guid>
+      <description>Quero apresentar nesse artigo as principais funcionalidades do PDO. PDO é uma biblioteca que implementa abstração ao acesso dos dados, ou seja, ela utiliza um driver específico, para cada SGBD (Sistema Gerenciador de Banco de Dados), tornando possível a portabilidade da base de dados de sua aplicação, sem que a mesma sofra danos ou que você passe horas e horas reescrevendo linhas e mais linhas de código.
+O primeiro passo é habilitar o driver do PDO no php.</description>
+    </item>
+    
+    <item>
+      <title>Você sabe paginar dados no MySQL corretamente?</title>
+      <link>http://localhost/jhonny-roger/public/voce-sabe-paginar-dados-no-mysql-corretamente/</link>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/voce-sabe-paginar-dados-no-mysql-corretamente/</guid>
+      <description>Esta postagem já começa com uma pergunta: Será que sabemos realmente fazer uma paginação de dados da forma correta?
+ ATENÇÃO! Não irei falar do uso de nenhum framework PHP, bibliotecas de ORM ou plugins em JavaScript. Irei tratar sobre a consulta ao banco de dados, somente.  &amp;nbsp;
+Talvez você conheça esta funcionalidade do MySQL, e talvez até comentará que isto é algo &amp;#8220;muito básico&amp;#8221;, mas vale lembrar: &amp;#8220;Nem todos sabem de tudo.</description>
+    </item>
+    
+    <item>
+      <title>MySQL Essencial (parte 1)</title>
+      <link>http://localhost/jhonny-roger/public/mysql-essencial-parte-1/</link>
+      <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/mysql-essencial-parte-1/</guid>
+      <description>O inicio e quem usa o MySQL O MySQL é um sistema relacional de gerenciamento de banco de dados de código aberto, que utiliza o SQL (Linguagem de consulta estruturada) como interface, é atualmente um dos bancos de dados mais populares na internet, mais de 10 milhões de instalações pelo mundo inteiro. Em Julho de 2013, foi considerado o segundo banco mais utilizado do mundo.
+Criado na Suécia por David Axmark, Allan Larsson e Michael &amp;#8220;Monty&amp;#8221; Widenius, a primeira versão surgiu em 23 de Maio de 1995.</description>
+    </item>
+    
+    <item>
+      <title>Deletando registros duplicados no banco de dados</title>
+      <link>http://localhost/jhonny-roger/public/deletando-registros-duplicados-banco-de-dados/</link>
+      <pubDate>Thu, 09 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/deletando-registros-duplicados-banco-de-dados/</guid>
+      <description>Precisei fazer a migração de dados de algumas tabelas de cadastro (telefones, hobbies, interesses, formações e etc.) para uma única tabela diferenciando-os pelo id do usuário e o id do campo. O problema é que meu script acabou duplicando as informações. Para a minha sorte isso aconteceu em um banco de desenvolvimento, onde era possível apagar os dados da tabela, ajustar os scripts e refazer a migração. Eu não queria ter esse trabalho novamente e logo resolvi pesquisar um script sql que me ajudasse a apagar os registros duplicados, nesse caso deixando apenas o último registro gravado.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Planejamento on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/planejamento/</link>
+    <description>Recent content in Planejamento on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 23 Mar 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/planejamento/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Crie layouts simples. SEMPRE!</title>
+      <link>http://localhost/jhonny-roger/public/crie-layouts-simples-sempre/</link>
+      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/crie-layouts-simples-sempre/</guid>
+      <description>&amp;#8220;Sempre que você tiver duas alternativas para explicar alguma coisa, a explicação mais simples é provavelmente a mais correta&amp;#8221;.
+ Essa citação é a famosa teoria &amp;#8216;Navalha de Occam&amp;#8216; de Guilherme Occam, um frade franciscano inglês, também teólogo, filósofo e lógico.
+Podemos dizer que o conceito desse pensamento é irmão do título desse artigo. Quanto mais simples for a mensagem, maior a chance dela atingir as pessoas. A questão que eu trago aqui é que o simples não é sinônimo de fácil como muitos pensam.</description>
+    </item>
+    
+  </channel>
+</rss>

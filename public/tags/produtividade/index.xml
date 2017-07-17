@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Produtividade on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/produtividade/</link>
+    <description>Recent content in Produtividade on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 26 May 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/produtividade/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Produtividade e Tomates</title>
+      <link>http://localhost/jhonny-roger/public/produtividade-e-tomates/</link>
+      <pubDate>Mon, 26 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/produtividade-e-tomates/</guid>
+      <description>A Técnica Pomodoro Nos anos 80 o italiano Francesco Cirillo estava com dificuldade em se concentrar nos estudos da faculdade. As provas estavam chegando e o Francesco já estava super desmotivado por não conseguir acompanhar o ritmo puxado das aulas. Foi aí que ele fez umas aposta consigo mesmo &amp;#8211; estudar, realmente estudar por 10 minutos sem nenhuma distração. Francesco então pegou um daqueles timers de cozinha antigos em formato de tomate (ou em italiano, Pomodoro) e utilizou para marcar o tempo.</description>
+    </item>
+    
+    <item>
+      <title>Atender bem para atender sempre</title>
+      <link>http://localhost/jhonny-roger/public/atender-bem-para-atender-sempre/</link>
+      <pubDate>Mon, 29 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/atender-bem-para-atender-sempre/</guid>
+      <description>Não atender bem é uma das grandes falhas se você trabalha com web. Parece óbvio, mas um dos principais problemas de empresas, freelancers ou desenvolvedores é o atendimento, por mais simples que seja. Atender bem não é só levar o camarada para almoçar antes de fechar um grande negócio. Atender bem é algo complexo, caro e que toma tempo.
+Quantas empresas você conhece que procuram saber realmente se o seu cliente está ou ficou satisfeito com o trabalho executado?</description>
+    </item>
+    
+    <item>
+      <title>Sobre prazos e produtividade</title>
+      <link>http://localhost/jhonny-roger/public/sobre-prazos-e-produtividade/</link>
+      <pubDate>Mon, 08 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sobre-prazos-e-produtividade/</guid>
+      <description>Você já percebeu que cumprir prazos em projetos de web é praticamente impossível? Nunca vi ninguém entregando tudo o que combinou no prazo final. Sempre falta alguma coisa, um teste, uma feature, algo que ninguém conseguiu prever. O problema é que isso pode estar se tornando um problema crônico dentro das empresas, principalmente em empresas onde as equipes não tem um processo bem formado, onde a comunicação é difícil.</description>
+    </item>
+    
+    <item>
+      <title>Dicas e truques de Sublime Text</title>
+      <link>http://localhost/jhonny-roger/public/dicas-truques-sublime-text/</link>
+      <pubDate>Tue, 04 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/dicas-truques-sublime-text/</guid>
+      <description>Sublime Text tem sido o meu editor predileto da vez. Ele é simples, limpo, leve e muito, mas muito customizável. Como um bocado de gente tem me pedido dicas resolvi fazer esse post, curtinho, com dicas básicas de Sublime.
+Suas preferências Uma das primeiras coisas que você precisa saber é que o Sublime guarda suas preferências em um arquivo em formato JSon, por isso é bem fácil de entender.</description>
+    </item>
+    
+    <item>
+      <title>Anotações soltas sobre como vender e comprar na internet (por um leigo)</title>
+      <link>http://localhost/jhonny-roger/public/anotacoes-soltas-sobre-como-vender-e-comprar-na-internet/</link>
+      <pubDate>Mon, 14 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/anotacoes-soltas-sobre-como-vender-e-comprar-na-internet/</guid>
+      <description>&lt;p&gt;Você se conhece de verdade? Quando você compra alguma coisa, compra porque? Todo mundo diz que a ação de comprar é algo emocional. E por ser uma coisa emocional, fica mais difícil encontrarmos o real motivo pelo qual a pessoa compra ou deixa de comprar algo.&lt;/p&gt;
+
+&lt;p&gt;A Visie está vendendo um &lt;a href=&#34;http://visie.com.br/pdf&#34;&gt;PDF sobre Produtividade&lt;/a&gt;. E com essa experiência pude tirar algumas lições. A principal delas é que algo digital ainda não substitui algo físico. O preço do PDF é bem parecido com o preço de alguns livros impressos. O conteúdo com certeza é o melhor que você encontrar sobre o assunto (jabá), então porque ainda encontro pessoas que não tem coragem de comprá-lo?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PDF sobre Produtividade</title>
+      <link>http://localhost/jhonny-roger/public/pdf-sobre-produtividade/</link>
+      <pubDate>Mon, 03 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/pdf-sobre-produtividade/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;JABÁ&lt;/strong&gt;: Há algum tempo trabalhando com treinamento, tive a oportunidade de conhecer desenvolvedores das mais diversas empresas, em vários estados. E percebi que há diferenças muito grandes no nível de conhecimento. De um lado, os twitters, bloggers, antenados leitores de feeds sempre ligados na última novidade. De outro, os programadores que migraram com dificuldade de Win32 para a Web, e estão usando praticamente a mesma tecnologia há seis ou sete anos.&lt;/p&gt;
+
+&lt;p&gt;Não é incomum encontrar, por exemplo, equipes inteiras de desenvolvedores que não trabalham com controle de versão. Ou gente que nunca ouviu falar em testes unitários. Ou quem ainda acredita que simplesmente aprender UML vai resolver todos os seus problemas.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

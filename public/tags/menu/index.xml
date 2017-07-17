@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Menu on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/menu/</link>
+    <description>Recent content in Menu on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 02 Mar 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/menu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Criando Menus no WordPress</title>
+      <link>http://localhost/jhonny-roger/public/criando-menus-no-wordpress/</link>
+      <pubDate>Wed, 02 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-menus-no-wordpress/</guid>
+      <description>Depois da versão 3.0, a criação de menus no WordPress tornou-se muito importante, pois se utiliza um gerenciador para reproduzir as informações do menu. No menu, pode-se criar links, integrar páginas e páginas de arquivo.
+Habilitando e registrando o menu Em functions.php do seu tema, adicione:
+[cce lang=&amp;#8221;php&amp;#8221;]
+if ( function_exists( &amp;#8216;register_nav_menu&amp;#8217; ) ) {
+register_nav_menu( &amp;#8216;meu_menu&amp;#8217;, &amp;#8216;Este é meu primeiro menu&amp;#8217; );
+register_nav_menu( &amp;#8216;segundo_menu&amp;#8217;, &amp;#8216;Este é meu segundo menu&amp;#8217; );</description>
+    </item>
+    
+    <item>
+      <title>Convertidos de volta</title>
+      <link>http://localhost/jhonny-roger/public/convertidos-de-volta/</link>
+      <pubDate>Tue, 12 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/convertidos-de-volta/</guid>
+      <description>Quem conhece o começo do Tableless.com.br, lembra dos &amp;#8220;Convertidos do Tableless&amp;#8221;. Os convertidos era uma área no Tableless onde eu reimplementava as homes de grandes sites utilizando HTML e CSS. Era uma época onde ninguém fazia websites sem tabelas, ninguém usava CSS direito e o HTML era feito &amp;#8220;nas coxas&amp;#8221;. Era uma época também que os desenvolvedores duvidavam da possibilidade de fazer websites apenas com CSS, posicionando e diagramando os elementos sem tabela.</description>
+    </item>
+    
+    <item>
+      <title>jQuery é bom para designers</title>
+      <link>http://localhost/jhonny-roger/public/jquery-e-bom-para-designers/</link>
+      <pubDate>Tue, 05 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/jquery-e-bom-para-designers/</guid>
+      <description>&lt;p&gt;No começo da web JavaScript era considerado uma linguagem de programação completamente difícil e inútil. Afinal, depois de uma semana estudando a linguagem, o sujeito só conseguia escrever um script que validasse um formulário de contato que muitas vezes dava erro em outros browsers que não o Internet Explorer. Isso acontecia porque tanto o Netscape quanto o Browser azul tinha seus prórpios padrões de implementações de solução para o Javascript que era ainda estava engatinhando como linguagem.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

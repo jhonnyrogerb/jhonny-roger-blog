@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Revealjs on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/revealjs/</link>
+    <description>Recent content in Revealjs on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 15 Feb 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/revealjs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reveal.js: criando apresentações no navegador</title>
+      <link>http://localhost/jhonny-roger/public/reveal-js-criando-apresentacoes-no-navegador/</link>
+      <pubDate>Fri, 15 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/reveal-js-criando-apresentacoes-no-navegador/</guid>
+      <description>Apresentações não estão mais limitadas a softwares e plataformas específicas – hoje em dia é possível criar slides utilizando o navegador e tecnologias como HTML5, CSS3 e JavaScript.
+Uma das responsáveis por isto é a biblioteca JavaScript reveal.js, criada por Hakim El Hattab, desenvolvedor mais conhecido por seus experimentos com animações CSS3.
+Neste artigo vamos criar uma apresentação básica e conhecer as opções disponíveis para personalizar nossos slides.
+Estrutura da apresentação Vamos começar fazendo o download da última versão da biblioteca reveal.</description>
+    </item>
+    
+  </channel>
+</rss>

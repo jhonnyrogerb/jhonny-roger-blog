@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245861">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>Com o controle de colunas no CSS, podemos definir colunas de texto de forma automática. Até hoje não havia maneira de fazer isso de maneira inteligente com CSS e o grupo de propriedades <code>columns</code> pode fazer isso de maneira livre de gambiarras.</p>
+
+<h4 id="column-count">column-count</h4>
+
+<p>A propriedade <code>column-count</code> define a quantidade de colunas terá o bloco de textos.</p>
+
+<pre lang="css" line="1">/* Define a quantidade de colunas, a largura é definida uniformimente. */
+-moz-column-count: 2;
+-webkit-column-count: 2;
+</pre>
+
+<h4 id="column-width">column-width</h4>
+
+<p>Com a propriedade <code>column-width</code> definimos a largura destas colunas.</p>
+
+<pre lang="css" line="1">/* Define qual a largura mínima para as colunas. Se as colunas forem expremidas, fazendo com que a largura delas fique menor que este valor, elas se transformam em 1 coluna automaticamente */
+-moz-column-width: 400px; 
+-webkit-column-width: 400px; 
+</pre>
+
+<p>Fiz alguns testes aqui e há uma diferença entre o Firefox 3.5 e o Safari 4 (Public Beta).</p>
+
+<p>O <code>column-width</code> define a largura mínima das colunas. Na <a href="http://www.w3.org/TR/css3-multicol/#cw">documentação do W3C</a> é a seguinte: imagine que você tenha uma área disponível para as colunas de 100px. Ou seja, você tem um div com 100px de largura (width). E você define que as larguras destas colunas (<code>column-width</code>) sejam de 45px. Logo, haverá 10px de sobra, e as colunas irão automaticamente ter 50px de largura, preenchendo este espaço disponível. É esse o comportamento que o Firefox adota.</p>
+
+<p>Já no Safari, acontece o seguinte: se você define um <code>column-width</code>, as colunas obedecem esse valor e não preenchem o espaço disponível, como acontece na explicação do W3C e como acontece também no Firefox. Dessa forma faz mais sentido para mim.</p>
+
+<p>Como a propriedade não está 100% aprovada ainda, há tempo para que isso seja modificado novamente. Talvez a mudança da nomenclatura da classe para <code>column-min-width</code> ou algo parecida venha a calhar, assim, ficamos com os dois resultados citados, que são bem úteis para nós de qualquer maneira.</p>
+
+<h4 id="column-gap">column-gap</h4>
+
+<p>A propriedade <code>column-gap</code> cria um espaço entre as colunas, um gap.</p>
+
+<pre lang="css" line="1">/* Define o espaço entre as colunas. */
+-moz-column-gap: 50px;
+-webkit-column-gap: 50px;
+</pre>
+
+<p><a href="http://tableless.com.br/uploads/2009/07/css3-columns.html">Veja um exemplo destas propriedades aqui.</a>.</p>
+
+<p>Utilizamos aqui os prefixos -moz- e -webkit-, estas propriedades não funcionam oficialmente em nenhum browser. Mas já podem ser usados em browsers como Firefox e Safari. Fique à vontade para testar e comentar aqui os resultados!</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/o-basico-sobre-sparql-turtle//?utm_source=tablelessRelatedLin">O básico sobre Sparql e Turtle</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/paginas_acessiveis_hatemile//?utm_source=tablelessRelatedLin">Páginas acessíveis com o HaTeMiLe</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245861"></script>

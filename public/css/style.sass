@@ -1,0 +1,23 @@
+@import "mixins/_gradients.scss"
+@import "_fonts.sass"
+@import "_header.sass"
+@import "_home.sass"
+@import "_footer.sass"
+
+*
+	padding: 0
+	margin: 0
+	box-sizing: border-box
+
+body, html
+	font-size: 100%
+	-webkit-font-smoothing: antialiased
+	-moz-osx-font-smoothing: grayscale
+	counter-reset: list-count
+	height: 100%
+	font-family: 'Arimo', sans-serif
+
+@media screen and (max-width: 890px)
+	body, html
+		height: auto
+

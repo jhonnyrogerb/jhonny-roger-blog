@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Svg Sprites on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/svg-sprites/</link>
+    <description>Recent content in Svg Sprites on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 29 May 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/svg-sprites/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ícones – SVG Sprites com CSS na prática</title>
+      <link>http://localhost/jhonny-roger/public/icones-svg-sprites-com-css-na-pratica/</link>
+      <pubDate>Fri, 29 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/icones-svg-sprites-com-css-na-pratica/</guid>
+      <description>O uso de ícones com SVG pode ser usado como uma alternativa mais poderosa, semântica e leve em relação a tradicional técnica de Icon Font.
+O artigo abaixo abordará de forma prática o uso de ícones SVG com o uso das seguintes técnicas: SVG (defs, symbol), HTML + CSS + SVG (use). Como diziao Chapolin: &amp;#8220;Sigam-me os bons!&amp;#8221;
+Obtendo arquivos SVG O site FlatIcon contém alguns ícones gratuitos que podem ser baixados no formato SVG.</description>
+    </item>
+    
+  </channel>
+</rss>

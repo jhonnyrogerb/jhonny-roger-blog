@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245840">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>Código sem indentação não é legal de se ler, mas tem uma coisa um pouco pior que isso, ou tão ruim quanto, que é a falta de um padrão na indentação do projeto. Por exemplo, eu uso tab pois consigo ajustar meu editor para que ele exiba a quantidade que eu julgue necessária de espaços, mas pode ser que alguém da minha equipe use os próprios espaços, eai já imagina a beleza que vai ficar o código né? É <strong>MUITO</strong> importante <strong>padronizar</strong> o uso da indentação para não ter problemas futuros.</p>
+
+<p><em>Para quem usa espaços, o padrão de validação do</em> <strong><em>JSLint</em></strong> <em>por exemplo é de 4 (apesar de ser customizável a sua escolha), e é este que vamos usar neste artigo.</em></p>
+
+<h4 id="o-que-deve-ser-indentado">O que deve ser indentado?</h4>
+
+<p>Mas o que será que eu indento? O que precisa ser indentado? Simples, qualquer coisa dentro de chaves. <strong class="markup--strong markup--p-strong">Funções, loops, ifs, switches e propriedades de objetos</strong>, vou mostrar a baixo exemplos de indentação:</p>
+
+<pre class="lang-js">function algumaFuncao(a, b) {
+    var c = 1,
+        d = 2,
+        inner;
+    if (a &gt; b) {
+        inner = function() {
+        return {
+            r: c - d
+        };
+    };
+    } else {
+        inner = function () {
+            return {
+                r: c + d
+            };
+        };
+    }
+    return inner;
+}
+</pre>
+
+<p>Caso você tenha apenas uma instrução em um <strong>if</strong> ou <strong>for</strong>, as chaves não são obrigatórias, porem, mesmo que sejam opcionais é importante <strong>sempre usa-las</strong>. Isto faz com que seu código seja mais fácil de dar manutenção pois outras pessoas vão entende-lo melhor.</p>
+
+<p>Exemplo, imagina que você tenha um <strong>loop for</strong> com uma instrução. Você pode optar por não por as chaves e mesmo assim não haveriam erros de sintaxe:</p>
+
+<pre class="lang-js">for (var i = 0; i &lt; 10; i += 1)
+    alert(i);
+</pre>
+
+<p>E se caso mais tarde você decidir adicionar outra linha no loop?</p>
+
+<pre class="lang-js">for (var i = 0; i &lt; 10; i += 1)
+    alert(i);
+    alert(i + &#039; is &#039; +(i % 2 ? &#039;odd&#039; : &#039;even&#039;));
+</pre>
+
+<p>O segundo <strong>alert()</strong> está fora do <strong>loop</strong> neste caso, apesar da indentação estar tentando te enganar. Por isso temos que <strong>sempre usar as chaves</strong>, pois evitamos ter problemas futuros, precisamos pensar a longo prazo aqui.</p>
+
+<h4 id="chave-de-abertura">Chave de abertura</h4>
+
+<p>Tendemos a ter preferência sobre onde colocar a chave de abertura no código, uns preferem por na <strong>mesma linha</strong>, outros na <strong>linha seguinte</strong>, veja:</p>
+
+<pre class="lang-js">if (true){
+    alert('É true!')
+}
+</pre>
+
+<p>Ou:</p>
+
+<pre class="lang-js">if (true)
+{
+    alert('É true!')
+}
+</pre>
+
+<p>Neste exemplo é uma questão de preferência porém, em alguns casos o programa pode se comportar diferentemente, dependendo de onde a chave está. Isto ocorre por causa do _mecanismo de inserção de ponto e vírgula — _o JS não alarma caso você queira não terminar suas linhas com ponto e vírgula, pois neste caso <strong>ele adiciona para você</strong>. Isso pode causar problemas quando uma função retorna um objeto literal e a chave de abertura está na linha seguinte:</p>
+
+<pre class="lang-html">function func() {
+    return
+    {
+        nome: 'Julio'
+    };
+}
+</pre>
+
+<p>Se você queria que sua função retornasse o objeto “<strong>nome</strong>”, você vai ter uma surpresa, experimente rodar no seu console do node e ver o resultado para melhor compreender. Por causa dos pontos e vírgulas a função retorna “<strong>undefined”</strong>.</p>
+
+<p>Concluindo:</p>
+
+<p>Sempre usar chaves, e sempre colocar a de abertura na mesma linha da instrução anterior:</p>
+
+<pre class="lang-js">function func() {
+    return {
+        nome: 'Julio'
+    };
+}
+</pre>
+
+<p>Espero que tenham curtido, e que eu possa ter contribuído com o conhecimento de quem acessa o Tableless, este é meu objetivo em geral, ajudar! Abraços, te espero no próximo post!</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/indo-alem-no-react-native//?utm_source=tablelessRelatedLin">Indo além no Mundo React-Native</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/seu-primeiro-bot-para-o-telegram//?utm_source=tablelessRelatedLin">Seu primeiro bot para o Telegram</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245840"></script>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Locaweb on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/locaweb/</link>
+    <description>Recent content in Locaweb on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 10 Aug 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/locaweb/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Processo front-end na Locaweb</title>
+      <link>http://localhost/jhonny-roger/public/processo-front-end-na-locaweb/</link>
+      <pubDate>Mon, 10 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/processo-front-end-na-locaweb/</guid>
+      <description>É muito interessante entender como funcionam os processos em grandes empresas e comparar com processo que você executa na sua própria empresa. Depois que li o post que o Jaydson fez falando um pouco sobre o processo de desenvolvimento no Terra, fiquei de escrever um artigo parecido mostrando mais ou menos como nós aqui da Locaweb fazemos nosso front-end. Sugiro que leia o post do Jaydson e mate a sua curiosidade sobre o processo que eles tem lá.</description>
+    </item>
+    
+    <item>
+      <title>Seminário de Desenvolvimento Web em Goiânia (grátis)</title>
+      <link>http://localhost/jhonny-roger/public/seminario-de-desenvolvimento-web-em-goiania-gratis/</link>
+      <pubDate>Thu, 18 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/seminario-de-desenvolvimento-web-em-goiania-gratis/</guid>
+      <description>Pessoal, a Locaweb está fazendo pelo país umasérie de seminários **grátis sobre desenvolvimento web. Eu serei um dos participantes, dirigindo um painel no final de cada evento e o próximo será em Goiânia.
+Cada seminário vai contar com palestrantes locais. A ideia é fortificar a comunidade local de desenvolvedores, com assuntos atuais e importantes. Veja os palestrantes de Goiânia:
+     Jean Lucas de Carvalho Criando APIS       Márcio Sena Marcadores Semânticos usá-los ou usá-los       Frederico Galvão Cordova: HTML no mundo mobile       James Pinto Ruby Bom é Ruby Limpo       Diego Eis Painel com palestrantes    Inscreva-se agora, é grátis!</description>
+    </item>
+    
+    <item>
+      <title>Tableless e o 16 ELW no Rio de Janeiro e SP</title>
+      <link>http://localhost/jhonny-roger/public/tableless-e-o-16-elw-rio-de-janeiro-e-sp/</link>
+      <pubDate>Mon, 05 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tableless-e-o-16-elw-rio-de-janeiro-e-sp/</guid>
+      <description>Hey front-ends, designers e back-ends do Rio de Janeiro (dia 15&amp;frasl;05) e São Paulo (dia 20&amp;frasl;05): nós estaremos aí na cidade de vocês, no 16 Encontro Locaweb este ano. Escolhemos alguns palestrantes que falarão desde Responsive Web Design (Diego Eis) até segurança em serviços web (Fernando Vieira). Se você mora nessas cidades, vamos conversar e assistir algumas boas palestras, inéditas na comunidade, com conteúdo novo e importante!
+Os palestrantes escalados são:</description>
+    </item>
+    
+    <item>
+      <title>O Tableless escolheu os palestrantes do 16º Encontro Locaweb</title>
+      <link>http://localhost/jhonny-roger/public/tableless-16-encontro-locaweb/</link>
+      <pubDate>Mon, 17 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tableless-16-encontro-locaweb/</guid>
+      <description>O Tableless foi convidado pela Locaweb para fazer a curadoria da sala sobre desenvolvimento web nos eventos do Encontro Locaweb deste ano. Yay!
+Irão palestrar na sala sobre desenvolvimento o Jaydson Gomes, Jean Carlo Emer, Nando Vieira, Diego Eis.
+Os assuntos circularão sobre Ruby, Javascript, CSS e HTML. Não falaremos sobre coisas básicas, queremos tentar elevar um pouco o nível técnico dos assuntos. Será interessante para que os iniciantes conheçam assuntos avançados e também para que os desenvolvedores mais exigentes atualizem seus conhecimentos.</description>
+    </item>
+    
+    <item>
+      <title>Anotações da palestra do Silvio Meira</title>
+      <link>http://localhost/jhonny-roger/public/anotacoes-da-palestra-do-silvio-meira/</link>
+      <pubDate>Tue, 07 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/anotacoes-da-palestra-do-silvio-meira/</guid>
+      <description>Essas são as anotações que fiz na palestra do Silvio Meira no evento Encontro Locaweb de Profissionais de Internet em Curitiba. Ele falou muito, mas muito mais do que está aqui. Por isso que isso se chama anotações. 😉
+ Experiência de uso: UX não é interface ou seu design. UX é processo, interação, satisfação. Problema classico de UX no Brasil: vide serviços públicos. Contrate os melhores, mas defina o que é o melhor para o seu negócio.</description>
+    </item>
+    
+    <item>
+      <title>Locaweb Style – Como iniciamos</title>
+      <link>http://localhost/jhonny-roger/public/locaweb-style-como-iniciamos/</link>
+      <pubDate>Tue, 19 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/locaweb-style-como-iniciamos/</guid>
+      <description>Se você ainda não conhece o Locaweb Style, vá lá conhecer e continue lendo esse texto. Vai ser interessante se você está querendo usar um framework pronto se quer criar um novo para seus projetos.
+Uma das minhas missões aqui na Locaweb em 2012 foi iniciar uma reestruturação na área de front-end. Embora todas as equipes aqui tenham programadores super talentosos em back-end, por incrível que possa parecer, a Locaweb não tinha uma equipe focada para tratar do código front-end de seus produtos.</description>
+    </item>
+    
+    <item>
+      <title>Locaweb Developer Network</title>
+      <link>http://localhost/jhonny-roger/public/developer-network/</link>
+      <pubDate>Mon, 04 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/developer-network/</guid>
+      <description>Já faz um tempo que iniciamos um trabalho muito bacana aqui na Locaweb de padronizar e reestruturar a área de front-end. Nesse processo percebemos que alguns desenvolvedores que conhecem a Locaweb e utilizam nossos serviços, não tinham um acesso facilitado para encontrar informações técnicas, como por exemplo a integração e utilização das APIs dos produtos. Diversos desenvolvedores precisam dessas informações para que integrarem seus produtos aos serviços da Locaweb, tanto para projetos pessoais ou projetos para seus clientes.</description>
+    </item>
+    
+    <item>
+      <title>10º Encontro Locaweb de Profissionais de Internet</title>
+      <link>http://localhost/jhonny-roger/public/10o-encontro-locaweb/</link>
+      <pubDate>Fri, 18 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/10o-encontro-locaweb/</guid>
+      <description>&lt;p&gt;Está chegando o &lt;a href=&#34;https://www.locaweb.com.br/encontro/&#34;&gt;10º Encontro Locaweb de Profissionais de Internet&lt;/a&gt;, e eu vou participar novamente esse ano. Vou falar sobre produtividade no desenvolvimento, mas com uma abordagem bem diferente da que usei ano passado no Intercon. Dessa vez, vou escrever código.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

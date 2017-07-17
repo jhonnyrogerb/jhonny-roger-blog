@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245863">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>[]<a href="http://tableless.com.br/centralizando-conteudo-na-vertical-e-horizontal-com-css-flexbox/">1</a></p>
+
+<h3 id="objeto-no-centro-da-tela">Objeto no centro da tela</h3>
+
+<p>Uma das dúvidas mais freqüentes é esta: Como fazer para que um objeto fique no centro da tela usando css?</p>
+
+<p>A resposta está nos passos abaixo!</p>
+
+<h3 id="colocando-a-imagem">Colocando a imagem:</h3>
+
+<p>Neste exemplo vamos usar uma imagem, mas você pode perfeitamente usar um div, o processo é o mesmo.</p>
+
+<p>Coloque na imagem (ou no div) um nome de ID&#8230; Colocamos neste exemplo o ID com nome &#8220;centro&#8221;.</p>
+
+<pre class="lang-html">&lt;img src="imagem.gif" id="centro" /&gt;
+</pre>
+
+<h3 id="definindo-as-dimensões-do-objeto">Definindo as dimensões do objeto:</h3>
+
+<p>Agora, no css, defina as dimensões do objeto (imagem ou div).</p>
+
+<p>Nossa imagem tem 100 x 100 px&#8217;s, então vamos definir no css que a largura será de 100px (width:100px;) e que a altura também será de 100px (height:100px;).</p>
+
+<pre class="lang-css">#centro {
+width:100px;
+height:100px;
+}
+</pre>
+
+<h3 id="alinhando">Alinhando:</h3>
+
+<p>Estamos quase no final, você pode perceber que o objeto está um pouco desalinhado do centro. Vamos agora posicioná-lo&#8230; É aqui começa o truque.</p>
+
+<p>Defina para nosso objeto, uma posição absoluta (position:absolute;), ele deverá ficar a 50% de distância do topo (top:50%;) e 50% de distância do lado esquerdo do documento (left:50%;).</p>
+
+<p>O css não usa o centro do objeto como referência para o posicionamento, mas sim as extremidades, portanto, o que ficará no centro depois deste código, será o canto esquerdo superior do objeto.</p>
+
+<pre class="lang-css">#centro {
+width:100px;
+height:100px;
+position:absolute;
+top:50%;
+left:50%;
+}
+</pre>
+
+<h3 id="o-grande-final">O grande final:</h3>
+
+<p>Eis o truque para tirar a diferença, não é nada de outro mundo.</p>
+
+<p>Você irá definir ao objeto duas margens negativas&#8230; a margem do topo (margin-top) e a margem da esquerda (margin-left). Na margem do topo, você simplesmente colocará um valor negativo, este valor será a metade da altura do objeto, neste caso, será -50px (margin-top:-50px;) e no lado esquerdo você fará a mesma coisa, mas o valor será a metade da largura do objeto, neste caso -50px (margin-left:-50px;).</p>
+
+<pre class="lang-css">#centro {
+    width:100px;
+    height:100px;
+    position:absolute;
+    top:50%;
+    left:50%;
+    margin-top:-50px;
+    margin-left:-50px;
+}
+</pre>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/o-basico-sobre-sparql-turtle//?utm_source=tablelessRelatedLin">O básico sobre Sparql e Turtle</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/paginas_acessiveis_hatemile//?utm_source=tablelessRelatedLin">Páginas acessíveis com o HaTeMiLe</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245863"></script>

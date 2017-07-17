@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gustavo Henrique Prado Reis on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/gustavo-henrique-prado-reis/</link>
+    <description>Recent content in Gustavo Henrique Prado Reis on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 26 Mar 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/gustavo-henrique-prado-reis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Como fazer integração do CakePHP com Mailchimp</title>
+      <link>http://localhost/jhonny-roger/public/como-fazer-integracao-cakephp-com-mailchimp/</link>
+      <pubDate>Thu, 26 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/como-fazer-integracao-cakephp-com-mailchimp/</guid>
+      <description>Em um projeto que trabalhei, o cliente tinha um espaço no site para cadastro de newsletter, dessa forma ele gostaria de fazer automaticamente esse cadastro em suas listas no Mailchimp para não ter que ficar importando uma lista nova de e-mails sempre.
+Dai surgiu a necessidade de pesquisar um pouco e encontrar diversas maneiras de fazer isso, algumas que até já não funcionam mais devido a versões.. Vou mostrar aqui como funcionou pra mim.</description>
+    </item>
+    
+  </channel>
+</rss>

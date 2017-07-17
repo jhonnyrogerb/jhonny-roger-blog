@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felipe Rodrigues on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/felipe-rodrigues/</link>
+    <description>Recent content in Felipe Rodrigues on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Mar 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/felipe-rodrigues/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Condições ternárias</title>
+      <link>http://localhost/jhonny-roger/public/condicoes-ternarias/</link>
+      <pubDate>Wed, 04 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/condicoes-ternarias/</guid>
+      <description>Algumas condições simples precisam de muito código para definir uma atribuição.
+Por exemplo:
+var isIphone = false; var os; if (isIphone) { os = &#34;iOS&#34;; } else { os = &#34;Android&#34;; }  O código precisa de dois blocos para definir uma única atribuição. Podemos usar condições ternárias para tornar o código mais conciso.
+A condição ternária oferece um atalho mais rápido que os longos blocos de condicionais tradicionais.
+Pra fazer uma condição ternária, colocamos primeiro a condição, seguida pelo operador que divide a condicional entre condição e as ações a serem tomadas.</description>
+    </item>
+    
+  </channel>
+</rss>

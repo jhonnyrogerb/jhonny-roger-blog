@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lucas Macedo on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/lucas-macedo/</link>
+    <description>Recent content in Lucas Macedo on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 19 Mar 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/lucas-macedo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CakePHP convenções de nomenclatura e o poderoso Inflector!</title>
+      <link>http://localhost/jhonny-roger/public/cakephp-convencoes-de-nomenclatura-e-o-poderoso-inflector/</link>
+      <pubDate>Thu, 19 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/cakephp-convencoes-de-nomenclatura-e-o-poderoso-inflector/</guid>
+      <description>Geralmente eu tenho problemas para encontrar os nomes corretos para os meus controllers, views, models e tabelas. Talvez a tarefa mais difícil de todo programador seja nomear as coisas. Quem nunca ficou indeciso por causa do nome de uma função ou de uma variável? Eu busco sempre permanecer o projeto todo em inglês.
+Bem, CakePHP faz um monte de trabalho tedioso e repetitivo para você, para que você possa se concentrar melhor nas regras do negocio.</description>
+    </item>
+    
+  </channel>
+</rss>

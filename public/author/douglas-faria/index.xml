@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Douglas Faria on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/douglas-faria/</link>
+    <description>Recent content in Douglas Faria on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 07 Oct 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/douglas-faria/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>O que é autoridade do domínio ou Domain Authority?</title>
+      <link>http://localhost/jhonny-roger/public/o-que-e-autoridade-dominio-ou-domain-authority/</link>
+      <pubDate>Tue, 07 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-que-e-autoridade-dominio-ou-domain-authority/</guid>
+      <description>Autoridade do domínio ou Domain Authority (DA), é uma métrica criada pela empresa americana MOZ, que simula o algoritmo do Google. Seu número vai de 0 a 100 e você pode checá-lo através do Open Site Explorer.
+Porque devo me preocupar com o Domain Authority? Em primeiro lugar, é um indicador de qualidade que analisa links, volumes de visitas e outros aspectos que demonstram a relevância do seu domínio. Geralmente, sites que possuem melhores rankings tem o DA mais alto do que o de seus concorrentes.</description>
+    </item>
+    
+    <item>
+      <title>Duas dicas de como lidar com o Not Provided</title>
+      <link>http://localhost/jhonny-roger/public/duas-dicas-de-como-lidar-com-o-provided-comece-desbanca-lo/</link>
+      <pubDate>Wed, 26 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/duas-dicas-de-como-lidar-com-o-provided-comece-desbanca-lo/</guid>
+      <description>Aprenda a lidar com esse cara chato na hora de analisar relatórios no Analytics.
+Todo mundo que trabalha com SEO, ou pelo menos boa parte da galera, possui o Google Analytics instalado em seus projetos para fazer análise dos dados de acesso e comportamento do usuário. Dessa forma, podemos compreender como o usuário se comporta em nosso site e traçar estratégias melhores.
+Provavelmente, você deve ter visto no relatório de palavras chave o famoso (e chato) not provided.</description>
+    </item>
+    
+    <item>
+      <title>Como escrever bem para o SEO – Texto e Contexto, da palavra-chave à semântica.</title>
+      <link>http://localhost/jhonny-roger/public/como-escrever-bem-para-o-seo-texto-e-contexto-da-palavra-chave-semantica/</link>
+      <pubDate>Fri, 03 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/como-escrever-bem-para-o-seo-texto-e-contexto-da-palavra-chave-semantica/</guid>
+      <description>Como escrever bem para o SEO não é um assunto bem explorado, mas muito mal conduzido. Vamos falar sobre a forma de escrever para se atingir bons resultados com SEO no Google.
+Texto e Contexto: a contextualização dos buscadores Pois é, está aí uma coisa que deve ser entendida. O significado desse título é mais do que pensar em um texto coeso, com boa estruturação e voltado para um público alvo específico, até porque isso soa meio obvio.</description>
+    </item>
+    
+    <item>
+      <title>Ferramentas úteis para se trabalhar com SEO</title>
+      <link>http://localhost/jhonny-roger/public/ferramentas-uteis-para-se-trabalhar-com-seo/</link>
+      <pubDate>Wed, 23 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ferramentas-uteis-para-se-trabalhar-com-seo/</guid>
+      <description>Muitas vezes ficamos perdidos em como mensurar resultados e analisa-los, afim de traçar estratégias mais eficazes. Isso acontece principalmente quando estamos começando a trabalhar com SEO. Sabemos o quanto é importante trabalhar os fatores OnPage, ter um servidor estável e um site rápido, além de bons links e menções, entre outros fatores que, somados, fica difícil de se controlar.
+Por isso, trouxe aqui algumas ferramentas, umas pagas e outras free, mas que vão ajuda-lo a administrar a sua campanha.</description>
+    </item>
+    
+    <item>
+      <title>Redesign e SEO</title>
+      <link>http://localhost/jhonny-roger/public/redesign-seo/</link>
+      <pubDate>Tue, 24 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/redesign-seo/</guid>
+      <description>É muito bom quando damos uma cara nova a algum projeto. Trazemos novas ideias, conceitos diferentes e novidades. Muitas vezes isso é uma injeção de ânimo. Até porque, a ideia é que a mudança nos faça crescer.
+Pois é! Falando do seu site, isso pode trazer problemas quando decidimos mudar e não prestamos atenção nos detalhes.
+O que acontece é que, as vezes, deixamos erros bobos atrapalhar (e muito) a nossa campanha.</description>
+    </item>
+    
+    <item>
+      <title>URLs Amigáveis, Design Responsivo e o SEO</title>
+      <link>http://localhost/jhonny-roger/public/urls-amigaveis-design-responsivo-e-o-seo/</link>
+      <pubDate>Wed, 28 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/urls-amigaveis-design-responsivo-e-o-seo/</guid>
+      <description>Recentemente, o Google anunciou mudanças em seu algoritmo para o rankeamento de dispositivos móveis. O intuito é penalizar aqueles sites que ainda não aderiram ao design responsivo e beneficiar os que já estão com a tecnologia implementada. Confira aqui alguns pontos considerados chave pelo Google para aprimorar os resultados mobile.
+URL Amigável e Design Responsivo Essa é uma relação bem interessante. Antigamente os sites mobile ficavam armazenados em um diretório à parte, geralmente um subdomínio (m.</description>
+    </item>
+    
+    <item>
+      <title>O SEO moderno e o foco no usuário</title>
+      <link>http://localhost/jhonny-roger/public/o-seo-moderno-e-o-foco-no-usuario/</link>
+      <pubDate>Tue, 20 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-seo-moderno-e-o-foco-no-usuario/</guid>
+      <description>Google força Analistas de SEO a se especializarem cada vez mais no intuito de aumentar o foco no usuário e melhorar a qualidade do conteúdo oferecido em suas buscas.
+O mercado de SEO vem sofrendo algumas mudanças ao longo dos últimos anos e isso se deve à persistência do Google em oferecer buscas cada vez melhores aos usuários. Assim, fica fácil perceber qual deve ser o seu foco principal para atingir conversões e ter sucesso nas campanhas de SEO: O usuário!</description>
+    </item>
+    
+    <item>
+      <title>Breadcrumb Navigation – Facilite a vida do seu cliente e aumente sua linkagem interna</title>
+      <link>http://localhost/jhonny-roger/public/breadcrumb-navigation-facilite-a-vida-do-seu-cliente-e-aumente-sua-linkagem-interna/</link>
+      <pubDate>Sun, 18 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/breadcrumb-navigation-facilite-a-vida-do-seu-cliente-e-aumente-sua-linkagem-interna/</guid>
+      <description>O que é Breadcrumb? É uma estrutura de navegação que auxilia o usuário a se localizar entre as páginas (níveis) do website. Para cada nível da estrutura, é criado um link da sessão correspondente. Assim, caso o usuário queira ir direto para a sessão de Eletrônicos, bastaria clicar no nível “Eletrônico”. Veja na prática:
+
+Porque eu devo utilizar breadcrumb? Primeiramente, é uma forma bem legal de demonstrar a organização do seu site, de mostrar ao usuário onde ele está e contextualizá-lo, melhorando a experiência desse visitante.</description>
+    </item>
+    
+  </channel>
+</rss>

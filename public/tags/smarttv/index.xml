@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smarttv on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/smarttv/</link>
+    <description>Recent content in Smarttv on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 03 Aug 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/smarttv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Desenvolvendo apps para SmartTVs com HTML, CSS e Ajax</title>
+      <link>http://localhost/jhonny-roger/public/desenvolvendo-apps-para-smarttvs-com-html-css-e-ajax/</link>
+      <pubDate>Mon, 03 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/desenvolvendo-apps-para-smarttvs-com-html-css-e-ajax/</guid>
+      <description>Hoje em dia, as Smart TVs estão cada vez mais presentes no dia a dia. E muito por isso, gosto de pesquisar e aprender formas de programar sua interface e até criar apps que rodassem em seu ambiente. Nessas pesquisas, descobri que é fácil e simples o desenvolvimento para Smart TV, veja só:
+1º Para criar apps para Smart TV você usará em primeiro lugar HTML, CSS e Ajax/JavaScript.</description>
+    </item>
+    
+  </channel>
+</rss>

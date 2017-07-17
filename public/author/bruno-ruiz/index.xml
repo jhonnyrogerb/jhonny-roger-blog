@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bruno Ruiz on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/bruno-ruiz/</link>
+    <description>Recent content in Bruno Ruiz on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 21 Jan 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/bruno-ruiz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Workflow Front-end</title>
+      <link>http://localhost/jhonny-roger/public/workflow-front-end/</link>
+      <pubDate>Wed, 21 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/workflow-front-end/</guid>
+      <description>O desenvolvimento em html, javascript e CSS é uma forma mágica de se construir um mundo novo a cada linha de código. Os mágicos do front-end precisam de cartolas para que retirem seus coelhos. Essas cartolas e varinhas mágicas devem ser escolhidas a dedo, para que a mágica aconteça de forma suave e agradável à plateia.
+Cada mágico tem sua técnica, portanto o objetivo não é estabelecer um padrão imutável, mas estabelecer diretrizes que possam servir de auxílio a qualquer ilusionista.</description>
+    </item>
+    
+    <item>
+      <title>Design Patterns em JavaScript – Observer</title>
+      <link>http://localhost/jhonny-roger/public/design-patterns-em-javascript-observer/</link>
+      <pubDate>Fri, 19 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/design-patterns-em-javascript-observer/</guid>
+      <description>O que é Design Patterns? Desenvolver um software é se deparar constantemente com problemas. Esses problemas surgem em diversas situações e em grande quantidade. Em termos simples: nos deparamos várias vezes com um mesmo problema em diversas situações em momentos diferentes no mesmo projeto.
+Se os problemas são sempre os mesmos as soluções se repetem. Mas é muito comum darmos as mesmos soluções aos mesmos problemas de formas diferentes; isto porque não padronizamos soluções para problemas que sempre estamos resolvendo.</description>
+    </item>
+    
+    <item>
+      <title>File API – Trabalhando com Arquivos Locais Usando Javascript</title>
+      <link>http://localhost/jhonny-roger/public/file-api-trabalhando-com-arquivos-locais-usando-javascript/</link>
+      <pubDate>Tue, 08 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/file-api-trabalhando-com-arquivos-locais-usando-javascript/</guid>
+      <description>A atividade exercida localmente para a leitura de arquivos fornecidos pelo cliente na web sempre foi a de selecionar o arquivo e enviá-los ao servidor para que este possa, de alguma forma, fazer a leitura e retornar os dados de leitura para o cliente. Esta é a prática usual. Mas o HTML5 veio com suas API para desmistificar o usual.
+A File API desmitifica a prática de enviar um arquivo para o servidor para que ele possa ser lido.</description>
+    </item>
+    
+    <item>
+      <title>Web Storage  – HTML5</title>
+      <link>http://localhost/jhonny-roger/public/web-storage-html5/</link>
+      <pubDate>Tue, 28 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/web-storage-html5/</guid>
+      <description>Cookies &amp;#8211; o passado Para entendermos a vantagem obtida na utilização do WebStorage vamos compreender como uma aplicação trabalha(va) com cookies.
+Os cookies são inseridos no cabeçalho HTTP, sendo assim, sua performance pode ser comprometida. E estando as informações no cabeçalho HTTP, podemos nos perguntar: o quão protegidas elas estão?
+Outro desafio que se apresenta ao se trabalhar cookies é a capacidade de armazenamento: 4kB por cookies vezes no máximo 20 cookies é igual a capacidade de 80 kB.</description>
+    </item>
+    
+  </channel>
+</rss>

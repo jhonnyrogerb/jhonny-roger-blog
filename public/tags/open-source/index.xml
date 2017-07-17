@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/open-source/</link>
+    <description>Recent content in Open Source on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 29 Sep 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Por que Python?</title>
+      <link>http://localhost/jhonny-roger/public/por-que-python/</link>
+      <pubDate>Tue, 29 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/por-que-python/</guid>
+      <description>Eu sou apaixonado por Python. Muito. Daquele tipo que fala de Python sempre que pode. E uma pergunta que sempre me fazem é: por quê? Vou tentar fazer uma lista dos motivos mais relevantes:
+1. É muito bom escrever código Python Geralmente, quando alguém cria uma linguagem de programação, tem em vista um objetivo. Por exemplo, Lisp foi escrita para programação funcional. Java foi escrita para que o mesmo código pudesse rodar em qualquer lugar.</description>
+    </item>
+    
+    <item>
+      <title>O editor de textos Open Source da Adobe, o Brackets!</title>
+      <link>http://localhost/jhonny-roger/public/o-editor-de-textos-open-source-da-adobe-o-brackets/</link>
+      <pubDate>Sat, 17 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-editor-de-textos-open-source-da-adobe-o-brackets/</guid>
+      <description>Um editor de textos Open Source que vem crescendo com uma grande velocidade, alcançando, e, diria eu, ultrapassando alguns editores de texto já consolidados no mercado, prefiro não citar nomes.
+Principais recursos Extract, abra um PSD dentro do editor de textos:
+Basicamente essa feature consiste na abertura de um PSD dentro do editor de textos, através do plugin Extract (padrão do Brackets). Mas para que abrir um PSD dentro do editor de textos ?</description>
+    </item>
+    
+    <item>
+      <title>Contribuindo em projetos open source com o github</title>
+      <link>http://localhost/jhonny-roger/public/contribuindo-em-projetos-open-source-com-o-github/</link>
+      <pubDate>Fri, 21 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/contribuindo-em-projetos-open-source-com-o-github/</guid>
+      <description>Projetos open source são o que há de mais legal no mundo do desenvolvimento quando se quer aprender novas tecnologias e envolver-se em projetos, seja codificando, documentando, testando ou realizando qualquer tipo de atividade que envolve um projeto.
+Uma das principais ferramentas para o envolvimento em projetos open source é o github. Este artigo explica como utilizar essa ferramenta para envolver-se em projetos, visando realizar contribuições em projetos.
+Primeiros passos Antes de tudo é necessário conhecer minimamente a ferramenta e o seu fluxo de trabalho, portanto, é recomendada a leitura de dois artigos:</description>
+    </item>
+    
+  </channel>
+</rss>

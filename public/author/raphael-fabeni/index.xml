@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raphael Fabeni on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/raphael-fabeni/</link>
+    <description>Recent content in Raphael Fabeni on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 21 May 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/raphael-fabeni/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>JavaScript: Dicas de bolso – parte 1</title>
+      <link>http://localhost/jhonny-roger/public/dicas-de-bolso-de-javascript-parte-1/</link>
+      <pubDate>Thu, 21 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/dicas-de-bolso-de-javascript-parte-1/</guid>
+      <description>JavaScript e suas pegadinhas JavaScript é uma linguagem bem legal mas cheia de pegadinhas. A idéia desse post é documentar alguma dessas pegadinhas, para que possamos evitar dores de cabeça principalmente à galera que ainda não se deparou com alguma delas.
+Guarde o tamanho do array No JavaScript temos nossos brothers loops for, que conseguem iterar em arrays ou também em objetos semelhantes a arrays. Semelhantes? Como assim!? Por exemplo os objetos arguments e HTMLCollection.</description>
+    </item>
+    
+    <item>
+      <title>Jasmine: entendendo os matchers</title>
+      <link>http://localhost/jhonny-roger/public/jasmine-entendendo-os-matchers/</link>
+      <pubDate>Mon, 30 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/jasmine-entendendo-os-matchers/</guid>
+      <description>Uma parte legal do Jasmine e que adianta muito o nosso lado são os matchers: de um modo resumido e direto, um _matcher_ implementa uma comparação _booleana_ entre o valor atual e o valor esperado. É responsável em passar para o _framework_ se o que esperamos através do nosso teste é _verdadeiro_ ou falso. Com base nisso, o _Jasmine_ vai passar ou falhar a spec.
+toEqual Esse talvez seja o mais básico e um dos que mais iremos usar.</description>
+    </item>
+    
+    <item>
+      <title>Um guia para o elemento ‘time’ do HTML5</title>
+      <link>http://localhost/jhonny-roger/public/um-guia-para-o-elemento-time-html5/</link>
+      <pubDate>Mon, 29 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/um-guia-para-o-elemento-time-html5/</guid>
+      <description>O HTML5 trouxe diversas coisas bacanas pra nós desenvolvedores. Uma das mais simples e que eu acho que são uma das mais legais é a questão da semântica com os novos elementos. O surgimento dessas tags deixaram nossos códigos mais semânticos e legíveis, tanto por nós como pelas máquinas.
+Um desses elementos é o time. Já havia lido sobre ele, mas nunca tinha ido muito a fundo. Esses dias encontrei um texto do Aurelio De Rosa no SitePoint que explica bastante coisa sobre este elemento e resolvi traduzir pra gente.</description>
+    </item>
+    
+    <item>
+      <title>Validação de formulários com HTML5</title>
+      <link>http://localhost/jhonny-roger/public/validacao-de-formularios-com-html5/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/validacao-de-formularios-com-html5/</guid>
+      <description>O HTML5 trouxe diversas possibilidades e, principalmente facilidades para os desenvolvedores. Uma delas é relacionada a validação de formulários. O que antes era feito com algum tempo e JavaScript, hoje pode ser feito diretamente no HTML e em um tempo muito menor. Por isso, navegando pela internet achei no SitePoint esse artigo do Agbonghama Collins, um desenvolvedor nigeriano, que escreveu de forma rápida e direta alguns pontos da validação de formulários utilizando HTML5 e, resolvi traduzi-lo para nós.</description>
+    </item>
+    
+    <item>
+      <title>Utilizando o MarkerClusterer no Google Maps</title>
+      <link>http://localhost/jhonny-roger/public/utilizando-o-markerclusterer-google-maps/</link>
+      <pubDate>Wed, 07 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/utilizando-o-markerclusterer-google-maps/</guid>
+      <description>Seja você desenvolvedor ou não, temos que admitir o poder do Google Maps. É bem difícil encontrar alguém hoje em dia que não tenha acessado pelo menos uma vez o famoso Maps para ver onde ficava um determinado lugar.
+Esses dias me deparei novamente com o excelente artigo do Thulio Philipe sobre a API do Google Maps V3 e resolvi escrever um pouco sobre um recurso chamado MarkerClusterer.
+O que é o MarkerClusterer?</description>
+    </item>
+    
+    <item>
+      <title>SASS: Mixin ou Placeholder?</title>
+      <link>http://localhost/jhonny-roger/public/sass-mixin-ou-placeholder/</link>
+      <pubDate>Sun, 16 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sass-mixin-ou-placeholder/</guid>
+      <description>Se é um tema que sempre vejo a respeito da utilização ou não, é sobre o uso de pré processadores CSS. Alguns devs que costumo seguir e ler os artigos, e que pra mim são algumas das nossas referências, apontam as suas considerações sobre o tema. O Miller Medeiros, em um post mostra alguns pontos negativos na utilização de pré processadores. O Jean Carlos Emer em um outro post mostra as reais vantagens de se utilizar um pré-processador.</description>
+    </item>
+    
+    <item>
+      <title>Transições inteligentes na experiência do usuário</title>
+      <link>http://localhost/jhonny-roger/public/transicoes-inteligentes-na-experiencia-usuario/</link>
+      <pubDate>Mon, 16 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/transicoes-inteligentes-na-experiencia-usuario/</guid>
+      <description>As novas propriedades do CSS3 nos surpreendem cada vez mais. Não só pelo fato de terem simplificado muitas coisas (só quem lembra do trabalho para se fazer uma borda arredondada ou sombra em um elemento entende o quão úteis são algumas propriedades), mas também pelo poder que nos deu de enriquecermos a experiência do usuário. Se você ainda não está por dentro dessa maravilha, confira mais artigos sobre CSS3.</description>
+    </item>
+    
+    <item>
+      <title>CSS Transition e CSS Animation</title>
+      <link>http://localhost/jhonny-roger/public/transition-e-animation/</link>
+      <pubDate>Fri, 19 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/transition-e-animation/</guid>
+      <description>Transition. Prazer!  &amp;#8220;Com CSS3, podemos adicionar um efeito quando o navegador troca de um estilo para outro, sem usar animações em Flash ou JavaScript.&amp;#8221; &amp;#8211; w3schools  Mostrar um feedback ao usuário quando ele passar o mouse sobre um link (:hover) ou quando ele der foco em um campo input (:focus) são boas práticas. Há muitos jeitos de fazermos isso: mudando a cor do texto, tirando o underline da palavra, alterando a borda do input que recebeu o foco ou até alterando a cor de background do elemento.</description>
+    </item>
+    
+  </channel>
+</rss>

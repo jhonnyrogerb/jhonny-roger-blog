@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dns on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/dns/</link>
+    <description>Recent content in Dns on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 21 Apr 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/dns/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HTTP2 para Desenvolvedores de Web</title>
+      <link>http://localhost/jhonny-roger/public/http2-para-desenvolvedores-de-web/</link>
+      <pubDate>Tue, 21 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/http2-para-desenvolvedores-de-web/</guid>
+      <description>HTTP2 significa uma mudança na forma como construímos websites. As boas práticas de HTTP1 são prejudiciais no mundo do HTTP2.
+ HTTP1 é lento e ineficiente para a maioria dos casos de uso de hoje na web.
+ HTTP1.x é a versão do HTTP que nós já conhecemos quando entramos o endereço de um site. É um protocolo antigo que foi concebido antes mesmo de sabermos o que essa imensa rede mundial de computadores se tornaria.</description>
+    </item>
+    
+  </channel>
+</rss>

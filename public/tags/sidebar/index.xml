@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sidebar on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/sidebar/</link>
+    <description>Recent content in Sidebar on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 18 Jan 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/sidebar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Criando Sidebar Dinâmica no WordPress</title>
+      <link>http://localhost/jhonny-roger/public/criando-sidebar-dinamica-no-wordpress/</link>
+      <pubDate>Tue, 18 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-sidebar-dinamica-no-wordpress/</guid>
+      <description>O WordPress disponibiliza uma função para criar sidebars de forma dinâmica, onde no painel de administração podemos gerenciar todos os Widgets disponíveis ou Widgets instalados.
+Essa função, mais uma vez, sai na frente e contribui para o WordPress ser esse CMS tão poderoso para os desenvolvedores e os usuários que o utilizam.
+De início iremos registrar a sidebar. Para isso coloque esse código em functions.php:
+[cc lang=&amp;#8221;php&amp;#8221;]
+/* Registando a primeira sidebar*/</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245839">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      <p>Quero apresentar nesse artigo as principais funcionalidades do PDO. PDO é uma biblioteca que implementa abstração ao acesso dos dados, ou seja, ela utiliza um driver específico, para cada SGBD (Sistema Gerenciador de Banco de Dados), tornando possível a portabilidade da base de dados de sua aplicação, sem que a mesma sofra danos ou que você passe horas e horas reescrevendo linhas e mais linhas de código.</p>
+
+<p>O primeiro passo é habilitar o driver do PDO no php.ini retirando o &#8220;;&#8221; da sua frente;</p>
+
+<p>No Windows:</p>
+
+<pre>extension=php_pdo.dll
+extension=php_pdo_mysql.dll</pre>
+
+<p>No Linux:</p>
+
+<pre>extension=pdo.so
+extension=pdo_mysql.so
+</pre>
+
+<p>Consideremos o seguinte banco de dados:</p>
+
+<pre class="lang-sql">create database livraria;
+use livraria;
+create table livros(
+id int not null auto_increment,
+titulo varchar(75) not null,
+preco decimal(10,2) not null,
+estoque int not null,
+PRIMARY KEY (id));
+</pre>
+
+<p>Estabelecemos a conexão com o Banco de dados no nosso arquivo connect.php</p>
+
+<pre class="lang-php">//Local do banco
+$host = "localhost";
+//Nome do banco de dados
+$db = "livraria";
+//Seu Usuário no banco de dados
+$user = "root";
+//Senha do banco de dados
+$pass = "";
+//Estabelecendo a conexão
+try
+{
+  /**
+   *Agora o pulo do gato,aqui é onde a mágica acontece, precisamos especificar o banco de dados 
+que iremos trabalhar,no nosso caso, optei pelo mysql. Em seguida especificamos o local 
+e o nome do banco de dados e por último o usuário e a senha
+    */
+    $pdo = new PDO("mysql:host=$host;dbname=$db", $user, $pass);
+}
+catch (Exception $e)
+{
+    echo "Erro ao estabelecer conexão com o banco de dados:".$e-&gt;getMessage();
+    die;
+}
+</pre>
+
+<p>Para inserir no Banco de dados criamos o arquivo insert.php.</p>
+
+<pre class="lang-php">/**
+ * Insere conexão com o banco de dados estabelecida anteriormente 
+ */
+include 'connect.php';
+/**
+ * Variáveis que podem receber os valores do seu formulário
+ */
+ $titulo = "Padrões de Projeto - PHP";
+ $preco = 140.5;
+ $estoque = 5;
+
+try 
+{   /**
+    *Aqui preparamos primeiramente nossa instrução de inserção e como valores, 
+passamos as "?"(interrogações) para referencia-las com o parâmetro passado pela função bindParam. 
+    * */
+    $sql="INSERT INTO `livros` (`titulo`, `preco`, `estoque`) VALUES (?, ?, ?)";
+    $stmt = $pdo-&gt;prepare($sql);
+    $stmt-&gt;bindParam(1,$titulo);
+    $stmt-&gt;bindParam(2,$preco);
+    $stmt-&gt;bindParam(3,$estoque);
+    
+    if($stmt-&gt;execute())
+        echo "Gravado com Sucesso";
+    else
+        throw new Exception("Erro ao gravar informação");
+
+}
+catch (Exception $e) 
+{
+    echo $e-&gt;getMessage();   
+}
+</pre>
+
+<p>Para atualizar os arquivos no banco de dados utilizamos nosso arquivo update.php:</p>
+
+<pre>/**
+*   Inclusão da minha Conexão
+* */
+include 'connect.php';
+/**
+ * Variáveis que vem do seu formulário html  
+ */
+$titulo = "Padrões de Projeto - PHP";
+$preco = 60;
+$estoque = 5;
+try 
+{   
+       /**
+    *Aqui preparamos nossa instrução de atualização dos dados  
+    * */
+    $sql="UPDATE `livros` SET `preco` = ?, `estoque`= ? WHERE `titulo` = ?";
+    $stmt = $pdo-&gt;prepare($sql);
+    $stmt-&gt;bindParam(1,$preco);
+    $stmt-&gt;bindParam(2,$estoque);
+    $stmt-&gt;bindParam(3,$titulo);
+
+    if($stmt-&gt;execute())
+        echo "Atualizado com Sucesso";
+    else
+        throw new Exception('Erro ao Atualizar');
+
+} 
+catch (Exception $e) 
+{
+    echo $e-&gt;getMessage();   
+}
+</pre>
+
+<p>Para listar os dados no list.php:</p>
+
+<pre class="lang-php">include 'conect.php';
+   //listando os livros
+   $sql = "SELECT * FROM livros";
+   $dados = $pdo-&gt;query($sql);
+/**
+*fetch()-&gt;Retorna a próxima linha do resultado.
+*fetchAll()-&gt; Retorna um array com todos os resultados.
+*fetchObject()-&gt; Retorna a próxima linha do resultado como objeto.
+*fetchColumn()-&gt; Retorna uma coluna da próxima linha do resultado.
+**/
+while ($result = $dados-&gt;fetch())
+{   
+ echo $result['titulo'] . " - ". $result['preco']. "-". $result['estoque']."
+";
+}
+</pre>
+
+<p>E para deletar os arquivos criamos o delete.php:</p>
+
+<pre class="lang-php">/**
+ *  Inclusão da minha Conexão
+ **/
+include 'conect.php';
+/**
+ * Variáveis que vem do seu formulário html  
+ */
+$titulo = "Padrões de Projeto - PHP";
+$preco = 60;
+$estoque = 5;
+
+try 
+{   
+    /**
+    * Aqui preparamos nossa instrução de exclusão dos dados.  
+    **/
+      $sql="DELETE FROM `livros` WHERE `titulo` = ?";
+    $stmt = $pdo-&gt;prepare($sql);
+    $stmt-&gt;bindParam(1,$titulo);
+
+    if($stmt-&gt;execute())
+        echo "Deletado com Sucesso";
+    else
+        throw new Exception('Erro ao Deletar');
+
+} 
+catch (Exception $e) 
+{
+    echo $e-&gt;getMessage();   
+}
+</pre>
+
+<p><strong>Métodos da classe PDO:</strong></p>
+
+<pre>exec int Utilizado para insert, update e delete
+query PDOStatement Utilizado para resultados tabulares, comando select.
+prepare PDOStatement Cria um prepared statement, utilizado para dados variáveis.
+</pre>
+
+<p>Trabalhar com PDO tem várias vantagens, além da portabilidade, existe também a questão da segurança, mas isso é cena para os próximos capítulos. Aconselho que visitem a <a href="http://php.net/manual/pt_BR/class.pdostatement.php">documentação</a> para que possam ter acesso a informação completa da biblioteca, pois a mesma é muito rica e fornecerá ao desenvolvedor inúmeras vantagens que facilitarão no dia a dia do seu desenvolvimento. Obrigado ^^!</p>
+
+<p><a href="https://github.com/Anrahh/pdo_tableless">clique aqui para baixar o código completo.</a></p>
+
+<p><strong>Referências</strong></p>
+
+<p><a href="http://www.diogomatheus.com.br/blog/php/trabalhando-com-pdo-no-php/">http://www.diogomatheus.com.br/blog/php/trabalhando-com-pdo-no-php/</a></p>
+
+<p><a href="http://php.net/manual/en/book.pdo.php">http://php.net/manual/en/book.pdo.php</a></p>
+
+<p><a href="http://www.php.net/manual/en/pdo.drivers.php">http://www.php.net/manual/en/pdo.drivers.php</a></p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/estatistica-basica-projetos-agile//?utm_source=tablelessRelatedLin">Estatística básica nas entregas de projetos agile — Moda, mediana e percentil</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/sketch43-novo-formato-arquivo//?utm_source=tablelessRelatedLin">O novo formato de arquivo do Sketch 43</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/site-tableless-estatico//?utm_source=tablelessRelatedLin">Agora o Tableless é estático</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245839"></script>

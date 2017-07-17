@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viewport on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/viewport/</link>
+    <description>Recent content in Viewport on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 04 Jun 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/viewport/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Entendendend a regra @viewport do HTML</title>
+      <link>http://localhost/jhonny-roger/public/regra-viewport/</link>
+      <pubDate>Mon, 04 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/regra-viewport/</guid>
+      <description>Faz algum tempo que podemos manipular o viewport dos browsers para podermos entregar um website mais adequado e confortável para os usuários. Essa manipulação era feita diretamente via uma metatag no head do documento, algo assim:
+&amp;lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1, maximum-scale=1.0&#34;&amp;gt;  Isso é necessário por que você tem uma resolução gigante em aparelhos com a tela &amp;#8220;relativamente&amp;#8221; pequena, com 320&amp;#215;480. Lembre-se que a resolução é uma coisa, o tamanho da tela é outra.</description>
+    </item>
+    
+  </channel>
+</rss>

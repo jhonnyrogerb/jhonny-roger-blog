@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Desenvolvimento on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/desenvolvimento/</link>
+    <description>Recent content in Desenvolvimento on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 13 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/desenvolvimento/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Código Limpo – Escreva seu código hoje sem esquecer da manutenção de amanhã</title>
+      <link>http://localhost/jhonny-roger/public/codigo-limpo-escreva-seu-codigo-hoje-sem-esquecer-da-manutencao-de-amanha/</link>
+      <pubDate>Fri, 13 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/codigo-limpo-escreva-seu-codigo-hoje-sem-esquecer-da-manutencao-de-amanha/</guid>
+      <description>Você provavelmente já precisou entender o código de outra pessoa. Seja para realizar uma alteração, corrigir um bug ou até mesmo para procurar um comportamento específico.
+Talvez você até tenha feito isso no seu próprio código!
+Agora pense por alguns segundos: O código foi fácil de entender?
+Você, só pela leitura, conseguiu identificar o método exato que precisava alterar?
+Se a resposta for positiva: ótimo! O programador fez a sua parte e conseguiu deixar o código limpo (ou pelo menos fez um código simples o suficiente para ser entendido).</description>
+    </item>
+    
+    <item>
+      <title>Proteja seu código usando o Webpack</title>
+      <link>http://localhost/jhonny-roger/public/proteja-seu-codigo-usando-o-webpack/</link>
+      <pubDate>Mon, 28 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/proteja-seu-codigo-usando-o-webpack/</guid>
+      <description>Não é um eufemismo dizer que que as ferramentas de front-end avançam rapidamente. Por um tempo, Grunt foi o principal automatizador. E desde então a comunidade adotou o Gulp, uma alternativa de streaming. Embora essas ferramentas sejam ótimas, você ainda precisará trabalhar dura para manter o seu sistema. E é aí que entram os empacotadores como o Browserify e Webpack.
+Como usar um empacotador Os empacotadores resolvem o problema fundamental no desenvolvimento front-end.</description>
+    </item>
+    
+    <item>
+      <title>Migrando de enterprise dev para startup dev</title>
+      <link>http://localhost/jhonny-roger/public/migrando-de-enterprise-dev-para-startup-dev/</link>
+      <pubDate>Sun, 11 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/migrando-de-enterprise-dev-para-startup-dev/</guid>
+      <description>Comecei minha carreira na área de desenvolvimento de software razoavelmente cedo, aos 16 anos estudava no ensino médio pela manhã, estagiava à tarde e estudava no curso técnico à noite. Ao contrário de muitos desenvolvedores, meu primeiro contato com código não foi dos melhores, foram horas e horas de estudo pra conseguir entender 1&amp;frasl;3 do que o professor estava tentando ensinar, na época ASP — sim, o ‘clássico’.
+Agora, com 26 anos, posso fazer uma análise interessante do que aconteceu nos últimos 10 anos de software e talvez essa reflexão sirva como norte pra quem está começando ou pra quem está afim de fazer uma troca de ares.</description>
+    </item>
+    
+    <item>
+      <title>A arquitetura Redux usando Jails</title>
+      <link>http://localhost/jhonny-roger/public/arquitetura-redux-usando-jails/</link>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/arquitetura-redux-usando-jails/</guid>
+      <description>Ultimamente tenho me preocupado mais com arquiteturas no front-end do que propriamente com as implementações de alguns frameworks. Isso porque eu acho que realmente nos falta um pouco mais de conhecimento sistêmico, mais arquitetural, porque os problemas só estão crescendo e percebi que pelo menos eu não estava acompanhando devidamente a complexidade das aplicações desenvolvidas em Javascript.
+Uma pequena reflexão Os frameworks acabaram aparecendo nos últimos tempos e percebo que tiveram uma importância muito maior do que o nosso amadurecimento quanto aos novos desafios nas aplicações web, especificamente na linguagem Javascript.</description>
+    </item>
+    
+    <item>
+      <title>Usando GIT para atualizar arquivos no servidor de hospedagem II – Final</title>
+      <link>http://localhost/jhonny-roger/public/usando-git-para-atualizar-arquivos-no-servidor-de-hospedagem-ii-final/</link>
+      <pubDate>Thu, 19 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/usando-git-para-atualizar-arquivos-no-servidor-de-hospedagem-ii-final/</guid>
+      <description>Esta é a segunda e última parte do artigo que explica como fazer um esquema simples para deploy automático usando GIT + Bitbucket
+A mesma configuração pode ser usada em qualquer servidor GIT e qualquer serviço de hospedagem que tenha acesso via ssh e git instalado
+Se você ainda não leu a primeira parte, segue o link: http://tableless.com.br/usando-git-para-atualizar-arquivos-no-servidor-de-hospedagem
+No artigo anterior, criamos as chaves SSH para autenticação no Bitbucket, criamos um repositório GIT e manualmente executamos o comando | git pull | para atualizar o nosso repositório.</description>
+    </item>
+    
+    <item>
+      <title>Por que Python?</title>
+      <link>http://localhost/jhonny-roger/public/por-que-python/</link>
+      <pubDate>Tue, 29 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/por-que-python/</guid>
+      <description>Eu sou apaixonado por Python. Muito. Daquele tipo que fala de Python sempre que pode. E uma pergunta que sempre me fazem é: por quê? Vou tentar fazer uma lista dos motivos mais relevantes:
+1. É muito bom escrever código Python Geralmente, quando alguém cria uma linguagem de programação, tem em vista um objetivo. Por exemplo, Lisp foi escrita para programação funcional. Java foi escrita para que o mesmo código pudesse rodar em qualquer lugar.</description>
+    </item>
+    
+    <item>
+      <title>Criando seu próprio servidor HTTP do zero (ou quase) – Parte I</title>
+      <link>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-i/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-i/</guid>
+      <description>Sou apaixonado por tecnologias livres e como sou extremamente curioso, gosto de saber como as coisas funcionam. Como também sou cinestésico, não me contento em apenas em entender, tenho que criar, recriar, escrever, rescrever, inventar, reinventar, enfim sentir realmente como se faz. Nesse vai e vem de aprendizado, minha última curiosidade foi entender como os servidores HTTP funcionam e criar um do zero (ou pelo menos quase).
+É claro que para fazer isso eu não fui tão lá embaixo a ponto de utilizar C, utilizei da linguagem de programação da qual me sinto mais confortável e que já oferece algumas facilidades que em C teria que sangrar pra fazer o mesmo porém não impossível, mas enfim, optei por desenvolver em Java, os passos vou contar pra vocês aqui, mas utilizando os mesmo conceitos nada impede que utilize qualquer outra linguagem de programação.</description>
+    </item>
+    
+    <item>
+      <title>Desenvolvendo App para Windows Phone com App Studio</title>
+      <link>http://localhost/jhonny-roger/public/desenvolvendo-app-para-windows-phone-com-app-studio/</link>
+      <pubDate>Thu, 27 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/desenvolvendo-app-para-windows-phone-com-app-studio/</guid>
+      <description>Para as pessoas que observam a plataforma do Windows Phone, grandes oportunidades estão disponíveis para desenvolver soluções ainda não desenvolvidas.
+Para deixar a implementação dessas ideias de forma amigável para quem não conhece muito sobre o estudo da programação ou não está familiarizado com o desenvolvimento para esse sistema operacional, a Microsoft disponibilizou gratuitamente um sistema web para desenvolvimento de apps para Windows Phone chamado de Windows App Studio.
+Não é necessário codificar linhas de código, o que pode poupar tempo para quem deseja desenvolver soluções simples, porém essa plataforma não descarta o uso da codificação do código, tudo vai depender do aplicativo que você vai desenvolver e se a plataforma atenderá a sua necessidade.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2 – Parte Final</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-final/</link>
+      <pubDate>Tue, 16 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-final/</guid>
+      <description>Chegamos ao final da nossa série sobre Symfony. Se você não leu os outros, no final do artigo há uma listagem com todos os artigos já publicados dessa série.
+No tutorial anterior, instalamos e configuramos o bundle StofDoctrineExtensionsBundle, para fazermos os slugs de nossos posts, agora vamos instalar e configurar o Bundle FOSUserBundle, para fazer a autenticação da área administrativa do nosso blog.
+Instalação do bundle FOSUserBundle. Para instalar o FOSUserBundle, temos que adicioná-lo em nosso composer.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2 – Parte 09</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-09/</link>
+      <pubDate>Sun, 24 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-09/</guid>
+      <description>No tutorial anterior, instalamos e configuramos o bundle Knp Paginator, para fazer a paginação de posts em nosso index, agora vamos instalar e configurar o Bundle StofDoctrineExtensionsBundle, para fazermos os slugs de nossos posts
+Instalação do bundle StofDoctrineExtensionsBundle Para instalar o StofDoctrineExtensionsBundle, temos que adicioná-lo em nosso composer.json. Abra o arquivo composer.json e adicione a linha abaixo:
+&#34;stof/doctrine-extensions-bundle&#34;: &#34;1.2.*@dev&#34;  Depois de adicionando o StofDoctrineExtensionsBundle no composer, vamos instalá- lo.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2 – Parte 08</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-08/</link>
+      <pubDate>Tue, 28 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-08/</guid>
+      <description>No tutorial anterior, criamos um upload de imagens para servirem de capa para nossos posts, agora vamos instalar e configurar um Bundle, disponibilizado pela comunidade, para fazer a paginação de nossa página index. Para isso temos que instalar o Knp Paginator em nossa aplicação.
+Instalação do Knp Paginator Para instalar o Knp Paginator, temos que adicioná-lo em nosso composer.json. Abra o arquivo composer.json e adicione a linha abaixo:
+&#34;knplabs/knp-paginator-bundle&#34;: &#34;</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2 – Parte 07</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-07/</link>
+      <pubDate>Fri, 10 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-07/</guid>
+      <description>No tutorial anterior, estilizamos nossas páginas, index e show, e incluímos um imagem para apresentar nossos posts no index, porém colocamos esta imagem pelo código fonte, agora vamos fazer algumas configurações, para que, na criação dos posts, tenha a opção de fazer o upload de uma imagem, para ser apresentada como capa de nossos posts.
+Configurando a entidade Post Para criarmos um upload de imagem, vamos usar o componente http-foundation do Symfony, e usar sua classe UploadedFile em nossa entidade Post.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2 – Parte 06</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-06/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-06/</guid>
+      <description>No tutorial anterior, configuramos nosso projeto e criamos nossas páginas, home e show, porém as mesmas se encontram sem estilização, neste tutorial, vamos apenas estruturar nossas páginas de um modo simples e básico, porém funcional. Não entrarei em detalhes sobre o Bootstrap, não é meu objetivo, porém para iniciantes, recomendo a documentação.
+Sobre o Twig, falarei o básico do básico, somente o que vamos usar. Lembrando que ele já vem instalado e configurado no Symfony, porém podemos instalá-lo separadamente via Composer e configurá- lo em outros projetos, usando ou não outros frameworks.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2 – Parte 05</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-05/</link>
+      <pubDate>Thu, 19 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-05/</guid>
+      <description>No tutorial anterior, criamos a entidade Author, e fizemos o relacionamento com os posts, neste tutorial vamos fazer as configurações adequadas para que possamos deixar nossa aplicação estruturada corretamente, e vamos criar e configurar a página index, onde os usuários terão acesso para visualizar e ler os posts.
+Configurando Vamos começar com as configurações.
+Entrando no bundle CoreBundle, caminho: src/Tableless/CoreBundle, exclua a pasta Controller.
+
+Ainda neste mesmo bundle vamos excluir a pasta view, caminho: src/Tableless/CoreBundle/Resources/view.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2 – Parte 04</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-04/</link>
+      <pubDate>Wed, 04 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-04/</guid>
+      <description>Anteriormente, criamos a entidade Post, vamos dar continuidade ao nosso simples projeto, criando uma entidade Author, faremos o relacionamento para que cada autor fique ligado ao post que criou.
+Criando a entidade Author Vamos criar a entidade Author, entre no terminal e digite:
+$ php app/console generate:doctrine:entity  Vamos digitar o nome da entidade como : TablelessModelBundle:Author.
+$ The Entity shortcut name: TablelessModelBundle:Author  Vamos mapeá-la usando annotation. Apenas damos enter.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2 – Parte 03</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-03/</link>
+      <pubDate>Wed, 18 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-03/</guid>
+      <description>Dando continuidade ao tutorial anterior, vamos continuar usando o componente console do Symfony, agora criaremos uma entidade, para acessar o banco de dados, usando o Doctrine ORM.
+Banco de dados com Doctrine ORM Quando falamos de banco de dados em projetos com Symfony, estamos falando de Doctrine ORM (Object Relational Mapper), onde criamos uma camada de persistência entre a aplicação e um banco de dados, que mapeia nossas tabelas com entidades, para que possamos acessar o banco.</description>
+    </item>
+    
+    <item>
+      <title>Assinatura de newsletter com PHP integrada à API do Mailchimp</title>
+      <link>http://localhost/jhonny-roger/public/assinatura-de-newsletter-com-php-integrada-a-api-do-mailchimp/</link>
+      <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/assinatura-de-newsletter-com-php-integrada-a-api-do-mailchimp/</guid>
+      <description>O Mailchimp tem uma API bem completa. Arrisco dizer que é possível fazer uma interface com muitas das funcionalidades de gerenciamento de listas, envios, etc usando a API — fica a dica para quem quiser desenvolver uma aplicação explorando alguma lacuna que o painel do Mailchimp deixa a desejar.
+Eu sabia da existência da API faz algum tempo, mas usava uma função simples de exportação de CSV em alguns projetos.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2 – Parte 02</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-02/</link>
+      <pubDate>Mon, 09 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2-parte-02/</guid>
+      <description>Depois de já instalado o Symfony 2, como postado no artigo anterior que escrevi, vamos avançar nosso processo criando um simples blog.
+É claro que o Symfony é para projetos maiores, mas para efeito de didática, achei um bom começo, espero que gostem.
+Bundle o coração do symfony O Symfony trabalha com bundle (pacote), que é um conjunto de códigos que pode ser reutilizado em outros projetos. Simplificando: são componentes prontos, que facilitam nossa vida na hora de desenvolver.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com Symfony 2</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-symfony-2/</link>
+      <pubDate>Wed, 21 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-symfony-2/</guid>
+      <description>O symfony é um framework fullstack de aplicações web para as necessidades de alto desempenho, é um conjunto de componentes PHP, para grandes e avançados projetos, porém podemos instalar seus componentes separadamente em casos de projetos menores. É muito respeitado pela comunidade, não é apenas um Framework popular, mas também é uma das melhores plataformas para construir projetos Open-Source. Muitos projetos PHP estão incorporando alguns dos componentes ou estão usando o framework full-stack, projetos como Drupal, Laravel, entre outros, veja a lista.</description>
+    </item>
+    
+    <item>
+      <title>Rastreando exceções no PHP com o Airbrake</title>
+      <link>http://localhost/jhonny-roger/public/rastreando-excecoes-no-php-com-o-airbrake/</link>
+      <pubDate>Mon, 15 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/rastreando-excecoes-no-php-com-o-airbrake/</guid>
+      <description>Identificar erros, e suas causas, em uma aplicação web pode se tornar uma tarefa complicada. Ter algumas ferramentas à mão pode simplificar bastante essa missão.
+Algo que provavelmente ajuda a rastrear uma falha são os logs da aplicação ou do servidor onde ela está sendo executada, mas não é fácil encontrar algo específico, especialmente se o volume de registros é grande.
+Outra situação desagradável é quando os erros acontecem em situações específicas, difíceis de reproduzir.</description>
+    </item>
+    
+    <item>
+      <title>PHP na linha de comando</title>
+      <link>http://localhost/jhonny-roger/public/php-na-linha-de-comando/</link>
+      <pubDate>Thu, 24 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/php-na-linha-de-comando/</guid>
+      <description>Quem conhece um pouco de alguma linguagem de programação, acaba se acostumando a escrever trechos de código para automatizar tarefas simples ou resolver problemas. Para aqueles mais íntimos do PHP, se torna habitual escrever aplicações com uma interface simples em HTML, mas com isso deixamos de aproveitar algumas vantagens da linha de comando em conjunto com o nosso script para resolver essas questões triviais (ou nem tanto). Também existe benefício de não depender de um servidor web e um navegador.</description>
+    </item>
+    
+    <item>
+      <title>Mudar ícones dos Custom Post Types no WordPress 3.8</title>
+      <link>http://localhost/jhonny-roger/public/mudar-icones-dos-custom-post-types-wordpress-3-8/</link>
+      <pubDate>Mon, 13 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/mudar-icones-dos-custom-post-types-wordpress-3-8/</guid>
+      <description>No dia 12 de Dezembro a Equipe do WordPress liberou a sua mais nova versão, o WordPress 3.8 Parker, que é uma referência ao Charlie Parker, grande saxofonista de Jazz. Visualmente a versão 3.8 do WordPress foi a que trouxe mais mudanças, a começar pela belíssima renovação de design do painel que também passou a ser responsivo e acessível por todos os dispositivos móveis, o que é um grande avanço, já que não será mais preciso usar os aplicativos móveis para fazer moderação e criação de posts.</description>
+    </item>
+    
+    <item>
+      <title>Um 2013 cheio de propósito</title>
+      <link>http://localhost/jhonny-roger/public/um-2013-cheio-de-proposito/</link>
+      <pubDate>Mon, 31 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/um-2013-cheio-de-proposito/</guid>
+      <description>Este post é longo e não tem versão TL;DR.
+No começo falo muito sobre o que aconteceu comigo esse ano. No final falo o que quero fazer com o Tableless em 2013.
+Este é meu último post pessoal aqui no Tableless. Quero desassociar artigos pessoais com os artigos do Tableless.
+Eu tenho a tradição (na verdade tinha) de escrever um post de como foi o último ano do Tableless. É difícil eu não falar algo pessoal por que o Tableless está na minha vida todos os dia.</description>
+    </item>
+    
+    <item>
+      <title>Esse texto é pra mim – mercado e atitude</title>
+      <link>http://localhost/jhonny-roger/public/esse-texto-e-pra-mim-mercado-e-atitude/</link>
+      <pubDate>Mon, 22 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/esse-texto-e-pra-mim-mercado-e-atitude/</guid>
+      <description>Você já leu o manifesto do engenheiro de front-end? Se não, corre para esse link: http://f2em.com. Eu percebi neste ano que a maioria dos devs se apega tanto a assuntos técnicos que acabam ignorando assuntos importantes e básicos. São coisas simples que geralmente você só pensa quando há alguma pressão externa. Poucos profissionais tentam entender como funcionam o mercado. Como funcionam o sistema (trocadilho grátis aqui). A maioria está na zona de conforto.</description>
+    </item>
+    
+    <item>
+      <title>Adobe Edge Inspect: Uma ajudinha no desenvolvimento para múltiplos dispositivos</title>
+      <link>http://localhost/jhonny-roger/public/adobe-edge-inspect/</link>
+      <pubDate>Sun, 30 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/adobe-edge-inspect/</guid>
+      <description>Dentre as possibilidades de adaptação, temos técnicas de redimensionamento de tela, reconhecimento de dispositivos para redirecionamento a sites feitos especificamente pra este, a ainda envolta em mistério: a técnica de responsive design, entre outras soluções. Em fim, cabe a escolha da melhor técnica de acordo com as definições do projeto adotado.
+Adobe Edge Inspect Para facilitar a vida de quem encara constantemente ou até mesmo esporadicamente este tipo de desafio, a Adobe lançou dentro de seu kit de ferramentas denominado Edge Tools o curioso Inspect.</description>
+    </item>
+    
+    <item>
+      <title>Eu não sou uma máquina</title>
+      <link>http://localhost/jhonny-roger/public/eu-nao-sou-uma-maquina/</link>
+      <pubDate>Thu, 30 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/eu-nao-sou-uma-maquina/</guid>
+      <description>Por trás de uma máquina, alguém faz perguntas sem sentido, com a intenção de descobrir se você é uma pessoa ou robô. Não estou falando do interrogatório do caçador de andróides, entre Rick Deckard e Rachael durante uma sequência do filme Blade Runner, de 1982. Estou falando de uma pessoa que está fazendo uma compra em uma loja online em 2012. Estou falando do CAPTCHA.
+O CAPTCHA, acrônimo de “_Completely Automated Public Turing test to tell Computers and Humans Apart_” é um teste cognitivo criado para evitar que robôs preencham campos de formulários, especialmente para o envio de spams.</description>
+    </item>
+    
+    <item>
+      <title>Drops 10 – Web Apps ou Instaláveis no dispositivos?</title>
+      <link>http://localhost/jhonny-roger/public/drops-10-web-apps-ou-instalaveis-no-dispositivos/</link>
+      <pubDate>Fri, 22 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/drops-10-web-apps-ou-instalaveis-no-dispositivos/</guid>
+      <description>Você fará uma aplicação. Essa aplicação será instalada no dispositivo ou será baseada em web?
+Essa é uma discussão antiga e não dá para dizer o que é certo e errado por enquanto. Eu sou do time do pessoal que acha que web apps são o melhor caminho. Tenho alguns motivos para pensar assim e quero compartilhar com vocês nesse Drops. O que você acha sobre isso?
+Link direto do arquivo.</description>
+    </item>
+    
+    <item>
+      <title>Sublime Text 2 – Meu novo editor</title>
+      <link>http://localhost/jhonny-roger/public/sublime-text-2-meu-novo-editor/</link>
+      <pubDate>Mon, 16 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sublime-text-2-meu-novo-editor/</guid>
+      <description>Durante muito tempo eu fui apaixonado pelo Coda e pelo Textmate. Eu os utilizava praticamente todos os dias. O Coda tem um find/replace sensacional que funciona muito bem. O Textmate é ligeiro para a criação de snippets e outras tarefinhas automatizadas. Acontece que eu conheci o Sublime Text pelo Márcio Trindade, que trabalha comigo e então eu me apaixonei. Não pelo Márcio, mas pelo Sublime (falá-se sublaime). 😉
+Sem frescura O que eu amava quando no Editplus do Windows era a interface limpa.</description>
+    </item>
+    
+    <item>
+      <title>Dicas de sobrevivência em uma era pós o IE6</title>
+      <link>http://localhost/jhonny-roger/public/dicas-de-sobrevivencia-ie6/</link>
+      <pubDate>Mon, 09 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/dicas-de-sobrevivencia-ie6/</guid>
+      <description>Nós ficamos mal acostumados com o Internet Explorer 6&amp;#8230; Digo isso por que tinhamos tantos problemas e limitações no tempo em que precisávamos suportá-lo, que até hoje nos privamos de algumas técnicas e propriedades do CSS que funcionam plenamente no IE8 e nos IEs mais novos. Quero confessar que eu estava até esses dias eu era prisioneiro da sombra do IE6.
+Por isso, aqui vão algumas dicas de propriedades que você já deve conhecer, mas que não usa ainda por que acha que todos os IEs são iguais ao maldito IE6.</description>
+    </item>
+    
+    <item>
+      <title>Drops 7 – Você está fazendo errado</title>
+      <link>http://localhost/jhonny-roger/public/drops-7-voce-esta-fazendo-errado/</link>
+      <pubDate>Thu, 05 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/drops-7-voce-esta-fazendo-errado/</guid>
+      <description>Tem designers trabalhando com web que não entendem HTML/CSS. Tem programadores que ainda insistem em aprender apenas a linguagem server-side e ficam se lixando para HTML. Tem desenvolvedores de interface que não estão nem aí pra semântica, css bem escrito e caem na bobeira de ficar discutindo assuntos superficiais como abordar ou não abordar determinado browser, ou o Flash é melhor que HTML e vice-versa.</description>
+    </item>
+    
+    <item>
+      <title>Usando Meta Box em seu tema WordPress</title>
+      <link>http://localhost/jhonny-roger/public/usando-meta-box-em-seu-tema-wordpress/</link>
+      <pubDate>Tue, 20 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/usando-meta-box-em-seu-tema-wordpress/</guid>
+      <description>O que são Meta Boxes? Os Meta Boxes (Caixas de informações) foi implementado a partir da versão 2.5 do CMS, os Meta Boxes são aquelas caixas arrastáveis que estão presente na Dashboard, edição de um post, páginas, além de outros locais na área administrativa do WordPress.
+Os Meta Boxes é uma maneira atraente para a tela do editor de post e evita forçar os usuários a confiar em campos personalizados.</description>
+    </item>
+    
+    <item>
+      <title>Introdução aos padrões de codificação</title>
+      <link>http://localhost/jhonny-roger/public/introducao-a-padroes-de-codificacao/</link>
+      <pubDate>Mon, 23 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-a-padroes-de-codificacao/</guid>
+      <description>Identação Espaços em brancos (Whitespaces) Nomenclatura Comentários Arquivos Chaves e ponto/vírgula        Como os idiomas reais, cada linguagem de programação tem suas respectivas regras, individualidades, pontuações, pausas e pontos em comum com outras linguagens. Você precisa conhecer essas peculiaridades para falar fluentemente ou no mínimo ser entendido. Nas linguagens de para web ou qualquer outra linguagem de programação, precisamos seguir algumas regras básicas para que o código não vire uma língua estrangeira no meio do projeto.</description>
+    </item>
+    
+    <item>
+      <title>Biblioteca CSS ou Framework?</title>
+      <link>http://localhost/jhonny-roger/public/biblioteca-css-ou-framework/</link>
+      <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/biblioteca-css-ou-framework/</guid>
+      <description>Primeiro você precisa entender a diferença entre os dois. A Talita Pagani em um dos seus artigos descreve o que é um framework assim:
+ Framework é um conjunto de componentes que provêm uma estrutura básica de elementos reutilizáveis, tendo uma arquitetura consistente de funcionalidade genérica sob a qual a aplicação será construída.
+ O uso de uma Biblioteca (CSS, Javascript, etc) é bastante parecido com a utilização de um framework.</description>
+    </item>
+    
+    <item>
+      <title>Entendendo os Reflows</title>
+      <link>http://localhost/jhonny-roger/public/entendendo-os-reflows-2/</link>
+      <pubDate>Mon, 18 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/entendendo-os-reflows-2/</guid>
+      <description>Reflow é um assunto extenso e necessário. Ele sempre vai existir nos navegadores, então temos que entendê-lo para saber como utilizá-lo de maneira racional. O mais legal é entender todo o contexto sobre o que são e como funcionam, para a partir daí repensar o código que renderizamos no navegador para obtermos maior performance.
+Reflow é o resultado de um evento que desencadeia mudanças no jeito que a pagina deve ser renderizada, tomando tempo para cálculo e reposicionamento de elementos.</description>
+    </item>
+    
+    <item>
+      <title>Ferramentas de diagnóstico</title>
+      <link>http://localhost/jhonny-roger/public/ferramentas-de-diagnostico/</link>
+      <pubDate>Mon, 11 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ferramentas-de-diagnostico/</guid>
+      <description>Se você escreve CSS e HTML provavelmente tem problemas de compatibilidade e visualização. Isso é normal, acontece com os melhores desenvolvedores. Quando isso acontece, o melhor a se fazer é um trabalho investigativo. Esse trabalho normalmente é ingrato porque você demora horas investigando o seu código para encontrar o erro e geralmente esse erro é solucionado com uma linha de código. Para você descobrir qual é essa linha, você precisa de ferramentas que te ajudem a decifrar todo o problema.</description>
+    </item>
+    
+    <item>
+      <title>Múltiplos backgrounds com CSS</title>
+      <link>http://localhost/jhonny-roger/public/multiplos-backgrounds-com-css/</link>
+      <pubDate>Mon, 28 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/multiplos-backgrounds-com-css/</guid>
+      <description>Uma das features mais esperadas por mim é sem dúvida a possibilidade de podermos definir múltiplos backgrounds via CSS. Chega de elementos extras e gambiarras. No CSS3 a propriedade background ganha várias funções, dentro elas a possibilidade de definirmos várias imagens como background em um único elemento.
+A sintaxe é muito simples. Na verdade, é idêntica a sintaxe existente. Segue abaixo:
+[cc lang=&amp;#8221;css&amp;#8221;]
+div {
+width:600px;
+height:500px;
+border:1px solid black;</description>
+    </item>
+    
+    <item>
+      <title>O básico: O que é HTML?</title>
+      <link>http://localhost/jhonny-roger/public/o-que-html-basico/</link>
+      <pubDate>Fri, 21 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-que-html-basico/</guid>
+      <description>HTML é uma das linguagens que utilizamos para desenvolver websites. O acrônimo HTML vem do inglês e significa Hypertext Markup Language ou em português Linguagem de Marcação de Hipertexto.
+O HTML é a liguagem base da internet. Foi criada para ser de fácil entendimento por seres humanos e também por máquinas, como por exemplo o Google ou outros sistemas que percorrem a internet capturando informação.
+Quem criou o HTML? Tim Berners-Lee.</description>
+    </item>
+    
+    <item>
+      <title>Sections: elemento aside – Parte 3</title>
+      <link>http://localhost/jhonny-roger/public/sections-elemento-aside/</link>
+      <pubDate>Wed, 13 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sections-elemento-aside/</guid>
+      <description>Engana-se se o você acha que o aside serve apenas para fazer &amp;#8220;sidebars&amp;#8221;. Lembre-se de outros blocos para utilizamos para expor algum tipo de informação referente ao assunto principal. Isso acontece muito em livros: dependendo do livro que você estiver lendo, como um livro técnico, ele pode ter caixas de informação durante todo o fluxo de texto do livro. Essas caixas normalmente servem para chamar sua atenção para alguma informação importante ou outras informações que agregarão mais ao conteúdo principal.</description>
+    </item>
+    
+    <item>
+      <title>Propriedade @font-face CSS – Fonts externas na web</title>
+      <link>http://localhost/jhonny-roger/public/font-face-fonts-externas-na-web/</link>
+      <pubDate>Tue, 30 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/font-face-fonts-externas-na-web/</guid>
+      <description>Tipografia na web sempre foi um sonho para todo designer. Alguns designers que trabalharam durante muito tempo com impressão se sentem presos com web por conta da limitação de escolha das fonts. A tipografia é parte importante na criação de peças gráficas e na web isso não poderia ser diferente. Mesmo assim, não havia uma maneira &amp;#8216;inteligente&amp;#8217; de utilizar uma fonts que não seja padrão do sistema operacional do usuário na criação de layouts para web.</description>
+    </item>
+    
+    <item>
+      <title>Ah, o maravilhoso mundo real</title>
+      <link>http://localhost/jhonny-roger/public/ah-o-maravilhoso-mundo-real/</link>
+      <pubDate>Thu, 10 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ah-o-maravilhoso-mundo-real/</guid>
+      <description>O Diego publicou, há mais de uma semana, um artigo sobre o impacto da mudança de estratégia do W3C em relação ao ciclo de vida de seus padrões. O artigo gerou algumas opiniões contrárias nos comentários, em relação ao fato de ele ter dito que bordas arredondadas são mais importantes que a web semântica e em relação à estratégia de especificações modulares do W3C. Vou compartilhar minha opinião sobre os dois pontos.</description>
+    </item>
+    
+    <item>
+      <title>Implementar XHTML/CSS é grátis</title>
+      <link>http://localhost/jhonny-roger/public/implementar-xhtmlcss-e-gratis/</link>
+      <pubDate>Mon, 08 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/implementar-xhtmlcss-e-gratis/</guid>
+      <description>&lt;p&gt;Muita gente conhece a história do Tableless. Eu iniciei o Tableless quando estava aprendendo e me aprofundando nos Padrões Web. Meus estudos consistiam em dois momentos: ler e aplicar. Eu lia muito material de fora – quase não haviam fontes sobre Padrões Web aqui no Brasil &amp;#8211; e depois tentava colocar na prática tudo aquilo que eu havia estudado.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Modulando o CSS</title>
+      <link>http://localhost/jhonny-roger/public/modulando-o-css/</link>
+      <pubDate>Wed, 12 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/modulando-o-css/</guid>
+      <description>&lt;p&gt;Quando trabalhamos com Padrões Web, trabalhamos com três camadas principais: Informação, formatação e comportamento.&lt;/p&gt;
+
+&lt;p&gt;A informação seria controlada pelo &lt;strong&gt;HTML&lt;/strong&gt;. Ele exibiria a informação na tela com significado.&lt;/p&gt;
+
+&lt;p&gt;O &lt;strong&gt;CSS&lt;/strong&gt; manipularia a formatação desses elementos para que ficassem belos e controlaria suas posições na tela.&lt;/p&gt;
+
+&lt;p&gt;E o &lt;strong&gt;Javascript / Ajax&lt;/strong&gt; cuidaria do comportamento destes elementos.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Não “otimize” seu código</title>
+      <link>http://localhost/jhonny-roger/public/nao-otimize-seu-codigo/</link>
+      <pubDate>Sun, 09 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/nao-otimize-seu-codigo/</guid>
+      <description>&lt;p&gt;Quando fazíamos sites com tabelas, o grande problema era a quantidade de código que escrevíamos. Naquele tempo – 1996, 97, 98 – tínhamos outros pontos que precisavam de uma atenção maior. A conexão era lerda para todo mundo e isso dificultava um bocado as coisas. Por isso, fazer um site pesado era fora de cogitação. Ficávamos “mendigando” cada byte para que o site ficasse milésimos de segundo mais rápido.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tabelas semânticas</title>
+      <link>http://localhost/jhonny-roger/public/tabelas-semanticas/</link>
+      <pubDate>Mon, 27 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tabelas-semanticas/</guid>
+      <description>&lt;p&gt;Você já deve saber que o desenvolvimento utilizando Padrões Web preza pela Semântica no código. Todo código que você escrever deve dar algum significado ao conteúdo. E toda tag sem sua função específica e te ajuda a formar um código mais esperto e legível.&lt;/p&gt;
+
+&lt;p&gt;Alguns elementos por dependerem de várias tags para ter um funcionamento pleno, acabam sofrendo com o desinteresse dos desenvolvedores em entender melhor os diversos objetos que compoem um determinado elemento. Um caso bastante comum, &lt;a href=&#34;http://tableless.com.br/formulario-basico-em-8-minutos&#34;&gt;além dos Formulários&lt;/a&gt;, é a formação das TABLES.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>O Safari para iPhone – Desenvolvimento web para iPhone</title>
+      <link>http://localhost/jhonny-roger/public/o-safari-para-iphone/</link>
+      <pubDate>Mon, 13 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-safari-para-iphone/</guid>
+      <description>&lt;p&gt;Esse texto e muitos outros fazem parte do &lt;a href=&#34;http://visie.com.br/campus/&#34; title=&#34;Vídeos tutoriais sobre Tableless&#34;&gt;Campus Online&lt;/a&gt;. Visite e &lt;a href=&#34;http://visie.com.br/campus/cadastrese&#34;&gt;cadastre-se grátis&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://visie.com.br/campus/iphone&#34; title=&#34;Desenvolvimento web para iPhone&#34;&gt;Sessão exclusiva sobre Desenvolvimento web para iPhone&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;um-pouco-de-história&#34;&gt;Um pouco de História&lt;/h3&gt;
+
+&lt;p&gt;Por volta de 1997, os computadores da Apple traziam por padrão o Netscape. Naquele tempo o mercado de browsers não era tão acirrado como hoje e os concorrentes eram poucos. O Internet Explorer estava em sua versão &lt;sup&gt;2&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt;. Mesmo assim, o Internet Explorer para Mac era também distribuído com o MacOS durante os 5 anos de acordo entre Apple e Microsoft. A Microsoft laçou 3 versões principais do seu navegador para o Mac, parando na versão 5 em março de 2000.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>WordPress Include Tags</title>
+      <link>http://localhost/jhonny-roger/public/wordpress-include-tags/</link>
+      <pubDate>Sun, 06 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/wordpress-include-tags/</guid>
+      <description>&lt;p&gt;O &lt;a href=&#34;http://wordpress.org/&#34;&gt;WordPress&lt;/a&gt; tem 3 TemplatesTags para incluir elementos básicos de Cabeçalho, Coluna lateral (sidebar) e Rodapé, são eles: get_header(), get_sidebar() e get_footer(). Essas TemplateTags não aceitam qualquer tipo de parâmetro, portanto são simples de se aplicar. Em todos os themes do WordPress, essas 3 TemplateTags estão sempre presentes, mesmo assim, você pode modificar isso incluindo outro arquivo que não seja o padrão que o WP estabeleceu.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>10º Encontro Locaweb de Profissionais de Internet</title>
+      <link>http://localhost/jhonny-roger/public/10o-encontro-locaweb/</link>
+      <pubDate>Fri, 18 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/10o-encontro-locaweb/</guid>
+      <description>&lt;p&gt;Está chegando o &lt;a href=&#34;https://www.locaweb.com.br/encontro/&#34;&gt;10º Encontro Locaweb de Profissionais de Internet&lt;/a&gt;, e eu vou participar novamente esse ano. Vou falar sobre produtividade no desenvolvimento, mas com uma abordagem bem diferente da que usei ano passado no Intercon. Dessa vez, vou escrever código.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>O Caminho Suave para o Tableless</title>
+      <link>http://localhost/jhonny-roger/public/o-caminho-suave-para-o-tableless/</link>
+      <pubDate>Thu, 06 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-caminho-suave-para-o-tableless/</guid>
+      <description>A maior parte dos desenvolvedores web, designers ou programadores, começaram antes do surgimento dos movimentos em prol dos padrões web, usando tabelas para montar layouts em editores WYSIWYG, e ainda hoje este método é usado na maioria dos projetos de internet. Logo, é natural que muita gente, ao começar a entender o valor dos padrões, se pergunte como migrar do desenvolvimento &amp;#8220;tradicional&amp;#8221; para o desenvolvimento de código semanticamente coerente.</description>
+    </item>
+    
+    <item>
+      <title>Sites para Dispositivos Móveis – MediaType</title>
+      <link>http://localhost/jhonny-roger/public/sites-para-dispositivos-moveis-mediatype/</link>
+      <pubDate>Thu, 06 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sites-para-dispositivos-moveis-mediatype/</guid>
+      <description>Felizmente, com a ajuda dos Web Standards, o trabalho para criar um site ficou muito mais fácil, rápida e o mais importante, divertida.
+Hoje, você troca de layout a hora que quiser, sem se preocupar em ter que refazer todo o código e programação. Eles já estão feitos, por que ter que recriá-los? Então, você troca apenas 1 arquivo CSS, e seu site muda completamente, sem dor de cabeça, apenas mudando a lente de formatação.</description>
+    </item>
+    
+    <item>
+      <title>Sobre Internet Explorer para Mobile – Breve impressão</title>
+      <link>http://localhost/jhonny-roger/public/sobre-internet-explorer-para-mobile-breve-impressao/</link>
+      <pubDate>Wed, 07 Nov 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sobre-internet-explorer-para-mobile-breve-impressao/</guid>
+      <description>Desde que adquiri um MotoQ (se lê MotoQUIU) eu venho usando o Opera Mobile como browser padrão. Ao contrário da versão pra desktops, o Opera Mobile é pago. Por este motivo, quando a data expirou, eu resolvi usar por um tempo o Internet Explorer.
+Descobri que a forma com que o IE Mobile renderiza as páginas é tão boa quanto a do Opera Mobile. A velocidade de navegação também é ótima.</description>
+    </item>
+    
+    <item>
+      <title>Isso é coisa básica</title>
+      <link>http://localhost/jhonny-roger/public/isso-e-coisa-basica/</link>
+      <pubDate>Mon, 05 Nov 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/isso-e-coisa-basica/</guid>
+      <description>Não é a primeira vez que me perguntam se eu acoselho o uso de includes. Não sei o motivo, mas grande parte do pessoal não usa includes. Parece que isso é uma daquelas coisas de uso exclusivo de programadores. Engano deles.
+Includes (por exemplo) é uma das coisas que ajudam e muito o trabalho da equipe inteira. Menus, cabecalhos, rodapés, e qualquer coisa que você ache que vá se repetir em mais de uma página no site deve ser colocado em includes.</description>
+    </item>
+    
+    <item>
+      <title>Mobilidade na cabeça</title>
+      <link>http://localhost/jhonny-roger/public/mobilidade-na-cabeca/</link>
+      <pubDate>Wed, 10 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/mobilidade-na-cabeca/</guid>
+      <description>Ontem, depois do lançamento do iPhone e de ter visto suas funcionalidades (nem tão novas assim, mas reinvatadas de verdade), fiquei pensando em uma funcionalidade em particular: navegação na internet. Quem assistiu o Keynote viu o camarada navegando de verdade com um browser de verdade (Safari) e tendo uma experiência realmente boa. O browser carrega o site inteiro, lendo XHTML e CSS, nada de SSR ou qualquer coisa parecida e é renderizado como se fosse uma miniatura na tela, mas a formatação é integral, como se estivesse sendo visualizado de um desktop.</description>
+    </item>
+    
+    <item>
+      <title>E o diferencial, onde fica?</title>
+      <link>http://localhost/jhonny-roger/public/e-o-diferencial-onde-fica/</link>
+      <pubDate>Wed, 04 Oct 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/e-o-diferencial-onde-fica/</guid>
+      <description>Os padrões web já há muito tempo vem abrindo caminho na vida dos desenvolvedores. Não é de hoje que os muitos que aderiram ao “movimento” tentam apresentar com as melhores honras as vantagens de aderir aos Padrões. Hoje, saber implementar um site usando os Padrões é um diferencial que o desenvolvedor deve usar para valorizar seu trabalho e é um ponto que a empresa deve usar para valorizar seus produtos.</description>
+    </item>
+    
+    <item>
+      <title>Breve introdução: XHTML Mobile Profile</title>
+      <link>http://localhost/jhonny-roger/public/breve-introducao-xhtml-mobile-profile/</link>
+      <pubDate>Tue, 28 Mar 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/breve-introducao-xhtml-mobile-profile/</guid>
+      <description>XHTML MP é um subset do já conhecido XHTML. Ele é baseado em um outro subset de XHTML chamada XHTML Basic. O XHTML Basic é uma versão simplificada do XHTML definido pelo W3C. Ele foi feito especificamente para dispositivos com baixo poder de processamento como celulares, PDAs, pagers etc&amp;#8230; O XHTML Basic não contém algumas características que esses dispositivos dificilmente suportam, como por exemplo: Frames, Folhas de Estilo em Cascata e scripts.</description>
+    </item>
+    
+    <item>
+      <title>Sites para Dispositivos Móveis – Breve introdução</title>
+      <link>http://localhost/jhonny-roger/public/sites-para-dispositivos-moveis-breve-introducao/</link>
+      <pubDate>Thu, 05 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sites-para-dispositivos-moveis-breve-introducao/</guid>
+      <description>Você tem celular? De acordo com a Teleco, em novembro de 2005, havia mais ou menos 82.351.644 de celulares. Ainda me lembro de quando eles eram artigos de luxo, mesmo sendo grandes e pesados.
+Hoje, por um preço razoável, você consegue celulares que tiram fotos e fazem outras coisas que nem James Bond ousava imaginar. E quer saber da melhor? Esse é só o começo.
+Aparelhos com essas e outras possibilidades aparecerão.</description>
+    </item>
+    
+    <item>
+      <title>Browsers dos Dispositivos Móveis</title>
+      <link>http://localhost/jhonny-roger/public/browsers_em_dispositivos_moveis/</link>
+      <pubDate>Thu, 31 Mar 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/browsers_em_dispositivos_moveis/</guid>
+      <description>Dispositivos Móveis. Este é um terreno muito estranho para os desenolvedores de sites.
+Talvez você tenha ouvido falar em fazer sites para Dispositivos Móveis (Mobiles) depois que começou a estudar Web Standards. Confesso que comecei a dar mais atenção a essa área depois que estudei a fundo os Padrões.
+Mas, para aquele usuário um pouco mais avançado, que quer fazer seus sites aparecerem melhores nestes dispositivos, nada melhor que conhecer os Browsers que estão disponíveis e que são usados pelos usuários de Mobiles.</description>
+    </item>
+    
+  </channel>
+</rss>

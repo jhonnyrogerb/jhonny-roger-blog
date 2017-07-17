@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mootools on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/mootools/</link>
+    <description>Recent content in Mootools on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 17 Aug 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/mootools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Alternativas ao jQuery</title>
+      <link>http://localhost/jhonny-roger/public/alternativas-ao-jquery/</link>
+      <pubDate>Wed, 17 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/alternativas-ao-jquery/</guid>
+      <description>Apesar de toda a sua popularidade, não são poucas as alternativas para quem procura bibliotecas mais específicas, mais eficientes em certos aspectos e mais enxutas do que o jQuery.
+Algumas foram a raiz do novo estilo de desenvolvimento JavaScript, visando uma maior legibilidade e facilidade de aprendizado e acabaram sendo responsáveis pelo atual estado das bibliotecas e frameworks JavaScript.
+A curta curva de aprendizado e o leque de plugins fazem do jQuery um concorrente imbatível (com atualmente 50% do &amp;#8220;mercado&amp;#8221;), no entanto, bibliotecas como ExtJS, MooTools e Prototype possuem uma base fiel de usuários e mostram-se alternativas altamente viáveis para a implementação de JavaScript em suas aplicações.</description>
+    </item>
+    
+  </channel>
+</rss>

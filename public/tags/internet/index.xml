@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internet on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/internet/</link>
+    <description>Recent content in Internet on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 23 Nov 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/internet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Como funciona a Internet e a World Wide Web</title>
+      <link>http://localhost/jhonny-roger/public/como-funciona-internet-e-world-wide-web/</link>
+      <pubDate>Mon, 23 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/como-funciona-internet-e-world-wide-web/</guid>
+      <description>Muitas pessoas se encantaram com a Web e gostariam que ela fizesse parte da sua vida pessoal e/ou profissional. Comigo foi assim, com alguns amigos também e, acredito, que com você também foi assim. Afinal, quem não queria fazer parte desta história?
+Acontece que muitas pessoas que entram neste mundo do desenvolvimento web sequer sabem, de fato, como a Web funciona. Iniciam querendo aprender a criar sites com HTML, CSS, JavaScript, PHP ou  sem saber seu funcionamento.</description>
+    </item>
+    
+    <item>
+      <title>HTTP/2 – Atualização do protocolo base da internet</title>
+      <link>http://localhost/jhonny-roger/public/http2-atualizacao-do-protocolo-base-da-internet/</link>
+      <pubDate>Wed, 18 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/http2-atualizacao-do-protocolo-base-da-internet/</guid>
+      <description>HTTP é o protocolo de comunicação base usado para a internet funcionar. O nome é Hypertext Transfer Protocol. Olha só a palavra Hypertext aparecendo de novo. Onde mais você encontra ela? Isso! Exato! Na sigla HTML: HyperText Markup Language. O HTTP é o protocolo que troca ou faz a transferência de hipertextos.
+Eu não vou explicar aqui o que é um Hipertexto porque eu sei que você já sabe. Mas a grande novidade é que durante os últimos 16 anos nós usamos uma mesma versão desse protocolo e agora a galera do IETF HTTP Working Group soltou a atualização, chamada de HTTP/2!</description>
+    </item>
+    
+    <item>
+      <title>O que você faz quando falta a internet?</title>
+      <link>http://localhost/jhonny-roger/public/o-que-voce-faz-quando-falta-internet/</link>
+      <pubDate>Thu, 12 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-que-voce-faz-quando-falta-internet/</guid>
+      <description>Nos últimos anos, você já deve ter encontrado alguém preocupado em saber de onde vem a comida que come. É o movimento Know Your Food, ou algo assim. Parece coisa de hippies e fãs de new-age, mas não é1. E eu adoraria ver surgir algo assim para a internet: Know Your Web. Saiba de onde vem a informação que você consome.
+Um bom ponto de partida seria o livro Tubes, de Andrew Blum.</description>
+    </item>
+    
+    <item>
+      <title>Sobrevivendo na selva da Internet</title>
+      <link>http://localhost/jhonny-roger/public/sobrevivendo-na-internet/</link>
+      <pubDate>Mon, 17 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sobrevivendo-na-internet/</guid>
+      <description>Muitas pessoas sonham em criar sites que terão milhares de acessos diarios. Sites que serão compartilhados por outras pessoas e que em pouco tempo se tornarão referencia. Apelam para designers inovadores, endereços um pouco estranhos e até mesmo para divulgação em serviços sociais, tudo isso para sair do anonimato.
+Meses depois vem a pergunta cruel – O que está dando errado? E completa dizendo “Meu site é bonito, leve e fácil de usar, mas tenho poucos senão nenhum acesso diário.</description>
+    </item>
+    
+    <item>
+      <title>Schema – Marcação de dados estruturados</title>
+      <link>http://localhost/jhonny-roger/public/schema-marcacao-de-dados-estruturados/</link>
+      <pubDate>Mon, 02 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/schema-marcacao-de-dados-estruturados/</guid>
+      <description>Há cerca de cinco anos atrás os principais buscadores se uniram para definir uma nova estrutura que pode ser chamado de “mapa de um site”, um documento onde tem uma única função que é informar aos buscadores a estrutura de um site, vídeos ou imagens. Essa estrutura é utilizada até hoje pelos desenvolvedores permitindo assim que todas as áreas ou páginas sejam facilmente “descobertas” pelos crawlers dos buscadores, foi assim que surgiu o sitemap.</description>
+    </item>
+    
+    <item>
+      <title>Responsive Web Design – focando a coisa certa</title>
+      <link>http://localhost/jhonny-roger/public/responsive-web-design-voce-esta-fazendo-isso-errado/</link>
+      <pubDate>Tue, 20 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/responsive-web-design-voce-esta-fazendo-isso-errado/</guid>
+      <description>Eu andei pensando em um assunto e procurando sobre encontrei um artigo, fresquinho, no Brad Frost que veio de encontro ao que eu estava matutando. Eu escrevi em tempos passados um artigo sobre por que estávamos desenvolvendo apenas para iPhone. Foi aí que começamos a pensar em versões mobiles. Mas fazíamos versões mobiles dos nossos sistemas e websites simplesmente sem entender quando a necessidade de ter um site mobile era real.</description>
+    </item>
+    
+    <item>
+      <title>Convencimento e educação = liberdade</title>
+      <link>http://localhost/jhonny-roger/public/convencimento-e-educacao-liberdade/</link>
+      <pubDate>Thu, 15 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/convencimento-e-educacao-liberdade/</guid>
+      <description>Os websites precisam parecer iguais em todos os browsers? Claro que não. Aí você fala assim: &amp;#8220;Diz isso para meu chefe ou meu cliente.&amp;#8221; Eu até posso dizer, mas aí eu estaria fazendo o seu trabalho.
+Uma das obrigações atuais do desenvolvedor client-side é educar e convencer. Não venha me dizer que isso é quase impossível porque eu já sei disso. Mas ninguém disse que é totalmente impossível, correto? Você vai encontrar muitos obstáculos, tenha certeza disso, mas você vai conseguir mudar a web brasileira e a do mundo se fizer isso e fizer bem feito.</description>
+    </item>
+    
+    <item>
+      <title>Mobile First – A arte de pensar com foco</title>
+      <link>http://localhost/jhonny-roger/public/mobile-first-a-arte-de-pensar-com-foco/</link>
+      <pubDate>Tue, 13 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/mobile-first-a-arte-de-pensar-com-foco/</guid>
+      <description>Durante muito tempo especialistas de diversas áreas previram o crescimento do uso dos dispositivos móveis. Demorou um pouco mas a previsão se tornou verdadeira. Hoje todo mundo carrega um pedaço de plástico com uma tela de vidro na mão o dia inteiro&amp;#8230; quase uma extensão de nossos corpos.
+Os dispositivos móveis se tornaram uma febre e vieram para ficar. É a melhor forma de fazer a inclusão digital para aqueles que não tem uma forma de ter um notebook ou um desktop em casa.</description>
+    </item>
+    
+    <item>
+      <title>Especificação para touch screens</title>
+      <link>http://localhost/jhonny-roger/public/especificacao-para-touch-screens/</link>
+      <pubDate>Wed, 22 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/especificacao-para-touch-screens/</guid>
+      <description>Até alguns anos atrás nós acessávamos a internet apenas utilizando computadores e celulares. Hoje existem aparelhos de diversos tipos. Temos até dispositivos como o Surface, ainda que seu uso seja mais restrito e específico. Mas não demora muito que outros dispositivos surjam e preencham alguma lacuna escondida. O importante é entender que cada aparelho tem sua forma de interação.
+Hoje, as interfaces touch estão maduras e estáveis, que chegam a inspirar as interfaces dos sistemas desktops.</description>
+    </item>
+    
+    <item>
+      <title>Porque é a web que comanda</title>
+      <link>http://localhost/jhonny-roger/public/porque-e-a-web-que-comanda/</link>
+      <pubDate>Wed, 27 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/porque-e-a-web-que-comanda/</guid>
+      <description>A AppStore fez sucesso. Bastante. Por vários motivos: um deles foi por conta da remuneração do desenvolvedor. Teve gente que ganhou milhares de dólares sozinho vendendo aplicações por 99 centavos. Obviamente isso chamou a atenção de muita gente, que começou a fazer aplicações enlouquecidamente para ganhar alguns trocados. Consequentemente um grande números de aplicações que não precisam ser instaláveis no aparelho, apareceram. Vários desenvolvedores não perceberam que dependendo do seu sistema, ele não precisa ser desenvolvido exclusivamente para ser instalado na plataforma do iPhone.</description>
+    </item>
+    
+    <item>
+      <title>Anotações soltas sobre como vender e comprar na internet (por um leigo)</title>
+      <link>http://localhost/jhonny-roger/public/anotacoes-soltas-sobre-como-vender-e-comprar-na-internet/</link>
+      <pubDate>Mon, 14 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/anotacoes-soltas-sobre-como-vender-e-comprar-na-internet/</guid>
+      <description>&lt;p&gt;Você se conhece de verdade? Quando você compra alguma coisa, compra porque? Todo mundo diz que a ação de comprar é algo emocional. E por ser uma coisa emocional, fica mais difícil encontrarmos o real motivo pelo qual a pessoa compra ou deixa de comprar algo.&lt;/p&gt;
+
+&lt;p&gt;A Visie está vendendo um &lt;a href=&#34;http://visie.com.br/pdf&#34;&gt;PDF sobre Produtividade&lt;/a&gt;. E com essa experiência pude tirar algumas lições. A principal delas é que algo digital ainda não substitui algo físico. O preço do PDF é bem parecido com o preço de alguns livros impressos. O conteúdo com certeza é o melhor que você encontrar sobre o assunto (jabá), então porque ainda encontro pessoas que não tem coragem de comprá-lo?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>IE8 – O sonho não acabou</title>
+      <link>http://localhost/jhonny-roger/public/ie8-o-sonho-nao-acabou/</link>
+      <pubDate>Sun, 09 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ie8-o-sonho-nao-acabou/</guid>
+      <description>&lt;p&gt;Para você se inteirar do assunto, leia &lt;a href=&#34;http://tableless.com.br/ie8-targeting-version&#34;&gt;Browser Targeting Version&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;No artigo que recomendei acima, lá nos últimos parágrafos dei minha opinião sobre a antiga decisão da Microsoft:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Mesmo assim, acho que tudo deveria ser nivelado por cima. Porque os desenvolvedores que se preocupam e utilizam os Padrões da maneira correta, são os que devem marcar o browser? Não seria mais fácil criar uma metatag para marcar os sites que não devem ser renderizados com o suporte avançado de Padrões? Quem deve se preocupar, são os desenvolvedores que não dão a mínima para os Padrões. Eles sim devem trabalhar para deixar seus sites atualizados.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>O Caminho Suave para o Tableless</title>
+      <link>http://localhost/jhonny-roger/public/o-caminho-suave-para-o-tableless/</link>
+      <pubDate>Thu, 06 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-caminho-suave-para-o-tableless/</guid>
+      <description>A maior parte dos desenvolvedores web, designers ou programadores, começaram antes do surgimento dos movimentos em prol dos padrões web, usando tabelas para montar layouts em editores WYSIWYG, e ainda hoje este método é usado na maioria dos projetos de internet. Logo, é natural que muita gente, ao começar a entender o valor dos padrões, se pergunte como migrar do desenvolvimento &amp;#8220;tradicional&amp;#8221; para o desenvolvimento de código semanticamente coerente.</description>
+    </item>
+    
+    <item>
+      <title>Mobilidade na cabeça</title>
+      <link>http://localhost/jhonny-roger/public/mobilidade-na-cabeca/</link>
+      <pubDate>Wed, 10 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/mobilidade-na-cabeca/</guid>
+      <description>Ontem, depois do lançamento do iPhone e de ter visto suas funcionalidades (nem tão novas assim, mas reinvatadas de verdade), fiquei pensando em uma funcionalidade em particular: navegação na internet. Quem assistiu o Keynote viu o camarada navegando de verdade com um browser de verdade (Safari) e tendo uma experiência realmente boa. O browser carrega o site inteiro, lendo XHTML e CSS, nada de SSR ou qualquer coisa parecida e é renderizado como se fosse uma miniatura na tela, mas a formatação é integral, como se estivesse sendo visualizado de um desktop.</description>
+    </item>
+    
+    <item>
+      <title>Breve introdução: XHTML Mobile Profile</title>
+      <link>http://localhost/jhonny-roger/public/breve-introducao-xhtml-mobile-profile/</link>
+      <pubDate>Tue, 28 Mar 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/breve-introducao-xhtml-mobile-profile/</guid>
+      <description>XHTML MP é um subset do já conhecido XHTML. Ele é baseado em um outro subset de XHTML chamada XHTML Basic. O XHTML Basic é uma versão simplificada do XHTML definido pelo W3C. Ele foi feito especificamente para dispositivos com baixo poder de processamento como celulares, PDAs, pagers etc&amp;#8230; O XHTML Basic não contém algumas características que esses dispositivos dificilmente suportam, como por exemplo: Frames, Folhas de Estilo em Cascata e scripts.</description>
+    </item>
+    
+    <item>
+      <title>Principais pontos da Acessibilidade na Web</title>
+      <link>http://localhost/jhonny-roger/public/principais-pontos-da-acessibilidade-na-web/</link>
+      <pubDate>Wed, 01 Feb 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/principais-pontos-da-acessibilidade-na-web/</guid>
+      <description>Quando ouvimos falar de sites acessíveis, logo imaginamos sites que podem ser acessados por pessoas com necessidades especiais. Isso é um grande erro que não podemos cometer. Ao termos essa atitude, negligenciamos uma série de outros fatores que são extremamente importante para a boa acessibilidade do site.
+Abaixo, vamos tentar resumir os principais pontos que a Acessibilidade na Web alcança.
+Diversos Dispositivos Hoje o meio mais comum de navegar pela Web é usando um Desktop, ou seja, um Computador pessoal.</description>
+    </item>
+    
+    <item>
+      <title>Sites para Dispositivos Móveis – Breve introdução</title>
+      <link>http://localhost/jhonny-roger/public/sites-para-dispositivos-moveis-breve-introducao/</link>
+      <pubDate>Thu, 05 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sites-para-dispositivos-moveis-breve-introducao/</guid>
+      <description>Você tem celular? De acordo com a Teleco, em novembro de 2005, havia mais ou menos 82.351.644 de celulares. Ainda me lembro de quando eles eram artigos de luxo, mesmo sendo grandes e pesados.
+Hoje, por um preço razoável, você consegue celulares que tiram fotos e fazem outras coisas que nem James Bond ousava imaginar. E quer saber da melhor? Esse é só o começo.
+Aparelhos com essas e outras possibilidades aparecerão.</description>
+    </item>
+    
+    <item>
+      <title>O que é Tableless?</title>
+      <link>http://localhost/jhonny-roger/public/o-que-etableless/</link>
+      <pubDate>Tue, 09 Aug 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-que-etableless/</guid>
+      <description>A Web foi criada para ser um ambiente onde fosse possível trocar informações livremente, e que essas informações pudessem ser acessadas ao redor do planeta por qualquer pessoa. Em 1994, foi criado o W3C (World Wide Web Consortium): um consórcio internacional, onde são desenvolvidas os padrões para a web (Web Standards) tais como: HTML, CSS, XML, XSLT, entre outros.
+Naquela época, no mercado de browsers, as opções ainda eram poucas: consistiam apenas em Lynx, Mozaic e Netscape Navigator, da Netscape Communications, então liderada por James Clark.</description>
+    </item>
+    
+    <item>
+      <title>Browsers dos Dispositivos Móveis</title>
+      <link>http://localhost/jhonny-roger/public/browsers_em_dispositivos_moveis/</link>
+      <pubDate>Thu, 31 Mar 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/browsers_em_dispositivos_moveis/</guid>
+      <description>Dispositivos Móveis. Este é um terreno muito estranho para os desenolvedores de sites.
+Talvez você tenha ouvido falar em fazer sites para Dispositivos Móveis (Mobiles) depois que começou a estudar Web Standards. Confesso que comecei a dar mais atenção a essa área depois que estudei a fundo os Padrões.
+Mas, para aquele usuário um pouco mais avançado, que quer fazer seus sites aparecerem melhores nestes dispositivos, nada melhor que conhecer os Browsers que estão disponíveis e que são usados pelos usuários de Mobiles.</description>
+    </item>
+    
+  </channel>
+</rss>

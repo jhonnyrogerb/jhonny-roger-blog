@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microdata on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/microdata/</link>
+    <description>Recent content in Microdata on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 20 Dec 2010 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/microdata/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introdução a Microdata no HTML5</title>
+      <link>http://localhost/jhonny-roger/public/introducao-a-microdata-no-html5/</link>
+      <pubDate>Mon, 20 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-a-microdata-no-html5/</guid>
+      <description>Provavelmente você já ouviu falar de microformats, um padrão que permite representar informações de modo mais semântico no XHTML, como, por exemplo, informações de contato (hCard) ou dados de um evento (hCalendar).
+No HTML5, temos o microdata, conceito semelhante aos microformats e RDFa, um padrão de representação de informações que estende as potencialidades semânticas do HTML5.
+As informações representadas através de microdata utilizam elementos pertencentes a um vocabulário específico que deve ser referenciado no documento HTML.</description>
+    </item>
+    
+  </channel>
+</rss>

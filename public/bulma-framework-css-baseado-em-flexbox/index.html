@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245840">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<blockquote>
+<p>&#8220;Inspirado pelo Bootstrap, o Bulma visa oferecer a todos a alegria de fazer o design do site, com a simplicidade do flexbox e a elegância de Sass.&#8221; &#8211; <a href="http://jgthms.com/">Jeremy Thomas</a>, criador do projeto Bulma.io.</p>
+</blockquote>
+
+<p>&nbsp;</p>
+
+<p>Como o título diz, o <a href="http://bulma.io/">Bulma</a> é um framework CSS baseado na tecnologia flexbox, que já tem uma grande <a href="http://caniuse.com/#search=flexbox">compatibilidade</a> entre os navegadores. O pacote contém todos os elementos mais comuns como botões, formulários, menus, tabelas, títulos, notificações, barras de progresso e um simples sistema de grid (basta adicionar uma coluna, o resize das colunas é automático).</p>
+
+<p>Vou mostrar alguns exemplos para que você possa entender o poder do Bulma.</p>
+
+<p>Primeiramente, faremos a instalação que não precisa de nada mais que um link para o arquivo de estilos do Bulma:</p>
+
+<pre class="lang-html">&lt;link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.0.26/css/bulma.css"&gt;
+</pre>
+
+<p>Claro que você pode baixar e deixar no seu diretório local, e também baixar com o NPM: <code>npm install bulma</code>; mas o que quero mostrar é que tudo que você precisa é apenas de um arquivo de CSS.</p>
+
+<p>Baixando com o NPM você terá como personalizar facilmente com SASS.</p>
+
+<p>O Bulma não vem com nenhum pacote de icon-fonts acoplado, então, caso você pretenda usar algum, como o Font Awesome, você deve inserí-lo também.</p>
+
+<h2 id="o-grid">O Grid</h2>
+
+<p>Lembrando: como o Bulma foi baseado no Bootstrap, uma das semelhanças é o sistema de grid com 12 colunas.</p>
+
+<p>Como falei, o grid funciona de forma muito simples. Tudo que você precisa é ter uma <code>div</code> com a classe <code>.columns</code> e suas filhas <code>.column</code>, como no exemplo abaixo:</p>
+
+<pre class="lang-html">&lt;div class="columns"&gt;
+  &lt;div class="column"&gt;.column&lt;/div&gt;
+  &lt;div class="column"&gt;.column&lt;/div&gt;
+  &lt;div class="column"&gt;.column&lt;/div&gt;
+  &lt;div class="column"&gt;.column&lt;/div&gt;
+&lt;/div&gt;
+</pre>
+
+<p>Você pode entender melhor como funciona com <a href="http://codepen.io/gabsprates/full/PNVJrP/">esse exemplo</a>.</p>
+
+<p>Mas e se você quiser que uma coluna ocupe o espaço de duas? Ou três? Ou quatro? Simples!!!</p>
+
+<p>Podemos utilizar as classes <code>is-2</code>, <code>is-3</code>, <code>is-4</code>, <code>is-5</code>, <code>is-6</code>, <code>is-7</code>, <code>is-8</code>, <code>is-9</code>, <code>is-10</code> e <code>is-11</code> para especificar qual a área ocupada pela <code>.column</code>.</p>
+
+<p>Para entender melhor, aconselho a dar uma olhada <a href="http://bulma.io/documentation/grid/columns/">neste</a> e <a href="http://bulma.io/documentation/grid/tiles/">neste</a> links.</p>
+
+<h2 id="hero">Hero</h2>
+
+<p>Você já teve problemas com alinhar elementos verticalmente ao centro? O Bulma é um verdadeiro herói para essas situações! Veja este exemplo:</p>
+
+<pre class="lang-html">&lt;section class="hero is-large"&gt;
+    &lt;div class="hero-body"&gt;
+      &lt;div class="container"&gt;
+        &lt;h1 class="title"&gt;
+          Título
+        &lt;/h1&gt;
+        &lt;h2 class="subtitle"&gt;
+          Exemplo do uso do hero
+        &lt;/h2&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+</pre>
+
+<p>Aqui o Bulma centraliza os títulos na vertical, qualquer conteúdo seria alinhado também. <a href="http://bulma.io/documentation/layout/hero/">Clique aqui</a> mais exemplos.</p>
+
+<h2 id="level">Level</h2>
+
+<p>Por último, quero falar um pouco sobre as navbars. Veja esse código:</p>
+
+<pre class="lang-html">&lt;nav class="level"&gt;
+    &lt;p class="level-item has-text-centered"&gt;
+      &lt;a class="link is-info"&gt;Home&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;p class="level-item has-text-centered"&gt;
+      &lt;a class="link is-info"&gt;Menu&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;p class="level-item has-text-centered"&gt;
+      &lt;img src="http://bulma.io/images/bulma.png" alt="" style="height: 33px;"&gt;
+    &lt;/p&gt;
+    &lt;p class="level-item has-text-centered"&gt;
+      &lt;a class="link is-info"&gt;Reservations&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;p class="level-item has-text-centered"&gt;
+      &lt;a class="link is-info"&gt;Contact&lt;/a&gt;
+    &lt;/p&gt;
+  &lt;/nav&gt;
+
+</pre>
+
+<p>Ele gera uma navbar em que os elementos são divididos com a largura igual e com alinhamento vertical no centro, mesmo com imagem ou até mesmo um <code>form</code>, ele manteria esse alinhamento.</p>
+
+<p>Veja mais <a href="http://bulma.io/documentation/components/level/">aqui</a>.</p>
+
+<h2 id="enfim-8230">Enfim&#8230;</h2>
+
+<p>Estes foram alguns exemplos do poder do Bulma mas há muito mais que você pode conferir na própria <a href="http://bulma.io/documentation/overview/start/">documentação do projeto</a>.</p>
+
+<p>Existem vários componentes legais, como cards, menus, paginação, mensagens, e várias outras coisas fáceis de usar e simples de compreender.</p>
+
+<p>Isso é tudo pessoal (:</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/atribuicao-multipla-com-destruturing-assignment//?utm_source=tablelessRelatedLin">Atribuição múltipla com Destruturing Assignment</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/crie-sites-em-questao-de-minutos-com-o-pingendo//?utm_source=tablelessRelatedLin">Crie sites em questão de minutos com o Pingendo</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245840"></script>

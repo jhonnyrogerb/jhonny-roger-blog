@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Utf 8 on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/utf-8/</link>
+    <description>Recent content in Utf 8 on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 01 May 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/utf-8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HTML: Encode UTF-8</title>
+      <link>http://localhost/jhonny-roger/public/html-encode-utf-8/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/html-encode-utf-8/</guid>
+      <description>Há uns 7 anos atrás o Diego Eis publicou aqui um artigo sobre o assunto. Vou fazer uma nova abordagem.
+Sabe quando sua página troca acentuações por caracteres bem loucos? Este é um problema simples de explicar e vou tentar mostrar as regras que se aplicam quando o browser faz o download de um HTML, como escolher um encode e como usá-lo.
+Existem três formas de declararmos o encode do arquivo:</description>
+    </item>
+    
+  </channel>
+</rss>

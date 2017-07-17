@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meteor on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/categories/meteor/</link>
+    <description>Recent content in Meteor on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 13 Aug 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/categories/meteor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introdução ao Meteor</title>
+      <link>http://localhost/jhonny-roger/public/introducao-ao-meteor/</link>
+      <pubDate>Thu, 13 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-ao-meteor/</guid>
+      <description>Primeiro, se você ainda não conhece o Meteor, da uma lida aqui.
+Não sou tão bom em fazer tutorial quanto em propaganda, deve ser por isso que trabalho numa agência de publicidade e não numa escola, mas vamos ao que interessa, vamos brincar um pouco com Meteor.
+Antes de mais nada, obviamente, você precisa instalar em sua máquina. Tem pra Windows, Linux e Mac, não tem erro:
+&amp;#8211; https://www.meteor.com/install</description>
+    </item>
+    
+  </channel>
+</rss>

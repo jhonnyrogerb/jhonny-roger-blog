@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alistapart on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/alistapart/</link>
+    <description>Recent content in Alistapart on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 12 Nov 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/alistapart/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Personalidade no Design</title>
+      <link>http://localhost/jhonny-roger/public/personalidade-no-design/</link>
+      <pubDate>Mon, 12 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/personalidade-no-design/</guid>
+      <description>_Traduzido com autorização da A List Apart Magazine e do autor._
+Estamos animados em apresentar um trecho do 3° capítulo do livro “Designing for Emotion” de Aarron Walter (Ed. A Book Apart, 2011)
+Chamamos de personalidade, o centro de relações duradouras, em torno de qualidades únicas, e perspectivas que todos possuímos. Através de nossa personalidade, expressamos uma gama de emoções humanas. Personalidade é a força que nos atrai a certas pessoas e nos repele de outras.</description>
+    </item>
+    
+  </channel>
+</rss>

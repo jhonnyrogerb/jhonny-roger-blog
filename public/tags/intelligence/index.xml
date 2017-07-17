@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intelligence on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/intelligence/</link>
+    <description>Recent content in Intelligence on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 13 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/intelligence/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Inteligência Social: Taxa de Engajamento!</title>
+      <link>http://localhost/jhonny-roger/public/inteligencia-social-taxa-de-engajamento/</link>
+      <pubDate>Wed, 13 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/inteligencia-social-taxa-de-engajamento/</guid>
+      <description>Você já ouviu falar em Social Business Intelligence, Social BI, ou em Engagement Rate? Caso nunca tenha ouvido sugiro continuar essa leitura pois são dois pontos cada vez mais importantes quando se fala de redes sociais.
+ Social BI, Inteligência Social, trata-se da coleta e análise de dados transformados em informações que podem gerar insights importantes para seu negócio.
+ Quando se fala em Social BI, Inteligência Social, é importante frisar que existe um processo de coleta, classificação e análise, quantitativa e qualitativa, que pode variar muito de acordo com cada analista que realize pois o conhecimento empírico é fundamental para extrair o máximo deste processo.</description>
+    </item>
+    
+  </channel>
+</rss>

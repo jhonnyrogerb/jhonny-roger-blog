@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245845">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>Criei alguns objetos simples mas com propriedades usadas no nosso dia-a-dia. Estes objetos estão armazenados num vetor de projetos. Cada objeto representa um projeto e tem as propriedades id, objeto, valorTotal e investido.</p>
+
+<pre class="lang-js">var projetos = [
+    {id: 12, objeto: "revitalização da ponte abc", valorTotal: 220000.25, investido: 10000.00},
+    {id: 14, objeto: "duplicação da rodovia br-101", valorTotal: 747800.50, investido: 35000.00},
+    {id: 34, objeto: "aterramento localidade xyz", valorTotal: 635405.70, investido: 16500.00}
+];</pre>
+
+<p>Aqui temos uma função que age como um construtor. O objeto tem a responsabilidade de realizar o somatório de um determinado valor do objeto projeto. Ela recebe como parâmetros um array de projetos (linhas) e uma propriedade escolhida para ser somada (coluna). Além desses atributos, uma função de filtro (funcaoFiltro) é utilizada. Mais adiante ela será explicada.</p>
+
+<p>O método &#8216;total&#8217; realiza o somatório de determinada coluna do objeto projeto. Nele, temos o uso de algumas funções de Array, do Javascript: map, filter e reduce. Na primeira linha do método total é utilizada a função map, que a partir do array de projetos recebe um projeto e mapeia apenas determinada propriedade do projeto. Digo determinada por que ela é parametrizada com com &#8216;linha[coluna]&#8217;. Esta é uma forma dinâmica do Javascript acessar uma propriedade de um objeto. Desta forma, conseguimos parametrizar qual propriedade do objeto projeto queremos usar no somatório. Como resultado da aplicação de map no array de projetos temos um array de valores especificados pelo parâmetro &#8216;coluna&#8217;.</p>
+
+<p>Na segunda instrução do método total é verificada a existência da função de filtro, que é determinada pela variável &#8216;funcaoFiltro&#8217;. Para tal é disponibilizado um método aplicaFuncaoFiltro que recebe a função. Esta função será utilizada como parâmetro para a função filter, de Array. A instrução verifica se a função de filtro está definida, e se está é aplicada usando filter.</p>
+
+<p>E, por último é utilizada a função reduce, também de Array. A partir dos valores mapeados e filtrados, a função passada para reduce realiza apenas a soma dos valores.</p>
+
+<pre class="lang-js">function SomadorDeColuna(linhas, coluna) {
+    this.linhas = linhas;
+    this.coluna = coluna;
+    this.funcaoFiltro = undefined;
+    this.total = function() {
+      var valores = this.linhas.map(function(linha) {
+    return linha[coluna];
+    });
+this.funcaoFiltro && (valores = valores.filter(this.funcaoFiltro));
+
+return valores.reduce(function(anterior, atual) {
+    return anterior + atual;
+});
+};
+
+this.aplicaFuncaoFiltro = function(funcao) {
+    this.funcaoFiltro = funcao;
+};
+}</pre>
+
+<p>Os dois objetos &#8216;valorTotalAcimaDe500Mil&#8217; e &#8216;valorInvestidoAcimaDe15Mil&#8217; definidos acima</p>
+
+<p>são usados para informar em qual propriedade será feito o somatório e qual função utilizar</p>
+
+<p>como filtro.</p>
+
+<p>Para o objeto valorTotalAcimaDe500Mil a propriedade a ser somada será</p>
+
+<p>&#8216;valorTotal&#8217; e a função para filtrar os valores a serem somados é somente os acima de 500000.00.</p>
+
+<p>Para o objeto valorInvestidoAcimaDe15Mil a propriedade a ser somada será &#8216;investido&#8217;</p>
+
+<p>e a função para filtrar os valores a serem somados é somente os acima de 15000.00.</p>
+
+<pre class="lang-js">var valorTotalAcimaDe500Mil = {
+    coluna: "valorTotal",
+    funcao: function(valor) {return valor &gt; 500000.00;}
+};</pre>
+
+<pre class="lang-js">var valorInvestidoAcimaDe15Mil = {
+    coluna: "investido",
+    funcao: function(valor) {return valor &gt; 15000.00;}
+};</pre>
+
+<p>Aqui temos uma instência de SomadorDeColuna usando o array projetos e a</p>
+
+<p>coluna valorTotal para realizar o somatório. Na sequência, para o objeto</p>
+
+<p>é informada a função de filtro. Ambos propriedade e função passados como</p>
+
+<p>parâemtros são definidos nos objetos declarados acima. Por fim é impresso</p>
+
+<p>o total invocando o método total, do objeto.</p>
+
+<pre class="lang-js">var somador = new SomadorDeColuna(projetos, valorTotalAcimaDe500Mil.coluna);
+somador.aplicaFuncaoFiltro(valorTotalAcimaDe500Mil.funcao);
+console.log(somador.total());</pre>
+
+<h2 id="evoluindo-o-design-para-uso-de-duck-typing">Evoluindo o design para uso de Duck Typing.</h2>
+
+<p>Depois de implementar esta primeira versão, resolvi criar a ideia de regra de</p>
+
+<p>filtro. Ao invés do construtor receber a coluna e a função de filtro ser</p>
+
+<p>configurada em um método a parte, percebi que poderia usar a técnica de Duck Typing</p>
+
+<p>para configurar a propriedade e a função de filtro ao mesmo tempo no objeto.</p>
+
+<p>Abaixo está uma versão adaptada para usar a regra de filtro. A regra de filtro mantém</p>
+
+<p>a propriedade e a função de filtro. Independente da propriedade e da função de filtro</p>
+
+<p>que forem, o objeto SomadorDeColuna sabe aplicar a regra de filtro no somatório devido</p>
+
+<p>ao &#8220;contrato&#8221; estabelecido para usar Duck Typing. Este contrato define que o objeto</p>
+
+<p>para a regra de filtro deev definir um atributo &#8216;coluna&#8217; e um atributo &#8216;funcao&#8217;, que</p>
+
+<p>representam a propriedade e a função, respectivamente.</p>
+
+<pre class="lang-js">var projetos = [
+    {id: 12, objeto: "revitalização da ponte abc", valorTotal: 220000.25, investido: 10000.00},
+    {id: 14, objeto: "duplicação da rodovia br-101", valorTotal: 747800.50, investido: 35000.00},
+    {id: 34, objeto: "aterramento localidade xyz", valorTotal: 635405.70, investido: 16500.00}
+];</pre>
+
+<pre class="lang-js">function SomadorDeColuna(linhas, regraDeFiltro) {
+this.linhas = linhas;</pre>
+
+<pre class="lang-js">this.total = function() {
+    var valores = this.linhas.map(function(linha) {
+    return linha[regraDeFiltro.coluna];
+});</pre>
+
+<pre class="lang-js">var valoresFiltrados = valores.filter(regraDeFiltro.funcao);
+return valoresFiltrados.reduce(function(anterior, atual) {
+    return anterior + atual;
+});
+}</pre>
+
+<p>Caso não houver necessidade de possuir uma função de filtro, basta fornecer uma implementação que não filtra nenhum valor, ou seja, que retorne o próprio valor, na função de filtro. Os objetos &#8216;valorTotal&#8217; e &#8216;valorInvestido&#8217; explicitam esta ideia.</p>
+
+<pre class="lang-js">var valorTotalAcimaDe500Mil = {
+    coluna: "valorTotal",
+    funcao: function(valor) {return valor &gt; 500000.00;}
+};
+var valorTotal = {
+    coluna: "valorTotal",
+    funcao: function(valor) {return valor;}
+};</pre>
+
+<pre class="lang-js">var valorInvestidoAcimaDe15Mil = {
+    coluna: "investido",
+    funcao: function(valor) {return valor &gt; 15000.00;}
+};
+var valorInvestido = {
+    coluna: "investido",
+    funcao: function(valor) {return valor;}
+};</pre>
+
+<pre class="lang-js">var somador = new SomadorDeColuna(projetos, valorInvestido);
+console.log(somador.total());</pre>
+
+<h2 id="conclusão">Conclusão</h2>
+
+<p>Apensar da necessidade de somatório de diversos valores, não foi usado em nenhum momento o loop &#8216;for&#8217;. Reutilização de código sem introduzir possibilidade de novos bugs.</p>
+
+<p>Uma modificação interessante para o objeto SomadorDeColuna seria incluir a desformatação de valores que estão representados como moeda (56.955,00) na tela. Uma boa biblioteca para isso é a <a href="http://numeraljs.com">numeraljs</a>.</p>
+
+<p>Apesar de ser um objeto simples, tem muita utilidade em caso de somatórios no dia-a-dia.</p>
+
+<p>É quase sempre inerente!</p>
+
+<p>Valeu!</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/indo-alem-no-react-native//?utm_source=tablelessRelatedLin">Indo além no Mundo React-Native</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/seu-primeiro-bot-para-o-telegram//?utm_source=tablelessRelatedLin">Seu primeiro bot para o Telegram</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/paginas_acessiveis_hatemile//?utm_source=tablelessRelatedLin">Páginas acessíveis com o HaTeMiLe</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245845"></script>

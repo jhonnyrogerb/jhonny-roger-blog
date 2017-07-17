@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fernahh on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/fernahh/</link>
+    <description>Recent content in Fernahh on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 11 Oct 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/fernahh/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Afinal, como usar herança no CSS?</title>
+      <link>http://localhost/jhonny-roger/public/afinal-como-usar-heranca-no-css/</link>
+      <pubDate>Sun, 11 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/afinal-como-usar-heranca-no-css/</guid>
+      <description>Herança surgiu para ajudar desenvolvedores a escreverem mesmo e produzirem mais. Vamos ver aqui como esse conceito básico das folhas de estilo pode nos ajudar no dia-a-dia.
+Geralmente quando alguém começa a desenvolver interfaces web, o processo é aos trancos e barrancos. Nessa situação, iniciantes buscam aprender como se faz aquela borda arredondada ou como aplicar transparência. Por fim, acabam deixando de lado conceitos básicos de CSS. Levando isso em conta, precisamos primeiramente aprender sobre especificidade e efeito cascata.</description>
+    </item>
+    
+    <item>
+      <title>Nós quebramos a web</title>
+      <link>http://localhost/jhonny-roger/public/nos-quebramos-web/</link>
+      <pubDate>Mon, 04 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/nos-quebramos-web/</guid>
+      <description>Depois das grandes evoluções que tivemos na web (HTML5, CSS3 e novas APIs JavaScript), junto vieram alguns problemas, aquela história de &amp;#8220;Com grandes poderes vem grandes responsabilidades&amp;#8221;. As novas features da Open Web são fantásticas. Lembro-me bem quando nós eramos cautelosos no usar certos recursos com medo de não conseguir entregar o conteúdo ao usuário. No fim, surgiram (e surgem) polyfills e n maneiras de darmos fallback ao usuário com menos recursos.</description>
+    </item>
+    
+  </channel>
+</rss>

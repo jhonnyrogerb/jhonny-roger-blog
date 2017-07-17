@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Twitter on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/twitter/</link>
+    <description>Recent content in Twitter on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 29 Nov 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Por que Desenvolvedores/Programadores usam Twitter?</title>
+      <link>http://localhost/jhonny-roger/public/por-que-desenvolvedoresprogramadores-usam-twitter/</link>
+      <pubDate>Tue, 29 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/por-que-desenvolvedoresprogramadores-usam-twitter/</guid>
+      <description>{.graf.graf&amp;ndash;h3} Nos últimos 4 meses a comunidade Java Bahia me fez andar por varias universidades/faculdades e em todas elas perguntamos (não andei sozinho por aí) durante as palestras quem tinha costume de usar o Twitter. Infelizmente não tive o insight de fazer uma estatística disso, mas deu para notar que poucos desenvolvedores/programadores possuem o costume de frequentar a rede social. Muito provavelmente essa galera passou pela mesma experiência que eu tive nas minhas duas primeiras tentativas.</description>
+    </item>
+    
+    <item>
+      <title>Fazendo a animação do coração de like do Twitter</title>
+      <link>http://localhost/jhonny-roger/public/fazendo-a-animacao-do-coracao-de-like-do-twitter/</link>
+      <pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/fazendo-a-animacao-do-coracao-de-like-do-twitter/</guid>
+      <description>Quando o Twitter colocou uma animação no coração de Like na versão web, eu fiquei me perguntando como fazer aquela animação. De cara, parece ser bastante simples, e é. Mas é um detalhe que faz a diferença na interface para quem usa a rede social com frequência. Fiz uma versão mais simples. Segue abaixo:
+Antes de olhar o código deles pra pesquisar como foi feito, fiquei pensando em uma série de formas para fazer isso aí.</description>
+    </item>
+    
+    <item>
+      <title>Criando seu próprio Framework HTML CSS</title>
+      <link>http://localhost/jhonny-roger/public/criando-seu-framework-html-css/</link>
+      <pubDate>Mon, 07 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-seu-framework-html-css/</guid>
+      <description>Em 2011, principalmente em 2012, dezenas de pessoas vinham e voltavam com o assunto &amp;#8220;Qual o melhor Framework?&amp;#8221;, fora os bootstrap fanboys de plantão que falavam tão cegamente do Twitter Bootstrap que se somasse todos os amores da internet teriamos um &amp;#8220;cupcake de gato dançando Gangnam Style após tentar beber 1 litro de absolute&amp;#8221; bootstrape. Eu sempre falo isso no meio das minhas palestras e começo dizendo no início desse post: Sejamos menos emotivos e mais analistas em Front-end, explico a seguir:</description>
+    </item>
+    
+    <item>
+      <title>Comportamento e meios de acesso</title>
+      <link>http://localhost/jhonny-roger/public/comportamento-meios-acesso/</link>
+      <pubDate>Fri, 18 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/comportamento-meios-acesso/</guid>
+      <description>Ainda lembro quando comprei meu primeiro smartphone. Odiava navegar naquilo. Eu estava acostumado a utilizer a internet em desktops, com telas grandes e confortáveis. Os sites também não ajudavam. Praticamente nenhum site tinha versão mobile ou uma que funcionasse direito. O Opera tentava fazer a parte dos desenvolvedores, tentando manipular o site para que ele fosse melhor visto em telas menores. Era bom, mas não o ideal.
+Hoje o cenário é diferente.</description>
+    </item>
+    
+  </channel>
+</rss>

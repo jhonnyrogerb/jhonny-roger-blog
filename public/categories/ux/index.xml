@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ux on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/categories/ux/</link>
+    <description>Recent content in Ux on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 23 Apr 2017 16:17:47 -0300</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/categories/ux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Um comentário sobre a desnecessária fragmentação da profissão designer</title>
+      <link>http://localhost/jhonny-roger/public/um-comentario-sobre-a-desnecessaria-fragmentacao-da-profissao-designer/</link>
+      <pubDate>Sun, 23 Apr 2017 16:17:47 -0300</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/um-comentario-sobre-a-desnecessaria-fragmentacao-da-profissao-designer/</guid>
+      <description>Eu estava pra escrever um artigo comentando como a pulverização do trabalho do Designer está atrapalhando profissionais e empresas, criando profissões cada vez mais fragmentadas e tão especializadas que chega a ser uma piada. Até que eu li o artigo do Jonas Downey, escrito no canal do Signal v. Noise, que descreveu tudo o que eu gostaria de falar e mais um pouco.
+O artigo é esse aqui: The Unnecessary Fragmentation of Design Job</description>
+    </item>
+    
+    <item>
+      <title>UX: Como aumentar a tolerância do usuário para atrasos</title>
+      <link>http://localhost/jhonny-roger/public/ux-como-aumentar-tolerancia-do-usuario-para-atrasos/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ux-como-aumentar-tolerancia-do-usuario-para-atrasos/</guid>
+      <description>Vivemos em um tempo onde velocidade é diferencial. Exigimos rapidez de tudo ao nosso redor, seja em um atendimento, em uma entrega de produto, na velocidade da Internet, no feedback do cliente, na estratégia de SEO do nosso site, entre tantos outros exemplos que poderiam ser citados. A realidade é evidente: esperar é doloroso.
+E em um cenário onde rapidez é fator de satisfação, a espera pode influenciar negativamente no valor de um produto ou serviço oferecido.</description>
+    </item>
+    
+    <item>
+      <title>O futuro das interfaces: Chatbots</title>
+      <link>http://localhost/jhonny-roger/public/o-futuro-das-interfaces-chatbots/</link>
+      <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-futuro-das-interfaces-chatbots/</guid>
+      <description>Estamos acostumados a interagir diariamente com interfaces gráficas, seja no computador, celular, tablet, smart tv, etc. Naturalmente incorporamos a utilização dessas interfaces para obter nossos objetivos no dispositivo em questão, seja fazer uma busca no google, ver uma página no Facebook, ler um artigo em um portal de notícias ou escolher um filme no Netflix.
+Podemos não perceber, mas quando ligamos para um call-center onde a máquina (URA — Unidade de Resposta Audível) nos pede para dizer em voz alta o que desejamos, ou o número correspondente ao que queremos, também estamos interagindo com uma interface de voz para atingir nosso propósito.</description>
+    </item>
+    
+    <item>
+      <title>Contraste de cores – Acessibilidade na web</title>
+      <link>http://localhost/jhonny-roger/public/contraste-de-cores-acessibilidade-na-web/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/contraste-de-cores-acessibilidade-na-web/</guid>
+      <description>Nesse post vou explicar uma das opções de como fazer um contraste de cores, existe diretrizes de acessibilidade da WCAG 2.0 que explica o nível aceitável de contraste de cores esperadas em um site, veja nesse link.
+Proposta Criar um contraste de cores em três níveis (Branco, Preto e Azul) usando HTML5, CSS3, Javascript (Puro), Node e o Cookie do navegado para guarda o contraste escolhido.
+Como será feito  Em uma página teremos quatro links em que o usuário vai escolher (Preto, branco, azul ou sem contraste).</description>
+    </item>
+    
+    <item>
+      <title>Reação é melhor que previsão</title>
+      <link>http://localhost/jhonny-roger/public/reacao-e-melhor-que-previsao/</link>
+      <pubDate>Fri, 23 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/reacao-e-melhor-que-previsao/</guid>
+      <description>Entender o usuário é algo difícil. Você pode perceber isso facilmente comparando a sua forma de usar algum serviço de internet, digamos o Facebook, com qualquer outra pessoa ao seu redor. Provavelmente você tem um costume totalmente diferente de navegar, consumir conteúdo, comentar etc. Pessoas diferentes, usam de formas diferentes um mesmo produto e isso é totalmente normal. É por isso que tentar prever cenários para desenvolver um produto para internet é algo complicado.</description>
+    </item>
+    
+    <item>
+      <title>Como organizar e nomear o conteúdo do projeto?</title>
+      <link>http://localhost/jhonny-roger/public/como-organizar-e-nomear-o-conteudo-do-projeto/</link>
+      <pubDate>Tue, 06 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/como-organizar-e-nomear-o-conteudo-do-projeto/</guid>
+      <description>Pode até parecer uma questão simples ou de pouco valor no projeto, mas a verdade é que a forma que você solucione essa ponto será determinante para o sucesso e o card sorting é o melhor caminho!
+O card-sorting é uma técnica usada para descobrir como o usuário classifica determinada informação em sua mente. Muitas pessoas acreditam que podem classificar a informação pelos outros pois acham que sabem como será a melhor forma.</description>
+    </item>
+    
+    <item>
+      <title>Indexando mobile-first – Google anuncia novidades</title>
+      <link>http://localhost/jhonny-roger/public/indexando-mobile-first-google-anuncia-novidades/</link>
+      <pubDate>Wed, 30 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/indexando-mobile-first-google-anuncia-novidades/</guid>
+      <description>Segundo o Google, atualmente a maioria das pessoas já fazem busca utilizando um dispositivo móvel. Entretanto, os sistemas de classificação ainda costumam olhar a versão desktop do conteúdo da página em questão para dar relevância ao usuário. Pensando em mobile-first, isso pode trazer alguns problemas caso a página mobile tenha menos conteúdo do que a página desktop porque os algoritmos do Google não estão avaliando a página que está sendo vista pelo usuário da página mobile.</description>
+    </item>
+    
+    <item>
+      <title>Hierarquia no design</title>
+      <link>http://localhost/jhonny-roger/public/hierarquia-no-design/</link>
+      <pubDate>Thu, 30 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/hierarquia-no-design/</guid>
+      <description>Hierarquia, segundo o dicionário Michaelis, é a categoria atribuída às pessoas ou às coisas, classificadas de acordo com a ordem de importância, crescente ou decrescente. Dessa forma, organizar hierarquicamente é o mesmo que definir graus de importância à alguém ou à alguma coisa.
+A hierarquia no design tem o mesmo objetivo da definição acima citada. Hierarquizar no design é controlar a transmissão e o impacto da mensagem. O designer sabe disso e faz uso da escala, cor, tonalidade, peso, inclinação, espacejamento, intervalos e inúmeras outras técnicas para atingir o objetivo de organizar a informação.</description>
+    </item>
+    
+    <item>
+      <title>Faz uma animação legal aí!</title>
+      <link>http://localhost/jhonny-roger/public/faz-uma-animacao-legal-ai/</link>
+      <pubDate>Thu, 12 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/faz-uma-animacao-legal-ai/</guid>
+      <description>Sempre que um projeto começa, eu me questiono se a agência entende a importância da animação para o design de interface e como o trabalho do motion designer pode contribuir para o sucesso da experiência interativa, reforçando tudo o que foi pensado desde o nascimento do projeto, lá na arquitetura de informação.
+Muitas vezes, ouvi que o motion designer coloca a mão no projeto para refinar e fazer firulas no site.</description>
+    </item>
+    
+    <item>
+      <title>Criando efeitos de páginas de livro no seu front-end</title>
+      <link>http://localhost/jhonny-roger/public/criando-efeitos-de-paginas-de-livro-no-seu-front-end/</link>
+      <pubDate>Thu, 14 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-efeitos-de-paginas-de-livro-no-seu-front-end/</guid>
+      <description>O Turn.js é uma biblioteca JavaScript que faz o conteúdo parecer um livro ou revista de verdade, usando as vantagens do HTML5.
+É uma biblioteca baseada no jQuery, versão 1.7 ou superior, então é um requerimento básico.
+Temos o suporte para os navegadores:
+ Chrome 12+ Safari 5+ Firefox 10+ Internet Explorer 9+  Na prática Como exemplo, vamos usar como base a história criada por Rodrigo Martins, que tranformou em quadrinhos o meme da internet &amp;#8220;Já acabou, Jéssica&amp;#8221;.</description>
+    </item>
+    
+    <item>
+      <title>A Arte da Sedução dos Produtos</title>
+      <link>http://localhost/jhonny-roger/public/arte-da-seducao-dos-produtos/</link>
+      <pubDate>Fri, 02 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/arte-da-seducao-dos-produtos/</guid>
+      <description>Você já reparou, que quando estamos em um grande grupo, acabamos sendo influênciados pela maioria? Mas você deve estar pensando: &amp;#8220;Eu não sou assim. Gosto de ser diferente&amp;#8221;. Será mesmo?
+Para explicar melhor e de forma simples, vou usar o mesmo metodo usado pela psicóloga Susan M. Weinschenk em seu livro Neuro Web Design: What Makes Them Click?. Nele ela divide o cérebro em três partes: Cérebro Antigo, Cérebro do Meio e Cérebro Novo.</description>
+    </item>
+    
+    <item>
+      <title>Precisamos confirmar a senha?</title>
+      <link>http://localhost/jhonny-roger/public/precisamos-confirmar-senha/</link>
+      <pubDate>Fri, 02 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/precisamos-confirmar-senha/</guid>
+      <description>Você deve me entender: formulários são muito chatos. Tanto para desenhá-los quanto para produzir código front-end. Mas cada vez que desenho um formulário, eu tento simplificar ao máximo. A inclusão ou a exclusão de um campo pode afetar a taxa de conversão ou causar um desinteresse do usuário ao produto. Mas um dos campos que sempre me deixa com a pulga atrás da orelha é o de “cadastramento de senha”.</description>
+    </item>
+    
+    <item>
+      <title>Material Design com Materialize</title>
+      <link>http://localhost/jhonny-roger/public/material-design-com-materialize/</link>
+      <pubDate>Wed, 30 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/material-design-com-materialize/</guid>
+      <description>Há muito tempo quero falar um pouco sobre desenvolvimento de sites utilizando layouts baseados no Material Design do Google, mas entre fazer e falar há um abismo enorme. Minha verdadeira intenção é compartilhar um pouco a maneira mais fácil de desenvolver um layout utilizando todos aqueles conceitos que a Google tem implementado atualmente.
+Primeiros Passos O Materialize é um Framework desenvolvido para facilitar e agilizar nosso desenvolvimento quando o assunto é Material Design.</description>
+    </item>
+    
+    <item>
+      <title>Material Design Lite: O framework do Google</title>
+      <link>http://localhost/jhonny-roger/public/material-design-lite-o-framework-google/</link>
+      <pubDate>Wed, 08 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/material-design-lite-o-framework-google/</guid>
+      <description>Em 2014 o Google apresentou o Material Design: um guia para redefinir o visual de aplicativos. Vários aplicativos aderiram ao Material Design, como por exemplo, o WhatsApp, que mudou por completo o visual.
+Para facilitar ainda mais a vida do usuário, o Google anunciou uma ferramenta para introduzir o Material Design em websites, chamado de Material Design Lite (MDL).
+Assim como qualquer outro framework, o MDL oferece uma documentação e vários exemplos para facilitar a aplicação em websites.</description>
+    </item>
+    
+    <item>
+      <title>Motion UI com estilos: Zeh Fernandes no Meetup CSS SP</title>
+      <link>http://localhost/jhonny-roger/public/motion-ui-com-estilos-zeh-fernandes-no-meetup-css-sp/</link>
+      <pubDate>Tue, 23 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/motion-ui-com-estilos-zeh-fernandes-no-meetup-css-sp/</guid>
+      <description>Reunir a galera em eventos talvez seja a melhor maneira de manter-se atualizado e trocar conhecimento: você conhece pessoas que fazem a mesma coisa que a gente, soluciona dúvidas, pode discutir novas abordagens em torno de um tema e ainda reforça o network.
+Neste artigo no Tableless, quero compartilhar a experiência de participar de um Meetup e comentar sobre a palestra do Zeh Fernandes sobre Motion UI.
+Meetup CSS SP Excelente ferramenta para manter-se informado sobre os eventos que acontecem perto da sua cidade e com temas relacionados ao seu interesse, o Meetup mescla site e aplicativo, permitindo a qualquer pessoa organizar e divulgar eventos e encontros em torno de qualquer tema.</description>
+    </item>
+    
+    <item>
+      <title>Quanto menos tempo o visitante passar em seu site, melhor!</title>
+      <link>http://localhost/jhonny-roger/public/quanto-menos-tempo-o-visitante-passar-em-seu-site-melhor/</link>
+      <pubDate>Sat, 20 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/quanto-menos-tempo-o-visitante-passar-em-seu-site-melhor/</guid>
+      <description>Você deve estar pensando: &amp;#8220;Mas este cara é louco! Quanto mais tempo o visitante passar em meu site, melhor!&amp;#8221;. E que tal detalharmos o título em: &amp;#8220;Quanto menos tempo o visitante passar em seu site consumindo um determinado conteúdo, melhor.&amp;#8220;? Ainda não? Deixe-me explicar.
+Tempo, um dos substantivos mais valiosos em nossas vidas, se não o mais. Na Internet não poderia ser diferente. Vivemos em constante correria, e na agitação do dia-a-dia, o tempo tem sido um fator determinante no planejamento da usabilidade (UX) de um projeto web.</description>
+    </item>
+    
+    <item>
+      <title>O nome UX está errado</title>
+      <link>http://localhost/jhonny-roger/public/o-nome-ux-esta-errado/</link>
+      <pubDate>Tue, 09 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-nome-ux-esta-errado/</guid>
+      <description>O que é um profissional de UX? Se você for responder rápido, você vai dizer: “É o mano (ou a mana) que faz o Wireframe do projeto.” Essa resposta é no mínimo incompleta. O profissional de UX é responsável por muito mais que isso. O Wireframe é na verdade uma resposta representativa de todo um trabalho prévio de pesquisa, organização e garimpo de informação junto com usuários e clientes. Há uma preocupação muito forte com fluxo de conteúdo e principalmente fluxo de navegação, além de juntar especificar a função e comportamento do sistema.</description>
+    </item>
+    
+    <item>
+      <title>Material Design na barra de navegação &amp; status do Chrome</title>
+      <link>http://localhost/jhonny-roger/public/material-design-na-barra-de-navegacao-status-chrome/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/material-design-na-barra-de-navegacao-status-chrome/</guid>
+      <description>Recentemente muitos aplicativos já estão seguindo essa nova tendência de aplicar o material design do google no seus aplicativos mas meu foco hoje não são os aplicativos mas sim em sites responsivos, o que isso de aplicar material de design na barra de navegação?
+
+Pois bem vamos aplicar essa barra de status alterada e a barra de navegação também (Obs: Só vai pegar em Android 5.0 ou superior com Chome instalado)</description>
+    </item>
+    
+    <item>
+      <title>Realinhamento ou Redesign</title>
+      <link>http://localhost/jhonny-roger/public/realinhamento-redesign/</link>
+      <pubDate>Mon, 13 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/realinhamento-redesign/</guid>
+      <description>Eu não sei você, mas sempre que pipoca a bolotinha vermelha no meu AppStore mostrando que existem atualizações de alguns Apps, eu sempre, sempre olho o change notes para ver se há alguma mudança de design na interface. Eu quase nunca fico empolgado por mudanças nas funcionalidades, embora sejam muito bem-vindas.
+ A feature without design is like an idea without language.﻿ Jurgen Appelo
+ Todo mundo gosta de coisas bonitas.</description>
+    </item>
+    
+    <item>
+      <title>Tendências Web 2015 para desenvolvedores</title>
+      <link>http://localhost/jhonny-roger/public/tendencias-web-2015-para-desenvolvedores/</link>
+      <pubDate>Thu, 09 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tendencias-web-2015-para-desenvolvedores/</guid>
+      <description>O mundo dos desenvolvedores web está cada vez mais inovador e fantástico. Em 2015 teremos ferramentas mais qualificadas e conceitos que nos ajudarão na jornada de desenvolver um material super satisfatório. Pois não trará vantagens somente para nossos clientes, mas também nos poupará tempo, e para quem trabalha nessa área sabe que tempo é MUITO PRECIOSO.
+FLAT DESIGN Sites com sombras, diversas fontes e cores para ressaltar o realismo da página ficou no passado, agora o que manda é a simplicidade.</description>
+    </item>
+    
+    <item>
+      <title>Sobre o design oco</title>
+      <link>http://localhost/jhonny-roger/public/o-design-ordinario-oco/</link>
+      <pubDate>Thu, 11 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-design-ordinario-oco/</guid>
+      <description>Quando construímos um padrão de interface para qualquer tipo de produto digital, é necessário que esse padrão se perpetue, caso contrário seu trabalho não valerá de nada. Esse padrão precisa ser protegido durante todo a produção do projeto, offline ou online, não importa. Para que essa perpetuidade seja real, você e sua equipe precisarão defender esse padrão e para defendê-lo você precisa de argumentos. É aí que o problema aparece.</description>
+    </item>
+    
+    <item>
+      <title>Anotações sobre Material Design do Google</title>
+      <link>http://localhost/jhonny-roger/public/anotacoes-sobre-material-design-google/</link>
+      <pubDate>Wed, 03 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/anotacoes-sobre-material-design-google/</guid>
+      <description>O Material Design nasceu com a necessidade de melhorar o design do Google. Não é segredo que o design do Google era quase inexistente, pra não dizer um lixo. O Google é uma empresa de programadores e muito por causa disso não havia uma essência clara de que o design é algo importante. Mas isso tem mudado desde 2011, que foi quando Larry Page teve controle total da empresa e decidiu mudar esse quadro.</description>
+    </item>
+    
+    <item>
+      <title>Usabilidade e a Utilidade dos Elementos</title>
+      <link>http://localhost/jhonny-roger/public/usabilidade-e-utilidade-dos-elementos/</link>
+      <pubDate>Wed, 02 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/usabilidade-e-utilidade-dos-elementos/</guid>
+      <description>A Usabilidade está completamente ligada à utilidade e ao propósito de cada elemento ou objetos que criamos. Na verdade a própria palavra já nos traz logo em mente o método como algo é usado, e nos remete diretamente à facilidade deste uso.
+Há poucos dias, andava eu pesquisando sobre o assunto e vi este vídeo de Donald Norman: Obs: O vídeo tem legendas 🙂
+[youtube http://www.youtube.com/watch?v=NK1Zb_5VxuM]
+Posso dizer que não me seria necessário acrescentar mais nada neste momento, pois, assistindo ao vídeo, o leitor já está totalmente inteirado do que estou querendo mostrar, mas para não ficar vago o texto, vamos há alguns conceitos.</description>
+    </item>
+    
+    <item>
+      <title>UX: uma Responsabilidade de Todos</title>
+      <link>http://localhost/jhonny-roger/public/ux-uma-responsabilidade-de-todos/</link>
+      <pubDate>Sat, 14 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ux-uma-responsabilidade-de-todos/</guid>
+      <description>Muitos profissionais buscam aprender e a praticar os conceitos pregados pela turma de UX. Mas afinal, estes conceitos são responsabilidade apenas dos profissionais de UX?
+ UX não é só coisa dos arquivos de informação. UX é a base de tudo.
+ Desde o início a web foi desenvolvida e focada nos usuários. Sites de empresas, produtos e serviços, nunca foram feitos para programadores ou desenvolvedores, mas sim, para usuários.</description>
+    </item>
+    
+    <item>
+      <title>Padrões de UX do mal</title>
+      <link>http://localhost/jhonny-roger/public/padroes-de-ux-mal/</link>
+      <pubDate>Mon, 17 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/padroes-de-ux-mal/</guid>
+      <description>Em um mundo ideal o estudo de experiência do usuário deveria servir para colocar o usuário em primeiro lugar. Mas a ganância desenfreada, a necessidade por conversões desesperadas e em muitos casos simplesmente burrice pode usar este estudo para prejudicar o usuário ao invés de ajudar. Conheça os padrões de UX do mal.
+O lado sombrio da força Falamos muito aqui no Tableless sobre boas práticas de experiência do usuário, criados para que o mundo seja feliz, cheio de arco-íris e interfaces úteis e com curva de aprendizado baixa.</description>
+    </item>
+    
+    <item>
+      <title>Desafios de um desenvolvedor front-end</title>
+      <link>http://localhost/jhonny-roger/public/desafios-de-um-desenvolvedor-front-end/</link>
+      <pubDate>Fri, 28 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/desafios-de-um-desenvolvedor-front-end/</guid>
+      <description>A Web evolui constantemente. Essa evolução traz muitos benefícios e ao mesmo tempo nos obriga a estar sempre atualizados.
+Você pode ter o melhor designer, o melhor desenvolvedor front-end e back-end no seu projeto e ainda assim, corre o risco de nenhum deles não pensarem ou desenvolverem focados no usuário. Não adianta ter um layout lindo e maravilhoso e os melhores códigos se seu projeto é pesado, lento e sem nenhuma usabilidade e acessibilidade.</description>
+    </item>
+    
+    <item>
+      <title>Transições inteligentes na experiência do usuário</title>
+      <link>http://localhost/jhonny-roger/public/transicoes-inteligentes-na-experiencia-usuario/</link>
+      <pubDate>Mon, 16 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/transicoes-inteligentes-na-experiencia-usuario/</guid>
+      <description>As novas propriedades do CSS3 nos surpreendem cada vez mais. Não só pelo fato de terem simplificado muitas coisas (só quem lembra do trabalho para se fazer uma borda arredondada ou sombra em um elemento entende o quão úteis são algumas propriedades), mas também pelo poder que nos deu de enriquecermos a experiência do usuário. Se você ainda não está por dentro dessa maravilha, confira mais artigos sobre CSS3.</description>
+    </item>
+    
+    <item>
+      <title>Redução Progressiva</title>
+      <link>http://localhost/jhonny-roger/public/reducao-progressiva/</link>
+      <pubDate>Wed, 11 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/reducao-progressiva/</guid>
+      <description>O Problema Quando apresentamos uma interface nova, principalmente quando este processo envolve uma experiência ou forma de interação diferente do usual, é normal guiarmos o usuário pela mão com dicas, tutoriais e legendas óbvias. Embora, dependendo do público alvo, este processo seja útil no início, com o passar do tempo e ganho óbvio de proficiência todas aquelas informações acabam se tornando, no mínimo, desnecessárias e na maior parte do tempo irritantes.</description>
+    </item>
+    
+    <item>
+      <title>O Cenário do Web Design Responsivo</title>
+      <link>http://localhost/jhonny-roger/public/o-cenario-do-web-design-responsivo/</link>
+      <pubDate>Wed, 17 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-cenario-do-web-design-responsivo/</guid>
+      <description>O Web design responsivo está por aí há alguns anos, e foi destaque em 2012. Muitas estrelas da web, como Brad Frost e Luke Wroblewski, possuem vasta experiência neste tema e têm nos ajudado a fazer grandes melhorias. Mesmo assim, ainda há muito a ser feito.
+Neste artigo, vamos ver o que já é possível fazer hoje, o que será possível no futuro &amp;#8211; usando propriedades ainda não padronizadas (como CSS nível 4 e API&amp;#8217;s do HTML5) &amp;#8211; e o que ainda precisa ser melhorado.</description>
+    </item>
+    
+    <item>
+      <title>Arquitetura da Informação em Landing Page</title>
+      <link>http://localhost/jhonny-roger/public/arquitetura-da-informacao-em-landing-page/</link>
+      <pubDate>Wed, 10 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/arquitetura-da-informacao-em-landing-page/</guid>
+      <description>Arquitetura da informação (AI) é a arte de construir uma estrutura clara e direta em um site, com objetivo de facilitar ao máximo a navegação do usuário e fazer com que ele encontre rapidamente o que está procurando. Vou citar abaixo algumas dicas importantes sobre arquitetura da informação e profundidade, afim de ajudar na conversão em landing pages. Mãos à obra!
+Técnica da pirâmide invertida A técnica da pirâmide invertida é um método de escrita jornalística onde o objetivo é expor logo nos primeiros parágrafos as informações mais relevantes sobre o assunto, deixando o artigo mais dinâmico e prendendo mais a atenção do leitor.</description>
+    </item>
+    
+    <item>
+      <title>7 dicas de otimização de conversão em landing pages</title>
+      <link>http://localhost/jhonny-roger/public/7-dicas-de-otimizacao-de-conversao-em-landing-pages/</link>
+      <pubDate>Mon, 20 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/7-dicas-de-otimizacao-de-conversao-em-landing-pages/</guid>
+      <description>O e-commerce no Brasil tem tido um crescimento acelerado nos últimos anos. Segundo a e-bit, empresa especializada em dados do setor, estima-se que só em 2013 haverá um crescimento de até 24%, gerando uma receita de 28 bilhões e atingindo cerca de 50 milhões de consumidores online.
+Diante disso, é cada vez mais importante que cada detalhe de um e-commerce ou uma landing page seja pensado para atrair mais leads, ou seja, mais conversões.</description>
+    </item>
+    
+    <item>
+      <title>Anotações da palestra do Silvio Meira</title>
+      <link>http://localhost/jhonny-roger/public/anotacoes-da-palestra-do-silvio-meira/</link>
+      <pubDate>Tue, 07 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/anotacoes-da-palestra-do-silvio-meira/</guid>
+      <description>Essas são as anotações que fiz na palestra do Silvio Meira no evento Encontro Locaweb de Profissionais de Internet em Curitiba. Ele falou muito, mas muito mais do que está aqui. Por isso que isso se chama anotações. 😉
+ Experiência de uso: UX não é interface ou seu design. UX é processo, interação, satisfação. Problema classico de UX no Brasil: vide serviços públicos. Contrate os melhores, mas defina o que é o melhor para o seu negócio.</description>
+    </item>
+    
+    <item>
+      <title>Design responsivo: foco no ser humano</title>
+      <link>http://localhost/jhonny-roger/public/design-responsivo-foco-no-ser-humano/</link>
+      <pubDate>Thu, 21 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/design-responsivo-foco-no-ser-humano/</guid>
+      <description>Quando o computador tornou-se realmente pessoal, o desenvolvimento de softwares cresceu exponencialmente. Uma enorme demanda de aplicativos surgia para aquele produto enorme, com monitor CRT e velocidade de processamento muito menor do que o telefone celular que está no seu bolso.
+Esses aplicativos traziam novidades e surgiam para resolver problemas que ainda não tínhamos. Com o tempo, passamos a nos familiarizar com a interface desse dispositivo mas hoje, olhando para trás, é possível entender como naquela época desenvolvíamos um software pensando na máquina, e não na pessoa que faria o uso dela.</description>
+    </item>
+    
+    <item>
+      <title>A linguagem como parte integrante da user experience</title>
+      <link>http://localhost/jhonny-roger/public/a-linguagem-como-parte-integrante-da-user-experience/</link>
+      <pubDate>Tue, 26 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/a-linguagem-como-parte-integrante-da-user-experience/</guid>
+      <description>É do campo da user experience estudar a percepção e as reações emocionais e psicológicas de uma pessoa sobre um produto, sistema ou serviço. Na prática isto envolve diversas disciplinas como arquitetura da informação, design de interfaces, usabilidade&amp;#8230; Estes elementos são fundamentais para garantir uma boa experiência do usuário, mas muitas vezes esquecemos do principal em uma comunicação: a linguagem.
+A linguagem é a ferramenta que utilizamos para entender e definir o mundo.</description>
+    </item>
+    
+    <item>
+      <title>Front-end, UX e Back-end</title>
+      <link>http://localhost/jhonny-roger/public/front-end-ux-e-back-end/</link>
+      <pubDate>Wed, 16 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/front-end-ux-e-back-end/</guid>
+      <description>“One of the reasons for poor design execution is that UX teams need to own more than just design. We need to own front-end development.”
+ Frase sensacional em um artigo do site UXMatters, um dos melhores sites sobre experiência do usuário e arquitetura de informação que tenho nas minhas leituras regulares.
+Os designers para web precisam muito aprender a linguagem com que seus layouts serão codificados. Na minha opinião é estranho um designer para web não entender HTML e CSS, pelo menos o básico, o suficiente.</description>
+    </item>
+    
+    <item>
+      <title>Guia de Estilos</title>
+      <link>http://localhost/jhonny-roger/public/guia-de-estilos/</link>
+      <pubDate>Wed, 09 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/guia-de-estilos/</guid>
+      <description>Um dos elementos mais importantes do processo de criação de identidade visual é a elaboração de um documento com informações concretas sobre cores, tipografia, forma, exemplos de uso, tamanho mínimo e área de reserva do logotipo, etc. Este documento, conhecido como Guia de Identidade Visual ou simplesmente Manual da Marca, não se restringe apenas ao aspecto gráfico e pode muitas vezes incluir explicações sobre a visão, história e filosofia da empresa, uma perspectiva mais aprofundada dos símbolos e signos utilizados para compor o design ou até instruções gerais sobre a linguagem a ser utilizada na comunicação escrita, por exemplo.</description>
+    </item>
+    
+    <item>
+      <title>Passwords em Mobiles</title>
+      <link>http://localhost/jhonny-roger/public/passwords-em-mobiles/</link>
+      <pubDate>Sun, 11 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/passwords-em-mobiles/</guid>
+      <description>Estava conversando outro dia com um pessoal sobre melhores práticas em sites/sistemas mobile. Um dos pontos foi a forma que tratamos senhas em mobiles. Em desktops e outros terminais (como caixas eletrônicos) é necessário que sua senha seja escondida conforme você a digita. Isso é bom por que pode ter algum engraçadinho perto de você, olhando a sua tela. Com mobile é um pouco diferente. Normalmente você está com o dispositivo na sua mão, utilizando-o perto do seu corpo, bem difícil de alguém tentar ficar bisbilhotando, e se estiver é fácil de esconder.</description>
+    </item>
+    
+    <item>
+      <title>Eu não sou uma máquina</title>
+      <link>http://localhost/jhonny-roger/public/eu-nao-sou-uma-maquina/</link>
+      <pubDate>Thu, 30 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/eu-nao-sou-uma-maquina/</guid>
+      <description>Por trás de uma máquina, alguém faz perguntas sem sentido, com a intenção de descobrir se você é uma pessoa ou robô. Não estou falando do interrogatório do caçador de andróides, entre Rick Deckard e Rachael durante uma sequência do filme Blade Runner, de 1982. Estou falando de uma pessoa que está fazendo uma compra em uma loja online em 2012. Estou falando do CAPTCHA.
+O CAPTCHA, acrônimo de “_Completely Automated Public Turing test to tell Computers and Humans Apart_” é um teste cognitivo criado para evitar que robôs preencham campos de formulários, especialmente para o envio de spams.</description>
+    </item>
+    
+    <item>
+      <title>A usabilidade deve ser pensada por todos</title>
+      <link>http://localhost/jhonny-roger/public/a-usabilidade-deve-ser-pensada-por-todos/</link>
+      <pubDate>Mon, 05 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/a-usabilidade-deve-ser-pensada-por-todos/</guid>
+      <description>No final de 2010, fui contatada pela Revista WIDE para participar da seção “Opinião” respondendo à seguinte questão: Todos devem pensar em usabilidade? A proposta era opinar se a usabilidade era algo a ser pensado apenas pelo designer (ou especialista de usabilidade) ou se programadores, editores, entre outros membros da equipe, deveriam têm responsabilidade na facilidade de uso do projeto. Isto é um tema delicado, às vezes polêmico, mas importante para ser debatido.</description>
+    </item>
+    
+    <item>
+      <title>Mobile First – A arte de pensar com foco</title>
+      <link>http://localhost/jhonny-roger/public/mobile-first-a-arte-de-pensar-com-foco/</link>
+      <pubDate>Tue, 13 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/mobile-first-a-arte-de-pensar-com-foco/</guid>
+      <description>Durante muito tempo especialistas de diversas áreas previram o crescimento do uso dos dispositivos móveis. Demorou um pouco mas a previsão se tornou verdadeira. Hoje todo mundo carrega um pedaço de plástico com uma tela de vidro na mão o dia inteiro&amp;#8230; quase uma extensão de nossos corpos.
+Os dispositivos móveis se tornaram uma febre e vieram para ficar. É a melhor forma de fazer a inclusão digital para aqueles que não tem uma forma de ter um notebook ou um desktop em casa.</description>
+    </item>
+    
+    <item>
+      <title>Você sabe o que é a “nova usabilidade”? – parte II</title>
+      <link>http://localhost/jhonny-roger/public/o-que-e-nova-usabilidade-parte2/</link>
+      <pubDate>Mon, 12 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-que-e-nova-usabilidade-parte2/</guid>
+      <description>A nova usabilidade procura trazer abordagens para lidar com os novos desafios para o desenvolvimento de aplicações baseadas em tecnologias emergentes, como os dispositivos móveis.
+A intenção dessa denominação é chamar a atenção para o fato de que a os métodos, técnicas e ferramentas de usabilidade que possuímos hoje precisam ser revistos para contemplar a evolução tecnológica e as especificidades dos interesses dos usuários.
+O problema com os testes de usabilidade Os testes de usabilidade como conhecemos hoje (realizados em laboratório) passam a não ter o mesmo grau de eficiência nestes novos cenários de uso.</description>
+    </item>
+    
+    <item>
+      <title>Você sabe o que é a “nova usabilidade”? – parte I</title>
+      <link>http://localhost/jhonny-roger/public/nova-usabilidade-parte1/</link>
+      <pubDate>Mon, 05 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/nova-usabilidade-parte1/</guid>
+      <description>Vimos na parte I e parte II dos artigos sobre usabilidade em dispositivos móveis que as heurísticas permanecem praticamente as mesmas tanto para as aplicações móveis quanto convencionais, a diferença é o quão crítica ou severa elas se tornam para as aplicações móveis. Por este motivo, Thomas e Macredie propuseram em 2002 (sim, há 9 anos!) o paradigma da Nova Usabilidade.
+ &amp;#8220;A usabilidade convencional e mais amplamente disseminada tem suas bases no paradigma do computador pessoal.</description>
+    </item>
+    
+    <item>
+      <title>Experiência deve ter começo, meio e fim</title>
+      <link>http://localhost/jhonny-roger/public/experiencia-deve-ter-comeco-meio-e-fim/</link>
+      <pubDate>Mon, 28 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/experiencia-deve-ter-comeco-meio-e-fim/</guid>
+      <description>Esse artigo pode parecer meio confuso, mas é apenas um pensamento que estive matutando. Não ligue se a ordem das ideias estiverem tortas e sinuosas. 😉
+Tive uma experiência muito ruim no primeiro dia de 2010: pulei na piscina com meu iPhone no bolso.
+Ok, pode me xingar agora.
+Depois da tragédia, ele durou rápidos 5 segundos, e faleceu. Não ligava, não apitava, não fazia nada. &amp;#8220;Paciência&amp;#8221;, falei para mim mesmo.</description>
+    </item>
+    
+    <item>
+      <title>Usabilidade de interfaces para dispositivos móveis – parte II</title>
+      <link>http://localhost/jhonny-roger/public/usabilidade-interfaces-dispositivos-moveis-parte2/</link>
+      <pubDate>Wed, 23 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/usabilidade-interfaces-dispositivos-moveis-parte2/</guid>
+      <description>Como vimos na primeira parte do artigo, as diretrizes existentes de usabilidade continuam valendo no contexto mobile, mas precisam ser revistas e interpretadas de outra forma. Podemos perceber que o gargalo é conseguir manter as informações e funcionalidades que fazem sentido neste cenário. Adequar aplicações ao contexto de dispositivos móveis apresenta determinados vieses de desenvolvimento.
+ Variedade de Dispositivos  Variação de hardware (muito maior do que computadores convencionais) Dispositivos móveis têm uma grande variedade de displays (tamanhos, cores, resolução), de forma de entrada de dados (touchscreen, teclado físico &amp;#8211; QWERTY ou convencional -, microfone, câmera) e também de capacidade (processamento, armazenamento, etc.</description>
+    </item>
+    
+    <item>
+      <title>Usabilidade de interfaces para dispositivos móveis – parte I</title>
+      <link>http://localhost/jhonny-roger/public/usabilidade-de-interfaces-para-dispositivos-moveis-parte1/</link>
+      <pubDate>Mon, 21 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/usabilidade-de-interfaces-para-dispositivos-moveis-parte1/</guid>
+      <description>Já escrevemos aqui no Tableless sobre melhores práticas de front-end / usabilidade para dispositivos móveis. Um questionamento comum a estas diretrizes é o quanto elas são específicas ao contexto mobile, pois muitas delas não se distinguem das diretrizes que vêm sendo difundidas há 20 anos.
+É fato que grande parte das diretrizes são semelhantes, mas o que muda é a criticidade quando tratamos de mobile. Algumas recomendações tornam-se mais graves e imperdoáveis quando não são seguidas no projeto de interfaces para dispositivos móveis.</description>
+    </item>
+    
+    <item>
+      <title>Qualidade em Uso: expandindo a Usabilidade</title>
+      <link>http://localhost/jhonny-roger/public/qualidade-em-uso-expandindo-a-usabilidade/</link>
+      <pubDate>Mon, 29 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/qualidade-em-uso-expandindo-a-usabilidade/</guid>
+      <description>A usabilidade, ainda é vista como um “diferencial” ou “vantagem estratégica” dentro das organizações durante o processo de desenvolvimento de websites. Sabemos que, na realidade, é um critério de qualidade que deve ser atendido pela aplicação, ainda que muitos percebam isto de forma implícita. Mas este conceito ainda não está maduro dentro das organizações. Diversas abordagens como a engenharia de usabilidade e o design de interação vêm sendo adotadas dentro dos processos de desenvolvimento para assegurar uma boa experiência de uso das aplicações.</description>
+    </item>
+    
+    <item>
+      <title>O que é Usabilidade?</title>
+      <link>http://localhost/jhonny-roger/public/o-que-e-usabilidade/</link>
+      <pubDate>Mon, 22 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-que-e-usabilidade/</guid>
+      <description>Já vimos em um artigo anterior como a usabilidade beneficia o desenvolvimento web. Mas, o que de fato compreende a usabilidade? Nem tudo que se refere à experiência de uso está dentro do escopo dela. Sim, a usabilidade tem limitações e lacunas que são complementadas por outros paradigmas, como o design de interação. Porém, podemos considera-la a base da pirâmide que sustenta o projeto de uma aplicação com boa experiência de uso.</description>
+    </item>
+    
+  </channel>
+</rss>

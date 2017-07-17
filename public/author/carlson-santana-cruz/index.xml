@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carlson Santana Cruz on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/carlson-santana-cruz/</link>
+    <description>Recent content in Carlson Santana Cruz on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 07 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/carlson-santana-cruz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Páginas acessíveis com o HaTeMiLe</title>
+      <link>http://localhost/jhonny-roger/public/paginas_acessiveis_hatemile/</link>
+      <pubDate>Sun, 07 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/paginas_acessiveis_hatemile/</guid>
+      <description>A acessibilidade finalmente esta se tornando uma das metas no desenvolvimento web, mesmo assim ela enfrenta um conjunto de problemas:
+ nas aulas, apostilas e tutoriais sobre desenvolvimento web dificilmente abordam a acessibilidade; mesmo conhecendo os Padrões Web (HTML, CSS e JavaScript) o desenvolvedor pode acabar desenvolvendo páginas web inacessíveis; frameworks e temas utilizados no desenvolvimento podem contribuir com páginas inacessíveis.  Baseando-se nos polyfills, que permitem prover um recurso não suportado pelo browser, foi desenvolvido o HaTeMiLe (anagrama para HTML Accessible, removendo as consoantes de Accessible), uma biblioteca que utiliza os Padrões Web para tentar resolver alguns problemas de acessibilidade.</description>
+    </item>
+    
+  </channel>
+</rss>

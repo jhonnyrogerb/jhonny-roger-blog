@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Icons on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/icons/</link>
+    <description>Recent content in Icons on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 03 Oct 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/icons/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>34 coleções de ícones para designers e devs</title>
+      <link>http://localhost/jhonny-roger/public/34-colecoes-de-icones-para-designers-e-devs/</link>
+      <pubDate>Sat, 03 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/34-colecoes-de-icones-para-designers-e-devs/</guid>
+      <description>Todo mundo precisa de ícones. As vezes você precisa encontrar um ícone para divulgar suas redes sociais no site, as vezes precisa só colocar um ícone simples de busca ou precisa de alguns ícones específicos para os ítens do menu de um freela&amp;#8230; Aqui vão algumas coleções que podem te ajudar bastante!
+Todo mundo precisa de ícones. As vezes você precisa encontrar um ícone para divulgar suas redes sociais no site, as vezes precisa só colocar um ícone simples de busca ou precisa de alguns ícones específicos para os ítens do menu de um freela&amp;#8230; Aqui vão algumas coleções que podem te ajudar bastante!</description>
+    </item>
+    
+    <item>
+      <title>Font icons – Utilizando ícones em formato de font</title>
+      <link>http://localhost/jhonny-roger/public/utilizando-icones-formato-font/</link>
+      <pubDate>Mon, 20 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/utilizando-icones-formato-font/</guid>
+      <description>Você já deve ter desenvolvido um sistema onde o designer utilizou muitos ícones em botões, links e etc&amp;#8230; A primeira coisa que pensamos em fazer são sprites com todos estes ícones. O problema é que dependendo da sua necessidade, criar Sprites para todos os ícones pode se tornar algo realmente trabalhoso. Ainda mais quando estes ícones são utilizados em várias cores e tamanhos. Utilizar ícones em imagens separadas dá tanto trabalho quanto.</description>
+    </item>
+    
+  </channel>
+</rss>

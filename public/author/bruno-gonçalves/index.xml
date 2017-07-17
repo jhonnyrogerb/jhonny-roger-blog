@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bruno Gonçalves on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/bruno-gon%C3%A7alves/</link>
+    <description>Recent content in Bruno Gonçalves on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 29 Jun 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/bruno-gon%C3%A7alves/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Programação funcional em Javascript. Implementando Curry e Compose, com bind e reduce.</title>
+      <link>http://localhost/jhonny-roger/public/programacao-funcional-em-javascript-implementando-curry-e-compose-com-bind-e-reduce/</link>
+      <pubDate>Wed, 29 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/programacao-funcional-em-javascript-implementando-curry-e-compose-com-bind-e-reduce/</guid>
+      <description>Nos últimos tempos só se fala em programação funcional, seus benefícios, funções puras, dados imutáveis, composição de funções, etc.
+Atualmente temos diversas libs que auxiliam o javascript na missão de ser funcional, Lodash, Underscore e Ramda são uma delas. Então porque estarei falando do Pareto.js? Simples como o Princípio de Pareto, a lib criada tem o objetivo de ser leve e resolver 80% dos seus problemas com 20% de código.</description>
+    </item>
+    
+  </channel>
+</rss>

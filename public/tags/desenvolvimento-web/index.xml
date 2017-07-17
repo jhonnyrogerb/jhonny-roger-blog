@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Desenvolvimento Web on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/desenvolvimento-web/</link>
+    <description>Recent content in Desenvolvimento Web on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 12 May 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/desenvolvimento-web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Faz uma animação legal aí!</title>
+      <link>http://localhost/jhonny-roger/public/faz-uma-animacao-legal-ai/</link>
+      <pubDate>Thu, 12 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/faz-uma-animacao-legal-ai/</guid>
+      <description>Sempre que um projeto começa, eu me questiono se a agência entende a importância da animação para o design de interface e como o trabalho do motion designer pode contribuir para o sucesso da experiência interativa, reforçando tudo o que foi pensado desde o nascimento do projeto, lá na arquitetura de informação.
+Muitas vezes, ouvi que o motion designer coloca a mão no projeto para refinar e fazer firulas no site.</description>
+    </item>
+    
+    <item>
+      <title>A arquitetura Redux usando Jails</title>
+      <link>http://localhost/jhonny-roger/public/arquitetura-redux-usando-jails/</link>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/arquitetura-redux-usando-jails/</guid>
+      <description>Ultimamente tenho me preocupado mais com arquiteturas no front-end do que propriamente com as implementações de alguns frameworks. Isso porque eu acho que realmente nos falta um pouco mais de conhecimento sistêmico, mais arquitetural, porque os problemas só estão crescendo e percebi que pelo menos eu não estava acompanhando devidamente a complexidade das aplicações desenvolvidas em Javascript.
+Uma pequena reflexão Os frameworks acabaram aparecendo nos últimos tempos e percebo que tiveram uma importância muito maior do que o nosso amadurecimento quanto aos novos desafios nas aplicações web, especificamente na linguagem Javascript.</description>
+    </item>
+    
+    <item>
+      <title>Diga olá ao TypeScript e adeus ao JavaScript</title>
+      <link>http://localhost/jhonny-roger/public/diga-ola-ao-typescript-e-adeus-ao-javascript/</link>
+      <pubDate>Mon, 14 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/diga-ola-ao-typescript-e-adeus-ao-javascript/</guid>
+      <description>Acredito que este artigo tenha chamado a sua atenção pelo título. Como assim??? adeus ao JavaScript??? A linguagem que está bombando em 2015 (e claro, 2016!). Posso estar sendo um pouco ousado aqui, mas eu tenho em mente que, neste momento, o JavaScript para mim é agora &amp;#8220;linguagem de máquina&amp;#8221; ou o famoso bytecode. Porquê? Bom, você conhece um código javascript minificado+comprimido+&amp;#8221;esculachado&amp;#8221;&amp;#8230; Não estou retirando aqui toda a beleza do JavaScript, e consequente importância, mas na evolução que vem acontecendo a cada dia no mundo web, felizmente chegamos ao ponto que podemos tratar o javascript como uma linguagem tipada e semelhante ao c/java/php e derivados.</description>
+    </item>
+    
+    <item>
+      <title>Usando GIT para atualizar arquivos no servidor de hospedagem II – Final</title>
+      <link>http://localhost/jhonny-roger/public/usando-git-para-atualizar-arquivos-no-servidor-de-hospedagem-ii-final/</link>
+      <pubDate>Thu, 19 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/usando-git-para-atualizar-arquivos-no-servidor-de-hospedagem-ii-final/</guid>
+      <description>Esta é a segunda e última parte do artigo que explica como fazer um esquema simples para deploy automático usando GIT + Bitbucket
+A mesma configuração pode ser usada em qualquer servidor GIT e qualquer serviço de hospedagem que tenha acesso via ssh e git instalado
+Se você ainda não leu a primeira parte, segue o link: http://tableless.com.br/usando-git-para-atualizar-arquivos-no-servidor-de-hospedagem
+No artigo anterior, criamos as chaves SSH para autenticação no Bitbucket, criamos um repositório GIT e manualmente executamos o comando | git pull | para atualizar o nosso repositório.</description>
+    </item>
+    
+    <item>
+      <title>Criando seu próprio servidor HTTP do zero (ou quase) – Parte III</title>
+      <link>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-iii/</link>
+      <pubDate>Mon, 05 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-iii/</guid>
+      <description>Estamos entrando na terceira parte do tutorial, e quem está acompanhando até aqui já sabe então como funciona a comunicação entre cliente e servidor, envio de requisição pelo cliente e recebimento de resposta (na duvida só voltar e releia a Parte I e/ou Parte II), porém o que a gente quer é criar o servidor, receber as requisições e enviar a resposta ao cliente.
+O Servidor A idéia do servidor é bem simples e estende a do cliente, como assim?</description>
+    </item>
+    
+    <item>
+      <title>Por que Python?</title>
+      <link>http://localhost/jhonny-roger/public/por-que-python/</link>
+      <pubDate>Tue, 29 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/por-que-python/</guid>
+      <description>Eu sou apaixonado por Python. Muito. Daquele tipo que fala de Python sempre que pode. E uma pergunta que sempre me fazem é: por quê? Vou tentar fazer uma lista dos motivos mais relevantes:
+1. É muito bom escrever código Python Geralmente, quando alguém cria uma linguagem de programação, tem em vista um objetivo. Por exemplo, Lisp foi escrita para programação funcional. Java foi escrita para que o mesmo código pudesse rodar em qualquer lugar.</description>
+    </item>
+    
+    <item>
+      <title>Criando seu próprio servidor HTTP do zero (ou quase) – Parte II</title>
+      <link>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-ii/</link>
+      <pubDate>Fri, 11 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-ii/</guid>
+      <description>Se chegou até aqui é por que você terminou de ler a primeira parte do tutorial (Caso não, leia a Parte I ), mas não desista, a parte legal vai chegar, mas antes de começar, falta mais um item de teoria &amp;#8211; sim eu sei que é chato, mas juro que é importante &amp;#8211; os Sockets.
+Sockets e portas Falamos muito de requisições e respostas no último post mas ainda não falamos de conexão e troca de informações.</description>
+    </item>
+    
+    <item>
+      <title>Criando seu próprio servidor HTTP do zero (ou quase) – Parte I</title>
+      <link>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-i/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-i/</guid>
+      <description>Sou apaixonado por tecnologias livres e como sou extremamente curioso, gosto de saber como as coisas funcionam. Como também sou cinestésico, não me contento em apenas em entender, tenho que criar, recriar, escrever, rescrever, inventar, reinventar, enfim sentir realmente como se faz. Nesse vai e vem de aprendizado, minha última curiosidade foi entender como os servidores HTTP funcionam e criar um do zero (ou pelo menos quase).
+É claro que para fazer isso eu não fui tão lá embaixo a ponto de utilizar C, utilizei da linguagem de programação da qual me sinto mais confortável e que já oferece algumas facilidades que em C teria que sangrar pra fazer o mesmo porém não impossível, mas enfim, optei por desenvolver em Java, os passos vou contar pra vocês aqui, mas utilizando os mesmo conceitos nada impede que utilize qualquer outra linguagem de programação.</description>
+    </item>
+    
+    <item>
+      <title>Criando um widget de “Artigos Populares” por numero de visualizações</title>
+      <link>http://localhost/jhonny-roger/public/criando-um-widget-de-artigos-populares-por-numero-de-visualizacoes/</link>
+      <pubDate>Thu, 13 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-um-widget-de-artigos-populares-por-numero-de-visualizacoes/</guid>
+      <description>Recentemente tive que implementar um widget de artigos populares para um cliente. Acontece que até então a única maneira que eu sabia fazer isso era ordenando os posts por número de comentários. Propus a solução ao meu cliente e o mesmo disse que queria que o mesmo fosse ordenados por número de visualizações. Bom, nunca tinha feito isso, então corri atrás de alguns artigos &amp;#8220;gringos&amp;#8221; explicando como fazer e me espantei sobre como era simples.</description>
+    </item>
+    
+    <item>
+      <title>HTTP2 para Desenvolvedores de Web</title>
+      <link>http://localhost/jhonny-roger/public/http2-para-desenvolvedores-de-web/</link>
+      <pubDate>Tue, 21 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/http2-para-desenvolvedores-de-web/</guid>
+      <description>HTTP2 significa uma mudança na forma como construímos websites. As boas práticas de HTTP1 são prejudiciais no mundo do HTTP2.
+ HTTP1 é lento e ineficiente para a maioria dos casos de uso de hoje na web.
+ HTTP1.x é a versão do HTTP que nós já conhecemos quando entramos o endereço de um site. É um protocolo antigo que foi concebido antes mesmo de sabermos o que essa imensa rede mundial de computadores se tornaria.</description>
+    </item>
+    
+    <item>
+      <title>Código Limpo</title>
+      <link>http://localhost/jhonny-roger/public/codigo-limpo/</link>
+      <pubDate>Wed, 11 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/codigo-limpo/</guid>
+      <description>Um dos assuntos que costumo discutir bastante com a galera é sobre qualidade de código. Nesses papos sempre vem questões como: quais práticas podemos adotar para ter um código de alta qualidade? E como sabemos se o nosso código está bom? Como temos certeza de que estamos no caminho certo?
+Vou explicar meu humilde ponto de vista com exemplos e opiniões sobre qualidade de código. Vou abordar casos de uso com JavaScript, mas nada te impede aplicar muitas dessas dicas usando outras linguagens.</description>
+    </item>
+    
+    <item>
+      <title>Assinatura de newsletter com PHP integrada à API do Mailchimp</title>
+      <link>http://localhost/jhonny-roger/public/assinatura-de-newsletter-com-php-integrada-a-api-do-mailchimp/</link>
+      <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/assinatura-de-newsletter-com-php-integrada-a-api-do-mailchimp/</guid>
+      <description>O Mailchimp tem uma API bem completa. Arrisco dizer que é possível fazer uma interface com muitas das funcionalidades de gerenciamento de listas, envios, etc usando a API — fica a dica para quem quiser desenvolver uma aplicação explorando alguma lacuna que o painel do Mailchimp deixa a desejar.
+Eu sabia da existência da API faz algum tempo, mas usava uma função simples de exportação de CSV em alguns projetos.</description>
+    </item>
+    
+    <item>
+      <title>Palestra sobre como se tornar um dev front-end</title>
+      <link>http://localhost/jhonny-roger/public/palestra-sobre-como-se-tornar-um-dev-front-end/</link>
+      <pubDate>Thu, 24 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/palestra-sobre-como-se-tornar-um-dev-front-end/</guid>
+      <description>Fiz um artigo há um tempo atrás escrevi um artigo sobre como se tornar um desenvolvedor front-end. Fiz uma palestra em Florianópolis estes dias e transformei este artigo em uma apresentação. Não deixe de ler o artigo, lá tem mais detalhes do que apenas a palestra. Veja os slides abaixo:
+ O que você precisa saber para se tornar um dev front-end  from Diego Eis  </description>
+    </item>
+    
+    <item>
+      <title>Mudar ícones dos Custom Post Types no WordPress 3.8</title>
+      <link>http://localhost/jhonny-roger/public/mudar-icones-dos-custom-post-types-wordpress-3-8/</link>
+      <pubDate>Mon, 13 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/mudar-icones-dos-custom-post-types-wordpress-3-8/</guid>
+      <description>No dia 12 de Dezembro a Equipe do WordPress liberou a sua mais nova versão, o WordPress 3.8 Parker, que é uma referência ao Charlie Parker, grande saxofonista de Jazz. Visualmente a versão 3.8 do WordPress foi a que trouxe mais mudanças, a começar pela belíssima renovação de design do painel que também passou a ser responsivo e acessível por todos os dispositivos móveis, o que é um grande avanço, já que não será mais preciso usar os aplicativos móveis para fazer moderação e criação de posts.</description>
+    </item>
+    
+    <item>
+      <title>Survey do mercado web nacional</title>
+      <link>http://localhost/jhonny-roger/public/survey-do-desenvolvimento-web-nacional/</link>
+      <pubDate>Wed, 19 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/survey-do-desenvolvimento-web-nacional/</guid>
+      <description>Muitos desenvolvedores me perguntam como está o mercado em diversas cidades do país. Uns querem ir pra São Paulo. Outros querem sair de lá. E com isso outras perguntas surgem, como por exemplo: qual a média salarial nacional? Qual a faixa etária dos profissionais? Será que os profissionais de web se sentem satisfeitos na empresa em que trabalham? Quantos deles já foram freelancers? Qual a média do valor hora dos freelancers?</description>
+    </item>
+    
+    <item>
+      <title>Capturando erros JS LIKE-A-BOSS</title>
+      <link>http://localhost/jhonny-roger/public/capturando-erros-js-like-a-boss/</link>
+      <pubDate>Wed, 12 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/capturando-erros-js-like-a-boss/</guid>
+      <description>O evento onerror é disparado quando há erros no script. Estes erros geralmente pertencem a duas categorias:
+Erros de sintaxe Antes de serem executados, scripts passam por uma análise sintática (operação mais conhecida como parsing) – afim de encontrar erros de sintaxe antes da execução do script. Qualquer um dos erros abaixo são erros de sintaxe:
+&amp;lt;!-- string não fechada --&amp;gt; &amp;lt;script&amp;gt;&#34;oops, fiz merd*&amp;lt;/script&amp;gt; &amp;lt;!-- for errado --&amp;gt; &amp;lt;script&amp;gt;for(;)&amp;lt;/script&amp;gt; &amp;lt;!</description>
+    </item>
+    
+    <item>
+      <title>Passwords em Mobiles</title>
+      <link>http://localhost/jhonny-roger/public/passwords-em-mobiles/</link>
+      <pubDate>Sun, 11 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/passwords-em-mobiles/</guid>
+      <description>Estava conversando outro dia com um pessoal sobre melhores práticas em sites/sistemas mobile. Um dos pontos foi a forma que tratamos senhas em mobiles. Em desktops e outros terminais (como caixas eletrônicos) é necessário que sua senha seja escondida conforme você a digita. Isso é bom por que pode ter algum engraçadinho perto de você, olhando a sua tela. Com mobile é um pouco diferente. Normalmente você está com o dispositivo na sua mão, utilizando-o perto do seu corpo, bem difícil de alguém tentar ficar bisbilhotando, e se estiver é fácil de esconder.</description>
+    </item>
+    
+    <item>
+      <title>Adobe Edge</title>
+      <link>http://localhost/jhonny-roger/public/adobe-edge/</link>
+      <pubDate>Wed, 26 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/adobe-edge/</guid>
+      <description>A Adobe tem ajudado demais o mercado de desenvolvimento web nos últimos tempos. Ela entendeu que a perda do mercado do Flash não foi uma derrota, pelo contrário. Com esse cenário ela criou o Edge, uma suite de desenvolvimento que reúne diversas soluções que ajudam o desenvolvedor web a produzir serviços e websites utilizando as últimas novidades dos padrões web. Como diz parte da Missão descrito no site deles:
+ Adobe makes tools that enable designers and developers to share their creativity with the world.</description>
+    </item>
+    
+    <item>
+      <title>Scoped CSS</title>
+      <link>http://localhost/jhonny-roger/public/scoped-css/</link>
+      <pubDate>Thu, 13 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/scoped-css/</guid>
+      <description>Scoped CSS é uma pequena novidade no HTML5 que nos permite inserir estilos CSS que sejam apenas aplicado em um determinado lugar de uma página, de modo que os estilos restantes da mesma página não sejam afetados. Para isso, foi definido um novo atributo scoped que deve ser utilizado na tag .
+Pela definição da especificação:
+ O atributo scoped é um atributo booleano. Se for setado, indica que os estilos (da tag ) serão aplicados apenas na sub-árvore do elemento pai deste mesmo elemento (), ao contrário de todo o documento.</description>
+    </item>
+    
+    <item>
+      <title>Estruturação de front-end – Parte 1: Preprocessadores, Framewoks e Bibliotecas</title>
+      <link>http://localhost/jhonny-roger/public/estruturacao-de-client-side-preprocessadores-framewoks-e-bibliotecas-parte-1/</link>
+      <pubDate>Wed, 09 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/estruturacao-de-client-side-preprocessadores-framewoks-e-bibliotecas-parte-1/</guid>
+      <description>Existem três categorias de &amp;#8220;ferramentas&amp;#8221; que nos ajudam a desenvolver um projeto client-side: Preprocessadores, Frameworks e Bibliotecas.
+Preprocessadores Preprocessadores são ferramentas onde você escreve CSS de uma determinada forma, modificando sua sintaxe, fazendo com que na hora de sua utilização o código CSS precise ser préprocessado para que o código escrito seja transformado em código CSS puro e assim então os browsers consigam entender.
+Existem muitos preprocessadores no mercado como Less, Sass, Turbine, Switch CSS e outros.</description>
+    </item>
+    
+    <item>
+      <title>Adobe e os Padrões Web</title>
+      <link>http://localhost/jhonny-roger/public/adobe-e-os-padroes-web/</link>
+      <pubDate>Thu, 03 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/adobe-e-os-padroes-web/</guid>
+      <description>Depois que o Steve Jobs fez o favor de nos livrar do Flash em seus dispositivos, parece que a Adobe acordou e resolveu entender o que realmente ele estava querendo dizer. Em vez de tentar devorar o mercado com uma tecnologia proprietária, por que não ajudar uma comunidade e os padrões que já existem no mercado?
+O pessoal da Apple fez isso com o Webkit. Eles tomaram emprestado o motor de renderização criado pelo pessoal do KDE &amp;#8211; com o motor chamado KHTML &amp;#8211; e fuçaram, mexeram, arrumaram, criaram e devolveram o resultado para a comunidade como um dos melhores motores de renderização que já existiu, o Webkit.</description>
+    </item>
+    
+    <item>
+      <title>Entendendo quais APIs (realmente) fazem parte do HTML5</title>
+      <link>http://localhost/jhonny-roger/public/entendendo-quais-apis-realmente-fazem-parte-do-html5/</link>
+      <pubDate>Wed, 02 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/entendendo-quais-apis-realmente-fazem-parte-do-html5/</guid>
+      <description>Com o HTML5 ganhando força no mercado de desenvolvimento web, maior tem sido o interesse dos desenvolvedores em compreender seus recursos, novas APIs e tecnologias adjacentes. E é aí que acontece uma grande confusão.
+Sabemos que o HTML5 não se trata apenas de marcação, mas também de um conjunto de novas funcionalidades encapsuladas em APIs que podem ser acessadas via JavaScript.
+Porém, há APIs em processo de padronização pelo W3C que não fazem parte da especificação do HTML5.</description>
+    </item>
+    
+    <item>
+      <title>Dicas de sobrevivência em uma era pós o IE6</title>
+      <link>http://localhost/jhonny-roger/public/dicas-de-sobrevivencia-ie6/</link>
+      <pubDate>Mon, 09 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/dicas-de-sobrevivencia-ie6/</guid>
+      <description>Nós ficamos mal acostumados com o Internet Explorer 6&amp;#8230; Digo isso por que tinhamos tantos problemas e limitações no tempo em que precisávamos suportá-lo, que até hoje nos privamos de algumas técnicas e propriedades do CSS que funcionam plenamente no IE8 e nos IEs mais novos. Quero confessar que eu estava até esses dias eu era prisioneiro da sombra do IE6.
+Por isso, aqui vão algumas dicas de propriedades que você já deve conhecer, mas que não usa ainda por que acha que todos os IEs são iguais ao maldito IE6.</description>
+    </item>
+    
+    <item>
+      <title>Qualidade de Imagens e densidade de pixels</title>
+      <link>http://localhost/jhonny-roger/public/qualidade-de-imagens-e-densidade-de-pixels/</link>
+      <pubDate>Mon, 26 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/qualidade-de-imagens-e-densidade-de-pixels/</guid>
+      <description>Você se lembra quando planejavamos nossos layouts para resoluções acima de 1024? Chega ser engraçado lembrar que um dia fizemos websites para 640&amp;#215;480, pensando que a resolução de 1024&amp;#215;768 eram a minoria dos usuários. Os tempos mudaram e naturalmente diversas outras resoluções apareceram por conta de novos dispositivos, melhores monitores e etc. Acontece que na web nada é tão fácil assim. A gente se livra de um problema, mas aparece outro no lugar.</description>
+    </item>
+    
+    <item>
+      <title>GoMo – Teste seu site mobile</title>
+      <link>http://localhost/jhonny-roger/public/gomo-teste-seu-site-mobile/</link>
+      <pubDate>Thu, 16 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/gomo-teste-seu-site-mobile/</guid>
+      <description>Quer saber como seu site aparece nos smartphones por aí mas não nenhum aparelho para testar? O Google tem uma iniciativa chamada GoMo.
+O GoMo faz um teste rápido no seu site e mostra um screenshot de como seu site aparece em aparelhos móveis, aparentemente somente em aparelhos que rodam Android. Lembrando que muito provavelmente seu site aparecerá da mesma forma em dispositivos da Apple, que rodam WebKit, mesmo motor de renderização do browser do Android.</description>
+    </item>
+    
+    <item>
+      <title>Agora é a vez dos desenvolvedores</title>
+      <link>http://localhost/jhonny-roger/public/agora-e-a-vez-dos-desenvolvedores/</link>
+      <pubDate>Sun, 05 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/agora-e-a-vez-dos-desenvolvedores/</guid>
+      <description>O desenvolvimento web depende de três personagens principais: W3C, que regulamenta, cria e sanciona padrões para a web. Os browsers, que importam essas regras e padrões de forma que a web seja mais homogênea e também podem criar padrões. E por fim os desenvolvedores, que aplicam os padrões em projetos, produzindo e criando na web.
+Cada um destes personagens tem papéis importantes para que a web continue evoluindo com força, traçando novos caminhos, cobrindo as necessidades atuais dos usuários e prevendo necessidades e soluções futuras.</description>
+    </item>
+    
+    <item>
+      <title>ePub: Aprenda a criar um livro digital</title>
+      <link>http://localhost/jhonny-roger/public/epub-aprenda-a-criar-um-livro-digital/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/epub-aprenda-a-criar-um-livro-digital/</guid>
+      <description>Introdução Com a crescente popularização de tablets e leitores digitais não há dúvida de que os livros eletrônicos vieram para ficar. O formato ePub vem cada vez mais se consolidando como o padrão definitivo para eBooks. As editoras procuram profissionais especializados, mas, aqui no Brasil não existem muitos que de fato possuem o know-how necessário para desenvolver livros no padrão. Na verdade o que acontece é que as editoras estão alocando o tipo de profissional errado para a função.</description>
+    </item>
+    
+    <item>
+      <title>A melhor parte da viagem é o caminho</title>
+      <link>http://localhost/jhonny-roger/public/a-melhor-parte-da-viagem-e-o-caminho/</link>
+      <pubDate>Mon, 30 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/a-melhor-parte-da-viagem-e-o-caminho/</guid>
+      <description>Eu me preocupo muito com o mercado de web no Brasil. Não estou falando de empresas especificamente, mas dos profissionais. Muitos me perguntam sobre qual faculdade cursar ou sobre qual assunto os devs deveriam aprender agora&amp;#8230; Eu não tenho faculdade e faz tempo que não aprendo algo realmente novo. E meu amigo, estou tão perdido quanto você nesse oceano. Talvez um pouco mais adiantado ou atrasado, mas igualmente perdido.</description>
+    </item>
+    
+    <item>
+      <title>Introdução aos padrões de codificação</title>
+      <link>http://localhost/jhonny-roger/public/introducao-a-padroes-de-codificacao/</link>
+      <pubDate>Mon, 23 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-a-padroes-de-codificacao/</guid>
+      <description>Identação Espaços em brancos (Whitespaces) Nomenclatura Comentários Arquivos Chaves e ponto/vírgula        Como os idiomas reais, cada linguagem de programação tem suas respectivas regras, individualidades, pontuações, pausas e pontos em comum com outras linguagens. Você precisa conhecer essas peculiaridades para falar fluentemente ou no mínimo ser entendido. Nas linguagens de para web ou qualquer outra linguagem de programação, precisamos seguir algumas regras básicas para que o código não vire uma língua estrangeira no meio do projeto.</description>
+    </item>
+    
+    <item>
+      <title>CSS1K</title>
+      <link>http://localhost/jhonny-roger/public/css1k/</link>
+      <pubDate>Fri, 20 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css1k/</guid>
+      <description>Você deve conhecer o CSS Zen Garden. O CSS Zen Garden foi criado pelo Dave Shea, foi um dos sites responsáveis por convencer toda a galera desenvolvedora orgulhosa e desconfiada mostrando que era possível produzir e implementar websites flexívels, diferentes, não quadrados nem com cara de blog &amp;#8211; como falavam &amp;#8211; utilizando CSS puro. Tendo este pensamento em mente, Jacob Rask decidiu fazer o CSS1K: um desafio para você que acha que consegue implementar um design utilizando apenas 1K de CSS.</description>
+    </item>
+    
+    <item>
+      <title>Um pensamento sobre design para web</title>
+      <link>http://localhost/jhonny-roger/public/um-pensamento-sobre-design-para-web/</link>
+      <pubDate>Thu, 19 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/um-pensamento-sobre-design-para-web/</guid>
+      <description>É engraçado quando designers de peças offline tentam migrar para web e ficam assustados com as diferenças no processo de criação e produção. O controle que o design para impresso tem sobre a posição dos elementos e a forma final da arte nunca (nunca?) será a mesma na web. No impresso você define precisamente as medidas, posicionando dos elementos, o tamanho das letras, entrelinhas e cores (mesmo brigando bastante nas gráficas por aí).</description>
+    </item>
+    
+    <item>
+      <title>Introdução das premissas dos controles de versão</title>
+      <link>http://localhost/jhonny-roger/public/introducao-das-premissas-dos-controles-de-versao/</link>
+      <pubDate>Mon, 16 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-das-premissas-dos-controles-de-versao/</guid>
+      <description>Parece ser óbvio, mas muitos desenvolvedores desdenham de ter controle total sobre o código gerado no desenvolvimento. Muitos, por trabalharem sozinhos, entendem que não precisam manter um certo nível de organização do seu código exatamente por que talvez, somente eles, o verão.
+Quem nunca ficou horas tentando debugar um código que você mesmo fez, mas não lembrava o que uma determinada função fazia&amp;#8230; Esse código pode ter sido por você de madrugada, quando você estava pingando de sono, ou pior, bêbado&amp;#8230; Vai saber&amp;#8230;</description>
+    </item>
+    
+    <item>
+      <title>Declarando idiomas no HTML</title>
+      <link>http://localhost/jhonny-roger/public/declarando-idiomas-no-html/</link>
+      <pubDate>Mon, 09 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/declarando-idiomas-no-html/</guid>
+      <description>Publicar conteúdo na web definitivamente não é a mesma coisa da publicação de conteúdo nos meios impressos. Quando imprimimos o conteúdo, temos como foco um determinado público de uma determinada região. Eu, estando no Brasil, não vou fazer uma revista em no idioma Japonês. Quando falamos publicação de conteúdo online a coisa muda de cenário. O conteúdo online pode ser acessado no mundo inteiro, não importa seu idioma. Obviamente se você conhece outros idiomas, você amplia suas possibilidades para encontrar conteúdo e novos sites.</description>
+    </item>
+    
+    <item>
+      <title>Experiência cross-device</title>
+      <link>http://localhost/jhonny-roger/public/experiencia-cross-device/</link>
+      <pubDate>Thu, 22 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/experiencia-cross-device/</guid>
+      <description>Eu vivo comentando aqui no Tableless sobre o desenvolvimento de sistemas e websites para os diversos meios de acesso. Eu falei sobre esse assunto em diversos artigos. Eu li um artigo chamado The Coming Zombie Apocalypse, escrito por Scott Jenson em abril deste ano. Este artigo me fez perceber que eu estava levando o assunto muito superficialmente, mas que tem muito a ver com o artigo publicado aqui chamado A Experiência deve ter começo, meio e fim.</description>
+    </item>
+    
+    <item>
+      <title>Introdução ao CSS 3D – Flip Card</title>
+      <link>http://localhost/jhonny-roger/public/introducao-ao-css-3d-flip-card/</link>
+      <pubDate>Wed, 21 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-ao-css-3d-flip-card/</guid>
+      <description>O CSS 3D é sem dúvida uma das features do CSS mais aguardadas por todas as crianças do Brasil. Fala a verdade! Fazer efeitozinhos com sombra, gradientes, transparências e etc já foi um dia na vida do desenvolvimento algo bacana. Hoje é muito fora de moda. Carne de vaca, sabe? Por isso o CSS 3D é tão esperado. Ele trará para a web efeitos visuais para layout que antes só viamos em sistemas que rodam em smartphones, tipo um iPhone ou nos sistemas operacionais mais populares como Linux e OSX.</description>
+    </item>
+    
+    <item>
+      <title>OOCSS ou CSS do jeito certo</title>
+      <link>http://localhost/jhonny-roger/public/oocss-ou-css-do-jeito-certo/</link>
+      <pubDate>Mon, 19 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/oocss-ou-css-do-jeito-certo/</guid>
+      <description>O conceito Escrever CSS é fácil. Isto não deveria ser um problema, mas é. Por ser fácil os desenvolvedores acabam se esquecendo de princípios básicos, técnicas e metodologias que nos ajudam a manter o controle durante a produção. Entenda que algumas dessas metodologias não precisam ser aplicadas em sites pequenos. Por exemplo, aqui no Tableless eu não modularizo o CSS em vários arquivos por um ou dois motivos: 1) Somente eu tenho acesso ao código.</description>
+    </item>
+    
+    <item>
+      <title>Experiência deve ter começo, meio e fim</title>
+      <link>http://localhost/jhonny-roger/public/experiencia-deve-ter-comeco-meio-e-fim/</link>
+      <pubDate>Mon, 28 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/experiencia-deve-ter-comeco-meio-e-fim/</guid>
+      <description>Esse artigo pode parecer meio confuso, mas é apenas um pensamento que estive matutando. Não ligue se a ordem das ideias estiverem tortas e sinuosas. 😉
+Tive uma experiência muito ruim no primeiro dia de 2010: pulei na piscina com meu iPhone no bolso.
+Ok, pode me xingar agora.
+Depois da tragédia, ele durou rápidos 5 segundos, e faleceu. Não ligava, não apitava, não fazia nada. &amp;#8220;Paciência&amp;#8221;, falei para mim mesmo.</description>
+    </item>
+    
+    <item>
+      <title>Usabilidade de interfaces para dispositivos móveis – parte II</title>
+      <link>http://localhost/jhonny-roger/public/usabilidade-interfaces-dispositivos-moveis-parte2/</link>
+      <pubDate>Wed, 23 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/usabilidade-interfaces-dispositivos-moveis-parte2/</guid>
+      <description>Como vimos na primeira parte do artigo, as diretrizes existentes de usabilidade continuam valendo no contexto mobile, mas precisam ser revistas e interpretadas de outra forma. Podemos perceber que o gargalo é conseguir manter as informações e funcionalidades que fazem sentido neste cenário. Adequar aplicações ao contexto de dispositivos móveis apresenta determinados vieses de desenvolvimento.
+ Variedade de Dispositivos  Variação de hardware (muito maior do que computadores convencionais) Dispositivos móveis têm uma grande variedade de displays (tamanhos, cores, resolução), de forma de entrada de dados (touchscreen, teclado físico &amp;#8211; QWERTY ou convencional -, microfone, câmera) e também de capacidade (processamento, armazenamento, etc.</description>
+    </item>
+    
+    <item>
+      <title>Usabilidade de interfaces para dispositivos móveis – parte I</title>
+      <link>http://localhost/jhonny-roger/public/usabilidade-de-interfaces-para-dispositivos-moveis-parte1/</link>
+      <pubDate>Mon, 21 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/usabilidade-de-interfaces-para-dispositivos-moveis-parte1/</guid>
+      <description>Já escrevemos aqui no Tableless sobre melhores práticas de front-end / usabilidade para dispositivos móveis. Um questionamento comum a estas diretrizes é o quanto elas são específicas ao contexto mobile, pois muitas delas não se distinguem das diretrizes que vêm sendo difundidas há 20 anos.
+É fato que grande parte das diretrizes são semelhantes, mas o que muda é a criticidade quando tratamos de mobile. Algumas recomendações tornam-se mais graves e imperdoáveis quando não são seguidas no projeto de interfaces para dispositivos móveis.</description>
+    </item>
+    
+    <item>
+      <title>Biblioteca CSS ou Framework?</title>
+      <link>http://localhost/jhonny-roger/public/biblioteca-css-ou-framework/</link>
+      <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/biblioteca-css-ou-framework/</guid>
+      <description>Primeiro você precisa entender a diferença entre os dois. A Talita Pagani em um dos seus artigos descreve o que é um framework assim:
+ Framework é um conjunto de componentes que provêm uma estrutura básica de elementos reutilizáveis, tendo uma arquitetura consistente de funcionalidade genérica sob a qual a aplicação será construída.
+ O uso de uma Biblioteca (CSS, Javascript, etc) é bastante parecido com a utilização de um framework.</description>
+    </item>
+    
+    <item>
+      <title>O que é Usabilidade?</title>
+      <link>http://localhost/jhonny-roger/public/o-que-e-usabilidade/</link>
+      <pubDate>Mon, 22 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-que-e-usabilidade/</guid>
+      <description>Já vimos em um artigo anterior como a usabilidade beneficia o desenvolvimento web. Mas, o que de fato compreende a usabilidade? Nem tudo que se refere à experiência de uso está dentro do escopo dela. Sim, a usabilidade tem limitações e lacunas que são complementadas por outros paradigmas, como o design de interação. Porém, podemos considera-la a base da pirâmide que sustenta o projeto de uma aplicação com boa experiência de uso.</description>
+    </item>
+    
+    <item>
+      <title>RGB e HSL</title>
+      <link>http://localhost/jhonny-roger/public/rgb-e-hsl/</link>
+      <pubDate>Mon, 27 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/rgb-e-hsl/</guid>
+      <description>A manipulação de cores no HTML nunca foi muito flexível. No começo escolhíamos as cores escrevendo seus nomes por extenso. Os nomes eram padrões eram: black, blue, yellow, green, olive, maroon, fuchsia, red, white, silver, navy, teal, purple, lime, gray, aqua. Na década de 80 houve um acréscimo de 131 novas cores com nomes estranhos chamada X11. Estes nomes foram adotados pelos primeiros browsers tem sido suportados até hoje. Há nomes como mintcream, moccasin, navajowhite, powderblue, springgreen entre outros&amp;#8230; O W3C ainda mantém uma lista completa com os nomes destas cores aqui.</description>
+    </item>
+    
+    <item>
+      <title>Especificação para touch screens</title>
+      <link>http://localhost/jhonny-roger/public/especificacao-para-touch-screens/</link>
+      <pubDate>Wed, 22 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/especificacao-para-touch-screens/</guid>
+      <description>Até alguns anos atrás nós acessávamos a internet apenas utilizando computadores e celulares. Hoje existem aparelhos de diversos tipos. Temos até dispositivos como o Surface, ainda que seu uso seja mais restrito e específico. Mas não demora muito que outros dispositivos surjam e preencham alguma lacuna escondida. O importante é entender que cada aparelho tem sua forma de interação.
+Hoje, as interfaces touch estão maduras e estáveis, que chegam a inspirar as interfaces dos sistemas desktops.</description>
+    </item>
+    
+    <item>
+      <title>CSS3 – Sombras em textos e elementos</title>
+      <link>http://localhost/jhonny-roger/public/css3-sombras-em-textos-e-elementos/</link>
+      <pubDate>Thu, 16 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css3-sombras-em-textos-e-elementos/</guid>
+      <description>Uma das vantagens mais interessantes que o CSS3 nos dá é a possibilidade de cada vez menos abrirmos o Photoshop. Não precisamos mais abrir o Photoshop para criar bordas arredondadas, gradientes e agora até mesmo sombras. Agora temos a possibilidade de inserirmos sombras em textos e em elementos. As propriedades tem nomes diferentes mas a mesma sintaxe. Veja abaixo:
+[cc lang=&amp;#8221;html&amp;#8221;]
+p {
+text-shadow: 5px 5px 5px rbga(0,0,0,0.5);
+box-shadow: 5px 5px 5px rgba(0,0,0,0.</description>
+    </item>
+    
+    <item>
+      <title>CSS3 – Módulo Template Layout</title>
+      <link>http://localhost/jhonny-roger/public/css3-modulo-template-layout/</link>
+      <pubDate>Mon, 30 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css3-modulo-template-layout/</guid>
+      <description>Talvez você me chame de louco, mas para mim a parte mais fácil de desenvolver um site com CSS é o planejamento e diagramação do layout. Coincidentemente é a parte que mais os desenvolvedores tem problemas crossbrowser ou por falta de recursos mais avançados. Mas se você parar para pensar, apenas uma propriedade cuida dessa parte, que é a propriedade float. De longe, para mim, o float é a propriedade mais importante que há no CSS.</description>
+    </item>
+    
+    <item>
+      <title>CSS3 – Animation e regra keyframe</title>
+      <link>http://localhost/jhonny-roger/public/css3-animation-keyframe/</link>
+      <pubDate>Mon, 09 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css3-animation-keyframe/</guid>
+      <description>A propriedade trasition trabalha de forma muito simples e flexível. Você praticamente diz para o browser qual o valor inicial e o valor final para que ele aplique a transição automaticamente, controlamos praticamente apenas o tempo de execução. Para termos mais controle sobre a animação temos a propriedade animation que trabalha juntamente com a rule keyframe.
+Basicamente você consegue controlar as características do objeto e suas diversas transformações definindo fases da animação.</description>
+    </item>
+    
+    <item>
+      <title>CSS 3 – O valor currentColor</title>
+      <link>http://localhost/jhonny-roger/public/css-3-o-valor-currentcolor/</link>
+      <pubDate>Mon, 02 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css-3-o-valor-currentcolor/</guid>
+      <description>O valor currentColor é muito simples de se entender e pode ser muito útil para diminuirmos o retrabalho em alguns momentos da produção. Imagine que o currentColor é uma variável cujo seu valor é definido pelo valor da propriedade color do seletor. Veja o código abaixo:
+p { background:red; padding:10px; font:13px verdana; color: green; border:1px solid green; }  Note que o valor da propriedade color é igual ao valor da cor da propriedade border.</description>
+    </item>
+    
+    <item>
+      <title>CSS3 – Breve introdução ao RGBA</title>
+      <link>http://localhost/jhonny-roger/public/css3-breve-introducao-a-rgba/</link>
+      <pubDate>Mon, 02 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css3-breve-introducao-a-rgba/</guid>
+      <description>Introdução ao RGB Normalmente em web trabalhamos com cores na forma de hexadecimal. É a forma mais comum e mais utilizada desde os primórdios do desenvolvimento web. Mesmo assim, há outros formatos menos comuns que funcionam sem problemas, um destes formatos é o RGB. O RGB são 3 conjuntos de números que começam no 0 e vão até 255 (0% até 100%), onde o primeiro bloco define a quantidade de vermelho (Red), o segundo bloco a quantidade de verde (Green) e o último bloco a quantidade de azul (Blue).</description>
+    </item>
+    
+    <item>
+      <title>Pontuação de especificidade da CSS</title>
+      <link>http://localhost/jhonny-roger/public/pontuacao-especificidade-css/</link>
+      <pubDate>Mon, 25 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/pontuacao-especificidade-css/</guid>
+      <description>Você pode ler algo sobre herança e especificadade do CSS aqui. O problema é que nesse artigo eu não explico muito sobre a pontuação da especificidade do CSS. Como que o browser calcula qual propriedade é mais especifica que outra?
+Para que serve? A graça do CSS é que você pode manipular os estilos de diversos elementos com pouco esforço. Se você quer modificar a font de todos os parágrafos ou títulos do seu site é simples de se fazer mudando um parâmetro da linha onde é definida a propriedade font.</description>
+    </item>
+    
+    <item>
+      <title>Ferramentas de diagnóstico</title>
+      <link>http://localhost/jhonny-roger/public/ferramentas-de-diagnostico/</link>
+      <pubDate>Mon, 11 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ferramentas-de-diagnostico/</guid>
+      <description>Se você escreve CSS e HTML provavelmente tem problemas de compatibilidade e visualização. Isso é normal, acontece com os melhores desenvolvedores. Quando isso acontece, o melhor a se fazer é um trabalho investigativo. Esse trabalho normalmente é ingrato porque você demora horas investigando o seu código para encontrar o erro e geralmente esse erro é solucionado com uma linha de código. Para você descobrir qual é essa linha, você precisa de ferramentas que te ajudem a decifrar todo o problema.</description>
+    </item>
+    
+    <item>
+      <title>Novo parser HTML5 – FF4</title>
+      <link>http://localhost/jhonny-roger/public/parser-html5-firefox4/</link>
+      <pubDate>Mon, 28 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/parser-html5-firefox4/</guid>
+      <description>O Firefox é o meu browser favorito embora não seja meu browser padrão atualmente. Durante muito tempo ele me segurava com suas extensions exclusivas. Os outros browsers demoraram para ter uma coleção aceitável de extensions que realmente competissem com as do Firefox.
+Foi lançado na semana passada o Firefox 4.0 que trouxe uma série de mudanças interessantes. Uma das atualizações mais importantes foi o &amp;#8220;redesign&amp;#8221; do parser de HTML5.</description>
+    </item>
+    
+    <item>
+      <title>Drops 4 – Validar é importante?</title>
+      <link>http://localhost/jhonny-roger/public/drops-4-validar-importante/</link>
+      <pubDate>Fri, 25 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/drops-4-validar-importante/</guid>
+      <description>Validar o HTML é importante? Para que serve o validador? O que ele não analisa?
+Se preferir faça o download do arquivo em Mp3 ou OGA.  Veja todos os nossos drops no Soundcloud.
+Se preferir faça o download do arquivo em Mp3 ou OGA. Ou inscreva no iTunes. Feed direto dos Podcasts.</description>
+    </item>
+    
+    <item>
+      <title>The IE6 Countdown – O ultimato da Microsoft</title>
+      <link>http://localhost/jhonny-roger/public/the-ie6-countdown-ultimato-microsoft/</link>
+      <pubDate>Sun, 06 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/the-ie6-countdown-ultimato-microsoft/</guid>
+      <description>A Microsoft acaba de publicar um website chamado IE6 Countdown, onde ela incentiva a descontinuação do Internet Explorer 6. Esqueça qualquer campanha iniciada por qualquer um&amp;#8230; Essa campanha é definitiva e iniciada pela própria Microsoft. Claro, a Microsoft está fazendo com que os usuários migrem do IE6 para o IE8. Ela não indica nenhum outro browser concorrente. Mas realmente isso não importa&amp;#8230; O que importa é que os usuários ouçam a voz da Microsoft e parem, defintivamente de utilizar o Internet Explorer.</description>
+    </item>
+    
+    <item>
+      <title>Um raio-x do seu website</title>
+      <link>http://localhost/jhonny-roger/public/um-raio-x-do-seu-website/</link>
+      <pubDate>Thu, 03 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/um-raio-x-do-seu-website/</guid>
+      <description>A criacão de aplicações web evolui ao longo dos anos. A interação front-end/aplicação também segue esta evolução e é previsivel que a complexidade e a integração de funcionalidades com a interface web deva evoluir tambem. Só que para devs front-end, essa complexidade não está em novas linguagens ou tecnologias, e sim em como embarcar todas elas em um HTML semântico, limpo e de acordo com os requisitos. Tudo isso no menor tempo possível.</description>
+    </item>
+    
+    <item>
+      <title>O básico: O que é HTML?</title>
+      <link>http://localhost/jhonny-roger/public/o-que-html-basico/</link>
+      <pubDate>Fri, 21 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-que-html-basico/</guid>
+      <description>HTML é uma das linguagens que utilizamos para desenvolver websites. O acrônimo HTML vem do inglês e significa Hypertext Markup Language ou em português Linguagem de Marcação de Hipertexto.
+O HTML é a liguagem base da internet. Foi criada para ser de fácil entendimento por seres humanos e também por máquinas, como por exemplo o Google ou outros sistemas que percorrem a internet capturando informação.
+Quem criou o HTML? Tim Berners-Lee.</description>
+    </item>
+    
+    <item>
+      <title>JQuery para produção de Layouts</title>
+      <link>http://localhost/jhonny-roger/public/jquery-para-layouts/</link>
+      <pubDate>Wed, 15 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/jquery-para-layouts/</guid>
+      <description>O JQuery tem me dado um importante suporte para aqueles problemas que o CSS não consegue resolver por falta de compatibilidade em alguns browsers e também para evitar sujar o código HTML com elementos dispensáveis, em ocasiões comuns como no caso da criação de bordas arredondadas.
+Nestes cenários, invarialmente temos que criar alguns elementos agregados que servirão para dar exclusivamente suporte visual para o layout.
+Não é bom que sujemos nosso HTML com código que não carregue significado semântico nenhum, mas em alguns casos, como ao fazer bordas arredondadas, a criação destes elementos é necessária.</description>
+    </item>
+    
+    <item>
+      <title>Bem vindo a Xangri-lá – Parte 2</title>
+      <link>http://localhost/jhonny-roger/public/bem-vindo-a-xangrila-parte-2/</link>
+      <pubDate>Mon, 06 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/bem-vindo-a-xangrila-parte-2/</guid>
+      <description>Uma vez familiares com a premissa do Progressive Enhancement, vamos entender como aplicar a abordagem para criar suas páginas do zero, garantindo que elas funcionem na maior aplitude de navegadores e dispositivos. Antes de começar, é importante lembrar que para tudo funcionar bem, você precisa conhecer as funcionalidades e limitações da especificacao HTML, seus elementos, tags, e atributos aprovados, isso esta disponivel no site do w3c. É importante tambem se manter no bleeding edge, para que novas linguagens (como o HTML5) não fiquem de fora de suas análises e ponderações.</description>
+    </item>
+    
+    <item>
+      <title>Desenvolvendo para IE6</title>
+      <link>http://localhost/jhonny-roger/public/dev-ie6/</link>
+      <pubDate>Mon, 06 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/dev-ie6/</guid>
+      <description>Você ainda faz sites para IE6? Já me fizeram uma pergunta dessas certa vez. A resposta: Sim. Mas&amp;#8230;
+Desenvolver para Internet Explorer 6 já foi uma obrigação. Enquanto ele era o browser mais utilizado e ainda era o browser mais atual da série, nós tínhamos que desenvolver para ele. Não havia escolha. O cenário atual é outro.
+Eu não desenvolvo sites para o Internet Explorer 6 se o cliente não pedir.</description>
+    </item>
+    
+    <item>
+      <title>Bem vindo a Xangri-lá – Parte 1</title>
+      <link>http://localhost/jhonny-roger/public/bem-vindo-a-xangrila-parte-1/</link>
+      <pubDate>Thu, 25 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/bem-vindo-a-xangrila-parte-1/</guid>
+      <description>Um dia desses eu estava no meio de muita gente boa em um treinamento em São Paulo – um dos melhores que já fiz – e no meio de uma discussão sobre abordagens de desenvolvimento de aplicações internet crossbrowser e a maravilha que era o HTML5, o Elcio &amp;#8211; ele mesmo &amp;#8211; da Visie disse que Progressive Enhancement e Graceful Degradation eram a &amp;#8220;mesma coisa&amp;#8221;. Eu discordava dele porém não continuei o assunto porque essa questão poderia ser abordada de maneira mais abrangente, e porque o momento era de HTML5, não de como temos que escrever código.</description>
+    </item>
+    
+    <item>
+      <title>CSS3 – O que vem por aí…</title>
+      <link>http://localhost/jhonny-roger/public/css3-o-que-vem-por-ai/</link>
+      <pubDate>Mon, 22 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css3-o-que-vem-por-ai/</guid>
+      <description>O grande papel do desenvolvedor Front-End, na minha opinião, é traduzir em tags html, folhas de estilos e programação Javascript ou até mesmo uma linguagem backside, aquilo que o designer de interface criou e espera estar disponível a clicks e à leitura dos usuários. Ao meu ver, este é o nosso grande trabalho, recriar interfaces de forma adaptada aos diversos browsers de mercado e às diversas possibilidades tecnológicas que temos na web respeitando os limites dos padrões online e a essência da criação visual.</description>
+    </item>
+    
+    <item>
+      <title>Responsabilidade de um dev client-side</title>
+      <link>http://localhost/jhonny-roger/public/responsabilidade-de-um-dev-client-side/</link>
+      <pubDate>Wed, 10 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/responsabilidade-de-um-dev-client-side/</guid>
+      <description>O reconhecimento do desenvolvedor client-side está maior do que nos anos passados. Isso é importante para nós. Anteriormente nenhuma empresa levava a sério esse setor, não porque ele era menos importante, porque na verdade ele não era, mas por falta de &amp;#8220;inteligência&amp;#8221; das próprias empresas e dos liderantes. O ponto é que esse mercado cresceu, se estruturou, passou por uma reforma natural como todo e qualquer novo mercado que surge e é prostituído com profissionais imaturos.</description>
+    </item>
+    
+    <item>
+      <title>Sections: elemento article – Parte 4</title>
+      <link>http://localhost/jhonny-roger/public/section-elemento-article/</link>
+      <pubDate>Mon, 25 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/section-elemento-article/</guid>
+      <description>Você deve marcar a área do conteúdo do seu site com um DIV com um ID do tipo: conteudo, texto, main, content e etc&amp;#8230; Normalmente esta é uma área nobre. O Google e outros sistemas de busca não tem com saberem onde fica o bloco do texto principal do site. Não havia nenhuma indicação dizendo que determinado elemento é se trata do bloco que carrega a informação principal do site.</description>
+    </item>
+    
+    <item>
+      <title>Vote no Especialista em Usabilidade para Presidente</title>
+      <link>http://localhost/jhonny-roger/public/vote-no-especialista-em-usabilidade-para-presidente/</link>
+      <pubDate>Thu, 21 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/vote-no-especialista-em-usabilidade-para-presidente/</guid>
+      <description>﻿(A discussão deste post vale para aplicações de grande porte, o que não significa que a mesma abordagem possa ser aplicada com sucesso em ambientes menores como blogs, por exemplo)        ﻿(A discussão deste post vale para aplicações de grande porte, o que não significa que a mesma abordagem possa ser aplicada com sucesso em ambientes menores como blogs, por exemplo) Usabilidade é um termo usado para definir a facilidade com que as pessoas podem empregar uma ferramenta ou objeto a fim de realizar uma tarefa específica e importante.</description>
+    </item>
+    
+    <item>
+      <title>Como tornar seu website acessível?</title>
+      <link>http://localhost/jhonny-roger/public/como-tornar-seu-website-acessivel/</link>
+      <pubDate>Mon, 18 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/como-tornar-seu-website-acessivel/</guid>
+      <description>Tornar um site acessível, ainda que num processo lento, tem sido uma das buscas de alguns desenvolvedores, seja pelo objetivo específico de um site em questão ou por algum novo público que a agência ou empresa a qual ele trabalha está buscando atender.
+Assim como no mundo real, onde lugares adaptados à pessoas com deficiências físicas ou mentais ainda estão em expansão, na internet este mesmo público também encontra dificuldades de acessar diversos websites por falta de um código bem elaborado ou estudado para cumprir as exigências de leitores de tela e navegadores textuais.</description>
+    </item>
+    
+    <item>
+      <title>Sections: elemento aside – Parte 3</title>
+      <link>http://localhost/jhonny-roger/public/sections-elemento-aside/</link>
+      <pubDate>Wed, 13 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sections-elemento-aside/</guid>
+      <description>Engana-se se o você acha que o aside serve apenas para fazer &amp;#8220;sidebars&amp;#8221;. Lembre-se de outros blocos para utilizamos para expor algum tipo de informação referente ao assunto principal. Isso acontece muito em livros: dependendo do livro que você estiver lendo, como um livro técnico, ele pode ter caixas de informação durante todo o fluxo de texto do livro. Essas caixas normalmente servem para chamar sua atenção para alguma informação importante ou outras informações que agregarão mais ao conteúdo principal.</description>
+    </item>
+    
+    <item>
+      <title>6 dicas para evitar problemas de incompatibilidade entre browsers.</title>
+      <link>http://localhost/jhonny-roger/public/evite-incompatibilidade-browsers/</link>
+      <pubDate>Tue, 28 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/evite-incompatibilidade-browsers/</guid>
+      <description>Nas últimas semanas muito falou-se das novas versões de browsers que serão colocadas à disposição dos usuários nos próximos meses. Alguns esperam para ver se a gigante Microsoft recuperará o mercado e outros acompanham as novidades de Mozilla e Google com suas versões beta do Firefox 4 e do Chrome 6. É inevitável perceber a preocupação de todos em adaptar-se às necessidades dos usuários, padrões de desenvolvimento web e compatibilidade com o novo protagonista da web &amp;#8211; o HTML5 &amp;#8211; porém em meio à esses lançamentos, fica a pergunta: enquanto isso, como agir com os atuais browsers?</description>
+    </item>
+    
+    <item>
+      <title>Sections: seções do HTML5 – Parte 1</title>
+      <link>http://localhost/jhonny-roger/public/sections-html5/</link>
+      <pubDate>Thu, 23 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sections-html5/</guid>
+      <description>A estrutura de um site é dividida em diversas seções. Cada seção representa uma fatia do layout e também representa um grupo de conteúdo. Cada um destes grupos tem seu assunto específico. Nas minhas aulas eu costumava apresentar estas seções como seções mestres ou seções principais. Normalmente para descrever em HTML estas seções, usávamos a tag div. O elemento div é um elemento genérico que serve para criar DIVISÕES. Estas divisões não tinham significado semântico nenhum, não levavam nenhum tipo de informação &amp;#8220;extra&amp;#8221;, mas a nível de formatação resolvia nosso problema.</description>
+    </item>
+    
+    <item>
+      <title>Afinal, o que muda com o HTML 5?</title>
+      <link>http://localhost/jhonny-roger/public/afinal-o-que-muda-com-o-html-5/</link>
+      <pubDate>Wed, 15 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/afinal-o-que-muda-com-o-html-5/</guid>
+      <description>Você desenvolvedor web, antenado, com certeza vem acompanhando a evolução, as críticas, as observações, os elogios e, claro, os tutoriais para entender um pouco mais do que efetivamente significa esta versão “5” do HTML.
+Já você desenvolvedor, que limita-se a saber que uma nova versão está a caminho, talvez ainda não tenha tido a chance de conhecer quais serão essas importantes mudanças e o que trarão de novo para as bases do desenvolvimento web.</description>
+    </item>
+    
+    <item>
+      <title>Apostila sobre HTML5</title>
+      <link>http://localhost/jhonny-roger/public/apostila-sobre-html5/</link>
+      <pubDate>Tue, 13 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/apostila-sobre-html5/</guid>
+      <description>A Visie foi escolhida pelo W3C do Brasil para ministrar um treinamento sobre HTML5 para os seus membros e alguns convidados. Para tanto, construímos uma apostila com todo o conteúdo abordado neste nosso curso. Essa apostila está sendo agora publicada sob Creative Commons aqui no Tableless. Esperamos que ajude a comunidade de desenvolvimento web brasileira.
+Essa apostila ficará em processo de constante atualização já que muitos pontos do HTML5 não foram ainda definidos e também porque diversas outras características estão sendo planejadas e rascunhadas ainda.</description>
+    </item>
+    
+    <item>
+      <title>HTML5 Diff</title>
+      <link>http://localhost/jhonny-roger/public/html5-diff/</link>
+      <pubDate>Tue, 13 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/html5-diff/</guid>
+      <description>O W3C mantém um documento que compara o HTML4 com as novidades do HTML5. São inúmeras mudanças em elementos mais conhecidos e também em outros elementos mais específicos, utilizados em aplicações e sistemas mais complexos. Sugiro que você leia este documento e o guarde como referência.
+O HTML5 ainda é um rascunho. Ele está sendo discutido entre o WHATWG e o W3C. Diversos pontos podem ser modificados ainda, por isso é interessante que você entenda e fique por dentro das discussões para que você atualize seu código quando necessário.</description>
+    </item>
+    
+    <item>
+      <title>Emuladores para browsers mobiles</title>
+      <link>http://localhost/jhonny-roger/public/emuladores-para-browsers-mobiles/</link>
+      <pubDate>Tue, 23 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/emuladores-para-browsers-mobiles/</guid>
+      <description>Criar sites para mobiles hoje não é bicho de sete cabeças, mas também não é tarefa fácil. Quando fazemos sites para desktops, temos tudo o que precisamos para testar ao nosso alcance. Se você usa Mac ou Linux, pode usar um virtualizador para ter o IE, se você usa Windows, tem todos os browsers que necessita para testes. Você pode ver o resultado em diferentes resoluções, tamanho de fontes e etc.</description>
+    </item>
+    
+    <item>
+      <title>Produtividade: editores e snippets</title>
+      <link>http://localhost/jhonny-roger/public/produtividade-editores-e-snippets/</link>
+      <pubDate>Thu, 18 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/produtividade-editores-e-snippets/</guid>
+      <description>Não é muito difícil ser produtivo. Em muitas palestras e aulas, me perguntam como o desenvolvedor client-side (ou qualquer outro) pode melhorar sua performance e desenvolver melhor, mais rápido e com qualidade. Além de muito treino, existem outros pontos que se utilizados da maneira correta, podem agilizar seu trabalho. Um destes pontos é o seu editor de código.
+Você já parou para conhecer seu editor? Muitos desenvolvedores simplesmente ignoram a existência das features que seu editor carrega.</description>
+    </item>
+    
+    <item>
+      <title>Google Apps não suportará mais IE6</title>
+      <link>http://localhost/jhonny-roger/public/google-apps-nao-suportara-mais-ie6/</link>
+      <pubDate>Tue, 02 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/google-apps-nao-suportara-mais-ie6/</guid>
+      <description>Recebi hoje um email do Google explicando que em 2010 eles irão deixar de suportar o IE6. Vitória!
+Contar com o IE6 na cartilha de suporte é subutilizar o HTML5 e JavaScript. Aqui mesmo na Visie, temos projetos que o HTML5 e CSS3 seriam a resposta, mas ainda não podemos utilizar por causa do IE6, IE7 e em alguns casos o IE8.
+Deixar de suportar o IE6 é questão de sobrevivência.</description>
+    </item>
+    
+    <item>
+      <title>Porque é a web que comanda</title>
+      <link>http://localhost/jhonny-roger/public/porque-e-a-web-que-comanda/</link>
+      <pubDate>Wed, 27 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/porque-e-a-web-que-comanda/</guid>
+      <description>A AppStore fez sucesso. Bastante. Por vários motivos: um deles foi por conta da remuneração do desenvolvedor. Teve gente que ganhou milhares de dólares sozinho vendendo aplicações por 99 centavos. Obviamente isso chamou a atenção de muita gente, que começou a fazer aplicações enlouquecidamente para ganhar alguns trocados. Consequentemente um grande números de aplicações que não precisam ser instaláveis no aparelho, apareceram. Vários desenvolvedores não perceberam que dependendo do seu sistema, ele não precisa ser desenvolvido exclusivamente para ser instalado na plataforma do iPhone.</description>
+    </item>
+    
+    <item>
+      <title>Ah, o maravilhoso mundo real</title>
+      <link>http://localhost/jhonny-roger/public/ah-o-maravilhoso-mundo-real/</link>
+      <pubDate>Thu, 10 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ah-o-maravilhoso-mundo-real/</guid>
+      <description>O Diego publicou, há mais de uma semana, um artigo sobre o impacto da mudança de estratégia do W3C em relação ao ciclo de vida de seus padrões. O artigo gerou algumas opiniões contrárias nos comentários, em relação ao fato de ele ter dito que bordas arredondadas são mais importantes que a web semântica e em relação à estratégia de especificações modulares do W3C. Vou compartilhar minha opinião sobre os dois pontos.</description>
+    </item>
+    
+    <item>
+      <title>Efeito cascata, herança e especificidade do CSS</title>
+      <link>http://localhost/jhonny-roger/public/efeito-cascata-e-especificidade-do-css/</link>
+      <pubDate>Tue, 21 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/efeito-cascata-e-especificidade-do-css/</guid>
+      <description>Herança Existem algumas propriedades do CSS que quando aplicadas aos &amp;#8220;elementos pais&amp;#8221;, os &amp;#8220;elementos filhos&amp;#8221; herdam a característica aplicada no pai. Um exemplo disso é a propriedade color. Quando aplicamos a propriedade color em um elemento div, o texto dos elementos contidos no div são coloridos de acordo com a propriedade.
+div { color: green; }  O texto que há dentro deste div irá ter a cor verde, independente se este texto está &amp;#8220;solto&amp;#8221; dentro do div ou se ele está dentro de um parágrafo, por exemplo.</description>
+    </item>
+    
+    <item>
+      <title>Implementar XHTML/CSS é grátis</title>
+      <link>http://localhost/jhonny-roger/public/implementar-xhtmlcss-e-gratis/</link>
+      <pubDate>Mon, 08 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/implementar-xhtmlcss-e-gratis/</guid>
+      <description>&lt;p&gt;Muita gente conhece a história do Tableless. Eu iniciei o Tableless quando estava aprendendo e me aprofundando nos Padrões Web. Meus estudos consistiam em dois momentos: ler e aplicar. Eu lia muito material de fora – quase não haviam fontes sobre Padrões Web aqui no Brasil &amp;#8211; e depois tentava colocar na prática tudo aquilo que eu havia estudado.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bloginfo Template Tag</title>
+      <link>http://localhost/jhonny-roger/public/bloginfo-template-tag/</link>
+      <pubDate>Thu, 21 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/bloginfo-template-tag/</guid>
+      <description>&lt;p&gt;A &lt;a href=&#34;http://tableless.com.br/bloginfo-template-tag/&#34;&gt;Template Tag Bloginfo&lt;/a&gt; mostra informações sobre o blog. A maioria dessas informações são modificadas diretamente no painel de controle da sua instalação do WordPress. Isso pode ser utilizado em qualquer lugar do seu site. A Template Tag é a &lt;strong&gt;get_bloginfo()&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Por exempo, se você precisa do nome do site para colocar em algum lugar do site, como o Logo, a sintaxe seria:&lt;/p&gt;
+
+&lt;pre lang=&#34;php&#34; line=&#34;1&#34;&gt;&lt;h1&gt;
+  &lt;?php bloginfo(&#39;name&#39;); ?&gt;
+&lt;/h1&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SEO – Sitemaps</title>
+      <link>http://localhost/jhonny-roger/public/seo-sitemaps/</link>
+      <pubDate>Wed, 02 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/seo-sitemaps/</guid>
+      <description>&lt;p&gt;O &lt;a href=&#34;http://www.sitemaps.org/pt_BR/index.php&#34;&gt;Sitemaps é um formato simples de XML&lt;/a&gt; que serve para informar aos sistemas de buscas sobre seus endereços disponíveis para indexação. Esse XML relaciona as URLs existentes do seu site, com algumas informações como data da última atualização, prioridade da página em relação às outras páginas e freqüencia de atualização.&lt;/p&gt;
+
+&lt;p&gt;O sitemap.xml é um arquivo que pode ser &lt;a href=&#34;http://code.google.com/sm_thirdparty.html&#34;&gt;gerado automaticamente por um plugin&lt;/a&gt; ou até mesmo escrito à mão pelo desenvolvedor.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Browsers para Mobile – Nova era</title>
+      <link>http://localhost/jhonny-roger/public/browsers-para-mobile-nova-era/</link>
+      <pubDate>Sun, 29 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/browsers-para-mobile-nova-era/</guid>
+      <description>&lt;p&gt;Pense um pouco e tente lembrar de pelo menos uma maneira de acessar a internet que não seja a partir de dispositivos móveis ou computadores (notebooks e desktops). Difícil, não é?&lt;/p&gt;
+
+&lt;p&gt;Hoje, conhecemos bem apenas um meio de acessar a internet que é o computador. Estamos começando agora a navegar decentemente com dispositivos móveis, como um PDAs ou Smartphones. Além do óbvio, não conhecemos os futuros reais problemas de usabilidade e arquitetura de informação dos sites destinados à estes aparelhos. Estamos apenas engatinhando.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Web Standards Project – WaSP</title>
+      <link>http://localhost/jhonny-roger/public/web-standards-project-wasp/</link>
+      <pubDate>Mon, 23 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/web-standards-project-wasp/</guid>
+      <description>&lt;p&gt;No início, fabricantes de browsers, W3C e desenvolvedores começaram quase que ao mesmo tempo.&lt;/p&gt;
+
+&lt;p&gt;Neste começo não brotaram desenvolvedores web do chão. Essa profissão não existia. Os primeiros que trabalharam nessa área, migraram de profissões parecidas: quem era programador desktop naquele tempo, começou a programar para web. Quem era designer de impresso, começou a fazer design para web.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Formulário HTML Básico em 8 minutos</title>
+      <link>http://localhost/jhonny-roger/public/formulario-basico-em-8-minutos/</link>
+      <pubDate>Mon, 02 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/formulario-basico-em-8-minutos/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;update:&lt;/strong&gt; Se você quiser mais vídeos e em alta-resolução, visite o &lt;a title=&#34;Vídeo tutoriais sobre Tableless e Ajax.&#34; href=&#34;http://visie.com.br/campus&#34;&#34;&gt;Campus Online&lt;/a&gt;. Lá você vai encontrar &lt;a href=&#34;http://campus.visie.com.br/&#34; title=&#34;Vídeos sobre Tableless e Ajax&#34;&gt;vídeos tutoriais de Tableless, Ajax, Javascript&lt;/a&gt; e boas práticas de desenvolvimento web.&lt;/p&gt;
+
+&lt;p&gt;Na verdade ele foi escrito em 7 minutos e 51 segundos e foram escritos apenas o XHTML e CSS. Infelizmente está sem áudio.&lt;/p&gt;
+
+&lt;p&gt;O formulário, depois do link, é o &amp;#8220;objeto&amp;#8221; mais utilizado pelos usuários para interagir com o site. É questão de vida e morte para muitos profissionais. Se não for bem escrito, pode virar um inferno. Com as tags certas, você consegue fazer uma estrutura enxuta e fácil de customizar. Siga a regra áurea do desenvolvimento web: Keep It Simple Stupid.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Charsets e Encodes – Tabelas de caracteres</title>
+      <link>http://localhost/jhonny-roger/public/charsets-e-encodes-tabelas-de-caracteres/</link>
+      <pubDate>Mon, 31 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/charsets-e-encodes-tabelas-de-caracteres/</guid>
+      <description>&lt;p&gt;Quando você escreve um documento HTML (ou qualquer outra linguagem baseada em SGML) é necessário que especifiquemos o Charset utilizado. O &lt;strong&gt;Charset é o conjunto de caracteres utilizados para escrever o documento&lt;/strong&gt;. Um jogo de caracteres consiste em ter 1) repertório com caracteres e 2) uma posição de referência para cada um dos caracteres no repertório. Cada caractere é identificado e localizado por este código de posição. Por exemplo, na tabela ASCII, as posições 65, 66 e 67 se referem às letras A, B e C respectivamente. Abaixo, veja a tabela de caracteres ASCII:&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Browsers – Guerra Fria</title>
+      <link>http://localhost/jhonny-roger/public/browsers-guerra-fria/</link>
+      <pubDate>Tue, 18 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/browsers-guerra-fria/</guid>
+      <description>&lt;p&gt;Quando o Netscape e o Internet Explorer faziam a Guerra dos Browsers o principal objetivo era conquistar usuários. As formas que os dois utilizavam para adquirir adeptos eram prejudiciais para o desenvolvimento web. Basicamente o que os browsers faziam era criar códigos proprietários. Isso gerava um retrabalho terrível para os desenvolvedores. Se você tivesse 10 sites para gerenciar, na verdade seriam 20, por conta de ter a necessidade de haver uma versão para Netscape e outra para Internet Explorer. Isso gerava trabalho em dobro. Se houvesse alguma modificação no layout, texto ou programação, o desenvolvedor teria que atualizar as duas versões dos sites. &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>IE8 – O sonho não acabou</title>
+      <link>http://localhost/jhonny-roger/public/ie8-o-sonho-nao-acabou/</link>
+      <pubDate>Sun, 09 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ie8-o-sonho-nao-acabou/</guid>
+      <description>&lt;p&gt;Para você se inteirar do assunto, leia &lt;a href=&#34;http://tableless.com.br/ie8-targeting-version&#34;&gt;Browser Targeting Version&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;No artigo que recomendei acima, lá nos últimos parágrafos dei minha opinião sobre a antiga decisão da Microsoft:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Mesmo assim, acho que tudo deveria ser nivelado por cima. Porque os desenvolvedores que se preocupam e utilizam os Padrões da maneira correta, são os que devem marcar o browser? Não seria mais fácil criar uma metatag para marcar os sites que não devem ser renderizados com o suporte avançado de Padrões? Quem deve se preocupar, são os desenvolvedores que não dão a mínima para os Padrões. Eles sim devem trabalhar para deixar seus sites atualizados.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>PDF sobre Produtividade</title>
+      <link>http://localhost/jhonny-roger/public/pdf-sobre-produtividade/</link>
+      <pubDate>Mon, 03 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/pdf-sobre-produtividade/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;JABÁ&lt;/strong&gt;: Há algum tempo trabalhando com treinamento, tive a oportunidade de conhecer desenvolvedores das mais diversas empresas, em vários estados. E percebi que há diferenças muito grandes no nível de conhecimento. De um lado, os twitters, bloggers, antenados leitores de feeds sempre ligados na última novidade. De outro, os programadores que migraram com dificuldade de Win32 para a Web, e estão usando praticamente a mesma tecnologia há seis ou sete anos.&lt;/p&gt;
+
+&lt;p&gt;Não é incomum encontrar, por exemplo, equipes inteiras de desenvolvedores que não trabalham com controle de versão. Ou gente que nunca ouviu falar em testes unitários. Ou quem ainda acredita que simplesmente aprender UML vai resolver todos os seus problemas.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>WordPress – Uma pequena introdução</title>
+      <link>http://localhost/jhonny-roger/public/wordpress-uma-pequena-introducao/</link>
+      <pubDate>Sun, 10 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/wordpress-uma-pequena-introducao/</guid>
+      <description>O WordPress não foi feito para ser um CMS. Ele foi criado primeiramente para suprir necessidades de criação de blogs. Por acaso, talvez como se fosse um acidente, começamos a utilizá-lo para criar websites, desde os mais simples até os mais complicados. O pessoal do WordPress curtiu a ideia e agora está melhorando cada vez mais o sistema para que ele se torne um CMS de verdade, mesmo assim mantendo toda a simplicidade do WordPress original.</description>
+    </item>
+    
+    <item>
+      <title>Browser Targeting Version</title>
+      <link>http://localhost/jhonny-roger/public/ie8-targeting-version/</link>
+      <pubDate>Fri, 25 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ie8-targeting-version/</guid>
+      <description>&lt;p&gt;Para que possamos entender melhor o assunto do IE8 e como ele tratará as páginas, é bom que possamos entender o que houve no passado. Se você se lembrar bem como foi entre os anos de 1999, 2000 e 2001, provavelmente você vai lembrar que durante algum tempo, tínhamos que nos virar para garantir a total compatibilidade dos nossos sites em diversos browsers. Os principais eram o IE5, IE6, Firefox e Opera. Era uma época que &amp;#8211; como no começo da bolha &amp;#8211; estava tudo acontecendo ao mesmo tempo. Os Padrões Web estavam virando moda, os browsers, pelo menos os mais inteligentes, estavam se virando para suportar os Padrões, e os usuários ficando mais espertos e ativos na internet. Tudo era muito passível de erros de compatibilidade e renderização.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Metatags – Breve introdução de uso e teoria</title>
+      <link>http://localhost/jhonny-roger/public/metatags/</link>
+      <pubDate>Fri, 11 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/metatags/</guid>
+      <description>&lt;p&gt;Metadados são dados sobre dados. Informações sobre a própria informação. Metadados são estruturas de informações que descrevem características de uma fonte de informação.&lt;/p&gt;
+
+&lt;p&gt;Metadados servem para ajudar seres humanos ou máquinas a localizar e descrever informações, melhorando o gerenciamento e uso destas informações.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tableless.com.br – The Wonder Years</title>
+      <link>http://localhost/jhonny-roger/public/tablelesscombr-the-wonder-years/</link>
+      <pubDate>Fri, 07 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tablelesscombr-the-wonder-years/</guid>
+      <description>&lt;p&gt;No dia primeiro de Janeiro de 2008, o Tableless.com.br faz 5 anos de idade. Por isso, uma reformulação total do site era bem vinda. Essa reformulação não será rápida e não envolve apenas a constante mudança do layout, mas também a filtragem de todo o conteúdo contido no site.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Email bom é TXT</title>
+      <link>http://localhost/jhonny-roger/public/email-bom-e-txt/</link>
+      <pubDate>Thu, 06 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/email-bom-e-txt/</guid>
+      <description>&lt;p&gt;Você é um sujeito antenado e sabe disso. Mas talvez seu chefe não saiba. Talvez seu cliente não saiba. (Talvez você mesmo não saiba.) Ou por qualquer outro motivo, você pode se ver obrigado a enviar uma newsletter em HTML. E agora, o que você faz? Chuta o pau da barraca, abre o Dreamwaver e prepara &amp;#8220;aquele&amp;#8221; layout?&lt;/p&gt;
+
+&lt;p&gt;Você ainda pode, mesmo enviando emails em HTML, se preocupar em tornar melhor a experiência de seu usuário. Vejamos:&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Informação e Formatação; As duas camadas de desenvolvimento web</title>
+      <link>http://localhost/jhonny-roger/public/informacao-e-formatacao-as-duas-camadas-de-desenvolvimento-web/</link>
+      <pubDate>Thu, 06 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/informacao-e-formatacao-as-duas-camadas-de-desenvolvimento-web/</guid>
+      <description>Se você já leu alguma coisa sobre Tableless, já deve ter percebido que nesse método nós separamos a informação da formatação.
+Para fazer a formatação do site, ou seja, para literalmente aplicarmos o design do site, nós usamos o CSS (as famosas Folhas de Estilo), que eu julgo ser a principal ferramenta do desenvolvedor para criar sites tableless. Para a apresentação da informação, você pode usar HTML ou XHTML, o que você achar mais apropriado.</description>
+    </item>
+    
+    <item>
+      <title>CSS Frameworks ou como desaprender CSS</title>
+      <link>http://localhost/jhonny-roger/public/css-frameworks-ou-como-desaprender-css/</link>
+      <pubDate>Tue, 09 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css-frameworks-ou-como-desaprender-css/</guid>
+      <description>O papo que agora está começando a rolar entre os desenvolvedores é sobre Frameworks para CSS.
+Sou totalmente contra a qualquer coisa que impeça o contato do desenvolvedor com o código. Sou avesso a qualquer tipo de interface que prometa facilitar o desenvolvimento, pelo menos de XHTML e CSS. Lembra daquele papo sobre o desenvolvedor &amp;#8220;analbético&amp;#8221; de código?
+Ainda acho que utilizar editores que suportam Snippets &amp;#8211; ou Macros, dependendo do editor &amp;#8211; são as melhores formas de se trabalhar se você quer agilidade.</description>
+    </item>
+    
+    <item>
+      <title>Fiat Uno e Peugeot 206</title>
+      <link>http://localhost/jhonny-roger/public/fiat-uno-e-peugeot-206/</link>
+      <pubDate>Fri, 07 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/fiat-uno-e-peugeot-206/</guid>
+      <description>Não preciso dizer que os dois carros são totalmente diferentes. Mas, qual dos dois você teria? Me diga&amp;#8230; Se você pudesse escolher, você ficaria com qual dos dois?
+Acredito que 206 será a resposta mais dita para essa pergunta.
+Queria então fazer outra pergunta: Porque você escolheria o 206? O Uno também não vai te levar para lá e para cá como o 206? O que te faz querer um 206 e não um Uno?</description>
+    </item>
+    
+    <item>
+      <title>O que são Media Types do CSS?</title>
+      <link>http://localhost/jhonny-roger/public/o-que-sao-media-types/</link>
+      <pubDate>Mon, 06 Feb 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-que-sao-media-types/</guid>
+      <description>O CSS foi feito para que pudéssemos dizer como o documento irá se apresentar ao usuário em diferentes meios de acesso. Seja ele na tela do seu monitor, na sua impressora, no seu PDA, no seu sintetizador de voz, celular, smartphone, microondas etc e etc&amp;#8230; Não importa com qual dispositivo o usuário esteja acessando seu site, ele deve ser bem apresentado.
+O W3C criou uma forma para fazermos isso com a maior facilidade.</description>
+    </item>
+    
+    <item>
+      <title>O que é Tableless?</title>
+      <link>http://localhost/jhonny-roger/public/o-que-etableless/</link>
+      <pubDate>Tue, 09 Aug 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-que-etableless/</guid>
+      <description>A Web foi criada para ser um ambiente onde fosse possível trocar informações livremente, e que essas informações pudessem ser acessadas ao redor do planeta por qualquer pessoa. Em 1994, foi criado o W3C (World Wide Web Consortium): um consórcio internacional, onde são desenvolvidas os padrões para a web (Web Standards) tais como: HTML, CSS, XML, XSLT, entre outros.
+Naquela época, no mercado de browsers, as opções ainda eram poucas: consistiam apenas em Lynx, Mozaic e Netscape Navigator, da Netscape Communications, então liderada por James Clark.</description>
+    </item>
+    
+    <item>
+      <title>FAQ sobre Tableless</title>
+      <link>http://localhost/jhonny-roger/public/faq/</link>
+      <pubDate>Mon, 08 Aug 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/faq/</guid>
+      <description>O que são os Web Standards? Imagine se cada eletrodoméstico usasse um tipo de tomada. E ao comprar um novo eletrodoméstico, você tivesse que adaptar uma tomada nova em sua casa. Imaginou o caos que seria? Felizmente existe um PADRÃO de tomadas para todos os aparelhos domésticos. Se comprarmos um aparelho de som, e então levarmos para outra cidade, estado ou país, a tomada será a mesma e seu aparelho funcionará.</description>
+    </item>
+    
+    <item>
+      <title>Pesquisar no Google</title>
+      <link>http://localhost/jhonny-roger/public/pesquisar_no_google/</link>
+      <pubDate>Fri, 24 Sep 2004 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/pesquisar_no_google/</guid>
+      <description>O Bruno Torres fez um sisteminha muito legal. Funciona assim: Você quer saber em que posição seu site se encontra no google se procurando por alguns termos, você escreve os termos e ele te dá o ranking do seu site. Muito útil para quem está querendo acompanhar a evolução do site no google.
+Ranking do Google
+O Elcio fez um também, que pode ser acessado aqui.</description>
+    </item>
+    
+    <item>
+      <title>Construindo Sites com Padrões WEB</title>
+      <link>http://localhost/jhonny-roger/public/construindo_sites_com_padroes/</link>
+      <pubDate>Tue, 24 Jun 2003 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/construindo_sites_com_padroes/</guid>
+      <description>Uma série de artigos sobre Sites com Padrões Web que o Ronaldo M. Ferraz, está escrevendo.
+Estes artigos são ótimos para pessoas que estão começando a se interessar por Padrões da Web, e querem criar sites Tableless e responde a muitas questões freqüentes sobre o assunto. Já tem dois artigos prontos. É só conferir.
+Artigo 1 &amp;#8211; Introdução
+Artigo 2 &amp;#8211; Ferramentas</description>
+    </item>
+    
+  </channel>
+</rss>

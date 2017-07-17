@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cosme Lopes on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/cosme-lopes/</link>
+    <description>Recent content in Cosme Lopes on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 28 Jul 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/cosme-lopes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>O que é Node.js e saiba os primeiros passos</title>
+      <link>http://localhost/jhonny-roger/public/o-que-nodejs-primeiros-passos-com-node-js/</link>
+      <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-que-nodejs-primeiros-passos-com-node-js/</guid>
+      <description>O que é Node.js? Node.js é uma plataforma para desenvolvimento de aplicações server-side baseadas em rede utilizando JavaScript e o V8 JavaScript Engine, ou seja, com Node.js podemos criar uma variedade de aplicações Web utilizando apenas código em JavaScript.
+Em uma primeira análise essa informação pode não parecer tão interessante, uma vez que existem diversas outras maneiras em que esses tipos de serviços podem ser implementados. Mas se pensarmos um pouco mais sobre as demandas de aplicações na internet e o modo em que o código em JavaScript pode ser estruturado, vamos nos deparar com uma gama de novas possibilidades para desenvolvimento Web, e provavelmente nos juntar à crescente comunidade que tem adotado essa plataforma.</description>
+    </item>
+    
+    <item>
+      <title>Criando um aplicativo simples de chat com Firebase</title>
+      <link>http://localhost/jhonny-roger/public/criando-um-aplicativo-simples-de-chat-com-firebase/</link>
+      <pubDate>Thu, 17 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-um-aplicativo-simples-de-chat-com-firebase/</guid>
+      <description>Firebase é uma plataforma para desenvolvimento de aplicativos baseados em armazenamento e sincronização de dados em tempo real utilizando apenas código client-side. Utilizando o Firebase você será capaz de armazenar e sincronizar os dados da aplicação de uma maneira extremamente simples e direta, o que é extremamente conveniente quando pensamos em aplicações como chats e jogos.
+Firebase oferece integração com várias plataformas como Angular, Ember e Node.js, mas você pode simplesmente incluir a biblioteca javascript em uma página html simples e começar a desenvolver uma aplicação com transmissão de dados em tempo real.</description>
+    </item>
+    
+  </channel>
+</rss>

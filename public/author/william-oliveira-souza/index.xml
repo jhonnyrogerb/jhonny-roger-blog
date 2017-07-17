@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>William Oliveira Souza on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/william-oliveira-souza/</link>
+    <description>Recent content in William Oliveira Souza on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 23 Jul 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/william-oliveira-souza/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Trabalhe ao lado de gente boa (e seja a gente boa)</title>
+      <link>http://localhost/jhonny-roger/public/trabalhe-ao-lado-de-gente-boa-e-seja-a-gente-boa/</link>
+      <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/trabalhe-ao-lado-de-gente-boa-e-seja-a-gente-boa/</guid>
+      <description>&lt;p&gt;Comecei na área de Desenvolvimento um pouco atrasado comparado aos meus companheiros de serviço. Claro que já estou envolvido com informática há muito mais tempo do que desenvolvo para a Web, porém, trabalhava com a área de infraestrutura. Hoje, depois de algum tempo de experiência em grandes empresas, &lt;em&gt;startups&lt;/em&gt; e equipes de &lt;em&gt;freelancers&lt;/em&gt;, posso contar um pouco do que aprendi e deixar uma dica para quem quer crescer profissionalmente: &lt;strong&gt;Trabalhe ao lado de gente boa!&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

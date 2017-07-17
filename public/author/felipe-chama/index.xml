@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felipe Chama on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/felipe-chama/</link>
+    <description>Recent content in Felipe Chama on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 30 Apr 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/felipe-chama/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Foco e Produtividade. Você tem muito a ganhar com isso</title>
+      <link>http://localhost/jhonny-roger/public/foco-e-produtividade-voce-tem-muito-ganhar-com-isso/</link>
+      <pubDate>Thu, 30 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/foco-e-produtividade-voce-tem-muito-ganhar-com-isso/</guid>
+      <description>A cada dia/semana que passava não sentia que tinha evoluído muito nos estudos (recentemente JavaScript e inglês) e não achava onde estava o erro. Focar no trabalho e deixar de lado YouTube, facebook, instagram e whatsapp era um peso enorme que não conseguia realizar. E no final do dia eu me pegava pensando: o que fiz hoje? Não conseguia saber ao certo se havia aproveitado bem meu tempo.
+O jeito foi apelar para algumas ferramentas para ajudar no meu dia a dia.</description>
+    </item>
+    
+  </channel>
+</rss>

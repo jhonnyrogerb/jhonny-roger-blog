@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Campus Party on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/campus-party/</link>
+    <description>Recent content in Campus Party on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 04 Feb 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/campus-party/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cobertura Campus Party Brasil 2014 – Parte 2</title>
+      <link>http://localhost/jhonny-roger/public/cobertura-campus-party-brasil-2014-parte-2/</link>
+      <pubDate>Tue, 04 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/cobertura-campus-party-brasil-2014-parte-2/</guid>
+      <description>Continuando com a cobertura da Campus Party Brasil 2014 (CPBr7), trago os destaques do segundo dia de palestras (29&amp;frasl;01). A experiência com a Campus Party é algo tão imersivo que sequer havia conseguido realizar a cobertura dos dias restantes, mas vamos lá!
+A nova geração de smartphones com Firefox OS André Garzia, da Comunidade Mozilla Brasil, apresentou as vantagens e os primeiros passos para construir aplicativos para o Firefox OS, o sistema operacional da Mozilla para dispositivos móveis (por enquanto, apenas para smartphones) desenvolvido com tecnologias web.</description>
+    </item>
+    
+    <item>
+      <title>Cobertura Campus Party Brasil 2014 – Parte 1</title>
+      <link>http://localhost/jhonny-roger/public/campus-party-brasil-2014-primeiro-dia/</link>
+      <pubDate>Thu, 30 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/campus-party-brasil-2014-primeiro-dia/</guid>
+      <description>Para quem não conhece a Campus Party, este é um dos maiores eventos de tecnologia do mundo, ocorrendo em diversos países anualmente. No Brasil, já está em sua sétima edição e somos os únicos a terem duas edições anuais da CPBr (sigla oficial do evento): uma em São Paulo, no início do ano e outra em Recife – PE, no meio do ano, denominada CPRecife.
+Este ano, estou cobrindo a Campus Party Brasil pelo Tableless e trago um resumo das palestras que assisti.</description>
+    </item>
+    
+  </channel>
+</rss>

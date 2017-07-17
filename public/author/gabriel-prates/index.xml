@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gabriel Prates on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/gabriel-prates/</link>
+    <description>Recent content in Gabriel Prates on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 02 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/gabriel-prates/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Atribuição múltipla com Destruturing Assignment</title>
+      <link>http://localhost/jhonny-roger/public/atribuicao-multipla-com-destruturing-assignment/</link>
+      <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/atribuicao-multipla-com-destruturing-assignment/</guid>
+      <description>Uma coisa que me chamou muita a atenção na linguagem Go foi a possibilidade de retornos múltiplos e, até mesmo, de tipos diferentes. Recentemente, vi que agora, na era pós ES6, podemos fazer algo parecido com JavaScript.
+Vamos supor que precisamos tratar um nome, e exibi-lo como referência do determinado autor. Poderíamos fazer assim:
+const ucFirst = (str) =&amp;gt; str.charAt(0).toUpperCase() + str.substr(1); function nomeAutor(nome) { let nomes = nome.split(&#39; &#39;); let ultimoNome = nomes.</description>
+    </item>
+    
+    <item>
+      <title>Conversão de tipos em JavaScript</title>
+      <link>http://localhost/jhonny-roger/public/conversao-de-tipos-em-javascript/</link>
+      <pubDate>Mon, 05 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/conversao-de-tipos-em-javascript/</guid>
+      <description>Um dia desses eu recebi um quebra-gelo no Telegram, com o seguinte:
+Number(null); // 0 null == 0; // true né?  De cara eu pensei que seria false, mas fiz questão de rodar no console e ver no que dava. Claro que deu false. Mesmo assim, quis entender o motivo de Number(null) retornar `` e fui procurar na documentação do ECMAScript 6, ou ECMAScript 2015.
+O JavaScript, ou ECMAScript, tem um conjunto de operações abastratas que ocorrem por baixo dos panos.</description>
+    </item>
+    
+    <item>
+      <title>Bulma: framework CSS baseado em flexbox</title>
+      <link>http://localhost/jhonny-roger/public/bulma-framework-css-baseado-em-flexbox/</link>
+      <pubDate>Tue, 28 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/bulma-framework-css-baseado-em-flexbox/</guid>
+      <description>&amp;#8220;Inspirado pelo Bootstrap, o Bulma visa oferecer a todos a alegria de fazer o design do site, com a simplicidade do flexbox e a elegância de Sass.&amp;#8221; &amp;#8211; Jeremy Thomas, criador do projeto Bulma.io.
+ &amp;nbsp;
+Como o título diz, o Bulma é um framework CSS baseado na tecnologia flexbox, que já tem uma grande compatibilidade entre os navegadores. O pacote contém todos os elementos mais comuns como botões, formulários, menus, tabelas, títulos, notificações, barras de progresso e um simples sistema de grid (basta adicionar uma coluna, o resize das colunas é automático).</description>
+    </item>
+    
+  </channel>
+</rss>

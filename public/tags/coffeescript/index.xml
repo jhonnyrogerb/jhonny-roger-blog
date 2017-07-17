@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coffeescript on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/coffeescript/</link>
+    <description>Recent content in Coffeescript on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 29 May 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/coffeescript/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>JavaScript com café, parte 2</title>
+      <link>http://localhost/jhonny-roger/public/javascript-com-cafe-parte-2/</link>
+      <pubDate>Tue, 29 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/javascript-com-cafe-parte-2/</guid>
+      <description>No [artigo anterior][1] vimos as funcionalidades básicas da linguagem CoffeeScript. Falamos sobre variáveis, funções, objetos, condicionais, loops e integração com jQuery. Neste artigo, veremos algumas implementações mais avançadas, com destaque para o conceito de classes.
+Splats Uma função em CoffeeScript pode receber um ou mais parâmetros definidos em sua especificação. Através de splats (&amp;#8230;) podemos definir também parâmetros variáveis, ou seja, você pode passar quantos parâmetros quiser. Estes parâmetros serão convertidos pelo compilador CoffeeScript em um array:</description>
+    </item>
+    
+    <item>
+      <title>JavaScript com café</title>
+      <link>http://localhost/jhonny-roger/public/javascript-com-cafe/</link>
+      <pubDate>Mon, 09 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/javascript-com-cafe/</guid>
+      <description>CoffeeScript é uma tentativa de tornar JavaScript mais agradável para nós, programadores.
+Diferente dos frameworks e bibliotecas, que foram desenvolvidos como uma camada extra, o código escrito em CoffeeScript é compilado e resulta em JavaScript puro.
+A sintaxe é inspirada em linguagens como Ruby e Python (principalmente Ruby), portanto você pode esperar códigos intuitivos e limpos, sem pontos-e-vírgulas, chaves e parênteses (quase).
+Instalação &amp;amp; Comandos Não vou entrar muito em detalhes sobre a instalação da linguagem.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microsoft on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/microsoft/</link>
+    <description>Recent content in Microsoft on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 06 Dec 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/microsoft/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Um recado da MS aos trolls do IE</title>
+      <link>http://localhost/jhonny-roger/public/um-recado-da-ms-aos-trolls-do-ie/</link>
+      <pubDate>Thu, 06 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/um-recado-da-ms-aos-trolls-do-ie/</guid>
+      <description>Eu sei, pode falar, você já xingou diversas vezes o IE, até mesmo você que chama ele de Enternet Exploer. Eu também fiz isso quase que toda a minha vida profissional. Mesmo assim eu devo confessar: o Internet Explorer mudou muita coisa para melhor. Ele foi o primeiro browser a ter suporte a primeira especificação do CSS, por exemplo. Eu sei que você reclama do IE6. Mas quem vem do tempo onde o IE4, IE5 e IE5.</description>
+    </item>
+    
+    <item>
+      <title>Web Platform</title>
+      <link>http://localhost/jhonny-roger/public/web-platform/</link>
+      <pubDate>Tue, 09 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/web-platform/</guid>
+      <description>A Webplatform.org é um website dirigido por pessoas que fomentam os padrões web, criado por um grupo que inclui W3C, Adobe, Facebook, Google, HP, Microsoft, Mozilla, Nokia, Opera e outros. O site promete ser uma fonte de recursos importantes para que você, desenvolvedor front-end, tenha uma base atual e principalmente de boas práticas ao produzir seus projetos com HTML5, CSS3, Javascript e etc.
+Eles descrevem muito bem o propósito do site:</description>
+    </item>
+    
+    <item>
+      <title>Style Guide para Android</title>
+      <link>http://localhost/jhonny-roger/public/style-guide-para-android/</link>
+      <pubDate>Fri, 13 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/style-guide-para-android/</guid>
+      <description>A Wired entrevistou o Matias Duarte, o cara por trás (ui!) do planejamento de UX do Android.
+O Google lançou recentemente um guia de estilo para desenvolvedores do Android. Neste artigo eles conversam sobre como é difícil manter um sistema operacional para mobiles que pode ser instalado e portado para praticamente qualquer dispositivo. Quando um sistema tem essa flexibilidade, as chances da usabilidade e acessibilidade das aplicações e também do sistema tem grandes chances de dar carquinha.</description>
+    </item>
+    
+    <item>
+      <title>Google Apps não suportará mais IE6</title>
+      <link>http://localhost/jhonny-roger/public/google-apps-nao-suportara-mais-ie6/</link>
+      <pubDate>Tue, 02 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/google-apps-nao-suportara-mais-ie6/</guid>
+      <description>Recebi hoje um email do Google explicando que em 2010 eles irão deixar de suportar o IE6. Vitória!
+Contar com o IE6 na cartilha de suporte é subutilizar o HTML5 e JavaScript. Aqui mesmo na Visie, temos projetos que o HTML5 e CSS3 seriam a resposta, mas ainda não podemos utilizar por causa do IE6, IE7 e em alguns casos o IE8.
+Deixar de suportar o IE6 é questão de sobrevivência.</description>
+    </item>
+    
+  </channel>
+</rss>

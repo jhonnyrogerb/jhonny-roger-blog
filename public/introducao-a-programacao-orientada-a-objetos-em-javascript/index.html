@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245847">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>Para quem já programa em alguma linguagem de programação (Java, PHP, C#), com certeza já ouviu falar no conceito de orientação à objetos. Apesar do conceito abordar o mesmo assunto (encapsulamento de variáveis, atributos e métodos de uma classe), o mesmo pode ser abordado de forma diferente, dependendo da linguagem utilizada.</p>
+
+<p>Em Javascript, existem diferentes maneiras e métodos para aplicar este conceito de programação (uso de Prototypes, heranças de classe, etc), mas para entendermos melhor o conceito de orientação a objetos, vamos criar uma classe bem simples para mostrar como o conceito pode ser aplicado.</p>
+
+<p>Na maioria das linguagens de programação, a conotação de classe e função (ou método), se diferencia como <code>classe NomeDaClasse {}</code> e <code>function nomeDaFuncao(){}</code>, geralmente utilizando-se do padrão <a title="Padrão CamelCase" href="http://pt.wikipedia.org/wiki/CamelCase" target="_blank">CamelCase</a>.</p>
+
+<p>Em Javascript, tanto classes como métodos utilizam a conotação <strong>function</strong> (<code>function NomeDaClasse(){}</code> e <code>function nomeDaFuncao(){}</code>).</p>
+
+<h2 id="criando-a-classe">Criando a Classe</h2>
+
+<p>Vamos criar uma classe simples chamada <strong>&#8220;Aluno&#8221;</strong>, onde vamos registrar algumas informações como o nome do aluno, a idade e o curso.</p>
+
+<pre class="lang-javascript">function Aluno () {
+ var nome;
+ var idade;
+ var curso;
+}
+</pre>
+
+<p>Logo abaixo das declarações das variáveis da classe, vamos criar alguns métodos para &#8220;setar&#8221; e &#8220;pegar&#8221; as variáveis:</p>
+
+<pre class="lang-javascript">this.setNome = function (vNome) {
+    this.nome = vNome;
+  }
+
+  this.setIdade = function (vIdade) {
+    this.idade = vIdade;
+  }
+
+  this.setCurso = function (vCurso) {
+    this.curso = vCurso;
+  }
+
+  this.getNome = function () {
+    return this.nome;
+  }
+
+  this.getIdade = function () {
+    return this.idade;
+  }
+
+  this.getCurso = function () {
+    return this.curso;
+  }
+</pre>
+
+<p>Verifique que utilizamos o &#8220;<strong>this</strong>&#8221; para referenciarmos objetos/variáveis da própria classe, já os parâmetros em cada método &#8220;set&#8221;, refere-se apenas ao parâmetro passado ao método para atribuição da variável.</p>
+
+<p>Por último, vamos criar um método para mostrar os parâmetros que usamos em nossas variáveis:</p>
+
+<pre class="lang-javascript">this.mostraDados = function () {
+    alert("Nome do aluno: " + this.nome + "\nIdade: " + this.idade + "\nCurso: " + this.curso);
+  }
+</pre>
+
+<p>Com a nossa classe pronta, agora podemos criar um novo objeto, instanciando a classe para usarmos seus métodos:</p>
+
+<pre class="lang-javascript">var Aluno = new Aluno();
+
+Aluno.setNome("Henrique");
+Aluno.setIdade("25");
+Aluno.setCurso("Introdução à programação orientada a objetos em Javascript");
+Aluno.mostraDados();
+</pre>
+
+<p>Aqui está um <a title="Exemplo Javascript OO" href="http://jsfiddle.net/hmschreiner/d2x7qgsd/" target="_blank">exemplo</a> de nossa classe funcionando. Coloque seus próprios dados e veja o resultado.</p>
+
+<p>A nossa classe completa ficou assim:</p>
+
+<pre class="lang-javascript">function Aluno () {
+ var nome;
+ var idade;
+ var curso;
+
+  this.setNome = function (vNome) {
+    this.nome = vNome;
+  }
+
+  this.setIdade = function (vIdade) {
+    this.idade = vIdade;
+  }
+
+  this.setCurso = function (vCurso) {
+    this.curso = vCurso;
+  }
+
+  this.getNome = function () {
+    return this.nome;
+  }
+
+  this.getIdade = function () {
+    return this.idade;
+  }
+
+  this.getCurso = function () {
+    return this.curso;
+  }
+
+  this.mostraDados = function () {
+    alert("Nome do aluno: " + this.nome + "\nIdade: " + this.idade + "\nCurso: " + this.curso);
+  }
+}
+</pre>
+
+<p>Espero que este artigo ajude a entender o princípio de orientação à objetos em javascript para quem está começando e quer ter uma noção de como começar.</p>
+
+<p><strong>Não deixe de comentar e deixar suas opiniões e dúvidas.</strong></p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/indo-alem-no-react-native//?utm_source=tablelessRelatedLin">Indo além no Mundo React-Native</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/seu-primeiro-bot-para-o-telegram//?utm_source=tablelessRelatedLin">Seu primeiro bot para o Telegram</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/paginas_acessiveis_hatemile//?utm_source=tablelessRelatedLin">Páginas acessíveis com o HaTeMiLe</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245848"></script>

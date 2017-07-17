@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ui on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/ui/</link>
+    <description>Recent content in Ui on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 13 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/ui/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>O futuro das interfaces: Chatbots</title>
+      <link>http://localhost/jhonny-roger/public/o-futuro-das-interfaces-chatbots/</link>
+      <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-futuro-das-interfaces-chatbots/</guid>
+      <description>Estamos acostumados a interagir diariamente com interfaces gráficas, seja no computador, celular, tablet, smart tv, etc. Naturalmente incorporamos a utilização dessas interfaces para obter nossos objetivos no dispositivo em questão, seja fazer uma busca no google, ver uma página no Facebook, ler um artigo em um portal de notícias ou escolher um filme no Netflix.
+Podemos não perceber, mas quando ligamos para um call-center onde a máquina (URA — Unidade de Resposta Audível) nos pede para dizer em voz alta o que desejamos, ou o número correspondente ao que queremos, também estamos interagindo com uma interface de voz para atingir nosso propósito.</description>
+    </item>
+    
+    <item>
+      <title>Tendências Web 2015 para desenvolvedores</title>
+      <link>http://localhost/jhonny-roger/public/tendencias-web-2015-para-desenvolvedores/</link>
+      <pubDate>Thu, 09 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tendencias-web-2015-para-desenvolvedores/</guid>
+      <description>O mundo dos desenvolvedores web está cada vez mais inovador e fantástico. Em 2015 teremos ferramentas mais qualificadas e conceitos que nos ajudarão na jornada de desenvolver um material super satisfatório. Pois não trará vantagens somente para nossos clientes, mas também nos poupará tempo, e para quem trabalha nessa área sabe que tempo é MUITO PRECIOSO.
+FLAT DESIGN Sites com sombras, diversas fontes e cores para ressaltar o realismo da página ficou no passado, agora o que manda é a simplicidade.</description>
+    </item>
+    
+  </channel>
+</rss>

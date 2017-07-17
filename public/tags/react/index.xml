@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>React on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/react/</link>
+    <description>Recent content in React on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 17 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Criando a sua primeira aplicação web com React</title>
+      <link>http://localhost/jhonny-roger/public/criando-sua-primeira-aplicacao-web-com-react/</link>
+      <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-sua-primeira-aplicacao-web-com-react/</guid>
+      <description>Você já deve ter ouvido falar do React, a biblioteca JS mais popular da atualidade, usado por várias empresas grandes como Facebook, Airbnb e Twitter. A ideia desse artigo é demonstrar a criação de uma aplicação simples, que use as principais partes do React. Neste tutorial nós iremos ver:
+ Componentes Componentes puros/funcionais O uso do state vs props  Todos os exemplos deste tutorial serão escritos em ES6. Se você não sabe ES6 leia esse artigo antes.</description>
+    </item>
+    
+    <item>
+      <title>React Native: Construa aplicações móveis nativas com JavaScript</title>
+      <link>http://localhost/jhonny-roger/public/react-native-construa-aplicacoes-moveis-nativas-com-javascript/</link>
+      <pubDate>Tue, 05 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/react-native-construa-aplicacoes-moveis-nativas-com-javascript/</guid>
+      <description>Introdução O React Native é um projeto desenvolvido pelos engenheiros do Facebook e que consiste em uma série de ferramentas que viabilizam a criação de aplicações móveis nativas para a plataforma iOS e Android, utilizando o que há de mais moderno no desenvolvimento Front-end &amp;#8211; mirando no futuro. É o estado da arte no que se refere ao desenvolvimento mobile baseado em JavaScript.
+O stack do React Native é poderoso, pois nos permite utilizar ECMAScript 6, CSS Flexbox, JSX, diversos pacotes do NPM e muito mais.</description>
+    </item>
+    
+    <item>
+      <title>Introdução ao Redux</title>
+      <link>http://localhost/jhonny-roger/public/bem-vindo-ao-redux/</link>
+      <pubDate>Mon, 04 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/bem-vindo-ao-redux/</guid>
+      <description>Introdução Redux é uma maneira de pensar o desenvolvimento de aplicações criada pelo @dan_abramov que teve como principio optimizar a ideia do Flux. Ela foi criada para tentar optimizar alguns obstáculos que o Flux começou a enfrentar, e também veio para simplificar a implementação do mesmo. Inspirada em conceitos da linguagem funcional Elm, e de algumas bibliotecas JS como o Immutable.js, o Baobab, o RxJs e o próprio Flux, o Redux veio com alguns paradigmas interessantes e um pouco diferenciados do Flux.</description>
+    </item>
+    
+    <item>
+      <title>Introdução ao webpack</title>
+      <link>http://localhost/jhonny-roger/public/introducao-ao-webpack/</link>
+      <pubDate>Mon, 23 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-ao-webpack/</guid>
+      <description>O que é? (Onde vivem? O que comem?) webpack (com &amp;#8220;w&amp;#8221; minúsculo, respeitando a grafia do site oficial) é um empacotador de código para projetos web, como o browserify. O que ele se propõe a fazer de diferente é focar em módulos da sua aplicação. Nem sempre ter todo e qualquer JavaScript/CSS do seu projeto num único arquivo é bom, por isso o webpack tem a ideia de code splitting, onde você modulariza partes reaproveitáveis do seu projeto, facilitando o desenvolvimento independente, por exemplo, ter uma equipe trabalhando em um módulo X e outra num módulo Y, mas ambos de um mesmo projeto.</description>
+    </item>
+    
+    <item>
+      <title>React: JavaScript reativo</title>
+      <link>http://localhost/jhonny-roger/public/react-javascript-reativo/</link>
+      <pubDate>Tue, 17 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/react-javascript-reativo/</guid>
+      <description>Uma das palestras que chamou minha atenção na BrazilJS desse ano foi a de Stoyan Stefanov, autor do clássico JavaScript Patterns. Stoyan mostrou a biblioteca React, desenvolvida pelo pessoal do Facebook/Instagram.
+Apesar de não ser um palestrante muito carismático, o código mostrado por Stoyan me deixou com a pulga atrás da orelha por possuir uma sintaxe para lá de esquisita e por fugir um pouco da abordagem mais conservadora adotada por bibliotecas e frameworks do mercado.</description>
+    </item>
+    
+  </channel>
+</rss>

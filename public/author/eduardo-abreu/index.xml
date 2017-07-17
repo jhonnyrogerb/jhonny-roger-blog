@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eduardo Abreu on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/eduardo-abreu/</link>
+    <description>Recent content in Eduardo Abreu on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 19 Feb 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/eduardo-abreu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Novidade PHP 7 – Operador Null Coalesce</title>
+      <link>http://localhost/jhonny-roger/public/novidade-php-7-operador-null-coalesce/</link>
+      <pubDate>Fri, 19 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/novidade-php-7-operador-null-coalesce/</guid>
+      <description>Estou começando a estudar as features do PHP 7 e paralelamente irei escrever sobre elas. A primeira feature que vou falar é sobre o operador Null Coalescing.
+Este operador já existia em outras linguagens, como C# e Pearl. Eu achei muito interessante como ele melhora a legibilidade do código na checagem de variáveis.
+A lógica do operador é a seguinte: retornar o primeiro valor que exista e não seja nulo dentre os valores passados.</description>
+    </item>
+    
+    <item>
+      <title>Instalando Laravel 5.2</title>
+      <link>http://localhost/jhonny-roger/public/instalando-laravel-5-2/</link>
+      <pubDate>Wed, 13 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/instalando-laravel-5-2/</guid>
+      <description>Neste artigo irei demonstrar como instalar e começar a utilizar o Laravel 5.2, framework que vem ganhando visibilidade no mercado.
+O que iremos utilizar: Composer   Requisitos do servidor: PHP versão maior ou igual a 5.5.9;  OpenSSL PHP Extension;  PDO PHP Extension;  Mbstring PHP Extension;  Tokenizer PHP Extension;   Instalando o Composer Na pasta onde localiza-se a aplicação, abra o terminal e digite: #Caso tenha o Curl instalado curl -s https://getcomposer.</description>
+    </item>
+    
+    <item>
+      <title>Formulário sem Model no CakePHP 3.x</title>
+      <link>http://localhost/jhonny-roger/public/formulario-sem-model-no-cakephp-3-x/</link>
+      <pubDate>Tue, 16 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/formulario-sem-model-no-cakephp-3-x/</guid>
+      <description>Requisitos do artigos:
+&amp;#8211; Ter o CakePHP 3 instalado ( Artigo de como instalar o Cakephp 3.x)
+O que aprenderemos:
+ Como trabalhar com formulários que não necessitam de um Model. Criar uma página de contato.  Formulários Na maioria das vezes, trabalhamos com formulários relacionados a um Model para persistir dados. Outras vezes precisamos validar os dados de um formulário onde não há persistência, como é no caso de um Formulário de Contato.</description>
+    </item>
+    
+    <item>
+      <title>Instalando o CAKEPHP 3.0 via Composer</title>
+      <link>http://localhost/jhonny-roger/public/instalando-o-cakephp-3-0-via-composer/</link>
+      <pubDate>Sun, 07 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/instalando-o-cakephp-3-0-via-composer/</guid>
+      <description>Requisitos do tutorial:
+ PHP instalado e configurado Ambiente Linux  No dia 22/03/2015 foi disponibilizado para download no site do CakePHP a versão 3.0 do framework para PHP CakePHP. Já utilizamos a versão 2.x em projetos aqui na empresa e tivemos bons resultados.
+Com o lançamento desta nova versão, muita coisa mudou: um novo ORM foi lançado; o uso de namespaces foi adotado; entre outras features que iremos abordar em outras publicações.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Survey on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/survey/</link>
+    <description>Recent content in Survey on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 25 Nov 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/survey/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Resultados do Survey 2013</title>
+      <link>http://localhost/jhonny-roger/public/resultados-survey-2013/</link>
+      <pubDate>Mon, 25 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/resultados-survey-2013/</guid>
+      <description>Eu sei, eu sei&amp;#8230; me desculpe. Demorei para liberar os resultados. Demorei por vários motivos. Mas vamos ao que importa. 😉
+Como muitos já sabem, tive a vontade de entender melhor o mercado de front-end nacional. Queria saber quanto a galera está ganhando, quais suas perspectivas sobre o trabalho, sobre o mercado, onde eles arranjam conhecimento etc&amp;#8230; Por isso tentei promover um survey, nacional, de front-end. Nesse survey os devs poderiam responder às perguntas sobre diversos assuntos relacionados a vida profissional e também seu conhecimento técnico.</description>
+    </item>
+    
+    <item>
+      <title>Survey do mercado web nacional</title>
+      <link>http://localhost/jhonny-roger/public/survey-do-desenvolvimento-web-nacional/</link>
+      <pubDate>Wed, 19 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/survey-do-desenvolvimento-web-nacional/</guid>
+      <description>Muitos desenvolvedores me perguntam como está o mercado em diversas cidades do país. Uns querem ir pra São Paulo. Outros querem sair de lá. E com isso outras perguntas surgem, como por exemplo: qual a média salarial nacional? Qual a faixa etária dos profissionais? Será que os profissionais de web se sentem satisfeitos na empresa em que trabalham? Quantos deles já foram freelancers? Qual a média do valor hora dos freelancers?</description>
+    </item>
+    
+  </channel>
+</rss>

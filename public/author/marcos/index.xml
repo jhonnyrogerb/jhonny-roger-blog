@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marcos on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/marcos/</link>
+    <description>Recent content in Marcos on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 17 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/marcos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SEO substitui o Marketing Patrocinado?</title>
+      <link>http://localhost/jhonny-roger/public/seo-substitui-o-marketing-patrocinado/</link>
+      <pubDate>Sun, 17 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/seo-substitui-o-marketing-patrocinado/</guid>
+      <description>Recentemente participei de uma discussão onde o tema era: É possível substituir campanhas patrocinadas e trabalhar apenas na rede Orgânica?
+Deixando as coisas um pouco mais claras:
+Busca Orgânica &amp;#8211; Você não paga por qualquer interação que receba de uma pesquisa, aqui você tem o potencial de ser localizado por seu publico, de maneira muito mais efetiva. Segundo a dados da agência SEO 33AMD, buscas orgânicas tem métricas comportamentais até 80% maior que comparado as buscas patrocinadas.</description>
+    </item>
+    
+  </channel>
+</rss>

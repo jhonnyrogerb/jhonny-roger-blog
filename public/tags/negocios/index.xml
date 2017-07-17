@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Negocios on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/negocios/</link>
+    <description>Recent content in Negocios on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 23 Jul 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/negocios/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>9 dicas para novos empreendedores</title>
+      <link>http://localhost/jhonny-roger/public/9-dicas-para-novos-empreendedores/</link>
+      <pubDate>Wed, 23 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/9-dicas-para-novos-empreendedores/</guid>
+      <description>Quem trabalha com tecnologia com certeza já pensou em entrar para esse vasto mercado com seu próprio produto ou serviço, na tentativa de gerar valor para uma nova ideia ou uma empresa.
+Mas quando o assunto é montar seu próprio negócio, surgem muitas duvidas por onde começar e quais seriam os passos a serem dados para que esse objetivo se torne realidade.
+Pra quem se empenha em fazer o dever de casa, é possível criar e manter uma empresa saudável e competitiva no mercado, principalmente se tratando de uma empresa de tecnologia, área tão visada e explorada atualmente.</description>
+    </item>
+    
+    <item>
+      <title>Anotações soltas sobre como vender e comprar na internet (por um leigo)</title>
+      <link>http://localhost/jhonny-roger/public/anotacoes-soltas-sobre-como-vender-e-comprar-na-internet/</link>
+      <pubDate>Mon, 14 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/anotacoes-soltas-sobre-como-vender-e-comprar-na-internet/</guid>
+      <description>&lt;p&gt;Você se conhece de verdade? Quando você compra alguma coisa, compra porque? Todo mundo diz que a ação de comprar é algo emocional. E por ser uma coisa emocional, fica mais difícil encontrarmos o real motivo pelo qual a pessoa compra ou deixa de comprar algo.&lt;/p&gt;
+
+&lt;p&gt;A Visie está vendendo um &lt;a href=&#34;http://visie.com.br/pdf&#34;&gt;PDF sobre Produtividade&lt;/a&gt;. E com essa experiência pude tirar algumas lições. A principal delas é que algo digital ainda não substitui algo físico. O preço do PDF é bem parecido com o preço de alguns livros impressos. O conteúdo com certeza é o melhor que você encontrar sobre o assunto (jabá), então porque ainda encontro pessoas que não tem coragem de comprá-lo?&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

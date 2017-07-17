@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Everton De Paula on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/everton-de-paula/</link>
+    <description>Recent content in Everton De Paula on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 24 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/everton-de-paula/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anotações sobre Progressive Web Apps</title>
+      <link>http://localhost/jhonny-roger/public/anotacoes-sobre-progressive-web-apps/</link>
+      <pubDate>Tue, 24 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/anotacoes-sobre-progressive-web-apps/</guid>
+      <description>A idéia de escrever sobre Progressive Web Apps surgiu quando estudava para apresentar uma talk sobre o conceito ao pessoal do trabalho, percebi durante o processo que existe muito conteúdo bom pela internet afora, porém senti que alguns conceitos estavam separados uns dos outros, então decidi escrever um documento agrupando todos estes dados que encontrei espalhados por aí para facilitar a compreensão e a forma que iria passar isto para minha equipe.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Entrevista Usuário on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/entrevista-usu%C3%A1rio/</link>
+    <description>Recent content in Entrevista Usuário on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 23 Dec 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/entrevista-usu%C3%A1rio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reação é melhor que previsão</title>
+      <link>http://localhost/jhonny-roger/public/reacao-e-melhor-que-previsao/</link>
+      <pubDate>Fri, 23 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/reacao-e-melhor-que-previsao/</guid>
+      <description>Entender o usuário é algo difícil. Você pode perceber isso facilmente comparando a sua forma de usar algum serviço de internet, digamos o Facebook, com qualquer outra pessoa ao seu redor. Provavelmente você tem um costume totalmente diferente de navegar, consumir conteúdo, comentar etc. Pessoas diferentes, usam de formas diferentes um mesmo produto e isso é totalmente normal. É por isso que tentar prever cenários para desenvolver um produto para internet é algo complicado.</description>
+    </item>
+    
+  </channel>
+</rss>

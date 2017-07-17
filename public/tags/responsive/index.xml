@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Responsive on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/responsive/</link>
+    <description>Recent content in Responsive on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 09 Apr 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/responsive/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tendências Web 2015 para desenvolvedores</title>
+      <link>http://localhost/jhonny-roger/public/tendencias-web-2015-para-desenvolvedores/</link>
+      <pubDate>Thu, 09 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tendencias-web-2015-para-desenvolvedores/</guid>
+      <description>O mundo dos desenvolvedores web está cada vez mais inovador e fantástico. Em 2015 teremos ferramentas mais qualificadas e conceitos que nos ajudarão na jornada de desenvolver um material super satisfatório. Pois não trará vantagens somente para nossos clientes, mas também nos poupará tempo, e para quem trabalha nessa área sabe que tempo é MUITO PRECIOSO.
+FLAT DESIGN Sites com sombras, diversas fontes e cores para ressaltar o realismo da página ficou no passado, agora o que manda é a simplicidade.</description>
+    </item>
+    
+    <item>
+      <title>Simples modal com CSS responsivo</title>
+      <link>http://localhost/jhonny-roger/public/simples-modal-com-css-responsivo/</link>
+      <pubDate>Wed, 21 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/simples-modal-com-css-responsivo/</guid>
+      <description>Continuando com os artigos, vamos utilizar novamente os seletores de css para exibir nosso modal.
+Se você chegou aqui e não viu os posts anteriores, para conhecer a estrutura inicial acesse os links:
+Header responsivo somente com css
+Destaques responsivos
+De uma maneira bem simples veja como preparar seu html e css.
+O LABEL Com os destaques responsivos, vamos adicionar abaixo da descrição um label que terá a função de marcar o checkbox e por css iremos exibir o modal.</description>
+    </item>
+    
+    <item>
+      <title>Header responsivo somente com css</title>
+      <link>http://localhost/jhonny-roger/public/header-responsivo-somente-com-css/</link>
+      <pubDate>Mon, 08 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/header-responsivo-somente-com-css/</guid>
+      <description>A cada novo projeto queremos alcançar o máximo de usuários, não importa se o dispositivo seja grande ou pequeno, tem que funcionar.
+Com uma abordagem simples e rápida, esse tutorial vai te fazer pensar antes de querer usar o bootstrap só para ter o menu responsivo, claro que ele tem suas vantagens mas procuro sempre desenvolver do zero.
+Estarei criando uma serie de tutoriais abordando o assunto e espero que gostem do meu primeiro artigo.</description>
+    </item>
+    
+    <item>
+      <title>Sobre desenvolvimento multi-device</title>
+      <link>http://localhost/jhonny-roger/public/sobre-desenvolvimento-multi-device/</link>
+      <pubDate>Mon, 30 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sobre-desenvolvimento-multi-device/</guid>
+      <description>Hoje existem uma série de dispositivos misturados em pelo menos três categorias que conhecemos: smartphones, tablets e desktops. Mas onde começa um e termina outro? Um smartphone de seis ou sete polegadas é um tablet? Se você acha que não existem smartphones deste tamanho, pesquise sobre o Fonepad da Asus para ter um exemplo. Dividir os aparelhos pelo tamanho da tela ou por features já não é mais tão seguro como antes.</description>
+    </item>
+    
+    <item>
+      <title>RWD é fácil/difícil – Anotações Dan Mall – An Event Apart 2014</title>
+      <link>http://localhost/jhonny-roger/public/rwd-ainda-e-facildificil-anotacoes-dan-mall-event-apart-2014/</link>
+      <pubDate>Tue, 29 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/rwd-ainda-e-facildificil-anotacoes-dan-mall-event-apart-2014/</guid>
+      <description>danielmall.com  Henry Ford moveu as pessoas que cuidavam da montagem do motor para mais perto umas das outras, assim ele reduziu custos e usou poucos trabalhadores, mais bem preparados e bem pagos, para fazer bem as coisas. Waterfall (fluxo linear) é ruim. Não é paralelo. É muito engessado. Muitas empresas tem equipes no modelo de montagem em linha. Um processo típico waterfall consistem em pequenas partes, isoladas: você finaliza uma tarefa e corre para próxima.</description>
+    </item>
+    
+    <item>
+      <title>Turbinando as Media Queries</title>
+      <link>http://localhost/jhonny-roger/public/turbinando-media-queries/</link>
+      <pubDate>Thu, 12 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/turbinando-media-queries/</guid>
+      <description>Media Queries são uma das ferramenta mais importante do CSS pra quem se preocupa com Web Design Responsivo. Com uma ajudinha dos pré-processadores as media queries podem ficar ainda melhores. Neste artigo vamos turbinar as Media Queries usando um pouco das opções que o SASS nos oferece para ajudar na organização, manutenção e garantir legibilidade ao nosso código.
+Nota: os exemplos deste post serão todos em SASS com a sintaxe do .</description>
+    </item>
+    
+    <item>
+      <title>Como testar design responsivo</title>
+      <link>http://localhost/jhonny-roger/public/como-testar-design-responsivo/</link>
+      <pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/como-testar-design-responsivo/</guid>
+      <description>Você já sabe como criar layouts e desenvolver um site responsivo. Na verdade seu projeto já está quase pronto. A última etapa é testar o funcionamento! Existem diversas maneira de garantir a efetividade do layout. A primeira delas, e mais óbvia, é testando ao vivo em diversos dispositivos. Em um mundo ideal você deveria testar o seu layout na maior quantidade de aparelhos, browsers e sistemas operacionais possíveis! Alias, você pode até ser fanático por isto e incomodar todo amigo que ver com um celular diferente com um &amp;#8220;posso testar uma coisa rapidinho?</description>
+    </item>
+    
+    <item>
+      <title>Padrões Complexos de Navegação no Design Responsivo</title>
+      <link>http://localhost/jhonny-roger/public/padroes-complexos-de-navegacao-no-design-responsivo/</link>
+      <pubDate>Fri, 28 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/padroes-complexos-de-navegacao-no-design-responsivo/</guid>
+      <description>A pergunta que mais recebo desde que postei meu artigo sobre Modelos responsivos de navegação é: Como lidar com uma navegação complexa no design responsivo?
+Ótima pergunta, mas antes de entrar nos pormenores, eu vos peço: Use o celular como uma desculpa para revisitar sua navegação. Observe suas análises. Quais os pontos chave da sua experiência? Onde as pessoas passam a maior parte do tempo? Você realmente precisa da sua &amp;#8220;política de privacidade&amp;#8221; na navegação principal?</description>
+    </item>
+    
+    <item>
+      <title>E-mail Newsletter Responsivo</title>
+      <link>http://localhost/jhonny-roger/public/e-mail-newsletter-responsivo/</link>
+      <pubDate>Thu, 03 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/e-mail-newsletter-responsivo/</guid>
+      <description>Design Responsivo Um assunto que ganhou muita evidência este ano no mundo do design digital é o desenvolvimento de sites responsivos. O termo, emprestado da arquitetura, surgiu em um post do blog A List Apart. Em resumo, são técnicas de design e CSS que, visando a usabilidade e a acessibilidade do conteúdo, fazem com que um site se adapte ao dispositivo do usuário. Parece mágico, mas na verdade é uma combinação de folhas de estilo engenhosas, matemática e um pouco de bom senso.</description>
+    </item>
+    
+    <item>
+      <title>Drops 11 – Adaptação e Otimização</title>
+      <link>http://localhost/jhonny-roger/public/drops-11-adaptacao-e-otimizacao/</link>
+      <pubDate>Wed, 04 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/drops-11-adaptacao-e-otimizacao/</guid>
+      <description>Aproveitando o embalo do artigo, resolvi fazer um drops rápido sobre o assunto, falando mais sobre produzir sites responsivos ou específicos para determinados aparelhos. Falei mais sobre suas vantagens e desvantagens.</description>
+    </item>
+    
+    <item>
+      <title>Responsive Web Design – Adaptação vs Otimização</title>
+      <link>http://localhost/jhonny-roger/public/responsive-web-design-adaptacao-vs-otimizacao/</link>
+      <pubDate>Tue, 26 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/responsive-web-design-adaptacao-vs-otimizacao/</guid>
+      <description>Uma pancada de pessoas já me perguntaram sobre qual é o melhor: criar um site responsive e adaptável ou uma versão específica para mobiles e outros dispositivos. A resposta é: depende.
+Depende. Cada situação é um caso diferente. O Responsive tem vantagens e desvantagens, assim como versões específicas. A ideia é sempre fazer a melhor expediência possível para o usuário. Isso inclui, além de design, velocidade, performance e vários outros pontos.</description>
+    </item>
+    
+  </channel>
+</rss>

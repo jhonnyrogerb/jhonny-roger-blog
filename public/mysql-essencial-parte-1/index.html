@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245841">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<h2 id="o-inicio-e-quem-usa-o-mysql">O inicio e quem usa o MySQL</h2>
+
+<p>O MySQL é um sistema relacional de gerenciamento de banco de dados de código aberto, que utiliza o SQL (Linguagem de consulta estruturada) como interface, é atualmente um dos bancos de dados mais populares na internet, mais de 10 milhões de instalações pelo mundo inteiro. Em Julho de 2013, foi considerado o segundo banco mais utilizado do mundo.</p>
+
+<p>Criado na Suécia por David Axmark, Allan Larsson e Michael &#8220;Monty&#8221; Widenius, a primeira versão surgiu em 23 de Maio de 1995. Hoje, seu desenvolvimento emprega mais de 400 profissionais no mundo inteiro. Em 2008, a MySQL AB, desenvolvedora do MySQL, foi comprada pela Sun Microsystems (que em 2009, foi comprada pela Oracle), por 1 bilhão de dólares.</p>
+
+<p>Entre alguns dos usuários mais famosos do MySQL, estão: PayPal, YouTube, Google, Walmart, NASA, Bradesco, Nokia, HP, Lufthansa, etc&#8230;</p>
+
+<h2 id="mão-na-massa">Mão na massa</h2>
+
+<p>Neste artigo, partiremos do principio que você já tem o MySQL instalado e rodando bonitinho&#8230;</p>
+
+<p>Para acessar o MySQL utilize o comando a seguir:</p>
+
+<pre class="lang-sql">mysql -u &lt;usuário&gt; -p</pre>
+
+<p>Depois desse comando, o MySQL vai te pedir a senha do usuário, obviamente, por segurança.</p>
+
+<p>Dentro do MySQL, você tem poderes para atualizar, criar e editar qualquer tabela/banco. Para acessar o help, simplesmente digite &#8216;help&#8217; no terminal e aparecerá o menu de ajuda do MySQL.</p>
+
+<p>Para ver todos os bancos criados, utilize o:</p>
+
+<pre class="lang-sql">show databases;
+</pre>
+
+<p>Para criar um banco, depois de logado no MySQL, você pode seguir o seguir o seguinte comando:</p>
+
+<pre class="lang-sql">CREATE DATABASE banco_exemplo;
+</pre>
+
+<p>E &#8216;paaaah&#8217;, seu banco foi criado com sucesso. Agora você precisa acessar este banco:</p>
+
+<pre class="lang-sql">USE banco_exemplo;
+</pre>
+
+<p>Agora, para a coisa ficar mais interessante, vamos criar uma tabela, para podermos adicionar dados nela:</p>
+
+<pre class="lang-sql">CREATE TABLE tabela_do_banco_exemplo (
+id INT(11) AUTO_INCREMENT PRIMARY KEY,
+first_name VARCHAR(30) NOT NULL,
+last_name VARCHAR(30) NOT NULL,
+mail VARCHAR(100) NOT NULL,
+mobile VARCHAR(100),
+created_at TIMESTAMP
+);
+</pre>
+
+<p>No comando acima, criamos uma tabela dentro o seu banco. Nessa tabela teremos 6 colunas:</p>
+
+<ul>
+<li>ID &#8211; um número inteiro de até 11 caracteres que se auto incrementa, ou seja, nunca se repete, se já existir o 1, ele coloca o 2 e que é a chave principal da nossa tabela.</li>
+<li>first_name &#8211; um campo que aceita numeros, letras e caracteres especiais, com até 30 caracteres e não pode ser NULL.</li>
+<li>last_name &#8211; um campo que aceita numeros, letras e caracteres especiais, com até 30 caracteres e não pode ser NULL.</li>
+<li>mail &#8211; um campo que aceita numeros, letras e caracteres especiais, com até 100 caracteres e não pode ser NULL.</li>
+<li>mobile &#8211; um campo que aceita numeros, letras e caracteres especiais, com até 100 caracteres.</li>
+<li>created_at &#8211; TIMESTAMP preenche a coluna com o exato horário da inserção da linha na tabela, ou seja, o momento em que a linha foi inserida.</li>
+</ul>
+
+<p>Agora vamos partir para a inserção de conteúdo dentro desta tabela, a final, uma tabela sem nenhuma linha de conteúdo não tem nenhuma função. Então vamos lá:</p>
+
+<pre class="lang-sql">INSERT INTO tabela_do_banco_exemplo (first_name, last_name, mail, mobile, created_at) VALUES ('claudio', 'melo','claudio@claudiomelo.net','(11) 99999-9999', NOW());
+</pre>
+
+<p>Ao infinito e além, bom, é o seguinte, na linha acima, inserimos uma linha na tabela que criamos, o INSERT INTO, se explica por si só, né? Lembrando que não colocamos o ID pois ele se &#8220;AUTO INCREMENTA&#8221;, como setamos ao criar a nossa tabela.</p>
+
+<p>Quando especificamos as colunas que devem ser inseridas, não precisamos necessariamente respeitar a ordem que fizemos quando criamos a tabela, como podem ver no exemplo, eu inverti o mobile e o mail, como dizia na matemática, a ordem dos fatores não altera o produto. Porém, lembre-se de, quando setar o conteúdo da coluna nos VALUES, você tem que seguir a mesma ordem que declarou na lista de colunas que serão atingidas.</p>
+
+<p>Agora que já criamos um banco, já criamos uma tabela, já inserimos conteúdo dentro desta tabela, chegou o momento de buscar algum conteúdo dentro dessa tabela:</p>
+
+<pre class="lang-sql">SELECT * FROM tabela_do_banco_exemplo;
+</pre>
+
+<p>Isso vai te retornar TODAS as colunas de uma tabela, simples né? Se tiver 50 linhas na sua tabela, o select vai te retornar todas as colunas das 50 linhas. E mais uma vez, você deve estar prestes a me xingar por que quer só as colunas que precisa, mas ai eu te digo, vamos pegar somente as colunas que queremos neste momento:</p>
+
+<pre class="lang-sql">SELECT first_name FROM tabela_do_banco_exemplo;
+</pre>
+
+<p>Mais simples que isso, faça um esforço e tente entender a linha que escrevemos, esqueça o CTRL+C e CTRL+V. Pedimos ao banco um SELECT da coluna first_name, isso vai nos retornar o first_name de todas as linhas da nossa tabela.</p>
+
+<p>Nesse momento, podemos ser até um pouco mais ousados, eu diria, vamos selecionar a coluna mobile somente de linhas que tem números de telefone diferentes, ou seja, dois cadastros com números iguais de telefone, não aparecerão nessa lista:</p>
+
+<pre class="lang-sql">SELECT DISTINCT mobile FROM tabela_do_banco_exemplo;
+</pre>
+
+<p>Agora você deve estar louco para buscar duas colunas junto com o DISTINCT, então vamos nessa:</p>
+
+<pre class="lang-sql">SELECT DISTINCT mobile, first_name FROM tabela_do_banco_exemplo;
+</pre>
+
+<p>Isso vai nos retornar uma lista onde não haverá linhas que repitam o número de telefone E (preste bem a atenção neste E) o primeiro nome.</p>
+
+<p>Bom, por enquanto é só. Criticas ou sugestões é só falar nos comentários ou entrar em contato comigo, ficarei muito agradecido! Em breve teremos a parte 2 para continuar esse papo legal sobre MySQL.</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/teste-de-carga-em-apis-utilizando-artillery//?utm_source=tablelessRelatedLin">Teste de carga em APIs utilizando Artillery</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/silex-2-middlewares-101-parte-02//?utm_source=tablelessRelatedLin">Silex 2 &amp; Middlewares 101 – Parte 02</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/adicionando-ssl-no-nginx-com-o-lets-encrypt//?utm_source=tablelessRelatedLin">Adicionando SSL no NGINX com o Let’s Encrypt</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245841"></script>

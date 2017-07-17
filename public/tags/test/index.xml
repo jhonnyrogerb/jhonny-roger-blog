@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/test/</link>
+    <description>Recent content in Test on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 30 Mar 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jasmine: entendendo os matchers</title>
+      <link>http://localhost/jhonny-roger/public/jasmine-entendendo-os-matchers/</link>
+      <pubDate>Mon, 30 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/jasmine-entendendo-os-matchers/</guid>
+      <description>Uma parte legal do Jasmine e que adianta muito o nosso lado são os matchers: de um modo resumido e direto, um _matcher_ implementa uma comparação _booleana_ entre o valor atual e o valor esperado. É responsável em passar para o _framework_ se o que esperamos através do nosso teste é _verdadeiro_ ou falso. Com base nisso, o _Jasmine_ vai passar ou falhar a spec.
+toEqual Esse talvez seja o mais básico e um dos que mais iremos usar.</description>
+    </item>
+    
+  </channel>
+</rss>

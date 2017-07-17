@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rgba on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/rgba/</link>
+    <description>Recent content in Rgba on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 10 Jun 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/rgba/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sobre Cor e Webdesign</title>
+      <link>http://localhost/jhonny-roger/public/sobre-cor-e-webdesign/</link>
+      <pubDate>Mon, 10 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sobre-cor-e-webdesign/</guid>
+      <description>É possível analisar a Teoria da Cor de diversas maneiras. Podemos escolher uma abordagem física, psicológica, cultural, filosófica ou artística para entendermos as cores. Todos estes estudos são interessantes e extremamente relevantes para designers e desenvolvedores. Mas na hora de colocar a mão na massa decidir entre sistemas e organizar uma paleta de cores bacana pode parecer uma tarefa confusa até para os designers veteranos. Quais são as melhores práticas?</description>
+    </item>
+    
+    <item>
+      <title>Como usar linear-gradient em CSS de forma consciente?</title>
+      <link>http://localhost/jhonny-roger/public/como-usar-gradient-no-css-de-forma-consciente/</link>
+      <pubDate>Wed, 20 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/como-usar-gradient-no-css-de-forma-consciente/</guid>
+      <description>Vejo em diversos grupos, fóruns e blogs as pessoas recomendando diversos sites que geram automaticamente o seu linear-gradient em CSS, Eu nos últimos meses tenho criticado um pouco a recomendação dessas tecnologias, pois já está mais do que na hora de aprendermos e utilizarmos esses atributos de forma criativa.
+Desculpa Bernard, mas do que você está falando? Olá tudo bem? Meu nome é Bernard De Luna, você está no Tableless, até aí tudo bem?</description>
+    </item>
+    
+    <item>
+      <title>CSS3 – Breve introdução ao RGBA</title>
+      <link>http://localhost/jhonny-roger/public/css3-breve-introducao-a-rgba/</link>
+      <pubDate>Mon, 02 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css3-breve-introducao-a-rgba/</guid>
+      <description>Introdução ao RGB Normalmente em web trabalhamos com cores na forma de hexadecimal. É a forma mais comum e mais utilizada desde os primórdios do desenvolvimento web. Mesmo assim, há outros formatos menos comuns que funcionam sem problemas, um destes formatos é o RGB. O RGB são 3 conjuntos de números que começam no 0 e vão até 255 (0% até 100%), onde o primeiro bloco define a quantidade de vermelho (Red), o segundo bloco a quantidade de verde (Green) e o último bloco a quantidade de azul (Blue).</description>
+    </item>
+    
+  </channel>
+</rss>

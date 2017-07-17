@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245837">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>Eu não sei se você já tentou cuidar de um site durante algum tempo, mas fica a dica: dá trabalho. Aqui no Tableless temos 3 servidores na DigitalOcean: um pro Fórum rodando Discourse, um pro WordPress rodando Nginx + PHP e finalmente um para o banco MySQL. Antes estava tudo em um servidor só, mas dava muita dor de cabeça com instabilidades, upgrades, configurações de infra etc. Logo decidi separar um servidor apenas para o <a href="http://forum.tableless.com.br/">Fórum</a>. Assim, quando eu tivesse que atualizar o fórum ou fazer qualquer coisa arriscada por lá, o blog ficaria intacto e vice-versa. Com isso, uma parte do problema foi resolvido. Sobrou o WordPress.</p>
+
+<h2 id="wordpress">WordPress</h2>
+
+<p>Eu AMO o WordPress. Embora muita gente não goste, o WordPress é uma ferramenta fenomenal que resolve um caminhão de problemas quando se trata de criar websites e qualquer outra coisa que dependa de um CMS. Ele é flexível, tem uma comunidade gigante, com soluções para qualquer tipo de problema: basta fazer uma pergunta no Google e pronto, você encontra a resposta. A coisa ruim é que dependendo do site, o WordPress fica carente. Você precisa dar bastante atenção para suas atualizações, performance, configurações e tudo mais. Como ele é praticamente onipresente na web, é alvo de ataques constantes&hellip;</p>
+
+<p>Sobre a performance, você precisa passar um tempo tunando aqui e ali para ele ficar satisfatório. Não é só escolher um plugin de cache e pronto&hellip; O bom é conseguir tunar tudo o que você puder antes de partir para uma solução desesperada. Depois de algum tempo estudando e levando porrada, você passa a conhecer os meandros do WP e acaba fazendo um bom trabalho. Mas querendo ou não, você precisa de um setup básico: um servidor rodando PHP e MySQL.</p>
+
+<h2 id="custo">Custo</h2>
+
+<p>Como eu disse, aqui no Tableless, só para o Blog, tínhamos 2 servidores, um de USD$20 para o WP e outro de USD$5 para o MySQL. Isso dá uns USD$25 por mês, que dá algo em torno de R$945 por ano. Com o fórum a conta fecha em mais ou menos R$1700 por ano, só de servidor para manter o Tableless. Não, não há ajuda financeira de nenhuma empresa e eu tento compensar parte desse valor com o AdSense e com publieditoriais (posts pagos), banners e etc. No final saio no prejuízo, porque não gasto só com servidor (durante um tempão paguei do bolso algumas pessoas para escreverem para o site, além de designers para fazerem o layout, brindes etc). Logo, um dos objetivos, além de diminuir o trabalho de manutenção, é também diminuir os custos.</p>
+
+<h2 id="mudança">Mudança</h2>
+
+<p>Cansado de tanto trabalho e tanto dinheiro indo embora, faz bastante tempo que tenho pensado em passar a usar um gerador de sites estáticos para manter o Tableless. Eu gosto muito de Middleman (<a href="http://diegoeis.com/">meu blog pessoal</a> é baseado e Middleman, assim como todos os meus projetos de clientes) e então eu comecei a fazer testes com ele. Gostei bastante dos resultados e percebi que migrar do WordPress para algum gerador de site estático era uma possibilidade real. Mas por causa da correria da vida, eu adiei um tempão&hellip; Até hoje.</p>
+
+<p>Estava fofocando esses dias com o <a href="http://pothix.com/">PotHix</a> e ele me disse que havia migrado o blog dele de Middleman para um gerador estático chamado Hugo. Foi aí que eu resolvi tentar matar todo esse processo em três domingos. O resultado, é esse site que vocês estão vendo.</p>
+
+<p>Um dos problemas que me fazia adiar essa mudança, era pensar numa solução para busca. Existem várias iniciativas para buscas de conteúdo em sites estáticos por aí. No site do Hugo mesmo há uma série de sugestões, mas como eu queria algo sem muito guéri-guéri, resolvi da maneira mais simples possível: coloquei o <a href="https://duckduckgo.com/search_box">DuckDuckGo Search Box</a>. Simples e fácil. Depois posso pensar em fazer um trabalho mais bem acabado, usando alguma solução mais apropriada e principalmente mais customizável. Mas por enquanto o Duck valente dá conta do recado.</p>
+
+<h2 id="hugo">Hugo</h2>
+
+<p>O Hugo é um sistema gerador de arquivos estáticos desenvolvido com a linguagem Go. Não tenha medo, você não precisa saber Go para experimentar. O setup é muito, mas muito simples e em poucos minutos você já está testando o Hugo na sua máquina. Como é bastante diferente do Middleman, eu tive algumas dificuldades para me acostumar com a montagem do template, mas não foi nada aterrorizador, pelo contrário, o Hugo já tem algumas facilidades e as customizações são bem simples de se fazer via config.</p>
+
+<p>Eu não tenho a pretensão de mostrar agora como o Hugo funciona, isso fica para o próximo post. Mas se você se interessar, aqui está o <a href="https://gohugo.io/">site oficial</a>. Taca-lhe pau.</p>
+
+<p>Mas porque não Middleman? Embora eu tenha uma facilidade maior com Middleman por conhece-lo há mais tempo, o Hugo tem algumas facilidades interessantes, por exemplo:</p>
+
+<ul>
+<li>Migração é bico. Quando eu procurei um migrador de WP para Middleman, não encontrei nenhum migrador decente que funcionasse. O migrador do Hugo funcionou de primeira.</li>
+<li>A geração de estáticos é muito mais rápido que o Middleman. O Tableless tem mais de 1650 posts. Gerar o estático disso tudo leva menos de 2 segundos no Hugo.</li>
+<li>Boa <a href="https://gohugo.io/extras/permalinks/">gestão de permalinks</a></li>
+<li>Suporta vários tipos de frontmatters: json, toml e yaml</li>
+<li>A forma de templating usando Sections, Archetypes e Types é bastante interessante (embora eu tenha demorado para entender o conceito)</li>
+<li>O esquema de oganização e gestão de <a href="https://gohugo.io/taxonomies/overview/">Taxonomias</a> também é bem legal</li>
+<li>Suporta <a href="http://gohugo.io/extras/highlighting/">Syntax Hightlighting</a> nativamente</li>
+<li>E tem um monte de <a href="https://gohugo.io/extras/">extras</a> que talvez eu nem precise usar</li>
+</ul>
+
+<h2 id="tableless-está-mais-opensource-do-que-nunca">Tableless está mais opensource do que nunca</h2>
+
+<p>O código do Tableless em Wordpress já estava todo <a href="http://github.com/tableless/tableless">aberto no GitHub</a>, assim como essa versão estática, usando Hugo, também está <a href="http://github.com/tableless/tableless-static">aberta aqui</a> caso alguém queira ajudar.</p>
+
+<h2 id="quer-ser-autor">Quer ser autor?</h2>
+
+<p>Como não temos mais um CMS, você não vai precisar mais se cadastrar para submeter artigos. Para tanto, basta seguir as <a href="http://tableless.com.br/seja-um-autor/">instruções dessa página</a>. Agora tudo vai ser gerido via GitHub. Quer submeter um artigo? Basta abrir um Pull Request com o artigo escrito em Markdown que a gente revisa e aprova. A comunidade também poderá participar dessa revisão, o que me poupa um trabalho gigante.</p>
+
+<p>Além disso, queria agradecer aos Editores, principalmente ao <a href="http://tailomateus.github.io/">Tailo Mateus</a> por estar me ajudando nas revisões dos artigos.</p>
+
+<h2 id="o-design">O Design</h2>
+
+<p>Quero agradecer o <a href="http://www.danielsantiago.com.br/">Daniel Santiago</a>, um dos designers mais talentosos que eu já conheci, que me deu vários pitacos quando mostrei esse design para ele, além de fazer todo o design mobile do site. Claro, várias coisas eu tive que adaptar por causa do Hugo (por exemplo a Busca), mas acho que no final deu tudo certo. Valeu, <a href="http://www.danielsantiago.com.br/">Daniel</a>!</p>
+
+<p>Espero que gostem.</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/estatistica-basica-projetos-agile//?utm_source=tablelessRelatedLin">Estatística básica nas entregas de projetos agile — Moda, mediana e percentil</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/sketch43-novo-formato-arquivo//?utm_source=tablelessRelatedLin">O novo formato de arquivo do Sketch 43</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/atribuicao-multipla-com-destruturing-assignment//?utm_source=tablelessRelatedLin">Atribuição múltipla com Destruturing Assignment</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245837"></script>

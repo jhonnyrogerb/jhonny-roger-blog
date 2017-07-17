@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ruby on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/ruby/</link>
+    <description>Recent content in Ruby on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 15 Jan 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bower na prática</title>
+      <link>http://localhost/jhonny-roger/public/bower-na-pratica/</link>
+      <pubDate>Wed, 15 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/bower-na-pratica/</guid>
+      <description>A maioria das linguagens já possuem ferramentas para automatizar e facilitar esse tipo de tarefa.
+Por exemplo: Java &amp;#8211; (Maven e Ivy), Ruby &amp;#8211; (Rubygems), Python &amp;#8211; (pip), entre outras.
+No desenvolvimento front-end, uma ferramenta que vem ganhando bastante espaço nessa área é o Bower.
+Como o bower é para gerenciar componentes de front-end, pode ser adicionado em qualquer projeto, independente do seu back-end ser Java, Ruby, Python, Node, PHP, etc.</description>
+    </item>
+    
+    <item>
+      <title>Criando um blog com Octopress e Github Pages</title>
+      <link>http://localhost/jhonny-roger/public/criando-um-blog-com-octopress-e-github-pages/</link>
+      <pubDate>Thu, 19 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-um-blog-com-octopress-e-github-pages/</guid>
+      <description>Já faz pouco mais de uma semana que venho estudando o Octopress para o desenvolvimento do meu blog. Hoje vou mostrar como iniciar seu blog utilizando essa ferramenta e falar um pouco sobre como está sendo a experiência de criar um blog totalmente estático, sem a necessidade de um server-side.
+O Octopress é um framework criado por Brandon Mathis com o Jekyll, que é uma ferramenta Ruby para gerar sites estáticos a partir de templates HTML, CSS, Javascript, arquivos de configurações e markdowns.</description>
+    </item>
+    
+    <item>
+      <title>Servindo sites estáticos com Jekyll</title>
+      <link>http://localhost/jhonny-roger/public/jekyll-servindo-sites-estaticos/</link>
+      <pubDate>Mon, 11 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/jekyll-servindo-sites-estaticos/</guid>
+      <description>O Tableless produz código front-end HTML/CSS/JAVASCRIPT para vários tipos de clientes, grandes ou pequenos. Os clientes querem ao final do projeto arquivos estáticos, em uma estrutura de arquivos decente e código bem organizado e isso não é algo tão trivial assim.
+O problema O primeiro problema que temos quando iniciamos a produção de um site, é como resolver as partes de layout que são repetidas em todas as páginas do projeto, por exemplo: header, footer, sidebar e essas coisas.</description>
+    </item>
+    
+  </channel>
+</rss>

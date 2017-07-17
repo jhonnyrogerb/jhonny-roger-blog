@@ -1,0 +1,262 @@
+
+#sd-main-post
+	height: 100%
+	padding: 20px 50px
+	padding-top: 120px
+	//background: rgba(0,0,0,0.65) 
+
+	h1
+		text-align: center
+		margin-bottom: 30px
+		
+		a
+			color: #FAC200
+			font-size: 80px
+			padding: 30px
+			font-weight: bolder
+			text-decoration: none
+		
+			&:hover
+				color: #332925
+
+	.sd-main-excerpt
+		text-align: center
+		color: #332925
+		font-size: 24px
+		font-weight: bold
+
+	.sd-main-author
+		text-align: center
+		font-size: 18px
+		font-weight: bold
+		padding: 30px
+		color: #444
+
+		a
+			text-decoration: none
+			color: #FAC200
+			margin: 0 8px
+			font-weight: bolder
+			font-size: 20px
+
+
+#sd-main-list
+	display: flex
+	flex-wrap: wrap
+	margin: 5px 20px
+
+	.sd-post-figure
+		flex: 1 0 300px
+		margin: 20px
+		border-radius: 5px
+		box-shadow: 0px 0px 2px 0px rgba(51, 41, 37, .5)
+		position: relative
+		overflow: hidden
+
+		&:hover
+			box-shadow: 0px 0px 8px 0px rgba(51, 41, 37, .5)
+
+		figure
+			height: 260px
+			overflow: hidden
+			display: block
+
+			img
+				width: 100%
+
+		h1
+			font-size: 24px
+			margin: 25px 0 10px
+			font-weight: bolder
+			padding: 0 10px
+
+			a
+				text-decoration: none
+				color: #332925
+
+				&:hover
+					color: #FAC200
+		
+		.sd-btn-category
+			transform : translateY(-20px)
+			background: #332925
+			width: auto
+			display: inline-block
+			position: absolute
+			margin: 0 10px
+			right: 0
+			padding: 10px 20px
+			border-radius: 40px
+			text-decoration: none
+			color: #fac200
+			font-weight: bolder
+
+			&:hover
+				transform: scale(1.15) translateY(-20px)
+
+	.sd-main-excerpt
+		color: #795227
+		font-size: 16px
+		padding: 0 10px
+
+
+	.sd-main-author
+		font-size: 14px
+		color: #444
+		margin: 10px 0
+		padding: 10px
+
+		a
+			text-decoration: none
+			color: #FAC200
+			margin: 0 4px
+			font-weight: bolder
+			font-size: 16px
+
+			&:hover
+				color: #332925
+
+.sd-post-list
+	display: flex
+	flex-wrap: wrap
+	margin: 5px 20px
+
+
+	h1 
+		flex-basis: 100%
+		width: 100%
+		margin: 40px
+
+	.sd-post-figure
+		flex: 1 0
+		margin: 5px 10px 50px
+		width: calc(50% - 20px)
+		flex-basis: calc(50% - 20px)
+		padding: 10px
+		border-bottom: 1px solid rgba(51, 41, 37, .2)
+		position: relative
+
+		.sd-btn-category
+			transform : translateY(-10px)
+			background: #332925
+			display: inline-block
+			position: absolute
+			margin: 0 10px
+			right: 0
+			bottom: -25px
+			padding: 10px 20px
+			border-radius: 40px
+			text-decoration: none
+			color: #fac200
+			font-weight: bolder
+
+			&:hover
+				transform: scale(1.15) translateY(-10px)
+
+		header
+			width: 100%
+
+		figure
+			height: 250px
+			overflow: hidden
+
+			img
+				width: 100%
+
+		h3
+			font-size: 20px
+			font-weight: bold
+			padding: 10px
+
+			a
+				text-decoration: none
+				color: #332925
+
+				&:hover
+					color: #FAC200
+
+			.sd-main-excerpt
+				color: #795227
+				font-size: 14px
+				padding: 5px 0
+				font-weight: lighter
+
+			.sd-main-author
+				font-size: 14px
+				color: #444
+				margin-top: 10px
+
+				a
+					text-decoration: none
+					color: #FAC200
+					margin: 0 4px
+					font-weight: bolder
+					font-size: 16px
+
+					&:hover
+						color: #332925
+
+
+#sb-todos-artigos
+	width: 80%
+	text-align: center
+	margin: 80px auto
+
+	a 
+		padding: 15px 40px
+		background: #332925
+		color: #FAC200
+		text-decoration: none
+		margin: 20px auto
+		font-size: 26px
+		border-radius: 5px
+		display: inline-block
+
+	&:hover
+		transform: scale(1.1) 
+
+
+@media screen and (max-width: 768px)
+	#sd-main-post
+		padding-top: 40px
+
+		h1
+			a
+				font-size: 2.5em
+
+		.sd-main-excerpt
+			font-size: 1.2em
+			font-weight: lighter
+
+	.sd-post-list
+		margin: 30px 10px 10px
+
+		h1 
+			margin: 10px
+
+		.sd-post-figure
+			width: 100%
+			flex-basis: 100%
+
+			.sd-main-author
+				margin-bottom: 20px
+
+
+		.sd-post-figure
+			width: 100%
+			flex-basis: 100%
+			margin-left: 0 
+			margin-right: 0 
+			padding-left: 0 
+			padding-right: 0 
+
+	#sd-main-list
+		margin: 30px 10px 10px
+
+		.sd-post-figure
+			width: 100%
+			flex-basis: 100%
+			margin-left: 0 
+			margin-right: 0  
+			padding-left: 0 
+			padding-right: 0 

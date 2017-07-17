@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tableless on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/tableless/</link>
+    <description>Recent content in Tableless on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 13 Aug 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/tableless/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Criando um widget de “Artigos Populares” por numero de visualizações</title>
+      <link>http://localhost/jhonny-roger/public/criando-um-widget-de-artigos-populares-por-numero-de-visualizacoes/</link>
+      <pubDate>Thu, 13 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-um-widget-de-artigos-populares-por-numero-de-visualizacoes/</guid>
+      <description>Recentemente tive que implementar um widget de artigos populares para um cliente. Acontece que até então a única maneira que eu sabia fazer isso era ordenando os posts por número de comentários. Propus a solução ao meu cliente e o mesmo disse que queria que o mesmo fosse ordenados por número de visualizações. Bom, nunca tinha feito isso, então corri atrás de alguns artigos &amp;#8220;gringos&amp;#8221; explicando como fazer e me espantei sobre como era simples.</description>
+    </item>
+    
+    <item>
+      <title>Não seja o próximo Zeno Rocha</title>
+      <link>http://localhost/jhonny-roger/public/nao-seja-o-proximo-zeno-rocha/</link>
+      <pubDate>Mon, 27 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/nao-seja-o-proximo-zeno-rocha/</guid>
+      <description>Artigo originalmente publicado no meu blog no Medium.
+Quando montei esse título eu sabia que ia ser polêmico e sabia que haveria um burburinho nos corredores das interwebs. E sabe de uma coisa? To me lixando para que os outros falam por aí.
+Quando conversei com o Zeno horas depois de ter tido a ideia, expliquei os motivos para ele e comentamos sobre coisas que acontecem conosco por causa dessa “popularidade” na área.</description>
+    </item>
+    
+    <item>
+      <title>Elevação ou JavaScript hoisting</title>
+      <link>http://localhost/jhonny-roger/public/elevacao-ou-javascript-hoisting/</link>
+      <pubDate>Wed, 04 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/elevacao-ou-javascript-hoisting/</guid>
+      <description>Um pouco de Teoria antes da diversão. Muitas vezes, um simples princípio não compreendido, pode confundir novatos ou especialistas em JavaScript. Neste artigo, vamos tentar entender melhor um problema comum, que é mais simples do que parece.
+Declarações na frente Antigamente em linguagens como C, se usavam funções ou procedimentos para dividir um programa, mas havia um problema: as declarações deveriam ficar sempre na frente.
+Suponha que você queira usar uma função que junta palavras:</description>
+    </item>
+    
+    <item>
+      <title>Utilizando as metatags de OpenGraph</title>
+      <link>http://localhost/jhonny-roger/public/utilizando-meta-tags-facebook/</link>
+      <pubDate>Thu, 23 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/utilizando-meta-tags-facebook/</guid>
+      <description>Creio que você, usuário frenético de facebook já tenha visto algo mais ou menos assim na sua linha do tempo:
+ Facebook Share  Esse tipo de compartilhamento é devido ao uso das meta tags que o próprio facebook oferece aos desenvolvedores, as famosas metas :og ou Open Graph. Elas existem com o intuito de especificar metas no &amp;lt;head&amp;gt; para sua publicação no facebook ser a mais agradável e apresentável possível.</description>
+    </item>
+    
+    <item>
+      <title>Um 2013 cheio de propósito</title>
+      <link>http://localhost/jhonny-roger/public/um-2013-cheio-de-proposito/</link>
+      <pubDate>Mon, 31 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/um-2013-cheio-de-proposito/</guid>
+      <description>Este post é longo e não tem versão TL;DR.
+No começo falo muito sobre o que aconteceu comigo esse ano. No final falo o que quero fazer com o Tableless em 2013.
+Este é meu último post pessoal aqui no Tableless. Quero desassociar artigos pessoais com os artigos do Tableless.
+Eu tenho a tradição (na verdade tinha) de escrever um post de como foi o último ano do Tableless. É difícil eu não falar algo pessoal por que o Tableless está na minha vida todos os dia.</description>
+    </item>
+    
+    <item>
+      <title>Passwords em Mobiles</title>
+      <link>http://localhost/jhonny-roger/public/passwords-em-mobiles/</link>
+      <pubDate>Sun, 11 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/passwords-em-mobiles/</guid>
+      <description>Estava conversando outro dia com um pessoal sobre melhores práticas em sites/sistemas mobile. Um dos pontos foi a forma que tratamos senhas em mobiles. Em desktops e outros terminais (como caixas eletrônicos) é necessário que sua senha seja escondida conforme você a digita. Isso é bom por que pode ter algum engraçadinho perto de você, olhando a sua tela. Com mobile é um pouco diferente. Normalmente você está com o dispositivo na sua mão, utilizando-o perto do seu corpo, bem difícil de alguém tentar ficar bisbilhotando, e se estiver é fácil de esconder.</description>
+    </item>
+    
+    <item>
+      <title>Drops 11 – Adaptação e Otimização</title>
+      <link>http://localhost/jhonny-roger/public/drops-11-adaptacao-e-otimizacao/</link>
+      <pubDate>Wed, 04 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/drops-11-adaptacao-e-otimizacao/</guid>
+      <description>Aproveitando o embalo do artigo, resolvi fazer um drops rápido sobre o assunto, falando mais sobre produzir sites responsivos ou específicos para determinados aparelhos. Falei mais sobre suas vantagens e desvantagens.</description>
+    </item>
+    
+    <item>
+      <title>Drops 10 – Web Apps ou Instaláveis no dispositivos?</title>
+      <link>http://localhost/jhonny-roger/public/drops-10-web-apps-ou-instalaveis-no-dispositivos/</link>
+      <pubDate>Fri, 22 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/drops-10-web-apps-ou-instalaveis-no-dispositivos/</guid>
+      <description>Você fará uma aplicação. Essa aplicação será instalada no dispositivo ou será baseada em web?
+Essa é uma discussão antiga e não dá para dizer o que é certo e errado por enquanto. Eu sou do time do pessoal que acha que web apps são o melhor caminho. Tenho alguns motivos para pensar assim e quero compartilhar com vocês nesse Drops. O que você acha sobre isso?
+Link direto do arquivo.</description>
+    </item>
+    
+    <item>
+      <title>Estruturação de front-end – Parte 1: Preprocessadores, Framewoks e Bibliotecas</title>
+      <link>http://localhost/jhonny-roger/public/estruturacao-de-client-side-preprocessadores-framewoks-e-bibliotecas-parte-1/</link>
+      <pubDate>Wed, 09 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/estruturacao-de-client-side-preprocessadores-framewoks-e-bibliotecas-parte-1/</guid>
+      <description>Existem três categorias de &amp;#8220;ferramentas&amp;#8221; que nos ajudam a desenvolver um projeto client-side: Preprocessadores, Frameworks e Bibliotecas.
+Preprocessadores Preprocessadores são ferramentas onde você escreve CSS de uma determinada forma, modificando sua sintaxe, fazendo com que na hora de sua utilização o código CSS precise ser préprocessado para que o código escrito seja transformado em código CSS puro e assim então os browsers consigam entender.
+Existem muitos preprocessadores no mercado como Less, Sass, Turbine, Switch CSS e outros.</description>
+    </item>
+    
+    <item>
+      <title>Qualidade de Imagens e densidade de pixels</title>
+      <link>http://localhost/jhonny-roger/public/qualidade-de-imagens-e-densidade-de-pixels/</link>
+      <pubDate>Mon, 26 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/qualidade-de-imagens-e-densidade-de-pixels/</guid>
+      <description>Você se lembra quando planejavamos nossos layouts para resoluções acima de 1024? Chega ser engraçado lembrar que um dia fizemos websites para 640&amp;#215;480, pensando que a resolução de 1024&amp;#215;768 eram a minoria dos usuários. Os tempos mudaram e naturalmente diversas outras resoluções apareceram por conta de novos dispositivos, melhores monitores e etc. Acontece que na web nada é tão fácil assim. A gente se livra de um problema, mas aparece outro no lugar.</description>
+    </item>
+    
+    <item>
+      <title>Boas práticas de Acessibilidade</title>
+      <link>http://localhost/jhonny-roger/public/boas-praticas-de-acessibilidade/</link>
+      <pubDate>Mon, 23 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/boas-praticas-de-acessibilidade/</guid>
+      <description>Preparei uma pequena (nem tão pequena assim) apresentação que mostra algumas boas práticas e técnicas sobre acessibilidade para sistemas e websites. São pequenos ajustes que podemos incorporar mesmo depois de todo o desenvolvimento pronto e que dão resultados importantes para adequação dos seus sites ou sistemas.
+Apresentancao acessibilidade Veja mais apresentações de Diego Eis 
+ </description>
+    </item>
+    
+    <item>
+      <title>Declarando idiomas no HTML</title>
+      <link>http://localhost/jhonny-roger/public/declarando-idiomas-no-html/</link>
+      <pubDate>Mon, 09 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/declarando-idiomas-no-html/</guid>
+      <description>Publicar conteúdo na web definitivamente não é a mesma coisa da publicação de conteúdo nos meios impressos. Quando imprimimos o conteúdo, temos como foco um determinado público de uma determinada região. Eu, estando no Brasil, não vou fazer uma revista em no idioma Japonês. Quando falamos publicação de conteúdo online a coisa muda de cenário. O conteúdo online pode ser acessado no mundo inteiro, não importa seu idioma. Obviamente se você conhece outros idiomas, você amplia suas possibilidades para encontrar conteúdo e novos sites.</description>
+    </item>
+    
+    <item>
+      <title>Guia de Referência de HTML5</title>
+      <link>http://localhost/jhonny-roger/public/guia-de-referencia-de-html5/</link>
+      <pubDate>Mon, 02 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/guia-de-referencia-de-html5/</guid>
+      <description>Ter sempre um guia de referência sobre qualquer tipo de linguagem é sempre bom. Ainda mais quando é completo e atual. O pessoal do WDL nos presenteou com uma série de Cheat Sheets sobre HTML5.
+Os guias são divididos em 3 gráficos: Um mostra as novas tags, o segundo mostra os eventos e atributos e o terceiro mostra o suporte dos browsers.
+Cada Cada um diferencia as características novas, existentes ou não suportadas do HTML5.</description>
+    </item>
+    
+    <item>
+      <title>Experiência deve ter começo, meio e fim</title>
+      <link>http://localhost/jhonny-roger/public/experiencia-deve-ter-comeco-meio-e-fim/</link>
+      <pubDate>Mon, 28 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/experiencia-deve-ter-comeco-meio-e-fim/</guid>
+      <description>Esse artigo pode parecer meio confuso, mas é apenas um pensamento que estive matutando. Não ligue se a ordem das ideias estiverem tortas e sinuosas. 😉
+Tive uma experiência muito ruim no primeiro dia de 2010: pulei na piscina com meu iPhone no bolso.
+Ok, pode me xingar agora.
+Depois da tragédia, ele durou rápidos 5 segundos, e faleceu. Não ligava, não apitava, não fazia nada. &amp;#8220;Paciência&amp;#8221;, falei para mim mesmo.</description>
+    </item>
+    
+    <item>
+      <title>Performance do seu CSS</title>
+      <link>http://localhost/jhonny-roger/public/melhorando-performance-css/</link>
+      <pubDate>Tue, 29 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/melhorando-performance-css/</guid>
+      <description>Modular seu código CSS é uma boa prática para que o website carregue apenas o código necessário para montar a pagina que o visitante está. Por isso não precisamos carregar o código CSS que monta a página de contato uma vez que o usuário está na home, possibilitando um ganho de performance.
+Podemos ainda melhorar um pouco mais nossa performance tendo atenção com a forma que escrevemos os seletores do CSS.</description>
+    </item>
+    
+    <item>
+      <title>CSS3 – Abas com a pseudo-classe :target</title>
+      <link>http://localhost/jhonny-roger/public/css3-abas-com-a-pseudo-classe-target/</link>
+      <pubDate>Mon, 21 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css3-abas-com-a-pseudo-classe-target/</guid>
+      <description>O CSS está cada vez mais facilitando as coisas. Alguns problemas que eram resolvidos apenas via Javascript já podem ser resolvidos inteiramente com CSS. Obviamente que para alguns browsers temos que usar algum script para conseguir a compatibilidade. Mesmo assim, se for já possível utilizar as novas maravilhas do CSS 3 e outras compatibilidades que estão surgindo do CSS 2.1, faça-o já. Você com certeza vai se agradecer um tempo próximo!</description>
+    </item>
+    
+    <item>
+      <title>Convertidos do Tableless</title>
+      <link>http://localhost/jhonny-roger/public/convertidos-tableless/</link>
+      <pubDate>Mon, 21 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/convertidos-tableless/</guid>
+      <description>Quem acompanha o Tableless desde o começo conhece a história de como este humilde website nasceu. Eu estudava e aprendia CSS com HTML de uma única maneira: praticando. Eu convertia para tableless a home de alguns grandes sites just for fun. Só para provar que a técnica era real, possível e muito melhor que tabelas. O Tableless nasceu quando eu decidi compartilhar este material para outros desenvolvedores.
+Este material não estava publicado porque uma das empresas que eu utilizei como estudo me mandou uma simpática carta extrajudicial dizendo que eu estava fazendo cópia indevida e todo aquele blá blá blá e que eu devia tirar o materia deles imediatamente do ar&amp;#8230; Eles com certeza não eram bem humorados.</description>
+    </item>
+    
+    <item>
+      <title>PDF – Browsers antigos: guerra contra o terror</title>
+      <link>http://localhost/jhonny-roger/public/browsers-antigos-guerra-contra-o-terror/</link>
+      <pubDate>Wed, 09 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/browsers-antigos-guerra-contra-o-terror/</guid>
+      <description>É muito difícil tomar a decisão de não suportar browsers antigos. Sempre há diversas desculpas, mas dependendo da empresa ou da popularidade do site/serviço, mesmo uma pequena porcentagem pode significar milhões de usuários usando browsers antigos ou que não tem um bom suporte de Padrões Web. Simplesmente ignorar algumas centenas de milhares de usuários não é algo muito aceitável. O ponto é que você não precisa ignorar estes valiosos 1%. Mas também não precisa gastar milhões nem perder muito tempo tentando resolver os problemas causados pelos browsers antigos que estes usuários usam.</description>
+    </item>
+    
+    <item>
+      <title>The IE6 Countdown – O ultimato da Microsoft</title>
+      <link>http://localhost/jhonny-roger/public/the-ie6-countdown-ultimato-microsoft/</link>
+      <pubDate>Sun, 06 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/the-ie6-countdown-ultimato-microsoft/</guid>
+      <description>A Microsoft acaba de publicar um website chamado IE6 Countdown, onde ela incentiva a descontinuação do Internet Explorer 6. Esqueça qualquer campanha iniciada por qualquer um&amp;#8230; Essa campanha é definitiva e iniciada pela própria Microsoft. Claro, a Microsoft está fazendo com que os usuários migrem do IE6 para o IE8. Ela não indica nenhum outro browser concorrente. Mas realmente isso não importa&amp;#8230; O que importa é que os usuários ouçam a voz da Microsoft e parem, defintivamente de utilizar o Internet Explorer.</description>
+    </item>
+    
+    <item>
+      <title>HTML 5, novos elementos e atributos.</title>
+      <link>http://localhost/jhonny-roger/public/html-5-novos-elementos-e-atributos/</link>
+      <pubDate>Mon, 28 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/html-5-novos-elementos-e-atributos/</guid>
+      <description>Tags, mídia, interação usuário x website, relevância nos resultados de busca, usabilidade e acessibilidade são as grandes definições do poder de transformação que o HTML 5 promete estabelecer quando desenvolvedores web puderem utilizá-lo e como já mencionado em outro artigo, especializações na área devem surgir com esta nova versão, ou seja, você terá a possibilidade de escolher em qual das vertentes citadas acima vai deter maior conhecimento. Ainda assim, é fato que a construção de códigos para interfaces continuará sendo tarefa geral do desenvolvedor Front-End e saber quais tags utilizar e de que forma as utilizar continuará sendo conhecimento básico no desenvolvimento de códigos de marcação.</description>
+    </item>
+    
+    <item>
+      <title>Drops 2 – A palavra Marcação do HTML</title>
+      <link>http://localhost/jhonny-roger/public/drops-2-a-palavra-marcacao-do-html/</link>
+      <pubDate>Mon, 31 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/drops-2-a-palavra-marcacao-do-html/</guid>
+      <description>Você já parou para pensar o que significa a palavra marcação da abreviação do HTML?
+Se preferir faça o download do arquivo em Mp3 ou OGA.  Veja todos os nossos drops no Soundcloud.
+Se preferir faça o download do arquivo em Mp3 ou OGA. Ou inscreva no iTunes.</description>
+    </item>
+    
+    <item>
+      <title>CSS Transforms</title>
+      <link>http://localhost/jhonny-roger/public/css-transforms/</link>
+      <pubDate>Mon, 10 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css-transforms/</guid>
+      <description>O W3C descreve CSS Transform assim:
+ CSS 2D Transforms allow elements rendered by CSS to be trans- formed in two-dimensional space.
+ Há dois tipos de CSS Transforms: no formato 2D e 3D. Veremos aqui apenas o formato 2D que é o que tem mais suporte entre os browsers. Testaremos com Firefox 4, Safari 5 e Opera 10.5. Perceba que o código estará com o prefixo de cada browser para que não haja problemas em browsers que não reconheçam as propriedades que iremos aplicar.</description>
+    </item>
+    
+    <item>
+      <title>HTML5: Elemento AUDIO</title>
+      <link>http://localhost/jhonny-roger/public/elemento-tag-audio/</link>
+      <pubDate>Tue, 14 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/elemento-tag-audio/</guid>
+      <description>O elemento audio do HTML5 representa um som ou um stream de áudio. Atributos como: src, preload, autoplay, loop e controls podem ser utilizados em todos elementos de media, como o elemento audio.
+Formatos suportados Os formatos de audio suportados são:
+ Formato  IE 8  Firefox 3.5  Opera 10.5  Chrome 3.0  Safari 3.0     Ogg Vorbis   Não   Sim   Sim   Sim   Não     MP3   Não   Não   Não   Sim   Sim     Wav   Não   Sim   Sim   Não   Sim    Como no caso dos vídeos, ainda é um problema termos um formato que funcione com sucesso em todos os browsers.</description>
+    </item>
+    
+    <item>
+      <title>Sections: elemento article – Parte 4</title>
+      <link>http://localhost/jhonny-roger/public/section-elemento-article/</link>
+      <pubDate>Mon, 25 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/section-elemento-article/</guid>
+      <description>Você deve marcar a área do conteúdo do seu site com um DIV com um ID do tipo: conteudo, texto, main, content e etc&amp;#8230; Normalmente esta é uma área nobre. O Google e outros sistemas de busca não tem com saberem onde fica o bloco do texto principal do site. Não havia nenhuma indicação dizendo que determinado elemento é se trata do bloco que carrega a informação principal do site.</description>
+    </item>
+    
+    <item>
+      <title>Sections: elemento nav – Parte 2</title>
+      <link>http://localhost/jhonny-roger/public/sections-elemento-nav/</link>
+      <pubDate>Thu, 30 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sections-elemento-nav/</guid>
+      <description>Se você não leu o primeiro artigo da série, é interessante que o faça agora.
+O elemento nav representa uma seção da página que contém link para outras páginas ou partes do mesmo website. Resumindo: nav é uma seção de links de navegação.
+Essa definição é muito mais complexa do que se imagina. A tag nav pode agrupar uma série de elementos que anteriormente faríamos com div. Nem todos os grupos de links da página precisam ser um elemento nav, mas apenas as seções que consitem em blocos principais.</description>
+    </item>
+    
+    <item>
+      <title>Sections: seções do HTML5 – Parte 1</title>
+      <link>http://localhost/jhonny-roger/public/sections-html5/</link>
+      <pubDate>Thu, 23 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sections-html5/</guid>
+      <description>A estrutura de um site é dividida em diversas seções. Cada seção representa uma fatia do layout e também representa um grupo de conteúdo. Cada um destes grupos tem seu assunto específico. Nas minhas aulas eu costumava apresentar estas seções como seções mestres ou seções principais. Normalmente para descrever em HTML estas seções, usávamos a tag div. O elemento div é um elemento genérico que serve para criar DIVISÕES. Estas divisões não tinham significado semântico nenhum, não levavam nenhum tipo de informação &amp;#8220;extra&amp;#8221;, mas a nível de formatação resolvia nosso problema.</description>
+    </item>
+    
+    <item>
+      <title>Afinal, o que muda com o HTML 5?</title>
+      <link>http://localhost/jhonny-roger/public/afinal-o-que-muda-com-o-html-5/</link>
+      <pubDate>Wed, 15 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/afinal-o-que-muda-com-o-html-5/</guid>
+      <description>Você desenvolvedor web, antenado, com certeza vem acompanhando a evolução, as críticas, as observações, os elogios e, claro, os tutoriais para entender um pouco mais do que efetivamente significa esta versão “5” do HTML.
+Já você desenvolvedor, que limita-se a saber que uma nova versão está a caminho, talvez ainda não tenha tido a chance de conhecer quais serão essas importantes mudanças e o que trarão de novo para as bases do desenvolvimento web.</description>
+    </item>
+    
+    <item>
+      <title>Modelos de conteúdo no HTML5</title>
+      <link>http://localhost/jhonny-roger/public/modelos-de-conteudo-no-html5/</link>
+      <pubDate>Tue, 20 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/modelos-de-conteudo-no-html5/</guid>
+      <description>Este texto faz parte do capítulo 4 da apostila e guia de referência de HTML5.
+Há pequenas regras básicas que nós já conhecemos e que estão no HTML desde o início. Estas regras definem onde os elementos podem ou não estar. Se eles podem ser filhos ou pais de outros elementos e quais os seus comportamentos.
+Dentre todas as categorias de modelos de conteúdo, existem dois tipos de elementos: elementos de linha e de bloco.</description>
+    </item>
+    
+    <item>
+      <title>HTML5 Diff</title>
+      <link>http://localhost/jhonny-roger/public/html5-diff/</link>
+      <pubDate>Tue, 13 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/html5-diff/</guid>
+      <description>O W3C mantém um documento que compara o HTML4 com as novidades do HTML5. São inúmeras mudanças em elementos mais conhecidos e também em outros elementos mais específicos, utilizados em aplicações e sistemas mais complexos. Sugiro que você leia este documento e o guarde como referência.
+O HTML5 ainda é um rascunho. Ele está sendo discutido entre o WHATWG e o W3C. Diversos pontos podem ser modificados ainda, por isso é interessante que você entenda e fique por dentro das discussões para que você atualize seu código quando necessário.</description>
+    </item>
+    
+    <item>
+      <title>Produtividade: editores e snippets</title>
+      <link>http://localhost/jhonny-roger/public/produtividade-editores-e-snippets/</link>
+      <pubDate>Thu, 18 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/produtividade-editores-e-snippets/</guid>
+      <description>Não é muito difícil ser produtivo. Em muitas palestras e aulas, me perguntam como o desenvolvedor client-side (ou qualquer outro) pode melhorar sua performance e desenvolver melhor, mais rápido e com qualidade. Além de muito treino, existem outros pontos que se utilizados da maneira correta, podem agilizar seu trabalho. Um destes pontos é o seu editor de código.
+Você já parou para conhecer seu editor? Muitos desenvolvedores simplesmente ignoram a existência das features que seu editor carrega.</description>
+    </item>
+    
+    <item>
+      <title>Colocar Rodapé fixo no fim da página</title>
+      <link>http://localhost/jhonny-roger/public/colocar-rodape-fixo-no-bottom/</link>
+      <pubDate>Tue, 12 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/colocar-rodape-fixo-no-bottom/</guid>
+      <description>Você já precisou ter o rodapé fixo no fim da página algum dia. Normalmente os clientes chatos acham feio aquele rodapé terminando no meio da página quando há pouco conteúdo. Há uma técnica no CSS que resolve isso. Não funciona no IE6, já aviso agora. Na verdade, tem um jeito de funcionar, mas não quero te acostumar mal. 🙂
+Lembrando que você pode fazer isso facilmente com JQuery.
+Suponha que você tenha o código HTML:</description>
+    </item>
+    
+    <item>
+      <title>Convertidos de volta</title>
+      <link>http://localhost/jhonny-roger/public/convertidos-de-volta/</link>
+      <pubDate>Tue, 12 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/convertidos-de-volta/</guid>
+      <description>Quem conhece o começo do Tableless.com.br, lembra dos &amp;#8220;Convertidos do Tableless&amp;#8221;. Os convertidos era uma área no Tableless onde eu reimplementava as homes de grandes sites utilizando HTML e CSS. Era uma época onde ninguém fazia websites sem tabelas, ninguém usava CSS direito e o HTML era feito &amp;#8220;nas coxas&amp;#8221;. Era uma época também que os desenvolvedores duvidavam da possibilidade de fazer websites apenas com CSS, posicionando e diagramando os elementos sem tabela.</description>
+    </item>
+    
+    <item>
+      <title>Ah, o maravilhoso mundo real</title>
+      <link>http://localhost/jhonny-roger/public/ah-o-maravilhoso-mundo-real/</link>
+      <pubDate>Thu, 10 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ah-o-maravilhoso-mundo-real/</guid>
+      <description>O Diego publicou, há mais de uma semana, um artigo sobre o impacto da mudança de estratégia do W3C em relação ao ciclo de vida de seus padrões. O artigo gerou algumas opiniões contrárias nos comentários, em relação ao fato de ele ter dito que bordas arredondadas são mais importantes que a web semântica e em relação à estratégia de especificações modulares do W3C. Vou compartilhar minha opinião sobre os dois pontos.</description>
+    </item>
+    
+    <item>
+      <title>Propriedade Position do CSS</title>
+      <link>http://localhost/jhonny-roger/public/propriedade-position-do-css/</link>
+      <pubDate>Tue, 12 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/propriedade-position-do-css/</guid>
+      <description>Entendendo a propriedade Position O Position é uma propriedade perigosa para iniciantes. Normalmente o desenvolvedor que acaba de conhecer essa propriedade, acha que ela é a resposta para todos os problemas de posicionamento e diagramação de layout. Pelo contrário. O Position não serve para diagramar a estrutura de layouts. Para isso, você utiliza a propriedade float do css. O Position vai servir para fazer coisas mais simples.
+Coordenadas Para posicionar seus elementos, você precisa inserir uma coordenada.</description>
+    </item>
+    
+    <item>
+      <title>Pulga na cueca e experimentando o HTML5</title>
+      <link>http://localhost/jhonny-roger/public/pulga-na-cueca-html5/</link>
+      <pubDate>Tue, 07 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/pulga-na-cueca-html5/</guid>
+      <description>Tenho pulga na cueca. Não no sentido literal. Claro. Eu não diria a você esse tipo de intimidade (nojenta). Tenho pulga na cueca no sentido didático da história. Sendo sincero contigo, eu não gostei do design antigo do Tableless. Sério. Não fiz planejamento nenhum, o design ficou de mal gosto. Eu não gostei do fundo colorido que nem porpurina e nem da diagramação do layout como um todo. Por isso, resolvi mudar.</description>
+    </item>
+    
+    <item>
+      <title>HTML 5 – Mudanças na estrutura e semântica</title>
+      <link>http://localhost/jhonny-roger/public/html5-estrutura-semantica/</link>
+      <pubDate>Mon, 16 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/html5-estrutura-semantica/</guid>
+      <description>&lt;p&gt;A &lt;strong&gt;Semântica&lt;/strong&gt; sempre um dos pontos mais importantes do &lt;strong&gt;desenvolvimento com Padrões Web&lt;/strong&gt;. Algumas iniciativas com o &lt;strong&gt;&lt;a href=&#34;http://tableless.com.br/microformatos-internet-movel-e-quem-ainda-nao-entendeu-nada&#34;&gt;Microformats&lt;/a&gt;&lt;/strong&gt; vieram na tentativa de trazer mais semântica ainda para nossos códigos, com o intuito de novas aplicações e oportunidades pudessem utilizar melhor a informação distribuída na web. Acontece que o resto do HTML não foi a bastante tempo modificado. Por exemplo, como você consegue distinguir de forma automática as informações do &amp;#8220;header&amp;#8221; (cabeçalho) dos sites? Não consegue. Você não consegue por exemplo, de maneira automatizada, identificar o que é um rodapé ou a parte do layout que está exibindo um artigo, por exemplo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Propriedade Float do CSS</title>
+      <link>http://localhost/jhonny-roger/public/propriedade-float-do-css/</link>
+      <pubDate>Fri, 13 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/propriedade-float-do-css/</guid>
+      <description>&lt;p&gt;Se o Internet Explorer não soubesse como funciona a propriedade float do CSS, o advento dos Padrões Web não vingaria tão cedo. A propriedade float é a propriedade responsável por &amp;#8220;administrar&amp;#8221; a diagramação do site. É com ela que você irá organizar as caixas e deixá-las exatamente onde devem ficar. A propriedade float dá mais consistência ao Layout. Diferentemente da propriedade position, que pode trazer uma série de inflexibilidades, deixando o layout mais engessado.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Implementar XHTML/CSS é grátis</title>
+      <link>http://localhost/jhonny-roger/public/implementar-xhtmlcss-e-gratis/</link>
+      <pubDate>Mon, 08 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/implementar-xhtmlcss-e-gratis/</guid>
+      <description>&lt;p&gt;Muita gente conhece a história do Tableless. Eu iniciei o Tableless quando estava aprendendo e me aprofundando nos Padrões Web. Meus estudos consistiam em dois momentos: ler e aplicar. Eu lia muito material de fora – quase não haviam fontes sobre Padrões Web aqui no Brasil &amp;#8211; e depois tentava colocar na prática tudo aquilo que eu havia estudado.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Video tutorial – Implementando HTML</title>
+      <link>http://localhost/jhonny-roger/public/video-tutorial-implementando-html/</link>
+      <pubDate>Thu, 13 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/video-tutorial-implementando-html/</guid>
+      <description>&lt;p&gt;Utilizamos esse layout como exercício nos &lt;a href=&#34;http://visie.com.br/treinamento/&#34;&gt;cursos da Visie&lt;/a&gt;. Dependendo do nível do pessoal, utilizamos outros layouts. Mas esse é um que o pessoal normalmente costuma escolher. É um bom exercício porque utiliza as principais propriedades do CSS.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Modulando o CSS</title>
+      <link>http://localhost/jhonny-roger/public/modulando-o-css/</link>
+      <pubDate>Wed, 12 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/modulando-o-css/</guid>
+      <description>&lt;p&gt;Quando trabalhamos com Padrões Web, trabalhamos com três camadas principais: Informação, formatação e comportamento.&lt;/p&gt;
+
+&lt;p&gt;A informação seria controlada pelo &lt;strong&gt;HTML&lt;/strong&gt;. Ele exibiria a informação na tela com significado.&lt;/p&gt;
+
+&lt;p&gt;O &lt;strong&gt;CSS&lt;/strong&gt; manipularia a formatação desses elementos para que ficassem belos e controlaria suas posições na tela.&lt;/p&gt;
+
+&lt;p&gt;E o &lt;strong&gt;Javascript / Ajax&lt;/strong&gt; cuidaria do comportamento destes elementos.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Não “otimize” seu código</title>
+      <link>http://localhost/jhonny-roger/public/nao-otimize-seu-codigo/</link>
+      <pubDate>Sun, 09 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/nao-otimize-seu-codigo/</guid>
+      <description>&lt;p&gt;Quando fazíamos sites com tabelas, o grande problema era a quantidade de código que escrevíamos. Naquele tempo – 1996, 97, 98 – tínhamos outros pontos que precisavam de uma atenção maior. A conexão era lerda para todo mundo e isso dificultava um bocado as coisas. Por isso, fazer um site pesado era fora de cogitação. Ficávamos “mendigando” cada byte para que o site ficasse milésimos de segundo mais rápido.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tabelas semânticas</title>
+      <link>http://localhost/jhonny-roger/public/tabelas-semanticas/</link>
+      <pubDate>Mon, 27 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tabelas-semanticas/</guid>
+      <description>&lt;p&gt;Você já deve saber que o desenvolvimento utilizando Padrões Web preza pela Semântica no código. Todo código que você escrever deve dar algum significado ao conteúdo. E toda tag sem sua função específica e te ajuda a formar um código mais esperto e legível.&lt;/p&gt;
+
+&lt;p&gt;Alguns elementos por dependerem de várias tags para ter um funcionamento pleno, acabam sofrendo com o desinteresse dos desenvolvedores em entender melhor os diversos objetos que compoem um determinado elemento. Um caso bastante comum, &lt;a href=&#34;http://tableless.com.br/formulario-basico-em-8-minutos&#34;&gt;além dos Formulários&lt;/a&gt;, é a formação das TABLES.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Exercício Básico</title>
+      <link>http://localhost/jhonny-roger/public/exercicio-basico/</link>
+      <pubDate>Mon, 20 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/exercicio-basico/</guid>
+      <description>&lt;p&gt;Costumo dar esse exercício para alguns dos alunos aqui da &lt;a href=&#34;http://visie.com.br/treinamento/&#34;&gt;Visie&lt;/a&gt;. Ele é um exercício básico e utiliza as propriedades mais importantes para se construir um site. A idéia é mostrar para o desenvolvedor que está abrindo os olhos agora, como é fácil, em algumas horas de treinamento (tipo 3 horas), o desenvolvimento com CSS e XHTML é produtivo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>O Safari para iPhone – Desenvolvimento web para iPhone</title>
+      <link>http://localhost/jhonny-roger/public/o-safari-para-iphone/</link>
+      <pubDate>Mon, 13 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-safari-para-iphone/</guid>
+      <description>&lt;p&gt;Esse texto e muitos outros fazem parte do &lt;a href=&#34;http://visie.com.br/campus/&#34; title=&#34;Vídeos tutoriais sobre Tableless&#34;&gt;Campus Online&lt;/a&gt;. Visite e &lt;a href=&#34;http://visie.com.br/campus/cadastrese&#34;&gt;cadastre-se grátis&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://visie.com.br/campus/iphone&#34; title=&#34;Desenvolvimento web para iPhone&#34;&gt;Sessão exclusiva sobre Desenvolvimento web para iPhone&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;um-pouco-de-história&#34;&gt;Um pouco de História&lt;/h3&gt;
+
+&lt;p&gt;Por volta de 1997, os computadores da Apple traziam por padrão o Netscape. Naquele tempo o mercado de browsers não era tão acirrado como hoje e os concorrentes eram poucos. O Internet Explorer estava em sua versão &lt;sup&gt;2&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt;. Mesmo assim, o Internet Explorer para Mac era também distribuído com o MacOS durante os 5 anos de acordo entre Apple e Microsoft. A Microsoft laçou 3 versões principais do seu navegador para o Mac, parando na versão 5 em março de 2000.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>O Chrome não quer dizer muita coisa</title>
+      <link>http://localhost/jhonny-roger/public/chrome-nao-quer-dizer-muita-coisa/</link>
+      <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/chrome-nao-quer-dizer-muita-coisa/</guid>
+      <description>&lt;p&gt;O Google lançou &lt;a href=&#34;http://www.google.com/googlebooks/chrome/&#34;&gt;sua presença no mercado de browsers&lt;/a&gt;. Atitude interessante mas que para mim não quer dizer muita coisa. Ter um novo browser não muda muito (a minha) a vida dos desenvolvedores. Lembre-se que não importa quão bom seja o Firefox, Safari ou o &lt;a href=&#34;http://www.google.com/chrome/&#34;&gt;Google Chrome&lt;/a&gt;, nós, desenvolvedores temos sempre que nivelar tudo por baixo, pelo Internet Explorer 6. Se o Chrome ou qualquer outro novo navegador ajudar com que o IE6 seja definitivamente descontinuado, eles serão bem-vindos. Caso contrário, o lançamento de bons browsers só vai, por assim dizer, brochar a vontade dos profissionais que querem utilizar recursos mais avançados do CSS mas não podem por conta do IE6. O IE7 foi um avanço interessante. O IE8 está pretendendo ser. Mas até mesmo o IE8 não vai ser muito útil enquanto ele não tomar a o lugar do Internet Explorer 6. O mesmo vale para qualquer outro browser.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Vídeos, WordPress, Internet Móvel e mais</title>
+      <link>http://localhost/jhonny-roger/public/videos-wordpress-internetmovel-mais/</link>
+      <pubDate>Sun, 31 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/videos-wordpress-internetmovel-mais/</guid>
+      <description>&lt;p&gt;O &lt;a href=&#34;http://tableless.com.br/&#34; title=&#34;Informações sobre tableless e boas práticas de desenvolvimento&#34;&gt;Tableless&lt;/a&gt; está passando por pequenas mudanças, pequenas mas substanciais.&lt;/p&gt;
+
+&lt;p&gt;Muita gente me disse que depois do último redesign, ficou muito difícil para encontrar informações aqui no Tableless. Para mim, dono do site, que sei onde encontrar tudo nessa budega, duvidei um pouco, mas depois notei que isso era verdade. Por isso, resolvi organizar melhor o conteúdo. Para começar, separei&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>jQuery é bom para designers</title>
+      <link>http://localhost/jhonny-roger/public/jquery-e-bom-para-designers/</link>
+      <pubDate>Tue, 05 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/jquery-e-bom-para-designers/</guid>
+      <description>&lt;p&gt;No começo da web JavaScript era considerado uma linguagem de programação completamente difícil e inútil. Afinal, depois de uma semana estudando a linguagem, o sujeito só conseguia escrever um script que validasse um formulário de contato que muitas vezes dava erro em outros browsers que não o Internet Explorer. Isso acontecia porque tanto o Netscape quanto o Browser azul tinha seus prórpios padrões de implementações de solução para o Javascript que era ainda estava engatinhando como linguagem.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Palestra: Implementação de Layout com CSS</title>
+      <link>http://localhost/jhonny-roger/public/palestra-implementacao-de-layout-com-css/</link>
+      <pubDate>Mon, 21 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/palestra-implementacao-de-layout-com-css/</guid>
+      <description>Essa semana, dia 23, quarta-feira, irei fazer uma palestra de 2 horas exclusivamente sobre Implementação de Layout com CSS. Irei implementar um layout, desde o HTML até o CSS, tudo explicado nos mínimos detalhes.
+http://visie.com.br/eventos/
+O valor da palestra é de R$29 e será em São Paulo.
+Este post se auto-destruirá no dia 24.</description>
+    </item>
+    
+    <item>
+      <title>White, Gray e Black Hats</title>
+      <link>http://localhost/jhonny-roger/public/gray-e-black-hats/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/gray-e-black-hats/</guid>
+      <description>Existem várias técnicas para colocar seu site em primeiro nos buscadores. As técnicas de SEO se encaixam em três grandes árvores: White Hat (chapéu branco) que são as legais e recomendadas pelos buscadores. Gray Hat, que se utilizadas de forma abusiva são consideradas anti-éticas, embora os buscadores não tenham controle sobre sua prática. Há outras técnicas totalmente ilegais, utilizadas para ter alguma vantagem rápida ou burlar os resultados das buscas.</description>
+    </item>
+    
+    <item>
+      <title>Vídeo: Menu horizontal com CSS em 5 minutos</title>
+      <link>http://localhost/jhonny-roger/public/video-menu-horizontal-em-5-minutos/</link>
+      <pubDate>Mon, 07 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/video-menu-horizontal-em-5-minutos/</guid>
+      <description>&lt;p&gt;Criar um menu horizontal com CSS é muito fácil e tráz algumas vantagens como a facilidade de fazer uma mudança no layout. Sem encostar no HTML, você pode modificar todo o visual do menu via CSS. Se quiser mudar o menu para a vertical, você pode fazê-lo também sem muitos problemas. Fiz um vídeo básico, mudo e rápido de 5 minutos mostrando como se faz um menu horizontal em CSS.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Browsers para Mobile – Nova era</title>
+      <link>http://localhost/jhonny-roger/public/browsers-para-mobile-nova-era/</link>
+      <pubDate>Sun, 29 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/browsers-para-mobile-nova-era/</guid>
+      <description>&lt;p&gt;Pense um pouco e tente lembrar de pelo menos uma maneira de acessar a internet que não seja a partir de dispositivos móveis ou computadores (notebooks e desktops). Difícil, não é?&lt;/p&gt;
+
+&lt;p&gt;Hoje, conhecemos bem apenas um meio de acessar a internet que é o computador. Estamos começando agora a navegar decentemente com dispositivos móveis, como um PDAs ou Smartphones. Além do óbvio, não conhecemos os futuros reais problemas de usabilidade e arquitetura de informação dos sites destinados à estes aparelhos. Estamos apenas engatinhando.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Layout Fixo / Fluido de 3 colunas em 8 Minutos</title>
+      <link>http://localhost/jhonny-roger/public/layout-fixo-fluido-de-3-colunas-em-8-minutos/</link>
+      <pubDate>Tue, 10 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/layout-fixo-fluido-de-3-colunas-em-8-minutos/</guid>
+      <description>&lt;p&gt;Na verdade a gravação foi feita em 7 minutos e 51 segundos.&lt;/p&gt;
+
+&lt;p&gt;Neste vídeo mostro como faço para criar um layout básico de 3 colunas. Esta técnica tem um diferencial: retirando apenas uma linha do CSS, o layout passa de fixo, para fluido (como o layout do submarino ou americanas). Isso dá várias possibilidades de layout para o designer e poupa muito trabalho da equipe ao redesenhar e modificar o layout.&lt;/p&gt;
+
+&lt;p&gt;Se quiser ver o exemplo com o código fonte, &lt;a href=&#34;http://tableless.com.br/uploads/2008/06/3colunas-oitominutos.html&#34;&gt;clique aqui&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Formulário HTML Básico em 8 minutos</title>
+      <link>http://localhost/jhonny-roger/public/formulario-basico-em-8-minutos/</link>
+      <pubDate>Mon, 02 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/formulario-basico-em-8-minutos/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;update:&lt;/strong&gt; Se você quiser mais vídeos e em alta-resolução, visite o &lt;a title=&#34;Vídeo tutoriais sobre Tableless e Ajax.&#34; href=&#34;http://visie.com.br/campus&#34;&#34;&gt;Campus Online&lt;/a&gt;. Lá você vai encontrar &lt;a href=&#34;http://campus.visie.com.br/&#34; title=&#34;Vídeos sobre Tableless e Ajax&#34;&gt;vídeos tutoriais de Tableless, Ajax, Javascript&lt;/a&gt; e boas práticas de desenvolvimento web.&lt;/p&gt;
+
+&lt;p&gt;Na verdade ele foi escrito em 7 minutos e 51 segundos e foram escritos apenas o XHTML e CSS. Infelizmente está sem áudio.&lt;/p&gt;
+
+&lt;p&gt;O formulário, depois do link, é o &amp;#8220;objeto&amp;#8221; mais utilizado pelos usuários para interagir com o site. É questão de vida e morte para muitos profissionais. Se não for bem escrito, pode virar um inferno. Com as tags certas, você consegue fazer uma estrutura enxuta e fácil de customizar. Siga a regra áurea do desenvolvimento web: Keep It Simple Stupid.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lançamento do escritório do W3C no Brasil</title>
+      <link>http://localhost/jhonny-roger/public/lancamento-do-escritorio-do-w3c-no-brasil/</link>
+      <pubDate>Tue, 27 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/lancamento-do-escritorio-do-w3c-no-brasil/</guid>
+      <description>&lt;p&gt;O W3C está oficializando seu escritório aqui no Brasil. Para isso, eles estão fazendo um pequeno evento com alguns palestrantes e um recado em vídeo do Tim Bernes-Lee. A entrada é gratuita e aberta à todos.&lt;/p&gt;
+
+&lt;p&gt;O evento será dia 4 de Junho às 11h. &lt;a href=&#34;http://www.w3c.br/2008/lancamento/cadastro.html&#34;&gt;Faça seu cadastro&lt;/a&gt; e &lt;a href=&#34;http://www.w3c.br/2008/lancamento/&#34;&gt;leia mais informações&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ELPI: Problema 5</title>
+      <link>http://localhost/jhonny-roger/public/elpi-problema-5/</link>
+      <pubDate>Sun, 04 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/elpi-problema-5/</guid>
+      <description>Agora um com matemática. Quais os fatores primos do número 1321317089447443?
+Esse é o último par de ingressos para o ELPI no Rio de Janeiro. A partir de quinta-feira publico os problemas para o evento em Porto Alegre.</description>
+    </item>
+    
+    <item>
+      <title>PDF grátis sobre XSLT</title>
+      <link>http://localhost/jhonny-roger/public/pdf-gratis-sobre-xslt/</link>
+      <pubDate>Mon, 28 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/pdf-gratis-sobre-xslt/</guid>
+      <description>&lt;p&gt;A &lt;a href=&#34;http://visie.com.br/&#34;&gt;Visie&lt;/a&gt; está disponibilizando um &lt;a href=&#34;http://visie.com.br/treinamento/cursosrapidos/&#34;&gt;PDF grátis sobre XSLT&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;A linguagem XSLT é utilizada para transformar dados de um formato XML em vários outros formatos. Há implementações de XSLT para praticamente qualquer linguagem de programação disponível hoje, incluindo PHP, JSP, ASP, ColdFusion, Python, Visual Basic, .NET e Delphi. No PDF estudamos os fundamentos e principais comandos da linguagem, permitindo a transformação de conteúdo baseado em XML em formatos como TXT, CSV, HTML e o próprio XML. Entre os exemplos realizados estão a transformação em HTML de um arquivo XML com dados de previsão do tempo atualizados em tempo real, e a criação de um sistema de clipping de notícias baseado em RSS ou ATOM.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Metatags – Breve introdução de uso e teoria</title>
+      <link>http://localhost/jhonny-roger/public/metatags/</link>
+      <pubDate>Fri, 11 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/metatags/</guid>
+      <description>&lt;p&gt;Metadados são dados sobre dados. Informações sobre a própria informação. Metadados são estruturas de informações que descrevem características de uma fonte de informação.&lt;/p&gt;
+
+&lt;p&gt;Metadados servem para ajudar seres humanos ou máquinas a localizar e descrever informações, melhorando o gerenciamento e uso destas informações.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Centralizando um objeto na Horizontal e Vertical com CSS</title>
+      <link>http://localhost/jhonny-roger/public/centralizando-um-objeto-na-horizontal-e-vertical-com-css/</link>
+      <pubDate>Thu, 06 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/centralizando-um-objeto-na-horizontal-e-vertical-com-css/</guid>
+      <description>[]1
+Objeto no centro da tela Uma das dúvidas mais freqüentes é esta: Como fazer para que um objeto fique no centro da tela usando css?
+A resposta está nos passos abaixo!
+Colocando a imagem: Neste exemplo vamos usar uma imagem, mas você pode perfeitamente usar um div, o processo é o mesmo.
+Coloque na imagem (ou no div) um nome de ID&amp;#8230; Colocamos neste exemplo o ID com nome &amp;#8220;centro&amp;#8221;.</description>
+    </item>
+    
+    <item>
+      <title>Escrevendo um XHTML válido</title>
+      <link>http://localhost/jhonny-roger/public/escrevendo-um-xhtml-valido/</link>
+      <pubDate>Thu, 06 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/escrevendo-um-xhtml-valido/</guid>
+      <description>Acho que todos já ouviram falar de Web Semântica, para quem não ouviu, em poucas palavras é: Um projeto para organizar e estruturar a informação da WEB.
+Ter uma Web com as suas informações todas &amp;#8220;organizadas&amp;#8221; é extremamente importante, isso facilita uma busca pela Web por informações mais precisas.
+Para que seu arquivo possa ser lido por máquinas além de humanos é muito importante que você escreva um XHTML válido, com isso você está fazendo com que as informações do seu site fique mais acessível para as buscas, contribuindo para o projeto e principalmente melhorando as visitas do seu site.</description>
+    </item>
+    
+    <item>
+      <title>Informação e Formatação; As duas camadas de desenvolvimento web</title>
+      <link>http://localhost/jhonny-roger/public/informacao-e-formatacao-as-duas-camadas-de-desenvolvimento-web/</link>
+      <pubDate>Thu, 06 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/informacao-e-formatacao-as-duas-camadas-de-desenvolvimento-web/</guid>
+      <description>Se você já leu alguma coisa sobre Tableless, já deve ter percebido que nesse método nós separamos a informação da formatação.
+Para fazer a formatação do site, ou seja, para literalmente aplicarmos o design do site, nós usamos o CSS (as famosas Folhas de Estilo), que eu julgo ser a principal ferramenta do desenvolvedor para criar sites tableless. Para a apresentação da informação, você pode usar HTML ou XHTML, o que você achar mais apropriado.</description>
+    </item>
+    
+    <item>
+      <title>O Caminho Suave para o Tableless</title>
+      <link>http://localhost/jhonny-roger/public/o-caminho-suave-para-o-tableless/</link>
+      <pubDate>Thu, 06 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-caminho-suave-para-o-tableless/</guid>
+      <description>A maior parte dos desenvolvedores web, designers ou programadores, começaram antes do surgimento dos movimentos em prol dos padrões web, usando tabelas para montar layouts em editores WYSIWYG, e ainda hoje este método é usado na maioria dos projetos de internet. Logo, é natural que muita gente, ao começar a entender o valor dos padrões, se pergunte como migrar do desenvolvimento &amp;#8220;tradicional&amp;#8221; para o desenvolvimento de código semanticamente coerente.</description>
+    </item>
+    
+    <item>
+      <title>Sobre Internet Explorer para Mobile – Breve impressão</title>
+      <link>http://localhost/jhonny-roger/public/sobre-internet-explorer-para-mobile-breve-impressao/</link>
+      <pubDate>Wed, 07 Nov 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sobre-internet-explorer-para-mobile-breve-impressao/</guid>
+      <description>Desde que adquiri um MotoQ (se lê MotoQUIU) eu venho usando o Opera Mobile como browser padrão. Ao contrário da versão pra desktops, o Opera Mobile é pago. Por este motivo, quando a data expirou, eu resolvi usar por um tempo o Internet Explorer.
+Descobri que a forma com que o IE Mobile renderiza as páginas é tão boa quanto a do Opera Mobile. A velocidade de navegação também é ótima.</description>
+    </item>
+    
+    <item>
+      <title>CSS Frameworks ou como desaprender CSS</title>
+      <link>http://localhost/jhonny-roger/public/css-frameworks-ou-como-desaprender-css/</link>
+      <pubDate>Tue, 09 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css-frameworks-ou-como-desaprender-css/</guid>
+      <description>O papo que agora está começando a rolar entre os desenvolvedores é sobre Frameworks para CSS.
+Sou totalmente contra a qualquer coisa que impeça o contato do desenvolvedor com o código. Sou avesso a qualquer tipo de interface que prometa facilitar o desenvolvimento, pelo menos de XHTML e CSS. Lembra daquele papo sobre o desenvolvedor &amp;#8220;analbético&amp;#8221; de código?
+Ainda acho que utilizar editores que suportam Snippets &amp;#8211; ou Macros, dependendo do editor &amp;#8211; são as melhores formas de se trabalhar se você quer agilidade.</description>
+    </item>
+    
+    <item>
+      <title>Fiat Uno e Peugeot 206</title>
+      <link>http://localhost/jhonny-roger/public/fiat-uno-e-peugeot-206/</link>
+      <pubDate>Fri, 07 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/fiat-uno-e-peugeot-206/</guid>
+      <description>Não preciso dizer que os dois carros são totalmente diferentes. Mas, qual dos dois você teria? Me diga&amp;#8230; Se você pudesse escolher, você ficaria com qual dos dois?
+Acredito que 206 será a resposta mais dita para essa pergunta.
+Queria então fazer outra pergunta: Porque você escolheria o 206? O Uno também não vai te levar para lá e para cá como o 206? O que te faz querer um 206 e não um Uno?</description>
+    </item>
+    
+    <item>
+      <title>Navegação em mobiles</title>
+      <link>http://localhost/jhonny-roger/public/navegacao-em-mobiles/</link>
+      <pubDate>Fri, 31 Aug 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/navegacao-em-mobiles/</guid>
+      <description>Adquiri faz pouco tempo um MotoQ. Já estou passando da parte de adaptação e me acostumando melhor com as frescuras, limitações e vantagens do aparelho. Agora, consigo dar mais atenção a pontos mais interessantes e claro, que irão me ajudar no trabalho diário. Um deles é a navegação.
+Se acostumar a navegar num aparelhinho desses é algo realmente interessante e dependendo dos casos quebra um galho absurdo.
+Hoje eu uso o Opera Mobile para navegar.</description>
+    </item>
+    
+    <item>
+      <title>WHATWG e o HTML 5</title>
+      <link>http://localhost/jhonny-roger/public/whatwg-e-o-html-5/</link>
+      <pubDate>Fri, 26 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/whatwg-e-o-html-5/</guid>
+      <description>WHATWG and HTML 5 FAQ:
+ Em 2004, depois de um workshop do W3C, Apple, Mozilla e Opera estavam se tornando cada vez mais preocupadas a respeito da direção do XHTML no W3C, perda de interesse no HTML e aparente indiferença para com as necessidades dos autores do mundo real. Então, em resposta, essas organizações ajustaram-se com a missão de enfrentar essas preocupações e o Web Hypertext Application Technology Working Group nasceu.</description>
+    </item>
+    
+    <item>
+      <title>Mobilidade na cabeça</title>
+      <link>http://localhost/jhonny-roger/public/mobilidade-na-cabeca/</link>
+      <pubDate>Wed, 10 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/mobilidade-na-cabeca/</guid>
+      <description>Ontem, depois do lançamento do iPhone e de ter visto suas funcionalidades (nem tão novas assim, mas reinvatadas de verdade), fiquei pensando em uma funcionalidade em particular: navegação na internet. Quem assistiu o Keynote viu o camarada navegando de verdade com um browser de verdade (Safari) e tendo uma experiência realmente boa. O browser carrega o site inteiro, lendo XHTML e CSS, nada de SSR ou qualquer coisa parecida e é renderizado como se fosse uma miniatura na tela, mas a formatação é integral, como se estivesse sendo visualizado de um desktop.</description>
+    </item>
+    
+    <item>
+      <title>Podcast Tableless #25 – Validação é importante?!</title>
+      <link>http://localhost/jhonny-roger/public/podcast-tableless-25-validacao-e-importante/</link>
+      <pubDate>Thu, 09 Nov 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/podcast-tableless-25-validacao-e-importante/</guid>
+      <description>&lt;p&gt;Validar ou não validar, eis a questão. Será que validar é realmente importante? Para quem ela é importante? Qual o sentido da vida? Mas &lt;a href=&#34;http://en.wikipedia.org/wiki/The_Answer_to_Life,_the_Universe,_and_Everything#The_search_for_the_Ultimate_Question&#34;&gt;porque 42 é a resposta&lt;/a&gt;?&lt;/p&gt;
+
+&lt;p&gt;Validação sempre foi um assunto muito interessante. Não temos como falar sobre validação sem tocar em assuntos como semântica, xhtml2, html5 e etc. Instigados pelo assunto (um tanto polêmico, confesso) e pelos comentários do &lt;a href=&#34;http://tableless.com.br/validar-e-importante&#34;&gt;post que escrevi anteriormente&lt;/a&gt;, decidimos fazer um podcast madrugada adentro.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Podcast Tableless #24 – Testemunho WCA</title>
+      <link>http://localhost/jhonny-roger/public/podcast-tableless-24-testemunho-wca/</link>
+      <pubDate>Thu, 12 Oct 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/podcast-tableless-24-testemunho-wca/</guid>
+      <description>&lt;p&gt;Parecido com o &lt;a href=&#34;http://tableless.com.br/podcast-tableless-22-primeira-impressao-sobre-padroes-web&#34;&gt;podcast #22&lt;/a&gt; onde eu fiz com alguns alunos no final de um curso de &lt;a href=&#34;http://visie.com.br/cursos/tableless2.php&#34;&gt;Tableless II&lt;/a&gt; lá na &lt;a href=&#34;http://visie.com.br/&#34;&gt;Visie&lt;/a&gt;, fiz agora uma versão um pouco diferente. Em vez de falar com várias pessoas de empresas diferentes, fizemos com um grupo especifico de uma empresa apenas, a &lt;a href=&#34;http://www.wcamentoring.com.br/&#34;&gt;WCA&lt;/a&gt;. A experiência é quase a mesma, mas como estamos falando de um grupo que trabalha junto, o foco muda um pouco do podcast anterior. Aproveitem.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Podcast Tableless #22 – Primeira impressão sobre Padrões Web</title>
+      <link>http://localhost/jhonny-roger/public/podcast-tableless-22-primeira-impressao-sobre-padroes-web/</link>
+      <pubDate>Fri, 01 Sep 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/podcast-tableless-22-primeira-impressao-sobre-padroes-web/</guid>
+      <description>Esta semana resolvi fazer um podcast um tanto diferente. Hoje (31&amp;frasl;08) terminou mais um curso de Tableless na Visie. Em um dos dias do curso, nós conversamos um pouco sobre a dificuldade de adotar uma metodologia nova tanto para eles, que estão ingressando agora no mundos o Padrões Web, quanto na tentativa de evangelização dos colegas de trabalho, que na maioria das vezes, demonstram um certo preconceito sobre toda esta mudança.</description>
+    </item>
+    
+    <item>
+      <title>Podcast Tableless #21 – Desenvolvimento em camadas</title>
+      <link>http://localhost/jhonny-roger/public/podcast-tableless-21-desenvolvimento-em-camadas/</link>
+      <pubDate>Thu, 17 Aug 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/podcast-tableless-21-desenvolvimento-em-camadas/</guid>
+      <description>O Tableless está tentando voltar com os podcasts. Para me ajudar nesta empreitada &amp;#8211; que promete ser firme e semanal! 😮 &amp;#8211; chamei o Bruno Torres.
+Estamos tentando remodelar o podcast para que possamos fazer toda semana. Não iremos passar tempo dissecando vários assuntos longos, mas vamos sempre bater papo sobre um assunto específico, que seja de interesse geral. Isso fará com que o tempo do podcast fique menor e mais relevante.</description>
+    </item>
+    
+    <item>
+      <title>CSS3 – Novo mundo de possibilidades</title>
+      <link>http://localhost/jhonny-roger/public/css-3-novo-mundo-de-possibilidades/</link>
+      <pubDate>Thu, 20 Jul 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css-3-novo-mundo-de-possibilidades/</guid>
+      <description>O CSS está para o desenvolvedor como o martelo está para o marceneiro. Companheiro inseparável na hora de implementar algum site.
+Atualmente o CSS está em sua segunda versão. Ele surgiu no ano de 94 (mais detalhes aqui) e a partir daí vem facilitando cada vez mais a vida dos desenvolvedores.
+Em tempos passados, o CSS foi ignorado por quase todos. Hoje, com toda esta revolução em volta dos Padrões, é difícil dizer como vivíamos sem ele.</description>
+    </item>
+    
+    <item>
+      <title>Video Tutorial #10 – Implementação  de layout</title>
+      <link>http://localhost/jhonny-roger/public/video-tutorial-10-implementacao-de-layout/</link>
+      <pubDate>Tue, 06 Jun 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/video-tutorial-10-implementacao-de-layout/</guid>
+      <description>Update: Assista mais video aulas de Tableless no Campus Online.
+Tinha que implementar um layout, resolvi já fazer um video rápido. Sempre é bom mostrar do que só ficar falando e falando e falando&amp;#8230;
+Tamanho: ~40Mb
+Formato: SWF
+Tempo: ~40m46s
+Acessar Video
+Você também pode ficar sabendo dos lançamentos de video tutoriais e outras novidades pelo nosso Feed&amp;#8230; Cadastre-o em seu leitor de feeds favoritos.</description>
+    </item>
+    
+    <item>
+      <title>BlogBits Podcast #5 – A internet mudando pessoas</title>
+      <link>http://localhost/jhonny-roger/public/blogbits-podcast-5-a-internet-mudando-pessoas/</link>
+      <pubDate>Thu, 30 Mar 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/blogbits-podcast-5-a-internet-mudando-pessoas/</guid>
+      <description>Como a internet mudou seu modo de se relacionar? Como a internet mudou seu modo de resolver problemas? Ela te deu mais problemas? Como a internet mudou o seu comportamento diário?
+Discutimos esses assuntos no BlogBits Podcast #5.</description>
+    </item>
+    
+    <item>
+      <title>Breve introdução: XHTML Mobile Profile</title>
+      <link>http://localhost/jhonny-roger/public/breve-introducao-xhtml-mobile-profile/</link>
+      <pubDate>Tue, 28 Mar 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/breve-introducao-xhtml-mobile-profile/</guid>
+      <description>XHTML MP é um subset do já conhecido XHTML. Ele é baseado em um outro subset de XHTML chamada XHTML Basic. O XHTML Basic é uma versão simplificada do XHTML definido pelo W3C. Ele foi feito especificamente para dispositivos com baixo poder de processamento como celulares, PDAs, pagers etc&amp;#8230; O XHTML Basic não contém algumas características que esses dispositivos dificilmente suportam, como por exemplo: Frames, Folhas de Estilo em Cascata e scripts.</description>
+    </item>
+    
+    <item>
+      <title>Video Tutorial #9 – Implementando a home de um site</title>
+      <link>http://localhost/jhonny-roger/public/video-tutorial-9-criando-a-home-da-visie-css/</link>
+      <pubDate>Fri, 24 Mar 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/video-tutorial-9-criando-a-home-da-visie-css/</guid>
+      <description>Update: Você pode assistir mais video aulas como essa no Campus Online. Vídeos grátis de Tableless e Javascript.
+Esse Video Tutorial mostra o processo de aplicação de CSS em cima da estrutura HTML criada no Video Tutorial #8.
+UPDATE: Se alguém quiser baixar o vídeo, só clicar nesse link. O arquivo está em formato Rar (rarlab.com).
+O vídeo tem uma hora de duração, portanto esteja preparado. Meus comentários não foram muito incisivos porque eu não fiz o audio durante gravação.</description>
+    </item>
+    
+    <item>
+      <title>Podcast #19 – WYSIWYG, WiMax e a onda móvel</title>
+      <link>http://localhost/jhonny-roger/public/podcast-19-wysiwyg-wimax-e-a-onda-movel/</link>
+      <pubDate>Tue, 14 Mar 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/podcast-19-wysiwyg-wimax-e-a-onda-movel/</guid>
+      <description>Fiz um podcast rápido para não perder o costume. O som não está aquela maravilha e farei aquelas promessas de político: Nos próximos prometo melhorar.
+Falei sobre a TVA e a Samsung trazendo o WiMax aqui pro Brasil &amp;#8211; São Paulo. Falei sobre uma revolução móvel que isso pode acarretar. Falei um pouquinh sobre a aquisição do Writely pelo Google.
+E o assunto principal foi Editores WYSIWYG.
+Falei pouco e não falei bonito!</description>
+    </item>
+    
+    <item>
+      <title>O que são Media Types do CSS?</title>
+      <link>http://localhost/jhonny-roger/public/o-que-sao-media-types/</link>
+      <pubDate>Mon, 06 Feb 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-que-sao-media-types/</guid>
+      <description>O CSS foi feito para que pudéssemos dizer como o documento irá se apresentar ao usuário em diferentes meios de acesso. Seja ele na tela do seu monitor, na sua impressora, no seu PDA, no seu sintetizador de voz, celular, smartphone, microondas etc e etc&amp;#8230; Não importa com qual dispositivo o usuário esteja acessando seu site, ele deve ser bem apresentado.
+O W3C criou uma forma para fazermos isso com a maior facilidade.</description>
+    </item>
+    
+    <item>
+      <title>Video Tutorial #6 – Transformando layout fixo em fluido</title>
+      <link>http://localhost/jhonny-roger/public/video-tutorial-6-transformando-layout-fixo-em-fluido/</link>
+      <pubDate>Tue, 24 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/video-tutorial-6-transformando-layout-fixo-em-fluido/</guid>
+      <description>Muita gente vem me perguntando como se transforma um layout fixo em um layout fluido. Dependendo de como você criou sua estrutura HTML, isso pode se tornar uma dor de cabeça. Mas, você pode criar uma estrutura HTML que seja simples e ao mesmo tempo lhe de a flexibilidade de se transformar um layout fixo em fluido mudando apenas 1 linha de CSS. Nesse video tutorial, você vai conferir como isso é feito.</description>
+    </item>
+    
+    <item>
+      <title>Podcast #16</title>
+      <link>http://localhost/jhonny-roger/public/podcast-16/</link>
+      <pubDate>Thu, 19 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/podcast-16/</guid>
+      <description>Você se lembra quando o flash começou a abrir suas asinhas? Se lembra de como todos ficaram impressionados e boquiabertos com as possibilidades vindouras? Todos faziam sites &amp;#8220;fúteis&amp;#8221;, com pouco conteúdo mas com muitas firulas e coisas que faziam qualquer visitante ficar apaixonado pelos efeitos especiais.
+Talvez o Ajax tenha o mesmo caminho&amp;#8230;
+tempo: ~9m06
+tamanho: 8,33mb
+Cadastre nosso feed no seu agregador preferido, ou baixe o arquivo mp3.
+ Web 2.</description>
+    </item>
+    
+    <item>
+      <title>Sites para Dispositivos Móveis – Breve introdução</title>
+      <link>http://localhost/jhonny-roger/public/sites-para-dispositivos-moveis-breve-introducao/</link>
+      <pubDate>Thu, 05 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sites-para-dispositivos-moveis-breve-introducao/</guid>
+      <description>Você tem celular? De acordo com a Teleco, em novembro de 2005, havia mais ou menos 82.351.644 de celulares. Ainda me lembro de quando eles eram artigos de luxo, mesmo sendo grandes e pesados.
+Hoje, por um preço razoável, você consegue celulares que tiram fotos e fazem outras coisas que nem James Bond ousava imaginar. E quer saber da melhor? Esse é só o começo.
+Aparelhos com essas e outras possibilidades aparecerão.</description>
+    </item>
+    
+    <item>
+      <title>Bonito de se ver #23 – Brasil</title>
+      <link>http://localhost/jhonny-roger/public/bonito-de-se-ver-23-brasil/</link>
+      <pubDate>Mon, 19 Dec 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/bonito-de-se-ver-23-brasil/</guid>
+      <description> http://www.wrodrigues.com/  http://www.revolucao.etc.br/ http://www.rfreitas.eng.br/rubens/ http://www.panacea.com.br/ http://www.docemel.com.br/   </description>
+    </item>
+    
+    <item>
+      <title>Google, por quê?</title>
+      <link>http://localhost/jhonny-roger/public/google-porque/</link>
+      <pubDate>Sun, 18 Dec 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/google-porque/</guid>
+      <description>O Google é aquela empresa que sabe exatamente o que é útil para todo e qualquer (ou quase) tipo de usuário. Eles detém um certo número de aplicações que vão desde organização e tratamento (bem básico) de fotos, até análise detalhada de informações sobre o seu site. O Google é um ótimo criador de soluções. E convenhamos, soluções no mínimo interessantes.
+Mas uma coisa me intriga. Depois de muito pensar sobre o Google e suas qualidades de fada madrinha, várias perguntas simples me vieram a cabeça.</description>
+    </item>
+    
+    <item>
+      <title>Arrumando a casa</title>
+      <link>http://localhost/jhonny-roger/public/arrumando-a-casa/</link>
+      <pubDate>Thu, 15 Dec 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/arrumando-a-casa/</guid>
+      <description>Estamos muito felizes com a mudança, ainda mais depois de tantos comentários de vocês. Obrigado pelo feedback, é muito gratificante escrever assim.
+Como numa mudança real, algumas coisas ficam dentro das caixas até que alguém dê pela falta delas. Obrigado também por sua paciência. Aos poucos estamos colocando todo o conteúdo de volta.
+Agora foi a vez do Tutorial Tableless Básico, um dos primeiros estudos que escrevi aqui para o Tableless.</description>
+    </item>
+    
+    <item>
+      <title>Novo Tableless, agora WordPress</title>
+      <link>http://localhost/jhonny-roger/public/mudancas-repentinas/</link>
+      <pubDate>Tue, 13 Dec 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/mudancas-repentinas/</guid>
+      <description>Como podem ver, o Tableless passou por uma reformulação. Tradicionalmente, costumo fazer essas mudanças no dia 1º de Janeiro, mas desta vez será diferente.
+Mudamos não só layout (gostou?) mas também nosso sistema de publicação. Nos anos passados, sofríamos um bocado para postar no site. Por isso, nessa reformulação, migramos para WordPress. Estamos gostando muito dessa ferramenta. Eu era um pouco avesso a aplicações prontas de publicação de blog. Por isso, ou fazíamos o nosso próprio ou editávamos direto o XML.</description>
+    </item>
+    
+    <item>
+      <title>Bonito de se ver #21</title>
+      <link>http://localhost/jhonny-roger/public/bonito_de_se_ver21/</link>
+      <pubDate>Sun, 04 Dec 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/bonito_de_se_ver21/</guid>
+      <description> http://blog.splashdesigngroup.com/  http://blog.daninko.ca/ http://www.somethingspecialgiftbaskets.com/ http://armeau2.studioavons.com/ http://www.firewheeldesign.com/   </description>
+    </item>
+    
+    <item>
+      <title>Curso de Tableless</title>
+      <link>http://localhost/jhonny-roger/public/curso-tableless/</link>
+      <pubDate>Thu, 29 Sep 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/curso-tableless/</guid>
+      <description>A maneira que o código HTML é escrito pela grande maioria das empresas é uma das grandes causas dos problemas do desenvolvimento web. A perda de tempo, retrabalho, trabalho de manutenção, atrasos na entrega, problemas com designers e programadores, são alguns dos problemas que equipes sofrem ao desenvolver um projeto, seja ele grande ou pequeno.
+Isso vem de muito antes. Estamos acostumados a desenvolver da maneira complicada. Usamos tabelas para a estruturação de sites, não nos preocupamos com a acessibilidade, tanto de deficientes visuais ou de usuários de mobiles.</description>
+    </item>
+    
+    <item>
+      <title>O que é Tableless?</title>
+      <link>http://localhost/jhonny-roger/public/o-que-etableless/</link>
+      <pubDate>Tue, 09 Aug 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-que-etableless/</guid>
+      <description>A Web foi criada para ser um ambiente onde fosse possível trocar informações livremente, e que essas informações pudessem ser acessadas ao redor do planeta por qualquer pessoa. Em 1994, foi criado o W3C (World Wide Web Consortium): um consórcio internacional, onde são desenvolvidas os padrões para a web (Web Standards) tais como: HTML, CSS, XML, XSLT, entre outros.
+Naquela época, no mercado de browsers, as opções ainda eram poucas: consistiam apenas em Lynx, Mozaic e Netscape Navigator, da Netscape Communications, então liderada por James Clark.</description>
+    </item>
+    
+    <item>
+      <title>FAQ sobre Tableless</title>
+      <link>http://localhost/jhonny-roger/public/faq/</link>
+      <pubDate>Mon, 08 Aug 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/faq/</guid>
+      <description>O que são os Web Standards? Imagine se cada eletrodoméstico usasse um tipo de tomada. E ao comprar um novo eletrodoméstico, você tivesse que adaptar uma tomada nova em sua casa. Imaginou o caos que seria? Felizmente existe um PADRÃO de tomadas para todos os aparelhos domésticos. Se comprarmos um aparelho de som, e então levarmos para outra cidade, estado ou país, a tomada será a mesma e seu aparelho funcionará.</description>
+    </item>
+    
+    <item>
+      <title>Curso de Tableless e Ajax</title>
+      <link>http://localhost/jhonny-roger/public/curso__webstandards/</link>
+      <pubDate>Mon, 18 Apr 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/curso__webstandards/</guid>
+      <description>A Visie é pioneira em ministrar cursos presencias de Padrões Web, Tableless, AJAX e companhia&amp;#8230;
+Você pode fazer cursos individuais ou empresariais treinando grandes equipes. Já treinamos equipes de empresas como Editora Abril, Petrobrás, Terra, Unisys e muitos outros!
+Nós ensinamos pessoas que tenham interesse pela profissão e pela internet. Que gostem de informação e saibam que a internet é algo que muda o relacionamento das pessoas.
+Ensinamos no curso de tableless a escrever código com significado semântico, organizado e fácil de ser indexado por buscadores.</description>
+    </item>
+    
+    <item>
+      <title>Browsers dos Dispositivos Móveis</title>
+      <link>http://localhost/jhonny-roger/public/browsers_em_dispositivos_moveis/</link>
+      <pubDate>Thu, 31 Mar 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/browsers_em_dispositivos_moveis/</guid>
+      <description>Dispositivos Móveis. Este é um terreno muito estranho para os desenolvedores de sites.
+Talvez você tenha ouvido falar em fazer sites para Dispositivos Móveis (Mobiles) depois que começou a estudar Web Standards. Confesso que comecei a dar mais atenção a essa área depois que estudei a fundo os Padrões.
+Mas, para aquele usuário um pouco mais avançado, que quer fazer seus sites aparecerem melhores nestes dispositivos, nada melhor que conhecer os Browsers que estão disponíveis e que são usados pelos usuários de Mobiles.</description>
+    </item>
+    
+    <item>
+      <title>Terra.com.br tableless</title>
+      <link>http://localhost/jhonny-roger/public/terra_tableless/</link>
+      <pubDate>Mon, 27 Sep 2004 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/terra_tableless/</guid>
+      <description>Terra.com.br. Tableless. Passou a funcionar bem no meu Firefox. Redução de mais de 35% do tamanho do download original. Poucas escorregadas no código, mas nada grave considerando a complexidade que é trabalhar em um portal desse tamanho. Estou orgulhoso dos meus alunos.
+Update por Diego: Está muito bom mesmo. E por curiosidade, os dados abaixo são interessantes:
+    Antiga   Tableless     Tamanho total   81 Kb   48 Kb     Tamanho do HTML   10 Kb   8 Kb     Em conexão de 56Kb   16.</description>
+    </item>
+    
+    <item>
+      <title>Muito Obrigado!</title>
+      <link>http://localhost/jhonny-roger/public/muito_obrigado/</link>
+      <pubDate>Wed, 27 Aug 2003 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/muito_obrigado/</guid>
+      <description>É com muito orgulho que eu informo que nós ultrapassamos a faixa de 10000 visitas, e isso não seria possível sem a sua colaboração.
+Nós agradecemos grandemente a todos os visitantes, que desde o começo demonstraram bastante interesse sobre o assunto.
+Esperamos que este site esteja sendo de alguma forma útil para você.
+Um abraço Standard para todos.</description>
+    </item>
+    
+    <item>
+      <title>Tamanho do texto em diferentes browsers</title>
+      <link>http://localhost/jhonny-roger/public/tamanho_do_texto/</link>
+      <pubDate>Fri, 22 Aug 2003 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tamanho_do_texto/</guid>
+      <description>Neste site mostra a diferença do tamanho dos textos em vários browsers.
+E este vem de bonus.
+Vale a pena dar uma olhada.</description>
+    </item>
+    
+    <item>
+      <title>Documentos do W3C em Português</title>
+      <link>http://localhost/jhonny-roger/public/documentos_w3c_portugues/</link>
+      <pubDate>Thu, 07 Aug 2003 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/documentos_w3c_portugues/</guid>
+      <description>Traduções para o português de documentos W3C.
+Alguns artigos do W3C traduzidos para o português. Vale a pena conferir.</description>
+    </item>
+    
+    <item>
+      <title>RSS</title>
+      <link>http://localhost/jhonny-roger/public/rss-2/</link>
+      <pubDate>Thu, 03 Jul 2003 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/rss-2/</guid>
+      <description>O Charles deu a idéia inicial. Tomei um tempinho pra pensar, e aqui vai: RSSficador, um jeito fácil de criar RSS com ASP, XML e Expressões Regulares. De quebra, o Tableless também ganhou um RSS.</description>
+    </item>
+    
+    <item>
+      <title>Construindo Sites com Padrões WEB</title>
+      <link>http://localhost/jhonny-roger/public/construindo_sites_com_padroes/</link>
+      <pubDate>Tue, 24 Jun 2003 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/construindo_sites_com_padroes/</guid>
+      <description>Uma série de artigos sobre Sites com Padrões Web que o Ronaldo M. Ferraz, está escrevendo.
+Estes artigos são ótimos para pessoas que estão começando a se interessar por Padrões da Web, e querem criar sites Tableless e responde a muitas questões freqüentes sobre o assunto. Já tem dois artigos prontos. É só conferir.
+Artigo 1 &amp;#8211; Introdução
+Artigo 2 &amp;#8211; Ferramentas</description>
+    </item>
+    
+    <item>
+      <title>Revista do Linux</title>
+      <link>http://localhost/jhonny-roger/public/revista_do_linux/</link>
+      <pubDate>Tue, 17 Jun 2003 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/revista_do_linux/</guid>
+      <description>Sou leitor assíduo da Revista do Linux. Fiquei muito surpreso, e contente, quando comecei a ler a edição desse mês e encontrei, na página 7, uma nota sobre o desenvolvimento tableless, com link para o Tableless.com.br, o nome do Diego e o meu. Obrigado ao pessoal da Revista do Linux pela força. Um viva multiplataforma!</description>
+    </item>
+    
+    <item>
+      <title>99,9% dos sites web estão obsoletos</title>
+      <link>http://localhost/jhonny-roger/public/99_dos_sites_sao_obsoletos/</link>
+      <pubDate>Thu, 12 Jun 2003 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/99_dos_sites_sao_obsoletos/</guid>
+      <description>O Pedro Mendes traduziu o artigo do Zeldman.
+99,9% dos sites web estão obsoletos
+Lendo o artigo, eu tive mais certeza de que: Tableless é o bicho!</description>
+    </item>
+    
+    <item>
+      <title>Tutorial Tableless Básico em HTML5 – Layout de 3 colunas</title>
+      <link>http://localhost/jhonny-roger/public/tutorial-tableless/</link>
+      <pubDate>Wed, 14 May 2003 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tutorial-tableless/</guid>
+      <description>Aqui está! Aprenda agora a construir sites acessíveis em qualquer navegador ou dispositivo, leves, que carregam extremamente rápido, e ganhe muito tempo de desenvolvimento e manutenção.
+São dois vídeos que explicam a implementação HTML e o CSS de um layout básico. Aproveite!
+Implementação HTML de um layout básico
+Implementação CSS do layout
+O arquivos para você tentar você mesmo estão aqui.
+Quer ver mais vídeos sobre desenvolvimento web? Visite nosso Campus Online.</description>
+    </item>
+    
+    <item>
+      <title>VIVO-SP Tableless</title>
+      <link>http://localhost/jhonny-roger/public/vivo_tableless/</link>
+      <pubDate>Thu, 17 Apr 2003 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/vivo_tableless/</guid>
+      <description>Implementei (ainda faltam detalhes), mas quis divulgar para fechar a semana de páscoa.
+Ainda estou ajustando alguma coisa no código, mas já está 99% pronto&amp;#8230; Sugestões e Críticas são bem vindas, não se esqueçam.
+VIVO-SP Tableless
+Feliz Páscoa!</description>
+    </item>
+    
+  </channel>
+</rss>

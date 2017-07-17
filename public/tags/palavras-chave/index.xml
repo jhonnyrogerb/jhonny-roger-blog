@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Palavras Chave on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/palavras-chave/</link>
+    <description>Recent content in Palavras Chave on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 19 Feb 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/palavras-chave/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dicas de SEO para Front-end</title>
+      <link>http://localhost/jhonny-roger/public/dicas-de-seo-para-front-end/</link>
+      <pubDate>Thu, 19 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/dicas-de-seo-para-front-end/</guid>
+      <description>1 &amp;#8211; Webmaster Tools Webmaster Tools é uma ferramenta disponibilizada pelo Google e através dela você pode medir o desempenho de seu site, ter informações bem completas de erros e melhorias e muito mais para você que queira investir em otimização.
+ Mas, como começo a utilizar esta ferramenta?  Simples! Você só precisa dar permissão ao Webmaster Tools a seu site, enviando um arquivo HTML para o FTP (é o método mais recomendado), ou utilizando uma meta tag ou outros tipos de verificação.</description>
+    </item>
+    
+  </channel>
+</rss>

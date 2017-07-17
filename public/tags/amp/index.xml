@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amp on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/amp/</link>
+    <description>Recent content in Amp on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 13 Jul 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/amp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Você conhece AMP?</title>
+      <link>http://localhost/jhonny-roger/public/voce-conhece-amp/</link>
+      <pubDate>Wed, 13 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/voce-conhece-amp/</guid>
+      <description>O projeto AMP &amp;#8211; Accelerated Mobile Pages, é uma iniciativa Google em conjunto com alguns publishers como Chartbeat, Vox, WordPress.com, Twitter, The Washington Post, UOL, etc; de trabalhar uma estrutura de rápido carregamento de conteúdos em Smartphones. Afinal, apesar da navegação mobile crescer dia-a-dia as soluções para uma entrega com mais velocidade ainda andam a passos lentos. Nossa conexão de internet em celulares ainda não tem a devida capacidade e nos obriga a, em alguns casos, buscar tamanha versatilidade em nosso desenvolvimento web a ponto de, em um site responsivo, ter que oferecer uma &amp;#8220;cidade completa e bem elaborada&amp;#8221; em sua versão desktop e uma &amp;#8220;ilha&amp;#8221; em sua versão mobile para não correr o risco de prejudicar nosso usuário.</description>
+    </item>
+    
+  </channel>
+</rss>

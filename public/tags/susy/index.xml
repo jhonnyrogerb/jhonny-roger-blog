@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Susy on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/susy/</link>
+    <description>Recent content in Susy on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 03 Aug 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/susy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Criando Layouts com Susy Framework</title>
+      <link>http://localhost/jhonny-roger/public/criando-layouts-com-susy-framework/</link>
+      <pubDate>Mon, 03 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-layouts-com-susy-framework/</guid>
+      <description>Com a alta demanda e prazos cada vez menores somos obrigados a trabalhar cada vez mais rápido e isso serve de incentivo para que novos frameworks sejam feitos buscando melhorar a qualidade no desenvolvimento. Um desses frameworks é o Susy e nesse artigo vamos conhecer e dar os primeiros passos com ele.
+O que é Susy? Susy é um framework que permite criar grids de acordo com as necessidades do seu site.</description>
+    </item>
+    
+  </channel>
+</rss>

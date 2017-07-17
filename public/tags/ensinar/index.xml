@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ensinar on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/ensinar/</link>
+    <description>Recent content in Ensinar on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 27 Dec 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/ensinar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ensine mais</title>
+      <link>http://localhost/jhonny-roger/public/ensine-mais/</link>
+      <pubDate>Fri, 27 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ensine-mais/</guid>
+      <description>Nosso mercado cresceu bastante durante os últimos 5 anos. Não apenas aqui no Brasil, mas no mundo todo. O front-end amadureceu e ganhou corpo.
+O Tableless existe há 10 anos. O mercado front-end brasileiro nessa época era tão pobre, que eu consigo contar nos dedos os sites e listas de discussão que eu conhecia na época sobre o assunto. Não havia muitas fontes brasileiras para ler e aprender, principalmente quando buscávamos sobre novidades das linguagens.</description>
+    </item>
+    
+  </channel>
+</rss>

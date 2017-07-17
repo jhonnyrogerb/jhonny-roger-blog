@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Firefox on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/firefox/</link>
+    <description>Recent content in Firefox on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 05 Aug 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/firefox/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mozilla anuncia Firefox 48 para desktop com multi-processamento</title>
+      <link>http://localhost/jhonny-roger/public/mozilla-anuncia-firefox-48-para-desktop-com-multi-processamento/</link>
+      <pubDate>Fri, 05 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/mozilla-anuncia-firefox-48-para-desktop-com-multi-processamento/</guid>
+      <description>Mozilla anunciou em 02 de Agosto, o lançamento do Firefox 48, a introdução de um recurso de multi-processo é muito aguardada para o navegador, juntamente com um punhado de ajustes na interface.
+Firefox 48 é a primeira versão do navegador que inclui Electrólise (ou e10s), um recurso de multi-processo de desenvolvedores do Mozilla que têm sido muito trabalhada nesses últimos sete anos.
+O Multi-processo do Firefox separa os processos de conteúdo da web e interface do usuário, de modo que quando uma página web consume uma grande quantidade de processamento, outras abas abertas, botões e menus não ficam sem resposta.</description>
+    </item>
+    
+    <item>
+      <title>Mozilla libera primeira compilação do Servo, o seu motor de renderização</title>
+      <link>http://localhost/jhonny-roger/public/mozilla-libera-primeira-compilacao-do-servo-o-seu-motor-de-renderizacao/</link>
+      <pubDate>Sun, 03 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/mozilla-libera-primeira-compilacao-do-servo-o-seu-motor-de-renderizacao/</guid>
+      <description>A lançou a primeira compilação de Servo, seu novo engine. Esta é a primeira demonstração que Jack Moffitt, líder do projeto na Mozilla, descreveu como &amp;#8220;um mecanismo de navegação de última geração com foco no desempenho e robustez.&amp;#8221;
+Pacotes para o MacOS e Linux estão disponíveis para download aqui: Servo Developer Preview downloads. A Mozilla promete que os pacotes para Windows e Android estarão disponíveis &amp;#8220;em breve&amp;#8221; e você pode verificar todo o código fonte no GitHub.</description>
+    </item>
+    
+    <item>
+      <title>Humble Mozilla Bundle</title>
+      <link>http://localhost/jhonny-roger/public/humble-mozilla-bundle/</link>
+      <pubDate>Mon, 20 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/humble-mozilla-bundle/</guid>
+      <description>Você já deve conhecer o Humble Bundle, um site que junta jogos e apps e os vende por um preço baratíssimo, onde você doa qualquer quantia para ter acesso a jogos selecionados. Se você doar um pouco mais do que a média você ganha jogos adicionais exclusivos. O Humble Bundle da vez é da Mozilla, onde um pacote de indie games, que eram jogados via desktops, agora podem ser jogados diretamente do sue browser.</description>
+    </item>
+    
+    <item>
+      <title>Desenvolvendo para Firefox OS</title>
+      <link>http://localhost/jhonny-roger/public/desenvolvendo-para-firefox-os/</link>
+      <pubDate>Mon, 20 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/desenvolvendo-para-firefox-os/</guid>
+      <description>Introdução Firefox OS é novo sistema operacional móvel desenvolvido pela Mozilla. Para nós desenvolvedores web ficou fácil criar aplicativos para aparelhos mobile, pois para desenvolver é utilizado apenas HTM5, CSS e JAVASCRIPT.
+Para testar seus aplicativos não precisa ter um smartphone com Firefox OS, basta baixar a extensão (Firefox OS Simulator) do Firefox disponível em Windows, Linux e MAC OS X.
+Colocando em pratica Primeiro passo é instalar a extensão Firefox OS Simulator em seu Firefox.</description>
+    </item>
+    
+    <item>
+      <title>10 anos de Firefox</title>
+      <link>http://localhost/jhonny-roger/public/10-anos-de-firefox/</link>
+      <pubDate>Mon, 24 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/10-anos-de-firefox/</guid>
+      <description>E o Firefox faz 10 anos.
+Para quem não sabe o Firefox é filho do Mozilla, que é filho do Netscape, que é filho do Mosaic, que era o verbo e criou a internet em 7 dias. 😉
+Abaixo segue alguns vídeos para comemorar a data. Se você é um desenvolvedor de verdade, é praticamente uma obrigação assisti-los. Se você é novato na área, esses vídeos vão te mostrar como era desenvolver para web.</description>
+    </item>
+    
+    <item>
+      <title>Open Web Device</title>
+      <link>http://localhost/jhonny-roger/public/open-web-device/</link>
+      <pubDate>Tue, 14 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/open-web-device/</guid>
+      <description>Já pensou em um smartphone que seja baseado em HTML5, onde suas aplicações podem consultar o status da bateria, atender ligações, vibrar e etc?
+A Telefônica e a Mozilla estão trabalhando juntas em um aparelho que torna isso real. É um aparelho tão próximo do desenvolvedor web que chega a ser difícil de acreditar que já estamos num patamar tão elevado.
+Atualmente nós temos acesso a poucos recursos dos smartphones. Além disso, praticamente nenhum dos grandes players de mercado permitem o desenvolvimento de aplicações utilizando HTML/CSS/HTML5 sem a ajuda de algumas ferramentas extras.</description>
+    </item>
+    
+    <item>
+      <title>Querido usuário: Por favor, atualize seu browser</title>
+      <link>http://localhost/jhonny-roger/public/querido-usuario-atualize-seu-browser/</link>
+      <pubDate>Sun, 15 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/querido-usuario-atualize-seu-browser/</guid>
+      <description>Compras. Redes sociais. Email. Leitura. Buscando. Banco. Pesquisa. Tudo isso são tarefas comuns que pessoas fazem na Internet. Você provavelmente faz todas essas coisas em algum momento. Então, você é igual a muitas pessoas, voc6e provavalmente faz essas coisas toda semana (e muitas vezes todos os dias).
+O blog que você está lendo agora, Tableless, normalmente publica conteúdo que envolve designers gráficos, web designer e desenvolvedores web com níveis de conhecimento técnico variáveis.</description>
+    </item>
+    
+    <item>
+      <title>Um novo número 1</title>
+      <link>http://localhost/jhonny-roger/public/um-novo-numero-1/</link>
+      <pubDate>Sun, 15 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/um-novo-numero-1/</guid>
+      <description>Imagine um mundo onde o Internet Explorer não é o browser dominante&amp;#8230; Imaginou? Pois é&amp;#8230; você vive nesse mundo.
+Em Junho (2012) o Chrome passou o Internet Explorer nas estatísticas, de acordo com o StatCounter.
+ Source: StatCounter Global Stats &amp;#8211; Browser Market Share
+O Chrome não é o principal browser em vários países, por exemplo na América do Norte, mas é muito popular em países como Índia e até o Brasil.</description>
+    </item>
+    
+    <item>
+      <title>Ferramentas de diagnóstico</title>
+      <link>http://localhost/jhonny-roger/public/ferramentas-de-diagnostico/</link>
+      <pubDate>Mon, 11 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ferramentas-de-diagnostico/</guid>
+      <description>Se você escreve CSS e HTML provavelmente tem problemas de compatibilidade e visualização. Isso é normal, acontece com os melhores desenvolvedores. Quando isso acontece, o melhor a se fazer é um trabalho investigativo. Esse trabalho normalmente é ingrato porque você demora horas investigando o seu código para encontrar o erro e geralmente esse erro é solucionado com uma linha de código. Para você descobrir qual é essa linha, você precisa de ferramentas que te ajudem a decifrar todo o problema.</description>
+    </item>
+    
+    <item>
+      <title>Novo parser HTML5 – FF4</title>
+      <link>http://localhost/jhonny-roger/public/parser-html5-firefox4/</link>
+      <pubDate>Mon, 28 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/parser-html5-firefox4/</guid>
+      <description>O Firefox é o meu browser favorito embora não seja meu browser padrão atualmente. Durante muito tempo ele me segurava com suas extensions exclusivas. Os outros browsers demoraram para ter uma coleção aceitável de extensions que realmente competissem com as do Firefox.
+Foi lançado na semana passada o Firefox 4.0 que trouxe uma série de mudanças interessantes. Uma das atualizações mais importantes foi o &amp;#8220;redesign&amp;#8221; do parser de HTML5.</description>
+    </item>
+    
+    <item>
+      <title>Ah, o maravilhoso mundo real</title>
+      <link>http://localhost/jhonny-roger/public/ah-o-maravilhoso-mundo-real/</link>
+      <pubDate>Thu, 10 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ah-o-maravilhoso-mundo-real/</guid>
+      <description>O Diego publicou, há mais de uma semana, um artigo sobre o impacto da mudança de estratégia do W3C em relação ao ciclo de vida de seus padrões. O artigo gerou algumas opiniões contrárias nos comentários, em relação ao fato de ele ter dito que bordas arredondadas são mais importantes que a web semântica e em relação à estratégia de especificações modulares do W3C. Vou compartilhar minha opinião sobre os dois pontos.</description>
+    </item>
+    
+    <item>
+      <title>Lançado Firefox 3.5</title>
+      <link>http://localhost/jhonny-roger/public/lancado-firefox-3-5/</link>
+      <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/lancado-firefox-3-5/</guid>
+      <description>A Mozilla acaba de lançar a versão 3.5 do Firefox. Esta versão traz uma série de atualizações interessantes tanto para usuários quanto para nós desenvolvedores. Fiz um resumo de algumas novas características logo abaixo. Irei fazer alguns posts posteriores explicando mais detalhadamente as propriedades e outras funcionalidades.
+Elementos de Áudio e Vídeo do HTML5 A adoção de algumas características do HTML5 está se tornando cada vez mais frequente nos novos browsers.</description>
+    </item>
+    
+    <item>
+      <title>Safari 4 Beta</title>
+      <link>http://localhost/jhonny-roger/public/safari-4-beta/</link>
+      <pubDate>Wed, 25 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/safari-4-beta/</guid>
+      <description>&lt;p&gt;O Safari é o &lt;a href=&#34;http://www.thecounter.com/stats/2008/December/browser.php&#34;&gt;quarto browser mais utilizado&lt;/a&gt; segundo o &lt;a href=&#34;http://www.thecounter.com/&#34;&gt;The Counter&lt;/a&gt;, com 4%, logo atrás do Firefox com 17%.&lt;/p&gt;
+
+&lt;p&gt;O beta da sua versão 4 acabou de ser lançado e tem uma série de modificações visuais e outras novidades.&lt;/p&gt;
+
+&lt;p&gt;Na sua versão beta, foram adicionados algumas características interessantes para a utilização da navegação do usuário. A Apple diz que são 150 novidades na versão 4 beta. &lt;a href=&#34;http://www.apple.com/safari/features.html&#34;&gt;Dê uma olhada aqui na lista completa&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>O Chrome não quer dizer muita coisa</title>
+      <link>http://localhost/jhonny-roger/public/chrome-nao-quer-dizer-muita-coisa/</link>
+      <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/chrome-nao-quer-dizer-muita-coisa/</guid>
+      <description>&lt;p&gt;O Google lançou &lt;a href=&#34;http://www.google.com/googlebooks/chrome/&#34;&gt;sua presença no mercado de browsers&lt;/a&gt;. Atitude interessante mas que para mim não quer dizer muita coisa. Ter um novo browser não muda muito (a minha) a vida dos desenvolvedores. Lembre-se que não importa quão bom seja o Firefox, Safari ou o &lt;a href=&#34;http://www.google.com/chrome/&#34;&gt;Google Chrome&lt;/a&gt;, nós, desenvolvedores temos sempre que nivelar tudo por baixo, pelo Internet Explorer 6. Se o Chrome ou qualquer outro novo navegador ajudar com que o IE6 seja definitivamente descontinuado, eles serão bem-vindos. Caso contrário, o lançamento de bons browsers só vai, por assim dizer, brochar a vontade dos profissionais que querem utilizar recursos mais avançados do CSS mas não podem por conta do IE6. O IE7 foi um avanço interessante. O IE8 está pretendendo ser. Mas até mesmo o IE8 não vai ser muito útil enquanto ele não tomar a o lugar do Internet Explorer 6. O mesmo vale para qualquer outro browser.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Web Standards Project – WaSP</title>
+      <link>http://localhost/jhonny-roger/public/web-standards-project-wasp/</link>
+      <pubDate>Mon, 23 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/web-standards-project-wasp/</guid>
+      <description>&lt;p&gt;No início, fabricantes de browsers, W3C e desenvolvedores começaram quase que ao mesmo tempo.&lt;/p&gt;
+
+&lt;p&gt;Neste começo não brotaram desenvolvedores web do chão. Essa profissão não existia. Os primeiros que trabalharam nessa área, migraram de profissões parecidas: quem era programador desktop naquele tempo, começou a programar para web. Quem era designer de impresso, começou a fazer design para web.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Browsers – Guerra Fria</title>
+      <link>http://localhost/jhonny-roger/public/browsers-guerra-fria/</link>
+      <pubDate>Tue, 18 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/browsers-guerra-fria/</guid>
+      <description>&lt;p&gt;Quando o Netscape e o Internet Explorer faziam a Guerra dos Browsers o principal objetivo era conquistar usuários. As formas que os dois utilizavam para adquirir adeptos eram prejudiciais para o desenvolvimento web. Basicamente o que os browsers faziam era criar códigos proprietários. Isso gerava um retrabalho terrível para os desenvolvedores. Se você tivesse 10 sites para gerenciar, na verdade seriam 20, por conta de ter a necessidade de haver uma versão para Netscape e outra para Internet Explorer. Isso gerava trabalho em dobro. Se houvesse alguma modificação no layout, texto ou programação, o desenvolvedor teria que atualizar as duas versões dos sites. &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>IE8 – O sonho não acabou</title>
+      <link>http://localhost/jhonny-roger/public/ie8-o-sonho-nao-acabou/</link>
+      <pubDate>Sun, 09 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ie8-o-sonho-nao-acabou/</guid>
+      <description>&lt;p&gt;Para você se inteirar do assunto, leia &lt;a href=&#34;http://tableless.com.br/ie8-targeting-version&#34;&gt;Browser Targeting Version&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;No artigo que recomendei acima, lá nos últimos parágrafos dei minha opinião sobre a antiga decisão da Microsoft:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Mesmo assim, acho que tudo deveria ser nivelado por cima. Porque os desenvolvedores que se preocupam e utilizam os Padrões da maneira correta, são os que devem marcar o browser? Não seria mais fácil criar uma metatag para marcar os sites que não devem ser renderizados com o suporte avançado de Padrões? Quem deve se preocupar, são os desenvolvedores que não dão a mínima para os Padrões. Eles sim devem trabalhar para deixar seus sites atualizados.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Browser Targeting Version</title>
+      <link>http://localhost/jhonny-roger/public/ie8-targeting-version/</link>
+      <pubDate>Fri, 25 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ie8-targeting-version/</guid>
+      <description>&lt;p&gt;Para que possamos entender melhor o assunto do IE8 e como ele tratará as páginas, é bom que possamos entender o que houve no passado. Se você se lembrar bem como foi entre os anos de 1999, 2000 e 2001, provavelmente você vai lembrar que durante algum tempo, tínhamos que nos virar para garantir a total compatibilidade dos nossos sites em diversos browsers. Os principais eram o IE5, IE6, Firefox e Opera. Era uma época que &amp;#8211; como no começo da bolha &amp;#8211; estava tudo acontecendo ao mesmo tempo. Os Padrões Web estavam virando moda, os browsers, pelo menos os mais inteligentes, estavam se virando para suportar os Padrões, e os usuários ficando mais espertos e ativos na internet. Tudo era muito passível de erros de compatibilidade e renderização.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Image-Replacement x Imagens</title>
+      <link>http://localhost/jhonny-roger/public/image-replacement-x-imagens/</link>
+      <pubDate>Thu, 06 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/image-replacement-x-imagens/</guid>
+      <description>Este assunto é muito abrangente e divertido de ser debatido.
+Portanto, se você discordar deste texto, quero que lembre que é minha opinião&amp;#8230; claro, sempre podemos mudar de idéia. 😀
+Para não viajarmos muito, vamos pegar como pauta deste texto, o ponto que discutimos na &amp;#8220;Lições Sobre Semântica #3&amp;#8221;.
+O ponto era fazer títulos com imagens ou image-replacement?
+Bem, felizmente temos uma base para nos guiar&amp;#8230; O código deve ficar o mais semântico possível.</description>
+    </item>
+    
+    <item>
+      <title>Flock 1.0 – agora dá para usar</title>
+      <link>http://localhost/jhonny-roger/public/flock-10-agora-da-para-usar/</link>
+      <pubDate>Sun, 02 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/flock-10-agora-da-para-usar/</guid>
+      <description>O Firefox é o browser do meu coracão. Não vivo mais sem suas extensões. Se você é desenvolvedor e usa Firefox, sabe do que estou falando.
+Só que eu não sou apenas desenvolvedor. Nas horas vagas, sou gente normal. Gosto de passar uma parte do meu tempo navegando pelos meus sites prediletos. Por isso, eu gastava algumas horas procurando por extensões que me deixassem mais ligado em sites como Flickr, Twitter e Del.</description>
+    </item>
+    
+    <item>
+      <title>BlogBits Podcast #4 – Anúncios na Web</title>
+      <link>http://localhost/jhonny-roger/public/blogbits-podcast-4-anuncios-na-web/</link>
+      <pubDate>Fri, 24 Mar 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/blogbits-podcast-4-anuncios-na-web/</guid>
+      <description>No ar mais um podcast do BlogBits.
+Desta vez com a presença de Bruno Torres, Leo Faoro, Rigonatti e Gui Leite. Nem eu nem o Danilo Medeiros participamos. Eu gostaria muito de ter participado. Falamos sobre ferramentas como o Google Adsense, Mercado Livre, Submarino e outras. Discutimos ainda um pouco sobre anúncios em Podcasts e outros assuntos, em um programa com 39 minutos e 17MB.
+A melhor maneira de acompanhar o podcast é adicionar o feed em seu agregador favorito, mas você pode também baixar o programa em mp3 diretamente aqui.</description>
+    </item>
+    
+    <item>
+      <title>Podcast #18 – Opera 9, Wasabi, Songbird e Semântica</title>
+      <link>http://localhost/jhonny-roger/public/podcast-18-opera-9-wasabi-songbird-e-semantica/</link>
+      <pubDate>Mon, 13 Feb 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/podcast-18-opera-9-wasabi-songbird-e-semantica/</guid>
+      <description>Nesse podcast falamos um pouco sobre o lançamento Opera 9 Preview&amp;#8230; vocês perceberam que ele veio uma semana depois de sair o Beta 2 do IE7? 🙂
+Falamos sobre o Wasabi! Tá sabendo?
+Falamos sobre o Songbird: Um player de Mp3 Open Source baseado no motor do Firefox. Parece ser interessante, embora eu não tenha gostado muito do programa. Achei meio dificil.
+Tamanho: ~27,2Mb
+Tempo: ~29m43
+Aconselhamos você a inscrever nosso Feed no seu agregador preferido, para facilitar seu acesso às novidades, ou simplesmente baixe o mp3 direto.</description>
+    </item>
+    
+    <item>
+      <title>IE para MAC deixado de lado (ainda bem)</title>
+      <link>http://localhost/jhonny-roger/public/ie-para-mac-deixado-de-lado-ainda-bem/</link>
+      <pubDate>Mon, 19 Dec 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ie-para-mac-deixado-de-lado-ainda-bem/</guid>
+      <description>Quem já teve que resolver alguns problemas de compatibilidade de layout para IE/Mac, sabe que não é fácil.
+Mas agora, todos os problemas acabaram! O Microsoft anunciou que vai parar de dar suporte ao IE/Mac no dia 31 de Dezembro de 2005. E, em 31 de Janeiro de 2006, ele já não estará disponível para download.
+Ótima notícia para todas as partes. Menos um browser que não segue os padrões para os desenvolvedores se preocuparem.</description>
+    </item>
+    
+    <item>
+      <title>SVG e o Firefox 1.5</title>
+      <link>http://localhost/jhonny-roger/public/svg-e-o-firefox-15/</link>
+      <pubDate>Thu, 15 Dec 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/svg-e-o-firefox-15/</guid>
+      <description>Finalmente podemos falar em SVG na Web. Ou quase&amp;#8230; Falta o Internet Explorer. Veja uma breve introdução ao assunto, com alguns exemplos do que é possível.
+Atenção! Você precisa do Firefox 1.5 para ver esses exemplos. O Opera para Windows trava se você tentar acessar. O Opera 8.5 para Linux se comporta bastante bem.</description>
+    </item>
+    
+    <item>
+      <title>FAQ sobre Tableless</title>
+      <link>http://localhost/jhonny-roger/public/faq/</link>
+      <pubDate>Mon, 08 Aug 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/faq/</guid>
+      <description>O que são os Web Standards? Imagine se cada eletrodoméstico usasse um tipo de tomada. E ao comprar um novo eletrodoméstico, você tivesse que adaptar uma tomada nova em sua casa. Imaginou o caos que seria? Felizmente existe um PADRÃO de tomadas para todos os aparelhos domésticos. Se comprarmos um aparelho de som, e então levarmos para outra cidade, estado ou país, a tomada será a mesma e seu aparelho funcionará.</description>
+    </item>
+    
+    <item>
+      <title>Terra.com.br tableless</title>
+      <link>http://localhost/jhonny-roger/public/terra_tableless/</link>
+      <pubDate>Mon, 27 Sep 2004 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/terra_tableless/</guid>
+      <description>Terra.com.br. Tableless. Passou a funcionar bem no meu Firefox. Redução de mais de 35% do tamanho do download original. Poucas escorregadas no código, mas nada grave considerando a complexidade que é trabalhar em um portal desse tamanho. Estou orgulhoso dos meus alunos.
+Update por Diego: Está muito bom mesmo. E por curiosidade, os dados abaixo são interessantes:
+    Antiga   Tableless     Tamanho total   81 Kb   48 Kb     Tamanho do HTML   10 Kb   8 Kb     Em conexão de 56Kb   16.</description>
+    </item>
+    
+    <item>
+      <title>Browsers</title>
+      <link>http://localhost/jhonny-roger/public/browsers/</link>
+      <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/browsers/</guid>
+      <description>Ferramenta importante para o bom desenvolvimento de um site WebStandards. É bom o pessoal que está começando conheça estes browsers, e se possível tenha eles instalados para poder testar os sites, e até escolher um preferido.
+Lynx (Browser de texto) &amp;#8211; http://lynx.browser.org/
+Netscape &amp;#8211; http://channels.netscape.com/ns/browsers/
+Mozilla &amp;#8211; http://www.mozilla.org/
+Firebird &amp;#8211; http://www.mozilla.org/projects/firebird/
+Opera &amp;#8211; http://www.opera.com/
+Konkeror (Linux) &amp;#8211; http://www.konqueror.org/
+Safari (Mac) &amp;#8211; http://www.apple.com/safari/
+Internet Explorer &amp;#8211; http://www.microsoft.com/ie/</description>
+    </item>
+    
+  </channel>
+</rss>

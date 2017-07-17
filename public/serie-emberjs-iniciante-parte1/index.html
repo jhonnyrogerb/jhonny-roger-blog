@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245847">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>É com muito prazer que começo a escrever aqui no Tableless para ajudá-lo a utilizar um dos melhores frameworks (IMHO) JavaScript atualmente: o EmberJS.</p>
+
+<p>A ideia é ter uma série de artigos sobre EmberJS, visando atender aos que estão começando agora. Por isso, se você já é um cara avançado, não se empolgue, quero fazer algo bem light, certo? Vamos lá então!</p>
+
+<p>Nesta primeira parte começaremos uma aplicação. Faremos com que o resultado seja mostrar uma mensagem de boas vindas ao usuário.</p>
+
+<p>Lápis e caneta na mão&#8230; Oops, melhor: teclados a postos, vamos codar.</p>
+
+<h2 id="1-o-download">1. O Download</h2>
+
+<p>Primeiramente, vá até o site do nosso querido framework Ember (www.emberjs.com) e faça seu download. Esse passo é simples: basta apenas clicar no link &#8220;Download Starter Kit&#8221; e pronto.</p>
+
+<h2 id="2-descompactar-o-arquivo">2. Descompactar o Arquivo</h2>
+
+<p>Parece óbvio, mas como dito no início, vamos devagar: vá até onde você salvou o arquivo do Ember e descompacte-o. Depois disso, caso prefira, mude o nome da pasta para um nome mais sugestivo. Feito isso abra a pasta e veja seus diretórios e arquivos responsáveis pelo funcionamento do framework. Não vou me ater a isso aqui pois você pode encontrar detalhes <a title="Ember JS ... Do Zero!" href="http://emberjs.com.br/blog/?p=14" target="_blank">aqui neste post</a>.</p>
+
+<h2 id="3-abrindo-os-arquivos">3. Abrindo os arquivos!</h2>
+
+<p>Os arquivos que você trabalhará para alcançar nosso objetivo (neste artigo) serão o <strong>index.html </strong>e o <strong>app.js. </strong>Este último localizado na pasta &#8220;<strong>js</strong>&#8220;. Então, usando seu editor favorito (o meu é o Sublime!) abra estes dois arquivos para manipulá-los.</p>
+
+<h2 id="4-criar-a-aplicação">4. Criar a aplicação</h2>
+
+<p>No Ember, para que uma aplicação possa existir e funcionar, é necessário que se declare uma variável que crie uma Application. O arquivo <strong>app.js</strong> é o responsável por ter esta chamada. O código é simples e ocupa 1 linha apenas:</p>
+
+<pre class="lang-javascript">var App = Ember.Application.create();</pre>
+
+<p>Sugiro que você não apenas mantenha o código que já vem escrito, mas apague e faça do zero mesmo. Assim poderá entender como as coisas vão acontecendo ao longo desta série.</p>
+
+<h2 id="5-criar-a-rota">5. Criar a Rota </h2>
+
+<p>A próxima coisa que temos a fazer é criar uma rota no nosso arquivo <strong>app.js.</strong> As rotas são muito importantes, pois são por onde chamaremos a aplicação (pela URL) e ela nos dirá quais dados carregar e em qual template. Todas as rotas ficarão mapeadas dessa forma:</p>
+
+<pre class="lang-javascript">App.Router.map(function(){
+
+this.route('index');
+
+this.route('hello',{path : '/bem-vindo'});
+
+});
+</pre>
+
+<p>Note que temos 2 rotas mapeadas: uma chamada <strong>index</strong> e outra <strong>hello.</strong> A conclusão é de que se digitarmos no URL, por exemplo, <em>www.meuapp.com/index</em> então a rota index chamará o template de mesmo nome para ser carregado para o usuário. Uma atenção para o segundo parâmetro do route é um objeto que contem a propriedade &#8220;<strong>path</strong>&#8220;. Neste caso, o que está escrito como valor de path pode ser digitado pelo usuário no URL e o template acionado será o <strong>hello. </strong>Maneiro, né?</p>
+
+<h2 id="6-criar-os-templates">6. Criar os templates</h2>
+
+<p>Agora que temos as rotas devidamente criadas e configuradas, podemos criar no arquivo <strong>index.html</strong> os nossos templates. Aqui vale lembrar que você verá um monte de coisas entre tags <script>, certo? Pois bem. O Ember utiliza como engine de template padrão o <a title="Handlebars" href="http://handlebarsjs.com" target="_blank">Handlebars</a>, e então essas tags são necessárias para que tudo rode nos conformes!</p>
+
+<p>Pode apagar tudo (ou quase tudo). Tenha atenção na chamada dos scripts, pois há uma ordem devido as suas dependências. Jquery vem primeiro, depois Handlebars e por fim o EmberJS. Daí sim, você pode chamar seu app.js (aquele que estava mexendo até agorinha, não esqueceu né?!).</p>
+
+<p>Para criar um novo template é simples, veja:</p>
+
+<pre class="lang-html">&lt;script type="<strong>text/x-handlebars</strong>" id="<strong>nomedotemplate</strong>"&gt;
+
+// aqui o conteúdo do meu template!
+
+&lt;/script&gt;
+</pre>
+
+<p>Como queremos o template <strong>hello</strong>, basta colocar o nome dele ali na propriedade <strong>id </strong>da tag script, certo? E mais uma coisa, note que o atributo <strong>type</strong> não é <em>text/script,</em> mas sim <strong>text/x-handlebars, </strong>por causa da engine que estamos usando.</p>
+
+<p>Adicione algum conteúdo dentro do template, como por exemplo o tão clichê &#8220;Olá Mundo!&#8221;, para que seja visto na tela.</p>
+
+<h2 id="7-testando-8230">7. Testando&#8230;</h2>
+
+<p>Bem, por fim criamos os 2 templates que queríamos e a aplicação já pode ser vista, no navegador!</p>
+
+<p>Sua URL será algo parecido com isso: <strong><a href="http://localdasuaaplicacao/#bem-vindo">http://localdasuaaplicacao/#bem-vindo</a></strong> e <strong><a href="http://localdasuaaplicacao/#index">http://localdasuaaplicacao/#index</a></strong></p>
+
+<p>Missão cumprida por aqui, bons estudos e até o próximo!</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/indo-alem-no-react-native//?utm_source=tablelessRelatedLin">Indo além no Mundo React-Native</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/seu-primeiro-bot-para-o-telegram//?utm_source=tablelessRelatedLin">Seu primeiro bot para o Telegram</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/paginas_acessiveis_hatemile//?utm_source=tablelessRelatedLin">Páginas acessíveis com o HaTeMiLe</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245847"></script>

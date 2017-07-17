@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Akita on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/akita/</link>
+    <description>Recent content in Akita on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 26 Sep 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/akita/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Web.br 2014 – Caminhos da Inovação</title>
+      <link>http://localhost/jhonny-roger/public/web-br-2014-caminhos-da-inovacao/</link>
+      <pubDate>Fri, 26 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/web-br-2014-caminhos-da-inovacao/</guid>
+      <description>O Akita falou sobre como buscar a verdadeira inovação. Como você, com tecnologias anos luz das que existiam há 10, 20, 30 anos consegue fazer algo que realmente mude o mundo? Artistas, matemáticos e pesquisadores que vieram antes dessa era tecnologica que vivemos hoje, mudaram drasticamente as áreas em que atuaram. O Akita chamou esses acontecimentos de &amp;#8220;saltos quanticos&amp;#8221;. Um salto quantico é uma inovação. É o que abre portas para que pessoas façam coisas maravilhosas.</description>
+    </item>
+    
+  </channel>
+</rss>

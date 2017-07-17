@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245846">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      <p>Geralmente uma &#8220;delegação&#8221;, que seria a uma tradução livre para <strong>delegation</strong>, significa definir um evento para um elemento pai, que será disparado para todos os seus filhos. O evento vai funcionar para qualquer elemento filho que já existir e também para os que forem adicionados posteriormente na árvore do DOM.</p>
+
+<p>Para exemplificar, entenda o código abaixo. Ele apenas muda o texto do parágrafo quando clicamos em alguma opção do menu. É um uso simples da função <code>on('click')</code> do jQuery:</p>
+
+<p>Para entender como isso funciona, você precisa saber o que é o <code>event propagation</code> (ou <code>event bubbling</code>): toda vez que você clica em um elemento, esse clique é propagado para toda a árvore do DOM, iniciando pelo elemento onde o evento aconteceu e chegando até o root do documento, que no nosso caso é a tag HTML.</p>
+
+<p>Além disso, você faz seu browser ouvir o click em todos os elementos desse nosso menu, se considerarmos o exemplo acima. Nesse nosso caso, não chega a ser um problema, mas imagine em uma tabela que tem muitas células e que você precisa executar alguma coisa quando alguma das <code>td</code> é clicada. A performance começa a ser prejudicada.</p>
+
+<p>Quando usamos o <strong>event delegation</strong> ao nosso favor, podemos definir o evento no elemento pai e então, quando esse evento acontecer, delegamos para o seu filho. No nosso exemplo acima, nós vamos atrelar o evento de click no <code>ul.menu</code>, mas delegando esse evento para os links. A função em si nem muda tanto, ela fica assim:</p>
+
+<pre class="lang-javascript">$('.menu').on('click', 'a', function(evt){
+        // Seu código...
+    });
+</pre>
+
+<p>Perceba que a função <code>on()</code> recebe dois parâmetros: o primeiro é o evento e o segundo é o elemento filho que esse evento deve ser aplicado.</p>
+
+<p>Suponha que você tenha alguma função que adiciona mais filhos ao seu elemento pai. A propagação continua funcionando, já que o evento está atrelado ao pai e não aos seus filhos.</p>
+
+<p>Lembrando que a função <code>on()</code> foi adicionada no jQuery 1.7, para juntar as vantagens das funções <code>delegate()</code> e <code>live()</code>.</p>
+
+<p>Há uma <a href="http://jsperf.com/jquery-event-delegation/5">análise de performance no JSPerf</a> comparando o várias maneiras para você delegar os eventos aos filhos de um elemento. O <code>delegate()</code> tem quase a mesma performance que o <code>on()</code>, mesmo assim é melhor usar o <code>on()</code>, já que ele tem mais vantagens.</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/indo-alem-no-react-native//?utm_source=tablelessRelatedLin">Indo além no Mundo React-Native</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/seu-primeiro-bot-para-o-telegram//?utm_source=tablelessRelatedLin">Seu primeiro bot para o Telegram</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245846"></script>

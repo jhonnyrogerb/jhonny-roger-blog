@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chromium on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/chromium/</link>
+    <description>Recent content in Chromium on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 20 Jun 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/chromium/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blisk é o navegador que todo desenvolvedor sente falta</title>
+      <link>http://localhost/jhonny-roger/public/blisk-e-o-navegador-que-todo-desenvolvedor-tem-saudades/</link>
+      <pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/blisk-e-o-navegador-que-todo-desenvolvedor-tem-saudades/</guid>
+      <description>Projetado especificamente para os desenvolvedores e atualmente disponível para o Windows (mas já já tem para Mac e Linux), Blisk é um navegador baseado no Chromium gratuito que visa melhorar a produtividade e qualidade do código, fornecendo uma ampla gama de ferramentas para desenvolvimento Web e testar tanto para desktop e móvel.
+Blisk vem com um conjunto bem bacana de emuladores pré-instalados de dispositivos populares, tornando mais fácil o teste dos projetos em vários dispositivos e navegadores.</description>
+    </item>
+    
+  </channel>
+</rss>

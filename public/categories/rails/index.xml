@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rails on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/categories/rails/</link>
+    <description>Recent content in Rails on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 24 Aug 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/categories/rails/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>O que há de novo no Rails 5</title>
+      <link>http://localhost/jhonny-roger/public/novidades-do-rails-5/</link>
+      <pubDate>Mon, 24 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/novidades-do-rails-5/</guid>
+      <description>O framework é o mais utilizado pelos desenvolvedores Ruby ao criar aplicações web e mantém a frequência de uma grande atualização a cada 2 anos. Vamos conferir um pouco destas novidades.
+Incorporando a gem rails-api Muitas aplicações Rails são criadas com objetivo de prover uma API para outros serviços/aplicações. A gem rails-api é famosa na comunidade por permitir a criação de aplicações Rails que descartam funcionalidades e aspectos desnecessários em uma API.</description>
+    </item>
+    
+  </channel>
+</rss>

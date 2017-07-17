@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web.Br on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/web.br/</link>
+    <description>Recent content in Web.Br on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 28 Oct 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/web.br/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Por dentro da Web.br 2013: Web’s Got Talent</title>
+      <link>http://localhost/jhonny-roger/public/por-dentro-da-web-br-2013-webs-got-talent/</link>
+      <pubDate>Mon, 28 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/por-dentro-da-web-br-2013-webs-got-talent/</guid>
+      <description>A quinta edição da Web.br, conferência do W3C Brasil, ocorre nos dias 18 e 19 de novembro de 2013, em São Paulo, trazendo uma grande novidade nesta edição: o concurso Web&amp;#8217;s Got Talent.
+O concurso tem o propósito de reconhecer as melhores aplicações web que visam fornecer serviços aos usuários. Com isso, pretende-se evidenciar, por meio do reconhecimento público, websites ou aplicativos que tenham sido desenvolvidos com uso das tecnologias da Open Web para a prestação de serviços à população e estimular a troca de informações e experiências entre empreendedores e empresários do setor.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tumblr on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/tumblr/</link>
+    <description>Recent content in Tumblr on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 21 Jul 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/tumblr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Desenvolvimento de temas para Tumblr</title>
+      <link>http://localhost/jhonny-roger/public/desenvolvimento-de-temas-para-tumblr/</link>
+      <pubDate>Mon, 21 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/desenvolvimento-de-temas-para-tumblr/</guid>
+      <description>Quando pensamos em sistemas de administração de conteúdo logo lembramos do WordPress, do Joomla ou do Drupal. E de fato estes CMS são super completos para lidar com sites, portais e, com algumas adaptações, até mesmo lojas virtuais. Mas se o que você precisa é um blog o Tumblr pode ser uma alternativa bem interessante. Primeiro por que a interface de adição de conteúdo é super simples e dividida por tipos de conteúdo: textos, imagens, vídeos, links, citações, áudio e diálogos.</description>
+    </item>
+    
+    <item>
+      <title>Posts Formats do WordPress</title>
+      <link>http://localhost/jhonny-roger/public/posts-formats-do-wordpress/</link>
+      <pubDate>Wed, 18 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/posts-formats-do-wordpress/</guid>
+      <description>O WordPress depois de sua atualização para versão 3.1, trouxe uma função de Formato nos Posts, que consiste em personalizar a visualização do post. É uma funcionalidade para temas, que oferece uma lista de formatos que estão disponíveis. São suportados os seguintes formatos:
+ aside gallery link image quote status video audio chat  Esses formatos são padrões, até hoje não se tem maneiras para criar um novo tipo de formato.</description>
+    </item>
+    
+  </channel>
+</rss>

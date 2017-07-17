@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Webbr on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/webbr/</link>
+    <description>Recent content in Webbr on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 19 Oct 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/webbr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Web.br 2012 – Empreendedorismo</title>
+      <link>http://localhost/jhonny-roger/public/webbr-2012-empreendedorismo/</link>
+      <pubDate>Fri, 19 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/webbr-2012-empreendedorismo/</guid>
+      <description>Minhas anotações sobre a palestra do Edney Sousa no Webbr 2012 sobre empreendedorismo na Web.
+ Ideias não valem nada. Ela é uma ideia, qualquer um pode ter uma ideia, principalmente uma ideia igual a sua. Pessoas não compram idéias, compram soluções. Quando a ideia é boa, ela será invariavelmente copiada por outras empresas. Os melhores empreendedores atualmente são os que conseguem desenvolver tanto o produto quanto o plano de negócios.</description>
+    </item>
+    
+    <item>
+      <title>Web.br 2012 – Abertura</title>
+      <link>http://localhost/jhonny-roger/public/webbr2012-abertura/</link>
+      <pubDate>Thu, 18 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/webbr2012-abertura/</guid>
+      <description>Estive na abertura do Webbr 2012. Evento promovido pelo W3C Brasil sobre uma série de assuntos incluindo: HTML 5, Semântica, Realidade Aumentada, SEO, Empreendedorismo e outros assuntos ligados a Open Web Platform.
+A abertura foi interessante. Anotei algumas coisas da palestra inicial feita pelo Luli Radfahrer.
+ Contexto. Tudo depende do contexto. As informações que carregamos e que outras pessoas carregam depende do contexto em que elas se encontram. Mito. Cuidado com os mitos da desinformação.</description>
+    </item>
+    
+  </channel>
+</rss>

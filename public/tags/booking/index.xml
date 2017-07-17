@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Booking on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/booking/</link>
+    <description>Recent content in Booking on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 26 Sep 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/booking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Web.br 2014 – Internacionalização na Booking</title>
+      <link>http://localhost/jhonny-roger/public/web-br-2014-internacionalizacao-na-booking/</link>
+      <pubDate>Fri, 26 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/web-br-2014-internacionalizacao-na-booking/</guid>
+      <description>A palestra do Shiota nos trouxe uma realidade difícil de encontrar em qualquer site aqui no Brasil. O trabalho de internacionalização da Booking é no mínimo fantástico para qualquer um que nunca trabalhou em um ambiente com tantos idiomas e variáveis.
+Abaixo seguem as anotações da palestra:
+ Por volta de 75.4% da população mundial, não falam inglês Algumas vezes você precisa mostrar os preços na moeda local. As vezes você precisa entender a cultura local para vender melhor naquele país.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245848">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>O Middleman, assim como o <a href="http://tableless.com.br/jekyll-servindo-sites-estaticos/">Jekyll</a>, serve sites estáticos, sem banco de dados, baseados em puro código HTML e informação. Existem uma <a href="https://www.staticgen.com">série de sistemas</a> desse tipo e é uma das minhas armas em muitos projetos.</p>
+
+<h2 id="instalando">Instalando</h2>
+
+<p>Supondo que você tem o Ruby e RubyGems na sua máquina, basta instalar a GEM do Middleman:</p>
+
+<pre class="lang-terminal">$ gem install middleman
+</pre>
+
+<p>Depois de instalado, os comandos básicos são:</p>
+
+<ul>
+<li><strong>middleman init</strong> para iniciar um projeto.</li>
+<li><strong>middleman server</strong> para rodar essa aplicação/projeto.</li>
+<li><strong>middleman build</strong> para compilar os assets e preparar uma pasta com os arquivos estáticos.</li>
+</ul>
+
+<h2 id="iniciando-um-site">Iniciando um site</h2>
+
+<p>Abra novamente o terminal e digite o seguinte comando:</p>
+
+<pre class="lang-terminal">middleman init <strong>nome_do_projeto</strong>
+</pre>
+
+<p>Se a pasta não existir, ele vai criá-la. Lá dentro ele vai colocar toda a estrutura de arquivos para funcionar seu projeto. Desapegue da estrutura de arquivos que você ama e adora. A estrutura que o Middleman monta é bastante simples e bem enxuta. Basicamente é formada da pasta <code>source</code> e do arquivo <code>config.rb</code>.</p>
+
+<p>O arquivo <code>config.rb</code> é onde você vai define as configurações do Middleman e informações de como habilitar algumas features que podem ser úteis aos desenvolver seu projeto e principalmente de como habilitar o módulo de blog (isso mesmo, blog).</p>
+
+<p>Na pasta <code>source</code> é onde tem todo o seu projeto. A estrutura inicial dessa pasta é a seguinte:</p>
+
+<pre class="lang-shell">images
+index.html.erb
+javascripts
+layouts
+stylesheets
+</pre>
+
+<p>Logo no começo eu já mudo algumas configurações para modificar um pouco essa estrutura, deixando tudo assim:</p>
+
+<pre class="lang-shell">assets/
+  images
+  javascripts
+  stylesheets
+index.html.erb
+layouts
+</pre>
+
+<p>Depois que movi as pastas do jeito que eu quis, mudo lá no <code>config.rb</code> três variáveis:</p>
+
+<pre class="lang-ruby">set :css_dir, 'stylesheets'
+set :js_dir, 'javascripts'
+set :images_dir, 'images'
+</pre>
+
+<p>Fica isso aqui:</p>
+
+<pre class="lang-ruby">set :css_dir, 'assets/stylesheets'
+set :js_dir, 'assets/javascripts'
+set :images_dir, 'assets/images'
+</pre>
+
+<p>E basicamente essa é a única mudança que faço para deixar meu ambiente funcionando!</p>
+
+<h2 id="rodando-o-projeto">Rodando o projeto</h2>
+
+<p>Agora que seu ambiente está configurado, vamos rodar. Estando dentro da pasta do projeto, rode:</p>
+
+<pre class="lang-terminal">middleman server
+</pre>
+
+<p>Isso vai subir o projeto na porta <strong><a href="http://localhost:4567/">http://localhost:4567/</a></strong>.</p>
+
+<p>Se você já tiver algum projeto nessa porta, você pode mudar colocando a flag <strong>&#8211;p</strong> no comando escolhendo a porta:</p>
+
+<pre class="lang-terminal">middleman server --p 3001
+</pre>
+
+<p>Depois que seu projeto está rodando, você pode escrever CSS, HTML e o que quiser.</p>
+
+<h2 id="templates-e-partials">Templates e Partials</h2>
+
+<p>Acho que você percebeu ali em cima que além dos assets, existe uma pasta chamada <strong>layouts</strong>. Essa pasta é a responsável por guardar os templates que você vai usar nas páginas. Você tem um template para páginas de texto, para galerias e etc. Esses templates diferentes, vão ali e você vai indicar indicar em cada arquivo, qual template de layout ele vai utilizar.</p>
+
+<p>Esse aqui é o código que <strong>layout.erb</strong> vem como padrão:</p>
+
+<pre class="lang-html">&lt;!doctype html>
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;meta charset="utf-8"&gt;
+
+    &lt;!-- Always force latest IE rendering engine or request Chrome Frame --&gt;
+    &lt;meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"&gt;
+
+    &lt;!-- Use title if it's in the page YAML frontmatter --&gt;
+    &lt;title&gt;&lt;%= current_page.data.title || "The Middleman" %&gt;&lt;/title&gt;
+
+    &lt;%= stylesheet_link_tag "normalize", "all" %&gt;
+    &lt;%= javascript_include_tag  "all" %&gt;
+  &lt;/head&gt;
+
+  &lt;body class="&lt;%= page_classes %&gt;"&gt;
+    &lt;%= yield %&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</pre>
+
+<p>Esse seria o template padrão usado para as páginas. Como vou ter vários templates, que usarão as mesmas informações da tag HEAD e do FOOTER, eu prefiro separar essas informações em partials. Ou se você escreve PHP, em includes. Funcionam diferente, mas a ideia geral é a mesma: reutilizar blocos de código em arquivos do projeto.</p>
+
+<p>Para isso, geralmente crio também uma pasta <strong>partials</strong> para guardar esses pedaços que serão reutilizados várias vezes no projeto. Talvez esta é a parte mais legal de usar geradores como o Middleman e o Jekyll. Como tudo é arquivo estático, facilitando minha vida, eu ainda consigo ter a facilidade de separar meus arquivos da maneira que eu quiser.</p>
+
+<p>A estrutura de código que mostrei lá em cima, pode ficar assim:</p>
+
+<pre class="lang-ruby">&lt;%= partial 'partials/header'%&gt;
+&lt;%= yield %&gt;
+&lt;%= partial 'partials/footer'%&gt;
+</pre>
+
+<p>Mas se não tem Banco de Dados, como que você define informações de título, descrição da página ou qualquer outra coisa? Simples: todos os arquivos de conteúdo tem um cabeçalho em formato YAML, no início no arquivo que leva essas informações.</p>
+
+<h3 id="um-pouco-sobre-yaml">Um pouco sobre YAML</h3>
+
+<p>O formato <strong>YAML</strong> é conhecido pela facilidade de leitura. Ele foi criado para estruturarmos informação de maneira que seja fácil de entender e escrever. Ou seja, ele é um formato simples para escrevermos manualmente, mas que também possamos manipular via programação.</p>
+
+<p>Qualquer arquivo que contém um bloco YAML – que geralmente é chamado de <strong>front-matter</strong> – será processado como um arquivo especial. O front-matter precisa ser a primeira coisa do arquivo e deve estar num formato válido de YAML. Toda página do seu site, tanto no Jekyll quanto no Middleman, precisam começar com uma estrutura assim:</p>
+
+<pre class="lang-yaml">---
+title: Home
+layout: default
+---
+</pre>
+
+<p>Simples, ahn? O bloco é demarcado pelos três traços no começo e no fim. TEM que ser três traços. Nem mais, nem menos. O código YAML são as duas variáveis <strong>layout</strong> e <strong>title</strong>.</p>
+
+<p>Ambos os sistemas usam essa notação para organizar seus arquivos e informações. Você pode definir variáveis em cada um dos arquivos para fazer condições nas páginas. Se em uma página, por exemplo, eu quero que a sidebar apareça, a notação YAML dela vai se algo assim:</p>
+
+<pre class="lang-yaml">---
+title: Contato
+layout: interna
+sidebar: true
+---
+</pre>
+
+<p>A variável <strong>sidebar</strong> com o valor <strong>false</strong> foi criada por mim. No template, usarei algo parecido com isso, no Middleman:</p>
+
+<pre class="lang-ruby">&lt;% if current_page.data.sidebar? %&gt;
+  &lt;%= partial 'partials/header'%&gt;
+&lt;% end %&gt;
+</pre>
+
+<p>Lindo e simples. Quando buildar o projeto. O sistema já vai compilar os arquivos da maneira correta, com o código sidebar, no lugar que você pediu.</p>
+
+<h2 id="fazendo-o-build-do-projeto">Fazendo o build do projeto</h2>
+
+<p>O comando <strong>middleman build</strong> vai compilar seu projeto em uma pasta <strong>build</strong>. Lá dentro terão os arquivos usados no projeto, praticamente na mesma estrutura que você deixou no projeto original, só que agora tudo estático em HTML.</p>
+
+<p>Geralmente, nos projetos que me envolvo, onde o cliente precisa apenas de arquivos estáticos, eu envio essa pasta build. Facilita muito minha vida. Se eu preciso fazer o HTML/CSS de um projeto com milhares de páginas, eu posso simplesmente usar o Middleman ou qualquer outro gerador similar, para me ajudar a separar partials/includes dos pedaços comuns de código, como HEADER, FOOTER, SIDEBAR e etc&#8230; Depois é só buildar o projeto e pronto. Ele monta as partes automaticamente para mim.</p>
+
+<p>Há uma série de outras dicas sobre o Middleman aqui, como fazer um blog por exemplo, mas deixo para próxima. Por enquanto, isso aqui já consegue te ajudar bastante.</p>
+
+<p>Estou estudando <a href="https://ghost.org/download/">Ghost</a> ultimamente. Em um projeto de duas páginas, é muito prático usar um Middleman da vida, mas o cliente ainda quer ter a facilidade de criar páginas ou modificar o conteúdo. Certamente eu não vou instruí-lo para que ele faça isso editando arquivos no Sublime. Logo, uma interface administrativa faz bastante falta. O Ghost trabalha com arquivos estáticos e tem uma interface administrativa básica, para gerenciar o conteúdo. Tendo mais novidades, escrevo por aqui.</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/indo-alem-no-react-native//?utm_source=tablelessRelatedLin">Indo além no Mundo React-Native</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/seu-primeiro-bot-para-o-telegram//?utm_source=tablelessRelatedLin">Seu primeiro bot para o Telegram</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245848"></script>

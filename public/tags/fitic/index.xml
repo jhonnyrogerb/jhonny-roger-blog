@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fitic on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/fitic/</link>
+    <description>Recent content in Fitic on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 29 Jun 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/fitic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FITIC – Feira Internacional de Tecnologia de Informação e Comunicação</title>
+      <link>http://localhost/jhonny-roger/public/fitic-feira-internacional-de-tecnologia-de-informacao-e-comunicacao/</link>
+      <pubDate>Wed, 29 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/fitic-feira-internacional-de-tecnologia-de-informacao-e-comunicacao/</guid>
+      <description>A FITIC, realizará a sua primeira edição no São Paulo Expo em Dezembro. Com uma área de 20.000 m², a FITIC será a maior Feira de Tecnologia e Inovação da América Latina, focando o consumidor final, com expositores já confirmados nos segmentos de Realidade Virtual, Drones, Impressão 3D, software, hardware, eletrônica de consumo, inovação, entre outros e conta com o apoio do Sebrae-SP, Softex – Associação para promoção da excelência do software brasileiro, Canaltech, Tableless, Rede HCNOAR, VR Tech News, entre outros patrocinadores e parceiros a serem anunciados brevemente.</description>
+    </item>
+    
+  </channel>
+</rss>

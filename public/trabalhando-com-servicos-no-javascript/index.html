@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245839">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>JavaScript é uma <em>linguagem multiparadigma</em>. Pode-se “_emular_” várias técnicas de programação com ele, e isso é <strong>incrível</strong> pois podemos decidir qual o melhor paradigma para a resolução dos problemas dos nossos projetos. Porém se por um lado isso pode parecer poderoso para a linguagem, também pode deixar os iniciantes bem confusos, é muito comum escolher a abordagem errada para o problema. Por esse motivo que o JavaScript em sido polêmico nos últimos anos.</p>
+
+<p>Pensando nisso muitos desenvolvedores criam suas próprias soluções, uns pensando em ajudar e outros em forçar padrões.</p>
+
+<p>Eu prefiro ensinar a pescar, pois JavaScript não tem que ser complexo. A <strong>versão 6 do JavaScript (ES6/ES2015)</strong> tornou a linguagem muito mais expressiva, facilitando muito o entendimento.</p>
+
+<h3 id="encapsulando-lógicas">Encapsulando lógicas</h3>
+
+<p>Tudo em JavaScript são objetos (exceto <em>undefined</em>), então <strong>serviços também são objetos</strong>, dominando como criamos e trabalhamos com objetos todas as coisas ficam bem mais tranquilas.</p>
+
+<p>O Jean Carlo Emer fez um artigo muito, <a href="http://tableless.com.br/modularizacao-em-javascript/">mas muito bom sobre Modularização no JavaScript</a>. Sugiro que você leia, mas vou explicar um pouco sobre o assunto logo abaixo.</p>
+
+<p><img class="size-medium aligncenter" src="https://cdn-images-1.medium.com/max/800/1*hsXIPyBqqI7ZTh2QyLfizw.gif" alt="i know JavaScript basics " width="320" height="237" /></p>
+
+<h4 id="scope-e-closures">Scope e Closures</h4>
+
+<p>JavaScript possui escopo léxico. Entre outras coisas isso permite que você crie <em>closures</em>.</p>
+
+<p>De maneira resumida você cria um “ambiente controlado” onde há funções/variáveis que só podem ser acessadas naquele escopo, criando um enclausuramento (<em>closure</em>).</p>
+
+<pre class="lang-javascript">const initPage = (root) =&gt; {
+  const $root = $(root);
+  const $menu = $root.find('.menu');
+  const $profile = $menu.find('.profile');
+
+  const initProfile = () =&gt; {
+    $.get('/me')
+      .then(response =&gt; $profile.text(response.username));
+    // ...
+  };
+
+  const showProfileModal = e =&gt; {
+   // ...
+  };
+
+  $profile.on('click', e =&gt; showProfileModal(e));
+
+  initProfile();
+};
+
+initPage('body');
+</pre>
+
+<p>Este é um exemplo bem bobo, mas que ilustra bem como criamos <em>closures</em>.</p>
+
+<p>As variáveis declaradas dentro de <em>initPage</em> só existem naquele escopo.</p>
+
+<p>No mesmo exemplo podemos refatorar esse código em uma <strong>IIFE (Immediately-Invoked Function Expression)</strong></p>
+
+<pre class="lang-javascript">((root) =&gt; {
+  const $root = $(root);
+  const $menu = $root.find('.menu');
+  const $profile = $menu.find('.profile');
+
+  const initProfile = () =&gt; {
+    $.get('/me')
+     .then(response =&gt; $profile.text(response.username));
+    //  ...
+  };
+
+  const showProfileModal = e =&gt; {
+    // ...
+  };
+
+  $profile.on('click', e =&gt; showProfileModal(e));
+
+  initProfile();
+})('body');
+</pre>
+
+<p>Nesse código declaramos uma função e a executamos imediatamente, passando um argumento. Isso é extremamente útil quando queremos fazer um processamento de uma informação que vai servir apenas para criar uma variável.</p>
+
+<pre class="lang-javascript">const timezones = (() =&gt; {
+  const zones = [];
+  const min = -12;
+  const max = 13;
+  let simbol;
+
+  for (let i = min; i &lt;= max; i++) {
+    simbol = (i &lt; 0) ? '' : '+';
+    zones.push(`GMT${simbol}${i}`);
+  }
+
+  return zones;
+})();
+</pre>
+
+<p>Como você já pode perceber, é possível expor dados de uma <em>closure</em> como no exemplo anterior. A variável zones é retornada, assim a variável <em>timezones</em> agora possui como valor o resultado da <em>closure</em>.</p>
+
+<p>Nesse exemplo a <em>closure</em> não usa dados externos a ela (<em>parent scope</em>/escopo pai) porém dada a natureza do JavaScript isso é perfeitamente possível.</p>
+
+<p>Isso é útil para não poluir o escopo principal com informações irrelevantes.</p>
+
+<pre class="lang-javascript">const makeCounter = (start = 0) =&gt; {
+  let current = start;
+
+  const add = (value = 1) =&gt; current += value;
+  const remove = (value = 1) =&gt; add(value * -1);
+  const get = () =&gt; current;
+
+  return { add, remove, get };
+};
+
+const counter = makeCounter(10);
+
+counter.add() // 11
+counter.add() // 12
+counter.add(8) // 20
+counter.remove(10) // 10
+</pre>
+
+<p>Este é um exemplo bem interessante. Estamos combinando <em>closures</em> com <em>factory</em>.</p>
+
+<p>Com isso podemos criar vários contadores, e trabalhar como melhor convir com estes contadores.</p>
+
+<div id="attachment_56186" style="width: 510px" class="wp-caption aligncenter">
+  <img class="wp-image-56186 size-full" src="http://tableless.com.br/uploads/2016/10/wtf.gif" alt="Só isso! Simples, né?" width="500" height="284" />
+  
+  <p class="wp-caption-text">
+    Só isso! Simples, né?
+  </p>
+</div>
+
+<p>Se você entendeu como o exemplo do contador funciona, parabéns você já sabe criar serviços com javascript.</p>
+
+<p>Isso mesmo, este contator é um serviço. Na verdade ele é um <em>factory</em>, mas com pequenos ajustes ele vira um serviço de fácil reuso.</p>
+
+<pre class="lang-javascript">// makeCounter.js -&gt; factory
+const makeCounter = (start = 0) =&gt; {
+  let current = start;
+
+  const add = (value = 1) =&gt; current += value;
+  const remove = (value = 1) =&gt; add(value * -1);
+  const get = () =&gt; current;
+
+  return { add, remove, get };
+};
+
+export default makeCounter
+</pre>
+
+<pre class="lang-javascript">// counter.js -&gt; service
+import makeCounter from './makeCounter.js';
+
+export default makeCounter(0);
+</pre>
+
+<p>Agora temos dois arquivos, um contendo o <em>factory</em> do contador, e outro contendo o serviço de contagem.</p>
+
+<h2 id="módulos-javascript">Módulos JavaScript</h2>
+
+<p><img class="size-full wp-image-56185 aligncenter" src="http://tableless.com.br/uploads/2016/10/module.gif" alt="module" width="400" height="250" /></p>
+
+<p>Como visto anteriormente, é bem simples criar serviços com JavaScript, basta antes entender alguns conceitos.</p>
+
+<p>Porém isso não é tudo, se você esta criando um serviço é porque tem a intenção de reusar esta lógica em mais de um local da aplicação. Isto não é uma regra, talvez você queira apenas centralizar a lógica da operação.</p>
+
+<p>Não importa o objetivo inicial, você vai acabar criando um módulo JavaScript para aquela sua operação/serviço. No exemplo do contador foram criados dois arquivos, o <em>contador</em> e o <em>factory do contador</em>. Nesse momento você precisa entender minimamente o que são módulos JavaScript.</p>
+
+<p>Em resumo: um arquivo JavaScript é um módulo e um módulo JavaScript é um arquivo.</p>
+
+<p>Você pode criar um módulo a partir de outros módulos, como é o exemplo do contador, ele é composto a partir do módulo <em>makeCouter</em>.</p>
+
+<p>Em geral a lógica dos módulo é encapsulada em <em>closures</em> e o retorno delas é <em>cacheado</em>, sendo assim, uma vez que você importa um módulo, ele será <strong>o mesmo sempre, compartilhando seu estado</strong>. Saiba mais <a href="http://www.vuejs-brasil.com.br/utilizando-vuex-na-forma-modular-2/#vamosentenderoqueaconteceu">aqui</a>.</p>
+
+<h3 id="usando-serviços">Usando serviços</h3>
+
+<p>Agora que você possui essas informações acredito que criar seus próprios serviços não será nenhum <em>bicho de sete cabeças</em>.</p>
+
+<blockquote>
+<p>Vale a pena dizer que tudo pode ser considerado um serviço, inclusive <em>factories</em>.</p>
+</blockquote>
+
+<p>Para reforçar vou deixar mais um exemplo de uso de serviços.</p>
+
+<pre class="lang-javascript">import Http from './http.js';
+import UsersService from './modules/users/service.js';
+
+Http.setToken('XPTO'); // Define o token de autentificação
+
+// Cattega a primeira página de usuários
+// Exibe um alerta com o nome do primeiro usuário retornado pelo serviço
+
+UsersService
+  .getAll({ page: 1 })
+  .then(result =&gt; result.data)
+  .then(data =&gt; data[0])
+  .then(first =&gt; {
+    alert(first.name);
+  });
+</pre>
+
+<p>Para efeito de aprendizado uma sintaxe alternativa, com <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/import"><em>import binding</em></a>.</p>
+
+<pre class="lang-javascript">import { setToken } from './http.js';
+import { getAll as getAllUsers } from './modules/users/service.js';
+
+setToken('XPTO'); // Define o token de autentificação
+
+// Carrega a primeira página de usuários
+// Exibe um alerta com o nome do primeiro usuário retornado pelo serviço
+
+getAllUsers({ page: 1 })
+  .then(result =&gt; result.data)
+  .then(data =&gt; data[0])
+  .then(first =&gt; {
+    alert(first.name);
+  });
+</pre>
+
+<p>Este pode não parecer para alguns mas é um exemplo bem prático do uso de serviços.</p>
+
+<p>O serviço de <em>Http</em> também é usado pelo <em>serviço de usuários</em>, por isso é possível definir o <strong><em>token</em></strong> de autentificação antes de efetivamente usar os serviços, pois eles vão compartilhar o mesmo estado/serviço.</p>
+
+<p>Outra característica interessante é que esses serviços não estão ligados diretamente a nenhum contexto. Isso significa que não importa que ambiente você esteja ou que <em>framework</em> você esta usando, os serviços são agnósticos. Eles podem ser usados no <strong>NodeJS, VueJS, ReactJS</strong>, etc.</p>
+
+<p>Este é um dos princípios do polimorfismos do JavaScript porém este é outro assunto.</p>
+
+<p>&nbsp;</p>
+
+<p>Se quiser saber mais sobre meu trabalho visite meu blog<a href="https://medium.com/@luizvinicius73"> https://medium.com/@luizvinicius73</a></p>
+
+<hr />
+
+<p>Este artigo foi originalmente postado no meu <a href="https://medium.com/by-vinicius-reis/trabalhando-com-servicos-no-javascript-864310cf386c">blog no medium</a> em 31 de Julho de 2016</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/indo-alem-no-react-native//?utm_source=tablelessRelatedLin">Indo além no Mundo React-Native</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/seu-primeiro-bot-para-o-telegram//?utm_source=tablelessRelatedLin">Seu primeiro bot para o Telegram</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245839"></script>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniloagostinho on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/daniloagostinho/</link>
+    <description>Recent content in Daniloagostinho on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 22 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/daniloagostinho/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Minha experiência com o CT (Centro de Treinamento)</title>
+      <link>http://localhost/jhonny-roger/public/minha-experiencia-com-o-ct-centro-de-treinamento/</link>
+      <pubDate>Sun, 22 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/minha-experiencia-com-o-ct-centro-de-treinamento/</guid>
+      <description>Meu nome é Danilo, tenho 25 anos, e moro em São Paulo. Antes de conhecer o projeto do CT , eu havia trabalhado pouco tempo como Front-end em uma empresa chamada Athos Informática. Minha experiência não foi uma das melhores, e acabou não dando muito certo. Porém, aconteceu algo muito bacana , quando eu fiquei disponível para o mercado de trabalho.
+Comecei a frequentar todos os Meetup&amp;#8217;s que eu podia, conversei com muitos Dev&amp;#8217;s da comunidade, e coloquei de fato a mão na massa.</description>
+    </item>
+    
+    <item>
+      <title>O que aprendi em 5 dias como Front-end, e uma pergunta: você esta preparado para se tornar um desenvolvedor?</title>
+      <link>http://localhost/jhonny-roger/public/o-que-aprendi-em-5-dias-como-front-end--e-uma-pergunta-voce-esta-preparado-para-se-tornar-um-desenvolvedor/</link>
+      <pubDate>Fri, 13 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-que-aprendi-em-5-dias-como-front-end--e-uma-pergunta-voce-esta-preparado-para-se-tornar-um-desenvolvedor/</guid>
+      <description>Gostaria de partilhar um pouco de minha experiência como front-end. e neste link explico como consegui uma vaga na área front-end. Minha experiência com o Centro de Treinamento.
+Tudo no inicio pra mim foi uma aventura, uma história curta e imprevisível, cheia de quebras de paradigmas, dogmas, conceitos e preconceitos. Acho bem claro, que cursos técnicos e faculdades não te preparam para o mercado de trabalho, apenas te dão um norte de como fazer algo e um bocado de coisas mais, pois para se tornar um desenvolvedor existem alguns pontos a serem esclarecidos.</description>
+    </item>
+    
+  </channel>
+</rss>

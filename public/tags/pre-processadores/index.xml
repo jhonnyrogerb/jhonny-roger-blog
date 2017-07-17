@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pre Processadores on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/pre-processadores/</link>
+    <description>Recent content in Pre Processadores on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 18 Nov 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/pre-processadores/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Analisando o código Stylus de um projeto</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-o-pre-processador-stylus/</link>
+      <pubDate>Fri, 18 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-o-pre-processador-stylus/</guid>
+      <description>O que é um pré-processador CSS? Como o nome ja diz, é uma linguagem que precisa ser pré-processada por um parser para assim gerar o arquivo de extensão .css que será renderizado pelo browser. Atualmente há vários pré-processadores que você pode utilizar para facilitar a codificação e reaproveitamento de código, você pode estar utilizando SASS, LESS e Stylus que são os mais conhecidos no mercado. A diferença do Stylus para os outros pré-processadores que estão sendo utilizados no mercado é que ele já é baseado em NodeJS e não em ruby.</description>
+    </item>
+    
+    <item>
+      <title>Use as facilidades do CSS 4 hoje</title>
+      <link>http://localhost/jhonny-roger/public/use-as-facilidades-do-css-4-hoje/</link>
+      <pubDate>Mon, 26 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/use-as-facilidades-do-css-4-hoje/</guid>
+      <description>Se CSS 3 trouxe muitas animações e transições, CSS 4 por sua vez traz muitos seletores novos que facilitam e muito a resolver problemas recorrentes em projetos complexos e grandes. E a maioria ou quase todas você já pode usar hoje com ajuda de alguns transpilers de CSS. Você consegue ter variáveis sem precisar usar pre processadores como Sass ou Less. A spec de CSS nível 4 ainda está em desenvolvimento, mas com transpilers como CSSNext e Rework, você já pode começar a usar essas features hoje.</description>
+    </item>
+    
+    <item>
+      <title>Drops 15 – Eu era contra pré-processadores</title>
+      <link>http://localhost/jhonny-roger/public/drops-15-eu-era-contra-pre-processadores/</link>
+      <pubDate>Mon, 30 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/drops-15-eu-era-contra-pre-processadores/</guid>
+      <description>Eu sei, eu sei, é difícil admitir, mas eu era contra pré-processadores de CSS. Na verdade, os Pré-processadores eram um símbolo de como você não consegue controlar seu código, assim como o Dreamweaver.
+ Drops 15 &amp;#8211; Eu era contra pré-processadores by Tableless Padrões Web on Mixcloud  </description>
+    </item>
+    
+    <item>
+      <title>Utilizando Mixins em pré-processadores CSS</title>
+      <link>http://localhost/jhonny-roger/public/utilizando-mixins-em-css-preprocessors/</link>
+      <pubDate>Mon, 13 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/utilizando-mixins-em-css-preprocessors/</guid>
+      <description>Recentemente respondi à uma enquete (não me perguntem aonde, eu esqueci! :-() onde era perguntado sobre como lidávamos com prefixos proprietários em nossos códigos CSS. Até aquele momento apenas cerca de 9% dos participantes usavam Pré-processadores e cerca de 26% escreviam os prefixos do browsers “na unha”.
+Pré-processadores de CSS ainda não são um comum para algumas pessoas, mas eu, particularmente, defendo o uso devido à organização e redução de trabalho na escrita de folhas de estilo, proporcionado entre outros, pelo encadeamento e os “mixins”, algo como “associação interna”, que funcionam melhores que muitos analgésicos para dores de cabeça causadas pelo retrabalho.</description>
+    </item>
+    
+  </channel>
+</rss>

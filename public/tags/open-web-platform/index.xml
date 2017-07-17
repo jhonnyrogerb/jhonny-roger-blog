@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Web Platform on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/open-web-platform/</link>
+    <description>Recent content in Open Web Platform on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 28 Oct 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/open-web-platform/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Por dentro da Web.br 2013: Web’s Got Talent</title>
+      <link>http://localhost/jhonny-roger/public/por-dentro-da-web-br-2013-webs-got-talent/</link>
+      <pubDate>Mon, 28 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/por-dentro-da-web-br-2013-webs-got-talent/</guid>
+      <description>A quinta edição da Web.br, conferência do W3C Brasil, ocorre nos dias 18 e 19 de novembro de 2013, em São Paulo, trazendo uma grande novidade nesta edição: o concurso Web&amp;#8217;s Got Talent.
+O concurso tem o propósito de reconhecer as melhores aplicações web que visam fornecer serviços aos usuários. Com isso, pretende-se evidenciar, por meio do reconhecimento público, websites ou aplicativos que tenham sido desenvolvidos com uso das tecnologias da Open Web para a prestação de serviços à população e estimular a troca de informações e experiências entre empreendedores e empresários do setor.</description>
+    </item>
+    
+    <item>
+      <title>Web.br 2012 – Abertura</title>
+      <link>http://localhost/jhonny-roger/public/webbr2012-abertura/</link>
+      <pubDate>Thu, 18 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/webbr2012-abertura/</guid>
+      <description>Estive na abertura do Webbr 2012. Evento promovido pelo W3C Brasil sobre uma série de assuntos incluindo: HTML 5, Semântica, Realidade Aumentada, SEO, Empreendedorismo e outros assuntos ligados a Open Web Platform.
+A abertura foi interessante. Anotei algumas coisas da palestra inicial feita pelo Luli Radfahrer.
+ Contexto. Tudo depende do contexto. As informações que carregamos e que outras pessoas carregam depende do contexto em que elas se encontram. Mito. Cuidado com os mitos da desinformação.</description>
+    </item>
+    
+  </channel>
+</rss>

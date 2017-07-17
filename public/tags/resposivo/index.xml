@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resposivo on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/resposivo/</link>
+    <description>Recent content in Resposivo on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 03 Jan 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/resposivo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>E-mail Newsletter Responsivo</title>
+      <link>http://localhost/jhonny-roger/public/e-mail-newsletter-responsivo/</link>
+      <pubDate>Thu, 03 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/e-mail-newsletter-responsivo/</guid>
+      <description>Design Responsivo Um assunto que ganhou muita evidência este ano no mundo do design digital é o desenvolvimento de sites responsivos. O termo, emprestado da arquitetura, surgiu em um post do blog A List Apart. Em resumo, são técnicas de design e CSS que, visando a usabilidade e a acessibilidade do conteúdo, fazem com que um site se adapte ao dispositivo do usuário. Parece mágico, mas na verdade é uma combinação de folhas de estilo engenhosas, matemática e um pouco de bom senso.</description>
+    </item>
+    
+  </channel>
+</rss>

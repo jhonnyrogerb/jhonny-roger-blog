@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Speech Api on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/web-speech-api/</link>
+    <description>Recent content in Web Speech Api on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 06 Oct 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/web-speech-api/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Web Speech API – Reconhecimento de voz com JavaScript</title>
+      <link>http://localhost/jhonny-roger/public/web-speech-api-reconhecimento-de-voz-com-javascript/</link>
+      <pubDate>Mon, 06 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/web-speech-api-reconhecimento-de-voz-com-javascript/</guid>
+      <description>O reconhecimento de voz tem várias aplicações no mundo real. Muitas pessoas tornaram-se familiarizadas com este conceito graças a softwares como o Siri e S-Voice. Esta aplicação pode melhorar drasticamente a usabilidade dos websites, principalmente para deficientes visuais. Imagine websites onde os usuários podem navegar pelas páginas ou preencher campos de formulário usando a sua voz e até mesmo interagir com a página enquanto dirige, sem tirar os olhos da estrada.</description>
+    </item>
+    
+  </channel>
+</rss>

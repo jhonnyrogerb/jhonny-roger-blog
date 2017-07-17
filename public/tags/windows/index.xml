@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/windows/</link>
+    <description>Recent content in Windows on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 22 Oct 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IE10 no Windows 7</title>
+      <link>http://localhost/jhonny-roger/public/ie10-win7/</link>
+      <pubDate>Mon, 22 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ie10-win7/</guid>
+      <description>A Microsoft anunciou hoje que o IE10 (Fala-se Internet Explorer e não Enternet Exploer) estará disponível no Windows 7 em Novembro! Ótima notícia para baixar mais um pouco a taxa de utilização do IE8 e principalmente do IE9.
+Uma versão de preview estará disponível no meio de novembro e a versão final será lançada já com modificações de bugfixes e feedbacks dos usuários e desenvolvedores. O IE10 do Windows 7 terá os padrões nivelados com o IE10 para Windows 8.</description>
+    </item>
+    
+    <item>
+      <title>Flock 1.0 – agora dá para usar</title>
+      <link>http://localhost/jhonny-roger/public/flock-10-agora-da-para-usar/</link>
+      <pubDate>Sun, 02 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/flock-10-agora-da-para-usar/</guid>
+      <description>O Firefox é o browser do meu coracão. Não vivo mais sem suas extensões. Se você é desenvolvedor e usa Firefox, sabe do que estou falando.
+Só que eu não sou apenas desenvolvedor. Nas horas vagas, sou gente normal. Gosto de passar uma parte do meu tempo navegando pelos meus sites prediletos. Por isso, eu gastava algumas horas procurando por extensões que me deixassem mais ligado em sites como Flickr, Twitter e Del.</description>
+    </item>
+    
+  </channel>
+</rss>

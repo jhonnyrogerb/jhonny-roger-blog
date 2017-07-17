@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lucas Guarabyra on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/lucas-guarabyra/</link>
+    <description>Recent content in Lucas Guarabyra on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 19 Oct 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/lucas-guarabyra/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Qual o seu valor como designer?</title>
+      <link>http://localhost/jhonny-roger/public/qual-o-seu-valor-como-designer/</link>
+      <pubDate>Sat, 19 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/qual-o-seu-valor-como-designer/</guid>
+      <description>Os designers hoje tem como pauta principal pra discutir a profissão o “sobrinho do corel” ou “o illustrator é melhor que corel”. E ao mesmo tempo reclamam da falta de respeito que a profissão sofre. O que me surpreende não é o fato dos dois primeiros assunto serem completamente banais para o reconhecimento, mas que se pretende chegar ao objetivo de ser respeitado sem, muitas vezes, lutar por ele. E o pior, sem ao menos respeitar a si próprio como profissional.</description>
+    </item>
+    
+  </channel>
+</rss>

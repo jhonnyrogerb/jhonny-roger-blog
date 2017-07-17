@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiencia De Usuario on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/experiencia-de-usuario/</link>
+    <description>Recent content in Experiencia De Usuario on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 14 Jun 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/experiencia-de-usuario/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>UX: uma Responsabilidade de Todos</title>
+      <link>http://localhost/jhonny-roger/public/ux-uma-responsabilidade-de-todos/</link>
+      <pubDate>Sat, 14 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ux-uma-responsabilidade-de-todos/</guid>
+      <description>Muitos profissionais buscam aprender e a praticar os conceitos pregados pela turma de UX. Mas afinal, estes conceitos são responsabilidade apenas dos profissionais de UX?
+ UX não é só coisa dos arquivos de informação. UX é a base de tudo.
+ Desde o início a web foi desenvolvida e focada nos usuários. Sites de empresas, produtos e serviços, nunca foram feitos para programadores ou desenvolvedores, mas sim, para usuários.</description>
+    </item>
+    
+  </channel>
+</rss>

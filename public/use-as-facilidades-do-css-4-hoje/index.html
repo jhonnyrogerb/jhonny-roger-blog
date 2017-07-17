@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245842">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>Se CSS 3 trouxe muitas animações e transições, CSS 4 por sua vez traz muitos seletores novos que facilitam e muito a resolver problemas recorrentes em projetos complexos e grandes. E a maioria ou quase todas você já pode usar hoje com ajuda de alguns transpilers de CSS. Você consegue ter variáveis sem precisar usar pre processadores como Sass ou Less. A spec de CSS nível 4 ainda está em desenvolvimento, mas com transpilers como <a href="http://cssnext.io/features/">CSSNext</a> e <a href="https://github.com/reworkcss/rework">Rework</a>, você já pode começar a usar essas features hoje.</p>
+
+<p>A maioria dos seletores da especificação do CSS 4 são pseudo-classes. Os seletores sempre estiveram presentes desde o início da CSS, mas agora eles estão no nível 4 e tem um monte de adições incríveis. Vamos ver apenas as mais interessantes e ver como podemos fazer elas funcionarem hoje com a ajuda dos transpilers.</p>
+
+<h3 id="o-que-é-o-cssnext">O que é o CSSNext?</h3>
+
+<p>CSSNext é um transpiler que permite que você use as mais recentes features do CSS. Ele transforma as novas especificações CSS em CSS compatível com os navegadores hoje. E em um futuro proxímo, os navegadores irão implementar as novas especificações CSS. E com o tempo, poderemos ir removendo algumas transformações do cssnext que não será mais necessário.</p>
+
+<p>Ele é muito rápido, cssnext usa <a href="https://github.com/postcss/postcss">PostCSS</a> que tem parser CSS de forma mais rápida. É um bom concorrente para libsass, e um pouco mais rápido que o Less por exemplo.</p>
+
+<h3 id="como-começar-com-o-cssnext">Como começar com o cssnext?</h3>
+
+<p>Para começarmos a brincar com o cssnext precisamos instalar ele, e pode ser feito de duas maneiras com Git ou NPM, que é o mais fácil.</p>
+
+<p><code>$ npm install cssnext</code></p>
+
+<p>Você pode instalá-lo local (&#8211;save ou &#8211;save-dev), ou instalar globalmente (-g) que não é muito recomendado.</p>
+
+<p>Podemos usar cssnext via CLI, com alguma lib JavaScript, algum plugin PostCSS ou através do Gulp, Grunt, broccoli e outros.</p>
+
+<p>E para você compilar um arquivo com as novas features CSS 4 para CSS compatível, basta você executar o arquivo de CSS 4 e o arquivo de saida:</p>
+
+<p><code>$ cssnext index.css output.css</code></p>
+
+<h3 id="vamos-as-features">Vamos as features!</h3>
+
+<h4 id="1-custom-properties-var">1. custom properties &amp; var()</h4>
+
+<p>A especificação de CSS 4 dá a possibilidade de poder usar variáveis sem a necessidade de pré-processadores, hoje apenas o Chrome tem suporte a essa feature. E então o cssnext nós ajuda com isso.</p>
+
+<pre class="lang-css">:root {
+  --mainBgColor: blue;
+}
+
+body {
+  color: var(--mainBgColor);
+}
+</pre>
+
+<p><a href="http://tableless.com.br/uploads/2015/10/variables.gif"><img class="alignnone size-full wp-image-51818" src="http://tableless.com.br/uploads/2015/10/variables.gif" alt="variables" width="1145" height="433" /></a></p>
+
+<h4 id="2-gray">2. gray()</h4>
+
+<p>Permite que você use mais de 50 tons de cinza (transpilado para rgba()). No primeiro argumento, você pode usar um número entre 0 e 255 ou uma porcentagem.</p>
+
+<pre class="lang-css">.foo {
+  color: gray(85%);
+}
+
+.bar {
+  color: gray(10%, 50%);
+}
+</pre>
+
+<p><a href="http://tableless.com.br/uploads/2015/10/gray.gif"><img class="alignnone size-full wp-image-51819" src="http://tableless.com.br/uploads/2015/10/gray.gif" alt="gray" width="1145" height="433" /></a></p>
+
+<h4 id="3-any-link">3. any-link</h4>
+
+<p>any-link simplifica os seletores de target de links. Como :link, :visited, :actived, para somente :any-link.</p>
+
+<pre class="lang-css">nav :any-link {
+  background-color: yellow;
+}
+</pre>
+
+<p><a href="http://tableless.com.br/uploads/2015/10/any-link.gif"><img class="alignnone size-full wp-image-51820" src="http://tableless.com.br/uploads/2015/10/any-link.gif" alt="any-link" width="1145" height="433" /></a></p>
+
+<p>E tem muitas outras features incríveis que vem com o CSS 4, e se você quiser saber mais recomendo você ver esse artigo do <a href="http://tableless.com.br/seletores-css-nivel-4-o-que-vem-por-ai/">Diego Eis</a>.</p>
+
+<h2 id="conclusão">Conclusão</h2>
+
+<p>CSS 4 está trazendo muitas features interessantes para seletores inteligentes, por enquanto só podemos brincar e experimentar as novidades do CSS 4 com a ajuda desses transpilers. Isso também mostra o quanto a W3C está interessada em solucionar os problemas dos devs sem a necessidade de usar um pre-processor.</p>
+
+<h2 id="links">Links</h2>
+
+<ul>
+<li><a href="http://cssnext.io/">CSSNext</a></li>
+<li><a href="https://github.com/reworkcss/rework">Rework</a></li>
+<li><a href="http://css4.rocks/">CSS4 Rocks</a></li>
+<li><a href="https://github.com/postcss/">PostCSS</a></li>
+</ul>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/crie-sites-em-questao-de-minutos-com-o-pingendo//?utm_source=tablelessRelatedLin">Crie sites em questão de minutos com o Pingendo</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/minha-experiencia-com-o-ct-centro-de-treinamento//?utm_source=tablelessRelatedLin">Minha experiência com o CT (Centro de Treinamento)</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245842"></script>

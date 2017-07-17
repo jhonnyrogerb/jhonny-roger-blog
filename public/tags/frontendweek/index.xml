@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frontendweek on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/frontendweek/</link>
+    <description>Recent content in Frontendweek on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 27 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/frontendweek/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Front-end Week</title>
+      <link>http://localhost/jhonny-roger/public/frontend-week/</link>
+      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/frontend-week/</guid>
+      <description>Se você não sabe, vou te mandar a letra (a galera do CSS CastShow já tinha cantado a bola muito antes): desde o dia 22 de Junho até o dia 01 de Julho está rolando aqui em São Paulo uma super iniciativa que concentra uma série de eventos e Meetups sobre front-end em apenas uma semana, essa iniciativa se chama Front-end Week.
+O que já rolou? Dia 22 e 23 de Junho rolou um novo evento sobre JavaScript chamado JS Experience, que reuniu os maiores palestrantes sobre front-end do Brasil num lugar só.</description>
+    </item>
+    
+  </channel>
+</rss>

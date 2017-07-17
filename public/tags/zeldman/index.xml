@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zeldman on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/zeldman/</link>
+    <description>Recent content in Zeldman on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 04 Sep 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/zeldman/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Documentário sobre o Jeffrey Zeldman</title>
+      <link>http://localhost/jhonny-roger/public/documentario-sobre-o-jeffrey-zeldman/</link>
+      <pubDate>Thu, 04 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/documentario-sobre-o-jeffrey-zeldman/</guid>
+      <description>Eu não sei quanto tempo faz que você trabalha com desenvolvimento web. Eu trabalho há mais ou menos uns 14 anos. Quando comecei, eu era apenas um curioso e só alguns anos depois o hobby virou algo sério. Nessa época o mercado de desenvolvimento web já havia começado há tempos. A guerra dos browsers estava no auge e o W3C não tinha força suficiente para educar o mercado a seguirem as especificações.</description>
+    </item>
+    
+    <item>
+      <title>99,9% dos sites web estão obsoletos</title>
+      <link>http://localhost/jhonny-roger/public/99_dos_sites_sao_obsoletos/</link>
+      <pubDate>Thu, 12 Jun 2003 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/99_dos_sites_sao_obsoletos/</guid>
+      <description>O Pedro Mendes traduziu o artigo do Zeldman.
+99,9% dos sites web estão obsoletos
+Lendo o artigo, eu tive mais certeza de que: Tableless é o bicho!</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Http on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/http/</link>
+    <description>Recent content in Http on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 27 Oct 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/http/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Criando seu próprio servidor HTTP do zero (ou quase) – Parte Final</title>
+      <link>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-final/</link>
+      <pubDate>Tue, 27 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-final/</guid>
+      <description>Os servidores HTTP são parte fundamental da Web como conhecemos, sendo responsáveis por fornecer todo o conteúdo que acessamos através de nossos navegadores. Durante esse tutorial, entenderemos como funciona a comunicação entre o navegador e o servidor e como a informação é entregue ao usuário.
+Caso não tenha acompanhado os últimos posts, recomendo que leia as Partes um, dois e três antes de prosseguir a leitura deste post.
+Essa é a última parte do tutorial, mas antes de prosseguir vamos recapitular o que vimos até agora então: Nós conhecemos o protocolo HTTP/1.</description>
+    </item>
+    
+    <item>
+      <title>Criando seu próprio servidor HTTP do zero (ou quase) – Parte I</title>
+      <link>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-i/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-i/</guid>
+      <description>Sou apaixonado por tecnologias livres e como sou extremamente curioso, gosto de saber como as coisas funcionam. Como também sou cinestésico, não me contento em apenas em entender, tenho que criar, recriar, escrever, rescrever, inventar, reinventar, enfim sentir realmente como se faz. Nesse vai e vem de aprendizado, minha última curiosidade foi entender como os servidores HTTP funcionam e criar um do zero (ou pelo menos quase).
+É claro que para fazer isso eu não fui tão lá embaixo a ponto de utilizar C, utilizei da linguagem de programação da qual me sinto mais confortável e que já oferece algumas facilidades que em C teria que sangrar pra fazer o mesmo porém não impossível, mas enfim, optei por desenvolver em Java, os passos vou contar pra vocês aqui, mas utilizando os mesmo conceitos nada impede que utilize qualquer outra linguagem de programação.</description>
+    </item>
+    
+    <item>
+      <title>HTTP/2 – Atualização do protocolo base da internet</title>
+      <link>http://localhost/jhonny-roger/public/http2-atualizacao-do-protocolo-base-da-internet/</link>
+      <pubDate>Wed, 18 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/http2-atualizacao-do-protocolo-base-da-internet/</guid>
+      <description>HTTP é o protocolo de comunicação base usado para a internet funcionar. O nome é Hypertext Transfer Protocol. Olha só a palavra Hypertext aparecendo de novo. Onde mais você encontra ela? Isso! Exato! Na sigla HTML: HyperText Markup Language. O HTTP é o protocolo que troca ou faz a transferência de hipertextos.
+Eu não vou explicar aqui o que é um Hipertexto porque eu sei que você já sabe. Mas a grande novidade é que durante os últimos 16 anos nós usamos uma mesma versão desse protocolo e agora a galera do IETF HTTP Working Group soltou a atualização, chamada de HTTP/2!</description>
+    </item>
+    
+    <item>
+      <title>O grande desencontro do HTTP com o HTML</title>
+      <link>http://localhost/jhonny-roger/public/o-grande-desencontro-http-com-o-html/</link>
+      <pubDate>Mon, 06 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-grande-desencontro-http-com-o-html/</guid>
+      <description>O texto irá contar a evolução e desencontro de duas tecnologias. O importante aqui é apresentar a você uma série de conceitos e raciocínios ligados à linguagem de marcação e ao protocolo de marcação mais famosos dos nossos tempos. Vê se não banca o curioso, nada de descer até o fim do texto para conhecer o desfecho desta trama.
+Prólogo Hypertext Transfer Protocol (HTTP) O HTTP é um protocolo de comunicação para distribuição de objetos de hipermídia referenciados por uma URL.</description>
+    </item>
+    
+  </channel>
+</rss>

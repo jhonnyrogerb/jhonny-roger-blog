@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lenilson Nascimento on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/lenilson-nascimento/</link>
+    <description>Recent content in Lenilson Nascimento on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 20 Jul 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/lenilson-nascimento/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A luta pelo Leo ainda não acabou</title>
+      <link>http://localhost/jhonny-roger/public/luta-pelo-leo-ainda-nao-acabou/</link>
+      <pubDate>Mon, 20 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/luta-pelo-leo-ainda-nao-acabou/</guid>
+      <description>O intuito deste post é reforçar a campanha pelo nosso amigo Leokz.
+Como todos sabemos, ele está nos EUA fazendo o tratamento para um câncer raro, pois no Brasil não há chances de cura.
+Você deve se lembrar que no início do ano fizemos a campanha Front-end United for Leokz. Se não se lembra pode ver o post aqui.
+Bem, ele ainda precisa de bastante grana pra terminar o tratamento. Além disso o valor do tratamento aumentou.</description>
+    </item>
+    
+    <item>
+      <title>ECMAScript 6, uma breve introdução à POO</title>
+      <link>http://localhost/jhonny-roger/public/ecmascript-6-uma-breve-introducao-a-poo/</link>
+      <pubDate>Mon, 15 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ecmascript-6-uma-breve-introducao-a-poo/</guid>
+      <description>Bom galera, já falei aqui no tableless, sobre o uso de classes na ECMAScript 6, porém, foram exemplos bem superficiais. Então decidi criar um exemplo mais prático de como utilizá-la. Você pode encontrar o artigo que estou falando aqui.
+Entendendo o projeto A ideia inicial foi criar uma mini (e põe mini nisso) loja virtual, utilizando dados em JSON.
+O que teremos, nada mais é que uma variável contendo dados em JSON e estes dados serão transformados em objetos&amp;#8230; Advinha?</description>
+    </item>
+    
+    <item>
+      <title>Tableless Weekly #5</title>
+      <link>http://localhost/jhonny-roger/public/tableless-weekly-5/</link>
+      <pubDate>Thu, 09 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tableless-weekly-5/</guid>
+      <description>Mais um artigo da série Tableless Weekly. Quero me desculpar por ter ficado algumas semanas sem escrever, mas creio que isto não se repetirá e estarei aqui com vocês todas as semanas. 🙂
+Antes de ir aos links e tudo mais, quero discutir um assunto com vocês. No último artigo, falei sobre a nova especificação ECMAScript 6, que foi adotada parcialmente em alguns navegadores.
+Uma das partes que ainda não foi adotada, é a nova especificação de orientação a objetos que a ES6 traz consigo.</description>
+    </item>
+    
+    <item>
+      <title>Tableless Weekly #4</title>
+      <link>http://localhost/jhonny-roger/public/tableless-weekly-4/</link>
+      <pubDate>Wed, 10 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tableless-weekly-4/</guid>
+      <description>No artigo de hoje da série Tableless Weekly teremos algumas novidades bem legais. Então vamos à elas:
+Novidades Bom, já foi falado aqui no tableless sobre o elemento picture do HTML, você pode encontrar aqui neste artigo.
+A novidade é que este elemento já está disponível a partir da versão 38 do Chrome. Com este elemento poderemos fazer sites responsivos mais leves, determinando em qual tamanho de tela, qual imagem será exibida.</description>
+    </item>
+    
+    <item>
+      <title>Tableless Weekly #3</title>
+      <link>http://localhost/jhonny-roger/public/tableless-weekly-3/</link>
+      <pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tableless-weekly-3/</guid>
+      <description>Mais um artigo da série Tableless Weekly. Seleção semanal de links, ferramentas e novidades front end.
+Tableless Conf 2014 O Tableless faz um evento anual trazendo os melhores palestrantes brasileiros sobre desenvolvimento para falarem sobre assuntos atuais que estão sendo pauta lá fora. Esse ano o evento vai rolar no dia 23 de Outubro e é só para 150 pessoas. Na verdade, nesse exato momento, só tem 99 vagas.</description>
+    </item>
+    
+    <item>
+      <title>Tableless Weekly #2</title>
+      <link>http://localhost/jhonny-roger/public/tableless-weekly-2/</link>
+      <pubDate>Fri, 22 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tableless-weekly-2/</guid>
+      <description>O segundo artigo da série Tableless Weekly vem esta semana com um pouco mais de links e como prometido, disponibilizaremos um link para que vocês possam nos enviar links de ferramentas, sites legais e artigos relacionados ao mercado front end.
+Sem mais demora vamos lá.
+BrazilJS Conf Esta semana está rolando o BrazilJS Conf (dia 21 e 22) em Porto Alegre &amp;#8211; RS.
+A conferência conta com vários palestrantes nacionais e internacionais de várias empresas e projetos como: Google, Mozilla, jQueryUI, GoDaddy, Liferay e Microsoft.</description>
+    </item>
+    
+    <item>
+      <title>Tableless Weekly #1</title>
+      <link>http://localhost/jhonny-roger/public/tableless-weekly-1/</link>
+      <pubDate>Tue, 12 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tableless-weekly-1/</guid>
+      <description>Estamos começando com o primeiro artigo da série Tableless Weekly. Série semanal que trará um pouco das novidades do mercado front-end, links úteis e alguns sites legais que encontrarmos por ai.
+HTML5 O Elemento Dialog já está disponivel para o chrome a partir da versão 37.
+Como o HTML5 sempre tem trazido consigo uma grande mudança nas tags, principalmente por questões semânticas, a tag Dialog já foi implementada a partir da versão 37 do Chrome e na versão 6 do Safari.</description>
+    </item>
+    
+    <item>
+      <title>Usabilidade e a Utilidade dos Elementos</title>
+      <link>http://localhost/jhonny-roger/public/usabilidade-e-utilidade-dos-elementos/</link>
+      <pubDate>Wed, 02 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/usabilidade-e-utilidade-dos-elementos/</guid>
+      <description>A Usabilidade está completamente ligada à utilidade e ao propósito de cada elemento ou objetos que criamos. Na verdade a própria palavra já nos traz logo em mente o método como algo é usado, e nos remete diretamente à facilidade deste uso.
+Há poucos dias, andava eu pesquisando sobre o assunto e vi este vídeo de Donald Norman: Obs: O vídeo tem legendas 🙂
+[youtube http://www.youtube.com/watch?v=NK1Zb_5VxuM]
+Posso dizer que não me seria necessário acrescentar mais nada neste momento, pois, assistindo ao vídeo, o leitor já está totalmente inteirado do que estou querendo mostrar, mas para não ficar vago o texto, vamos há alguns conceitos.</description>
+    </item>
+    
+    <item>
+      <title>O Crescimento da Web e as Tendências de Mercado</title>
+      <link>http://localhost/jhonny-roger/public/o-crescimento-da-web-e-as-tendencias-de-mercado/</link>
+      <pubDate>Sun, 15 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-crescimento-da-web-e-as-tendencias-de-mercado/</guid>
+      <description>Nos últimos anos, temos acompanhado um crescimento espantoso da Web no Brasil. Hoje em dia, falar-se sobre sistemas funcionando através da internet, é mais comum do que imaginamos, às vezes chega à ser espantoso. Por exemplo, quando estamos na faculdade e vamos discutir ideias de projetos para conclusão do curso, ou simplesmente para projetos que possam nos dar dinheiro (digamos assim), sempre ouviremos alguém dizendo: &amp;#8220;E se fizéssemos isso funcionando pela Web&amp;#8221;.</description>
+    </item>
+    
+    <item>
+      <title>UX: uma Responsabilidade de Todos</title>
+      <link>http://localhost/jhonny-roger/public/ux-uma-responsabilidade-de-todos/</link>
+      <pubDate>Sat, 14 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ux-uma-responsabilidade-de-todos/</guid>
+      <description>Muitos profissionais buscam aprender e a praticar os conceitos pregados pela turma de UX. Mas afinal, estes conceitos são responsabilidade apenas dos profissionais de UX?
+ UX não é só coisa dos arquivos de informação. UX é a base de tudo.
+ Desde o início a web foi desenvolvida e focada nos usuários. Sites de empresas, produtos e serviços, nunca foram feitos para programadores ou desenvolvedores, mas sim, para usuários.</description>
+    </item>
+    
+  </channel>
+</rss>

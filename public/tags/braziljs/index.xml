@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Braziljs on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/braziljs/</link>
+    <description>Recent content in Braziljs on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 25 Aug 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/braziljs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BrazilJS 2014</title>
+      <link>http://localhost/jhonny-roger/public/braziljs-2014/</link>
+      <pubDate>Mon, 25 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/braziljs-2014/</guid>
+      <description>Foi minha primeira vez. E sim, foi muito bom.
+Eu já assisti eventos de fora e de dentro do Brasil e de fato, o BrazilJS tem nível internacional. Não apenas por causa dos palestrantes, onde mais da metade eram gringos, mas também por conta da organização e de toda a movimentação que o evento leva para a cidade. Já no avião, em SP, indo para Porto Alegre, tinha devs sentados ao meu lado, de Belo Horizonte, indo para o evento.</description>
+    </item>
+    
+  </channel>
+</rss>

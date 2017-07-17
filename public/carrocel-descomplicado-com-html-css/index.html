@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245839">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>Não é difícil perceber que muitos desenvolvedores tanto iniciantes como os veteranos de guerra ainda sofrem quando o assunto é carrossel, mesmo utilizando frameworks como BootStrap. Mas seus problemas acabaram! (música de chegada milagrosa), com o conhecimento de poucas técnicas podemos resolver esse &#8220;gigante&#8221; problema facilmente.</p>
+
+<h3 id="pseudo-classe-target-8211-css">Pseudo classe :target &#8211; CSS</h3>
+
+<p>Para resolver o grande problema de transição do carrossel, vamos utilizar a pseudo classe <code>:target</code>, que atribui algumas características do CSS para o elemento HTML.</p>
+
+<p>Para quem ainda não conhece a pseudo classe &#8220;:target&#8221; aqui vai um exemplo bem alto explicativo.</p>
+
+<h6 id="html">HTML</h6>
+
+<pre class="lang-html">&lt;a href="#texto-exemplo-1"&gt;Seleciona o texto exemplo 1&lt;/a&gt;
+&lt;a href="#texto-exemplo-2"&gt;Seleciona o texto exemplo 2&lt;/a&gt;
+
+&lt;p id="texto-exemplo-1" class="text" &gt;Texto exemplo 1&lt;/p&gt;
+&lt;p id="texto-exemplo-2" class="text" &gt;Texto exemplo 2&lt;/p&gt;
+</pre>
+
+<h6 id="css">CSS</h6>
+
+<pre class="lang-css">.text:target{
+    border: 1px solid #000;
+}
+</pre>
+
+<p>Você pode conferir o resultado no CODEPEN <a href="http://codepen.io/lleonardoll/pen/BzBdWB?editors=1100" target="_blank">aqui.</a></p>
+
+<p>O Tableless tem <a href="http://tableless.com.br/css3-abas-com-a-pseudo-classe-target/">um artigo que ensina a fazer abas usando apenas CSS3 com o pseudo classe :target</a>.</p>
+
+<h3 id="estrutura-html">Estrutura HTML</h3>
+
+<p>A estrutura que iremos utilizar também é bem simples. Primeiramente uma DIV como &#8220;container&#8221; que é onde irá acontecer o carrossel, também utilizaremos outras DIVs que chamaremos de &#8220;wall-x&#8221; onde x é o valor da DIV no carrossel.</p>
+
+<h2 id="mão-na-massa">Mão na massa</h2>
+
+<p>Vamos começar pelo HTML definindo a estrutura do nosso carrossel.</p>
+
+<pre class="lang-html">&lt;div class="container"&gt;
+    &lt;div class="wall wall-1" id="wall-1"&gt;
+        &lt;h1&gt;carrosel numero - 1&lt;/h1&gt;
+    &lt;/div&gt;
+
+    &lt;div class="wall wall-2" id="wall-2"&gt;
+        &lt;h1&gt;carrosel numero - 2&lt;/h1&gt;
+    &lt;/div&gt;
+
+    &lt;div class="wall wall-3" id="wall-3"&gt;
+        &lt;h1&gt;carrosel numero - 3&lt;/h1&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</pre>
+
+<p>Terminado a estrutura, devemos deixar todas as DIVs wall com &#8220;display: none;&#8221; ( sim, todas! ) para não serem listadas de uma vez.</p>
+
+<pre class="lang-css">.container{
+    width: 150px;
+    height: 150px;
+}
+
+.wall{
+    display: none;
+    width: 100%;
+    height: 100%;
+}
+
+/* Corzinha de fundo para diferenciar */
+.wall-1{ background-color: #f00; }
+.wall-2{ background-color: #0f0; }
+.wall-3{ background-color: #00f; }
+
+.wall:target{
+    display: block;
+}
+</pre>
+
+<h6 id="explicando-8230">Explicando&#8230;</h6>
+
+<p>Basicamente, definimos o tamanho do &#8220;container&#8221;. Deixamos todas as DIVs &#8220;wall&#8221; com &#8220;display: none;&#8221; e definimos que todo &#8220;target&#8221; terá o &#8220;display: block;&#8221;. Se nada estiver aparecendo na sua tela, não se assuste, tudo está funcionando, o que acontece é que você não tem nem um &#8220;target&#8221; definido, mas você pode fazer um teste adicionando &#8220;#wall-1&#8221; na sua url.</p>
+
+<p>Ok, já temos 90% do carrossel pronto. Para finalizarmos o carrossel precisamos adicionar as setas (ou botões como preferir) para fazer a transição de uma tela para outra, e é ai que vem a outra parte fácil. A unica coisa que precisamos fazer é adicionar links que setam para o target anterior ou seguinte, neste caso, se você estiver no &#8220;#wall-2&#8221; o anterior seria &#8220;#wall-1&#8221; e o seguinte &#8220;#wall-3&#8221; (precisava explicar?).</p>
+
+<pre class="lang-html">&lt;div class="container"&gt;
+    &lt;div class="wall wall-1" id="wall-1"&gt;
+        &lt;a href="#wall-3"&gt;Voltar&lt;/a&gt;
+        &lt;h1&gt;carrosel numero - 1&lt;/h1&gt;
+        &lt;a href="#wall-2"&gt;Avançar&lt;/a&gt;
+    &lt;/div&gt;
+
+    &lt;div class="wall wall-2" id="wall-2"&gt;
+        &lt;a href="#wall-1"&gt;Voltar&lt;/a&gt;
+        &lt;h1&gt;carrosel numero - 2&lt;/h1&gt;
+        &lt;a href="#wall-3"&gt;Avançar&lt;/a&gt;
+    &lt;/div&gt;
+
+    &lt;div class="wall wall-3" id="wall-3"&gt;
+        &lt;a href="#wall-2"&gt;Voltar&lt;/a&gt;
+        &lt;h1&gt;carrosel numero - 3&lt;/h1&gt;
+        &lt;a href="#wall-1"&gt;Avançar&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</pre>
+
+<p>Para facilitar a exibição do primeiro target (sem ter que criar um link personalizado) você pode simplesmente colocar uma linha de javascript para todo o carrossel ficar ativa 😉</p>
+
+<pre>window.location = "#wall-1";
+</pre>
+
+<p>Você pode ver o código em ação no CODEPEN <a href="http://codepen.io/lleonardoll/pen/pbvdRZ" target="_blank">aqui.</a></p>
+
+<p>Pronto! Uma maneira muito simples para resolver um grande problema.</p>
+
+<h2 id="possível-problema-que-você-poderá-encontrar">Possível problema que você poderá encontrar</h2>
+
+<p>Caso você esteja utilizando algum link com target &#8220;#&#8221; para executar alguma ação, o &#8220;#wall-x&#8221; que está sendo setado perderá o foco, e logicamente terá a atribuição &#8220;display: none;&#8221; retomada. Neste caso é recomendável que não utilize targets na mesma pagina do carrossel e substitua os links &#8220;#&#8221; por funções onclick via JavaScript ou JQuery.</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/indo-alem-no-react-native//?utm_source=tablelessRelatedLin">Indo além no Mundo React-Native</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/seu-primeiro-bot-para-o-telegram//?utm_source=tablelessRelatedLin">Seu primeiro bot para o Telegram</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245839"></script>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cms on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/cms/</link>
+    <description>Recent content in Cms on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 17 Aug 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/cms/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gantry 5 – Desenvolvimento de templates para Joomla e WordPress</title>
+      <link>http://localhost/jhonny-roger/public/gantry-5-desenvolvimento-de-templates-para-joomla-e-wordpress/</link>
+      <pubDate>Mon, 17 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/gantry-5-desenvolvimento-de-templates-para-joomla-e-wordpress/</guid>
+      <description>&amp;nbsp;
+Com o surgimento dos Gerenciadores de Conteúdo como o Joomla e WordPress, os desenvolvedores de sites começaram a aproveitar mais o tempo e entregar projetos mais rápido. Quando surgem os frameworks de templates, que se integram aos CMSs para gerenciar e facilitar o desenvolvimento dos layouts das páginas, as coisas ficam mais interessantes. E é justamente nesse ponto que vamos chegar. Farei uma breve abordagem sobre o novo Framework de Template Gantry 5.</description>
+    </item>
+    
+    <item>
+      <title>Front-end e WordPress: uma relação de amor e amizade</title>
+      <link>http://localhost/jhonny-roger/public/front-end-e-wordpress-uma-relacao-de-amor-e-amizade/</link>
+      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/front-end-e-wordpress-uma-relacao-de-amor-e-amizade/</guid>
+      <description>É&amp;nbsp;bastante comum o&amp;nbsp;desenvolvedor front-end conseguir trabalho como freelancer e precisar do desenvolvedor back-end para tornar&amp;nbsp;o site dinâmico. O&amp;nbsp;cliente fica&amp;nbsp;feliz,&amp;nbsp;pois de forma rápida, ele consegue criar novas páginas, postagens, atualizando por conta própria o conteúdo. Mas atualmente, o&amp;nbsp;front-end não precisa mais desta dependência:&amp;nbsp;ele pode usar o WordPress.
+Ok, mas o WordPress usa PHP, uma&amp;nbsp;linguagem back-end, correto?
+Sim, mas isto não é impede de tornar a ferramenta facilmente configurável, mesmo que você não entenda de linguagens de programação.</description>
+    </item>
+    
+    <item>
+      <title>Templates Joomla!: o básico e relações com o WordPress</title>
+      <link>http://localhost/jhonny-roger/public/templates-joomla-o-basico-e-relacoes-com-o-wordpress/</link>
+      <pubDate>Mon, 25 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/templates-joomla-o-basico-e-relacoes-com-o-wordpress/</guid>
+      <description>Ao lado do WordPress, o Joomla! é sem dúvida um dos melhores CMS que existem atualmente. Como o amigo Girlan bem já escreveu noutro artigo, o Joomla! tem se superado muito a cada versão&amp;nbsp;e, desta perspectiva, torna-se mais que vantajoso ao desenvolvedor front-end dominar a criação de temas tanto para&amp;nbsp;o WordPress quanto para o Joomla!.
+A boa notícia é que se você já sabe&amp;nbsp;criar temas para o WordPress, você praticamente já&amp;nbsp;sabe criar&amp;nbsp;templates para o Joomla!</description>
+    </item>
+    
+    <item>
+      <title>Introdução ao Magento</title>
+      <link>http://localhost/jhonny-roger/public/introducao-ao-magento/</link>
+      <pubDate>Mon, 02 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-ao-magento/</guid>
+      <description>O que é? O Magento é uma plataforma open source online focada em comércio eletrônico (e-commerce), e possui diversas ferramentas para facilitar a forma e otimizar a atuação de uma loja virtual. Conta com uma série de módulos customizáveis, flexíveis e dinâmicos que podem ser alterados de acordo com a necessidade da loja que o utiliza.O Magento pode suprir a necessidade de diversos tipos de e-commerce, sem apresentar falhas devido ao fluxo de usuários, graças a sua estabilidade e estrutura que pode ser escalada ou alterada se necessário.</description>
+    </item>
+    
+    <item>
+      <title>Como se tornar um profissional Top em WordPress</title>
+      <link>http://localhost/jhonny-roger/public/como-se-tornar-um-profissional-top-em-wordpress/</link>
+      <pubDate>Mon, 04 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/como-se-tornar-um-profissional-top-em-wordpress/</guid>
+      <description>Neste artigo, vou mostrar como você poderá se tornar um profissional Top em WordPress e isso pode valer não só para os desenvolvedores, mas também para blogueiros, designers e todos os outros.
+Primeiro, vamos definir algumas coisas: Se tornar um profissional Top em WordPress é um trabalho duro &amp;#8211; muito duro. Você precisará de tempo, energia e determinação. Se você está procurando um artigo rápido sobre esse tema, irá perder seu tempo.</description>
+    </item>
+    
+    <item>
+      <title>WordPress – Uma pequena introdução</title>
+      <link>http://localhost/jhonny-roger/public/wordpress-uma-pequena-introducao/</link>
+      <pubDate>Sun, 10 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/wordpress-uma-pequena-introducao/</guid>
+      <description>O WordPress não foi feito para ser um CMS. Ele foi criado primeiramente para suprir necessidades de criação de blogs. Por acaso, talvez como se fosse um acidente, começamos a utilizá-lo para criar websites, desde os mais simples até os mais complicados. O pessoal do WordPress curtiu a ideia e agora está melhorando cada vez mais o sistema para que ele se torne um CMS de verdade, mesmo assim mantendo toda a simplicidade do WordPress original.</description>
+    </item>
+    
+  </channel>
+</rss>

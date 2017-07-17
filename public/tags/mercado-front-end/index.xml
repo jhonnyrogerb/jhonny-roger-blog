@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mercado Front End on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/mercado-front-end/</link>
+    <description>Recent content in Mercado Front End on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 22 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/mercado-front-end/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Minha experiência com o CT (Centro de Treinamento)</title>
+      <link>http://localhost/jhonny-roger/public/minha-experiencia-com-o-ct-centro-de-treinamento/</link>
+      <pubDate>Sun, 22 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/minha-experiencia-com-o-ct-centro-de-treinamento/</guid>
+      <description>Meu nome é Danilo, tenho 25 anos, e moro em São Paulo. Antes de conhecer o projeto do CT , eu havia trabalhado pouco tempo como Front-end em uma empresa chamada Athos Informática. Minha experiência não foi uma das melhores, e acabou não dando muito certo. Porém, aconteceu algo muito bacana , quando eu fiquei disponível para o mercado de trabalho.
+Comecei a frequentar todos os Meetup&amp;#8217;s que eu podia, conversei com muitos Dev&amp;#8217;s da comunidade, e coloquei de fato a mão na massa.</description>
+    </item>
+    
+  </channel>
+</rss>

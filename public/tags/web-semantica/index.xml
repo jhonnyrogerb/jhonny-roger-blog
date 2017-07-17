@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Semantica on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/web-semantica/</link>
+    <description>Recent content in Web Semantica on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 02 Nov 2005 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/web-semantica/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Web Semântica</title>
+      <link>http://localhost/jhonny-roger/public/a-web-semantica/</link>
+      <pubDate>Wed, 02 Nov 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/a-web-semantica/</guid>
+      <description>A Web Semântica é nada mais nada menos, que uma web com toda sua informação organizada de forma que não somente seres humanos possam entendê-la, mas principalmente máquinas. As máquinas nos ajudarão em tarefas que hoje fazemos manualmente.
+Imagine a situação abaixo e entenda melhor:
+Você precisa fazer uma viagem as pressas para a Tailândia, então você pede ao computador encontrar uma companhia aérea que siga as seguintes restrições: que tenha um voo para a manhã seguinte na classe econômica e seja a companhia com o preço mais barato.</description>
+    </item>
+    
+  </channel>
+</rss>

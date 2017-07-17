@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tables on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/tables/</link>
+    <description>Recent content in Tables on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 06 Apr 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/tables/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Email Marketing – O Inferno – Parte 1</title>
+      <link>http://localhost/jhonny-roger/public/email-marketing-o-inferno-parte-1/</link>
+      <pubDate>Mon, 06 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/email-marketing-o-inferno-parte-1/</guid>
+      <description>Esqueça tudo o que você sabe sobre CSS 3, HTML 5, JavaScript e qualquer outra nova novidade que você tenha visto nos últimos 10 anos. Para fazer uma newsletter você não vai usar nada disso.
+Criar email marketing é chato. Não é fácil e provavelmente não vai ficar do jeito que você quer na primeira ou na segunda ou na terceira vez. Se você reclama do Internet Explorer por qualquer motivo, você ainda não teve que lidar com os clientes de email.</description>
+    </item>
+    
+  </channel>
+</rss>

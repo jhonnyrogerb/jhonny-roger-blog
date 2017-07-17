@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>W3c on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/w3c/</link>
+    <description>Recent content in W3c on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 05 Oct 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/w3c/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Criando seu próprio servidor HTTP do zero (ou quase) – Parte III</title>
+      <link>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-iii/</link>
+      <pubDate>Mon, 05 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-iii/</guid>
+      <description>Estamos entrando na terceira parte do tutorial, e quem está acompanhando até aqui já sabe então como funciona a comunicação entre cliente e servidor, envio de requisição pelo cliente e recebimento de resposta (na duvida só voltar e releia a Parte I e/ou Parte II), porém o que a gente quer é criar o servidor, receber as requisições e enviar a resposta ao cliente.
+O Servidor A idéia do servidor é bem simples e estende a do cliente, como assim?</description>
+    </item>
+    
+    <item>
+      <title>Criando seu próprio servidor HTTP do zero (ou quase) – Parte II</title>
+      <link>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-ii/</link>
+      <pubDate>Fri, 11 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-ii/</guid>
+      <description>Se chegou até aqui é por que você terminou de ler a primeira parte do tutorial (Caso não, leia a Parte I ), mas não desista, a parte legal vai chegar, mas antes de começar, falta mais um item de teoria &amp;#8211; sim eu sei que é chato, mas juro que é importante &amp;#8211; os Sockets.
+Sockets e portas Falamos muito de requisições e respostas no último post mas ainda não falamos de conexão e troca de informações.</description>
+    </item>
+    
+    <item>
+      <title>Criando seu próprio servidor HTTP do zero (ou quase) – Parte I</title>
+      <link>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-i/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-i/</guid>
+      <description>Sou apaixonado por tecnologias livres e como sou extremamente curioso, gosto de saber como as coisas funcionam. Como também sou cinestésico, não me contento em apenas em entender, tenho que criar, recriar, escrever, rescrever, inventar, reinventar, enfim sentir realmente como se faz. Nesse vai e vem de aprendizado, minha última curiosidade foi entender como os servidores HTTP funcionam e criar um do zero (ou pelo menos quase).
+É claro que para fazer isso eu não fui tão lá embaixo a ponto de utilizar C, utilizei da linguagem de programação da qual me sinto mais confortável e que já oferece algumas facilidades que em C teria que sangrar pra fazer o mesmo porém não impossível, mas enfim, optei por desenvolver em Java, os passos vou contar pra vocês aqui, mas utilizando os mesmo conceitos nada impede que utilize qualquer outra linguagem de programação.</description>
+    </item>
+    
+    <item>
+      <title>Conheça os primeiros palestrantes da Webbr2015</title>
+      <link>http://localhost/jhonny-roger/public/conheca-os-primeiros-palestrantes-da-webbr2015/</link>
+      <pubDate>Fri, 31 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/conheca-os-primeiros-palestrantes-da-webbr2015/</guid>
+      <description>Lote de inscrições para a Webbr 2015 por R$ 80,00 termina segunda-feira, dia 3 de agosto!
+A abertura do evento será sobre re-descentralizar da Web! que contará com Andrei Sambra, Research Associate do W3C, para discutir o tema como keynote speaker da conferência. O pesquisador comentará os atuais esforços de padronização feitos pelo World Wide Web Consortium (W3C), além dos processos de tradução tecnológica do Massachusetts Institute of Technology (MIT) para construir aplicações e serviços descentralizados.</description>
+    </item>
+    
+    <item>
+      <title>Participe do Prêmio Nacional de Acessibilidade na Web 2014</title>
+      <link>http://localhost/jhonny-roger/public/participe-premio-nacional-de-acessibilidade-na-web/</link>
+      <pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/participe-premio-nacional-de-acessibilidade-na-web/</guid>
+      <description>As inscrições para a terceira edição do Prêmio Nacional de Acessibilidade na Web estão abertas. Mais uma vez o W3C Brasil abre as inscrições para essa premiação como objetivo promover nacionalmente a acessibilidade na web, de forma a conscientizar desenvolvedores e homenagear pessoas que se destacaram em atividades que visam promover o acesso a web e ações em prol do acesso de pessoas com deficiências na web.
+Se você tem um trabalho de fomento a acessibilidade na Web, desenvolve sites que não criem barreiras para pessoas com deficiência ou desenvolveu uma tecnologia assistiva que possibilite o acesso a Web de pessoas com deficiência, essa é a hora de inscrever seu trabalho.</description>
+    </item>
+    
+    <item>
+      <title>Conferência Web.br 2014 e os 25 anos da Web</title>
+      <link>http://localhost/jhonny-roger/public/conferencia-web-w3c-2014-e-os-25-anos-da-web/</link>
+      <pubDate>Wed, 30 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/conferencia-web-w3c-2014-e-os-25-anos-da-web/</guid>
+      <description>Em 2014 a Web completa 25 anos e o W3C 20 anos de existência. Para celebrar esses dois importantes momentos o W3C Brasil vai promover diversas ações durante a Conferência Web W3C Brasil 2014. O evento já tem data e local definidos: 25 e 26 de setembro em São Paulo e as inscrições estão abertas!
+Keynote Speakers confirmados François Daoust é um dos líderes nas discussões e desenvolvimento da convergência entre Web e TV no W3C, com um foco específico em cenários multi-tela.</description>
+    </item>
+    
+    <item>
+      <title>CSS Filters – Aplicando filtros em imagens com CSS</title>
+      <link>http://localhost/jhonny-roger/public/css-filters-aplicando-filtros-em-imagens-com-css/</link>
+      <pubDate>Thu, 10 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css-filters-aplicando-filtros-em-imagens-com-css/</guid>
+      <description>A cada dia que passa o CSS tem virado de fato uma linguagem visual, para formatar como os elementos, imagens e qualquer outro tipo de informação aparece nos browsers, celulares e etc. Um bom exemplo disso são os CSS Filters, que permite aplicar filtros, antes vistos apenas em programas como Photoshop, diretamente no browser com CSS.
+ A filter effect is a graphical operation that is applied to an element as it is drawn into the document.</description>
+    </item>
+    
+    <item>
+      <title>WebP, hora de brincar?</title>
+      <link>http://localhost/jhonny-roger/public/webp-hora-de-brincar/</link>
+      <pubDate>Fri, 28 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/webp-hora-de-brincar/</guid>
+      <description>O Google sempre tenta ao máximo melhorar a qualidade e eficiência da web. Dessa vez ele tenta poupar alguns KB a mais nos formatos de imagens com o recente formato WebP, que foi anunciado em 2010 e ganhou visibilidade ao longo dos últimos anos, mas sem ter conseguido muita adesão ainda.
+O WebP é um formato de imagem da Google que fornece a mesma qualidade de arquivos como PNG e JPG com tamanhos reduzidos.</description>
+    </item>
+    
+    <item>
+      <title>Conferência W3C Web.br 2013 – Dia 2</title>
+      <link>http://localhost/jhonny-roger/public/conferencia-w3c-web-br-2013-dia-2/</link>
+      <pubDate>Wed, 27 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/conferencia-w3c-web-br-2013-dia-2/</guid>
+      <description>No primeiro dia fizemos um passeio através da história da internet, aprendemos a importância do WAI-ARIA, ganhamos umas dicas sobre Design Responsivo e Games em HTML5, além de ficar por dentro das próximas novidades de CSS3. Mas muita coisa ainda estava por vir!
+Pushing the Web Forward A abertura do evento ficou por conta do Kris Borchers, diretor executivo da jQuery Foundation. Kris explicou o processo criativo por traz de funções legais do jQuery como Touch Events e SimplePush, com uma demonstração super interessante utilizando os próprios slides da palestra que sincronizavam em tempo real em diversos tipos de dispositivos através de uma URL.</description>
+    </item>
+    
+    <item>
+      <title>Conferência W3C Web.br 2013 – Dia 1</title>
+      <link>http://localhost/jhonny-roger/public/conferencia-w3c-webbr-2013-primeiro-dia/</link>
+      <pubDate>Wed, 20 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/conferencia-w3c-webbr-2013-primeiro-dia/</guid>
+      <description>Na segunda-feira 19 de novembro tive o prazer de acompanhar de perto a Conferência Web W3C Brasil. O evento, realizado no centro de convenções Rebouças em São Paulo contou com a presença de grandes especialistas web do Brasil e do mundo. Foram dois dias repletos de palestras, debates, cafézinhos, networking, premiações, bons conselhos e muito conhecimento. Se você esteva lá também, parabéns! Aposto que aprendeu alguma coisa nova. Se não foi, não tem problema!</description>
+    </item>
+    
+    <item>
+      <title>Por dentro da Web.br 2013: Web’s Got Talent</title>
+      <link>http://localhost/jhonny-roger/public/por-dentro-da-web-br-2013-webs-got-talent/</link>
+      <pubDate>Mon, 28 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/por-dentro-da-web-br-2013-webs-got-talent/</guid>
+      <description>A quinta edição da Web.br, conferência do W3C Brasil, ocorre nos dias 18 e 19 de novembro de 2013, em São Paulo, trazendo uma grande novidade nesta edição: o concurso Web&amp;#8217;s Got Talent.
+O concurso tem o propósito de reconhecer as melhores aplicações web que visam fornecer serviços aos usuários. Com isso, pretende-se evidenciar, por meio do reconhecimento público, websites ou aplicativos que tenham sido desenvolvidos com uso das tecnologias da Open Web para a prestação de serviços à população e estimular a troca de informações e experiências entre empreendedores e empresários do setor.</description>
+    </item>
+    
+    <item>
+      <title>Webkit to the people</title>
+      <link>http://localhost/jhonny-roger/public/webkit-to-the-people/</link>
+      <pubDate>Mon, 18 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/webkit-to-the-people/</guid>
+      <description>Eu sei que a notícia é velha, mas o Opera anunciou que chegou aos 300 milhões de usuários em todo mundo.
+Muita gente brinca que o Opera é o browser que ninguém usa. De fato os números do browser para desktop são bem pequenos quando comparamos com browsers como Firefox e Chrome. Mas o que ninguém pensa com muita frequencia é que o Opera está presente em uma série de outros dispositivos além do desktop.</description>
+    </item>
+    
+    <item>
+      <title>CSS e acessibilidade na web</title>
+      <link>http://localhost/jhonny-roger/public/css-e-acessibilidade-na-web/</link>
+      <pubDate>Tue, 12 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css-e-acessibilidade-na-web/</guid>
+      <description>Temos abordado bastante a importância da acessibilidade na web na estrutura e semântica do código HTML: cabeçalhos, tabelas, textos alternativos e outros recursos para deixar o markup robusto e acessível. Mas todos são elementos que podem ser manipulados pelo CSS e por isso devemos ter certos cuidados com a acessibilidade deles.
+Softwares leitores de tela já são capazes de identificar elementos de formatação visual das páginas que não foram declaradas no HTML e sim no CSS, como tipo e cor de fonte por exemplo.</description>
+    </item>
+    
+    <item>
+      <title>Seletores de CSS3 nível 4</title>
+      <link>http://localhost/jhonny-roger/public/seletores-de-css3-nivel-4/</link>
+      <pubDate>Tue, 29 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/seletores-de-css3-nivel-4/</guid>
+      <description>Desde setembro de 2011 a W3C vem trabalhando nos seletores de CSS nível 4. Calma! Isso não significa que eles estão criando o CSS4, já que nem finalizaram o CSS3 ainda&amp;#8230; Apenas que um novo pacote de pseudo-classes e classes que podem substituir as atuais, ou expandir o seu uso. Claro que, por ser algo recente, não são todos os browsers que dão suporte&amp;#8230; Mas é bom tomar conhecimento. Afinal, é sempre bom estar um passo a frente do resto do mundo.</description>
+    </item>
+    
+    <item>
+      <title>Imagens em alta resolução utilizando SVG</title>
+      <link>http://localhost/jhonny-roger/public/imagens-em-alta-resolucao-utilizando-svg/</link>
+      <pubDate>Tue, 27 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/imagens-em-alta-resolucao-utilizando-svg/</guid>
+      <description>Scalable Vector Graphics (SVG) Uma das grandes tendências do momento quando se fala sobre desenvolvimento web é o formato SVG, principalmente com o advento do design responsivo e a consequente preocupação com dispositivos com densidade de pixel superior (HiDPI) como a tela retina da Apple, utilizada nos modelos mais recentes do iPhone, iPad e do Macbook Pro. Mas o que exatamente é um arquivo SVG? Qual é a diferença entre um vetor e um bitmap?</description>
+    </item>
+    
+    <item>
+      <title>Web.br 2012 – Abertura</title>
+      <link>http://localhost/jhonny-roger/public/webbr2012-abertura/</link>
+      <pubDate>Thu, 18 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/webbr2012-abertura/</guid>
+      <description>Estive na abertura do Webbr 2012. Evento promovido pelo W3C Brasil sobre uma série de assuntos incluindo: HTML 5, Semântica, Realidade Aumentada, SEO, Empreendedorismo e outros assuntos ligados a Open Web Platform.
+A abertura foi interessante. Anotei algumas coisas da palestra inicial feita pelo Luli Radfahrer.
+ Contexto. Tudo depende do contexto. As informações que carregamos e que outras pessoas carregam depende do contexto em que elas se encontram. Mito. Cuidado com os mitos da desinformação.</description>
+    </item>
+    
+    <item>
+      <title>Web Platform</title>
+      <link>http://localhost/jhonny-roger/public/web-platform/</link>
+      <pubDate>Tue, 09 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/web-platform/</guid>
+      <description>A Webplatform.org é um website dirigido por pessoas que fomentam os padrões web, criado por um grupo que inclui W3C, Adobe, Facebook, Google, HP, Microsoft, Mozilla, Nokia, Opera e outros. O site promete ser uma fonte de recursos importantes para que você, desenvolvedor front-end, tenha uma base atual e principalmente de boas práticas ao produzir seus projetos com HTML5, CSS3, Javascript e etc.
+Eles descrevem muito bem o propósito do site:</description>
+    </item>
+    
+    <item>
+      <title>WebPlatform.org – Por uma Web documentada!</title>
+      <link>http://localhost/jhonny-roger/public/webplatform-org-por-uma-web-documentada/</link>
+      <pubDate>Tue, 09 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/webplatform-org-por-uma-web-documentada/</guid>
+      <description>É bem comum aos desenvolvedores Web, frequentemente recorrer a fontes de informações e referencias em sua rotina de trabalho. Além de o conteúdo ser extenso demais para ser decorado com precisão, ainda está em constante atualização. Muitas vezes as fontes de referencia são descentralizadas fazendo que recorramos a sites diferentes para consultar essas informações. webplatform.org Pensando em solucionar este problema a comunidade webplatform.org trás a simples proposta de documentar a web.</description>
+    </item>
+    
+    <item>
+      <title>Microdados do HTML5</title>
+      <link>http://localhost/jhonny-roger/public/microdados-do-html5/</link>
+      <pubDate>Fri, 28 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/microdados-do-html5/</guid>
+      <description>Como você diz para o sistema de busca que uma resenha em determinado site é uma resenha? E como você disponibiliza informações sobre seu evento como o local, data e etc para serviços na internet? Informação é para ser utilizada e reutilizada. Ela é reciclada diversas vezes por diversos motivos e por diversos meios.
+A especificação de Microdados do HTML define um mecanismo que permite que máquinas &amp;#8211; leia-se meios de acesso como scripts, aparelhos, sistemas, serviços etc &amp;#8211; reconheçam dados que possam ser embedados em documentos HTML de uma forma fácil.</description>
+    </item>
+    
+    <item>
+      <title>Web Index</title>
+      <link>http://localhost/jhonny-roger/public/web-index/</link>
+      <pubDate>Wed, 05 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/web-index/</guid>
+      <description>O Web Index, projeto liderado pelo Tim Berners-Lee, foi lançado hoje. Trata-se de um projeto interessante e muito importante que mostra qual a real penetração (ui&amp;#8230;) da Web nos diversos países do mundo.
+As pesquisas e bases de dados que existem hoje mensuram apenas dados quantitativos, tipo: número de assinantes de internet, velocidade de conexão, número de usuários e etc. O Tim Berners-Lee e o pessoal da Web Foundation entende que esses dados não são suficientes para construir uma Web aberta e significativa, que seja uma ferramenta real de transformação e que aumente os padrões de vida, que reduz conflitos e que melhore o governo.</description>
+    </item>
+    
+    <item>
+      <title>Safer Place – Um game feito pelo W3C</title>
+      <link>http://localhost/jhonny-roger/public/safer-place-um-game-feito-pelo-w3c/</link>
+      <pubDate>Tue, 07 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/safer-place-um-game-feito-pelo-w3c/</guid>
+      <description>O W3C do Brasil lançou um game muito interessante onde o objetivo é você ajudar a identificar e capturar cibercriminosos. O jogo é chamado de Agência Virtual 3WA. O propósito do jogo é salvar a web de cibercriminosos, onde você tem uma função de programação incompleta e você precisa completar os blocos que faltam corretamente para que a função não tenha erros.
+Gosta de programação e quer caçar alguns cibercriminosos? Cadastre-se no SaferPlace, siga as instruções e decifre os desafios.</description>
+    </item>
+    
+    <item>
+      <title>Variáveis no CSS – Breve</title>
+      <link>http://localhost/jhonny-roger/public/variaveis-no-css-breve/</link>
+      <pubDate>Mon, 18 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/variaveis-no-css-breve/</guid>
+      <description>Escrever variáveis no CSS é uma das features mais esperadas nesses últimos tempos. Préprocessadores como SASS e LESS já disponibilizam este recurso, mas ter essas facilidades no próprio CSS, sem a necessidade de utilizar qualquer outra ferramenta é muito mais do que útil.
+O WebKit tem trabalhado nesse assunto utilizando a documentação do W3C. E provavelmente já teremos daqui um tempo a possibilidade de utilizar variáveis em browsers que suportam webkit.</description>
+    </item>
+    
+    <item>
+      <title>Entendendo quais APIs (realmente) fazem parte do HTML5</title>
+      <link>http://localhost/jhonny-roger/public/entendendo-quais-apis-realmente-fazem-parte-do-html5/</link>
+      <pubDate>Wed, 02 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/entendendo-quais-apis-realmente-fazem-parte-do-html5/</guid>
+      <description>Com o HTML5 ganhando força no mercado de desenvolvimento web, maior tem sido o interesse dos desenvolvedores em compreender seus recursos, novas APIs e tecnologias adjacentes. E é aí que acontece uma grande confusão.
+Sabemos que o HTML5 não se trata apenas de marcação, mas também de um conjunto de novas funcionalidades encapsuladas em APIs que podem ser acessadas via JavaScript.
+Porém, há APIs em processo de padronização pelo W3C que não fazem parte da especificação do HTML5.</description>
+    </item>
+    
+    <item>
+      <title>Devs decidem deixar o SVG e adotar o Flash</title>
+      <link>http://localhost/jhonny-roger/public/devs-decidem-deixar-svg-e-adotar-o-flash/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/devs-decidem-deixar-svg-e-adotar-o-flash/</guid>
+      <description>Depois de muita discussão e debate entre a comunidade e alguns grupos, os desenvolvedores de todo o mundo decidem adotar o Flash como padrão em detrimento ao SVG.
+Como praticamente 100% dos browsers existentes tem suporte ao Flash &amp;#8211; inclusive browsers antigos como o IE6 &amp;#8211; nada mais inteligente do que adotar essa tecnologia como um novo padrão. O Flash também já conta com seu IDE feito pela Adobe, possibilitando a criação de animações e games facilmente por uma interface intuitiva e livre de código, enquanto para fazer animações no SVG ou outras tarefas, o desenvolvedor precisa saber Javascript e pasme, HTML também!</description>
+    </item>
+    
+    <item>
+      <title>Processos e Adoção de Padrões</title>
+      <link>http://localhost/jhonny-roger/public/processos-adocao-padroes/</link>
+      <pubDate>Wed, 03 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/processos-adocao-padroes/</guid>
+      <description>HTML 5 ou CSS 3 já podem ser usados? Quando o HTML 5 será lançado?
+Estou ouvindo demais essas perguntas. A resposta que darei, vai servir para as duas perguntas e para perguntas futuras sobre outras recomendações do W3C.
+Para termos uma visão melhor, você precisa entender como o W3C funciona.
+Padrões e Recomendações O W3C é um órgão que regulamenta, cria e desenvolve linguagens para publicação de conteúdo na internet.</description>
+    </item>
+    
+    <item>
+      <title>Prepare-se para a Revolução</title>
+      <link>http://localhost/jhonny-roger/public/se-prepare-para-a-revolucao/</link>
+      <pubDate>Wed, 02 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/se-prepare-para-a-revolucao/</guid>
+      <description>O W3C mudou. O W3C foi criado exatamente para homologar, regularizar e criar novos padrões de publicação de informação na internet. O trabalho do W3C é exatamente criar caminhos para que os desenvolvedores e os fabricantes de browsers possam trilhar no futuro. Acontece que o W3C ficou tão grande, tão lerdo, tão aficcionado pelos problemas do futuro que acabou se perdendo nos seus próprios sonhos.
+Um dos objetivos do W3C &amp;#8211; se não o maior objetivo &amp;#8211; é organizar toda a informação da internet.</description>
+    </item>
+    
+    <item>
+      <title>1a. Conferência Web W3C Brasil</title>
+      <link>http://localhost/jhonny-roger/public/1a-conferencia-web-w3c-brasil/</link>
+      <pubDate>Fri, 28 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/1a-conferencia-web-w3c-brasil/</guid>
+      <description>A Conferência Web W3C Brasil foi criada para oferecer ao público brasileiro um amplo fórum anual de discussão e debate sobre a evolução da Web, a padronização de suas tecnologias e o impacto dessas tecnologias na sociedade e na cultura. A Conferência reunirá pesquisadores, desenvolvedores, usuários, empresas, agências digitais, mídia e todos aqueles que são apaixonados pela Web e que têm algo a oferecer, usar e debater.
+A 1a. Conferência Web W3C Brasil 2009 será realizada em São Paulo, SP, nos dia 23 e 24 de novembro, no Blue Tree Towers Morumbi no bairro do Brooklin.</description>
+    </item>
+    
+    <item>
+      <title>HTML 5 – Semântica e o que é importante na web</title>
+      <link>http://localhost/jhonny-roger/public/html-5-semantica-e-o-que-e-importante-na-web/</link>
+      <pubDate>Mon, 26 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/html-5-semantica-e-o-que-e-importante-na-web/</guid>
+      <description>&lt;p&gt;O HTML é a primeira camada do desenvolvimento client-side. Como você sabe, existem 3: a primeira que é a informação, que é o HTML que vai exibi-la na página. A segunda é o CSS, que vai formatar esse HTML de forma que fique legível, usável, bonito. E a terceira que vai definir o comportamento desses elementos, que é o Javascript e Ajax.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lançamento do escritório do W3C no Brasil</title>
+      <link>http://localhost/jhonny-roger/public/lancamento-do-escritorio-do-w3c-no-brasil/</link>
+      <pubDate>Tue, 27 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/lancamento-do-escritorio-do-w3c-no-brasil/</guid>
+      <description>&lt;p&gt;O W3C está oficializando seu escritório aqui no Brasil. Para isso, eles estão fazendo um pequeno evento com alguns palestrantes e um recado em vídeo do Tim Bernes-Lee. A entrada é gratuita e aberta à todos.&lt;/p&gt;
+
+&lt;p&gt;O evento será dia 4 de Junho às 11h. &lt;a href=&#34;http://www.w3c.br/2008/lancamento/cadastro.html&#34;&gt;Faça seu cadastro&lt;/a&gt; e &lt;a href=&#34;http://www.w3c.br/2008/lancamento/&#34;&gt;leia mais informações&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Escrevendo um XHTML válido</title>
+      <link>http://localhost/jhonny-roger/public/escrevendo-um-xhtml-valido/</link>
+      <pubDate>Thu, 06 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/escrevendo-um-xhtml-valido/</guid>
+      <description>Acho que todos já ouviram falar de Web Semântica, para quem não ouviu, em poucas palavras é: Um projeto para organizar e estruturar a informação da WEB.
+Ter uma Web com as suas informações todas &amp;#8220;organizadas&amp;#8221; é extremamente importante, isso facilita uma busca pela Web por informações mais precisas.
+Para que seu arquivo possa ser lido por máquinas além de humanos é muito importante que você escreva um XHTML válido, com isso você está fazendo com que as informações do seu site fique mais acessível para as buscas, contribuindo para o projeto e principalmente melhorando as visitas do seu site.</description>
+    </item>
+    
+    <item>
+      <title>CSS3 – Novo mundo de possibilidades</title>
+      <link>http://localhost/jhonny-roger/public/css-3-novo-mundo-de-possibilidades/</link>
+      <pubDate>Thu, 20 Jul 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css-3-novo-mundo-de-possibilidades/</guid>
+      <description>O CSS está para o desenvolvedor como o martelo está para o marceneiro. Companheiro inseparável na hora de implementar algum site.
+Atualmente o CSS está em sua segunda versão. Ele surgiu no ano de 94 (mais detalhes aqui) e a partir daí vem facilitando cada vez mais a vida dos desenvolvedores.
+Em tempos passados, o CSS foi ignorado por quase todos. Hoje, com toda esta revolução em volta dos Padrões, é difícil dizer como vivíamos sem ele.</description>
+    </item>
+    
+    <item>
+      <title>Documentos do W3C em Português</title>
+      <link>http://localhost/jhonny-roger/public/documentos_w3c_portugues/</link>
+      <pubDate>Thu, 07 Aug 2003 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/documentos_w3c_portugues/</guid>
+      <description>Traduções para o português de documentos W3C.
+Alguns artigos do W3C traduzidos para o português. Vale a pena conferir.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transition on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/transition/</link>
+    <description>Recent content in Transition on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 27 Mar 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/transition/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MaterialUp – Uma coleção de conceitos usando Material Design</title>
+      <link>http://localhost/jhonny-roger/public/materialup-uma-colecao-de-conceitos-usando-material-design/</link>
+      <pubDate>Fri, 27 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/materialup-uma-colecao-de-conceitos-usando-material-design/</guid>
+      <description>O MaterialUp é um site que lista uma série de animações e conceitos que usam as regras visuais e de comportamento do Material Design do Google. Designers criam animações, comportamentos e conceitos de como aplicativos e elementos se comportariam se fossem feitos usando as regras do Material Design. O legal é perceber que várias animações ali podem ser feitas usando CSS e JS. Mas já vi alguns experimentos ruins, que falharam horrorosamente (como este) ao tentar simular os comportamentos do Material Design com CSS/JS.</description>
+    </item>
+    
+  </channel>
+</rss>

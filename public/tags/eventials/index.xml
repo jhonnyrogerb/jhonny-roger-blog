@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eventials on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/eventials/</link>
+    <description>Recent content in Eventials on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 03 Feb 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/eventials/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Implementação PSD para HTML &#43; SASS</title>
+      <link>http://localhost/jhonny-roger/public/implementacao-psd-para-html-sass/</link>
+      <pubDate>Tue, 03 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/implementacao-psd-para-html-sass/</guid>
+      <description>Dia 12 de Fevereiro, uma Quinta-feira, iremos fazer um Webinar na Eventials mostrando a implementação de um PSD direto para HTML + SASS.
+Eu mesmo farei essa apresentação e tentarei abordar o máximo possível em até 3 horas de Live Coding. Todo o código e também o layout será compartilhado durante e após a aula via GIT.
+Irei implementar o layout abaixo:
+Vamos escrever muito HTML e CSS, além de um monte de dicas sobre como montar códigos bem estruturados.</description>
+    </item>
+    
+  </channel>
+</rss>

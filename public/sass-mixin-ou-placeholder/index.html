@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245850">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>Se é um tema que sempre vejo a respeito da utilização ou não, é sobre o uso de pré processadores CSS. Alguns <em>devs</em> que costumo seguir e ler os artigos, e que pra mim são algumas das nossas referências, apontam as suas considerações sobre o tema. O Miller Medeiros, em um <a href="http://blog.millermedeiros.com/the-problem-with-css-pre-processors/">post</a> mostra alguns pontos negativos na utilização de pré processadores. O Jean Carlos Emer em um outro <a href="http://tableless.com.br/css-steroids/" title="CSS on steroids">post</a> mostra as reais vantagens de se utilizar um pré-processador. O Diego Eis, em um outro <a href="http://tableless.com.br/pre-processadores-usar-ou-nao-usar/" title="Pré processadores: usar ou não usar?">post</a> faz uma conclusão muito boa sobre a utilização ou não:</p>
+
+<blockquote>
+<p>Pré processadores podem ajudar como também podem maltratar bastante. Basta um escorregão para que seu projeto vire um inferno. &#8211; Diego Eis</p>
+</blockquote>
+
+<p>A utilização ou não de um pré processador fica a seu critério mas, se você já utiliza nos seus projetos ou está pensando em usar, você sabe o que são um <strong>placeholder</strong> e um <strong>mixin</strong>? Se sim, sabe qual a principal diferença entre eles e quando usar um ou outro? Navegando um dia pela internet, achei um <a href="http://www.sitepoint.com/sass-mixin-placeholder/">artigo</a> do <a href="https://twitter.com/HugoGiraudel" title="Perfil do twitter do desenvolvedor Hugo Giraudel">Hugo Giraudel</a>, um dev front-end francês, no <a href="http://www.sitepoint.com/" title="Link do website SitePoint">SitePoint</a> que trata exatamente sobre esse assunto.</p>
+
+<p>—</p>
+
+<p>Quando comecei a trabalhar com SASS cerca de um ano e meio atrás, uma coisa que me levou tempo para entender foi a diferença entre <em><a href="http://sass-lang.com/documentation/file.SASS_REFERENCE.html#mixins">incluir um mixin</a></em> e <em><a href="http://sass-lang.com/documentation/file.SASS_REFERENCE.html#placeholders">estender um placeholder</a></em>. Na verdade, até mesmo a noção de <em>placeholder</em> era uma espécie de magia negra vodu naquela época.</p>
+
+<p>Se você estiver em uma situação semelhante, não se preocupe, porque eu vou tentar iluminar o caminho. Hoje vamos aprender para que exatamente serve um <em>mixin</em>, e quando usar um <em>placeholder do SASS</em>. Você vai entender que ambos tem diferentes finalidades e não devem ser confundidas.</p>
+
+<p><em>Nota: Enquanto pretendo falar sobre SASS, esse artigo pode ser aplicado a qualquer outro pré-processador CSS, seja Stylus, LESS, ou outro que você venha a usar. Essas tecnologias geralmente fazem a mesma coisa, portanto fique a vontade para adaptar o conteúdo deste artigo para a ferramenta de sua escolha</em>.</p>
+
+<p>Primeiro devemos fazer um breve resumo sobre o que estamos falando quando nos referimos aos <strong>placeholder e mixins do SASS</strong>, então vamos fazer isso já.</p>
+
+<h2 id="entendendo-o-mixin">Entendendo o mixin</h2>
+
+<p>Um mixin é uma diretiva que permite que você defina várias regras com diversos argumentos. Pense nisso como uma função que irá retornar conteúdo CSS ao invés de um valor. Aqui está a definição de <em>mixin</em> da <a href="http://sass-lang.com/documentation/file.SASS_REFERENCE.html#mixin-content">referência do SASS</a>:</p>
+
+<blockquote cite="http://sass-lang.com/documentation/file.SASS_REFERENCE.html#mixin-content">
+  <p>
+    Mixins permitem definir estilos que podem ser reutilizados em toda a folha de estilo, sem a necessidade de recorrer a classes não semânticas como <i>.float-left</i>. Mixins podem também conter regras completas de CSS e quaisquer outras coisas permitidas em um documento SASS. Eles podem até mesmo possuírem argumentos que lhe permitem produzir uma ampla variedade de estilos com poucos mixins.
+  </p>
+</blockquote>
+
+<p>Agora que cobrimos a terminologia, vamos dizer que você encontra algumas declarações que são repetidas várias vezes ao longo da sua folha de estilos. Você que está familiarizado com o conceito de DRY (<a href="http://en.wikipedia.org/wiki/Don't_repeat_yourself">Don&#8217;t Repeat Yourself</a>), sabe que a repetição de código é ruim. Para corrigir isso, você pode escrever um mixin para todas aquelas declarações repetidas:</p>
+
+<pre class="lang-scss">@mixin center() {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container {
+    @include center();
+    /* Outros estilos aqui... */
+}
+
+/* Outros estilos... */
+
+.image-cover {
+    @include center;
+}
+</pre>
+
+<p><em>Nota: Se você não passar um argumento para um mixin, você pode omitir os parênteses. Na verdade, você pode até omiti-los na definição do <code>@mixin</code></em>.</p>
+
+<p>Com este mixin recém-criado, você não precisa repetir aquelas três linhas de código cada vez que precisar centralizar um elemento; você simplesmente inclui o mixin. Muito prático, não é?!</p>
+
+<p>Algumas vezes você vai querer um mixin para construir o que você chamaria de <em>shorthand</em> para algumas propriedades. Por exemplo, largura e altura. Você não está cansado de escrever as duas linhas várias e várias vezes? Especialmente quando ambas tem o mesmo valor? Bem, vamos lidar com isso usando um mixin!</p>
+
+<pre class="lang-scss">@mixin size($width, $height: $width) {
+    width: $width;
+    height: $height;
+}
+</pre>
+
+<p>Muito simples, não é? Note como deixamos o parâmetro <code>$height</code> ser opcional e, por padrão assumir o mesmo valor do parâmetro <code>$width</code> na assinatura do mixin. Agora, sempre que você precisar definir as dimensões para um elemento, você pode simplesmente fazer isso:</p>
+
+<pre class="lang-scss">.icon {
+    @include size(32px);
+}
+
+.cover {
+    @include size(100%, 10em);
+}
+</pre>
+
+<p><em>Nota: Um outro bom exemplo de mixin seria <a href="http://hugogiraudel.com/2013/08/05/offsets-sass-mixin/">este aqui</a> que eu fiz para evitar de escrever as posições <code>top</code>, <code>left</code>, <code>right</code> e <code>bottom</code> toda vez que quiser utilizar um sistema de posicionamento diferente do estático.</em></p>
+
+<h2 id="conhecendo-seu-placeholder">Conhecendo seu Placeholder</h2>
+
+<p>Placeholders são um tipo de coisa estranha. Eles são classes que não são retornadas quando o seu SCSS é compilado. Você deve então pensar: <em>&#8220;Qual é o sentido disso?&#8221;</em>. Na verdade, o ponto seria minímo senão fosse a expressão <code>@extend</code>. Mas vamos por partes. Essa é a forma que você escreve um placeholder:</p>
+
+<pre class="lang-scss">%center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+</pre>
+
+<p><em>Nota do editor: Como um placeholder, um mixin é igualmente inútil, a menos que seja referenciado, assim essa seção não está dizendo que eles são diferentes nesse aspecto, mas apenas esclarecendo que mesmo que se pareça similar com um bloco de declaração CSS, não será gerado por conta própria.</em></p>
+
+<p>Basicamente você escreve exatamente como uma classe <code>CSS</code> exceto pelo símbolo % ao invés do ponto. Além disso, segue as mesmas <a href="http://www.w3.org/TR/html401/types.html#type-cdata">regras de nomenclatura</a> das classes.</p>
+
+<p>Agora, se você tentar compilar seu SCSS, você não vai ver esse pedaço de código no arquivo gerado. Como eu disse: <strong>placeholders não são compilados</strong>.</p>
+
+<p>Então, por agora, esse placeholder é totalmente inútil. Você não consegue fazer qualquer uso dele a não ser que você veja o <code>@extend</code>. Um <code>@extend</code> tem como objetivo herdar as propriedades de um seletor CSS / SCSS placeholder. Aqui como usá-lo:</p>
+
+<pre class="lang-scss">.container {
+  @extend %center;
+}
+</pre>
+
+<p>Ao fazer isso, o arquivo SASS vai pegar o conteúdo do placeholder <code>%center</code> e aplicá-lo no <code>.container</code> (mesmo que isso não aconteça exatamente assim &#8211; mas isso não é importante agora). Como eu disse, você também pode <em>estender</em> seletores CSS já existentes (além de placeholders SCSS) dessa maneira:</p>
+
+<pre class="lang-scss">.table-zebra {
+  @extend .table;
+
+  tr:nth-of-type(even) {
+    background: rgba(0,0,0,.5);
+  }
+}
+</pre>
+
+<p>Esse é um caso muito comum para o uso do <code>@extend</code>. Nesse caso, pedimos para a classe <code>.table-zebra</code> se comportar exatamente como a classe <code>.table</code> e então adicionamos as regras específicas da classe <code>.table-zebra</code>. <em>Estender</em> seletores é bastante conveniente quando você desenvolve seu site ou aplicação em componentes modulares.</p>
+
+<h2 id="qual-utilizar">Qual utilizar?</h2>
+
+<p>Então, a pergunta permanece: o que você deve usar? Bem, como tudo em nossa área: <strong>depende</strong>. Depende do contexto e, em uma outra análise, do que você está querendo fazer.</p>
+
+<p>O melhor conselho seria: se você precisa de variáveis, utilize o mixin. Caso contrário, use o placeholder. Há duas razões para isso:</p>
+
+<ul>
+<li>Primeiro, você não pode usar variáveis em um placeholder. Na verdade, até pode, mas você não consegue <em>passar</em> uma variável em um placeholder para gerar um conteúdo específico de CSS, como você faria em um mixin.</li>
+<li>Segundo, a forma como o SASS lida com os mixins, os torna muito incovenientes quando você os utiliza sem variáveis contextuais. Simplificando: o SASS vai duplicar a saída de um mixin toda vez que você o utilizá-lo, resultando não apenas em CSS duplicado, mas também em uma folha de estilos maior.</li>
+</ul>
+
+<p>Considere o primeiro exemplo desse artigo:</p>
+
+<pre class="lang-scss">@mixin center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container {
+  @include center;
+}
+
+.image-cover {
+  @include center;
+}
+</pre>
+
+<p>O CSS compilado seria esse:</p>
+
+<pre class="lang-css">.container {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.image-cover {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</pre>
+
+<p>Observou o CSS duplicado? Ele não é tão prejudicial se forem apenas três linhas duplicadas, mas se você tiver muitos mixins que são usados várias vezes em um projeto, essas três linhas podem facilmente se tornarem 300. E se reformularmos nosso exemplo, só que dessa vez utilizando o placeholder?</p>
+
+<pre class="lang-scss">%center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container {
+  @extend %center;
+}
+
+.image-cover {
+  @extend %center;
+}
+</pre>
+
+<p>Agora, esse é o CSS gerado:</p>
+
+<pre class="lang-css">.container, .image-cover {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</pre>
+
+<p>Muito melhor! A compilação leva vantagem <a href="http://reference.sitepoint.com/css/selectorgrouping">agrupando seletores</a>, sem nenhum estilo repetido. Assim, sempre que você quiser evitar a escrever as mesmas propriedades diversas vezes, sabendo que elas não mudarão, é uma boa idéia <em>estender</em> um placeholder. Isso resultará em um código CSS compilado muito mais limpo.</p>
+
+<p>Por outro lado, se você precisa escrever as mesmas propriedades em vários lugares mas com valores diferentes (tamanho, cores, etc), um mixin é o melhor caminho a seguir. Agora se você possui ambos, um grupo de valores fixos e outro de valores variáveis, você deve tentar usar uma combinação dos dois.</p>
+
+<pre class="lang-scss">%center {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+@mixin skin($color, $size) {
+  @extend %center;
+  background: $color;
+  height: $size;
+}
+
+a { @include skin(pink, 10em) }
+b { @include skin(blue, 90px) }
+</pre>
+
+<p>Neste caso, o mixin está <em>estendendo</em> o placeholder para os valores fixos em vez de jogá-los diretamente em seu corpo. Isso gera um CSS mais limpo:</p>
+
+<pre class="lang-css">a, b {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+a {
+  background: pink;
+  height: 10em;
+}
+
+b {
+  background: blue;
+  height: 90px;
+}
+</pre>
+
+<h2 id="conclusão">Conclusão</h2>
+
+<p>É isso. Espero ter deixado claro não só o que são mixins e placeholders, mas também quando você deve usá-los e qual os efeitos sobre o CSS compilado.</p>
+
+<p>Se você tiver alguma coisa a acrescentar sobre suas experiências com essas <em>features</em> dos pré-processadores de CSS, sinta-se livre para compartilhar nos comentários.</p>
+
+<p>—</p>
+
+<p>Texto traduzido e adaptado do [Se é um tema que sempre vejo a respeito da utilização ou não, é sobre o uso de pré processadores CSS. Alguns <em>devs</em> que costumo seguir e ler os artigos, e que pra mim são algumas das nossas referências, apontam as suas considerações sobre o tema. O Miller Medeiros, em um <a href="http://blog.millermedeiros.com/the-problem-with-css-pre-processors/">post</a> mostra alguns pontos negativos na utilização de pré processadores. O Jean Carlos Emer em um outro <a href="http://tableless.com.br/css-steroids/" title="CSS on steroids">post</a> mostra as reais vantagens de se utilizar um pré-processador. O Diego Eis, em um outro <a href="http://tableless.com.br/pre-processadores-usar-ou-nao-usar/" title="Pré processadores: usar ou não usar?">post</a> faz uma conclusão muito boa sobre a utilização ou não:</p>
+
+<blockquote>
+<p>Pré processadores podem ajudar como também podem maltratar bastante. Basta um escorregão para que seu projeto vire um inferno. &#8211; Diego Eis</p>
+</blockquote>
+
+<p>A utilização ou não de um pré processador fica a seu critério mas, se você já utiliza nos seus projetos ou está pensando em usar, você sabe o que são um <strong>placeholder</strong> e um <strong>mixin</strong>? Se sim, sabe qual a principal diferença entre eles e quando usar um ou outro? Navegando um dia pela internet, achei um <a href="http://www.sitepoint.com/sass-mixin-placeholder/">artigo</a> do <a href="https://twitter.com/HugoGiraudel" title="Perfil do twitter do desenvolvedor Hugo Giraudel">Hugo Giraudel</a>, um dev front-end francês, no <a href="http://www.sitepoint.com/" title="Link do website SitePoint">SitePoint</a> que trata exatamente sobre esse assunto.</p>
+
+<p>—</p>
+
+<p>Quando comecei a trabalhar com SASS cerca de um ano e meio atrás, uma coisa que me levou tempo para entender foi a diferença entre <em><a href="http://sass-lang.com/documentation/file.SASS_REFERENCE.html#mixins">incluir um mixin</a></em> e <em><a href="http://sass-lang.com/documentation/file.SASS_REFERENCE.html#placeholders">estender um placeholder</a></em>. Na verdade, até mesmo a noção de <em>placeholder</em> era uma espécie de magia negra vodu naquela época.</p>
+
+<p>Se você estiver em uma situação semelhante, não se preocupe, porque eu vou tentar iluminar o caminho. Hoje vamos aprender para que exatamente serve um <em>mixin</em>, e quando usar um <em>placeholder do SASS</em>. Você vai entender que ambos tem diferentes finalidades e não devem ser confundidas.</p>
+
+<p><em>Nota: Enquanto pretendo falar sobre SASS, esse artigo pode ser aplicado a qualquer outro pré-processador CSS, seja Stylus, LESS, ou outro que você venha a usar. Essas tecnologias geralmente fazem a mesma coisa, portanto fique a vontade para adaptar o conteúdo deste artigo para a ferramenta de sua escolha</em>.</p>
+
+<p>Primeiro devemos fazer um breve resumo sobre o que estamos falando quando nos referimos aos <strong>placeholder e mixins do SASS</strong>, então vamos fazer isso já.</p>
+
+<h2 id="entendendo-o-mixin-1">Entendendo o mixin</h2>
+
+<p>Um mixin é uma diretiva que permite que você defina várias regras com diversos argumentos. Pense nisso como uma função que irá retornar conteúdo CSS ao invés de um valor. Aqui está a definição de <em>mixin</em> da <a href="http://sass-lang.com/documentation/file.SASS_REFERENCE.html#mixin-content">referência do SASS</a>:</p>
+
+<blockquote cite="http://sass-lang.com/documentation/file.SASS_REFERENCE.html#mixin-content">
+  <p>
+    Mixins permitem definir estilos que podem ser reutilizados em toda a folha de estilo, sem a necessidade de recorrer a classes não semânticas como <i>.float-left</i>. Mixins podem também conter regras completas de CSS e quaisquer outras coisas permitidas em um documento SASS. Eles podem até mesmo possuírem argumentos que lhe permitem produzir uma ampla variedade de estilos com poucos mixins.
+  </p>
+</blockquote>
+
+<p>Agora que cobrimos a terminologia, vamos dizer que você encontra algumas declarações que são repetidas várias vezes ao longo da sua folha de estilos. Você que está familiarizado com o conceito de DRY (<a href="http://en.wikipedia.org/wiki/Don't_repeat_yourself">Don&#8217;t Repeat Yourself</a>), sabe que a repetição de código é ruim. Para corrigir isso, você pode escrever um mixin para todas aquelas declarações repetidas:</p>
+
+<pre class="lang-scss">@mixin center() {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container {
+    @include center();
+    /* Outros estilos aqui... */
+}
+
+/* Outros estilos... */
+
+.image-cover {
+    @include center;
+}
+</pre>
+
+<p><em>Nota: Se você não passar um argumento para um mixin, você pode omitir os parênteses. Na verdade, você pode até omiti-los na definição do <code>@mixin</code></em>.</p>
+
+<p>Com este mixin recém-criado, você não precisa repetir aquelas três linhas de código cada vez que precisar centralizar um elemento; você simplesmente inclui o mixin. Muito prático, não é?!</p>
+
+<p>Algumas vezes você vai querer um mixin para construir o que você chamaria de <em>shorthand</em> para algumas propriedades. Por exemplo, largura e altura. Você não está cansado de escrever as duas linhas várias e várias vezes? Especialmente quando ambas tem o mesmo valor? Bem, vamos lidar com isso usando um mixin!</p>
+
+<pre class="lang-scss">@mixin size($width, $height: $width) {
+    width: $width;
+    height: $height;
+}
+</pre>
+
+<p>Muito simples, não é? Note como deixamos o parâmetro <code>$height</code> ser opcional e, por padrão assumir o mesmo valor do parâmetro <code>$width</code> na assinatura do mixin. Agora, sempre que você precisar definir as dimensões para um elemento, você pode simplesmente fazer isso:</p>
+
+<pre class="lang-scss">.icon {
+    @include size(32px);
+}
+
+.cover {
+    @include size(100%, 10em);
+}
+</pre>
+
+<p><em>Nota: Um outro bom exemplo de mixin seria <a href="http://hugogiraudel.com/2013/08/05/offsets-sass-mixin/">este aqui</a> que eu fiz para evitar de escrever as posições <code>top</code>, <code>left</code>, <code>right</code> e <code>bottom</code> toda vez que quiser utilizar um sistema de posicionamento diferente do estático.</em></p>
+
+<h2 id="conhecendo-seu-placeholder-1">Conhecendo seu Placeholder</h2>
+
+<p>Placeholders são um tipo de coisa estranha. Eles são classes que não são retornadas quando o seu SCSS é compilado. Você deve então pensar: <em>&#8220;Qual é o sentido disso?&#8221;</em>. Na verdade, o ponto seria minímo senão fosse a expressão <code>@extend</code>. Mas vamos por partes. Essa é a forma que você escreve um placeholder:</p>
+
+<pre class="lang-scss">%center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+</pre>
+
+<p><em>Nota do editor: Como um placeholder, um mixin é igualmente inútil, a menos que seja referenciado, assim essa seção não está dizendo que eles são diferentes nesse aspecto, mas apenas esclarecendo que mesmo que se pareça similar com um bloco de declaração CSS, não será gerado por conta própria.</em></p>
+
+<p>Basicamente você escreve exatamente como uma classe <code>CSS</code> exceto pelo símbolo % ao invés do ponto. Além disso, segue as mesmas <a href="http://www.w3.org/TR/html401/types.html#type-cdata">regras de nomenclatura</a> das classes.</p>
+
+<p>Agora, se você tentar compilar seu SCSS, você não vai ver esse pedaço de código no arquivo gerado. Como eu disse: <strong>placeholders não são compilados</strong>.</p>
+
+<p>Então, por agora, esse placeholder é totalmente inútil. Você não consegue fazer qualquer uso dele a não ser que você veja o <code>@extend</code>. Um <code>@extend</code> tem como objetivo herdar as propriedades de um seletor CSS / SCSS placeholder. Aqui como usá-lo:</p>
+
+<pre class="lang-scss">.container {
+  @extend %center;
+}
+</pre>
+
+<p>Ao fazer isso, o arquivo SASS vai pegar o conteúdo do placeholder <code>%center</code> e aplicá-lo no <code>.container</code> (mesmo que isso não aconteça exatamente assim &#8211; mas isso não é importante agora). Como eu disse, você também pode <em>estender</em> seletores CSS já existentes (além de placeholders SCSS) dessa maneira:</p>
+
+<pre class="lang-scss">.table-zebra {
+  @extend .table;
+
+  tr:nth-of-type(even) {
+    background: rgba(0,0,0,.5);
+  }
+}
+</pre>
+
+<p>Esse é um caso muito comum para o uso do <code>@extend</code>. Nesse caso, pedimos para a classe <code>.table-zebra</code> se comportar exatamente como a classe <code>.table</code> e então adicionamos as regras específicas da classe <code>.table-zebra</code>. <em>Estender</em> seletores é bastante conveniente quando você desenvolve seu site ou aplicação em componentes modulares.</p>
+
+<h2 id="qual-utilizar-1">Qual utilizar?</h2>
+
+<p>Então, a pergunta permanece: o que você deve usar? Bem, como tudo em nossa área: <strong>depende</strong>. Depende do contexto e, em uma outra análise, do que você está querendo fazer.</p>
+
+<p>O melhor conselho seria: se você precisa de variáveis, utilize o mixin. Caso contrário, use o placeholder. Há duas razões para isso:</p>
+
+<ul>
+<li>Primeiro, você não pode usar variáveis em um placeholder. Na verdade, até pode, mas você não consegue <em>passar</em> uma variável em um placeholder para gerar um conteúdo específico de CSS, como você faria em um mixin.</li>
+<li>Segundo, a forma como o SASS lida com os mixins, os torna muito incovenientes quando você os utiliza sem variáveis contextuais. Simplificando: o SASS vai duplicar a saída de um mixin toda vez que você o utilizá-lo, resultando não apenas em CSS duplicado, mas também em uma folha de estilos maior.</li>
+</ul>
+
+<p>Considere o primeiro exemplo desse artigo:</p>
+
+<pre class="lang-scss">@mixin center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container {
+  @include center;
+}
+
+.image-cover {
+  @include center;
+}
+</pre>
+
+<p>O CSS compilado seria esse:</p>
+
+<pre class="lang-css">.container {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.image-cover {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</pre>
+
+<p>Observou o CSS duplicado? Ele não é tão prejudicial se forem apenas três linhas duplicadas, mas se você tiver muitos mixins que são usados várias vezes em um projeto, essas três linhas podem facilmente se tornarem 300. E se reformularmos nosso exemplo, só que dessa vez utilizando o placeholder?</p>
+
+<pre class="lang-scss">%center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container {
+  @extend %center;
+}
+
+.image-cover {
+  @extend %center;
+}
+</pre>
+
+<p>Agora, esse é o CSS gerado:</p>
+
+<pre class="lang-css">.container, .image-cover {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</pre>
+
+<p>Muito melhor! A compilação leva vantagem <a href="http://reference.sitepoint.com/css/selectorgrouping">agrupando seletores</a>, sem nenhum estilo repetido. Assim, sempre que você quiser evitar a escrever as mesmas propriedades diversas vezes, sabendo que elas não mudarão, é uma boa idéia <em>estender</em> um placeholder. Isso resultará em um código CSS compilado muito mais limpo.</p>
+
+<p>Por outro lado, se você precisa escrever as mesmas propriedades em vários lugares mas com valores diferentes (tamanho, cores, etc), um mixin é o melhor caminho a seguir. Agora se você possui ambos, um grupo de valores fixos e outro de valores variáveis, você deve tentar usar uma combinação dos dois.</p>
+
+<pre class="lang-scss">%center {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+@mixin skin($color, $size) {
+  @extend %center;
+  background: $color;
+  height: $size;
+}
+
+a { @include skin(pink, 10em) }
+b { @include skin(blue, 90px) }
+</pre>
+
+<p>Neste caso, o mixin está <em>estendendo</em> o placeholder para os valores fixos em vez de jogá-los diretamente em seu corpo. Isso gera um CSS mais limpo:</p>
+
+<pre class="lang-css">a, b {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+a {
+  background: pink;
+  height: 10em;
+}
+
+b {
+  background: blue;
+  height: 90px;
+}
+</pre>
+
+<h2 id="conclusão-1">Conclusão</h2>
+
+<p>É isso. Espero ter deixado claro não só o que são mixins e placeholders, mas também quando você deve usá-los e qual os efeitos sobre o CSS compilado.</p>
+
+<p>Se você tiver alguma coisa a acrescentar sobre suas experiências com essas <em>features</em> dos pré-processadores de CSS, sinta-se livre para compartilhar nos comentários.</p>
+
+<p>—</p>
+
+<p>Texto traduzido e adaptado do]<a href="http://www.sitepoint.com/sass-mixin-placeholder/">4</a> escrito pelo <a href="https://twitter.com/HugoGiraudel" title="Perfil do twitter">Hugo Giraudel</a> em 30 de janeiro de 2014.</p>
+
+<p>Tradução autorizada pelo <a href="http://www.sitepoint.com/">SitePoint</a>.</p>
+
+<p>Qualquer erro ou sugestão de melhoria na tradução, é bem vinda! 🙂</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/estatistica-basica-projetos-agile//?utm_source=tablelessRelatedLin">Estatística básica nas entregas de projetos agile — Moda, mediana e percentil</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/sketch43-novo-formato-arquivo//?utm_source=tablelessRelatedLin">O novo formato de arquivo do Sketch 43</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245850"></script>

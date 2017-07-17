@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cakephp on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/cakephp/</link>
+    <description>Recent content in Cakephp on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 16 Jun 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/cakephp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Formulário sem Model no CakePHP 3.x</title>
+      <link>http://localhost/jhonny-roger/public/formulario-sem-model-no-cakephp-3-x/</link>
+      <pubDate>Tue, 16 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/formulario-sem-model-no-cakephp-3-x/</guid>
+      <description>Requisitos do artigos:
+&amp;#8211; Ter o CakePHP 3 instalado ( Artigo de como instalar o Cakephp 3.x)
+O que aprenderemos:
+ Como trabalhar com formulários que não necessitam de um Model. Criar uma página de contato.  Formulários Na maioria das vezes, trabalhamos com formulários relacionados a um Model para persistir dados. Outras vezes precisamos validar os dados de um formulário onde não há persistência, como é no caso de um Formulário de Contato.</description>
+    </item>
+    
+    <item>
+      <title>Instalando o CAKEPHP 3.0 via Composer</title>
+      <link>http://localhost/jhonny-roger/public/instalando-o-cakephp-3-0-via-composer/</link>
+      <pubDate>Sun, 07 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/instalando-o-cakephp-3-0-via-composer/</guid>
+      <description>Requisitos do tutorial:
+ PHP instalado e configurado Ambiente Linux  No dia 22/03/2015 foi disponibilizado para download no site do CakePHP a versão 3.0 do framework para PHP CakePHP. Já utilizamos a versão 2.x em projetos aqui na empresa e tivemos bons resultados.
+Com o lançamento desta nova versão, muita coisa mudou: um novo ORM foi lançado; o uso de namespaces foi adotado; entre outras features que iremos abordar em outras publicações.</description>
+    </item>
+    
+    <item>
+      <title>CakePHP convenções de nomenclatura e o poderoso Inflector!</title>
+      <link>http://localhost/jhonny-roger/public/cakephp-convencoes-de-nomenclatura-e-o-poderoso-inflector/</link>
+      <pubDate>Thu, 19 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/cakephp-convencoes-de-nomenclatura-e-o-poderoso-inflector/</guid>
+      <description>Geralmente eu tenho problemas para encontrar os nomes corretos para os meus controllers, views, models e tabelas. Talvez a tarefa mais difícil de todo programador seja nomear as coisas. Quem nunca ficou indeciso por causa do nome de uma função ou de uma variável? Eu busco sempre permanecer o projeto todo em inglês.
+Bem, CakePHP faz um monte de trabalho tedioso e repetitivo para você, para que você possa se concentrar melhor nas regras do negocio.</description>
+    </item>
+    
+    <item>
+      <title>Criando uma galeria de imagens com administração em CakePHP, Fancybox e WideImage)</title>
+      <link>http://localhost/jhonny-roger/public/criando-uma-galeria-de-imagens-com-administracao-em-cakephp-fancybox-e-wideimage/</link>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-uma-galeria-de-imagens-com-administracao-em-cakephp-fancybox-e-wideimage/</guid>
+      <description>Eu sou da opinião que todo bom desenvolvedor frontend tem que ter pelo menos uma noção de backend, e o contrário também tem que acontecer, é comum as pessoas virem me perguntar como que faz pra fazer o Fancybox funcionar no CakePHP, ou como que eu integro um plugin para Jquery no site, puxa, a maioria das vezes é adicionar um seletor, chamar o javascript no Html e configurar de acordo com a documentação, vamos ver se simplifico pra vocês.</description>
+    </item>
+    
+  </channel>
+</rss>

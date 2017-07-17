@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Selectors on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/selectors/</link>
+    <description>Recent content in Selectors on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 12 Jan 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/selectors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Seletores CSS Nível 4 – O que vem por aí</title>
+      <link>http://localhost/jhonny-roger/public/seletores-css-nivel-4-o-que-vem-por-ai/</link>
+      <pubDate>Mon, 12 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/seletores-css-nivel-4-o-que-vem-por-ai/</guid>
+      <description>Os seletores do CSS são a coisa mais importante da linguagem. As propriedades você consegue decorar e aprender de acordo com necessidade. Mas os seletores são a sua ferramenta de trabalho. A falta de um seletor adequado é determinante quando você decide fazer aquela gambiarra nojenta para conseguir formatar um elemento específico. Com seletores mais inteligentes, você também previne a chuva de classes que tem sido comum em projetos alheios.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sitemap on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/sitemap/</link>
+    <description>Recent content in Sitemap on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 21 Jan 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/sitemap/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tudo o que você precisa saber sobre Sitemaps</title>
+      <link>http://localhost/jhonny-roger/public/tudo-que-voce-precisa-saber-sobre-sitemaps/</link>
+      <pubDate>Mon, 21 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tudo-que-voce-precisa-saber-sobre-sitemaps/</guid>
+      <description>Sitemap é uma maneira fácil de informar aos motores de buscas sobre as páginas do seu site que estão disponíveis para indexação, esse tipo de arquivo é útil e válido para qualquer tipo de site seja institucional, e-commerce, blog, sites de pequeno médio ou grande porte.
+Graças ao padrão definido pelas empresas Google, Microsoft e Yahoo, os motores de buscas podem encontrar as suas páginas muito mais rápido, reduzindo assim a quantidade de tempo que leva para o seu site ou uma nova página aparecer nos resultados de busca.</description>
+    </item>
+    
+    <item>
+      <title>SEO – Sitemaps</title>
+      <link>http://localhost/jhonny-roger/public/seo-sitemaps/</link>
+      <pubDate>Wed, 02 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/seo-sitemaps/</guid>
+      <description>&lt;p&gt;O &lt;a href=&#34;http://www.sitemaps.org/pt_BR/index.php&#34;&gt;Sitemaps é um formato simples de XML&lt;/a&gt; que serve para informar aos sistemas de buscas sobre seus endereços disponíveis para indexação. Esse XML relaciona as URLs existentes do seu site, com algumas informações como data da última atualização, prioridade da página em relação às outras páginas e freqüencia de atualização.&lt;/p&gt;
+
+&lt;p&gt;O sitemap.xml é um arquivo que pode ser &lt;a href=&#34;http://code.google.com/sm_thirdparty.html&#34;&gt;gerado automaticamente por um plugin&lt;/a&gt; ou até mesmo escrito à mão pelo desenvolvedor.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

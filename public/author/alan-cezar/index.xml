@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alan Cezar on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/alan-cezar/</link>
+    <description>Recent content in Alan Cezar on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 29 Jun 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/alan-cezar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Animações fluídas à 60fps</title>
+      <link>http://localhost/jhonny-roger/public/animacoes-fluidas-60fps/</link>
+      <pubDate>Mon, 29 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/animacoes-fluidas-60fps/</guid>
+      <description>Existem diversas maneiras da página interagir com o usurário, e uma dessas maneiras é a interação com animações. Podem ser desde animações mais triviais como o scroll de um elemento, até animações mais complexas como gráficos de jogos.
+Algumas vezes sentimos nossa UI engasgar durante essas interações, dando o sentimento de que algo está sendo executado com muito esforço. E pode apostar que é isso mesmo.
+Para criar essas animações o browser basicamente se comporta como outros softwares que reproduzem vídeo, gerando uma sequência de imagens e renderizando elas na tela do seu dispositivo.</description>
+    </item>
+    
+    <item>
+      <title>HTML: Encode UTF-8</title>
+      <link>http://localhost/jhonny-roger/public/html-encode-utf-8/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/html-encode-utf-8/</guid>
+      <description>Há uns 7 anos atrás o Diego Eis publicou aqui um artigo sobre o assunto. Vou fazer uma nova abordagem.
+Sabe quando sua página troca acentuações por caracteres bem loucos? Este é um problema simples de explicar e vou tentar mostrar as regras que se aplicam quando o browser faz o download de um HTML, como escolher um encode e como usá-lo.
+Existem três formas de declararmos o encode do arquivo:</description>
+    </item>
+    
+    <item>
+      <title>Código Limpo</title>
+      <link>http://localhost/jhonny-roger/public/codigo-limpo/</link>
+      <pubDate>Wed, 11 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/codigo-limpo/</guid>
+      <description>Um dos assuntos que costumo discutir bastante com a galera é sobre qualidade de código. Nesses papos sempre vem questões como: quais práticas podemos adotar para ter um código de alta qualidade? E como sabemos se o nosso código está bom? Como temos certeza de que estamos no caminho certo?
+Vou explicar meu humilde ponto de vista com exemplos e opiniões sobre qualidade de código. Vou abordar casos de uso com JavaScript, mas nada te impede aplicar muitas dessas dicas usando outras linguagens.</description>
+    </item>
+    
+  </channel>
+</rss>

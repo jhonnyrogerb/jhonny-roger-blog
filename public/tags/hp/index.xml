@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hp on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/hp/</link>
+    <description>Recent content in Hp on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 09 Oct 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/hp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Web Platform</title>
+      <link>http://localhost/jhonny-roger/public/web-platform/</link>
+      <pubDate>Tue, 09 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/web-platform/</guid>
+      <description>A Webplatform.org é um website dirigido por pessoas que fomentam os padrões web, criado por um grupo que inclui W3C, Adobe, Facebook, Google, HP, Microsoft, Mozilla, Nokia, Opera e outros. O site promete ser uma fonte de recursos importantes para que você, desenvolvedor front-end, tenha uma base atual e principalmente de boas práticas ao produzir seus projetos com HTML5, CSS3, Javascript e etc.
+Eles descrevem muito bem o propósito do site:</description>
+    </item>
+    
+  </channel>
+</rss>

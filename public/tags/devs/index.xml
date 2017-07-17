@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Devs on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/devs/</link>
+    <description>Recent content in Devs on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 06 May 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/devs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>16 ferramentas para designers e desenvolvedores</title>
+      <link>http://localhost/jhonny-roger/public/16-ferramentas-para-designers-e-desenvolvedores/</link>
+      <pubDate>Mon, 06 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/16-ferramentas-para-designers-e-desenvolvedores/</guid>
+      <description>Sites, aplicativos, plugins, agregadores e portais que vão fazer toda a diferença na hora de aprender coisas novas, organizar seu dia-a-dia e encontrar inspiração.
+Aprender Microsoft Virtual Academy
+
+Já falamos aqui no Tableless do excelente Codeacademy &amp;#8211; um site que gamefica o processo de aprendizado na internet com níveis, badges e interação com redes sociais. O que pouca gente sabe é que a Microsoft possui um sistema parecido, o Microsoft Virtual Academy.</description>
+    </item>
+    
+    <item>
+      <title>Esse texto é pra mim – mercado e atitude</title>
+      <link>http://localhost/jhonny-roger/public/esse-texto-e-pra-mim-mercado-e-atitude/</link>
+      <pubDate>Mon, 22 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/esse-texto-e-pra-mim-mercado-e-atitude/</guid>
+      <description>Você já leu o manifesto do engenheiro de front-end? Se não, corre para esse link: http://f2em.com. Eu percebi neste ano que a maioria dos devs se apega tanto a assuntos técnicos que acabam ignorando assuntos importantes e básicos. São coisas simples que geralmente você só pensa quando há alguma pressão externa. Poucos profissionais tentam entender como funcionam o mercado. Como funcionam o sistema (trocadilho grátis aqui). A maioria está na zona de conforto.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245860">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>Ao iniciar um novo projeto, precisamos estabelecer um planejamento de tempo de trabalho X modelo de trabalho. Em geral, não há uma regra estabelecida, pois muitos desenvolvedores Front-End acabam por utilizar suas próprias lógicas de estruturação de códigos levando em consideração qualidade em menor tempo.</p>
+
+<p>Conforme vamos adquirido experiência na área, acabamos assimilando e adotando os métodos utilizados na empresa ou agência em que trabalhamos somados à troca de experiência com os outros profissionais. Ainda assim, existem boas práticas, percebidas por profissionais que já estão no mercado há algum tempo, que podem colaborar para que qualidade e velocidade sejam pontos primordiais no desenvolvimento de um website.</p>
+
+<h3 id="identificando-os-3-principais-elementos-de-uma-interface">Identificando os 3 principais elementos de uma interface</h3>
+
+<p>O primeiro passo é identificar os 3 principais elementos do projeto &#8211; topo, conteúdo e rodapé. Esses elementos são comuns à maioria das estruturas que temos na web, trazem as principais informações do website e tendem a repetir-se em todas as páginas internas com as mesmas características visuais estabelecidas na “home”.</p>
+
+<p>Ao identificá-los &#8211; ainda no arquivos de layout &#8211; é importante já observar propriedades básicas desses elementos como: altura, largura e tipo de propriedade que será utilizada para o background desta interface, levando em consideração principalmente a versatilidade deste projeto à diferentes resolução de tela.</p>
+
+<p>Identificadas essas informações, inicie a estruturação da interface pelo código html criando estes 3 elementos:</p>
+
+<table>
+  <tr>
+    <td>
+      HTML 4
+    </td>
+    
+    <td>
+      HTML5
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <body><br /> <div id=&#8221;header&#8221;>conteúdo topo</div><br /> <div id=&#8221;content&#8221;>conteúdo corpo</div><br /> <div id=&#8221;footer&#8221;>conteúdo rodapé</div><br /> </body>
+    </td>
+    
+    <td>
+      <body><br /> <header>conteúdo topo</header><br /> <div id=&#8221;content&#8221;>conteúdo corpo</div><br /> <footer>conteúdo rodapé<footer><br /> </body>
+    </td>
+  </tr>
+</table>
+
+<h3 id="folhas-de-estilo-externas">Folhas de estilo externas</h3>
+
+<p>O uso de folhas de estilos externas para declaração de propriedades css é uma das práticas que incansavelmente vem sendo ressaltada e com objetivo: propriedades declaradas de forma “inline” dificultam a manutenção de website, deixam o código carregado de informações não relevantes para mecanismos de busca e para leitores de tela além de, devido este tipo de declaração ter maior relevância na renderização realizada pelos browsers, o que é declarado “inline” vai sobrescrever o que foi declarado nas folhas externas, fazendo com que você se obrigue a utilizar hacks, ou seja, um “conserto” atrás de outro.</p>
+
+<p>Reforçado o recado continuamos, para estruturação inicial de uma interface, podemos criar uma folha de estilos com as propriedades básicas (diagramação de sustentação dos 3 principais elementos), reset nas pré-formatações de alguns elementos (<a href="http://tableless.com.br/evite-incompatibilidade-browsers" target="_blank">já comentado em outro artigo</a>) e declaração dos estilos dos elementos de repetição do projeto (elementos de topo, menus, breadcrumbs, etc). Esta folha de estilo, por exemplo, chamaremos de: estrutura.css.</p>
+
+<p>Para as demais páginas, além da “home”, caso seu projeto seja um projeto de médio a grande porte (websites institucionais, e-commerces e portais) uma dica é o uso de, além da folha de estruturação, uma folha para cada página com suas respectivas propriedades. Por exemplo: home.css, noticias.css, empresa.css, etc.</p>
+
+<h3 id="visualize-a-interface-em-blocos">Visualize a interface em blocos</h3>
+
+<p>Após estabelecer os principais elementos e determinar as folhas de estilos externas que serão criadas, as primeiras declarações css serão feitas a fim de criar uma estrutura de sustentação do website e com a estrutura principal pronta, podemos iniciar a inserção das demais informações que estão atreladas à estes elementos, por exemplo, no elemento topo podemos ter um menu, mas só iniciaremos sua codificação após diagramar o topo do website e verificá-lo em todos os browsers possíveis. Esta prática facilita a visualização da interface em blocos e a hierarquia que pode ser criada entre eles; hierarquia esta que pode ser traduzida nas folhas de estilo que permitem propriedades herdadas entre classes e ID’s, traduzindo esta prática em velocidade na determinação das características visuais do projeto.</p>
+
+<h3 id="outras-pessoas-podem-fazer-a-manutenção-de-seu-código">Outras pessoas podem fazer a manutenção de seu código?</h3>
+
+<p>Iniciada a codificação da interface, esta última prática servirá principalmente para os casos de trabalho em equipe. Se sua resposta foi “sim” para a pergunta acima, reforçamos o uso de comentários tanto nas estruturas html quanto nas estruturas css, separação de imagens por pastas, folhas de estilos diferenciadas e etc. Se sua resposta foi “não”, ainda assim reforçamos o uso das possibilidades citadas acima, em prol das boas práticas entre profissionais Front-End.</p>
+
+<p>Portanto, comente seus código, se organize para estruturar informações e crie métodos, pois você com certeza perceberá, mais velocidade, facilidade de manutenção e mostrará a diferença entre profissionais Front-End e o “amigo do sobrinho que faz sites”.</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/o-basico-sobre-sparql-turtle//?utm_source=tablelessRelatedLin">O básico sobre Sparql e Turtle</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/paginas_acessiveis_hatemile//?utm_source=tablelessRelatedLin">Páginas acessíveis com o HaTeMiLe</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245860"></script>

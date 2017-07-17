@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Codigo on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/codigo/</link>
+    <description>Recent content in Codigo on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 17 Sep 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/codigo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Como boas práticas de escrita de código podem influenciar em uma melhor rotina de trabalho</title>
+      <link>http://localhost/jhonny-roger/public/como-boas-praticas-de-escrita-de-codigo-podem-influenciar-em-uma-melhor-rotina-de-trabalho/</link>
+      <pubDate>Sat, 17 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/como-boas-praticas-de-escrita-de-codigo-podem-influenciar-em-uma-melhor-rotina-de-trabalho/</guid>
+      <description>Observei que alguns itens estão me ajudando na rotina de trabalho, como obter um melhor tempo de produção e um melhor controle sobre o que estou fazendo.
+São alguns hábitos simples que podem lhe ajudar muito. É apenas questão de implementar no seu dia a dia e demonstrar para a sua equipe (caso trabalhe em equipe) o quanto é mais organizado e produtivo trabalhar desta forma.
+A seguir listei algumas técnicas que podem ajudar bastante no seu dia a dia como desenvolvedor front-end.</description>
+    </item>
+    
+    <item>
+      <title>Como se tornar um dev front-end</title>
+      <link>http://localhost/jhonny-roger/public/tornar-dev-front-end/</link>
+      <pubDate>Wed, 09 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tornar-dev-front-end/</guid>
+      <description>Esse artigo inspirou um livro, mais completo, com mais assuntos e detalhes. Olha só: Guia Front-end.
+Estava navegando por aí e acabei encontrando um artigo bem legal do Leandro Oriente, que fala sobre um assunto muito interessante e que sempre me perguntam por aí. Decidi então escrever minha versão do artigo, colocando meus pontos de vista sobre como se tornar um desenvolvedor front-end.
+Entrar na área de front-end é algo muito fácil.</description>
+    </item>
+    
+    <item>
+      <title>Emmet LiveStyle</title>
+      <link>http://localhost/jhonny-roger/public/emmet-livestyle/</link>
+      <pubDate>Tue, 06 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/emmet-livestyle/</guid>
+      <description>Dos mesmos criadores de Emmet, conheça o Emmet LiveStyle.
+O Emmet LiveStyle é um plugin que permite que ao editar o código CSS você veja as alterações na hora, on the fly!
+A iniciativa é simples e você já deve ter visto milhares de outras iniciativas, mas agora eu acho que fizeram do jeito correto. A ideia de um editor bidirecional é que a partir do momento que você edita o código CSS, você consegue ver as alterações na hora, economizando o tempo de alternar janelas, salvar arquivos e etc.</description>
+    </item>
+    
+    <item>
+      <title>Medindo a complexidade do seu código JavaScript</title>
+      <link>http://localhost/jhonny-roger/public/medindo-a-complexidade-ciclomatica-do-seu-codigo-javascript/</link>
+      <pubDate>Tue, 18 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/medindo-a-complexidade-ciclomatica-do-seu-codigo-javascript/</guid>
+      <description>Já mostramos aqui no Tableless ferramentas para testes e ferramentas para garantir o padrão do seu código JavaScript, mas, enquanto esses utilitários asseguram uma consistência maior, eles nem sempre acabam com complexidades desnecessárias.
+Neste artigo vamos falar sobre complexidade ciclomática e mostrar uma ferramenta para análise de códigos JavaScript, a biblioteca Plato.
+Complexidade Ciclomática  A primeira regra de funções é que elas devem ser pequenas. A segunda regra de funções é que elas devem ser ainda menores.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando no GIT – Parte 1</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-no-git-parte-1/</link>
+      <pubDate>Mon, 19 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-no-git-parte-1/</guid>
+      <description>Não esqueça de ler a segunda parte desse artigo.
+Se você não trabalha com nenhum controle de versão ainda ou nem sabe o que isso significa, dá uma lida nesse texto antes de começarmos aqui.
+Controles de versão são sistemas que controlam o código gerado em projetos. Se você e mais alguém precisam editar o mesmo arquivo em um mesmo projeto, como você faz? Espera o primeiro editar, salvar e depois subir no FTP só para aí então você abrir o arquivo e fazer suas alterações?</description>
+    </item>
+    
+    <item>
+      <title>Assegurando a qualidade do seu código JavaScript</title>
+      <link>http://localhost/jhonny-roger/public/qualidade-codigo-javascript/</link>
+      <pubDate>Mon, 09 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/qualidade-codigo-javascript/</guid>
+      <description>Enquanto testes automatizados asseguram o funcionamento de suas aplicações e, portanto, também a qualidade, algumas ferramentas atuam em outra área importante do seu código: a sintaxe.
+Ferramentas de lint são scripts que interpretam seus arquivos javascript e buscam erros como varáveis não utilizadas, espaços em branco no final de linha, ausência de ponto-e-vírgula (um ponto polêmico) entre outros.
+Abaixo você encontra alguns utilitários que buscam garantir melhor qualidade e padrão para seus códigos.</description>
+    </item>
+    
+    <item>
+      <title>Não “otimize” seu código</title>
+      <link>http://localhost/jhonny-roger/public/nao-otimize-seu-codigo/</link>
+      <pubDate>Sun, 09 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/nao-otimize-seu-codigo/</guid>
+      <description>&lt;p&gt;Quando fazíamos sites com tabelas, o grande problema era a quantidade de código que escrevíamos. Naquele tempo – 1996, 97, 98 – tínhamos outros pontos que precisavam de uma atenção maior. A conexão era lerda para todo mundo e isso dificultava um bocado as coisas. Por isso, fazer um site pesado era fora de cogitação. Ficávamos “mendigando” cada byte para que o site ficasse milésimos de segundo mais rápido.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Podcast Tableless #21 – Desenvolvimento em camadas</title>
+      <link>http://localhost/jhonny-roger/public/podcast-tableless-21-desenvolvimento-em-camadas/</link>
+      <pubDate>Thu, 17 Aug 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/podcast-tableless-21-desenvolvimento-em-camadas/</guid>
+      <description>O Tableless está tentando voltar com os podcasts. Para me ajudar nesta empreitada &amp;#8211; que promete ser firme e semanal! 😮 &amp;#8211; chamei o Bruno Torres.
+Estamos tentando remodelar o podcast para que possamos fazer toda semana. Não iremos passar tempo dissecando vários assuntos longos, mas vamos sempre bater papo sobre um assunto específico, que seja de interesse geral. Isso fará com que o tempo do podcast fique menor e mais relevante.</description>
+    </item>
+    
+  </channel>
+</rss>

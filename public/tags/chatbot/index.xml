@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chatbot on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/chatbot/</link>
+    <description>Recent content in Chatbot on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 12 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/chatbot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Seu primeiro bot para o Telegram</title>
+      <link>http://localhost/jhonny-roger/public/seu-primeiro-bot-para-o-telegram/</link>
+      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/seu-primeiro-bot-para-o-telegram/</guid>
+      <description>Os BOTS de chats hoje já são uma realidade, eles já estão presentes nos aplicativos de mensagens do seu celular, e com certeza você já ficou curioso em como alguns deles são desenvolvidos. Nesse artigo, vamos mostrar o desenvolvimento de um BOT muito simples utilizando a API do Telegram.
+Artigo adaptado de Bot Telegram
+Criando o seu BOT Para esse simples exemplo será utilizado o JavaScript na plataforma NodeJS em conjunto com a API do Telegram, caso você não esteja familiarizado com essa plataforma, você pode conferir esse ótimo artigo aqui do Tableless Como instalar Node.</description>
+    </item>
+    
+    <item>
+      <title>O futuro das interfaces: Chatbots</title>
+      <link>http://localhost/jhonny-roger/public/o-futuro-das-interfaces-chatbots/</link>
+      <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-futuro-das-interfaces-chatbots/</guid>
+      <description>Estamos acostumados a interagir diariamente com interfaces gráficas, seja no computador, celular, tablet, smart tv, etc. Naturalmente incorporamos a utilização dessas interfaces para obter nossos objetivos no dispositivo em questão, seja fazer uma busca no google, ver uma página no Facebook, ler um artigo em um portal de notícias ou escolher um filme no Netflix.
+Podemos não perceber, mas quando ligamos para um call-center onde a máquina (URA — Unidade de Resposta Audível) nos pede para dizer em voz alta o que desejamos, ou o número correspondente ao que queremos, também estamos interagindo com uma interface de voz para atingir nosso propósito.</description>
+    </item>
+    
+  </channel>
+</rss>

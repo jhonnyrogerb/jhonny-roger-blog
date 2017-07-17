@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Léo Wg on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/l%C3%A9o-wg/</link>
+    <description>Recent content in Léo Wg on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 06 Dec 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/l%C3%A9o-wg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Como automatizar a criação de Virtual Hosts</title>
+      <link>http://localhost/jhonny-roger/public/como-automatizar-criacao-de-virtual-hosts/</link>
+      <pubDate>Sun, 06 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/como-automatizar-criacao-de-virtual-hosts/</guid>
+      <description>Qualquer desenvolvedor que se preze tenta automatizar tarefas recorrentes, mesmo que não sejam tarefas diárias. É dessa forma que você consegue tempo para melhorar seu software, ganhando tempo para quebrar a cabeça com o que realmente importa.
+Para quem não sabe os Virtual Hosts são apelidos dados ao caminho onde está rodando seu site ou aplicação web. Geralmente isso é feito em servidores de desenvolvimento para facilitar o acesso ao projeto.</description>
+    </item>
+    
+    <item>
+      <title>Gantry 5 – Desenvolvimento de templates para Joomla e WordPress</title>
+      <link>http://localhost/jhonny-roger/public/gantry-5-desenvolvimento-de-templates-para-joomla-e-wordpress/</link>
+      <pubDate>Mon, 17 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/gantry-5-desenvolvimento-de-templates-para-joomla-e-wordpress/</guid>
+      <description>&amp;nbsp;
+Com o surgimento dos Gerenciadores de Conteúdo como o Joomla e WordPress, os desenvolvedores de sites começaram a aproveitar mais o tempo e entregar projetos mais rápido. Quando surgem os frameworks de templates, que se integram aos CMSs para gerenciar e facilitar o desenvolvimento dos layouts das páginas, as coisas ficam mais interessantes. E é justamente nesse ponto que vamos chegar. Farei uma breve abordagem sobre o novo Framework de Template Gantry 5.</description>
+    </item>
+    
+  </channel>
+</rss>

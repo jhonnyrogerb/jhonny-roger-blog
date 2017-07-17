@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Html5 on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/categories/html5/</link>
+    <description>Recent content in Html5 on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/categories/html5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Criando uma aplicação de Chat simples com NodeJS e Socket.io</title>
+      <link>http://localhost/jhonny-roger/public/criando-uma-aplicacao-de-chat-simples-com-nodejs-e-socket-io/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-uma-aplicacao-de-chat-simples-com-nodejs-e-socket-io/</guid>
+      <description>Neste tutorial iremos abordar alguns conceitos do Socket.io criando um simples sistema de chat para browser.
+O que é Socket.io? Socket.io é um uma biblioteca Javascript feita para construir aplicações real-time, possibilitando uma comunicação bi-direcional entre cliente e servidor. O socket.io utiliza as especificações de Web Sockets (para quem quer saber mais, recomendo dar uma olhada neste ótimo artigo da HTML5 Rocks).
+O Socket.io roda, no lado do servidor, em NodeJS, e, no lado do cliente, ele roda diretamente no browser, possibilitando uma enorme gama de possibilidades de aplicações, como jogos, sistemas de notificações, real-time analytics e sistemas de chats e conversas em tempo real.</description>
+    </item>
+    
+    <item>
+      <title>Acessibilidade básica no formulário de contato</title>
+      <link>http://localhost/jhonny-roger/public/acessibilidade-basica-no-formulario-de-contato/</link>
+      <pubDate>Mon, 08 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/acessibilidade-basica-no-formulario-de-contato/</guid>
+      <description>Um dos itens indispensáveis em um site é o formulário de contato, já pensou deixar ele acessível para todos na web? Na atualidade a acessibilidade vem sendo levada a sério com o avanço das tecnologias web e as supostas padronizações dos navegadores, e a acessibilidade hoje na web é muito importante, e a chegada do HTML5 deixou marcação do HTML mais explicativa para usuários acessíveis.
+WCAG 2.0 o que é ?</description>
+    </item>
+    
+    <item>
+      <title>Criando efeitos de páginas de livro no seu front-end</title>
+      <link>http://localhost/jhonny-roger/public/criando-efeitos-de-paginas-de-livro-no-seu-front-end/</link>
+      <pubDate>Thu, 14 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-efeitos-de-paginas-de-livro-no-seu-front-end/</guid>
+      <description>O Turn.js é uma biblioteca JavaScript que faz o conteúdo parecer um livro ou revista de verdade, usando as vantagens do HTML5.
+É uma biblioteca baseada no jQuery, versão 1.7 ou superior, então é um requerimento básico.
+Temos o suporte para os navegadores:
+ Chrome 12+ Safari 5+ Firefox 10+ Internet Explorer 9+  Na prática Como exemplo, vamos usar como base a história criada por Rodrigo Martins, que tranformou em quadrinhos o meme da internet &amp;#8220;Já acabou, Jéssica&amp;#8221;.</description>
+    </item>
+    
+    <item>
+      <title>Criando seu próprio servidor HTTP do zero (ou quase) – Parte Final</title>
+      <link>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-final/</link>
+      <pubDate>Tue, 27 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-final/</guid>
+      <description>Os servidores HTTP são parte fundamental da Web como conhecemos, sendo responsáveis por fornecer todo o conteúdo que acessamos através de nossos navegadores. Durante esse tutorial, entenderemos como funciona a comunicação entre o navegador e o servidor e como a informação é entregue ao usuário.
+Caso não tenha acompanhado os últimos posts, recomendo que leia as Partes um, dois e três antes de prosseguir a leitura deste post.
+Essa é a última parte do tutorial, mas antes de prosseguir vamos recapitular o que vimos até agora então: Nós conhecemos o protocolo HTTP/1.</description>
+    </item>
+    
+    <item>
+      <title>Criando seu próprio servidor HTTP do zero (ou quase) – Parte III</title>
+      <link>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-iii/</link>
+      <pubDate>Mon, 05 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-iii/</guid>
+      <description>Estamos entrando na terceira parte do tutorial, e quem está acompanhando até aqui já sabe então como funciona a comunicação entre cliente e servidor, envio de requisição pelo cliente e recebimento de resposta (na duvida só voltar e releia a Parte I e/ou Parte II), porém o que a gente quer é criar o servidor, receber as requisições e enviar a resposta ao cliente.
+O Servidor A idéia do servidor é bem simples e estende a do cliente, como assim?</description>
+    </item>
+    
+    <item>
+      <title>Campo input date do HTML5 e internacionalização</title>
+      <link>http://localhost/jhonny-roger/public/html5-input-date-e-internacionalizacao/</link>
+      <pubDate>Wed, 30 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/html5-input-date-e-internacionalizacao/</guid>
+      <description>Alguns navegadores como Chrome, Edge e Safari já começaram a suportar o elemento com sua nova propriedade valueAsDate. Ao invés de utilizar bibliotecas para exibição de calendário e até mesmo para tratamento de datas com internacionalização, sugiro adotar estes novos recursos HTML5 com pequenos fallbacks para navegadores que não suportam.
+Elemento  Este novo elemento dispensa apresentação. Sua grande vantagem é a excelente usabilidade e internacionalização automática. Veja como fica a apresentação deste elemento no Android 5:</description>
+    </item>
+    
+    <item>
+      <title>Criando seu próprio servidor HTTP do zero (ou quase) – Parte II</title>
+      <link>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-ii/</link>
+      <pubDate>Fri, 11 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-ii/</guid>
+      <description>Se chegou até aqui é por que você terminou de ler a primeira parte do tutorial (Caso não, leia a Parte I ), mas não desista, a parte legal vai chegar, mas antes de começar, falta mais um item de teoria &amp;#8211; sim eu sei que é chato, mas juro que é importante &amp;#8211; os Sockets.
+Sockets e portas Falamos muito de requisições e respostas no último post mas ainda não falamos de conexão e troca de informações.</description>
+    </item>
+    
+    <item>
+      <title>Criando seu próprio servidor HTTP do zero (ou quase) – Parte I</title>
+      <link>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-i/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-i/</guid>
+      <description>Sou apaixonado por tecnologias livres e como sou extremamente curioso, gosto de saber como as coisas funcionam. Como também sou cinestésico, não me contento em apenas em entender, tenho que criar, recriar, escrever, rescrever, inventar, reinventar, enfim sentir realmente como se faz. Nesse vai e vem de aprendizado, minha última curiosidade foi entender como os servidores HTTP funcionam e criar um do zero (ou pelo menos quase).
+É claro que para fazer isso eu não fui tão lá embaixo a ponto de utilizar C, utilizei da linguagem de programação da qual me sinto mais confortável e que já oferece algumas facilidades que em C teria que sangrar pra fazer o mesmo porém não impossível, mas enfim, optei por desenvolver em Java, os passos vou contar pra vocês aqui, mas utilizando os mesmo conceitos nada impede que utilize qualquer outra linguagem de programação.</description>
+    </item>
+    
+    <item>
+      <title>Crie seu jogo em HTML5 com enchant.js</title>
+      <link>http://localhost/jhonny-roger/public/crie-seu-jogo-em-html5-com-enchant-js/</link>
+      <pubDate>Tue, 28 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/crie-seu-jogo-em-html5-com-enchant-js/</guid>
+      <description>Mantido na UEI (Ubiquitous Entertainment, Inc), por membros do Centro de Pesquisa de Akihabara, o framework japonês chamado enchant.js, permite criar com poucas linhas de código um jogo simples em HTML5.
+Com enchant.js, você pode criar desde simples jogos 2D até avançados jogos em três dimensões, graças ao suporte WebGL usado como plugin.
+Os elementos criados em um bloco do enchant.js são renderizado através do DOM e do Canvas, além de rodar nas plataformas mais conhecidas.</description>
+    </item>
+    
+    <item>
+      <title>nth-child() e calc() – Uma proposta para o abandono de frameworks de grids responsivos</title>
+      <link>http://localhost/jhonny-roger/public/nth-child-calc-responsivos/</link>
+      <pubDate>Mon, 06 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/nth-child-calc-responsivos/</guid>
+      <description>Apesar da adoção do _Tableless _para construção de layouts o conceito de tabela ainda persiste através de inúmeros frameworks de grids responsivos.
+ Além da semântica, o conceito Tableless prega, sempre que possível, levar a responsabilidade do layout para o CSS. O problema dos frameworks CSS focados em grids é que a especificação do layout continua dentro do HTML, descrita através de classes CSS, ancoradas diretamente aos elementos HTML, e de forma intrusiva, ou seja, os elementos  antigamente utilizados foram substituídos por elementos  para a criação do layout.</description>
+    </item>
+    
+    <item>
+      <title>HTML: Encode UTF-8</title>
+      <link>http://localhost/jhonny-roger/public/html-encode-utf-8/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/html-encode-utf-8/</guid>
+      <description>Há uns 7 anos atrás o Diego Eis publicou aqui um artigo sobre o assunto. Vou fazer uma nova abordagem.
+Sabe quando sua página troca acentuações por caracteres bem loucos? Este é um problema simples de explicar e vou tentar mostrar as regras que se aplicam quando o browser faz o download de um HTML, como escolher um encode e como usá-lo.
+Existem três formas de declararmos o encode do arquivo:</description>
+    </item>
+    
+    <item>
+      <title>O poder do atributo “ALT”</title>
+      <link>http://localhost/jhonny-roger/public/o-poder-do-atributo-alt/</link>
+      <pubDate>Fri, 27 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-poder-do-atributo-alt/</guid>
+      <description>Ao desenvolver um website, temos que pensar em acessibilidade para que seja visto por qualquer usuário. Tendo em vista que sua equipe planejou um website acessível, vocês pensaram em colocar em todas as imagens o atributo&amp;#8221;ALT&amp;#8221;. Pois, websites hoje em dia tem centenas ou milhares de imagens. Já imaginou você olhando para um quadro com uma imagem sem descrição nenhuma, pois é assim que um deficiente visual pode se sentir ao acessar seu website com várias imagens e ao executar um software sintetizador de voz, não tem nenhuma informação do que está na página.</description>
+    </item>
+    
+    <item>
+      <title>Em um relacionamento sério com generators front-end – Parte 3</title>
+      <link>http://localhost/jhonny-roger/public/em-um-relacionamento-serio-com-generators-front-end-parte-3/</link>
+      <pubDate>Fri, 06 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/em-um-relacionamento-serio-com-generators-front-end-parte-3/</guid>
+      <description>TL;DR Antes de iniciarmos o post, vale lembrar que em momento nenhum eu e o Pedro Polisenso estamos elegendo o melhor ou pior generator, visto que o output desse tipo de ferramenta é geralmente o mesmo dependendo da comparação, sendo assim, cabe a você analisar prós e contras de cada um e realizar uma escolha satisfatória pra sua necessidade.
+Mas vamos parar de mimimi e vamos ao que importa.</description>
+    </item>
+    
+    <item>
+      <title>Entendendo o Outline do HTML</title>
+      <link>http://localhost/jhonny-roger/public/entendendo-o-outline-html/</link>
+      <pubDate>Thu, 22 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/entendendo-o-outline-html/</guid>
+      <description>O Outline do documento HTML é a estrutura do documento que é gerada pelos títulos, títulos de formulários, títulos das tabelas e qualquer outro elemento que marque alguma seção de conteúdo no documento. Essas marcações de Outline podem ser usadas para várias iniciativas, por exemplo, um browser ou alguma outra interface possa criar uma Tabela de Conteúdo. Outras tecnologias assistivas podem usar também estas seções para formar a navegação, como em um leitor de tela, mas ou menos como acontece no WAI-ARIA, mas de maneira mais natural.</description>
+    </item>
+    
+    <item>
+      <title>Em um relacionamento sério com generators front-end – Parte 2</title>
+      <link>http://localhost/jhonny-roger/public/em-um-relacionamento-serio-com-generators-front-end-parte-2/</link>
+      <pubDate>Wed, 10 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/em-um-relacionamento-serio-com-generators-front-end-parte-2/</guid>
+      <description>O início O objetivo desse post não é para fazer com que os desenvolvedores só usem esta ferramenta, e sim para apresentar opções de desenvolvimentos ágeis que podem ser úteis no seu dia a dia. É uma ferramenta a qual lhe oferece um stack completo de estrutura de projeto, basta você saber como usar e para que vai usar.
+O Yeoman O Yeoman é considerado uma ferramenta web de andaimes para criação de webapp modernos, nele você consegue montar um esquema de trabalho facilitando seu desenvolvimento.</description>
+    </item>
+    
+    <item>
+      <title>Em um relacionamento sério com generators front-end – Parte 1</title>
+      <link>http://localhost/jhonny-roger/public/em-um-relacionamento-serio-com-generators-front-end-parte-1/</link>
+      <pubDate>Wed, 29 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/em-um-relacionamento-serio-com-generators-front-end-parte-1/</guid>
+      <description>Conceitos e visão geral Generators front-end tem o seguinte conceito no geral: É uma ferramenta web de andaimes para criar webapp modernos.
+Baseado nesse conceito, entendemos que o uso dessa ferramenta permite que você crie suas aplicações de forma automatizada, gerenciável e com o tempo muito mais aproveitado.
+Ultimamente os devs front-end buscam melhorar seu workflow. Cada um tem seu jeito de trabalhar, porém temos algo em comum: detestamos ter retrabalho, queremos praticidade e sempre queremos automatizar tudo.</description>
+    </item>
+    
+    <item>
+      <title>Melhores Práticas Web Components</title>
+      <link>http://localhost/jhonny-roger/public/melhores-praticas-web-components/</link>
+      <pubDate>Wed, 10 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/melhores-praticas-web-components/</guid>
+      <description>Web Components é um novo conjunto bem recente de recursos da plataforma web que permite aos desenvolvedores criarem componentes de forma declarativa e muito interessante.
+Irei apresentar a seguir algumas boas práticas do ecossistema de Web Components.
+O guia a seguir contém boas práticas que evoluirão ao longo do tempo, assim como a própria especificação. O guia é um ponto de partida.
+Namespacing É como você nomeia seu Web Component, ele deve conter um traço no seu nome para diferenciar de outras tags do HTML, você também deve mantê-lo curto, semântico.</description>
+    </item>
+    
+    <item>
+      <title>File API – Trabalhando com Arquivos Locais Usando Javascript</title>
+      <link>http://localhost/jhonny-roger/public/file-api-trabalhando-com-arquivos-locais-usando-javascript/</link>
+      <pubDate>Tue, 08 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/file-api-trabalhando-com-arquivos-locais-usando-javascript/</guid>
+      <description>A atividade exercida localmente para a leitura de arquivos fornecidos pelo cliente na web sempre foi a de selecionar o arquivo e enviá-los ao servidor para que este possa, de alguma forma, fazer a leitura e retornar os dados de leitura para o cliente. Esta é a prática usual. Mas o HTML5 veio com suas API para desmistificar o usual.
+A File API desmitifica a prática de enviar um arquivo para o servidor para que ele possa ser lido.</description>
+    </item>
+    
+    <item>
+      <title>Estilizar e formatar placeholder de inputs</title>
+      <link>http://localhost/jhonny-roger/public/estilizar-e-formatar-placeholder-de-inputs/</link>
+      <pubDate>Wed, 26 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/estilizar-e-formatar-placeholder-de-inputs/</guid>
+      <description>O atributo placeholder foi uma das maravilhas herdadas do HTML5. Eu me lembro de todas as gambiarras em Javascript e CSS que fazíamos para simular o que o atributo placeholder faz tão facilmente.
+O atributo placeholder é uma pequena dica, uma pequena frase, uma palavra, que tem o intuito de ajudar o usuário a entender como ele deve preencher aquele formulário. Entenda que e o placeholder NÃO deve ser usado como alternativa para a LABEL.</description>
+    </item>
+    
+    <item>
+      <title>Web Storage  – HTML5</title>
+      <link>http://localhost/jhonny-roger/public/web-storage-html5/</link>
+      <pubDate>Tue, 28 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/web-storage-html5/</guid>
+      <description>Cookies &amp;#8211; o passado Para entendermos a vantagem obtida na utilização do WebStorage vamos compreender como uma aplicação trabalha(va) com cookies.
+Os cookies são inseridos no cabeçalho HTTP, sendo assim, sua performance pode ser comprometida. E estando as informações no cabeçalho HTTP, podemos nos perguntar: o quão protegidas elas estão?
+Outro desafio que se apresenta ao se trabalhar cookies é a capacidade de armazenamento: 4kB por cookies vezes no máximo 20 cookies é igual a capacidade de 80 kB.</description>
+    </item>
+    
+    <item>
+      <title>Frame Player: Indo além da tag video em dispositivos móveis</title>
+      <link>http://localhost/jhonny-roger/public/frame-player-indo-alem-da-tag-video-em-dispositivos-moveis/</link>
+      <pubDate>Wed, 27 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/frame-player-indo-alem-da-tag-video-em-dispositivos-moveis/</guid>
+      <description>Desde que o Flash se tornou obsoleto em dispositivos móveis (ou em outras palavras: quando a Apple o baniu do iOS) a forma de manipular arquivos de media ficou cada vez mais tendenciosa para uso das tags audio e video, consolidando o padrão Web. De toda forma o Flash ainda sobrevive bem neste ramo (prova disso é o YouTube que mantém seu player), mas este não será o foco deste artigo.</description>
+    </item>
+    
+    <item>
+      <title>WAI-ARIA – Estendendo o significado das interações</title>
+      <link>http://localhost/jhonny-roger/public/wai-aria-estendendo-o-significado-das-interacoes/</link>
+      <pubDate>Mon, 18 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/wai-aria-estendendo-o-significado-das-interacoes/</guid>
+      <description>O HTML serve para apenas uma coisa: dar significado à informação. Ele faz isso marcando a informação com as famosas tags. Feito isso você passa para o CSS e o Javascript, que ficarão com as responsabilidades de formatar essa informação e manipular seu comportamento.
+O ponto é que a semântica não fica apenas na hora de marcar a informação com HTML puro. Como você faz para que um usuário com deficiência visual saiba que a informação que ele procura está dentro de um collapse, e esse collapse está fechado?</description>
+    </item>
+    
+    <item>
+      <title>Ferramentas e sites para tornar mais ágil o seu desenvolvimento</title>
+      <link>http://localhost/jhonny-roger/public/ferramentas-e-sites-prontos-para-tornar-seu-processo-de-desenvolvimento-mais-agil/</link>
+      <pubDate>Thu, 19 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ferramentas-e-sites-prontos-para-tornar-seu-processo-de-desenvolvimento-mais-agil/</guid>
+      <description>Planejamento Na grande maioria dos projetos web, tudo se inicia pela Arquitetura de Informação (UX) e mesmo que talvez esta não seja a sua área, eventualmente organizar e entender um website por inteiro, também possa ser uma necessidade.
+Sem considerar todos os argumentos aplicados às melhores metodologias, criar um sitemap* pode ser algo bastante útil então, a dica é, uma das ferramentas online que trabalha bem com esse tipo de documento é o Coggle.</description>
+    </item>
+    
+    <item>
+      <title>Dicas de como fazer seu próprio framework CSS</title>
+      <link>http://localhost/jhonny-roger/public/dicas-de-como-fazer-seu-proprio-framework-css/</link>
+      <pubDate>Tue, 03 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/dicas-de-como-fazer-seu-proprio-framework-css/</guid>
+      <description>Algumas anotações da minha palestra na QCon 2013, sobre como fazer seu próprio framework CSS.
+ Construindo seu framework CSS  from Diego Eis Por que usar Frameworks?  Aumentar a eficiência Consistência e padrão de código Compatibilidade mais confiável Fácil manutenção Facilita a repetições de tarefas  Por que não usar Frameworks?  Curva de aprendizado HTML engessado CSS engessado Sopa de classes Tem que manter tudo atualizado o tempo todo Versionamento problemático  Separe seu CSS em partes É bom para manutenção, escalabilidade do código e também evita misturar assuntos diferentes.</description>
+    </item>
+    
+    <item>
+      <title>HTML 5 e SEO: mitos e verdades</title>
+      <link>http://localhost/jhonny-roger/public/html-5-e-seo-mitos-e-verdades/</link>
+      <pubDate>Fri, 30 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/html-5-e-seo-mitos-e-verdades/</guid>
+      <description>Sabemos que o Google está cada vez mais buscando relevância em conteúdo de alta qualidade e campo semântico que tenha significado. A cada atualização do algorítimo, percebemos que conteúdo de qualidade também precisa estar semântico, ou seja, que faça sentido tanto para os usuários como para o Googlebot, o robô do Google.
+Um dos assuntos mais discutidos em SEO, é se o código de um site tem o poder de influenciar o ranqueamento no Google.</description>
+    </item>
+    
+    <item>
+      <title>Tabela comparativa de Frameworks CSS</title>
+      <link>http://localhost/jhonny-roger/public/tabela-comparativa-de-frameworks-css/</link>
+      <pubDate>Mon, 19 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tabela-comparativa-de-frameworks-css/</guid>
+      <description>Todo mundo tem dúvidas sobre qual framework usar. Foi aí que um pessoal compilou uma lista dos melhores frameworks do mercado. Existem milhares de outros, mas estes são os mais conhecidos e talvez apenas os que você deveria se focar para estudar e considerar usar em seus trabalhos.
+Nessa lista você encontra o link do projeto, uma tabela de compatibilidade que cada framework tem com os browsers, uma indicação mostrando o suporte a responsive web design e qual a licensa usada para a utilização!</description>
+    </item>
+    
+    <item>
+      <title>Pré-processadores: usar ou não usar?</title>
+      <link>http://localhost/jhonny-roger/public/pre-processadores-usar-ou-nao-usar/</link>
+      <pubDate>Mon, 22 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/pre-processadores-usar-ou-nao-usar/</guid>
+      <description>Faz tempo que estou tentando escrever um post sobre pré processadores de CSS. Sempre que eu digo que sou meio contra a utilização deles pra alguém, ouço a inevitável pergunta: por quê?
+O Miller Medeiros escreveu um ótimo artigo com o nome de The problem with CSS pre-processors. Lá ele cita alguns pontos interessantes, que pra mim já são suficientes para não usar.
+Mas como eu disse: sou meio contra.</description>
+    </item>
+    
+    <item>
+      <title>O Cenário do Web Design Responsivo</title>
+      <link>http://localhost/jhonny-roger/public/o-cenario-do-web-design-responsivo/</link>
+      <pubDate>Wed, 17 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-cenario-do-web-design-responsivo/</guid>
+      <description>O Web design responsivo está por aí há alguns anos, e foi destaque em 2012. Muitas estrelas da web, como Brad Frost e Luke Wroblewski, possuem vasta experiência neste tema e têm nos ajudado a fazer grandes melhorias. Mesmo assim, ainda há muito a ser feito.
+Neste artigo, vamos ver o que já é possível fazer hoje, o que será possível no futuro &amp;#8211; usando propriedades ainda não padronizadas (como CSS nível 4 e API&amp;#8217;s do HTML5) &amp;#8211; e o que ainda precisa ser melhorado.</description>
+    </item>
+    
+    <item>
+      <title>3 parâmetros de HTML que você deve usar em um futuro próximo</title>
+      <link>http://localhost/jhonny-roger/public/3-parametros-de-html-que-voce-dev-usar-em-um-futuro-proximo/</link>
+      <pubDate>Tue, 14 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/3-parametros-de-html-que-voce-dev-usar-em-um-futuro-proximo/</guid>
+      <description>Neste artigo vamos conhecer alguns parâmetros que ainda não são largamente utilizados por algum motivo ou outro, mas que merecem ser conhecidos por serem práticos, úteis e interessantes. Alguns não foram aprovados oficialmente por orgãos como W3C, outros já receberam o ok da instituição mas não são compatíveis com a maioria dos browsers&amp;#8230; De qualquer maneira valem a pena serem conhecidos pois todos tem o poder de facilitar nosso dia-a-dia de alguma forma.</description>
+    </item>
+    
+    <item>
+      <title>Está perdido? Geolocalização!</title>
+      <link>http://localhost/jhonny-roger/public/esta-perdido-geolocalizacao/</link>
+      <pubDate>Mon, 22 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/esta-perdido-geolocalizacao/</guid>
+      <description>No passado a localização dos usuários era baseada em IP. A precisão não era lá grande coisa, pois a posição do usuário era baseada em um &amp;#8220;chute&amp;#8221; de acordo com o seu IP. Graças ao HTML5 e sua API de Geolocalização ou Geolocation (já falamos sobre isso aqui no artigo Creme de papaia e Geolocalização) podemos saber a posição do usuário de forma muito mais precisa e com isso é possível escrever aplicações mais úteis.</description>
+    </item>
+    
+    <item>
+      <title>A tag MAIN</title>
+      <link>http://localhost/jhonny-roger/public/a-tag-main/</link>
+      <pubDate>Mon, 14 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/a-tag-main/</guid>
+      <description>E finalmente, depois muita discussão, a nova tag  do HTML foi lançada. A discussão envolvia o real motivo de ter ou não uma nova tag para definir o conteúdo principal do documento. O Ian Hickson &amp;#8211; mestre dos mestres do HTML &amp;#8211; era contra essa nova tag. Aqui tem uma entrevista com ele, muito interessante, onde há uma parte que ele explica o motivo de não querer essa nova tag.</description>
+    </item>
+    
+    <item>
+      <title>Creme de papaia e Geolocalização</title>
+      <link>http://localhost/jhonny-roger/public/creme-de-papaia-e-geolocalizacao/</link>
+      <pubDate>Wed, 28 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/creme-de-papaia-e-geolocalizacao/</guid>
+      <description>Eu não sou um grande apreciador de doces, mas uma das minhas sobremesas preferidas é o popular creme de mamão papaia com licor de cassis. Sempre achei que essa era a combinação perfeita para uma sobremesa, especialmente no calor. Mas o mamão papaia é um grande injustiçado. Se você perguntar para qualquer pessoa o nome de uma sobremesa feita com mamão papaia, com certeza a grande maioria vai dizer &amp;#8220;creme de papaia com licor de cassis&amp;#8221;.</description>
+    </item>
+    
+    <item>
+      <title>Microdados do HTML5</title>
+      <link>http://localhost/jhonny-roger/public/microdados-do-html5/</link>
+      <pubDate>Fri, 28 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/microdados-do-html5/</guid>
+      <description>Como você diz para o sistema de busca que uma resenha em determinado site é uma resenha? E como você disponibiliza informações sobre seu evento como o local, data e etc para serviços na internet? Informação é para ser utilizada e reutilizada. Ela é reciclada diversas vezes por diversos motivos e por diversos meios.
+A especificação de Microdados do HTML define um mecanismo que permite que máquinas &amp;#8211; leia-se meios de acesso como scripts, aparelhos, sistemas, serviços etc &amp;#8211; reconheçam dados que possam ser embedados em documentos HTML de uma forma fácil.</description>
+    </item>
+    
+    <item>
+      <title>Adobe Edge</title>
+      <link>http://localhost/jhonny-roger/public/adobe-edge/</link>
+      <pubDate>Wed, 26 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/adobe-edge/</guid>
+      <description>A Adobe tem ajudado demais o mercado de desenvolvimento web nos últimos tempos. Ela entendeu que a perda do mercado do Flash não foi uma derrota, pelo contrário. Com esse cenário ela criou o Edge, uma suite de desenvolvimento que reúne diversas soluções que ajudam o desenvolvedor web a produzir serviços e websites utilizando as últimas novidades dos padrões web. Como diz parte da Missão descrito no site deles:
+ Adobe makes tools that enable designers and developers to share their creativity with the world.</description>
+    </item>
+    
+    <item>
+      <title>Scoped CSS</title>
+      <link>http://localhost/jhonny-roger/public/scoped-css/</link>
+      <pubDate>Thu, 13 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/scoped-css/</guid>
+      <description>Scoped CSS é uma pequena novidade no HTML5 que nos permite inserir estilos CSS que sejam apenas aplicado em um determinado lugar de uma página, de modo que os estilos restantes da mesma página não sejam afetados. Para isso, foi definido um novo atributo scoped que deve ser utilizado na tag .
+Pela definição da especificação:
+ O atributo scoped é um atributo booleano. Se for setado, indica que os estilos (da tag ) serão aplicados apenas na sub-árvore do elemento pai deste mesmo elemento (), ao contrário de todo o documento.</description>
+    </item>
+    
+    <item>
+      <title>Documentos poliglotas com XHTML5</title>
+      <link>http://localhost/jhonny-roger/public/documentos-poliglotas-com-xhtml5/</link>
+      <pubDate>Wed, 16 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/documentos-poliglotas-com-xhtml5/</guid>
+      <description>Quando se começou a falar massivamente a respeito do HTML5, em 2009, muitos desenvolvedores (inclusive eu) torceram o nariz para o fato de poder voltar a utilizar a sintaxe tolerante do HTML, ou seja, tags em uppercase ou sem fechamento, valores de atributos sem aspas, fechar tags em ordem incorreta, entre outros. Inclusive, comentei especificamente sobre isso em um outro artigo.
+Grande parte dos desenvolvedores aprenderam e se habituaram a utilizar a sintaxe do XHTML, que segue as diretrizes do XML para documentos bem formados e que apresentariam erros de renderização caso essas diretrizes são fossem seguidas.</description>
+    </item>
+    
+    <item>
+      <title>Estruturação de front-end – Parte 1: Preprocessadores, Framewoks e Bibliotecas</title>
+      <link>http://localhost/jhonny-roger/public/estruturacao-de-client-side-preprocessadores-framewoks-e-bibliotecas-parte-1/</link>
+      <pubDate>Wed, 09 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/estruturacao-de-client-side-preprocessadores-framewoks-e-bibliotecas-parte-1/</guid>
+      <description>Existem três categorias de &amp;#8220;ferramentas&amp;#8221; que nos ajudam a desenvolver um projeto client-side: Preprocessadores, Frameworks e Bibliotecas.
+Preprocessadores Preprocessadores são ferramentas onde você escreve CSS de uma determinada forma, modificando sua sintaxe, fazendo com que na hora de sua utilização o código CSS precise ser préprocessado para que o código escrito seja transformado em código CSS puro e assim então os browsers consigam entender.
+Existem muitos preprocessadores no mercado como Less, Sass, Turbine, Switch CSS e outros.</description>
+    </item>
+    
+    <item>
+      <title>Entendendo quais APIs (realmente) fazem parte do HTML5</title>
+      <link>http://localhost/jhonny-roger/public/entendendo-quais-apis-realmente-fazem-parte-do-html5/</link>
+      <pubDate>Wed, 02 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/entendendo-quais-apis-realmente-fazem-parte-do-html5/</guid>
+      <description>Com o HTML5 ganhando força no mercado de desenvolvimento web, maior tem sido o interesse dos desenvolvedores em compreender seus recursos, novas APIs e tecnologias adjacentes. E é aí que acontece uma grande confusão.
+Sabemos que o HTML5 não se trata apenas de marcação, mas também de um conjunto de novas funcionalidades encapsuladas em APIs que podem ser acessadas via JavaScript.
+Porém, há APIs em processo de padronização pelo W3C que não fazem parte da especificação do HTML5.</description>
+    </item>
+    
+    <item>
+      <title>Cut the Rope</title>
+      <link>http://localhost/jhonny-roger/public/cut-the-rope/</link>
+      <pubDate>Wed, 28 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/cut-the-rope/</guid>
+      <description>Cut the Rope foi feito primeiramente para iOS. A Microsoft fez uma parceria com o time que produziu o jogo, fazendo com que ele ficasse disponível para todos, totalmente feito em HTML5. O resultado foi o jogo integralmente portado para web, utilizando o melhor do HTML5: gráficos em canvas, audo e vídeo direto do browser, CSS3 e fonts WOFF.
+Você pode jogar Cut the Rope pelo link: www.cuttherope.ie.
+Ao transformar o jogo para web, os desenvolvedores quiseram mantiveram a física e a movimentação do jogo original.</description>
+    </item>
+    
+    <item>
+      <title>CSS3 – Texturizando textos</title>
+      <link>http://localhost/jhonny-roger/public/css3-texturizando-textos/</link>
+      <pubDate>Thu, 23 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css3-texturizando-textos/</guid>
+      <description>Com o uso da versão 3, já podemos tornar possível a criação de sombra em textos e boxes, arredondamento de bordas, múltiplos backgrounds, etc; objetivando reduzir o tempo de carregamento da página e estimulando o cuidado na utilização de códigos e textos limpos que servirão de comunicação para robôs de busca ou favorecerão a acessibilidade do website.
+A exemplo de mais uma das vantagens do CSS3, vamos conhecer melhor como aplicar uma imagem de textura ao preenchimento de um texto, utilizando apenas declarações &amp;#8220;fonts&amp;#8221; na folha de estilo.</description>
+    </item>
+    
+    <item>
+      <title>O dilema da sintaxe no HTML5</title>
+      <link>http://localhost/jhonny-roger/public/o-dilema-da-sintaxe-no-html5/</link>
+      <pubDate>Wed, 11 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-dilema-da-sintaxe-no-html5/</guid>
+      <description>Com o HTML5, a sintaxe volta a ser aquela do HTML, sem as restrições preconizadas pelo XHTML (todas as tags com fechamento, tags e propriedades em minúscula, valores de propriedades entre aspas, etc). E os desenvolvedores voltaram a se sentir livres para codificar o HTML da forma que lhes é mais conveniente.
+Bom, não é bem assim. Embora o XHTML fosse frustrante com relação à semântica e não era tão revolucionário quanto propunha, as regras mais rígidas de sintaxe foram seu maior legado.</description>
+    </item>
+    
+    <item>
+      <title>Declarando idiomas no HTML</title>
+      <link>http://localhost/jhonny-roger/public/declarando-idiomas-no-html/</link>
+      <pubDate>Mon, 09 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/declarando-idiomas-no-html/</guid>
+      <description>Publicar conteúdo na web definitivamente não é a mesma coisa da publicação de conteúdo nos meios impressos. Quando imprimimos o conteúdo, temos como foco um determinado público de uma determinada região. Eu, estando no Brasil, não vou fazer uma revista em no idioma Japonês. Quando falamos publicação de conteúdo online a coisa muda de cenário. O conteúdo online pode ser acessado no mundo inteiro, não importa seu idioma. Obviamente se você conhece outros idiomas, você amplia suas possibilidades para encontrar conteúdo e novos sites.</description>
+    </item>
+    
+    <item>
+      <title>Guia de Referência de HTML5</title>
+      <link>http://localhost/jhonny-roger/public/guia-de-referencia-de-html5/</link>
+      <pubDate>Mon, 02 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/guia-de-referencia-de-html5/</guid>
+      <description>Ter sempre um guia de referência sobre qualquer tipo de linguagem é sempre bom. Ainda mais quando é completo e atual. O pessoal do WDL nos presenteou com uma série de Cheat Sheets sobre HTML5.
+Os guias são divididos em 3 gráficos: Um mostra as novas tags, o segundo mostra os eventos e atributos e o terceiro mostra o suporte dos browsers.
+Cada Cada um diferencia as características novas, existentes ou não suportadas do HTML5.</description>
+    </item>
+    
+    <item>
+      <title>Command &amp; Conquer: Tiberium Alliances</title>
+      <link>http://localhost/jhonny-roger/public/commander-conquer-tiberium-alliances/</link>
+      <pubDate>Mon, 19 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/commander-conquer-tiberium-alliances/</guid>
+      <description>Se você é fã de jogos de estratégia já deve conhecer o Command &amp;amp; Conquer. Para ser sincero eu não gostava muito dessa série e por isso joguei muito pouco. Achava tudo muito complicado. 😉
+Mas a notícia interessante é que a EA/Phenomic (os mesmos que desenvolvedoram de Lord of Ultima, BattleForge e Spellforce) vai lançar uma edição do jogo chamada Command &amp;amp; Conquer: Tiberium Alliances e vai ser baseado em HTML5.</description>
+    </item>
+    
+    <item>
+      <title>Experiência deve ter começo, meio e fim</title>
+      <link>http://localhost/jhonny-roger/public/experiencia-deve-ter-comeco-meio-e-fim/</link>
+      <pubDate>Mon, 28 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/experiencia-deve-ter-comeco-meio-e-fim/</guid>
+      <description>Esse artigo pode parecer meio confuso, mas é apenas um pensamento que estive matutando. Não ligue se a ordem das ideias estiverem tortas e sinuosas. 😉
+Tive uma experiência muito ruim no primeiro dia de 2010: pulei na piscina com meu iPhone no bolso.
+Ok, pode me xingar agora.
+Depois da tragédia, ele durou rápidos 5 segundos, e faleceu. Não ligava, não apitava, não fazia nada. &amp;#8220;Paciência&amp;#8221;, falei para mim mesmo.</description>
+    </item>
+    
+    <item>
+      <title>Utilizando a Biblioteca Modernizr</title>
+      <link>http://localhost/jhonny-roger/public/utilizando-a-biblioteca-modernizr/</link>
+      <pubDate>Mon, 17 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/utilizando-a-biblioteca-modernizr/</guid>
+      <description>Problemas de compatibilidade Quando produzimos um site os problemas de compatibilidade fazem parte da regra do jogo. Para tentar contornar estes problemas utilizamos hacks, comentários condicionais, sniffing de browsers e outras coisas, que muitas vezes mais prejudicam do que ajudam.
+Para ajudar mais ainda o CSS3 e o HTML5 apareceram derrubando tudo, e o problema de compatibilidade que já era chato, ficou mais chato que meia molhada. Embora os browsers estejam muito mais atuais e suportando propriedades avançadas de CSS3 e HTML5, não é garantia que todos eles suportem as mesmas propriedades.</description>
+    </item>
+    
+    <item>
+      <title>Quando utilizar (ou não) frameworks CSS</title>
+      <link>http://localhost/jhonny-roger/public/quando-utilizar-ou-nao-frameworks-css/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/quando-utilizar-ou-nao-frameworks-css/</guid>
+      <description>Framework é um conjunto de componentes que provêm uma estrutura básica de elementos reutilizáveis, tendo uma arquitetura consistente de funcionalidade genérica sob a qual a aplicação será construída.
+No caso de CSS, os frameworks constituem bibliotecas que visam permitir a codificação do CSS de modo mais fácil e compatível com padrões de estilos, agregando uma série de opções já prontas para projetar uma página web, como se fosse um esqueleto, reduzindo o tempo gasto com o desenvolvimento.</description>
+    </item>
+    
+    <item>
+      <title>Entendendo os Reflows</title>
+      <link>http://localhost/jhonny-roger/public/entendendo-os-reflows-2/</link>
+      <pubDate>Mon, 18 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/entendendo-os-reflows-2/</guid>
+      <description>Reflow é um assunto extenso e necessário. Ele sempre vai existir nos navegadores, então temos que entendê-lo para saber como utilizá-lo de maneira racional. O mais legal é entender todo o contexto sobre o que são e como funcionam, para a partir daí repensar o código que renderizamos no navegador para obtermos maior performance.
+Reflow é o resultado de um evento que desencadeia mudanças no jeito que a pagina deve ser renderizada, tomando tempo para cálculo e reposicionamento de elementos.</description>
+    </item>
+    
+    <item>
+      <title>CSS3 – Módulo Template Layout</title>
+      <link>http://localhost/jhonny-roger/public/css3-modulo-template-layout/</link>
+      <pubDate>Mon, 30 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css3-modulo-template-layout/</guid>
+      <description>Talvez você me chame de louco, mas para mim a parte mais fácil de desenvolver um site com CSS é o planejamento e diagramação do layout. Coincidentemente é a parte que mais os desenvolvedores tem problemas crossbrowser ou por falta de recursos mais avançados. Mas se você parar para pensar, apenas uma propriedade cuida dessa parte, que é a propriedade float. De longe, para mim, o float é a propriedade mais importante que há no CSS.</description>
+    </item>
+    
+    <item>
+      <title>Em tempo de transição, quais recursos utilizar?</title>
+      <link>http://localhost/jhonny-roger/public/em-tempo-de-transicao-quais-recursos-utilizar/</link>
+      <pubDate>Tue, 24 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/em-tempo-de-transicao-quais-recursos-utilizar/</guid>
+      <description>HTML 5, CSS3, IE9, Firefox 4&amp;#8230; enfim, siglas, nomes e versões que não param de pipocar nos tweets, posts, artigos, e em todos os lugares dentro do nosso universo do desenvolvimento web e automaticamente nos perguntamos &amp;#8211; como traçar nosso trabalho nesta época de transição? O que é certo? O que é errado?
+Graciosamente retroceder ou progressivamente evoluir? A melhor análise antes de decidir qual caminho tomar e a qual evolução recorrer vem do planejamento de seu projeto.</description>
+    </item>
+    
+    <item>
+      <title>Documentos acessíveis com WAI-ARIA em HTML5</title>
+      <link>http://localhost/jhonny-roger/public/documentos-acessiveis-com-aria-em-html5/</link>
+      <pubDate>Thu, 14 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/documentos-acessiveis-com-aria-em-html5/</guid>
+      <description>A reestruturação do HTML para sua versão 5 propõem elementos mais semânticos. Porém, as novas tags do HTML5 não são suficientes para permitir que os documentos sejam corretamente acessíveis a softwares leitores de tela.
+O comportamento dos novos elementos ainda não é reconhecido por estes programas e o conteúdo da página pode não ser interpretado de forma correta. Em alguns testes que fiz com o conhecido leitor de telas JAWS, ele para de interpretar o conteúdo da página logo após o título.</description>
+    </item>
+    
+    <item>
+      <title>Novo parser HTML5 – FF4</title>
+      <link>http://localhost/jhonny-roger/public/parser-html5-firefox4/</link>
+      <pubDate>Mon, 28 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/parser-html5-firefox4/</guid>
+      <description>O Firefox é o meu browser favorito embora não seja meu browser padrão atualmente. Durante muito tempo ele me segurava com suas extensions exclusivas. Os outros browsers demoraram para ter uma coleção aceitável de extensions que realmente competissem com as do Firefox.
+Foi lançado na semana passada o Firefox 4.0 que trouxe uma série de mudanças interessantes. Uma das atualizações mais importantes foi o &amp;#8220;redesign&amp;#8221; do parser de HTML5.</description>
+    </item>
+    
+    <item>
+      <title>Vídeos mais acessíveis com HTML5 – parte II</title>
+      <link>http://localhost/jhonny-roger/public/videos-mais-acessiveis-com-html5-parte-ii/</link>
+      <pubDate>Tue, 15 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/videos-mais-acessiveis-com-html5-parte-ii/</guid>
+      <description>Na primeira parte do artigo, vimos as principais características do DFXP, uma especificação do W3C para trabalhar com legendas em vídeos do HTML5. Agora iremos conhecer a estrutura de um arquivo DFXP e detalhar o conceito de regions.
+Estrutura básica de um arquivo DFXP Um arquivo DFXP é um arquivo baseado em XML que utiliza a linguagem Timed Text Markup Language (TTML). A TTML estabelece tags e propriedades específicas para atribuir uma informação textual a um intervalo de tempo, posicionar esta informação em uma determinada região do vídeo e formatar a apresentação desta informação.</description>
+    </item>
+    
+    <item>
+      <title>Um raio-x do seu website</title>
+      <link>http://localhost/jhonny-roger/public/um-raio-x-do-seu-website/</link>
+      <pubDate>Thu, 03 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/um-raio-x-do-seu-website/</guid>
+      <description>A criacão de aplicações web evolui ao longo dos anos. A interação front-end/aplicação também segue esta evolução e é previsivel que a complexidade e a integração de funcionalidades com a interface web deva evoluir tambem. Só que para devs front-end, essa complexidade não está em novas linguagens ou tecnologias, e sim em como embarcar todas elas em um HTML semântico, limpo e de acordo com os requisitos. Tudo isso no menor tempo possível.</description>
+    </item>
+    
+    <item>
+      <title>HTML 5, novos elementos e atributos.</title>
+      <link>http://localhost/jhonny-roger/public/html-5-novos-elementos-e-atributos/</link>
+      <pubDate>Mon, 28 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/html-5-novos-elementos-e-atributos/</guid>
+      <description>Tags, mídia, interação usuário x website, relevância nos resultados de busca, usabilidade e acessibilidade são as grandes definições do poder de transformação que o HTML 5 promete estabelecer quando desenvolvedores web puderem utilizá-lo e como já mencionado em outro artigo, especializações na área devem surgir com esta nova versão, ou seja, você terá a possibilidade de escolher em qual das vertentes citadas acima vai deter maior conhecimento. Ainda assim, é fato que a construção de códigos para interfaces continuará sendo tarefa geral do desenvolvedor Front-End e saber quais tags utilizar e de que forma as utilizar continuará sendo conhecimento básico no desenvolvimento de códigos de marcação.</description>
+    </item>
+    
+    <item>
+      <title>Vídeos mais acessíveis com HTML5 – parte I</title>
+      <link>http://localhost/jhonny-roger/public/videos-mais-acessiveis-com-html5-parte-i/</link>
+      <pubDate>Tue, 15 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/videos-mais-acessiveis-com-html5-parte-i/</guid>
+      <description>Até o HTML 4 e XHTML 1.1, a acessibilidade de conteúdo era restrita a elementos basicamente textuais e imagens, mas os documentos de hipertexto são compostos de vários elementos de hipermídia, como áudio e vídeo que, na maioria dos casos, não possuíam seu conteúdo acessível a softwares leitores de tela.
+Sabemos que o HTML5 tem potenciais recursos de acessibilidade através de elementos mais semânticos e o W3C tem trabalhado em estender a acessibilidade a recursos de áudio e vídeo.</description>
+    </item>
+    
+    <item>
+      <title>Introdução a Microdata no HTML5</title>
+      <link>http://localhost/jhonny-roger/public/introducao-a-microdata-no-html5/</link>
+      <pubDate>Mon, 20 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-a-microdata-no-html5/</guid>
+      <description>Provavelmente você já ouviu falar de microformats, um padrão que permite representar informações de modo mais semântico no XHTML, como, por exemplo, informações de contato (hCard) ou dados de um evento (hCalendar).
+No HTML5, temos o microdata, conceito semelhante aos microformats e RDFa, um padrão de representação de informações que estende as potencialidades semânticas do HTML5.
+As informações representadas através de microdata utilizam elementos pertencentes a um vocabulário específico que deve ser referenciado no documento HTML.</description>
+    </item>
+    
+    <item>
+      <title>HTML5: Elemento AUDIO</title>
+      <link>http://localhost/jhonny-roger/public/elemento-tag-audio/</link>
+      <pubDate>Tue, 14 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/elemento-tag-audio/</guid>
+      <description>O elemento audio do HTML5 representa um som ou um stream de áudio. Atributos como: src, preload, autoplay, loop e controls podem ser utilizados em todos elementos de media, como o elemento audio.
+Formatos suportados Os formatos de audio suportados são:
+ Formato  IE 8  Firefox 3.5  Opera 10.5  Chrome 3.0  Safari 3.0     Ogg Vorbis   Não   Sim   Sim   Sim   Não     MP3   Não   Não   Não   Sim   Sim     Wav   Não   Sim   Sim   Não   Sim    Como no caso dos vídeos, ainda é um problema termos um formato que funcione com sucesso em todos os browsers.</description>
+    </item>
+    
+    <item>
+      <title>Bem vindo a Xangri-lá – Parte 1</title>
+      <link>http://localhost/jhonny-roger/public/bem-vindo-a-xangrila-parte-1/</link>
+      <pubDate>Thu, 25 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/bem-vindo-a-xangrila-parte-1/</guid>
+      <description>Um dia desses eu estava no meio de muita gente boa em um treinamento em São Paulo – um dos melhores que já fiz – e no meio de uma discussão sobre abordagens de desenvolvimento de aplicações internet crossbrowser e a maravilha que era o HTML5, o Elcio &amp;#8211; ele mesmo &amp;#8211; da Visie disse que Progressive Enhancement e Graceful Degradation eram a &amp;#8220;mesma coisa&amp;#8221;. Eu discordava dele porém não continuei o assunto porque essa questão poderia ser abordada de maneira mais abrangente, e porque o momento era de HTML5, não de como temos que escrever código.</description>
+    </item>
+    
+    <item>
+      <title>Sections: elemento article – Parte 4</title>
+      <link>http://localhost/jhonny-roger/public/section-elemento-article/</link>
+      <pubDate>Mon, 25 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/section-elemento-article/</guid>
+      <description>Você deve marcar a área do conteúdo do seu site com um DIV com um ID do tipo: conteudo, texto, main, content e etc&amp;#8230; Normalmente esta é uma área nobre. O Google e outros sistemas de busca não tem com saberem onde fica o bloco do texto principal do site. Não havia nenhuma indicação dizendo que determinado elemento é se trata do bloco que carrega a informação principal do site.</description>
+    </item>
+    
+    <item>
+      <title>Sections: elemento aside – Parte 3</title>
+      <link>http://localhost/jhonny-roger/public/sections-elemento-aside/</link>
+      <pubDate>Wed, 13 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sections-elemento-aside/</guid>
+      <description>Engana-se se o você acha que o aside serve apenas para fazer &amp;#8220;sidebars&amp;#8221;. Lembre-se de outros blocos para utilizamos para expor algum tipo de informação referente ao assunto principal. Isso acontece muito em livros: dependendo do livro que você estiver lendo, como um livro técnico, ele pode ter caixas de informação durante todo o fluxo de texto do livro. Essas caixas normalmente servem para chamar sua atenção para alguma informação importante ou outras informações que agregarão mais ao conteúdo principal.</description>
+    </item>
+    
+    <item>
+      <title>Sections: elemento nav – Parte 2</title>
+      <link>http://localhost/jhonny-roger/public/sections-elemento-nav/</link>
+      <pubDate>Thu, 30 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sections-elemento-nav/</guid>
+      <description>Se você não leu o primeiro artigo da série, é interessante que o faça agora.
+O elemento nav representa uma seção da página que contém link para outras páginas ou partes do mesmo website. Resumindo: nav é uma seção de links de navegação.
+Essa definição é muito mais complexa do que se imagina. A tag nav pode agrupar uma série de elementos que anteriormente faríamos com div. Nem todos os grupos de links da página precisam ser um elemento nav, mas apenas as seções que consitem em blocos principais.</description>
+    </item>
+    
+    <item>
+      <title>Sections: seções do HTML5 – Parte 1</title>
+      <link>http://localhost/jhonny-roger/public/sections-html5/</link>
+      <pubDate>Thu, 23 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sections-html5/</guid>
+      <description>A estrutura de um site é dividida em diversas seções. Cada seção representa uma fatia do layout e também representa um grupo de conteúdo. Cada um destes grupos tem seu assunto específico. Nas minhas aulas eu costumava apresentar estas seções como seções mestres ou seções principais. Normalmente para descrever em HTML estas seções, usávamos a tag div. O elemento div é um elemento genérico que serve para criar DIVISÕES. Estas divisões não tinham significado semântico nenhum, não levavam nenhum tipo de informação &amp;#8220;extra&amp;#8221;, mas a nível de formatação resolvia nosso problema.</description>
+    </item>
+    
+    <item>
+      <title>Afinal, o que muda com o HTML 5?</title>
+      <link>http://localhost/jhonny-roger/public/afinal-o-que-muda-com-o-html-5/</link>
+      <pubDate>Wed, 15 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/afinal-o-que-muda-com-o-html-5/</guid>
+      <description>Você desenvolvedor web, antenado, com certeza vem acompanhando a evolução, as críticas, as observações, os elogios e, claro, os tutoriais para entender um pouco mais do que efetivamente significa esta versão “5” do HTML.
+Já você desenvolvedor, que limita-se a saber que uma nova versão está a caminho, talvez ainda não tenha tido a chance de conhecer quais serão essas importantes mudanças e o que trarão de novo para as bases do desenvolvimento web.</description>
+    </item>
+    
+    <item>
+      <title>Modelos de conteúdo no HTML5</title>
+      <link>http://localhost/jhonny-roger/public/modelos-de-conteudo-no-html5/</link>
+      <pubDate>Tue, 20 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/modelos-de-conteudo-no-html5/</guid>
+      <description>Este texto faz parte do capítulo 4 da apostila e guia de referência de HTML5.
+Há pequenas regras básicas que nós já conhecemos e que estão no HTML desde o início. Estas regras definem onde os elementos podem ou não estar. Se eles podem ser filhos ou pais de outros elementos e quais os seus comportamentos.
+Dentre todas as categorias de modelos de conteúdo, existem dois tipos de elementos: elementos de linha e de bloco.</description>
+    </item>
+    
+    <item>
+      <title>Apostila sobre HTML5</title>
+      <link>http://localhost/jhonny-roger/public/apostila-sobre-html5/</link>
+      <pubDate>Tue, 13 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/apostila-sobre-html5/</guid>
+      <description>A Visie foi escolhida pelo W3C do Brasil para ministrar um treinamento sobre HTML5 para os seus membros e alguns convidados. Para tanto, construímos uma apostila com todo o conteúdo abordado neste nosso curso. Essa apostila está sendo agora publicada sob Creative Commons aqui no Tableless. Esperamos que ajude a comunidade de desenvolvimento web brasileira.
+Essa apostila ficará em processo de constante atualização já que muitos pontos do HTML5 não foram ainda definidos e também porque diversas outras características estão sendo planejadas e rascunhadas ainda.</description>
+    </item>
+    
+    <item>
+      <title>HTML5 Diff</title>
+      <link>http://localhost/jhonny-roger/public/html5-diff/</link>
+      <pubDate>Tue, 13 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/html5-diff/</guid>
+      <description>O W3C mantém um documento que compara o HTML4 com as novidades do HTML5. São inúmeras mudanças em elementos mais conhecidos e também em outros elementos mais específicos, utilizados em aplicações e sistemas mais complexos. Sugiro que você leia este documento e o guarde como referência.
+O HTML5 ainda é um rascunho. Ele está sendo discutido entre o WHATWG e o W3C. Diversos pontos podem ser modificados ainda, por isso é interessante que você entenda e fique por dentro das discussões para que você atualize seu código quando necessário.</description>
+    </item>
+    
+    <item>
+      <title>HTML 5 – brevíssima introdução</title>
+      <link>http://localhost/jhonny-roger/public/html5-brevissima-introducao/</link>
+      <pubDate>Fri, 29 Jun 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/html5-brevissima-introducao/</guid>
+      <description>Quem já desenvolve para a web, usa e sempre usou HTML para fazer seus projetos. Quem começa a estudar Padrões Web, começa a estudar XHTML também e conseqüentemente começa a desenvolver sites com XHTML em vez de HTML. Isso não é uma coisa ruim, mas como já dissemos, o XHTML ainda não traz nenhuma vantagem imediata. É apenas um meio de se preparar para o futuro dos sonhos do W3C.</description>
+    </item>
+    
+  </channel>
+</rss>

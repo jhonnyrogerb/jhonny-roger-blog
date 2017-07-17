@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Suporte on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/suporte/</link>
+    <description>Recent content in Suporte on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 28 Jun 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/suporte/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Um pouco sobre OpenType</title>
+      <link>http://localhost/jhonny-roger/public/opentype/</link>
+      <pubDate>Sat, 28 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/opentype/</guid>
+      <description>Com tantos elementos que se movem e mudam de uma tela para a outra, uma boa tipografia é uma das únicas coisas que funcionam bem em qualquer dispositivo (exceto os que usam o Opera Mini).
+As palavras possuem significado, mas as letras demonstram emoção. O OpenType é um formato de fontes multiplataforma desenvolvido pela Adobe e Microsoft. Oferece grande profundidade e variedade ao expandir os conjuntos de fontes tradicionais ao acrescentar recursos como ligaduras, ornamentos, glifos alternativos e kerning real.</description>
+    </item>
+    
+  </channel>
+</rss>

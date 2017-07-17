@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rest on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/rest/</link>
+    <description>Recent content in Rest on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 17 Nov 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/rest/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Features que sua API REST precisa ter desde o início</title>
+      <link>http://localhost/jhonny-roger/public/features-que-sua-api-rest-precisa-ter-desde-o-inicio/</link>
+      <pubDate>Thu, 17 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/features-que-sua-api-rest-precisa-ter-desde-o-inicio/</guid>
+      <description>Eu tenho trabalhado com dados suavemente flutuando através do protocolo http por um tempo e agora eu tenho esse sentimento altruísta de que eu posso contribuir com os desenvolvedores mais jovens com algumas histórias sobre os desafios que enfrentei durante a minha jornada.
+Este artigo basicamente tem o objetivo de listar e discutir sobre alguns pontos importantes que sua API, possivelmente, poderia abraçar desde o início do projeto, a fim de acelerar o processo de desenvolvimento para todos em sua equipe.</description>
+    </item>
+    
+    <item>
+      <title>WP Rest API – O futuro do WordPress</title>
+      <link>http://localhost/jhonny-roger/public/rest-json-wp-api-e-o-futuro-do-wordpress/</link>
+      <pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/rest-json-wp-api-e-o-futuro-do-wordpress/</guid>
+      <description>TL;DR O WP-API é a nova aposta do WordPress. Atualmente, funciona como um plugin do WordPress, a ser incorporado em duas etapas no Core, que expõe o conteúdo em uma arquitetura REST dispondo-o em formato JSON, pronto para consumo em outras linguagens/sites/aplicações/aplicativos.
+Índice  Conceito O que o API significa para o WordPress? Se esse é o futuro, do que o WP-API é capaz?  Romper laços com o PHP Fazer uma integração mobile de verdade.</description>
+    </item>
+    
+    <item>
+      <title>O grande desencontro do HTTP com o HTML</title>
+      <link>http://localhost/jhonny-roger/public/o-grande-desencontro-http-com-o-html/</link>
+      <pubDate>Mon, 06 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-grande-desencontro-http-com-o-html/</guid>
+      <description>O texto irá contar a evolução e desencontro de duas tecnologias. O importante aqui é apresentar a você uma série de conceitos e raciocínios ligados à linguagem de marcação e ao protocolo de marcação mais famosos dos nossos tempos. Vê se não banca o curioso, nada de descer até o fim do texto para conhecer o desfecho desta trama.
+Prólogo Hypertext Transfer Protocol (HTTP) O HTTP é um protocolo de comunicação para distribuição de objetos de hipermídia referenciados por uma URL.</description>
+    </item>
+    
+  </channel>
+</rss>

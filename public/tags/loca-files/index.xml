@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Loca Files on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/loca-files/</link>
+    <description>Recent content in Loca Files on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 08 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/loca-files/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>File API – Trabalhando com Arquivos Locais Usando Javascript</title>
+      <link>http://localhost/jhonny-roger/public/file-api-trabalhando-com-arquivos-locais-usando-javascript/</link>
+      <pubDate>Tue, 08 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/file-api-trabalhando-com-arquivos-locais-usando-javascript/</guid>
+      <description>A atividade exercida localmente para a leitura de arquivos fornecidos pelo cliente na web sempre foi a de selecionar o arquivo e enviá-los ao servidor para que este possa, de alguma forma, fazer a leitura e retornar os dados de leitura para o cliente. Esta é a prática usual. Mas o HTML5 veio com suas API para desmistificar o usual.
+A File API desmitifica a prática de enviar um arquivo para o servidor para que ele possa ser lido.</description>
+    </item>
+    
+  </channel>
+</rss>

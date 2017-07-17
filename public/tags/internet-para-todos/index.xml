@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internet Para Todos on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/internet-para-todos/</link>
+    <description>Recent content in Internet Para Todos on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 12 Mar 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/internet-para-todos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CSS e acessibilidade na web</title>
+      <link>http://localhost/jhonny-roger/public/css-e-acessibilidade-na-web/</link>
+      <pubDate>Tue, 12 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css-e-acessibilidade-na-web/</guid>
+      <description>Temos abordado bastante a importância da acessibilidade na web na estrutura e semântica do código HTML: cabeçalhos, tabelas, textos alternativos e outros recursos para deixar o markup robusto e acessível. Mas todos são elementos que podem ser manipulados pelo CSS e por isso devemos ter certos cuidados com a acessibilidade deles.
+Softwares leitores de tela já são capazes de identificar elementos de formatação visual das páginas que não foram declaradas no HTML e sim no CSS, como tipo e cor de fonte por exemplo.</description>
+    </item>
+    
+  </channel>
+</rss>

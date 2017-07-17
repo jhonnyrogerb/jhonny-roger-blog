@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cms on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/categories/cms/</link>
+    <description>Recent content in Cms on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 22 Nov 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/categories/cms/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3 Plugins WordPress para Aumentar Conversões em Sites e Blogs</title>
+      <link>http://localhost/jhonny-roger/public/3-plugins-wordpress-para-aumentar-conversoes-em-sites-e-blogs/</link>
+      <pubDate>Tue, 22 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/3-plugins-wordpress-para-aumentar-conversoes-em-sites-e-blogs/</guid>
+      <description>Aumentar Conversões Para quem possui Negócios na Internet explorar formas de melhorar as conversões pode ser financeiramente bastante interessante.
+Especificamente para quem trabalha com WordPress, isso pode representar mudanças significativas nos resultados do site.
+Alguns exemplos de Sites de Negócios muitas vezes conseguem elevar até 30% do faturamento com apenas estas ações que duram minutos.
+É claro que não é voltado a todo tipo de site, como E-commerce também.</description>
+    </item>
+    
+    <item>
+      <title>Construindo um firewall no WordPress – Parte 2</title>
+      <link>http://localhost/jhonny-roger/public/construindo-um-firewall-no-wordpress-parte-2/</link>
+      <pubDate>Mon, 26 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/construindo-um-firewall-no-wordpress-parte-2/</guid>
+      <description>Neste artigo de hoje iremos dar continuar com a série onde construímos um plugin de controle e monitoramento de acessos no WordPress, para controlarmos e impedirmos tentativas de login, ataques DDOS e outros eventos que possam vir a prejudicar nosso ambiente WordPress.
+Para quem ainda não leu o primeiro artigo comece pela parte 1 onde criamos a base do plugin e uma notificação por e-mail quando tivermos uma tentativa de login fracassada, nessa segunda parte iremos implementar um contador dessas tentativas e junto dele um bloqueio quando atingirmos um limite previamente configurado, para isso utilizaremos as funções: get_transient, set_transient e delete_transient&amp;#8230;</description>
+    </item>
+    
+    <item>
+      <title>Construindo um firewall no WordPress – Parte 1</title>
+      <link>http://localhost/jhonny-roger/public/construindo-um-firewall-no-wordpress-parte-1/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/construindo-um-firewall-no-wordpress-parte-1/</guid>
+      <description>Quem desenvolve para WEB e nunca passou por um ataque DDoS provavelmente não está fazendo o monitoramento de forma correta, principalmente em plataformas que utilizam WordPress, por ser OpenSorce existe uma infinidade de robores navegando pela internet em busca de brechas para obter acesso administrativo.
+Nessa serie de artigos iremos desenvolver um plugin que possa monitorar, identificar e barrar esses acessos e tentativas de invasão, por hoje iremos apenas criar o plugin e implementar uma ação que nos indique por e-mail quando over uma falha de login.</description>
+    </item>
+    
+    <item>
+      <title>Você conhece AMP?</title>
+      <link>http://localhost/jhonny-roger/public/voce-conhece-amp/</link>
+      <pubDate>Wed, 13 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/voce-conhece-amp/</guid>
+      <description>O projeto AMP &amp;#8211; Accelerated Mobile Pages, é uma iniciativa Google em conjunto com alguns publishers como Chartbeat, Vox, WordPress.com, Twitter, The Washington Post, UOL, etc; de trabalhar uma estrutura de rápido carregamento de conteúdos em Smartphones. Afinal, apesar da navegação mobile crescer dia-a-dia as soluções para uma entrega com mais velocidade ainda andam a passos lentos. Nossa conexão de internet em celulares ainda não tem a devida capacidade e nos obriga a, em alguns casos, buscar tamanha versatilidade em nosso desenvolvimento web a ponto de, em um site responsivo, ter que oferecer uma &amp;#8220;cidade completa e bem elaborada&amp;#8221; em sua versão desktop e uma &amp;#8220;ilha&amp;#8221; em sua versão mobile para não correr o risco de prejudicar nosso usuário.</description>
+    </item>
+    
+    <item>
+      <title>Carrinho de orçamento para WordPress</title>
+      <link>http://localhost/jhonny-roger/public/carrinho-de-orcamento-para-wordpress/</link>
+      <pubDate>Mon, 09 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/carrinho-de-orcamento-para-wordpress/</guid>
+      <description>O WordPress agiliza muito o trabalho de qualquer um que queira publicar online um site simples ou complexo e que tenha um painel administrativo decente. A comunidade é bem ampla e a plataforma dá passos firmes a caminho do e-commerce, cada vez mais ganhando espaço até mesmo entre as plataformas fechadas. E se você tem um negócio experimental ou não quer ter custos e nem dor de cabeça com transações bancárias, aqui vai uma dica de como ter um e-commerce com produtos em que o cliente faz o fluxo de orçamento e no final ele envia uma lista dos produtos de seu interesse com os dados para contato, vamos lá então.</description>
+    </item>
+    
+    <item>
+      <title>Alternativa de CMS com Keystone.js</title>
+      <link>http://localhost/jhonny-roger/public/alternativa-de-cms-com-keystone-js/</link>
+      <pubDate>Thu, 14 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/alternativa-de-cms-com-keystone-js/</guid>
+      <description>Este é o primeiro artigo de uma série sobre o Keystone.js, um framework desenvolvido em Node.js para servir de CMS e também Web Application. Pra começarmos, será necessário nesse primeiro artigo um pouco de teoria, pra termos uma noção.
+Aos apressados, o link do repo está disponível no github.
+Pra começar, não vou falar detalhadamente sobre sua descrição, pois no site deles está bem explicado, apenas um resumo sobre, e depois, quando formos iniciar o projeto, ficará mais claro.</description>
+    </item>
+    
+    <item>
+      <title>Gantry 5 – Desenvolvimento de templates para Joomla e WordPress</title>
+      <link>http://localhost/jhonny-roger/public/gantry-5-desenvolvimento-de-templates-para-joomla-e-wordpress/</link>
+      <pubDate>Mon, 17 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/gantry-5-desenvolvimento-de-templates-para-joomla-e-wordpress/</guid>
+      <description>&amp;nbsp;
+Com o surgimento dos Gerenciadores de Conteúdo como o Joomla e WordPress, os desenvolvedores de sites começaram a aproveitar mais o tempo e entregar projetos mais rápido. Quando surgem os frameworks de templates, que se integram aos CMSs para gerenciar e facilitar o desenvolvimento dos layouts das páginas, as coisas ficam mais interessantes. E é justamente nesse ponto que vamos chegar. Farei uma breve abordagem sobre o novo Framework de Template Gantry 5.</description>
+    </item>
+    
+    <item>
+      <title>Utilizando a API do bit.ly para gerar links encurtados para seus posts WordPress</title>
+      <link>http://localhost/jhonny-roger/public/utilizando-api-bit-ly-para-gerar-links-encurtados-para-seus-posts-wordpress/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/utilizando-api-bit-ly-para-gerar-links-encurtados-para-seus-posts-wordpress/</guid>
+      <description>Todo mundo sabe que é fundamental criar links de compartilhamento no seu artigo, só que no Twitter isso se restringe a 140 caracteres, e ao enviar o título do seu artigo, URL e seu usuário no Twitter pode faltar espaço. E para economizar espaço fazemos o quê? Uma das táticas é utilizar links curtos através de serviços como o bit.ly. Como tudo na programação, criamos uma maneira de automatizar nossas ações e para isso vamos ao código!</description>
+    </item>
+    
+    <item>
+      <title>Front-end e WordPress: uma relação de amor e amizade</title>
+      <link>http://localhost/jhonny-roger/public/front-end-e-wordpress-uma-relacao-de-amor-e-amizade/</link>
+      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/front-end-e-wordpress-uma-relacao-de-amor-e-amizade/</guid>
+      <description>É&amp;nbsp;bastante comum o&amp;nbsp;desenvolvedor front-end conseguir trabalho como freelancer e precisar do desenvolvedor back-end para tornar&amp;nbsp;o site dinâmico. O&amp;nbsp;cliente fica&amp;nbsp;feliz,&amp;nbsp;pois de forma rápida, ele consegue criar novas páginas, postagens, atualizando por conta própria o conteúdo. Mas atualmente, o&amp;nbsp;front-end não precisa mais desta dependência:&amp;nbsp;ele pode usar o WordPress.
+Ok, mas o WordPress usa PHP, uma&amp;nbsp;linguagem back-end, correto?
+Sim, mas isto não é impede de tornar a ferramenta facilmente configurável, mesmo que você não entenda de linguagens de programação.</description>
+    </item>
+    
+    <item>
+      <title>Templates Joomla!: o básico e relações com o WordPress</title>
+      <link>http://localhost/jhonny-roger/public/templates-joomla-o-basico-e-relacoes-com-o-wordpress/</link>
+      <pubDate>Mon, 25 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/templates-joomla-o-basico-e-relacoes-com-o-wordpress/</guid>
+      <description>Ao lado do WordPress, o Joomla! é sem dúvida um dos melhores CMS que existem atualmente. Como o amigo Girlan bem já escreveu noutro artigo, o Joomla! tem se superado muito a cada versão&amp;nbsp;e, desta perspectiva, torna-se mais que vantajoso ao desenvolvedor front-end dominar a criação de temas tanto para&amp;nbsp;o WordPress quanto para o Joomla!.
+A boa notícia é que se você já sabe&amp;nbsp;criar temas para o WordPress, você praticamente já&amp;nbsp;sabe criar&amp;nbsp;templates para o Joomla!</description>
+    </item>
+    
+    <item>
+      <title>Introdução ao Magento</title>
+      <link>http://localhost/jhonny-roger/public/introducao-ao-magento/</link>
+      <pubDate>Mon, 02 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-ao-magento/</guid>
+      <description>O que é? O Magento é uma plataforma open source online focada em comércio eletrônico (e-commerce), e possui diversas ferramentas para facilitar a forma e otimizar a atuação de uma loja virtual. Conta com uma série de módulos customizáveis, flexíveis e dinâmicos que podem ser alterados de acordo com a necessidade da loja que o utiliza.O Magento pode suprir a necessidade de diversos tipos de e-commerce, sem apresentar falhas devido ao fluxo de usuários, graças a sua estabilidade e estrutura que pode ser escalada ou alterada se necessário.</description>
+    </item>
+    
+    <item>
+      <title>Desenvolvimento de temas para Tumblr</title>
+      <link>http://localhost/jhonny-roger/public/desenvolvimento-de-temas-para-tumblr/</link>
+      <pubDate>Mon, 21 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/desenvolvimento-de-temas-para-tumblr/</guid>
+      <description>Quando pensamos em sistemas de administração de conteúdo logo lembramos do WordPress, do Joomla ou do Drupal. E de fato estes CMS são super completos para lidar com sites, portais e, com algumas adaptações, até mesmo lojas virtuais. Mas se o que você precisa é um blog o Tumblr pode ser uma alternativa bem interessante. Primeiro por que a interface de adição de conteúdo é super simples e dividida por tipos de conteúdo: textos, imagens, vídeos, links, citações, áudio e diálogos.</description>
+    </item>
+    
+    <item>
+      <title>Include Tags WordPress, conheça alguns truques legais</title>
+      <link>http://localhost/jhonny-roger/public/include-tags-wordpress-conheca-alguns-truques-legais/</link>
+      <pubDate>Fri, 13 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/include-tags-wordpress-conheca-alguns-truques-legais/</guid>
+      <description>Quem já desenvolveu algum tema ou simplesmente deu uma xeretada nos temas que vem na instalação do WordPress, deve ter percebido que em cada um daqueles arquivos há algumas funções que incluem um outro arquivo do tema. Se você já notou isso parabéns: você já conhece as Include Tags, se não, saiba quem são agora mesmo.
+As Include Tags Você já conhece a função include do PHP? Ela é uma função que simplesmente adiciona/importa um outro arquivo dentro do arquivo em que você usou essa função; geralmente usado para adicionar arquivos de configuração para determinado script funcionar corretamente.</description>
+    </item>
+    
+    <item>
+      <title>Porque você deve sua vida a Dave Winer</title>
+      <link>http://localhost/jhonny-roger/public/porque-voce-deve-sua-vida-dave-winer/</link>
+      <pubDate>Wed, 21 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/porque-voce-deve-sua-vida-dave-winer/</guid>
+      <description>Talvez você não saiba, mas sua vida é muito influenciada por Dave Winer. Você deve usar as invenções desse developer norte-americano com mais frequência do que bebe água ou do que vai ao banheiro (se bem que, vai saber).
+Winer criou o primeiro web CMS. O RSS. Os podcasts. Foi um dos desenvolvedores do XML-RPC protocol. Ou seja: esteve e, aos 59 anos, ainda está no centro da web syndication, provavelmente um dos fenômenos tecnológicos mais importantes do século 20.</description>
+    </item>
+    
+    <item>
+      <title>Ghost – A simples e perfeita plataforma para publicações</title>
+      <link>http://localhost/jhonny-roger/public/ghost-simples-e-perfeita-plataforma-para-publicacoes/</link>
+      <pubDate>Thu, 20 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ghost-simples-e-perfeita-plataforma-para-publicacoes/</guid>
+      <description>Descobrir novas plataformas é um barato pra mim. Estar envolvido no que aparece de novo na internet é algo simplesmente prazeroso. Ideias de outras pessoas me impressionam, até quando parece ser algo tão simples, mas, por ser tão simples, é que é especial.
+Caros amigos e amigas, venho lhes apresentar a nova (não tão nova assim) plataforma para blogging/publicações na web: Ghost.
+Ghost, simplificando o que há de complicado.</description>
+    </item>
+    
+    <item>
+      <title>Vamos falar de Joomla!?</title>
+      <link>http://localhost/jhonny-roger/public/vamos-falar-de-joomla/</link>
+      <pubDate>Fri, 14 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/vamos-falar-de-joomla/</guid>
+      <description>Vamos falar um pouco de Joomla? Não é um assunto muito comum aqui no Tableless, mas estamos querendo mudar isso.
+Joomla é conhecido por ter uma interface complicada e bem, digamos, feia. Ele tem mudado bastante e nas novas versões as melhoras são bem visíveis. No início tudo era mais complicado. Eu não chego a ser um dinossauro do Joomla, porém posso contar um pouco da história dele.
+O Joomla surgiu da separação entre a equipe de desenvolvedores do Mambo e a empresa Miro.</description>
+    </item>
+    
+  </channel>
+</rss>

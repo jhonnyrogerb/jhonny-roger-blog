@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pablo Silva on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/pablo-silva/</link>
+    <description>Recent content in Pablo Silva on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 19 Sep 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/pablo-silva/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Menos é mais com Android Annotations</title>
+      <link>http://localhost/jhonny-roger/public/menos-e-mais-com-android-annotations/</link>
+      <pubDate>Mon, 19 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/menos-e-mais-com-android-annotations/</guid>
+      <description>De todo o trabalho que você tem ao programar uma aplicação android, uma grande parte dele é por conta de todo o código boilerplate que sempre temos que fazer. Uma das coisas que mais me incomoda é que todos os recursos (views e afins) precisam ser referenciados para poderem ser acessados e isso, dependendo da quantidade de recursos que você precisa ter na aplicação, pode resultar em muitas e muitas linhas de código.</description>
+    </item>
+    
+  </channel>
+</rss>

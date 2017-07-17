@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pattern on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/pattern/</link>
+    <description>Recent content in Pattern on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 19 Sep 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/pattern/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Design Patterns em JavaScript – Observer</title>
+      <link>http://localhost/jhonny-roger/public/design-patterns-em-javascript-observer/</link>
+      <pubDate>Fri, 19 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/design-patterns-em-javascript-observer/</guid>
+      <description>O que é Design Patterns? Desenvolver um software é se deparar constantemente com problemas. Esses problemas surgem em diversas situações e em grande quantidade. Em termos simples: nos deparamos várias vezes com um mesmo problema em diversas situações em momentos diferentes no mesmo projeto.
+Se os problemas são sempre os mesmos as soluções se repetem. Mas é muito comum darmos as mesmos soluções aos mesmos problemas de formas diferentes; isto porque não padronizamos soluções para problemas que sempre estamos resolvendo.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bugs on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/bugs/</link>
+    <description>Recent content in Bugs on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 08 Jun 2003 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/bugs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quer estudar CSS?</title>
+      <link>http://localhost/jhonny-roger/public/quer_estudar/</link>
+      <pubDate>Sun, 08 Jun 2003 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/quer_estudar/</guid>
+      <description>É em inglês, mas mesmo assim dá para aprender um bocado.
+Ótimos exemplos de layouts em css, bugs de browsers, dicas de sites, etc&amp;#8230; vale muito a pena ler os source (código fonte), e aprender um pouco sobre o que dá para fazer com CSS.
+http://www.positioniseverything.net/</description>
+    </item>
+    
+    <item>
+      <title>Bugs de Browsers</title>
+      <link>http://localhost/jhonny-roger/public/bugs_de_browsers/</link>
+      <pubDate>Thu, 30 Jan 2003 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/bugs_de_browsers/</guid>
+      <description>Ter conhecimento dos bugs de renderização dos browsers é sempre bom para se fazer um site TABLELESS. O site CSSPG &amp;#8211; CSS Pointer Group é um bom site sobre CSS, onde uma das seções é o Browsers Bugs, apesar de ter informações de apenas alguns browsers, dá para fazer um bom proveito.</description>
+    </item>
+    
+  </channel>
+</rss>

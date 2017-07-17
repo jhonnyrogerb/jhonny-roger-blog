@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pa on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/pa/</link>
+    <description>Recent content in Pa on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 28 Aug 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/pa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Como aumentar a autoridade de um site ou blog através de links quebrados</title>
+      <link>http://localhost/jhonny-roger/public/como-aumentar-autoridade-de-um-site-ou-blog-atraves-de-links-quebrados/</link>
+      <pubDate>Sun, 28 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/como-aumentar-autoridade-de-um-site-ou-blog-atraves-de-links-quebrados/</guid>
+      <description>Aumentar Autoridade do um site  &amp;nbsp;
+Aumentar Autoridade de um site ou blog é algo que pode fazer com que seus resultados cresçam bastante nas buscas do Google.
+Existem diversas empresas no mercado especializadas em SEO, que oferecem ferramentas e métricas que visam mensurar a autoridade de sites e páginas.
+A mais conhecida de todas é o Moz, que possui as métricas DA (Domain Autorithy) e PA (Page Autorithy).</description>
+    </item>
+    
+  </channel>
+</rss>

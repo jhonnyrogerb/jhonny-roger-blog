@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ux Design on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/ux-design/</link>
+    <description>Recent content in Ux Design on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 02 Oct 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/ux-design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Arte da Sedução dos Produtos</title>
+      <link>http://localhost/jhonny-roger/public/arte-da-seducao-dos-produtos/</link>
+      <pubDate>Fri, 02 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/arte-da-seducao-dos-produtos/</guid>
+      <description>Você já reparou, que quando estamos em um grande grupo, acabamos sendo influênciados pela maioria? Mas você deve estar pensando: &amp;#8220;Eu não sou assim. Gosto de ser diferente&amp;#8221;. Será mesmo?
+Para explicar melhor e de forma simples, vou usar o mesmo metodo usado pela psicóloga Susan M. Weinschenk em seu livro Neuro Web Design: What Makes Them Click?. Nele ela divide o cérebro em três partes: Cérebro Antigo, Cérebro do Meio e Cérebro Novo.</description>
+    </item>
+    
+    <item>
+      <title>Precisamos confirmar a senha?</title>
+      <link>http://localhost/jhonny-roger/public/precisamos-confirmar-senha/</link>
+      <pubDate>Fri, 02 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/precisamos-confirmar-senha/</guid>
+      <description>Você deve me entender: formulários são muito chatos. Tanto para desenhá-los quanto para produzir código front-end. Mas cada vez que desenho um formulário, eu tento simplificar ao máximo. A inclusão ou a exclusão de um campo pode afetar a taxa de conversão ou causar um desinteresse do usuário ao produto. Mas um dos campos que sempre me deixa com a pulga atrás da orelha é o de “cadastramento de senha”.</description>
+    </item>
+    
+    <item>
+      <title>UX: uma Responsabilidade de Todos</title>
+      <link>http://localhost/jhonny-roger/public/ux-uma-responsabilidade-de-todos/</link>
+      <pubDate>Sat, 14 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ux-uma-responsabilidade-de-todos/</guid>
+      <description>Muitos profissionais buscam aprender e a praticar os conceitos pregados pela turma de UX. Mas afinal, estes conceitos são responsabilidade apenas dos profissionais de UX?
+ UX não é só coisa dos arquivos de informação. UX é a base de tudo.
+ Desde o início a web foi desenvolvida e focada nos usuários. Sites de empresas, produtos e serviços, nunca foram feitos para programadores ou desenvolvedores, mas sim, para usuários.</description>
+    </item>
+    
+  </channel>
+</rss>

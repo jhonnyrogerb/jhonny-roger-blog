@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harryson Guimarães on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/harryson-guimar%C3%A3es/</link>
+    <description>Recent content in Harryson Guimarães on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 03 Aug 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/harryson-guimar%C3%A3es/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Acelere o desenvolvimento front-end com Jade</title>
+      <link>http://localhost/jhonny-roger/public/acelere-o-desenvolvimento-front-end-com-jade/</link>
+      <pubDate>Mon, 03 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/acelere-o-desenvolvimento-front-end-com-jade/</guid>
+      <description>Certos elementos em nossos sites sempre se repetem, como o menu, o cabeçalho e o rodapé. Replicar o código desses elementos em cada página é uma péssima ideia. Imagine ter um site com mais de 100 páginas HTML e para cada uma, ter que codificar o mesmo menu, o mesmo cabeçalho e o mesmo rodapé. Além de ser algo extremamente trabalhoso, dar manutenção em um código desses é uma tarefa complicada.</description>
+    </item>
+    
+  </channel>
+</rss>

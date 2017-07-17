@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jwt on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/jwt/</link>
+    <description>Recent content in Jwt on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 19 Oct 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/jwt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>API para Autenticar usuários com JWT e Passport</title>
+      <link>http://localhost/jhonny-roger/public/autenticar-usuarios-com-jwt-e-passport/</link>
+      <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/autenticar-usuarios-com-jwt-e-passport/</guid>
+      <description>Neste artigo nós vamos explorar os principais conceitos e implementações da autenticação de usuário utilizando o mecanismo chamado JWT (JSON Web Token) por meio de um módulo Passport. Afinal, este é um importante passo para se certificar de que os usuários façam uma autenticação segura dentro de uma API baseada em REST.
+Antes de começarmos, vamos criar uma simples API em REST, que será utilizada ao longo deste post. Para simplificar nosso exemplo, nós vamos criar uma Express API.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keygen on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/keygen/</link>
+    <description>Recent content in Keygen on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 13 Apr 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/keygen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Keygen: Certificando suas paginas com HTML</title>
+      <link>http://localhost/jhonny-roger/public/keygen-certificando-suas-paginas-com-html/</link>
+      <pubDate>Wed, 13 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/keygen-certificando-suas-paginas-com-html/</guid>
+      <description>Com a convergência tudo está indo para a web. Tudo. Por enquanto a grande maioria das apps e paginas estão abertas, mas a medida que o tempo passa, a web também evolui. Em um ambiente completamente social, aonde a relevância do conteúdo não está mais nas mãos de quem anuncia, mas sim na dos leitores, conteúdo cada vez mais segmentado vai surgir. E inevitavelmente, cada vez mais precisaremos de certificados.</description>
+    </item>
+    
+  </channel>
+</rss>

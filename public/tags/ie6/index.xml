@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ie6 on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/ie6/</link>
+    <description>Recent content in Ie6 on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 06 Mar 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/ie6/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The IE6 Countdown – O ultimato da Microsoft</title>
+      <link>http://localhost/jhonny-roger/public/the-ie6-countdown-ultimato-microsoft/</link>
+      <pubDate>Sun, 06 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/the-ie6-countdown-ultimato-microsoft/</guid>
+      <description>A Microsoft acaba de publicar um website chamado IE6 Countdown, onde ela incentiva a descontinuação do Internet Explorer 6. Esqueça qualquer campanha iniciada por qualquer um&amp;#8230; Essa campanha é definitiva e iniciada pela própria Microsoft. Claro, a Microsoft está fazendo com que os usuários migrem do IE6 para o IE8. Ela não indica nenhum outro browser concorrente. Mas realmente isso não importa&amp;#8230; O que importa é que os usuários ouçam a voz da Microsoft e parem, defintivamente de utilizar o Internet Explorer.</description>
+    </item>
+    
+    <item>
+      <title>Google Apps não suportará mais IE6</title>
+      <link>http://localhost/jhonny-roger/public/google-apps-nao-suportara-mais-ie6/</link>
+      <pubDate>Tue, 02 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/google-apps-nao-suportara-mais-ie6/</guid>
+      <description>Recebi hoje um email do Google explicando que em 2010 eles irão deixar de suportar o IE6. Vitória!
+Contar com o IE6 na cartilha de suporte é subutilizar o HTML5 e JavaScript. Aqui mesmo na Visie, temos projetos que o HTML5 e CSS3 seriam a resposta, mas ainda não podemos utilizar por causa do IE6, IE7 e em alguns casos o IE8.
+Deixar de suportar o IE6 é questão de sobrevivência.</description>
+    </item>
+    
+    <item>
+      <title>Aonde nos leva a morte do Internet Explorer 6?</title>
+      <link>http://localhost/jhonny-roger/public/aonde-nos-leva-a-morte-do-internet-explorer-6/</link>
+      <pubDate>Fri, 17 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/aonde-nos-leva-a-morte-do-internet-explorer-6/</guid>
+      <description>Semana passada foi o Digg, essa semana o YouTube. E a comunidade de desenvolvedores os segue fazendo barulho, anunciando que vai fazer o mesmo. Nós estamos fazendo nossa parte na Visie, eliminando a preocupação com o IE6 de nossos sites e convencendo nossos clientes a fazê-lo também. Já vai tarde.
+Mas não é tempo de comemorar, ainda há muito trabalho a fazer. Há oito anos o Zeldman publicou seu célebre artigo To Hell With Bad Browsers, em que nos explicava porque devíamos abandonar o suporte aos navegadores 4.</description>
+    </item>
+    
+    <item>
+      <title>A internet tem que avançar sem o IE6</title>
+      <link>http://localhost/jhonny-roger/public/a-internet-tem-que-avancar-sem-o-ie6/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/a-internet-tem-que-avancar-sem-o-ie6/</guid>
+      <description>&lt;p&gt;Podemos dizer que existem três braços importantes nessa máquina que é o desenvolvimento web: W3C, browsers e desenvolvedores.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>IE6 no Mac… (eu sei, é pecado)</title>
+      <link>http://localhost/jhonny-roger/public/ie6-no-mac-eu-sei-e-pecado/</link>
+      <pubDate>Thu, 24 May 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ie6-no-mac-eu-sei-e-pecado/</guid>
+      <description>Eu usava este programa no Linux um tempão atrás&amp;#8230; Funcionava até que bem. Ele tem uma versão pra Mac. Para instalar o IE6 fácil: só selecionei o IE na lista de programas suportados que o CrossOver fornece, cliquei em install, ele baixou alguns pacotes, emulou o reboot do Windows (!) e pronto, o IE estava funcionando. Uma boa maneira de testar os sites de agora em diante. Tá aí a dica&amp;#8230;</description>
+    </item>
+    
+  </channel>
+</rss>

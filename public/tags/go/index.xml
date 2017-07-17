@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Go on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/go/</link>
+    <description>Recent content in Go on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 28 Jun 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Por que utilizar Go/Golang no seu backend?</title>
+      <link>http://localhost/jhonny-roger/public/por-que-utilizar-gogolang-no-seu-backend/</link>
+      <pubDate>Tue, 28 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/por-que-utilizar-gogolang-no-seu-backend/</guid>
+      <description>O tempo passa e quando você é viciado no que faz, no meu caso, codar, a busca por se aprimorar ou descobrir novas maneiras de resolver os problemas da sua área nunca param, assim sendo, um belo dia, cheguei até o Go e desde então não parei mais de aprender sobre a linguagem. A ideia é a cada semana fazer um post sobre, iniciando agora com uma simples introdução e sugestões de artigos para se animar.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com o Docker: Criando suas próprias imagens</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-o-docker-criando-suas-proprias-imagens/</link>
+      <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-o-docker-criando-suas-proprias-imagens/</guid>
+      <description>No artigo anterior, eu descrevi alguns comandos básicos e como iniciar com o pé direito no mundo do Docker, trazendo de forma direta alguns conceitos que com o passar do tempo se tornaram fundamentais no meu fluxo de desenvolvimento.
+Hoje eu quero partir um pouco mais para o lado prático da coisa, vamos construir uma imagem para encapsular uma pequena aplicação em GO.
+Primeiros passos O arquivo de manifesto do Docker é o Dockerfile, nele você coloca as instruções de como você quer que sua imagem seja construída.</description>
+    </item>
+    
+  </channel>
+</rss>

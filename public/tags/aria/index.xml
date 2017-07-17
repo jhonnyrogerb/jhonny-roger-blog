@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aria on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/aria/</link>
+    <description>Recent content in Aria on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 14 Apr 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/aria/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Documentos acessíveis com WAI-ARIA em HTML5</title>
+      <link>http://localhost/jhonny-roger/public/documentos-acessiveis-com-aria-em-html5/</link>
+      <pubDate>Thu, 14 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/documentos-acessiveis-com-aria-em-html5/</guid>
+      <description>A reestruturação do HTML para sua versão 5 propõem elementos mais semânticos. Porém, as novas tags do HTML5 não são suficientes para permitir que os documentos sejam corretamente acessíveis a softwares leitores de tela.
+O comportamento dos novos elementos ainda não é reconhecido por estes programas e o conteúdo da página pode não ser interpretado de forma correta. Em alguns testes que fiz com o conhecido leitor de telas JAWS, ele para de interpretar o conteúdo da página logo após o título.</description>
+    </item>
+    
+  </channel>
+</rss>

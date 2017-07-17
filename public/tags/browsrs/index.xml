@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Browsrs on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/browsrs/</link>
+    <description>Recent content in Browsrs on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 28 Jan 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/browsrs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Performance front-end – Parte 2</title>
+      <link>http://localhost/jhonny-roger/public/performance-frontend-parte2/</link>
+      <pubDate>Mon, 28 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/performance-frontend-parte2/</guid>
+      <description>Se você ainda não leu a primeira parte desse assunto, veja aqui: Performance front-end &amp;#8211; Parte 1.
+Os browsers ajudam em muitos sentidos otimizando o carregamento de assets e a renderização da página, mesmo assim é necessário fazer algumas tarefas para que sua aplicação/website carregue mais rápido.
+Quando colocamos a performance como uma tarefa durante o desenvolvimento, determinamos o aumento ou a diminuição da conversão e da quantidade de pageviews.</description>
+    </item>
+    
+  </channel>
+</rss>

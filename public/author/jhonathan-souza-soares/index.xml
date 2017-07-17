@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jhonathan Souza Soares on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/jhonathan-souza-soares/</link>
+    <description>Recent content in Jhonathan Souza Soares on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 15 May 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/jhonathan-souza-soares/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Criando listras com CSS3</title>
+      <link>http://localhost/jhonny-roger/public/criando-listras-com-css3/</link>
+      <pubDate>Thu, 15 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-listras-com-css3/</guid>
+      <description>Cada vez mais, com o passar do tempo as ferramentas CSS3 aos poucos vem ganhando seu devido destaque. Com a constante atualização dos navegadores, a morte declarada do Windows XP, e novos dispositivos a cada dia, podemos finalmente colocar em projetos reais as funcionalidades, pelo menos algumas do CSS3.
+Anteriormente sempre que queríamos algo assim, era necessário a utilização de imagens, texturas ou dependendo do caso nem era possível. Agora com a criação de listras em CSS você poderá fazer de maneira fácil, simples e melhorar o desempenho do carregamento do seu código no browser.</description>
+    </item>
+    
+    <item>
+      <title>Fazendo uma faxina no seu CSS</title>
+      <link>http://localhost/jhonny-roger/public/fazendo-uma-faxina-seu-css/</link>
+      <pubDate>Thu, 15 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/fazendo-uma-faxina-seu-css/</guid>
+      <description>Sempre podemos discutir sobre como escrevemos CSS e também quais são as melhores práticas. Geralmente artigos sobre CSS agradam qualquer desenvolvedor independente da linguagem utilizada, já que é uma leitura fácil e o código costuma ser bem simples.
+A Origem de tudo Já foi falado aqui no Tableless várias vezes sobre performance e velocidade de páginas. Um deles você encontra aqui no artigo que fala sobre a performance do seu CSS</description>
+    </item>
+    
+  </channel>
+</rss>

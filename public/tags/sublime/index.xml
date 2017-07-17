@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sublime on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/sublime/</link>
+    <description>Recent content in Sublime on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 20 Jan 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/sublime/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Plugins de GIT para Sublime e Brackets</title>
+      <link>http://localhost/jhonny-roger/public/plugins-de-git-para-sublime-e-brackets/</link>
+      <pubDate>Tue, 20 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/plugins-de-git-para-sublime-e-brackets/</guid>
+      <description>Além do browser, outras duas ferramentas que os desenvolvedores usam todo o santo dia quase que todo o tempo é o seu editor de código e também o GIT. Aqui vão algumas indicações de plugins para Sublime e Brackets que ajudarão na integração do GIT com estes dois editores.
+Git no Sublime Se você tiver o Package Control instalado no Sublime, é uma boa ideia instalar estes plugins direto por lá.</description>
+    </item>
+    
+    <item>
+      <title>7 Plugins do sublime text que você deveria conhecer</title>
+      <link>http://localhost/jhonny-roger/public/7-plugins-sublime-text-que-voce-deveria-conhecer/</link>
+      <pubDate>Tue, 26 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/7-plugins-sublime-text-que-voce-deveria-conhecer/</guid>
+      <description>O Package Control Antes de tentar instalar qualquer pacote e começar a brincadeira, é importante que você já tenha instalado em seu Sublime o “package control&amp;#8221; de acordo com sua versão: Sublime Text 2 ou Sublime Text 3.
+O Package Control é um plugin para Sublime que vai gerenciar todos os outros plugins. Com ele você vai instalar, desinstalar e configurar todos os plugins do seu Sublime.
+Saiba mais aqui!</description>
+    </item>
+    
+    <item>
+      <title>Atom: o novo editor by Github</title>
+      <link>http://localhost/jhonny-roger/public/atom-o-novo-editor-github/</link>
+      <pubDate>Thu, 27 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/atom-o-novo-editor-github/</guid>
+      <description>É quase impossível não comparar o Atom com o Sublime. O Sublime cravou um padrão com seus shortcuts, sua interface e sua coleção de comandos que é muito difícil ignorar. O Atom tem a cara do Sublime. Diferente do Brackets, que é bem diferente tanto na interface quanto nos shortcuts. Estou usando o Brackets para algumas coisas e estou gostando bastante. Mas a curva de aprendizado, quando acostumado com o Sublime, é muito grande.</description>
+    </item>
+    
+    <item>
+      <title>Dicas e truques de Sublime Text</title>
+      <link>http://localhost/jhonny-roger/public/dicas-truques-sublime-text/</link>
+      <pubDate>Tue, 04 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/dicas-truques-sublime-text/</guid>
+      <description>Sublime Text tem sido o meu editor predileto da vez. Ele é simples, limpo, leve e muito, mas muito customizável. Como um bocado de gente tem me pedido dicas resolvi fazer esse post, curtinho, com dicas básicas de Sublime.
+Suas preferências Uma das primeiras coisas que você precisa saber é que o Sublime guarda suas preferências em um arquivo em formato JSon, por isso é bem fácil de entender.</description>
+    </item>
+    
+    <item>
+      <title>Sublime Text 2 – Meu novo editor</title>
+      <link>http://localhost/jhonny-roger/public/sublime-text-2-meu-novo-editor/</link>
+      <pubDate>Mon, 16 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sublime-text-2-meu-novo-editor/</guid>
+      <description>Durante muito tempo eu fui apaixonado pelo Coda e pelo Textmate. Eu os utilizava praticamente todos os dias. O Coda tem um find/replace sensacional que funciona muito bem. O Textmate é ligeiro para a criação de snippets e outras tarefinhas automatizadas. Acontece que eu conheci o Sublime Text pelo Márcio Trindade, que trabalha comigo e então eu me apaixonei. Não pelo Márcio, mas pelo Sublime (falá-se sublaime). 😉
+Sem frescura O que eu amava quando no Editplus do Windows era a interface limpa.</description>
+    </item>
+    
+  </channel>
+</rss>

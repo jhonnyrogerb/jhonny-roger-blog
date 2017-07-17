@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Em on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/em/</link>
+    <description>Recent content in Em on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 11 Dec 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/em/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Semântica, padrões e o que você tem a ver com isto</title>
+      <link>http://localhost/jhonny-roger/public/semantica-padroes-e-o-que-voce-tem-a-ver-com-isto/</link>
+      <pubDate>Wed, 11 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/semantica-padroes-e-o-que-voce-tem-a-ver-com-isto/</guid>
+      <description>O HTML é uma linguagem simples de aprender, mas muito difícil de dominar. Segundo a documentação da W3C existem atualmente 107 elementos de HTML5. Muitos deles ainda causam certa confusão entre os desenvolvedores ou por possuírem funções muito parecidas, comportamentos visuais praticamente idênticos ou ainda por serem simplesmente desconhecidos pela comunidade. Alguns elementos ainda são chamados de &amp;#8220;mais semânticos&amp;#8221; que outros. Mas o que isto quer dizer afinal?
+No post de hoje vamos fazer uma breve comparação entre alguns destes elementos para que você tenha sempre a carta certa na manga na hora certa e possa atribuir significado de maneira efetiva.</description>
+    </item>
+    
+    <item>
+      <title>Qual unidade utilizar – Pixel, EM ou REM</title>
+      <link>http://localhost/jhonny-roger/public/unidade-pixels-em-rem/</link>
+      <pubDate>Mon, 03 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/unidade-pixels-em-rem/</guid>
+      <description>Aqui no Brasil é muito comum usarmos pixels para definição de tamanho de textos. Lá fora a galera gosta muito de usar EM. Mas qual a diferença? Por que usar um ou outro?
+Pixels Unidade em pixels é mais velho que andar para trás. Você utiliza pixels para definir a largura de um elemento, o tamanho do texto, a espessura da borda e outras coisas.
+Os pixels são utilizados para definir o tamanho dos textos por que é a medida mais exata que você pode encontrar.</description>
+    </item>
+    
+  </channel>
+</rss>

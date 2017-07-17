@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Event Delegation on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/event-delegation/</link>
+    <description>Recent content in Event Delegation on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 02 Feb 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/event-delegation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Entendendo o Event Delegation da função on() no jQuery</title>
+      <link>http://localhost/jhonny-roger/public/entendendo-o-event-delegation-jquery/</link>
+      <pubDate>Mon, 02 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/entendendo-o-event-delegation-jquery/</guid>
+      <description>Geralmente uma &amp;#8220;delegação&amp;#8221;, que seria a uma tradução livre para delegation, significa definir um evento para um elemento pai, que será disparado para todos os seus filhos. O evento vai funcionar para qualquer elemento filho que já existir e também para os que forem adicionados posteriormente na árvore do DOM.
+Para exemplificar, entenda o código abaixo. Ele apenas muda o texto do parágrafo quando clicamos em alguma opção do menu. É um uso simples da função on(&#39;click&#39;) do jQuery:</description>
+    </item>
+    
+  </channel>
+</rss>

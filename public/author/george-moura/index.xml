@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>George Moura on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/george-moura/</link>
+    <description>Recent content in George Moura on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Jun 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/george-moura/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PHP Slim Framework</title>
+      <link>http://localhost/jhonny-roger/public/php-slim-framework/</link>
+      <pubDate>Wed, 04 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/php-slim-framework/</guid>
+      <description>O Slim Framework é um microframework PHP que facilita sua vida na hora de fazer pequenas APIs.
+Vou falar sobre um problema que tive em um projeto em uma empresa que trabalho. Lá eu codifico com diferentes linguagens de programação em pequenos sistemas. Esses sistemas precisam ser acessados por 3 filiais e os usuários se logam com o mesmo login usado no E.R.P. que eles utilizam.
+Para simplificar meu trabalho resolvi criar uma API simples para autenticar os usuários.</description>
+    </item>
+    
+    <item>
+      <title>Debug Remoto com Chrome no Android</title>
+      <link>http://localhost/jhonny-roger/public/debug-remoto-com-chrome-android/</link>
+      <pubDate>Sat, 22 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/debug-remoto-com-chrome-android/</guid>
+      <description>Vasculhando a web me deparei com uma coisa muito interessante: a Google criou uma forma de nós, desenvolvedores, usarmos nossas máquinas e o Google Chrome DevTools para inspecionar, debugar e analizar páginas em nossos dispositivos móveis.
+Como isso funciona? O &amp;#8220;RemoteDebugging&amp;#8221; ocorre pela porta USB, a partir do momento que você conecta seu celular no computador, você pode inspecionar páginas html, css, javascript, rodar scripts no console, visualizar o comportamento de uma página nem precisar realizar deploy, testar web apps, outra coisa interessante é que você pode até inspecionar Webviews.</description>
+    </item>
+    
+    <item>
+      <title>Deletando registros duplicados no banco de dados</title>
+      <link>http://localhost/jhonny-roger/public/deletando-registros-duplicados-banco-de-dados/</link>
+      <pubDate>Thu, 09 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/deletando-registros-duplicados-banco-de-dados/</guid>
+      <description>Precisei fazer a migração de dados de algumas tabelas de cadastro (telefones, hobbies, interesses, formações e etc.) para uma única tabela diferenciando-os pelo id do usuário e o id do campo. O problema é que meu script acabou duplicando as informações. Para a minha sorte isso aconteceu em um banco de desenvolvimento, onde era possível apagar os dados da tabela, ajustar os scripts e refazer a migração. Eu não queria ter esse trabalho novamente e logo resolvi pesquisar um script sql que me ajudasse a apagar os registros duplicados, nesse caso deixando apenas o último registro gravado.</description>
+    </item>
+    
+  </channel>
+</rss>

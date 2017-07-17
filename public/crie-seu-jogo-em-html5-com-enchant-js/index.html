@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245844">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>Mantido na UEI (Ubiquitous Entertainment, Inc), por membros do Centro de Pesquisa de Akihabara, o <em>framework</em> japonês chamado <strong><a href="http://enchantjs.com/pt-br/" target="_blank">enchant.js</a></strong>, permite criar com poucas linhas de código um jogo simples em HTML5.</p>
+
+<p>Com <strong>enchant.js</strong>, você pode criar desde simples jogos 2D até avançados jogos em três dimensões, graças ao suporte WebGL usado como plugin.</p>
+
+<p>Os elementos criados em um bloco do enchant.js são renderizado através do DOM e do Canvas, além de rodar nas plataformas mais conhecidas. Os eventos são voltados para <em>mobile</em>, como o <strong>Event.TOUCH_MOVE</strong>, disparado quando o usuário toca na tela e a segura. O enchant.js ainda possui uma <a href="http://code.9leap.net/" target="_blank">plataforma</a> com bibliotecas e jogos prontos para serem usados quando quiser.</p>
+
+<h2 id="sprites"><em>Sprites</em></h2>
+
+<p>O enchant.js trabalha com <em>sprites</em> para renderizar objetos na tela. Esse recurso tem várias utilidades, como criar um personagem ou mesmo um ambiente. O <em>sprite</em> permite além de renderizar um objeto no DOM ou no Canvas, criar animações com frames a partir de uma imagem <em>sprite</em>. Cada quadro é definido como um índice em um <em>array</em>, iniciado com zero, e com limite máximo da quantidade de imagens. Exemplo:</p>
+
+<pre>var Person = new Sprite(64, 64);
+Person.image = game.assets['images/Person.png'];
+Person.frame = [0, 1, 4, 5, 1]; // linha importante</pre>
+
+<p>Isto fará que a imagem passe entre estes sprites em um intervalo de tempo determinado pela propriedade <strong>fps</strong> do objeto <strong>Core</strong> (versões mais recentes), e <strong>Game</strong> (versões anteriores).</p>
+
+<h2 id="o-código">O código</h2>
+
+<p>Vamos criar um personagem movendo-se em um ambiente usando <em>sprite</em>.</p>
+
+<h3 id="html"><strong>HTML:</strong></h3>
+
+<pre>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+
+ &lt;head&gt;
+ &lt;script src="enchant.js"&gt;&lt;/script&gt;
+ &lt;script src="script.js"&gt;&lt;/script&gt;
+ &lt;/head&gt;
+
+ &lt;body&gt;&lt;/body&gt;
+
+&lt;/html&gt;</pre>
+
+<h3 id="javascript"><strong>JavaScript</strong>:</h3>
+
+<pre>(function() {
+   function initialize() {
+     enchant();
+     var game = new Core(640, 480);
+     var gohan = "http://tinyurl.com/p2z8qlt";
+     var fundo = "http://tinyurl.com/nc39d4y";
+     game.preload(gohan, fundo);
+     game.fps = 16; // seta o fps. Quanto maior, mais lento
+ 
+     game.onload = function() {
+       // cria fundo
+       var background = new Sprite(1024, 698);
+       background.image = game.assets[fundo];
+      game.rootScene.addChild(background);
+ 
+      // cria player
+     var player = new Sprite(63, 97);
+     player.image = game.assets[gohan];
+     player.frame = [0, 1];
+     player.x = (game.width/2)-(player.width/2); // centraliza no eixo X
+     player.y = 250;
+    player.tl.scaleTo(1.5, 1.5, 50);
+    game.rootScene.addChild(player);
+ 
+    // executa o tempo todo enquanto o player existir
+    player.onenterframe = function() {
+      if (this.age &gt;= 50) this.frame = [2, 3, 4];
+      if (this.age % 10 == 0) 
+        this.tl.moveBy(50,0,10).moveBy(-50,0,10).loop();
+     }
+   }
+   game.start(); // inicia o jogo
+ }
+  window.addEventListener('load', initialize, false);
+}).apply(this);
+</pre>
+
+<p><strong><a href="http://plnkr.co/edit/dCxps2" target="_blank">Veja o exemplo no Plunker</a></strong>.</p>
+
+<p>Primeiro chamamos o enchant.js na linha <strong>3</strong>. Na linha <strong>4</strong> criamos uma variável para guardar o objeto principal do jogo. Na linha <strong>7</strong>, dizemos ao enchant.js o que precisamos carregar antes de iniciar o jogo. Na linha <strong>8</strong> setamos os <em>frames per second</em> do jogo (esta propriedade existe em todos os objetos do enchant.js). Na linha <strong>10</strong> definimos o que acontece quando o enchant.js terminar de carregar os <em>assets</em>. Na linha <strong>12</strong> criamos um novo sprite com largura e altura passadas como argumento. Na linha <strong>13</strong>, atribuímos a imagem de fundo, que já foi carregada à propriedade <em>image</em> do <em>sprite background</em>. Na linha <strong>14</strong>, adicionamos esse fundo à cena principal (game.rootScene). Na linha <strong>19</strong>, criamos uma animação passando as imagens 0 e 1 do sprite. Na linha <strong>22</strong>, há o efeito de escala, como no CSS <em>(transform: scale(x, y))</em>, mas com a diferença do terceiro argumento que define o tempo (quanto maior, mais demorado). Na linha <strong>29</strong>, obtêm-se o efeito de mover em uma determinada direção em X e Y, definindo como terceiro argumento um tempo. O <em>loop()</em> serve para repetir infinitamente a ação atual.</p>
+
+<h2 id="adicionando-um-novo-personagem">Adicionando um novo personagem</h2>
+
+<p>Que tal deixar nosso jogo mais emocionante e adicionar um inimigo para combater nosso protagonista?</p>
+
+<pre>(function() {
+   function initialize() {
+   enchant();
+
+   var game = new Core(640, 480)
+   , gohan = "http://tinyurl.com/p2z8qlt"
+   , fundo = "http://tinyurl.com/nc39d4y"
+   , freeza = "http://tinyurl.com/parueup"
+   , powerImage = "http://tinyurl.com/o734vyr";
+   game.preload(gohan, fundo, freeza, powerImage);
+   game.fps = 16;
+ 
+   game.onload = function() {
+ 
+     var scene = new Scene(); // cria nova cena
+     game.pushScene(scene); // nova cena na principal
+ 
+     // adiciona o fundo
+     var background = new Sprite(1024, 698);
+     background.image = game.assets[fundo];
+     scene.addChild(background);
+ 
+     // modelo de player
+    var Player = Class.create(Sprite, {
+        initialize: function(data) {
+          Sprite.apply(this, [data.w, data.h]);
+          this.image = game.assets[data.image];
+          data.scene.addChild(this);
+      }
+    });
+ 
+    var Power = Class.create(Sprite, {
+      initialize: function(w, h, image, scene) {
+        Sprite.call(this, w, h);
+        this.image = game.assets[image];
+        scene.addChild(this);
+      }
+    });
+ 
+
+    // Gohan
+    var player = new Player({
+    w: 63, h: 97, scene: scene, image: gohan
+    });
+ 
+    player.frame = [0, 1];
+    player.x = ((game.width/2)-(player.width/2))-200;
+    player.y = 250;
+    player.tl.scaleTo(1.5, 1.5, 50);
+ 
+   player.onenterframe = function() {
+     if (this.age &gt;= 50) this.frame = [2, 3, 4];
+     if (this.age % 10 == 0) 
+    this.tl.moveBy(50,0,10).moveBy(-50,0,10).loop();
+   }
+ 
+   player.addEventListener(Event.TOUCH_START,function(evt){
+     var power = new Power(133, 61, powerImage, scene);
+     power.x = evt.x;
+     power.y = evt.y;
+
+     power.addEventListener('enterframe', function() {
+       this.x += 2;
+       if (this.intersect(enemy)) {
+         scene.removeChild(enemy);
+         player.frame = 0;
+       }
+     });
+   });
+ 
+   // Freeza
+   var enemy = new Player({
+     scene: scene, w: 65, h: 85, image: freeza
+   });
+ 
+   enemy.x = 400;;
+   enemy.y = 180;
+   enemy.tl.scaleTo(-1, 1, 1);
+   enemy.tl.scaleTo(-3,3, 100);
+ 
+   enemy.onenterframe = function() {
+     if (this.age &gt;= 50) this.frame = [2, 3, 4];
+     if (this.age%10==0) this.tl.moveBy(0,-50,10).moveBy(0,50,10).loop();
+   }
+
+ }
+ game.start();
+}
+
+ window.addEventListener('load', initialize, false);
+}).apply(this);
+</pre>
+
+<p><strong><a href="http://plnkr.co/edit/7F6ytf" target="_blank">Veja o exemplo com dois personagens no Plunker</a></strong>.</p>
+
+<p>Neste segundo exemplo, temos funções novas:</p>
+
+<h3 id="class-create">Class.create()</h3>
+
+<p>Este método recebe dois argumentos (classe e objeto). O objeto utiliza a propriedade <em>initialize</em> para executar o objeto quando é criado como um construtor. Outras propriedades funcionam como eventos:</p>
+
+<pre>Class.create(Class,{initialize:function(){},onenterframe:function(){}});</pre>
+
+<p>Dentro do <em>initialize</em>, precisamos chamar a classe com <em>call</em> ou <em>apply</em> e seguir o mesmo padrão do exemplo 1 ao criar um objeto.</p>
+
+<h3 id="intersect">intersect()</h3>
+
+<p>Esta função facilita a nossa vida, detectando uma colisão. Só é preciso usar este método em um objeto e passar ao outro como argumento. Exemplo:</p>
+
+<pre>player.intersect(enemy); // true ou false</pre>
+
+<p>Isto nos poupa de fazer uma lógica como esta:</p>
+
+<pre>function intersect(t, other) {
+  return t.x &lt; other.x + other.width
+    && other.x &lt; t.x + t.width 
+    && t.y &lt; other.y + other.height 
+    && other.y &lt; t.y + t.height;
+}
+</pre>
+
+<pre>intersect(player, enemy); // true ou false</pre>
+
+<p>Apesar deste ser um exemplo simples de como criar um jogo em HTML5, a <a href="http://enchantjs.com/resource/api-documentation/" target="_blank">documentação</a> do enchant.js é bastante completa, e tem muita coisa que permite ser incorporada para tornar nosso exemplo mais dinâmico e interativo.</p>
+
+<p>Confira mais <a href="http://enchantjs.com/pt-br/" target="_blank">demos</a> no site, os <a href="http://enchantjs.com/tutorial/lets-start-with-enchant-js/" target="_blank">tutoriais</a> e os <a href="http://enchantjs.com/showcase/games-on-9leap-net/" target="_blank">jogos já desenvolvidos</a> com a plataforma.</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/indo-alem-no-react-native//?utm_source=tablelessRelatedLin">Indo além no Mundo React-Native</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/seu-primeiro-bot-para-o-telegram//?utm_source=tablelessRelatedLin">Seu primeiro bot para o Telegram</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245844"></script>

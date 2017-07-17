@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Component on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/web-component/</link>
+    <description>Recent content in Web Component on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 10 Sep 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/web-component/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Melhores Práticas Web Components</title>
+      <link>http://localhost/jhonny-roger/public/melhores-praticas-web-components/</link>
+      <pubDate>Wed, 10 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/melhores-praticas-web-components/</guid>
+      <description>Web Components é um novo conjunto bem recente de recursos da plataforma web que permite aos desenvolvedores criarem componentes de forma declarativa e muito interessante.
+Irei apresentar a seguir algumas boas práticas do ecossistema de Web Components.
+O guia a seguir contém boas práticas que evoluirão ao longo do tempo, assim como a própria especificação. O guia é um ponto de partida.
+Namespacing É como você nomeia seu Web Component, ele deve conter um traço no seu nome para diferenciar de outras tags do HTML, você também deve mantê-lo curto, semântico.</description>
+    </item>
+    
+  </channel>
+</rss>

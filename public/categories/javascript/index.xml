@@ -1,0 +1,1932 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascript on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/categories/javascript/</link>
+    <description>Recent content in Javascript on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 24 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/categories/javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Indo além no Mundo React-Native</title>
+      <link>http://localhost/jhonny-roger/public/indo-alem-no-react-native/</link>
+      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/indo-alem-no-react-native/</guid>
+      <description>Indo além no Mundo React-Native. Nos últimos meses resolvi aprofundar meus estudos no React Native. Após anos trabalhando apenas com desenvolvimento mobile nativo, um grande amigo me convenceu a experimentar esse novo framework.
+Confesso que até então, eu era um pouco reticente sobre frameworks que prometem entregar aplicativos nas duas plataformas (iOS e Android) a partir de um código único. Minha experiência com Cordova me dizia que isso não funcionava bem.</description>
+    </item>
+    
+    <item>
+      <title>Seu primeiro bot para o Telegram</title>
+      <link>http://localhost/jhonny-roger/public/seu-primeiro-bot-para-o-telegram/</link>
+      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/seu-primeiro-bot-para-o-telegram/</guid>
+      <description>Os BOTS de chats hoje já são uma realidade, eles já estão presentes nos aplicativos de mensagens do seu celular, e com certeza você já ficou curioso em como alguns deles são desenvolvidos. Nesse artigo, vamos mostrar o desenvolvimento de um BOT muito simples utilizando a API do Telegram.
+Artigo adaptado de Bot Telegram
+Criando o seu BOT Para esse simples exemplo será utilizado o JavaScript na plataforma NodeJS em conjunto com a API do Telegram, caso você não esteja familiarizado com essa plataforma, você pode conferir esse ótimo artigo aqui do Tableless Como instalar Node.</description>
+    </item>
+    
+    <item>
+      <title>Páginas acessíveis com o HaTeMiLe</title>
+      <link>http://localhost/jhonny-roger/public/paginas_acessiveis_hatemile/</link>
+      <pubDate>Sun, 07 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/paginas_acessiveis_hatemile/</guid>
+      <description>A acessibilidade finalmente esta se tornando uma das metas no desenvolvimento web, mesmo assim ela enfrenta um conjunto de problemas:
+ nas aulas, apostilas e tutoriais sobre desenvolvimento web dificilmente abordam a acessibilidade; mesmo conhecendo os Padrões Web (HTML, CSS e JavaScript) o desenvolvedor pode acabar desenvolvendo páginas web inacessíveis; frameworks e temas utilizados no desenvolvimento podem contribuir com páginas inacessíveis.  Baseando-se nos polyfills, que permitem prover um recurso não suportado pelo browser, foi desenvolvido o HaTeMiLe (anagrama para HTML Accessible, removendo as consoantes de Accessible), uma biblioteca que utiliza os Padrões Web para tentar resolver alguns problemas de acessibilidade.</description>
+    </item>
+    
+    <item>
+      <title>O fim da profissão front-end</title>
+      <link>http://localhost/jhonny-roger/public/carreira-de-front-end-vai-morrer/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/carreira-de-front-end-vai-morrer/</guid>
+      <description>O processo de desenvolvimento web pode se dividir em três categorias: design, front-end e back-end. Na minha opinião, a categoria que tem mais processos manuais e repetitivos é sem duvida o front-end.
+Pare pra pensar: o core do trabalho do front-end se resume em duas partes:
+ implementação do layout: produção da primeira camada de código, onde replicamos o layout criado em algum programa gráfico, para código estático em HTML, CSS e JS.</description>
+    </item>
+    
+    <item>
+      <title>Como criar aplicações em tempo real usando Node.js e RethinkDB</title>
+      <link>http://localhost/jhonny-roger/public/como-criar-aplicacoes-em-tempo-real-usando-node-js-e-rethinkdb/</link>
+      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/como-criar-aplicacoes-em-tempo-real-usando-node-js-e-rethinkdb/</guid>
+      <description>Sobre o RethinkDB Se você precisa de um banco de dados NoSQL que funcione com dados JSON e tenha suporte completo para buscas em tempo real e uma mistura de modelos entre SQL e NoSQL, então uma boa opção é o RethinkDB.
+Trata-se de uma base de dados em código aberto em que todos os dados JSON são persistidos em tabelas como um banco de dados SQL convencional, permitindo que você execute queries entre múltiplas tabelas utilizando o comando clássico join.</description>
+    </item>
+    
+    <item>
+      <title>Criando a sua primeira aplicação web com React</title>
+      <link>http://localhost/jhonny-roger/public/criando-sua-primeira-aplicacao-web-com-react/</link>
+      <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-sua-primeira-aplicacao-web-com-react/</guid>
+      <description>Você já deve ter ouvido falar do React, a biblioteca JS mais popular da atualidade, usado por várias empresas grandes como Facebook, Airbnb e Twitter. A ideia desse artigo é demonstrar a criação de uma aplicação simples, que use as principais partes do React. Neste tutorial nós iremos ver:
+ Componentes Componentes puros/funcionais O uso do state vs props  Todos os exemplos deste tutorial serão escritos em ES6. Se você não sabe ES6 leia esse artigo antes.</description>
+    </item>
+    
+    <item>
+      <title>O futuro das interfaces: Chatbots</title>
+      <link>http://localhost/jhonny-roger/public/o-futuro-das-interfaces-chatbots/</link>
+      <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-futuro-das-interfaces-chatbots/</guid>
+      <description>Estamos acostumados a interagir diariamente com interfaces gráficas, seja no computador, celular, tablet, smart tv, etc. Naturalmente incorporamos a utilização dessas interfaces para obter nossos objetivos no dispositivo em questão, seja fazer uma busca no google, ver uma página no Facebook, ler um artigo em um portal de notícias ou escolher um filme no Netflix.
+Podemos não perceber, mas quando ligamos para um call-center onde a máquina (URA — Unidade de Resposta Audível) nos pede para dizer em voz alta o que desejamos, ou o número correspondente ao que queremos, também estamos interagindo com uma interface de voz para atingir nosso propósito.</description>
+    </item>
+    
+    <item>
+      <title>Como instalar Node.js no Linux corretamente (Ubuntu, Debian, Elementary OS)</title>
+      <link>http://localhost/jhonny-roger/public/como-instalar-node-js-no-linux-corretamente-ubuntu-debian-elementary-os/</link>
+      <pubDate>Mon, 09 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/como-instalar-node-js-no-linux-corretamente-ubuntu-debian-elementary-os/</guid>
+      <description>Recentemente comecei a minha migração do JSF para o Angular então busquei por um bom curso, pela documentação do Framework e um bom livro técnico.
+No caso do curso escolhi inicialmente o do Flávio Almeida na Alura e logo de cara fica claro que não é um Framework para iniciantes no mundo do JavaScript e nem para iniciantes no mundo da programação, o próprio Flávio avisa sobre isso mais de uma vez além de informar sobre a necessidade de dominar o terminal (o terror dos novatos) do seu sistema operacional.</description>
+    </item>
+    
+    <item>
+      <title>Angular 2, vale a pena?</title>
+      <link>http://localhost/jhonny-roger/public/angular-2-vale-pena/</link>
+      <pubDate>Fri, 02 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/angular-2-vale-pena/</guid>
+      <description>Ultimamente, com o boom do JavaScript, os desenvolvedores front end se depararam com a difícil questão: qual framework e/ou biblioteca usar em meu projeto? A resposta é: depende do que você está procurando. Construir uma SPA completa? Uma aplicação híbrida? Ou apenas um simples formulário? O objetivo aqui não é enumerar as diferenças entre todas as várias ferramentas existentes no mercado, e sim focar no Angular, a que considero mais completa e que pode atender a todos os objetivos de um projeto.</description>
+    </item>
+    
+    <item>
+      <title>Proteja seu código usando o Webpack</title>
+      <link>http://localhost/jhonny-roger/public/proteja-seu-codigo-usando-o-webpack/</link>
+      <pubDate>Mon, 28 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/proteja-seu-codigo-usando-o-webpack/</guid>
+      <description>Não é um eufemismo dizer que que as ferramentas de front-end avançam rapidamente. Por um tempo, Grunt foi o principal automatizador. E desde então a comunidade adotou o Gulp, uma alternativa de streaming. Embora essas ferramentas sejam ótimas, você ainda precisará trabalhar dura para manter o seu sistema. E é aí que entram os empacotadores como o Browserify e Webpack.
+Como usar um empacotador Os empacotadores resolvem o problema fundamental no desenvolvimento front-end.</description>
+    </item>
+    
+    <item>
+      <title>Trabalhando com serviços no Javascript</title>
+      <link>http://localhost/jhonny-roger/public/trabalhando-com-servicos-no-javascript/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/trabalhando-com-servicos-no-javascript/</guid>
+      <description>JavaScript é uma linguagem multiparadigma. Pode-se “_emular_” várias técnicas de programação com ele, e isso é incrível pois podemos decidir qual o melhor paradigma para a resolução dos problemas dos nossos projetos. Porém se por um lado isso pode parecer poderoso para a linguagem, também pode deixar os iniciantes bem confusos, é muito comum escolher a abordagem errada para o problema. Por esse motivo que o JavaScript em sido polêmico nos últimos anos.</description>
+    </item>
+    
+    <item>
+      <title>Criando uma aplicação móvel com Ionic 2 e Angular 2 em dez passos</title>
+      <link>http://localhost/jhonny-roger/public/criando-uma-aplicacao-movel-com-ionic-2-e-angular-2-em-dez-passos/</link>
+      <pubDate>Fri, 04 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-uma-aplicacao-movel-com-ionic-2-e-angular-2-em-dez-passos/</guid>
+      <description>Introdução À esta altura do campeonato é provável que você já tenha ouvido falar da nova versão deste famoso framework para criação de aplicações móveis híbridas. O Ionic 2 acaba de chegar em seu Release Candidate e, com ele, trás uma série de recursos e otimizações de código, além de um considerável ganho de performance! Muito desse mérito se deve ao Angular (como é chamada a nova versão do framework, que deixa para trás o &amp;#8220;JS&amp;#8221; ao final do nome) que chega &amp;#8211; finalmente &amp;#8211; na sua versão estável, provando que não está para brincadeiras.</description>
+    </item>
+    
+    <item>
+      <title>Yarn: A evolução do NPM</title>
+      <link>http://localhost/jhonny-roger/public/yarn-evolucao-do-npm/</link>
+      <pubDate>Thu, 03 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/yarn-evolucao-do-npm/</guid>
+      <description>Nos primórdios do desenvolvimento web e afins, trabalhar com bibliotecas era uma tarefa árdua. Lembro que tínhamos que pesquisar pela biblioteca, escolher uma versão, baixar o zip e implementar em nosso projeto. Não parece nada de outro mundo ao se tratar de pequenos projetos, mas quando estamos falando de projetos um pouco maiores, isso se torna um transtorno. A coisa se torna ainda mais complicada quando há a dependência entre bibliotecas.</description>
+    </item>
+    
+    <item>
+      <title>Hello World com React, do rascunho até o primeiro componente</title>
+      <link>http://localhost/jhonny-roger/public/hello-world-com-react-do-rascunho-ate-o-primeiro-componente/</link>
+      <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/hello-world-com-react-do-rascunho-ate-o-primeiro-componente/</guid>
+      <description>Há muito tempo eu queria fazer um Hello World com React, mas nunca tinha tempo por que eu mudei de área há uns 3 anos, ficando mais na parte de gestão de produtos e times, deixando quase que totalmente o desenvolvimento e a escrita de código. Por isso, senti na pele o que os iniciantes sentem quando precisam fazer um simples Hello World de uma tecnologia nova. São tantos artigos falando coisas diferentes, usando setups diferentes, na sua maioria complexos e que não explicam as coisas com simplicidade.</description>
+    </item>
+    
+    <item>
+      <title>API para Autenticar usuários com JWT e Passport</title>
+      <link>http://localhost/jhonny-roger/public/autenticar-usuarios-com-jwt-e-passport/</link>
+      <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/autenticar-usuarios-com-jwt-e-passport/</guid>
+      <description>Neste artigo nós vamos explorar os principais conceitos e implementações da autenticação de usuário utilizando o mecanismo chamado JWT (JSON Web Token) por meio de um módulo Passport. Afinal, este é um importante passo para se certificar de que os usuários façam uma autenticação segura dentro de uma API baseada em REST.
+Antes de começarmos, vamos criar uma simples API em REST, que será utilizada ao longo deste post. Para simplificar nosso exemplo, nós vamos criar uma Express API.</description>
+    </item>
+    
+    <item>
+      <title>Invertendo o Redux</title>
+      <link>http://localhost/jhonny-roger/public/invertendo-o-redux/</link>
+      <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/invertendo-o-redux/</guid>
+      <description>Introdução &amp;nbsp;
+Já faz um tempo desde que implementei pela primeira vez o Redux. Numa época que só se falava nos frameworks, ele apareceu do nada, pelo menos para mim. Eu já conhecia o Flux, mas ainda não era o que estava procurando. O Redux realmente é uma das melhores idéias que vi, para mim faz todo o sentido e ainda é simples de entender e de se implementar.</description>
+    </item>
+    
+    <item>
+      <title>Conversão de tipos em JavaScript</title>
+      <link>http://localhost/jhonny-roger/public/conversao-de-tipos-em-javascript/</link>
+      <pubDate>Mon, 05 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/conversao-de-tipos-em-javascript/</guid>
+      <description>Um dia desses eu recebi um quebra-gelo no Telegram, com o seguinte:
+Number(null); // 0 null == 0; // true né?  De cara eu pensei que seria false, mas fiz questão de rodar no console e ver no que dava. Claro que deu false. Mesmo assim, quis entender o motivo de Number(null) retornar `` e fui procurar na documentação do ECMAScript 6, ou ECMAScript 2015.
+O JavaScript, ou ECMAScript, tem um conjunto de operações abastratas que ocorrem por baixo dos panos.</description>
+    </item>
+    
+    <item>
+      <title>Carrossel descomplicado com HTML, CSS</title>
+      <link>http://localhost/jhonny-roger/public/carrocel-descomplicado-com-html-css/</link>
+      <pubDate>Sun, 04 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/carrocel-descomplicado-com-html-css/</guid>
+      <description>Não é difícil perceber que muitos desenvolvedores tanto iniciantes como os veteranos de guerra ainda sofrem quando o assunto é carrossel, mesmo utilizando frameworks como BootStrap. Mas seus problemas acabaram! (música de chegada milagrosa), com o conhecimento de poucas técnicas podemos resolver esse &amp;#8220;gigante&amp;#8221; problema facilmente.
+Pseudo classe :target &amp;#8211; CSS Para resolver o grande problema de transição do carrossel, vamos utilizar a pseudo classe :target, que atribui algumas características do CSS para o elemento HTML.</description>
+    </item>
+    
+    <item>
+      <title>Conheça o Vue.js, um framework javascript para criação de componentes web reativos</title>
+      <link>http://localhost/jhonny-roger/public/conheca-o-vue-js-um-framework-javascript-para-criacao-de-componentes-web-reativos/</link>
+      <pubDate>Mon, 08 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/conheca-o-vue-js-um-framework-javascript-para-criacao-de-componentes-web-reativos/</guid>
+      <description>Venho acompanhando a evolução de diversos frameworks &amp;#8220;frontend&amp;#8221; ao longo dos últimos anos, e sendo um entusiasta ao estudá-los e criar conteúdo sobre eles. Talvez o primeiro framework que tenhamos mais destaque (após a geração jQuery) foi o AngularJS, que está forte até hoje, mas já possui o seu sucessor, o Angular 2 (atualmente na versão beta). Também temos o React e o Aurelia nesse jogo, e além de todos estes, temos o framework que iremos abordar neste artigo, o Vue.</description>
+    </item>
+    
+    <item>
+      <title>Criando sua aplicação React em 2 minutos</title>
+      <link>http://localhost/jhonny-roger/public/criando-sua-aplicacao-react-em-2-minutos/</link>
+      <pubDate>Fri, 05 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-sua-aplicacao-react-em-2-minutos/</guid>
+      <description>Para facilitar a criação de aplicações utilizando React, o Facebook lançou uma ferramenta que promete reduzir toda complexidade envolvida em configurar um novo projeto que utilize a tecnologia.
+O projeto chamado de “ Create React App”, divulgado por Dan Abramov no blog oficial do React, permite que os desenvolvedores criem suas aplicações React com apenas um comando. Não é criado somente a estrutura básica de pastas, mas também toda a configuração de build e dependências necessárias, ou seja, comandos complexos do Babel e Webpack, usado na maior parte dos projetos, são abstraídos, permitindo ao desenvolvedor se concentrar no que realmente interessa: a sua aplicação.</description>
+    </item>
+    
+    <item>
+      <title>Aplicativos Desktop com NW.js – Node Webkit – Introdução</title>
+      <link>http://localhost/jhonny-roger/public/aplicativos-desktop-com-nw-js-node-webkit-introducao/</link>
+      <pubDate>Thu, 14 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/aplicativos-desktop-com-nw-js-node-webkit-introducao/</guid>
+      <description>Este é o primeiro artigo de uma série que vou escrever sobre aplicações desktop usando tecnologias web. (HTML, CSS, Javascript e WebGL) O NW.js é uma aplicação em tempo de execução baseado em Chromium e Node.js, com ele é possível desenvolver aplicativos nativos para Windows, Linux e Mac, usando tecnologias web e usufruindo dos pacotes do Node.js.
+Para ter uma ideia do que é possível fazer, visite este link e veja alguns aplicativos desenvolvidos com NW.</description>
+    </item>
+    
+    <item>
+      <title>Entendendo a indentação no Javascript</title>
+      <link>http://localhost/jhonny-roger/public/entendendo-indentacao-no-javascript/</link>
+      <pubDate>Wed, 06 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/entendendo-indentacao-no-javascript/</guid>
+      <description>Código sem indentação não é legal de se ler, mas tem uma coisa um pouco pior que isso, ou tão ruim quanto, que é a falta de um padrão na indentação do projeto. Por exemplo, eu uso tab pois consigo ajustar meu editor para que ele exiba a quantidade que eu julgue necessária de espaços, mas pode ser que alguém da minha equipe use os próprios espaços, eai já imagina a beleza que vai ficar o código né?</description>
+    </item>
+    
+    <item>
+      <title>Paginação com JavaScript e jQuery</title>
+      <link>http://localhost/jhonny-roger/public/paginacao-com-javascript-e-jquery/</link>
+      <pubDate>Wed, 29 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/paginacao-com-javascript-e-jquery/</guid>
+      <description>Algumas vezes, vamos deparar com uma situação onde é preciso fazer uma paginação sem a ajuda de uma linguagem de backend. É exatamente isso que vou ensinar aqui: fazer um sistema de paginação utilizando JavaScript , jQuery e Bootstrap.
+Vamos primeiramente criar a nossa estrutura HTML e chamar as bibliotecas:
+&amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;script src=&#34;http://localhost/jhonny-roger/public/jquery/1.11.3/jquery.min.js&#34;&amp;gt;&amp;lt;/script&amp;gt; &amp;lt;link rel=&#34;stylesheet&#34;href=&#34;/css/bootstrap.min.css&#34;&amp;gt; // somente para ficar mais &#34;bonito o layout&#34; vamos dar um padding-bottom no select &amp;lt;style type=&#34;</description>
+    </item>
+    
+    <item>
+      <title>Programação funcional em Javascript. Implementando Curry e Compose, com bind e reduce.</title>
+      <link>http://localhost/jhonny-roger/public/programacao-funcional-em-javascript-implementando-curry-e-compose-com-bind-e-reduce/</link>
+      <pubDate>Wed, 29 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/programacao-funcional-em-javascript-implementando-curry-e-compose-com-bind-e-reduce/</guid>
+      <description>Nos últimos tempos só se fala em programação funcional, seus benefícios, funções puras, dados imutáveis, composição de funções, etc.
+Atualmente temos diversas libs que auxiliam o javascript na missão de ser funcional, Lodash, Underscore e Ramda são uma delas. Então porque estarei falando do Pareto.js? Simples como o Princípio de Pareto, a lib criada tem o objetivo de ser leve e resolver 80% dos seus problemas com 20% de código.</description>
+    </item>
+    
+    <item>
+      <title>Introdução à Programação Funcional (Functional Programming) em Javascript</title>
+      <link>http://localhost/jhonny-roger/public/introducao-programacao-funcional-functional-programming-em-javascript/</link>
+      <pubDate>Tue, 28 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-programacao-funcional-functional-programming-em-javascript/</guid>
+      <description>Eu venho estudando functional programming já faz um tempo, e decidi colocar no papel o que aprendi, pois para mim essa é a melhor forma de reter o que se aprendeu. Além disso, será um prazer se esse post ajudar outros programadores.
+ “Em ciência da computação, programação funcional é um paradigma de programação que trata a computação como uma avaliação de funções matemáticas e que evita estados ou dados mutáveis.</description>
+    </item>
+    
+    <item>
+      <title>O básico sobre Expressões Regulares</title>
+      <link>http://localhost/jhonny-roger/public/o-basico-sobre-expressoes-regulares/</link>
+      <pubDate>Wed, 15 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-basico-sobre-expressoes-regulares/</guid>
+      <description>Expressão Regular é uma das ferramentas mais úteis que você pode ter. Vira e mexe as Expressões Regulares (RegExp) resolvem desde problemas de Find &amp;amp; Replace no editor até validação de dados em diversos níveis do seu projeto. Mas geralmente a gente só lê sobre Expressões Regulares quando precisamos decifrar aquela linha maluca e ainda assim de um jeito meio descuidado, tateando e tentando fazer dar certo uma combinação de caracteres sem sentido.</description>
+    </item>
+    
+    <item>
+      <title>Fluxo de execução assíncrono em JavaScript – Generators e Async Functions</title>
+      <link>http://localhost/jhonny-roger/public/fluxo-de-execucao-assincrono-em-javascript-generators-e-async-functions/</link>
+      <pubDate>Mon, 23 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/fluxo-de-execucao-assincrono-em-javascript-generators-e-async-functions/</guid>
+      <description>Os últimos artigos tratam de Callbacks e Promises, corre conferir ou relembrar antes de prosseguirmos. Promises são abstrações muito importantes na evolução de escrita de código assíncrono. Tanto isto é verdade, que as técnicas e conceitos que veremos neste artigo são todos apoiados em promises.
+function mountUserComponent() { return get(&#39;profile.json&#39;).then(function (response) { return new UserComponent(response); }, function onRejected() { // falha na requisição Ajax }); }  A intenção a partir daqui é eliminar muito desta necessidade de declarar callbacks de sucesso e falha para recuperar o resultado de uma promessa.</description>
+    </item>
+    
+    <item>
+      <title>ReactJS 101</title>
+      <link>http://localhost/jhonny-roger/public/reactjs-101/</link>
+      <pubDate>Sat, 07 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/reactjs-101/</guid>
+      <description>TL;DR ReactJS é a biblioteca criada pelo Facebook para criação de interfaces. Pensando no mundo MV* qual vivenciamos hoje, este seria o V (view).
+Através de uma api simples qual previlegia o uso do javascript e com uma performance acima da apresentada pelos seus concorrentes, o ReactJS vem ganhando cada dia mais adeptos.
+Building Blocks Fortemente inspirado pelo conceito de componentes, trazendo duas grandes características que o desenvolvedor deve se concentrar: Components eElements.</description>
+    </item>
+    
+    <item>
+      <title>Criando aplicações CLI utilizando Node.js</title>
+      <link>http://localhost/jhonny-roger/public/criando-aplicacoes-cli-utilizando-node-js/</link>
+      <pubDate>Tue, 03 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-aplicacoes-cli-utilizando-node-js/</guid>
+      <description>Introdução As aplicações que se utilizam da linha de comando do Sistema Operacional são comumente chamadas de CLI Applications ou Command-Line Interface Applications. O que isto quer dizer? Estas aplicações só sofrerão alguma interação caso ela seja feita através de um Shell (BASH, DOS, ZSH, entre outros), mediante entrada de texto.
+Este tipo de aplicação é contrária as GUI Applications ou Graphical User Interface Applications, que permitem o usuário interagir com a aplicação através de ícones, disposição dos elementos na tela, utilizando-se do Mouse para isto.</description>
+    </item>
+    
+    <item>
+      <title>Consumo eficiente de recursos computacionais de servidores de aplicação web com Node.js</title>
+      <link>http://localhost/jhonny-roger/public/consumo-eficiente-de-recursos-computacionais-de-servidores-de-aplicacao-web-com-node-js/</link>
+      <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/consumo-eficiente-de-recursos-computacionais-de-servidores-de-aplicacao-web-com-node-js/</guid>
+      <description>INTRODUÇÃO Nos últimos anos, houve um considerável crescimento do número de usuários e volume de dados na Internet. Em 2014, cerca de 3 bilhões de pessoas no mundo usavam a internet e 43.6% das residências em todo mundo possuíam algum forma de acesso a grande rede. Os sites de redes sociais têm registrado, ao longo dos anos, um crescimento exponencial, o Facebook, por exemplo, possuía no final de 2013, 1,3 bilhões de usuários ativos, enquanto o Twitter, maior microblog internacional, registrava, na mesma época, 646 milhões de usuários ativos, responsáveis por 58 milhões de tweets postados diariamente (ITU, 2014).</description>
+    </item>
+    
+    <item>
+      <title>A arquitetura Redux usando Jails</title>
+      <link>http://localhost/jhonny-roger/public/arquitetura-redux-usando-jails/</link>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/arquitetura-redux-usando-jails/</guid>
+      <description>Ultimamente tenho me preocupado mais com arquiteturas no front-end do que propriamente com as implementações de alguns frameworks. Isso porque eu acho que realmente nos falta um pouco mais de conhecimento sistêmico, mais arquitetural, porque os problemas só estão crescendo e percebi que pelo menos eu não estava acompanhando devidamente a complexidade das aplicações desenvolvidas em Javascript.
+Uma pequena reflexão Os frameworks acabaram aparecendo nos últimos tempos e percebo que tiveram uma importância muito maior do que o nosso amadurecimento quanto aos novos desafios nas aplicações web, especificamente na linguagem Javascript.</description>
+    </item>
+    
+    <item>
+      <title>Manipulando o uso de classes com classList API</title>
+      <link>http://localhost/jhonny-roger/public/manipulando-o-uso-de-classes-com-classlist-api/</link>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/manipulando-o-uso-de-classes-com-classlist-api/</guid>
+      <description>Uma tarefa muito simples de se fazer com o JQuery, é a troca e manipulação de classes nos elementos HTML. Talvez você não saiba, mas é tão fácil quanto fazer essas manipulações usando JavaScript puro. Para tanto, vamos usar a API classList do JavaScript. Assim como as conhecidas funções addClass(), removeClass(), hasClass() e o toggleClass() do nosso conhecido Jquery, possuímos métodos nativos que executam a mesma função.
+Métodos do classList O classList conta com os seguinte métodos:</description>
+    </item>
+    
+    <item>
+      <title>Alternativa de CMS com Keystone.js</title>
+      <link>http://localhost/jhonny-roger/public/alternativa-de-cms-com-keystone-js/</link>
+      <pubDate>Thu, 14 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/alternativa-de-cms-com-keystone-js/</guid>
+      <description>Este é o primeiro artigo de uma série sobre o Keystone.js, um framework desenvolvido em Node.js para servir de CMS e também Web Application. Pra começarmos, será necessário nesse primeiro artigo um pouco de teoria, pra termos uma noção.
+Aos apressados, o link do repo está disponível no github.
+Pra começar, não vou falar detalhadamente sobre sua descrição, pois no site deles está bem explicado, apenas um resumo sobre, e depois, quando formos iniciar o projeto, ficará mais claro.</description>
+    </item>
+    
+    <item>
+      <title>Entendendo o async e o await em JavaScript</title>
+      <link>http://localhost/jhonny-roger/public/entendendo-o-async-e-o-await-em-javascript/</link>
+      <pubDate>Tue, 12 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/entendendo-o-async-e-o-await-em-javascript/</guid>
+      <description>Introdução As funcionalidades async / await não conseguiram chegar para o ES6, mas isso não significa que elas não irão chegar ao JavaScript. Enquanto escrevo esse post, ela é uma proposta na fase 3 e está sendo trabalhada ativamente. As funcionalidades já estão no Edge e devem chegar a outros browsers assim que chegar na fase 4 &amp;#8211; pavimentando seu caminho para inclusão na próxima edição da linguagem (veja também: Processo TC39).</description>
+    </item>
+    
+    <item>
+      <title>Angular JS – Service x Factory</title>
+      <link>http://localhost/jhonny-roger/public/angular-js-service-x-factory/</link>
+      <pubDate>Sun, 10 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/angular-js-service-x-factory/</guid>
+      <description>Angular JS – Service x Factory Qual a diferença entre service e factory no AngularJS? Esta é uma pergunta muito comum entre os desenvolvedores que estão usando o AngularJS.
+Mas antes de entrar neste assunto, vamos revisar como definir e usar .service e .factory.
+Um .service é um método no nosso módulo principal (app), que recebe um nome e uma função que o definem.
+Podemos definir um .service assim:</description>
+    </item>
+    
+    <item>
+      <title>React Native: Construa aplicações móveis nativas com JavaScript</title>
+      <link>http://localhost/jhonny-roger/public/react-native-construa-aplicacoes-moveis-nativas-com-javascript/</link>
+      <pubDate>Tue, 05 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/react-native-construa-aplicacoes-moveis-nativas-com-javascript/</guid>
+      <description>Introdução O React Native é um projeto desenvolvido pelos engenheiros do Facebook e que consiste em uma série de ferramentas que viabilizam a criação de aplicações móveis nativas para a plataforma iOS e Android, utilizando o que há de mais moderno no desenvolvimento Front-end &amp;#8211; mirando no futuro. É o estado da arte no que se refere ao desenvolvimento mobile baseado em JavaScript.
+O stack do React Native é poderoso, pois nos permite utilizar ECMAScript 6, CSS Flexbox, JSX, diversos pacotes do NPM e muito mais.</description>
+    </item>
+    
+    <item>
+      <title>Introdução ao Redux</title>
+      <link>http://localhost/jhonny-roger/public/bem-vindo-ao-redux/</link>
+      <pubDate>Mon, 04 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/bem-vindo-ao-redux/</guid>
+      <description>Introdução Redux é uma maneira de pensar o desenvolvimento de aplicações criada pelo @dan_abramov que teve como principio optimizar a ideia do Flux. Ela foi criada para tentar optimizar alguns obstáculos que o Flux começou a enfrentar, e também veio para simplificar a implementação do mesmo. Inspirada em conceitos da linguagem funcional Elm, e de algumas bibliotecas JS como o Immutable.js, o Baobab, o RxJs e o próprio Flux, o Redux veio com alguns paradigmas interessantes e um pouco diferenciados do Flux.</description>
+    </item>
+    
+    <item>
+      <title>Lodash ou Underscore? Talvez, nenhum!</title>
+      <link>http://localhost/jhonny-roger/public/lodash-ou-underscore-talvez-nenhum/</link>
+      <pubDate>Thu, 31 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/lodash-ou-underscore-talvez-nenhum/</guid>
+      <description>Durante os últimos anos, bibliotecas como Underscore e lodash, encontraram seu espaço no cinto de utilidades de muitos programadores JavaScript.
+Embora essas bibliotecas ajudem a escrever e até facilitar a sua vida em partes do seu código, não necessariamente, esse código, fica simples ou de fácil entendimento. Quem estiver lendo ou mantendo o código será obrigado a, além de conhecer a linguagem e sua biblioteca padrão, também conhecer a biblioteca de utilitários que está sendo usada.</description>
+    </item>
+    
+    <item>
+      <title>Exercícios Simples de JavaScript para Entrevista</title>
+      <link>http://localhost/jhonny-roger/public/exercicios-simples-de-javascript-para-entrevista/</link>
+      <pubDate>Tue, 26 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/exercicios-simples-de-javascript-para-entrevista/</guid>
+      <description>Qualquer um pode aprender teoria lendo posts de blogs, mas muitas pessoas nunca a entendem. Então para ter certeza que o(a) candidato(a) realmente entende sobre o tópico que ele(a) está falando, é uma boa ideia testar o seus conhecimentos através de exercícios. Exercícios não devem demorar muito e eles podem mostrar o nível de proficiência do candidato imediatamente.
+Estes são alguns exercícios que podem ser aplicados em entrevistas.
+Contexto(call, apply) Essa é a forma que queremos usar &amp;#8220;someFn&amp;#8221;.</description>
+    </item>
+    
+    <item>
+      <title>Criando efeitos de páginas de livro no seu front-end</title>
+      <link>http://localhost/jhonny-roger/public/criando-efeitos-de-paginas-de-livro-no-seu-front-end/</link>
+      <pubDate>Thu, 14 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-efeitos-de-paginas-de-livro-no-seu-front-end/</guid>
+      <description>O Turn.js é uma biblioteca JavaScript que faz o conteúdo parecer um livro ou revista de verdade, usando as vantagens do HTML5.
+É uma biblioteca baseada no jQuery, versão 1.7 ou superior, então é um requerimento básico.
+Temos o suporte para os navegadores:
+ Chrome 12+ Safari 5+ Firefox 10+ Internet Explorer 9+  Na prática Como exemplo, vamos usar como base a história criada por Rodrigo Martins, que tranformou em quadrinhos o meme da internet &amp;#8220;Já acabou, Jéssica&amp;#8221;.</description>
+    </item>
+    
+    <item>
+      <title>Gerenciando módulos no TypeScript</title>
+      <link>http://localhost/jhonny-roger/public/gerenciando-modulos-no-typescript/</link>
+      <pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/gerenciando-modulos-no-typescript/</guid>
+      <description>Como vimos no artigo anterior, com TypeScript podemos programar de forma orientada a objetos, criando classes, interfaces, get/set etc, e compilar tudo isso para JavaScript. Neste artigo veremos como criar módulos e separar classes e funcionalidades em arquivos distintos, de forma a tornar o nosso projeto mais organizado.
+ Para instalar o TypeScript, você precisa ter o Node.js, juntamente com o NPM. Execute o comando npm install typescript -g</description>
+    </item>
+    
+    <item>
+      <title>Diga olá ao TypeScript e adeus ao JavaScript</title>
+      <link>http://localhost/jhonny-roger/public/diga-ola-ao-typescript-e-adeus-ao-javascript/</link>
+      <pubDate>Mon, 14 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/diga-ola-ao-typescript-e-adeus-ao-javascript/</guid>
+      <description>Acredito que este artigo tenha chamado a sua atenção pelo título. Como assim??? adeus ao JavaScript??? A linguagem que está bombando em 2015 (e claro, 2016!). Posso estar sendo um pouco ousado aqui, mas eu tenho em mente que, neste momento, o JavaScript para mim é agora &amp;#8220;linguagem de máquina&amp;#8221; ou o famoso bytecode. Porquê? Bom, você conhece um código javascript minificado+comprimido+&amp;#8221;esculachado&amp;#8221;&amp;#8230; Não estou retirando aqui toda a beleza do JavaScript, e consequente importância, mas na evolução que vem acontecendo a cada dia no mundo web, felizmente chegamos ao ponto que podemos tratar o javascript como uma linguagem tipada e semelhante ao c/java/php e derivados.</description>
+    </item>
+    
+    <item>
+      <title>Uma visão detalhada sobre instanciação de variaveis no JavaScript</title>
+      <link>http://localhost/jhonny-roger/public/uma-visao-detalhada-sobre-instanciacao-de-variaveis-no-javascript/</link>
+      <pubDate>Wed, 09 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/uma-visao-detalhada-sobre-instanciacao-de-variaveis-no-javascript/</guid>
+      <description>Hoisting Antes de falarmos sobre hoisting é importante lembrar como funciona escopo em JavaScript. Escopo nada mais é do que um contexto criado para os valores e expressões terem sua validade. Em JavaScript o escopo é criado com a declaração de funções. Vamos a um exemplo:
+// Escopo global var num = 0; // Escopo criado pela função function imprimir(){ var num = 1; console.log(num); } // Executar a função e o que tem em seu escopo imprimir(); // 1 // Imprimindo a variável do escopo global console.</description>
+    </item>
+    
+    <item>
+      <title>Detectando navegadores com Bowser</title>
+      <link>http://localhost/jhonny-roger/public/detectando-navegadores-com-bowser/</link>
+      <pubDate>Tue, 24 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/detectando-navegadores-com-bowser/</guid>
+      <description>Uma ajuda para detectar e dar suporte a diferentes navegadores O Bowser Em muitos projetos, precisamos dar uma atenção especial para alguns navegadores (nosso querido IE, por exemplo). A proposta do Bowser é facilitar a detecção de navegadores e suas versões, minimizando os erros de detecção, e facilitando sua vida.
+Mãos à obra Para começar, você precisa fazer o download do arquivo JavaScript do Bowser no GitHub oficial do projeto, e inclui-lo no seu HTML.</description>
+    </item>
+    
+    <item>
+      <title>ES2015 – Babel 6 com Browserify e Babelify</title>
+      <link>http://localhost/jhonny-roger/public/es2015-babel-6-com-browserify-e-babelify/</link>
+      <pubDate>Mon, 23 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/es2015-babel-6-com-browserify-e-babelify/</guid>
+      <description>Vivemos um momento de transição no mundo Javascript com a aprovação do ES2015 ou ES6, porém, este novo padrão ainda não é suportado totalmente por todos os navegadores, para administrar este problema foi criado o Babel, um compiler Javascript, que além de suas muitas funções, nesta versão 6, pode transformar ES2015 em ES5.
+Instalando Para este tutorial, iremos utilizar o Babelify, um módulo npm feito para funcionar juntamente com o Browserify, outro módulo que empacota todos os seus requires para serem usados no browser.</description>
+    </item>
+    
+    <item>
+      <title>Introdução ao Electron</title>
+      <link>http://localhost/jhonny-roger/public/introducao-ao-electron/</link>
+      <pubDate>Mon, 09 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-ao-electron/</guid>
+      <description>O que é o Electron O Electron foi desenvolvido para permitir que o desenvolvimento de aplicações desktop usando JavaScript, HTML e CSS fosse muito mais fácil. Criado pela equipe do Github, ficou conhecido no começo como Atom Shell. O Electron foi criado usando tecnologias como o Node.js e o Chromium, e atualmente roda em ambiente de produção de vários projetos, como o próprio Atom editor e outros, como o Slack e o Visual Studio Code.</description>
+    </item>
+    
+    <item>
+      <title>Provent – Promises e Eventos… combinados.</title>
+      <link>http://localhost/jhonny-roger/public/provent-promises-e-eventos-combinados/</link>
+      <pubDate>Wed, 07 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/provent-promises-e-eventos-combinados/</guid>
+      <description>Hoje, quando não estamos usando jQuery para lidar com eventos no DOM, nós presenciamos muito este trecho de código:
+document.querySelector(&#39;a&#39;).addEventListener(&#39;click&#39;, function() { // amazing stuff });  Embora funcione muito bem, nos trás alguns limites&amp;#8230;
+Dentro do parâmetro de callback, é onde você define toda a sua lógica&amp;#8230; Não tem uma maneira simples de adicionar mais callbacks dentro daquele evento de maneira dinâmica, sem que você salve algum tipo de estado dentro daquele callback&amp;#8230; por exemplo:</description>
+    </item>
+    
+    <item>
+      <title>Campo input date do HTML5 e internacionalização</title>
+      <link>http://localhost/jhonny-roger/public/html5-input-date-e-internacionalizacao/</link>
+      <pubDate>Wed, 30 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/html5-input-date-e-internacionalizacao/</guid>
+      <description>Alguns navegadores como Chrome, Edge e Safari já começaram a suportar o elemento com sua nova propriedade valueAsDate. Ao invés de utilizar bibliotecas para exibição de calendário e até mesmo para tratamento de datas com internacionalização, sugiro adotar estes novos recursos HTML5 com pequenos fallbacks para navegadores que não suportam.
+Elemento  Este novo elemento dispensa apresentação. Sua grande vantagem é a excelente usabilidade e internacionalização automática. Veja como fica a apresentação deste elemento no Android 5:</description>
+    </item>
+    
+    <item>
+      <title>Property accessors e porque você deveria saber usá-los</title>
+      <link>http://localhost/jhonny-roger/public/property-accessors-e-porque-voce-deveria-saber-usa-los/</link>
+      <pubDate>Fri, 11 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/property-accessors-e-porque-voce-deveria-saber-usa-los/</guid>
+      <description>Este é um artigo que se propõe a explicar uma forma mais eficaz de utilizar Objetos em JavaScript.
+Muitos talvez conheçam este conteúdo, outros tantos nunca ouviram falar, justamente por aprenderem jQuery antes de aprender JavaScript. Mas enfim, esperamos que todos possam tirar algum proveito desta matéria.
+Lidando com objetos em JavaScript Um objeto em JavaScript nada mais é do que um array associativo onde cada &amp;#8220;associação&amp;#8221; é uma propriedade do objeto.</description>
+    </item>
+    
+    <item>
+      <title>Teste automatizado de API com frisby e jasmine</title>
+      <link>http://localhost/jhonny-roger/public/teste-automatizado-de-api-com-frisby-e-jasmine/</link>
+      <pubDate>Thu, 27 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/teste-automatizado-de-api-com-frisby-e-jasmine/</guid>
+      <description>O Frisby é um framework para teste de API REST que roda em cima do nodejs. Seu principal apelo é a facilidade em se fazer testes automatizados de API com o apoio do framework de teste BDD jasmine.
+Instalação: Pré requisitos: nodejs, npm.
+1) jasmine-node. Instalação global.
+sudo npm install -g jasmine-node 2) frisby. Instalação local no projeto.
+sudo nam install --save-dev frisby Hello, World! Para o uso devemos instanciar seu módulo:</description>
+    </item>
+    
+    <item>
+      <title>Introdução ao AMD com Require.js</title>
+      <link>http://localhost/jhonny-roger/public/introducao-ao-amd-com-requirejs/</link>
+      <pubDate>Fri, 14 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-ao-amd-com-requirejs/</guid>
+      <description>Antes de entrarmos no foco do artigo, é importantíssimo tocar no assunto modularização.
+A modularização é um conceito muito antigo em termos computacionais, em poucas palavras, é a separação de funcionalidades, redução de complexidade e principalmente, o reuso de código.
+O Jean Carlo Emer postou um um artigo aqui mesmo muito bom sobre _Modularização em JavaScript._ Recomendo fortemente ler o artigo na íntegra. Nele, o autor também dá um exemplo com AMD e fala dos pontos fracos e fortes do uso.</description>
+    </item>
+    
+    <item>
+      <title>Introdução ao Meteor</title>
+      <link>http://localhost/jhonny-roger/public/introducao-ao-meteor/</link>
+      <pubDate>Thu, 13 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-ao-meteor/</guid>
+      <description>Primeiro, se você ainda não conhece o Meteor, da uma lida aqui.
+Não sou tão bom em fazer tutorial quanto em propaganda, deve ser por isso que trabalho numa agência de publicidade e não numa escola, mas vamos ao que interessa, vamos brincar um pouco com Meteor.
+Antes de mais nada, obviamente, você precisa instalar em sua máquina. Tem pra Windows, Linux e Mac, não tem erro:
+&amp;#8211; https://www.meteor.com/install</description>
+    </item>
+    
+    <item>
+      <title>Raspagem de dados com Node.js</title>
+      <link>http://localhost/jhonny-roger/public/raspagem-de-dados-com-node-js/</link>
+      <pubDate>Wed, 12 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/raspagem-de-dados-com-node-js/</guid>
+      <description>Raspagem de dados, ou Web scraping, é uma técnica de extração de dados onde é possível recuperar informações de websites.
+Existem diversas maneiras de fazer raspagem de dados: pode ser feito manualmente copiando e colando, utilizando uma ferramenta online, usando uma extensão para o navegador Google Chrome (como o Webscrapper), etc. Neste artigo será mostrado um passo-a-passo de como fazer raspagem de dados no site Portal da Transparência. O site Portal da Transparência é mantido pelo Tribunal de Contas da União, órgão que fiscaliza as contas do governo.</description>
+    </item>
+    
+    <item>
+      <title>Processo front-end na Locaweb</title>
+      <link>http://localhost/jhonny-roger/public/processo-front-end-na-locaweb/</link>
+      <pubDate>Mon, 10 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/processo-front-end-na-locaweb/</guid>
+      <description>É muito interessante entender como funcionam os processos em grandes empresas e comparar com processo que você executa na sua própria empresa. Depois que li o post que o Jaydson fez falando um pouco sobre o processo de desenvolvimento no Terra, fiquei de escrever um artigo parecido mostrando mais ou menos como nós aqui da Locaweb fazemos nosso front-end. Sugiro que leia o post do Jaydson e mate a sua curiosidade sobre o processo que eles tem lá.</description>
+    </item>
+    
+    <item>
+      <title>Introdução a propriedades e métodos no JS</title>
+      <link>http://localhost/jhonny-roger/public/introducao-a-propriedades-e-metodos/</link>
+      <pubDate>Sat, 08 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-a-propriedades-e-metodos/</guid>
+      <description>Você descobre o tamanho de uma string ou a quantidade de valores em uma Array via JavaScript usando uma coisinha chamada length. O length serve para acessar uma propriedade de algum valor determinado. Existem uma série de propriedades no JS que usamos em expressões para conseguir extrair informações de uma string e outros tipos de valores. Por exemplo a função Math, que tem a propriedade max: Math.max. O max é uma propriedade do objeto Math, que é uma coleção de valores e funções matemáticas.</description>
+    </item>
+    
+    <item>
+      <title>Desenvolvendo apps para SmartTVs com HTML, CSS e Ajax</title>
+      <link>http://localhost/jhonny-roger/public/desenvolvendo-apps-para-smarttvs-com-html-css-e-ajax/</link>
+      <pubDate>Mon, 03 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/desenvolvendo-apps-para-smarttvs-com-html-css-e-ajax/</guid>
+      <description>Hoje em dia, as Smart TVs estão cada vez mais presentes no dia a dia. E muito por isso, gosto de pesquisar e aprender formas de programar sua interface e até criar apps que rodassem em seu ambiente. Nessas pesquisas, descobri que é fácil e simples o desenvolvimento para Smart TV, veja só:
+1º Para criar apps para Smart TV você usará em primeiro lugar HTML, CSS e Ajax/JavaScript.</description>
+    </item>
+    
+    <item>
+      <title>Crie seu jogo em HTML5 com enchant.js</title>
+      <link>http://localhost/jhonny-roger/public/crie-seu-jogo-em-html5-com-enchant-js/</link>
+      <pubDate>Tue, 28 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/crie-seu-jogo-em-html5-com-enchant-js/</guid>
+      <description>Mantido na UEI (Ubiquitous Entertainment, Inc), por membros do Centro de Pesquisa de Akihabara, o framework japonês chamado enchant.js, permite criar com poucas linhas de código um jogo simples em HTML5.
+Com enchant.js, você pode criar desde simples jogos 2D até avançados jogos em três dimensões, graças ao suporte WebGL usado como plugin.
+Os elementos criados em um bloco do enchant.js são renderizado através do DOM e do Canvas, além de rodar nas plataformas mais conhecidas.</description>
+    </item>
+    
+    <item>
+      <title>Fluxo de execução assíncrono em JavaScript – Callbacks</title>
+      <link>http://localhost/jhonny-roger/public/fluxo-de-execucao-assincrono-em-javascript-callbacks/</link>
+      <pubDate>Mon, 27 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/fluxo-de-execucao-assincrono-em-javascript-callbacks/</guid>
+      <description>O fluxo de execução de um programa é determinado pela ordem em que suas instruções são executadas. Tradicionalmente a execução é sequencial e segue a ordem em que as instruções aparecem no código fonte do programa.
+Existem instruções especiais que podem guiar o fluxo de execução, seja pela imposição de uma decisão, repetição ou pulo. No JavaScript, temos como exemplo if, for, while, try catch, return, dentre outros (como break e continue que podem ser usados de um jeito peculiar).</description>
+    </item>
+    
+    <item>
+      <title>NodeSchool – Um jeito fácil para aprender Node e JavaScript</title>
+      <link>http://localhost/jhonny-roger/public/nodeschool-um-jeito-facil-para-aprender-node-e-javascript/</link>
+      <pubDate>Mon, 13 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/nodeschool-um-jeito-facil-para-aprender-node-e-javascript/</guid>
+      <description>Existem várias maneiras online, gratuitas, para aprender JavaScript ou qualquer outro assunto hoje em dia. E sempre faço questão de divulgar iniciativas importantes e muito bem feitas, como é o caso do NodeSchool.
+O NodeSchool é um workshop, online e presencial, que ensina a desenvolver softwares. Você pode aprender Node, JavaScript, Git, NPM e vários outros assuntos interessantes e que te ajudam a desenvolver software para internet (ou não).
+Além dos módulos online, onde você aprende sozinho via terminal, você pode encontrar um Workshop presencial perto de você.</description>
+    </item>
+    
+    <item>
+      <title>Parse – Objetos na nuvem</title>
+      <link>http://localhost/jhonny-roger/public/parse-objetos-na-nuvem-2/</link>
+      <pubDate>Tue, 07 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/parse-objetos-na-nuvem-2/</guid>
+      <description>Alguns dias atrás eu estava estudando um projeto que deveria apresentar, relacionado a WebApps. Decidi a plataforma da minha apresentação, mas acrescentar algo mais.
+Eu tinha lido algumas coisas sobre um banco de dados que traria uma nova perspectiva aos desenvolvedores, facilitando seu acesso e fazendo suas conexões até por JavaScript (coisa que me intrigou bastante até começar a utilizá-lo), possibilitando leitura, gravação e consulta de dados. Foi aí que comecei a estudar sobre o Parse.</description>
+    </item>
+    
+    <item>
+      <title>Aprendendo JavaScript online</title>
+      <link>http://localhost/jhonny-roger/public/aprendendo-javascript-online/</link>
+      <pubDate>Fri, 19 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/aprendendo-javascript-online/</guid>
+      <description>Outro dia eu estava tentando me lembrar de um site bem simpático e simples para aprender JavaScript online. Eu não me lembrava do nome do site, nem o nome de quem havia feito. Joguei no twitter a pergunta e uma pancada de gente trouxe vários websites cuja a abordagem era aprender JS online, grátis, de forma fácil. Nenhum dos sites era o que eu estava procurando, mas eram sites bem legais que talvez você possa se interessar.</description>
+    </item>
+    
+    <item>
+      <title>Jails – O Framework e a Arquitetura do Javascript</title>
+      <link>http://localhost/jhonny-roger/public/jails-o-framework-e-arquitetura-javascript/</link>
+      <pubDate>Wed, 17 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/jails-o-framework-e-arquitetura-javascript/</guid>
+      <description>Quero compartilhar algo que estive desenvolvendo há um tempo: um framework JavaScript. Sim, mais um&amp;#8230; porém este não é um MVC. Eu não acredito muito no MVC como vem sendo difundido para o front-end. Quem já leu algo sobre o React deve imaginar que não estou só nesta maneira de pensar.
+Faz um bom tempo que trabalho com JavaScript e dentre todas as formas que usei para elaborar um projeto, uma se destacou por ser a mais eficaz.</description>
+    </item>
+    
+    <item>
+      <title>Desempenho e eventos jQuery: event delegation</title>
+      <link>http://localhost/jhonny-roger/public/desempenho-e-eventos-jquery-event-delegation/</link>
+      <pubDate>Wed, 10 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/desempenho-e-eventos-jquery-event-delegation/</guid>
+      <description>Todo mundo que leva a experiência de uso da sua página um pouco a sério já se pegou pensando &amp;#8220;uso um plugin pronto ou faço eu mesmo?&amp;#8221; e caso cogite usar algo já pronto, acaba em dúvida sobre quais das várias opções usar.
+Esses dias eu resolvi estudar o código de algumas opções disponíveis. Fiquei com medo.
+Existem algumas falhas que nós desenvolvedores cometemos no desenvolvimento usando jQuery que são críticas e comuns.</description>
+    </item>
+    
+    <item>
+      <title>Polymer 1.0 : Pronto para produção</title>
+      <link>http://localhost/jhonny-roger/public/polymer-1-0-pronto-para-producao/</link>
+      <pubDate>Mon, 08 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/polymer-1-0-pronto-para-producao/</guid>
+      <description>Fala Galera,&amp;nbsp;vamos falar hoje sobre a versão 1.0 do&amp;nbsp;Polymer. Fiz um compilado da palestra de lançamento realizada&amp;nbsp;no Google I/O 2015 que você pode conferir aqui.
+Mas vamos ao que interessa&amp;#8230; Para&amp;nbsp;continuar, nada melhor do que relembrar que o propósito do Polymer é de oferecer&amp;nbsp;uma nova solução sobre&amp;nbsp;a forma que desenvolvemos aplicações web (desktop e/ou mobile), tendo como base os Web Components e os&amp;nbsp;diversos recursos oferecidos pela web moderna, visando assim um amadurecimento da Web Platform como um todo e a&amp;nbsp;nível do que já encontramos em outras plataformas consolidadas.</description>
+    </item>
+    
+    <item>
+      <title>Como criar um Chrome App com o seu Chromebook</title>
+      <link>http://localhost/jhonny-roger/public/como-criar-um-chrome-app-com-o-seu-chromebook/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/como-criar-um-chrome-app-com-o-seu-chromebook/</guid>
+      <description>O que é um chrome app A ideia de chrome app&amp;nbsp;é trazer ferramentas que você usa no browser para o seu computador. Como se fosse uma extensão do browser. &amp;nbsp;A&amp;nbsp;instalação/desinstalação destes apps é fácil, rápida e sem dor de cabeça, além de contar com aplicativos que podem funcionar off-line.
+Por que criar um chrome APP? A grande vantagem, é que aplicativos nativos para Chrome&amp;nbsp;OS são feitos com tecnologias que já conhecemos como HTML, CSS e JS.</description>
+    </item>
+    
+    <item>
+      <title>Flux: Entenda como funciona a arquitetura Flux com React</title>
+      <link>http://localhost/jhonny-roger/public/flux-entenda-como-funciona-arquitetura-flux-com-react/</link>
+      <pubDate>Sun, 24 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/flux-entenda-como-funciona-arquitetura-flux-com-react/</guid>
+      <description>O que é Flux Se você já viu algo sobre React, já brincou ou pelo menos acessou a sua documentação, deve ter se deparado com um cara chamado Flux. E se você, assim como eu, ficou um pouco confuso com a ideia, esse post vai descomplicar as coisas para você.
+O Flux (prefiro chamar assim) é uma arquitetura usada pelo Facebook, que junto com o framework React é usado para construir aplicações web no client-side que trabalhem de forma reativa.</description>
+    </item>
+    
+    <item>
+      <title>JavaScript: Dicas de bolso – parte 1</title>
+      <link>http://localhost/jhonny-roger/public/dicas-de-bolso-de-javascript-parte-1/</link>
+      <pubDate>Thu, 21 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/dicas-de-bolso-de-javascript-parte-1/</guid>
+      <description>JavaScript e suas pegadinhas JavaScript é uma linguagem bem legal mas cheia de pegadinhas. A idéia desse post é documentar alguma dessas pegadinhas, para que possamos evitar dores de cabeça principalmente à galera que ainda não se deparou com alguma delas.
+Guarde o tamanho do array No JavaScript temos nossos brothers loops for, que conseguem iterar em arrays ou também em objetos semelhantes a arrays. Semelhantes? Como assim!? Por exemplo os objetos arguments e HTMLCollection.</description>
+    </item>
+    
+    <item>
+      <title>Collections ES6 – parte 1</title>
+      <link>http://localhost/jhonny-roger/public/collections-es6-parte-1/</link>
+      <pubDate>Tue, 12 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/collections-es6-parte-1/</guid>
+      <description>Fala Amigos!
+Dando continuidade a nossa série sobre as novidades do Javascript, vamos falar hoje sobre collections.
+Sets e Maps Historicamente a única collection que vinha por padrão no Javascript era o Array. Mas a partir do ES6 temos novos tipos como: Set, WeakSet, Map e WeakMap.
+Set Para quem tem conhecimento em linguagens de programação como C#, Java, Ruby e Python esta collection não é uma novidade, mas para quem tem conhecimento somente em Javascript, sim.</description>
+    </item>
+    
+    <item>
+      <title>Jasmine: entendendo os matchers</title>
+      <link>http://localhost/jhonny-roger/public/jasmine-entendendo-os-matchers/</link>
+      <pubDate>Mon, 30 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/jasmine-entendendo-os-matchers/</guid>
+      <description>Uma parte legal do Jasmine e que adianta muito o nosso lado são os matchers: de um modo resumido e direto, um _matcher_ implementa uma comparação _booleana_ entre o valor atual e o valor esperado. É responsável em passar para o _framework_ se o que esperamos através do nosso teste é _verdadeiro_ ou falso. Com base nisso, o _Jasmine_ vai passar ou falhar a spec.
+toEqual Esse talvez seja o mais básico e um dos que mais iremos usar.</description>
+    </item>
+    
+    <item>
+      <title>Funções do JavaScript na versão ES 6 – Parte 1</title>
+      <link>http://localhost/jhonny-roger/public/funcoes-javascript-na-versao-es-6-parte-1/</link>
+      <pubDate>Wed, 25 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/funcoes-javascript-na-versao-es-6-parte-1/</guid>
+      <description>Ao longo dos anos as funções em JavaScript não tem mudado muito, mas agora com a nova especificação de ECMAScript 6 teremos algum avanço. Confira abaixo o que tem mudado na nova versão do JavaScript.
+Parâmetros Default: Algo muito comum ao desenvolvermos é verificar a presença de uma váriavel e caso ela não exista, inicializamos com um valor, assim como no código abaixo:
+function hello(nome,cidade){ nome = nome || &#34;</description>
+    </item>
+    
+    <item>
+      <title>Um mix de orientação a objetos &#43; filter, map e reduce com Javascript.</title>
+      <link>http://localhost/jhonny-roger/public/um-mix-de-orientacao-objetos-filter-map-e-reduce-com-javascript/</link>
+      <pubDate>Tue, 24 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/um-mix-de-orientacao-objetos-filter-map-e-reduce-com-javascript/</guid>
+      <description>Criei alguns objetos simples mas com propriedades usadas no nosso dia-a-dia. Estes objetos estão armazenados num vetor de projetos. Cada objeto representa um projeto e tem as propriedades id, objeto, valorTotal e investido.
+var projetos = [ {id: 12, objeto: &#34;revitalização da ponte abc&#34;, valorTotal: 220000.25, investido: 10000.00}, {id: 14, objeto: &#34;duplicação da rodovia br-101&#34;, valorTotal: 747800.50, investido: 35000.00}, {id: 34, objeto: &#34;aterramento localidade xyz&#34;, valorTotal: 635405.70, investido: 16500.00} ]; Aqui temos uma função que age como um construtor.</description>
+    </item>
+    
+    <item>
+      <title>Iterators ES6</title>
+      <link>http://localhost/jhonny-roger/public/iterators-es6/</link>
+      <pubDate>Fri, 20 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iterators-es6/</guid>
+      <description>A partir de hoje iniciaremos uma série de posts falando sobre as novidades da nova versão do Javascript, conhecida como ES6 (EcmaScript 6). Que esta recheada de novidades e contemplando features muito legais como você verá na série.
+Como post de abertura vou falar hoje sobre iterators.
+O que são? Iterator é um objeto com uma determinada interface. E essa interface consiste de um método chamado next() que retorna um objeto como resultado.</description>
+    </item>
+    
+    <item>
+      <title>Condições ternárias</title>
+      <link>http://localhost/jhonny-roger/public/condicoes-ternarias/</link>
+      <pubDate>Wed, 04 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/condicoes-ternarias/</guid>
+      <description>Algumas condições simples precisam de muito código para definir uma atribuição.
+Por exemplo:
+var isIphone = false; var os; if (isIphone) { os = &#34;iOS&#34;; } else { os = &#34;Android&#34;; }  O código precisa de dois blocos para definir uma única atribuição. Podemos usar condições ternárias para tornar o código mais conciso.
+A condição ternária oferece um atalho mais rápido que os longos blocos de condicionais tradicionais.
+Pra fazer uma condição ternária, colocamos primeiro a condição, seguida pelo operador que divide a condicional entre condição e as ações a serem tomadas.</description>
+    </item>
+    
+    <item>
+      <title>Múltiplas galerias de fotos dinâmicas com Fancybox, Ajax e JSON</title>
+      <link>http://localhost/jhonny-roger/public/multiplas-galerias-de-fotos-dinamicas-com-fancybox-ajax-e-json/</link>
+      <pubDate>Fri, 27 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/multiplas-galerias-de-fotos-dinamicas-com-fancybox-ajax-e-json/</guid>
+      <description>Introdução Ano passado trabalhei em um projeto que era um concurso de fotografia online, o Prix Photo Web, onde cada fotógrafo podia se cadastrar, fazer upload de suas fotos e concorrer a um prêmio.
+O site tinha uma página de galeria, onde se podia ver os diversos trabalhos publicados a partir de thumbnails.
+Eu havia pego o código já quase todo pronto, mas resolvi atualizar algumas coisas e uma delas foi a tal galeria.</description>
+    </item>
+    
+    <item>
+      <title>Introdução ao webpack</title>
+      <link>http://localhost/jhonny-roger/public/introducao-ao-webpack/</link>
+      <pubDate>Mon, 23 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-ao-webpack/</guid>
+      <description>O que é? (Onde vivem? O que comem?) webpack (com &amp;#8220;w&amp;#8221; minúsculo, respeitando a grafia do site oficial) é um empacotador de código para projetos web, como o browserify. O que ele se propõe a fazer de diferente é focar em módulos da sua aplicação. Nem sempre ter todo e qualquer JavaScript/CSS do seu projeto num único arquivo é bom, por isso o webpack tem a ideia de code splitting, onde você modulariza partes reaproveitáveis do seu projeto, facilitando o desenvolvimento independente, por exemplo, ter uma equipe trabalhando em um módulo X e outra num módulo Y, mas ambos de um mesmo projeto.</description>
+    </item>
+    
+    <item>
+      <title>Tamanho da tela e tamanho da janela com JavaScript</title>
+      <link>http://localhost/jhonny-roger/public/tamanho-da-tela-e-tamanho-da-janela-com-js/</link>
+      <pubDate>Mon, 09 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tamanho-da-tela-e-tamanho-da-janela-com-js/</guid>
+      <description>Se você trabalha em um projeto que precisa ser em visto em todos os dispositivos, você precisará ir muito além das Media Queries. Um passo adiante será detectar o tamanho da tela do usuário e também o tamanho da janela usada pelo usuário.
+Note que os dois são bem diferentes. Enquanto o usuário está um desktop, ele pode modificar o tamanho da janela do browser e consequentemente isso irá alterar o breakpoint da página.</description>
+    </item>
+    
+    <item>
+      <title>Em um relacionamento sério com generators front-end – Parte 3</title>
+      <link>http://localhost/jhonny-roger/public/em-um-relacionamento-serio-com-generators-front-end-parte-3/</link>
+      <pubDate>Fri, 06 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/em-um-relacionamento-serio-com-generators-front-end-parte-3/</guid>
+      <description>TL;DR Antes de iniciarmos o post, vale lembrar que em momento nenhum eu e o Pedro Polisenso estamos elegendo o melhor ou pior generator, visto que o output desse tipo de ferramenta é geralmente o mesmo dependendo da comparação, sendo assim, cabe a você analisar prós e contras de cada um e realizar uma escolha satisfatória pra sua necessidade.
+Mas vamos parar de mimimi e vamos ao que importa.</description>
+    </item>
+    
+    <item>
+      <title>Formulário responsivo com MailChimp</title>
+      <link>http://localhost/jhonny-roger/public/formulario-responsivo-com-mailchimp/</link>
+      <pubDate>Fri, 06 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/formulario-responsivo-com-mailchimp/</guid>
+      <description>Há cada dia mais utilizamos serviços disponíveis na web que tem um plano básico e gratuito que permite integrações. Nos últimos meses tenho feito formulários com frequência usando uma abordagem bem simples. Vou mostrar agora como criar um formulário responsivo, integrando com MailChimp e usando jQuery Validate.
+O HTML Vamos criar o formulário da seguinte maneira:
+&amp;lt;section&amp;gt; &amp;lt;h1&amp;gt;CREATE RESPONSIVE FORM WITH INTEGRATE MAILCHIMP&amp;lt;/h1&amp;gt; &amp;lt;form id=&#34;form-contact&#34; method=&#34;POST&#34; action=&#34;mailchimp-contact.php&#34;&amp;gt; &amp;lt;div class=&#34;input&#34;&amp;gt; &amp;lt;label for=&#34;</description>
+    </item>
+    
+    <item>
+      <title>Entendendo o Event Delegation da função on() no jQuery</title>
+      <link>http://localhost/jhonny-roger/public/entendendo-o-event-delegation-jquery/</link>
+      <pubDate>Mon, 02 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/entendendo-o-event-delegation-jquery/</guid>
+      <description>Geralmente uma &amp;#8220;delegação&amp;#8221;, que seria a uma tradução livre para delegation, significa definir um evento para um elemento pai, que será disparado para todos os seus filhos. O evento vai funcionar para qualquer elemento filho que já existir e também para os que forem adicionados posteriormente na árvore do DOM.
+Para exemplificar, entenda o código abaixo. Ele apenas muda o texto do parágrafo quando clicamos em alguma opção do menu. É um uso simples da função on(&#39;click&#39;) do jQuery:</description>
+    </item>
+    
+    <item>
+      <title>Closure Tools</title>
+      <link>http://localhost/jhonny-roger/public/closure-tools/</link>
+      <pubDate>Sun, 25 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/closure-tools/</guid>
+      <description>O projeto Closure Tools é mantido por engenheiros do Google, esta ferramenta é utilizada em vários projetos e aplicações web em geral.
+As aplicações web evoluíram bastante de simples páginas HTML para aplicativos ricos e interativos que proporcionam uma ótima experiência para o usuário final (UX). As web apps de hoje representam um desafio para os desenvolvedores, como por exemplo, você criar e manter o código JavaScript eficiente que baixa rapidamente e trabalha em diferentes navegadores.</description>
+    </item>
+    
+    <item>
+      <title>ECMAScript 6, uma breve introdução à POO</title>
+      <link>http://localhost/jhonny-roger/public/ecmascript-6-uma-breve-introducao-a-poo/</link>
+      <pubDate>Mon, 15 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ecmascript-6-uma-breve-introducao-a-poo/</guid>
+      <description>Bom galera, já falei aqui no tableless, sobre o uso de classes na ECMAScript 6, porém, foram exemplos bem superficiais. Então decidi criar um exemplo mais prático de como utilizá-la. Você pode encontrar o artigo que estou falando aqui.
+Entendendo o projeto A ideia inicial foi criar uma mini (e põe mini nisso) loja virtual, utilizando dados em JSON.
+O que teremos, nada mais é que uma variável contendo dados em JSON e estes dados serão transformados em objetos&amp;#8230; Advinha?</description>
+    </item>
+    
+    <item>
+      <title>Utilizando navigator.language</title>
+      <link>http://localhost/jhonny-roger/public/utilizando-navigator-language/</link>
+      <pubDate>Mon, 15 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/utilizando-navigator-language/</guid>
+      <description>Quando desenvolvemos um aplicativo web, normalmente desenvolvemos incluindo o trabalho de internacionalização. Mas não basta apenas criar arquivos para cada país, pois o aplicativo pode ser acessado por diversos países que você não contemplou. Pensando nesses problemas o Yahoo Presentation Technologies (YPT) e com a ajuda de Andy Earnshaw e Norbert Lindenberg criaram a biblioteca Formatjs. Vamos mostrar um pouco sobre essa biblioteca logo abaixo, com um exemplo bem simples:</description>
+    </item>
+    
+    <item>
+      <title>Em um relacionamento sério com generators front-end – Parte 2</title>
+      <link>http://localhost/jhonny-roger/public/em-um-relacionamento-serio-com-generators-front-end-parte-2/</link>
+      <pubDate>Wed, 10 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/em-um-relacionamento-serio-com-generators-front-end-parte-2/</guid>
+      <description>O início O objetivo desse post não é para fazer com que os desenvolvedores só usem esta ferramenta, e sim para apresentar opções de desenvolvimentos ágeis que podem ser úteis no seu dia a dia. É uma ferramenta a qual lhe oferece um stack completo de estrutura de projeto, basta você saber como usar e para que vai usar.
+O Yeoman O Yeoman é considerado uma ferramenta web de andaimes para criação de webapp modernos, nele você consegue montar um esquema de trabalho facilitando seu desenvolvimento.</description>
+    </item>
+    
+    <item>
+      <title>Em um relacionamento sério com generators front-end – Parte 1</title>
+      <link>http://localhost/jhonny-roger/public/em-um-relacionamento-serio-com-generators-front-end-parte-1/</link>
+      <pubDate>Wed, 29 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/em-um-relacionamento-serio-com-generators-front-end-parte-1/</guid>
+      <description>Conceitos e visão geral Generators front-end tem o seguinte conceito no geral: É uma ferramenta web de andaimes para criar webapp modernos.
+Baseado nesse conceito, entendemos que o uso dessa ferramenta permite que você crie suas aplicações de forma automatizada, gerenciável e com o tempo muito mais aproveitado.
+Ultimamente os devs front-end buscam melhorar seu workflow. Cada um tem seu jeito de trabalhar, porém temos algo em comum: detestamos ter retrabalho, queremos praticidade e sempre queremos automatizar tudo.</description>
+    </item>
+    
+    <item>
+      <title>EmberJS para iniciantes – Parte 1</title>
+      <link>http://localhost/jhonny-roger/public/serie-emberjs-iniciante-parte1/</link>
+      <pubDate>Wed, 29 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/serie-emberjs-iniciante-parte1/</guid>
+      <description>É com muito prazer que começo a escrever aqui no Tableless para ajudá-lo a utilizar um dos melhores frameworks (IMHO) JavaScript atualmente: o EmberJS.
+A ideia é ter uma série de artigos sobre EmberJS, visando atender aos que estão começando agora. Por isso, se você já é um cara avançado, não se empolgue, quero fazer algo bem light, certo? Vamos lá então!
+Nesta primeira parte começaremos uma aplicação. Faremos com que o resultado seja mostrar uma mensagem de boas vindas ao usuário.</description>
+    </item>
+    
+    <item>
+      <title>i18next para Internacionalização</title>
+      <link>http://localhost/jhonny-roger/public/i18next-para-internacionalizacao/</link>
+      <pubDate>Mon, 20 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/i18next-para-internacionalizacao/</guid>
+      <description>Eu nunca me importei até que em um belo dia, um cliente teve essa necessidade e foi aí que precisei pensar, pesquisar e aprender sobre internacionalização. Participei de um projeto para a copa do mundo e o conteúdo deveria ser suportado por no mínimo 3 linguas diferentes: o inglês, espanhol e o português. Mas eu nunca tinha feito nada multilinguagem e nesse momento quase bateu o desespero. Acho que a pior dificuldade foi de me expressar, porque até então eu não tinha noção de que o termo internacionalização seria a palavra chave pra isso tudo.</description>
+    </item>
+    
+    <item>
+      <title>Web Speech API – Reconhecimento de voz com JavaScript</title>
+      <link>http://localhost/jhonny-roger/public/web-speech-api-reconhecimento-de-voz-com-javascript/</link>
+      <pubDate>Mon, 06 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/web-speech-api-reconhecimento-de-voz-com-javascript/</guid>
+      <description>O reconhecimento de voz tem várias aplicações no mundo real. Muitas pessoas tornaram-se familiarizadas com este conceito graças a softwares como o Siri e S-Voice. Esta aplicação pode melhorar drasticamente a usabilidade dos websites, principalmente para deficientes visuais. Imagine websites onde os usuários podem navegar pelas páginas ou preencher campos de formulário usando a sua voz e até mesmo interagir com a página enquanto dirige, sem tirar os olhos da estrada.</description>
+    </item>
+    
+    <item>
+      <title>Design Patterns em JavaScript – Observer</title>
+      <link>http://localhost/jhonny-roger/public/design-patterns-em-javascript-observer/</link>
+      <pubDate>Fri, 19 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/design-patterns-em-javascript-observer/</guid>
+      <description>O que é Design Patterns? Desenvolver um software é se deparar constantemente com problemas. Esses problemas surgem em diversas situações e em grande quantidade. Em termos simples: nos deparamos várias vezes com um mesmo problema em diversas situações em momentos diferentes no mesmo projeto.
+Se os problemas são sempre os mesmos as soluções se repetem. Mas é muito comum darmos as mesmos soluções aos mesmos problemas de formas diferentes; isto porque não padronizamos soluções para problemas que sempre estamos resolvendo.</description>
+    </item>
+    
+    <item>
+      <title>Introdução à programação orientada a objetos em Javascript</title>
+      <link>http://localhost/jhonny-roger/public/introducao-a-programacao-orientada-a-objetos-em-javascript/</link>
+      <pubDate>Tue, 16 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-a-programacao-orientada-a-objetos-em-javascript/</guid>
+      <description>Para quem já programa em alguma linguagem de programação (Java, PHP, C#), com certeza já ouviu falar no conceito de orientação à objetos. Apesar do conceito abordar o mesmo assunto (encapsulamento de variáveis, atributos e métodos de uma classe), o mesmo pode ser abordado de forma diferente, dependendo da linguagem utilizada.
+Em Javascript, existem diferentes maneiras e métodos para aplicar este conceito de programação (uso de Prototypes, heranças de classe, etc), mas para entendermos melhor o conceito de orientação a objetos, vamos criar uma classe bem simples para mostrar como o conceito pode ser aplicado.</description>
+    </item>
+    
+    <item>
+      <title>Melhores Práticas Web Components</title>
+      <link>http://localhost/jhonny-roger/public/melhores-praticas-web-components/</link>
+      <pubDate>Wed, 10 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/melhores-praticas-web-components/</guid>
+      <description>Web Components é um novo conjunto bem recente de recursos da plataforma web que permite aos desenvolvedores criarem componentes de forma declarativa e muito interessante.
+Irei apresentar a seguir algumas boas práticas do ecossistema de Web Components.
+O guia a seguir contém boas práticas que evoluirão ao longo do tempo, assim como a própria especificação. O guia é um ponto de partida.
+Namespacing É como você nomeia seu Web Component, ele deve conter um traço no seu nome para diferenciar de outras tags do HTML, você também deve mantê-lo curto, semântico.</description>
+    </item>
+    
+    <item>
+      <title>Entendendo as diretivas e fazendo abas com AngularJS</title>
+      <link>http://localhost/jhonny-roger/public/diretivas-angularjs-abas/</link>
+      <pubDate>Mon, 08 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/diretivas-angularjs-abas/</guid>
+      <description>O AngularJS é um framework em JavaScript para a criação de web apps. Uma das suas principais características é levar parte da lógica das funcionalidades dos componentes direto para o HTML a partir das diretivas.
+O Rodrigo Branas define as diretivas assim:
+ Diretivas são extensões da linguagem HTML que permitem a implementação de novos comportamentos de forma declarativa.  Isso quer dizer que você não vai precisar escrever um monte de JavaScripts para executar funções que deveriam ser simples, como abas, por exemplo.</description>
+    </item>
+    
+    <item>
+      <title>BrazilJS 2014</title>
+      <link>http://localhost/jhonny-roger/public/braziljs-2014/</link>
+      <pubDate>Mon, 25 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/braziljs-2014/</guid>
+      <description>Foi minha primeira vez. E sim, foi muito bom.
+Eu já assisti eventos de fora e de dentro do Brasil e de fato, o BrazilJS tem nível internacional. Não apenas por causa dos palestrantes, onde mais da metade eram gringos, mas também por conta da organização e de toda a movimentação que o evento leva para a cidade. Já no avião, em SP, indo para Porto Alegre, tinha devs sentados ao meu lado, de Belo Horizonte, indo para o evento.</description>
+    </item>
+    
+    <item>
+      <title>O que é Node.js e saiba os primeiros passos</title>
+      <link>http://localhost/jhonny-roger/public/o-que-nodejs-primeiros-passos-com-node-js/</link>
+      <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-que-nodejs-primeiros-passos-com-node-js/</guid>
+      <description>O que é Node.js? Node.js é uma plataforma para desenvolvimento de aplicações server-side baseadas em rede utilizando JavaScript e o V8 JavaScript Engine, ou seja, com Node.js podemos criar uma variedade de aplicações Web utilizando apenas código em JavaScript.
+Em uma primeira análise essa informação pode não parecer tão interessante, uma vez que existem diversas outras maneiras em que esses tipos de serviços podem ser implementados. Mas se pensarmos um pouco mais sobre as demandas de aplicações na internet e o modo em que o código em JavaScript pode ser estruturado, vamos nos deparar com uma gama de novas possibilidades para desenvolvimento Web, e provavelmente nos juntar à crescente comunidade que tem adotado essa plataforma.</description>
+    </item>
+    
+    <item>
+      <title>Criando um aplicativo simples de chat com Firebase</title>
+      <link>http://localhost/jhonny-roger/public/criando-um-aplicativo-simples-de-chat-com-firebase/</link>
+      <pubDate>Thu, 17 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-um-aplicativo-simples-de-chat-com-firebase/</guid>
+      <description>Firebase é uma plataforma para desenvolvimento de aplicativos baseados em armazenamento e sincronização de dados em tempo real utilizando apenas código client-side. Utilizando o Firebase você será capaz de armazenar e sincronizar os dados da aplicação de uma maneira extremamente simples e direta, o que é extremamente conveniente quando pensamos em aplicações como chats e jogos.
+Firebase oferece integração com várias plataformas como Angular, Ember e Node.js, mas você pode simplesmente incluir a biblioteca javascript em uma página html simples e começar a desenvolver uma aplicação com transmissão de dados em tempo real.</description>
+    </item>
+    
+    <item>
+      <title>JavaScript Strict Mode</title>
+      <link>http://localhost/jhonny-roger/public/javascript-strict-mode/</link>
+      <pubDate>Thu, 17 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/javascript-strict-mode/</guid>
+      <description>O que é e porque usá-lo ECMAScript5 introduziu o &amp;#8220;use strict&amp;#8221;, que basicamente faz o browser interpretar o código JavaScript no modo mais rigoroso. Quando usamos o JS em strict mode, o browser mostra os erros que antes eram silenciados, como utilizar uma variável que não foi declarada, utilizar palavras reservadas no código, ou utilizar recursos da linguagem que já foram declarados obsoletos e até mesmo, proibindo o uso de partes da linguagem que são tidas como problemáticas, nos forçando a escrever um código de melhor qualidade e ajudando a capturar bugs mais precocemente.</description>
+    </item>
+    
+    <item>
+      <title>Web Notifications API</title>
+      <link>http://localhost/jhonny-roger/public/web-notifications-api/</link>
+      <pubDate>Mon, 14 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/web-notifications-api/</guid>
+      <description>Se você trabalha em um site de conteúdo ou em algum produto web, uma possibilidade interessante seria fazer com que o usuário recebesse uma notificação quando houvesse uma nova notícia ou, no caso de produtos, uma notificação do próprio serviço. Com a Notifications API agora é totalmente possível.
+Caso você queira dar uma olhada na documentação.
+Outro detalhe importante: as notificações só podem ser ativadas por meio de uma interação do usuário, como clique de mouse, teclado e etc&amp;#8230; Logo, vamos usar um botão em nosso exemplo para poder ativar as notificações.</description>
+    </item>
+    
+    <item>
+      <title>Construindo sua própria biblioteca javascript</title>
+      <link>http://localhost/jhonny-roger/public/construindo-sua-propria-biblioteca-javascript/</link>
+      <pubDate>Mon, 07 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/construindo-sua-propria-biblioteca-javascript/</guid>
+      <description>Pois bem, meu amigo ninja, está na hora de melhorar um pouco mais seus conhecimentos e quem sabe embarcar em uma nova ideia: a criação da sua própria biblioteca javascript!
+Introdução Antes de você pensar: “Ah, mas eu já sei como é. Basta estender o objeto HTMLElement por meio da prototype…”. Digo-lhes que felizmente não é assim. Imagine o peso que seria colocar um novo método em todos os elementos HTML.</description>
+    </item>
+    
+    <item>
+      <title>Como publicar aplicação NodeJS no Heroku</title>
+      <link>http://localhost/jhonny-roger/public/como-publicar-aplicacao-nodejs-heroku/</link>
+      <pubDate>Sun, 22 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/como-publicar-aplicacao-nodejs-heroku/</guid>
+      <description>O código da aplicação de exemplo está disponível em um gist, para baixá-lo digite o comando:
+git clone gist@gist.github.com:69153705256f6a9a4557.git minhas-midias-sociais Dentro da pasta minhas midias sociais, o arquivo _index.html_ pode ser aberto utilizando qualquer navegador. Como são arquivos estáticos, será possível visualizar a aplicação web normalmente.
+Para rodar esse pequeno projeto no serviço de cloud, será preciso criar um servidor para tal. Nesse caso, vamos usar o Express, framework para NodeJS inspirado no Sinatra.</description>
+    </item>
+    
+    <item>
+      <title>Criando uma aplicação Single Page com AngularJS</title>
+      <link>http://localhost/jhonny-roger/public/criando-uma-aplicacao-single-page-com-angularjs/</link>
+      <pubDate>Sun, 22 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-uma-aplicacao-single-page-com-angularjs/</guid>
+      <description>Um dos melhores conceitos que o AngularJS oferece é o de &amp;#8220;Single Page&amp;#8221;, onde os recursos apropriados são dinamicamente carregados e adicionados à página, conforme necessário, geralmente em resposta a ações do usuário.
+Para isto acontecer o framework oferece módulos que te possibilitam ter apenas uma página index, com outras páginas de conteúdo (views) sendo carregadas de acordo com uma específica rota (route).
+Deste modo, você consegue separar bem as responsabilidades do seu projeto, e ficando de fácil manutenção e codificação dos elementos.</description>
+    </item>
+    
+    <item>
+      <title>Dominando o uso de prototype em JavaScript</title>
+      <link>http://localhost/jhonny-roger/public/dominando-o-uso-de-prototype-em-javascript/</link>
+      <pubDate>Sat, 14 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/dominando-o-uso-de-prototype-em-javascript/</guid>
+      <description>Vários desenvolvedores web falam que protótipos representam uma forma de definirmos tipos de objetos, mas se você observar com cuidado, isto é uma característica de funções.
+Perceba que todas as funções têm uma propriedade prototype que, inicialmente, referencia um objeto vazio.
+Usando a palavra chave New para invocar a função construtor, temos agora um objeto recém instanciado como seu contexto.
+Ex:
+function Lutador(){} var lutador1 = new Lutador(); O básico &amp;#8211; Incluindo métodos numa classe (função) Temos nossa classe Lutador, que se encontra vazia e queremos anexar um método a ela.</description>
+    </item>
+    
+    <item>
+      <title>Elevação ou JavaScript hoisting</title>
+      <link>http://localhost/jhonny-roger/public/elevacao-ou-javascript-hoisting/</link>
+      <pubDate>Wed, 04 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/elevacao-ou-javascript-hoisting/</guid>
+      <description>Um pouco de Teoria antes da diversão. Muitas vezes, um simples princípio não compreendido, pode confundir novatos ou especialistas em JavaScript. Neste artigo, vamos tentar entender melhor um problema comum, que é mais simples do que parece.
+Declarações na frente Antigamente em linguagens como C, se usavam funções ou procedimentos para dividir um programa, mas havia um problema: as declarações deveriam ficar sempre na frente.
+Suponha que você queira usar uma função que junta palavras:</description>
+    </item>
+    
+    <item>
+      <title>Web Components: Introdução</title>
+      <link>http://localhost/jhonny-roger/public/web-components-introducao/</link>
+      <pubDate>Tue, 13 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/web-components-introducao/</guid>
+      <description>O que um plugin JavaScript/jQuery tem em comum com frameworks CSS como o Bootstrap? Resposta: Grandes pedaços de código HTML, CSS e Javascript.
+Todas as vezes que você precisa implementar um slider ou elementos de um framework que você gosta, invariavelmente você precisa copiar um grande pedaço de código HTML, CSS e Javascript para depois aplicar em seu projeto. Todos estes códigos estão sempre separados e sofrem, principalmente, efeitos do código externo do seu projeto ou de outros plugins.</description>
+    </item>
+    
+    <item>
+      <title>Utilizando o MarkerClusterer no Google Maps</title>
+      <link>http://localhost/jhonny-roger/public/utilizando-o-markerclusterer-google-maps/</link>
+      <pubDate>Wed, 07 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/utilizando-o-markerclusterer-google-maps/</guid>
+      <description>Seja você desenvolvedor ou não, temos que admitir o poder do Google Maps. É bem difícil encontrar alguém hoje em dia que não tenha acessado pelo menos uma vez o famoso Maps para ver onde ficava um determinado lugar.
+Esses dias me deparei novamente com o excelente artigo do Thulio Philipe sobre a API do Google Maps V3 e resolvi escrever um pouco sobre um recurso chamado MarkerClusterer.
+O que é o MarkerClusterer?</description>
+    </item>
+    
+    <item>
+      <title>File API – Trabalhando com Arquivos Locais Usando Javascript</title>
+      <link>http://localhost/jhonny-roger/public/file-api-trabalhando-com-arquivos-locais-usando-javascript/</link>
+      <pubDate>Tue, 08 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/file-api-trabalhando-com-arquivos-locais-usando-javascript/</guid>
+      <description>A atividade exercida localmente para a leitura de arquivos fornecidos pelo cliente na web sempre foi a de selecionar o arquivo e enviá-los ao servidor para que este possa, de alguma forma, fazer a leitura e retornar os dados de leitura para o cliente. Esta é a prática usual. Mas o HTML5 veio com suas API para desmistificar o usual.
+A File API desmitifica a prática de enviar um arquivo para o servidor para que ele possa ser lido.</description>
+    </item>
+    
+    <item>
+      <title>Acelere o carregamento de suas páginas</title>
+      <link>http://localhost/jhonny-roger/public/acelere-o-carregamento-de-suas-paginas/</link>
+      <pubDate>Tue, 25 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/acelere-o-carregamento-de-suas-paginas/</guid>
+      <description>Muita coisa já foi escrita sobre este assunto, originalmente em português temos o renomado guia Como perder peso no browser cujos autores são feras e a série intitulada Performance front-end aqui mesmo no Tableless. As iniciativas gringas são muitas com destaque ao YSlow e às práticas do Yahoo! para melhorar performance.
+Neste ponto, se ainda continua nesta leitura, você deve estar se perguntando se existe alguma técnica que não é coberta por alguma destas referências.</description>
+    </item>
+    
+    <item>
+      <title>Ghost – A simples e perfeita plataforma para publicações</title>
+      <link>http://localhost/jhonny-roger/public/ghost-simples-e-perfeita-plataforma-para-publicacoes/</link>
+      <pubDate>Thu, 20 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ghost-simples-e-perfeita-plataforma-para-publicacoes/</guid>
+      <description>Descobrir novas plataformas é um barato pra mim. Estar envolvido no que aparece de novo na internet é algo simplesmente prazeroso. Ideias de outras pessoas me impressionam, até quando parece ser algo tão simples, mas, por ser tão simples, é que é especial.
+Caros amigos e amigas, venho lhes apresentar a nova (não tão nova assim) plataforma para blogging/publicações na web: Ghost.
+Ghost, simplificando o que há de complicado.</description>
+    </item>
+    
+    <item>
+      <title>Criando slideshow do zero com javascript puro</title>
+      <link>http://localhost/jhonny-roger/public/criando-slideshow-zero-com-javascript-puro-2/</link>
+      <pubDate>Sat, 15 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-slideshow-zero-com-javascript-puro-2/</guid>
+      <description>Depois de criar um artigo no devmedia de como criar um slideshow do zero em Jquery sem plugins, recebi vários pedidos para fazer o mesmo com javascript, também pude notar que muitas pessoas estavam com dificuldade em colocar link nas imagens e os botões de anterior/próximo. Veremos neste artigo como criar um slideshow do zero apenas com javascript e uma dose elegante de CSS3, com controladores, legendas e links nas imagens.</description>
+    </item>
+    
+    <item>
+      <title>Javascript Observe</title>
+      <link>http://localhost/jhonny-roger/public/javascript-observe/</link>
+      <pubDate>Thu, 20 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/javascript-observe/</guid>
+      <description>O ECMAScript 6 (codinome Harmony ou ES.next) já não é novidade para quem acompanha de perto os avanços do desenvolvimento web, e suas especificações já bem avançadas causam um certo alvoroço a respeito de como vais ser o futuro do Javascript.
+Uma das esperadas especificações é o Object.observe, que documenta a capacidade de observar e notificar aplicações sobre as mudanças ocorridas em objetos Javascript, recurso bastante requisitado em aplicações funcionais.</description>
+    </item>
+    
+    <item>
+      <title>Considere não usar JQuery</title>
+      <link>http://localhost/jhonny-roger/public/considere-nao-usar-jquery/</link>
+      <pubDate>Wed, 19 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/considere-nao-usar-jquery/</guid>
+      <description>Como todo novo começo, você aproveita para tentar fazer melhor e diferente. Com o novo design do Tableless, decidi tentar melhorar duas coisas: 1) a montagem do WordPress. 2) Fazer as funções JS sem o JQuery.
+Na primeira opção (que também merece um post separado) comecei a usar melhor algumas features do WordPress. Isso me ajudou a melhorar a performance e a organizar mais o código:
+ Loops feitos com WP_Query() e get_posts().</description>
+    </item>
+    
+    <item>
+      <title>Qual a dose certa de JavaScript</title>
+      <link>http://localhost/jhonny-roger/public/qual-dose-certa-de-javascript/</link>
+      <pubDate>Mon, 03 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/qual-dose-certa-de-javascript/</guid>
+      <description>Para uma linguagem de programação que começou de maneira tão despretensiosa, o JavaScript ganhou muito espaço. É bem verdade que alguns navegadores não dão suporte à linguagem, mas estes possuem propósitos particulares ou estacionaram em alguma era que não esta.
+O navegador Chrome deve muito da sua popularidade pela rapidez com que interpreta JavaScript e a Mozilla há pouco removeu a opção de desabilitar a linguagem no Firefox. Os fabricantes de navegadores bem sabem, querendo ou não, a internet como conhecemos tem o JavaScript como uma de suas principais dependências.</description>
+    </item>
+    
+    <item>
+      <title>Criando efeito de fadeIn e fadeOut com javascript puro</title>
+      <link>http://localhost/jhonny-roger/public/criando-efeito-de-fadein-e-fadeout-com-javascript-puro/</link>
+      <pubDate>Wed, 29 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-efeito-de-fadein-e-fadeout-com-javascript-puro/</guid>
+      <description>O uso de bibliotecas JavaScript vem crescendo muito atualmente, mas às vezes utilizamos certas bibliotecas (como a jQuery) para simples tarefas, que poderíamos fazer apenas com JavaScript.
+Vejamos na Listagem 1 o que acontece muito nas páginas da web de hoje.
+Listagem 1: Pegando o atributo src de uma imagem com jQuery
+$(&#34;#imagem&#34;).attr(&#34;src&#34;); Poderíamos usar simplesmente o JavaScript para ter o mesmo resultado usando o código da Listagem 2.</description>
+    </item>
+    
+    <item>
+      <title>Web Storage  – HTML5</title>
+      <link>http://localhost/jhonny-roger/public/web-storage-html5/</link>
+      <pubDate>Tue, 28 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/web-storage-html5/</guid>
+      <description>Cookies &amp;#8211; o passado Para entendermos a vantagem obtida na utilização do WebStorage vamos compreender como uma aplicação trabalha(va) com cookies.
+Os cookies são inseridos no cabeçalho HTTP, sendo assim, sua performance pode ser comprometida. E estando as informações no cabeçalho HTTP, podemos nos perguntar: o quão protegidas elas estão?
+Outro desafio que se apresenta ao se trabalhar cookies é a capacidade de armazenamento: 4kB por cookies vezes no máximo 20 cookies é igual a capacidade de 80 kB.</description>
+    </item>
+    
+    <item>
+      <title>História de usuário e teste de aceitação em JavaScript</title>
+      <link>http://localhost/jhonny-roger/public/historia-de-usuario-e-teste-de-aceitacao-em-javascript/</link>
+      <pubDate>Wed, 22 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/historia-de-usuario-e-teste-de-aceitacao-em-javascript/</guid>
+      <description>Cada história deve ter valor de negócio na visão do cliente e é uma pequena parte da funcionalidade, não necessariamente uma especificação completa, o que minimiza a necessidade de uma extensa documentação.
+A história de usuário é escrita pelo próprio cliente e, também, serve para conduzir a criação de teste de aceitação, o qual tem o propósito de avaliar a qualidade externa do produto e, na medida do possível, a qualidade de uso e experiência do usuário.</description>
+    </item>
+    
+    <item>
+      <title>Gulp: O novo automatizador</title>
+      <link>http://localhost/jhonny-roger/public/gulp-o-novo-automatizador/</link>
+      <pubDate>Mon, 20 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/gulp-o-novo-automatizador/</guid>
+      <description>Se você não esteve morando em baixo de uma rocha pelos últimos meses, provavelmente conhece o automatizador de tarefas Grunt, que já dominava a área há algum tempo. Mas agora, chegou um novo automatizador chamado Gulp que promete realizar suas tarefas de forma mais rápida e simples do que seu concorrente.
+Caso você não saiba, automatizadores de tarefa são ferramentas que ajudam programadores preguiçosos a realizarem tarefas repetitivas mas essenciais para o desenvolvimento como: concatenação de arquivos, minificação, testes e muitas outras coisas necessárias para a criação de um código rápido e eficiente.</description>
+    </item>
+    
+    <item>
+      <title>API Google Maps V3</title>
+      <link>http://localhost/jhonny-roger/public/api-google-maps-v3/</link>
+      <pubDate>Fri, 10 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/api-google-maps-v3/</guid>
+      <description>Neste post irei falar um pouco sobre a API Google Maps V3, que sofreu atualizações e veio com algumas melhorias e recursos adicionais para dispositivos móveis e desktops.
+No último projeto que participei, o designer incluiu no layout um mapa com width: 100%. Até ai nada demais, não é? Fui no Google Maps, digitei o endereço do local e incorporei o mapa ao meu projeto com aquele iframe lindo cheio de tags inúteis.</description>
+    </item>
+    
+    <item>
+      <title>JavaScript de forma assíncrona e legível</title>
+      <link>http://localhost/jhonny-roger/public/javascript-de-forma-assincrona-e-legivel/</link>
+      <pubDate>Mon, 30 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/javascript-de-forma-assincrona-e-legivel/</guid>
+      <description>A programação assíncrona possui a vantagem de gerar códigos perfomáticos. Em certos casos, a implementação de diversas funções assíncronas encadeadas através de funções _callback_ pode prejudicar a leitura e a manutenção do código. Para demonstrar esse encadeamento, vamos utilizar um trecho de código que utiliza a API do Selenium 2. Baseado em um exemplo do site do SauceLabs.
+A API do Selenium WebDriver pode ser utilizada por diversas linguagem de programação, porém, em nosso exemplo, iremos utilizar o NodeJS (JavaScript) e o gerenciador de pacotes NPM, que podem ser baixados no site oficial.</description>
+    </item>
+    
+    <item>
+      <title>Introdução ao Selenium 2</title>
+      <link>http://localhost/jhonny-roger/public/introducao-ao-selenium-2/</link>
+      <pubDate>Wed, 18 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-ao-selenium-2/</guid>
+      <description>Selenium é uma ferramenta de apoio às necessidades de testes em aplicações web. Altamente flexível, permite muitas opções para a localização de elementos de interface no navegador e simular comportamentos reais de um usuário. A versão 2.0 tem como funcionalidade primária a integração da API WebDriver. Projetado para fornecer uma interface ainda mais simples, concisa e orientada a objeto, o que melhora de forma significativa o suporte aos problemas complexos que são enfrentados ao testar uma aplicação web.</description>
+    </item>
+    
+    <item>
+      <title>Modularização em JavaScript</title>
+      <link>http://localhost/jhonny-roger/public/modularizacao-em-javascript/</link>
+      <pubDate>Mon, 09 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/modularizacao-em-javascript/</guid>
+      <description>Modularização implica na divisão das funcionalidades de um código em partes distintas. Os módulos compõe peças que podem ser adicionadas e removidas quando necessário, vejam: reuso de código.
+Os frutos do encapsulamento alcançado com a modularização são a redução da complexidade, separação de interesses e manutenção descomplicada. Ainda, a definição de cada módulo força o programador a determinar quais os limites e responsabilidades de cada porção do código.
+Acredito que estes argumentos já justificam a adoção de um sistema de módulos para seu código.</description>
+    </item>
+    
+    <item>
+      <title>Introdução de como executar testes unitários em diferentes tipos de navegadores</title>
+      <link>http://localhost/jhonny-roger/public/introducao-de-como-executar-testes-unitarios-em-diferentes-tipos-de-navegadores/</link>
+      <pubDate>Wed, 04 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-de-como-executar-testes-unitarios-em-diferentes-tipos-de-navegadores/</guid>
+      <description>SauceLabs é uma plataforma de teste que possibilita realizar testes automáticos ou manuais em aplicações móveis e web (incluindo navegadores como Internet Explorer, Opera, Safari, Android, iPhone, Chrome etc). Essa plataforma permite executar os testes em diversas linguagem de programação, porém, em nosso exemplo, iremos utilizar o NodeJS (JavaScript).
+O NodeJS e o Gerenciador de Pacotes do Node (traduzido do inglês Node Package Manager &amp;#8211; NPM) podem ser baixados no site oficial.</description>
+    </item>
+    
+    <item>
+      <title>Frame Player: Indo além da tag video em dispositivos móveis</title>
+      <link>http://localhost/jhonny-roger/public/frame-player-indo-alem-da-tag-video-em-dispositivos-moveis/</link>
+      <pubDate>Wed, 27 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/frame-player-indo-alem-da-tag-video-em-dispositivos-moveis/</guid>
+      <description>Desde que o Flash se tornou obsoleto em dispositivos móveis (ou em outras palavras: quando a Apple o baniu do iOS) a forma de manipular arquivos de media ficou cada vez mais tendenciosa para uso das tags audio e video, consolidando o padrão Web. De toda forma o Flash ainda sobrevive bem neste ramo (prova disso é o YouTube que mantém seu player), mas este não será o foco deste artigo.</description>
+    </item>
+    
+    <item>
+      <title>Workflow para cuidar dos seus assets</title>
+      <link>http://localhost/jhonny-roger/public/workflow-para-cuidar-dos-seus-assets/</link>
+      <pubDate>Thu, 31 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/workflow-para-cuidar-dos-seus-assets/</guid>
+      <description>No desenvolvimento web, o termo assets é utilizado para designar tudo o que complementa o conteúdo dos websites. Em outras palavras, assets são nossos recursos de folhas de estilo, scripts, fontes e imagens.
+Em uma primeira análise, os assets parecem algo simples de se gerenciar. Porém, o que passa muitas vezes por desapercebido é que a falta de alguns cuidados podem impactar significativamente na performance do projeto notada pelo usuário.</description>
+    </item>
+    
+    <item>
+      <title>React: JavaScript reativo</title>
+      <link>http://localhost/jhonny-roger/public/react-javascript-reativo/</link>
+      <pubDate>Tue, 17 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/react-javascript-reativo/</guid>
+      <description>Uma das palestras que chamou minha atenção na BrazilJS desse ano foi a de Stoyan Stefanov, autor do clássico JavaScript Patterns. Stoyan mostrou a biblioteca React, desenvolvida pelo pessoal do Facebook/Instagram.
+Apesar de não ser um palestrante muito carismático, o código mostrado por Stoyan me deixou com a pulga atrás da orelha por possuir uma sintaxe para lá de esquisita e por fugir um pouco da abordagem mais conservadora adotada por bibliotecas e frameworks do mercado.</description>
+    </item>
+    
+    <item>
+      <title>Dicas de como fazer seu próprio framework CSS</title>
+      <link>http://localhost/jhonny-roger/public/dicas-de-como-fazer-seu-proprio-framework-css/</link>
+      <pubDate>Tue, 03 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/dicas-de-como-fazer-seu-proprio-framework-css/</guid>
+      <description>Algumas anotações da minha palestra na QCon 2013, sobre como fazer seu próprio framework CSS.
+ Construindo seu framework CSS  from Diego Eis Por que usar Frameworks?  Aumentar a eficiência Consistência e padrão de código Compatibilidade mais confiável Fácil manutenção Facilita a repetições de tarefas  Por que não usar Frameworks?  Curva de aprendizado HTML engessado CSS engessado Sopa de classes Tem que manter tudo atualizado o tempo todo Versionamento problemático  Separe seu CSS em partes É bom para manutenção, escalabilidade do código e também evita misturar assuntos diferentes.</description>
+    </item>
+    
+    <item>
+      <title>EditorConfig</title>
+      <link>http://localhost/jhonny-roger/public/editorconfig/</link>
+      <pubDate>Mon, 19 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/editorconfig/</guid>
+      <description>Você já deve ter visto discussões em equipes para definir o estilo de código usado em projetos. Discutir se será tabs ou espaços, o tamanho do tab, charset e etc. Todo mundo tem que configurar o editor igualmente para que não quebre nenhum arquivo e fique aquela bagunça. Não existia solução de verdade para isso, até agora. Cada um usa um editor diferente, com configurações diferentes e muito pior, todo mundo tem um gosto pessoal diferente.</description>
+    </item>
+    
+    <item>
+      <title>JavaScript: entendendo o this</title>
+      <link>http://localhost/jhonny-roger/public/javascript-entendendo-o-this/</link>
+      <pubDate>Thu, 25 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/javascript-entendendo-o-this/</guid>
+      <description>O operador this é um dos maiores responsáveis por erros e pegadinhas em um código JavaScript. Entender o seu mecanismo de funcionamento e criação é um grande passo para tirar maior proveito da linguagem.
+Contexto de execução Toda função JavaScript, ao ser executada, gera uma associação do objeto criado pelo interpretador através da palavra reservada this. A especificação da ECMAScript chama isso de ThisBinding, um evento que acontece toda vez que um código JavaScript é executado e um novo contexto de execução é estabelecido.</description>
+    </item>
+    
+    <item>
+      <title>Guia para Iniciantes – Ajude</title>
+      <link>http://localhost/jhonny-roger/public/guia-para-iniciantes-ajude/</link>
+      <pubDate>Mon, 15 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/guia-para-iniciantes-ajude/</guid>
+      <description>Muita gente notou e talvez até mesmo você, que não existe conteúdo direcionado para aqueles que querem entrar no mercado de desenvolvimento web e precisam aprender desde o básico. Há bastante material em inglês, mas geralmente o idioma é uma barreira. Comecei com um rascunho um tempo atrás e agora estou querendo fazer algo um pouco maior: quero pedir a sua ajuda neste projeto, que é de toda a comunidade para a comunidade.</description>
+    </item>
+    
+    <item>
+      <title>Medindo a complexidade do seu código JavaScript</title>
+      <link>http://localhost/jhonny-roger/public/medindo-a-complexidade-ciclomatica-do-seu-codigo-javascript/</link>
+      <pubDate>Tue, 18 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/medindo-a-complexidade-ciclomatica-do-seu-codigo-javascript/</guid>
+      <description>Já mostramos aqui no Tableless ferramentas para testes e ferramentas para garantir o padrão do seu código JavaScript, mas, enquanto esses utilitários asseguram uma consistência maior, eles nem sempre acabam com complexidades desnecessárias.
+Neste artigo vamos falar sobre complexidade ciclomática e mostrar uma ferramenta para análise de códigos JavaScript, a biblioteca Plato.
+Complexidade Ciclomática  A primeira regra de funções é que elas devem ser pequenas. A segunda regra de funções é que elas devem ser ainda menores.</description>
+    </item>
+    
+    <item>
+      <title>JavaScript: Objetos Literais vs. Funções Construtoras</title>
+      <link>http://localhost/jhonny-roger/public/javascript-objetos-literais-vs-funcoes-construtoras/</link>
+      <pubDate>Tue, 04 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/javascript-objetos-literais-vs-funcoes-construtoras/</guid>
+      <description>Existem duas maneiras de criar objetos JavaScript e muita gente as confunde ou acha que são a mesma coisa. No entanto, Objetos Literais e Funções Construtoras são conceitos bem diferentes e entendê-los vai fazer com que você tire melhor proveito da linguagem.
+Objetos Literais Este é o tipo básico de objetos JavaScript. É o formato popularizado através do JSON (JavaScript Object Notation). O objeto é criado utilizando um par de chaves ({}) e suas propriedades e métodos são todos públicos.</description>
+    </item>
+    
+    <item>
+      <title>Slides para Devs #8 – Frameworks JS</title>
+      <link>http://localhost/jhonny-roger/public/slides-para-devs-8-frameworks-js/</link>
+      <pubDate>Tue, 07 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/slides-para-devs-8-frameworks-js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Está perdido? Geolocalização!</title>
+      <link>http://localhost/jhonny-roger/public/esta-perdido-geolocalizacao/</link>
+      <pubDate>Mon, 22 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/esta-perdido-geolocalizacao/</guid>
+      <description>No passado a localização dos usuários era baseada em IP. A precisão não era lá grande coisa, pois a posição do usuário era baseada em um &amp;#8220;chute&amp;#8221; de acordo com o seu IP. Graças ao HTML5 e sua API de Geolocalização ou Geolocation (já falamos sobre isso aqui no artigo Creme de papaia e Geolocalização) podemos saber a posição do usuário de forma muito mais precisa e com isso é possível escrever aplicações mais úteis.</description>
+    </item>
+    
+    <item>
+      <title>Slides para Devs #6 – Javascript</title>
+      <link>http://localhost/jhonny-roger/public/slide-para-devs-6-js/</link>
+      <pubDate>Sun, 21 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/slide-para-devs-6-js/</guid>
+      <description> Extra bônus: Veja outros Slides  Slides para Devs #1 Slides para Devs #2 Slides para Devs #3 – Responsive Web Design [   Extra bônus: Veja outros Slides  Slides para Devs #1 Slides para Devs #2 Slides para Devs #3 – Responsive Web Design *]4 Slides para Devs #5 &amp;#8211; Design  </description>
+    </item>
+    
+    <item>
+      <title>Templates client-side com Mustache.js</title>
+      <link>http://localhost/jhonny-roger/public/templates-client-side-com-mustache-js/</link>
+      <pubDate>Mon, 15 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/templates-client-side-com-mustache-js/</guid>
+      <description>Antes de começarmos, uma pergunta: quem nunca implementou um &amp;#8220;template&amp;#8221; nos moldes do código abaixo?
+html = &#39;&amp;lt;li class=&#34;clearfix&#34;&amp;gt;&#39;; html += &#39; &amp;lt;div class=&#34;foto&#34;&amp;gt;&#39;; html += &#39; &amp;lt;a href=&#34;&#39; + item.permalink + &#39;&#34;&amp;gt;&#39;; html += &#39; &amp;lt;img src=&#34;&#39; + item.thumb + &#39;&#34; width=&#34;180&#34; height=&#34;124&#34; alt=&#34;&#39; + item.titulo + &#39;&#34;&amp;gt;&#39;; html += &#39; &amp;lt;/a&amp;gt;&#39;; html += &#39; &amp;lt;/div&amp;gt;&#39;; html += &#39; &amp;lt;span&amp;gt;&#39;; html += item.titulo; html += &#39; &amp;lt;/span&amp;gt;&#39;; html += &#39;&amp;lt;/li&amp;gt;&#39;; Se você ainda faz isso, chegou a hora de parar.</description>
+    </item>
+    
+    <item>
+      <title>Grunt: você deveria estar usando!</title>
+      <link>http://localhost/jhonny-roger/public/grunt-voce-deveria-estar-usando/</link>
+      <pubDate>Sun, 14 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/grunt-voce-deveria-estar-usando/</guid>
+      <description>Todo programador é preguiçoso, e isso é fato, pois sempre estamos procurando ferramentas que automatizem o trabalho para nós. Mas isso necessariamente não é algo ruim, pelo contrário, automatizar tarefas (objetivo do Grunt) implica em ganho de produção e isso é ótimo. O que não podemos deixar acontecer é a não realização de tarefas primordiais para que uma aplicação tenha qualidade.
+Minificação e concatenação de arquivos por exemplo são tarefas básicas e você não deve deixar isso de lado, mas fazer isso usando um plugin no editor (que seja o Sublime Text) ou um site, copiar o código minificado, colar em um novo arquivo renomeado com .</description>
+    </item>
+    
+    <item>
+      <title>Zepto.js: JavaScript peso-leve</title>
+      <link>http://localhost/jhonny-roger/public/zepto-js-biblioteca-javascript-peso-leve/</link>
+      <pubDate>Wed, 20 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/zepto-js-biblioteca-javascript-peso-leve/</guid>
+      <description>Em tempos em que performance é muito valorizada, a escolha de bibliotecas e plugins extras influencia diretamente no peso do seu site ou aplicativo.
+Com aproximadamente 10kb em sua versão minificada (jQuery, por exemplo, tem 94kb), o framework Zepto.js pode ser o mais indicado para quem deseja melhorar a performance e manter a compatibilidade com a API do jQuery.
+Se você sabe jQuery, você já sabe Zepto Além de ser leve, o Zepto.</description>
+    </item>
+    
+    <item>
+      <title>Medindo performance e latência com a Navigation Timing API</title>
+      <link>http://localhost/jhonny-roger/public/navigation-timing-api/</link>
+      <pubDate>Thu, 14 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/navigation-timing-api/</guid>
+      <description>Performance e latência são alguns dos requisitos de qualidade e experiência do usuário mais desafiadores em desenvolvimento web, especialmente quanto à performance client-side.Sabemos como aplicar técnicas que melhoram muito a performance da página, mas medir o desempenho adequadamente já não é tão trivial à nossa rotina de desenvolvimento. Pensando nisso, o W3C tem uma nova recomendação chamada Navigation Timing API. Com isso, é possível obter métricas e estatísticas detalhadas de modo nativo sobre tempo de carregamento, navegação entre páginas e carregamento de eventos.</description>
+    </item>
+    
+    <item>
+      <title>Plugins jQuery e bibliotecas JavaScript para e-commerces</title>
+      <link>http://localhost/jhonny-roger/public/plugins-jquery-e-bibliotecas-javascript-para-e-commerces/</link>
+      <pubDate>Tue, 26 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/plugins-jquery-e-bibliotecas-javascript-para-e-commerces/</guid>
+      <description>jQuery.payment https://stripe.com/blog/jquery-payment
+O plugin jQuery.payment valida o número dos principais cartões do mercado. Desenvolvido pelo pessoal da Stripe, empresa especializada em uma solução de pagamento para desenvolvedores de e-commerces, o plugin conta com validadores para números de cartão de crédito, data de validade e código de segurança.
+Exemplos de uso:
+$(&#39;.numero-cartao&#39;).payment(&#39;formatCardNumber&#39;); $(&#39;.expiracao-cartao&#39;).payment(&#39;formatCardExpiry&#39;); $(&#39;.codigo-cartao&#39;).payment(&#39;formatCardCVC&#39;); $(&#39;.numerico&#39;).payment(&#39;restrictNumeric&#39;); É possível também tirar proveito de alguns utilitários que acompanham o plugin e executar tarefas de validação, além de retornar informações do cartão baseado no número e a data de validade como um objeto:</description>
+    </item>
+    
+    <item>
+      <title>Locaweb Style – Como iniciamos</title>
+      <link>http://localhost/jhonny-roger/public/locaweb-style-como-iniciamos/</link>
+      <pubDate>Tue, 19 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/locaweb-style-como-iniciamos/</guid>
+      <description>Se você ainda não conhece o Locaweb Style, vá lá conhecer e continue lendo esse texto. Vai ser interessante se você está querendo usar um framework pronto se quer criar um novo para seus projetos.
+Uma das minhas missões aqui na Locaweb em 2012 foi iniciar uma reestruturação na área de front-end. Embora todas as equipes aqui tenham programadores super talentosos em back-end, por incrível que possa parecer, a Locaweb não tinha uma equipe focada para tratar do código front-end de seus produtos.</description>
+    </item>
+    
+    <item>
+      <title>Reveal.js: criando apresentações no navegador</title>
+      <link>http://localhost/jhonny-roger/public/reveal-js-criando-apresentacoes-no-navegador/</link>
+      <pubDate>Fri, 15 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/reveal-js-criando-apresentacoes-no-navegador/</guid>
+      <description>Apresentações não estão mais limitadas a softwares e plataformas específicas – hoje em dia é possível criar slides utilizando o navegador e tecnologias como HTML5, CSS3 e JavaScript.
+Uma das responsáveis por isto é a biblioteca JavaScript reveal.js, criada por Hakim El Hattab, desenvolvedor mais conhecido por seus experimentos com animações CSS3.
+Neste artigo vamos criar uma apresentação básica e conhecer as opções disponíveis para personalizar nossos slides.
+Estrutura da apresentação Vamos começar fazendo o download da última versão da biblioteca reveal.</description>
+    </item>
+    
+    <item>
+      <title>3 ferramentas para criar e gerenciar projetos web</title>
+      <link>http://localhost/jhonny-roger/public/3-ferramentas-para-criar-e-gerenciar-projetos-web/</link>
+      <pubDate>Tue, 05 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/3-ferramentas-para-criar-e-gerenciar-projetos-web/</guid>
+      <description>Já foi o tempo que nossas aplicações web e sites eram compostos apenas por arquivos HTML e um ou outro CSS e JS. Hoje temos pré-processadores CSS, minificadores, ferramentas de validação de JavaScript, grids, boilerplates, bootstraps e até mesmo JavaScript no servidor.
+Há também uma maior quantidade de arquivos e bibliotecas externas. Os arquivos CSS foram modularizados e JavaScript passou a ser (muito) mais aceita, ganhando ainda uma versão mais &amp;#8220;amigável&amp;#8221; na linguagem CoffeeScript.</description>
+    </item>
+    
+    <item>
+      <title>Performance front-end – Parte 2</title>
+      <link>http://localhost/jhonny-roger/public/performance-frontend-parte2/</link>
+      <pubDate>Mon, 28 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/performance-frontend-parte2/</guid>
+      <description>Se você ainda não leu a primeira parte desse assunto, veja aqui: Performance front-end &amp;#8211; Parte 1.
+Os browsers ajudam em muitos sentidos otimizando o carregamento de assets e a renderização da página, mesmo assim é necessário fazer algumas tarefas para que sua aplicação/website carregue mais rápido.
+Quando colocamos a performance como uma tarefa durante o desenvolvimento, determinamos o aumento ou a diminuição da conversão e da quantidade de pageviews.</description>
+    </item>
+    
+    <item>
+      <title>Parallax simples com JQuery e CSS</title>
+      <link>http://localhost/jhonny-roger/public/parallax-simples-com-jquery-e-css/</link>
+      <pubDate>Mon, 14 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/parallax-simples-com-jquery-e-css/</guid>
+      <description>Parallax é a diferença na posição de objetos vistos em diferentes faixas de visão, medido pelo ângulo de inclinação entre as faixas. Com isso, objetos próximos têm uma maior Parallax que objetos mais distantes, quando observado de posições diferentes. Dessa forma, podemos dizer que o Parallax é o que nos dá a noção de profundidade em nosso campo de visão &amp;#8211; UX Design
+ Parallax é algo que virou moda.</description>
+    </item>
+    
+    <item>
+      <title>Web Móvel e suas aplicações</title>
+      <link>http://localhost/jhonny-roger/public/web-movel-e-suas-aplicacoes/</link>
+      <pubDate>Mon, 07 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/web-movel-e-suas-aplicacoes/</guid>
+      <description>Compreender os seus pontos fortes e suas limitações, e utilização de tecnologias que se encaixam nessas condições são fundamentais para criar o sucesso de conteúdo.
+O que é especifico para criação em dispositivos móveis Idealmente, os autores de sites seriam capaz de atender à crescente demanda por uma experiência móvel de qualidade, sem mudar uma linha de código. Mas a realidade é que um site projetado especificamente com mobilidade em mente sempre nos proporciona uma experiência de usuário muito melhor para os usuários móveis.</description>
+    </item>
+    
+    <item>
+      <title>Capturando erros JS LIKE-A-BOSS</title>
+      <link>http://localhost/jhonny-roger/public/capturando-erros-js-like-a-boss/</link>
+      <pubDate>Wed, 12 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/capturando-erros-js-like-a-boss/</guid>
+      <description>O evento onerror é disparado quando há erros no script. Estes erros geralmente pertencem a duas categorias:
+Erros de sintaxe Antes de serem executados, scripts passam por uma análise sintática (operação mais conhecida como parsing) – afim de encontrar erros de sintaxe antes da execução do script. Qualquer um dos erros abaixo são erros de sintaxe:
+&amp;lt;!-- string não fechada --&amp;gt; &amp;lt;script&amp;gt;&#34;oops, fiz merd*&amp;lt;/script&amp;gt; &amp;lt;!-- for errado --&amp;gt; &amp;lt;script&amp;gt;for(;)&amp;lt;/script&amp;gt; &amp;lt;!</description>
+    </item>
+    
+    <item>
+      <title>Parallax Scrolling</title>
+      <link>http://localhost/jhonny-roger/public/parallax-scrolling/</link>
+      <pubDate>Mon, 03 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/parallax-scrolling/</guid>
+      <description>Parallax Scrolling foi uma das grandes tendências do webdesign em 2012. Mesmo que você não conheça o termo é capaz de já ter visto o efeito por aí&amp;#8230; Ele serve para dar a ilusão de profundidade de campo e pode ser utilizado para criar uma experiência de navegação bem diferentes do convencional. Neste artigo vamos entender da onde surgiu este termo, quais cuidados devemos tomar e é claro, como implementar o efeito de parallax scrolling através de javascript.</description>
+    </item>
+    
+    <item>
+      <title>Criando um plugin JavaScript (sem jQuery!)</title>
+      <link>http://localhost/jhonny-roger/public/criando-um-plugin-javascript-sem-jquery/</link>
+      <pubDate>Wed, 07 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-um-plugin-javascript-sem-jquery/</guid>
+      <description>Neste artigo vamos criar um slider de imagens utilizando apenas JavaScript e CSS3, sem nenhuma biblioteca. O resultado final é um script de aproximadamente 160 linhas e menos de 3kb minificado. Poderia ser menor do que isso, mas nosso código vai ser extensível e 100% válido em uma verificação JSLint.
+Um plugin jQuery é basicamente um código que pode ser aplicado em um ou mais elementos do DOM. Para justificar sua existência, um plugin precisa ser, principalmente, flexível.</description>
+    </item>
+    
+    <item>
+      <title>Adobe Edge</title>
+      <link>http://localhost/jhonny-roger/public/adobe-edge/</link>
+      <pubDate>Wed, 26 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/adobe-edge/</guid>
+      <description>A Adobe tem ajudado demais o mercado de desenvolvimento web nos últimos tempos. Ela entendeu que a perda do mercado do Flash não foi uma derrota, pelo contrário. Com esse cenário ela criou o Edge, uma suite de desenvolvimento que reúne diversas soluções que ajudam o desenvolvedor web a produzir serviços e websites utilizando as últimas novidades dos padrões web. Como diz parte da Missão descrito no site deles:
+ Adobe makes tools that enable designers and developers to share their creativity with the world.</description>
+    </item>
+    
+    <item>
+      <title>Underscore.js: cinto de utilidades JavaScript</title>
+      <link>http://localhost/jhonny-roger/public/underscore-js-cinto-de-utilidades-javascript/</link>
+      <pubDate>Wed, 19 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/underscore-js-cinto-de-utilidades-javascript/</guid>
+      <description>Underscore.js é uma pequena biblioteca de códigos utilitários voltados principalmente para a manipulação de estrutura de dados.
+Por míseros 4kb você ganha funcionalidades como map, select e invoke, além de uma engine de templating que, por si só, já faz valer o uso da biblioteca.
+Outro ponto legal é que os scripts procuram sempre utilizar recursos nativos do navegador, ou seja, em browsers modernos a biblioteca tira proveito das implementações de forEach, map, indexOf, filter etc.</description>
+    </item>
+    
+    <item>
+      <title>Criando uma aplicação simples com AngularJS</title>
+      <link>http://localhost/jhonny-roger/public/criando-uma-aplicacao-simples-com-angularjs/</link>
+      <pubDate>Thu, 26 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-uma-aplicacao-simples-com-angularjs/</guid>
+      <description>AngularJS é o mais novo lançamento do time de desenvolvedores do Google. Diferentemente de outros frameworks JavaScript, ele adota uma abordagem mais ligada à sintaxe HTML, funcionando como uma espécie de extensão da linguagem.
+Neste artigo, vamos criar uma aplicação simples de lista de compras e aprender os conceitos básicos do framework no que diz respeito à associação, manipulação e exibição de dados.
+Estrutura inicial Assim como qualquer aplicação web, nosso ponta-pé inicial acontece com a criação de um página básica.</description>
+    </item>
+    
+    <item>
+      <title>Retina.js – Imagens para telas retina</title>
+      <link>http://localhost/jhonny-roger/public/retina-js-imagens-para-telas-retina/</link>
+      <pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/retina-js-imagens-para-telas-retina/</guid>
+      <description>Nós já falamos sobre como as imagens de seu website podem aparecer em dispositivos que utilizam tela retina ou com telas HD. Até hoje não havia nenhuma alternativa de verdade para você poder fazer um chaveamento automático, até a chegada do Retina.js.
+O Retina.js é um script em javascript que te ajuda a entregar as imagens corretas para os dispositivos corretos sem muita dor de cabeça.
+Quando os usuários carregam a página, o retina.</description>
+    </item>
+    
+    <item>
+      <title>Identificando os IEs</title>
+      <link>http://localhost/jhonny-roger/public/identificando-os-ies/</link>
+      <pubDate>Tue, 10 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/identificando-os-ies/</guid>
+      <description>Os browsers caminham para um status interessantes. Os usuários estão cada vez mais utilizando browsers mais atuais e espertos. Considere um vencedor se você não precisa mais desenvolver para IE8 e só foca seu esforço para desenvolver acima do IE9. Acontece que uma hora ou outra você vai precisar fixar alguns erros em browsers antigos. Seu cliente vai pedir, seu chefe vai chorar ou qualquer outro motivo vai te fazer resolver um bugzinho no IE7.</description>
+    </item>
+    
+    <item>
+      <title>Assegurando a qualidade do seu código JavaScript</title>
+      <link>http://localhost/jhonny-roger/public/qualidade-codigo-javascript/</link>
+      <pubDate>Mon, 09 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/qualidade-codigo-javascript/</guid>
+      <description>Enquanto testes automatizados asseguram o funcionamento de suas aplicações e, portanto, também a qualidade, algumas ferramentas atuam em outra área importante do seu código: a sintaxe.
+Ferramentas de lint são scripts que interpretam seus arquivos javascript e buscam erros como varáveis não utilizadas, espaços em branco no final de linha, ausência de ponto-e-vírgula (um ponto polêmico) entre outros.
+Abaixo você encontra alguns utilitários que buscam garantir melhor qualidade e padrão para seus códigos.</description>
+    </item>
+    
+    <item>
+      <title>Novos plugins jQuery e bibliotecas JavaScript</title>
+      <link>http://localhost/jhonny-roger/public/novos-plugins-jquery-e-bibliotecas-javascript/</link>
+      <pubDate>Tue, 12 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/novos-plugins-jquery-e-bibliotecas-javascript/</guid>
+      <description>Confira uma lista de plugins e bibliotecas JavaScript que foram destaque nesta primeira metade do ano.
+jQuery Transit http://ricostacruz.com/jquery.transit
+Este plugin jQuery é uma espécie de wrapper para animações e transições CSS3. Possui a mesma sintaxe do método animate e permite transformar diferentes propriedades de um elemento: eixos X e Y, perspectiva, girar simulando 3D etc.
+Curtain.js http://curtain.victorcoulon.fr
+O plugin Curtain.js permite a criação de sites e aplicativos com múltiplas camadas.</description>
+    </item>
+    
+    <item>
+      <title>JavaScript com café, parte 2</title>
+      <link>http://localhost/jhonny-roger/public/javascript-com-cafe-parte-2/</link>
+      <pubDate>Tue, 29 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/javascript-com-cafe-parte-2/</guid>
+      <description>No [artigo anterior][1] vimos as funcionalidades básicas da linguagem CoffeeScript. Falamos sobre variáveis, funções, objetos, condicionais, loops e integração com jQuery. Neste artigo, veremos algumas implementações mais avançadas, com destaque para o conceito de classes.
+Splats Uma função em CoffeeScript pode receber um ou mais parâmetros definidos em sua especificação. Através de splats (&amp;#8230;) podemos definir também parâmetros variáveis, ou seja, você pode passar quantos parâmetros quiser. Estes parâmetros serão convertidos pelo compilador CoffeeScript em um array:</description>
+    </item>
+    
+    <item>
+      <title>Estruturação de front-end – Parte 1: Preprocessadores, Framewoks e Bibliotecas</title>
+      <link>http://localhost/jhonny-roger/public/estruturacao-de-client-side-preprocessadores-framewoks-e-bibliotecas-parte-1/</link>
+      <pubDate>Wed, 09 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/estruturacao-de-client-side-preprocessadores-framewoks-e-bibliotecas-parte-1/</guid>
+      <description>Existem três categorias de &amp;#8220;ferramentas&amp;#8221; que nos ajudam a desenvolver um projeto client-side: Preprocessadores, Frameworks e Bibliotecas.
+Preprocessadores Preprocessadores são ferramentas onde você escreve CSS de uma determinada forma, modificando sua sintaxe, fazendo com que na hora de sua utilização o código CSS precise ser préprocessado para que o código escrito seja transformado em código CSS puro e assim então os browsers consigam entender.
+Existem muitos preprocessadores no mercado como Less, Sass, Turbine, Switch CSS e outros.</description>
+    </item>
+    
+    <item>
+      <title>Entendendo quais APIs (realmente) fazem parte do HTML5</title>
+      <link>http://localhost/jhonny-roger/public/entendendo-quais-apis-realmente-fazem-parte-do-html5/</link>
+      <pubDate>Wed, 02 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/entendendo-quais-apis-realmente-fazem-parte-do-html5/</guid>
+      <description>Com o HTML5 ganhando força no mercado de desenvolvimento web, maior tem sido o interesse dos desenvolvedores em compreender seus recursos, novas APIs e tecnologias adjacentes. E é aí que acontece uma grande confusão.
+Sabemos que o HTML5 não se trata apenas de marcação, mas também de um conjunto de novas funcionalidades encapsuladas em APIs que podem ser acessadas via JavaScript.
+Porém, há APIs em processo de padronização pelo W3C que não fazem parte da especificação do HTML5.</description>
+    </item>
+    
+    <item>
+      <title>JavaScript com café</title>
+      <link>http://localhost/jhonny-roger/public/javascript-com-cafe/</link>
+      <pubDate>Mon, 09 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/javascript-com-cafe/</guid>
+      <description>CoffeeScript é uma tentativa de tornar JavaScript mais agradável para nós, programadores.
+Diferente dos frameworks e bibliotecas, que foram desenvolvidos como uma camada extra, o código escrito em CoffeeScript é compilado e resulta em JavaScript puro.
+A sintaxe é inspirada em linguagens como Ruby e Python (principalmente Ruby), portanto você pode esperar códigos intuitivos e limpos, sem pontos-e-vírgulas, chaves e parênteses (quase).
+Instalação &amp;amp; Comandos Não vou entrar muito em detalhes sobre a instalação da linguagem.</description>
+    </item>
+    
+    <item>
+      <title>jQuery: conheça os métodos on() e off()</title>
+      <link>http://localhost/jhonny-roger/public/jquery-conheca-os-metodos-on-e-off/</link>
+      <pubDate>Tue, 13 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/jquery-conheca-os-metodos-on-e-off/</guid>
+      <description>Em outubro de 2010 escrevi um artigo aqui mesmo no Tableless sobre a associação dinâmica de eventos. Na época, reinava uma confusão sobre quais métodos utilizar e quando utilizá-los. Eram três as opções: bind(), live() e delegate().
+Com o lançamento da versão 1.7 do jQuery, dois métodos definitivos (assim espero) devem acabar com a confusão em torno da associação de eventos: os métodos on() e off().
+Eventos diretos A associação direta de eventos ocorre quando o seletor (ou escopo) é omitido nos parâmetros do on().</description>
+    </item>
+    
+    <item>
+      <title>Manipulação de classes com JQuery</title>
+      <link>http://localhost/jhonny-roger/public/manipulacao-de-classes-com-jquery/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/manipulacao-de-classes-com-jquery/</guid>
+      <description>Você já deve saber que o JQuery é coisa linda de Deus. Existe uma linha muito tênue entre as features que o CSS pode fazer e o que o JQuery pode nos ajudar. A manipulação de classes é uma das facilidades que o JQuery proporciona e facilita infinitamente nossa vida. Essas funções nos ajudam muito quando iremos definir um comportamento dinâmico para os elementos.
+Formas de manipulação de classes Você pode manipular as classes de elementos do HTML de quatro formas:</description>
+    </item>
+    
+    <item>
+      <title>jQuery: métodos desconhecidos</title>
+      <link>http://localhost/jhonny-roger/public/jquery-metodos-desconhecidos/</link>
+      <pubDate>Tue, 31 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/jquery-metodos-desconhecidos/</guid>
+      <description>No meu [último artigo][1] falei sobre dicas de otimização e performance de códigos jQuery. Na versão inicial do texto eu havia planejado um tópico sobre os métodos não muito conhecidos, já que alguns, como o ajaxSetup, podem também atuar na performance da sua aplicação.
+Acabei descobrindo que este tópico ficaria enorme e, por isso, preferi escrever sobre o assunto em um artigo próprio.
+Com vocês, alguns dos métodos menos populares do jQuery!</description>
+    </item>
+    
+    <item>
+      <title>Aprenda a programar Javascript no Codecademy</title>
+      <link>http://localhost/jhonny-roger/public/aprenda-a-programar-javascript-no-codecademy/</link>
+      <pubDate>Tue, 24 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/aprenda-a-programar-javascript-no-codecademy/</guid>
+      <description>O Codecademy é um lugar para se aprender a programar:
+ &amp;#8220;Codecademy was created out of the frustrations Zach and Ryan felt with learning how to program. Tired with less effective text and video resources, Ryan and Zach teamed up to create Codecademy, a better, more interactive way to learn programming by actually coding. This is just the beginning. Join us as we make it easy for everyone to love and learn how to code.</description>
+    </item>
+    
+    <item>
+      <title>Introdução aos padrões de codificação</title>
+      <link>http://localhost/jhonny-roger/public/introducao-a-padroes-de-codificacao/</link>
+      <pubDate>Mon, 23 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-a-padroes-de-codificacao/</guid>
+      <description>Identação Espaços em brancos (Whitespaces) Nomenclatura Comentários Arquivos Chaves e ponto/vírgula        Como os idiomas reais, cada linguagem de programação tem suas respectivas regras, individualidades, pontuações, pausas e pontos em comum com outras linguagens. Você precisa conhecer essas peculiaridades para falar fluentemente ou no mínimo ser entendido. Nas linguagens de para web ou qualquer outra linguagem de programação, precisamos seguir algumas regras básicas para que o código não vire uma língua estrangeira no meio do projeto.</description>
+    </item>
+    
+    <item>
+      <title>Formulários e o Metawebdesign – Parte 1</title>
+      <link>http://localhost/jhonny-roger/public/formularios-e-o-metawebdesign-parte-1/</link>
+      <pubDate>Mon, 24 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/formularios-e-o-metawebdesign-parte-1/</guid>
+      <description>O front-end é uma profissão de uma amplitude imensa. Temos profissionais montando mockups/PSDs, especialistas em acessibilidade, usabilidade, arquitetura da informação, integração com aplicações, designers de interface, application developers. Tem até SEO.
+O background do profissional neste momento não importa muito, apenas a afirmação que ele está trabalhando na camada de front-end. Só isso basta para confirmar os papéis acima.
+Em muitas empresas o front-end é trabalhado de maneira criteriosa, com separação de tarefas em maior ou menor intensidade, de modo que o processo esteja sempre azeitado e atento aos prazos dos outros times que dependem da interface.</description>
+    </item>
+    
+    <item>
+      <title>Utilizando a Biblioteca Modernizr</title>
+      <link>http://localhost/jhonny-roger/public/utilizando-a-biblioteca-modernizr/</link>
+      <pubDate>Mon, 17 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/utilizando-a-biblioteca-modernizr/</guid>
+      <description>Problemas de compatibilidade Quando produzimos um site os problemas de compatibilidade fazem parte da regra do jogo. Para tentar contornar estes problemas utilizamos hacks, comentários condicionais, sniffing de browsers e outras coisas, que muitas vezes mais prejudicam do que ajudam.
+Para ajudar mais ainda o CSS3 e o HTML5 apareceram derrubando tudo, e o problema de compatibilidade que já era chato, ficou mais chato que meia molhada. Embora os browsers estejam muito mais atuais e suportando propriedades avançadas de CSS3 e HTML5, não é garantia que todos eles suportem as mesmas propriedades.</description>
+    </item>
+    
+    <item>
+      <title>Testando seu código jQuery com Jasmine – Parte 2</title>
+      <link>http://localhost/jhonny-roger/public/testando-seu-codigo-jquery-com-jasmine-parte-2/</link>
+      <pubDate>Tue, 04 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/testando-seu-codigo-jquery-com-jasmine-parte-2/</guid>
+      <description>Jasmine é um framework para testes focado em BDD (Behavior Driven Development). Na primeira parte deste artigo aprendemos seus métodos básicos e realizamos alguns testes simples. Agora chegou a hora de ir um pouco além e conhecer técnicas mais avançadas.
+Vale lembrar que, em nossos exemplos, utilizamos uma versão modificada da biblioteca, adaptada para jQuery: jasmine-jquery.
+Utilizaremos os dados de um outro artigo, Conteúdo sob demanda com jQuery. O objetivo é testar as solicitações AJAX do carregamento da lista de tweets do Tableless.</description>
+    </item>
+    
+    <item>
+      <title>Testando seu código jQuery com Jasmine – Parte 1</title>
+      <link>http://localhost/jhonny-roger/public/testando-seu-codigo-jquery-com-jasmine-parte-1/</link>
+      <pubDate>Mon, 12 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/testando-seu-codigo-jquery-com-jasmine-parte-1/</guid>
+      <description>Durante muito tempo testar/debugar JavaScript era uma tarefa árdua (infelizmente, em alguns navegadores, ainda é). Quem aí se lembra do tempo em que não existia Firebug, por exemplo? E o tamanho dos scripts? Um simples menu drop-drown possuía umas 1.500 linhas de código. Não existia jQuery ou qualquer outro tipo de framework. Tempos difíceis.
+Hoje a tarefa do desenvolvedor é muito mais fácil. Para debug temos o já citado Firebug e o Developer Tools do Chrome, entre outros.</description>
+    </item>
+    
+    <item>
+      <title>Alternativas ao jQuery</title>
+      <link>http://localhost/jhonny-roger/public/alternativas-ao-jquery/</link>
+      <pubDate>Wed, 17 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/alternativas-ao-jquery/</guid>
+      <description>Apesar de toda a sua popularidade, não são poucas as alternativas para quem procura bibliotecas mais específicas, mais eficientes em certos aspectos e mais enxutas do que o jQuery.
+Algumas foram a raiz do novo estilo de desenvolvimento JavaScript, visando uma maior legibilidade e facilidade de aprendizado e acabaram sendo responsáveis pelo atual estado das bibliotecas e frameworks JavaScript.
+A curta curva de aprendizado e o leque de plugins fazem do jQuery um concorrente imbatível (com atualmente 50% do &amp;#8220;mercado&amp;#8221;), no entanto, bibliotecas como ExtJS, MooTools e Prototype possuem uma base fiel de usuários e mostram-se alternativas altamente viáveis para a implementação de JavaScript em suas aplicações.</description>
+    </item>
+    
+    <item>
+      <title>Tenha o DOM</title>
+      <link>http://localhost/jhonny-roger/public/tenha-o-dom/</link>
+      <pubDate>Mon, 25 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tenha-o-dom/</guid>
+      <description>Muito ja foi falado sobre DOM e posso estar sendo repetitivo aqui, mas é importante falar deste assunto que em dias de manipulação pesada de seletores, percebo que pouca atenção é dada. Temos muita literatura boa sobre o assunto mas muitas vezes o foco acaba sendo o novo plugin que saiu e faz mais-do-mesmo-no-front-end-só-que-mais-fácil (E se você tiver sorte ele é free).
+Entender realmente como um navegador funciona é importante, e garante seu entendimento do real dos problemas que está enfrentando no código que está implementando.</description>
+    </item>
+    
+    <item>
+      <title>Entendendo os Reflows</title>
+      <link>http://localhost/jhonny-roger/public/entendendo-os-reflows-2/</link>
+      <pubDate>Mon, 18 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/entendendo-os-reflows-2/</guid>
+      <description>Reflow é um assunto extenso e necessário. Ele sempre vai existir nos navegadores, então temos que entendê-lo para saber como utilizá-lo de maneira racional. O mais legal é entender todo o contexto sobre o que são e como funcionam, para a partir daí repensar o código que renderizamos no navegador para obtermos maior performance.
+Reflow é o resultado de um evento que desencadeia mudanças no jeito que a pagina deve ser renderizada, tomando tempo para cálculo e reposicionamento de elementos.</description>
+    </item>
+    
+    <item>
+      <title>Habilitando tags em fotos com jQuery</title>
+      <link>http://localhost/jhonny-roger/public/habilitando-tags-em-fotos-com-jquery/</link>
+      <pubDate>Mon, 20 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/habilitando-tags-em-fotos-com-jquery/</guid>
+      <description>Marcar seus amigos nas fotos publicadas é um dos recursos mais populares do Facebook. Neste artigo você confere como implementar uma interface semelhante utilizando o plugin imgAreaSelect. Veremos apenas a parte client-side, sem armazenar as informações das tags, portanto, sem nenhuma programação server-side.
+Nosso HTML/CSS O primeiro passo é criar um HTML com a foto de exemplo. Começamos adicionando ao head chamadas para os scripts e as folhas de estilo.</description>
+    </item>
+    
+    <item>
+      <title>5 sliders de conteúdo para jQuery</title>
+      <link>http://localhost/jhonny-roger/public/5-sliders-de-conteudo-para-jquery/</link>
+      <pubDate>Wed, 25 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/5-sliders-de-conteudo-para-jquery/</guid>
+      <description>Nivo Slider Site oficial | Exemplos
+O forte do Nivo Slider é um HTML limpo para a estrutura inicial do slider. Apenas um elemento div com imagens e links é necessário. O foco principal desse slider são imagens, mas o recurso de legenda em HTML acaba possibilitando a exibição de qualquer conteúdo.
+Entre as opções oferecidas estão a velocidade e direção da transição e callbakcs para executar ações após o início e o carregamento dos slides.</description>
+    </item>
+    
+    <item>
+      <title>Em tempo de transição, quais recursos utilizar?</title>
+      <link>http://localhost/jhonny-roger/public/em-tempo-de-transicao-quais-recursos-utilizar/</link>
+      <pubDate>Tue, 24 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/em-tempo-de-transicao-quais-recursos-utilizar/</guid>
+      <description>HTML 5, CSS3, IE9, Firefox 4&amp;#8230; enfim, siglas, nomes e versões que não param de pipocar nos tweets, posts, artigos, e em todos os lugares dentro do nosso universo do desenvolvimento web e automaticamente nos perguntamos &amp;#8211; como traçar nosso trabalho nesta época de transição? O que é certo? O que é errado?
+Graciosamente retroceder ou progressivamente evoluir? A melhor análise antes de decidir qual caminho tomar e a qual evolução recorrer vem do planejamento de seu projeto.</description>
+    </item>
+    
+    <item>
+      <title>Conteúdo sob demanda com jQuery</title>
+      <link>http://localhost/jhonny-roger/public/conteudo-sob-demanda-com-jquery/</link>
+      <pubDate>Tue, 19 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/conteudo-sob-demanda-com-jquery/</guid>
+      <description>Nem sempre uma paginação é a melhor maneira de limitar o conteúdo exibido em um site. Às vezes pode ser bem chato ficar indo de página em página procurando alguma coisa, você acaba se perdendo. O Twitter é um bom exemplo. Na interface do aplicativo, o botão &amp;#8220;load more&amp;#8221; faz as vezes de uma paginação e carrega a próxima sequência de tweets em sua timeline.
+Neste artigo, além do link para carregar os próximos conteúdos, veremos também uma abordagem mais dinâmica onde o conteúdo é carregado assim que o scroll atinge o final da página.</description>
+    </item>
+    
+    <item>
+      <title>Melhorando a exibição de tabelas com jQuery</title>
+      <link>http://localhost/jhonny-roger/public/melhorando-exibicao-tabelas-jquery/</link>
+      <pubDate>Mon, 14 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/melhorando-exibicao-tabelas-jquery/</guid>
+      <description>Tabelas (aquelas com dados tabulares) são elementos importantes, principalmente em sistemas web. É muito comum a presença de tabelas na listagem dos registros em um aplicativo CRUD. Abaixo temos um exemplo de uma dessas tabelas:
+Clique aqui para fazer o download do exemplo ou aqui para visualizar o exemplo no navegador.
+Utilizando algumas ferramentas jQuery vamos dar uma vida nova para tabelas e seus dados. Efeitos como uma cor diferente no mouseover, filtros, ordenação dos registros e paginação.</description>
+    </item>
+    
+    <item>
+      <title>PDF – Browsers antigos: guerra contra o terror</title>
+      <link>http://localhost/jhonny-roger/public/browsers-antigos-guerra-contra-o-terror/</link>
+      <pubDate>Wed, 09 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/browsers-antigos-guerra-contra-o-terror/</guid>
+      <description>É muito difícil tomar a decisão de não suportar browsers antigos. Sempre há diversas desculpas, mas dependendo da empresa ou da popularidade do site/serviço, mesmo uma pequena porcentagem pode significar milhões de usuários usando browsers antigos ou que não tem um bom suporte de Padrões Web. Simplesmente ignorar algumas centenas de milhares de usuários não é algo muito aceitável. O ponto é que você não precisa ignorar estes valiosos 1%. Mas também não precisa gastar milhões nem perder muito tempo tentando resolver os problemas causados pelos browsers antigos que estes usuários usam.</description>
+    </item>
+    
+    <item>
+      <title>Um raio-x do seu website</title>
+      <link>http://localhost/jhonny-roger/public/um-raio-x-do-seu-website/</link>
+      <pubDate>Thu, 03 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/um-raio-x-do-seu-website/</guid>
+      <description>A criacão de aplicações web evolui ao longo dos anos. A interação front-end/aplicação também segue esta evolução e é previsivel que a complexidade e a integração de funcionalidades com a interface web deva evoluir tambem. Só que para devs front-end, essa complexidade não está em novas linguagens ou tecnologias, e sim em como embarcar todas elas em um HTML semântico, limpo e de acordo com os requisitos. Tudo isso no menor tempo possível.</description>
+    </item>
+    
+    <item>
+      <title>12 plugins jQuery para começar bem o ano</title>
+      <link>http://localhost/jhonny-roger/public/12-plugins-jquery-para-comecar-bem-o-ano/</link>
+      <pubDate>Thu, 17 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/12-plugins-jquery-para-comecar-bem-o-ano/</guid>
+      <description>O grande diferencial do jQuery é sua enorme biblioteca de plugins. Na lista abaixo, veremos plugins que cobrem desde upload de arquivos, passando por uma galeria de imagens diferente e indo até um emulador de livro/revista (aquele esquema de folhear, bastante famoso em aplicativos flash).
+Procurei escolher plugins mais novos, desenvolvidos recentemente, mas nem todos seguem este padrão. Meu sonho é poder fazer, um dia, uma lista desse tipo apenas com plugins brasileiros.</description>
+    </item>
+    
+    <item>
+      <title>Carrinho de compras com drag and drop</title>
+      <link>http://localhost/jhonny-roger/public/carrinho-de-compras-com-drag-and-drop/</link>
+      <pubDate>Thu, 13 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/carrinho-de-compras-com-drag-and-drop/</guid>
+      <description>Se você comprou alguma coisa recentemente no Submarino deve ter notado uma nova opção na interface do site: agora é possível arrastar os produtos exibidos na página para o seu carrinho, que fica exibido de forma permanente no topo do site.
+De uma forma simples, vou tentar mostrar pra vocês como implementar uma solução parecida utilizando jQuery e sua biblioteca para interfaces, a jQuery UI &amp;#8211; é nela que encontramos os plugins draggable() e droppable(), responsáveis, como os nomes sugerem, por toda nossa operação de arrastar e soltar produtos.</description>
+    </item>
+    
+    <item>
+      <title>JQuery para produção de Layouts</title>
+      <link>http://localhost/jhonny-roger/public/jquery-para-layouts/</link>
+      <pubDate>Wed, 15 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/jquery-para-layouts/</guid>
+      <description>O JQuery tem me dado um importante suporte para aqueles problemas que o CSS não consegue resolver por falta de compatibilidade em alguns browsers e também para evitar sujar o código HTML com elementos dispensáveis, em ocasiões comuns como no caso da criação de bordas arredondadas.
+Nestes cenários, invarialmente temos que criar alguns elementos agregados que servirão para dar exclusivamente suporte visual para o layout.
+Não é bom que sujemos nosso HTML com código que não carregue significado semântico nenhum, mas em alguns casos, como ao fazer bordas arredondadas, a criação destes elementos é necessária.</description>
+    </item>
+    
+    <item>
+      <title>Templates e jQuery – parte 2</title>
+      <link>http://localhost/jhonny-roger/public/templates-jquery-parte2/</link>
+      <pubDate>Mon, 13 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/templates-jquery-parte2/</guid>
+      <description>Na primeira parte deste artigo você conferiu uma introdução ao novo plugin .tmpl() que possibilita a utilização de templates para retornos e saídas de suas aplicações jQuery. O plugin certamente é um avanço considerável na organização de código &amp;#8211; é o JavaScript ficando cada vez mais profissional e robusto, abandonando a fama de ser uma simples linguagem de script, sem padrões.
+A forma mais básica de utilização do plugin .</description>
+    </item>
+    
+    <item>
+      <title>Bem vindo a Xangri-lá – Parte 2</title>
+      <link>http://localhost/jhonny-roger/public/bem-vindo-a-xangrila-parte-2/</link>
+      <pubDate>Mon, 06 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/bem-vindo-a-xangrila-parte-2/</guid>
+      <description>Uma vez familiares com a premissa do Progressive Enhancement, vamos entender como aplicar a abordagem para criar suas páginas do zero, garantindo que elas funcionem na maior aplitude de navegadores e dispositivos. Antes de começar, é importante lembrar que para tudo funcionar bem, você precisa conhecer as funcionalidades e limitações da especificacao HTML, seus elementos, tags, e atributos aprovados, isso esta disponivel no site do w3c. É importante tambem se manter no bleeding edge, para que novas linguagens (como o HTML5) não fiquem de fora de suas análises e ponderações.</description>
+    </item>
+    
+    <item>
+      <title>Templates e jQuery – parte 1</title>
+      <link>http://localhost/jhonny-roger/public/templates-e-jquery-parte-1/</link>
+      <pubDate>Mon, 08 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/templates-e-jquery-parte-1/</guid>
+      <description>Na dieta diária do desenvolvedor front-end sempre esteve presente uma saladinha de HTML com JavaScript. Principalmente quando precisamos implementar um código com funcionalidades AJAX. Por exemplo, imagine que o bloco abaixo representa o retorno de um getJSON() da vida:
+for( i in noticias ) { html = &#39;&amp;lt;li&amp;gt;&amp;lt;h3&amp;gt;&#39; + noticias[i][&#39;titulo&#39;] + &#39;&amp;lt;/h3&amp;gt;&#39;; html += &#39;&amp;lt;span class=&#34;data&#34;&amp;gt;&#39; + noticias[i][&#39;data_publicacao&#39;] + &#39;&amp;lt;/span&amp;gt;&#39;; html += &#39;&amp;lt;span&amp;gt;&#39; + noticias[i][&#39;chamada&#39;] + &#39;&amp;lt;/span&amp;gt;&#39;; html += &#39;&amp;lt;span&amp;gt;&amp;lt;a href=&#34;</description>
+    </item>
+    
+    <item>
+      <title>Javascript e acessibilidade</title>
+      <link>http://localhost/jhonny-roger/public/javascript-e-acessibilidade/</link>
+      <pubDate>Thu, 04 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/javascript-e-acessibilidade/</guid>
+      <description>É muito comum o desenvolvedor ficar empolgado ao descobrir recursos, plugins, animações e efeitos JavaScript e acabar exagerando no produto final. Também é muito comum, como disse a Thaiana, que acessiblidade esteja ligado exclusivamente a sites governamentais. Aos poucos este cenário está mudando.
+Além de tornar o seu site acessível à pessoas com necessidades especiais, as técnicas abaixo serão úteis também quando o navegador do usuário estiver com JavaScript desabilitado.</description>
+    </item>
+    
+    <item>
+      <title>Vote no Especialista em Usabilidade para Presidente</title>
+      <link>http://localhost/jhonny-roger/public/vote-no-especialista-em-usabilidade-para-presidente/</link>
+      <pubDate>Thu, 21 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/vote-no-especialista-em-usabilidade-para-presidente/</guid>
+      <description>﻿(A discussão deste post vale para aplicações de grande porte, o que não significa que a mesma abordagem possa ser aplicada com sucesso em ambientes menores como blogs, por exemplo)        ﻿(A discussão deste post vale para aplicações de grande porte, o que não significa que a mesma abordagem possa ser aplicada com sucesso em ambientes menores como blogs, por exemplo) Usabilidade é um termo usado para definir a facilidade com que as pessoas podem empregar uma ferramenta ou objeto a fim de realizar uma tarefa específica e importante.</description>
+    </item>
+    
+    <item>
+      <title>Associando eventos dinamicamente</title>
+      <link>http://localhost/jhonny-roger/public/associando-eventos-dinamicamente/</link>
+      <pubDate>Mon, 04 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/associando-eventos-dinamicamente/</guid>
+      <description>No JavaScript, eventos correspondem à qualquer interação do usuário com o navegador. O clássico addEventListener ganhou sua versão no jQuery através do método .bind() ou com seus respectivos métodos (.click(), .focus(), .keyup() etc. ). Da mesma forma, é possível remover/desassociar um evento através do método .unbind(). O assunto eventos é tão rico que merece um outro artigo.
+Neste, vou falar dos métodos .live() e .die() e dos novos .delegate() e .</description>
+    </item>
+    
+    <item>
+      <title>Anatomia de um plugin jQuery</title>
+      <link>http://localhost/jhonny-roger/public/anatomia-de-um-plugin-jquery/</link>
+      <pubDate>Tue, 14 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/anatomia-de-um-plugin-jquery/</guid>
+      <description>Um dos grandes trunfos do jQuery é a sua vasta gama de plugins. Praticamente qualquer efeito, ação ou manipulação que você consiga imaginar já deve possuir um plugin. Caso contrário, quem sabe você mesmo não desenvolve um?
+Neste artigo, você confere técnicas de como criar o seu próprio plugin. Vamos ver dois exemplos. O primeiro plugin adiciona classes ao primeiro e último ítem de uma lista, tabela, div etc. e o segundo simula a busca por textos do navegador Safari (aquele highlight bacana, como um marcador de textos, no termo procurado).</description>
+    </item>
+    
+    <item>
+      <title>Digest 06/09: Javascript, JQuery</title>
+      <link>http://localhost/jhonny-roger/public/digest-0609-javascript-jquery/</link>
+      <pubDate>Thu, 25 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/digest-0609-javascript-jquery/</guid>
+      <description> Create Vime-like top navigation  JQuery (mb)menu JQuery idTabs Create a Slick Tabbed Content Area using CSS &amp;amp; jQuery Create a Cool Animated Navigation with CSS and jQuery Lavalamp for jQuery lovers How to Make a Smooth Animated Menu With jQuery   </description>
+    </item>
+    
+    <item>
+      <title>Digest 05/09: Javascript, JQuery</title>
+      <link>http://localhost/jhonny-roger/public/digest-0509-javascript-jquery/</link>
+      <pubDate>Mon, 25 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/digest-0509-javascript-jquery/</guid>
+      <description> 18 JQuery Scripts and Tutorials to Improve your Portfolio  10+ jQuery photo gallery and slider plugins CSS Sprites 2: It&amp;#8217;s Javascript Time Sliding JQuery Menu JQuery Tabbed Interface JQuery File Tree Kwicks for JQuery   </description>
+    </item>
+    
+    <item>
+      <title>Digest 04/09: Javascript, JQuery e Ajax</title>
+      <link>http://localhost/jhonny-roger/public/digest-0409-javascript-jquery-e-ajax/</link>
+      <pubDate>Wed, 29 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/digest-0409-javascript-jquery-e-ajax/</guid>
+      <description> Useful Javascript, jQuery, and AJAX Tutorials and Resources &amp;#8211; Massive Link Collection Part #1  jQuery Tips and Tricks II 10 Best jQuery Datepickers Plugins 20 Useful PHP + jQuery Components &amp;amp; Tuts for Everyday Project Best of JQuery Tutorials 10 JQuery and Non JQuery Javascript Rich Text Editors 25+ jQuery Plugins that enhance and beautify HTML form elements Roundup of Javascript Cheat Sheets   </description>
+    </item>
+    
+  </channel>
+</rss>

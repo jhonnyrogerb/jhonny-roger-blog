@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acessibilidade on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/categories/acessibilidade/</link>
+    <description>Recent content in Acessibilidade on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 07 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/categories/acessibilidade/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Páginas acessíveis com o HaTeMiLe</title>
+      <link>http://localhost/jhonny-roger/public/paginas_acessiveis_hatemile/</link>
+      <pubDate>Sun, 07 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/paginas_acessiveis_hatemile/</guid>
+      <description>A acessibilidade finalmente esta se tornando uma das metas no desenvolvimento web, mesmo assim ela enfrenta um conjunto de problemas:
+ nas aulas, apostilas e tutoriais sobre desenvolvimento web dificilmente abordam a acessibilidade; mesmo conhecendo os Padrões Web (HTML, CSS e JavaScript) o desenvolvedor pode acabar desenvolvendo páginas web inacessíveis; frameworks e temas utilizados no desenvolvimento podem contribuir com páginas inacessíveis.  Baseando-se nos polyfills, que permitem prover um recurso não suportado pelo browser, foi desenvolvido o HaTeMiLe (anagrama para HTML Accessible, removendo as consoantes de Accessible), uma biblioteca que utiliza os Padrões Web para tentar resolver alguns problemas de acessibilidade.</description>
+    </item>
+    
+    <item>
+      <title>Contraste de cores – Acessibilidade na web</title>
+      <link>http://localhost/jhonny-roger/public/contraste-de-cores-acessibilidade-na-web/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/contraste-de-cores-acessibilidade-na-web/</guid>
+      <description>Nesse post vou explicar uma das opções de como fazer um contraste de cores, existe diretrizes de acessibilidade da WCAG 2.0 que explica o nível aceitável de contraste de cores esperadas em um site, veja nesse link.
+Proposta Criar um contraste de cores em três níveis (Branco, Preto e Azul) usando HTML5, CSS3, Javascript (Puro), Node e o Cookie do navegado para guarda o contraste escolhido.
+Como será feito  Em uma página teremos quatro links em que o usuário vai escolher (Preto, branco, azul ou sem contraste).</description>
+    </item>
+    
+    <item>
+      <title>Acessibilidade básica no formulário de contato</title>
+      <link>http://localhost/jhonny-roger/public/acessibilidade-basica-no-formulario-de-contato/</link>
+      <pubDate>Mon, 08 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/acessibilidade-basica-no-formulario-de-contato/</guid>
+      <description>Um dos itens indispensáveis em um site é o formulário de contato, já pensou deixar ele acessível para todos na web? Na atualidade a acessibilidade vem sendo levada a sério com o avanço das tecnologias web e as supostas padronizações dos navegadores, e a acessibilidade hoje na web é muito importante, e a chegada do HTML5 deixou marcação do HTML mais explicativa para usuários acessíveis.
+WCAG 2.0 o que é ?</description>
+    </item>
+    
+    <item>
+      <title>Por que inscrever seu site no prêmio de acessibilidade?</title>
+      <link>http://localhost/jhonny-roger/public/por-que-inscrever-seu-site-no-premio-de-acessibilidade/</link>
+      <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/por-que-inscrever-seu-site-no-premio-de-acessibilidade/</guid>
+      <description>Tenho conversado com algumas pessoas que trabalham com desenvolvimento e tem belos sites que poderiam participar do Prêmio Nacional de Acessibilidade na Web. Quando recomendo que inscrevam seu trabalho, ouço os mais diversos argumentos:
+ Não tenho chance de ganhar Não tenho material para inscrever Meu site não é 100% acessível Não conheço todos os requisitos de acessibilidade  Baseado nessas respostas, gostaria de elencar alguns bons motivos para que as pessoas sim, inscrevam seu site no prêmio:</description>
+    </item>
+    
+    <item>
+      <title>Uso acessível: O cumprimento das premissas na web contemporânea</title>
+      <link>http://localhost/jhonny-roger/public/uso-acessivel-o-cumprimento-das-premissas-na-web-contemporanea/</link>
+      <pubDate>Thu, 29 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/uso-acessivel-o-cumprimento-das-premissas-na-web-contemporanea/</guid>
+      <description>Há muito tempo venho pensado sobre acessibilidade nos dias de hoje. Notei que muitos dos sites, atualmente, sejam de comércio eletrônico ou não, são, em parte, inacessíveis a usuários com necessidades especiais.
+A parte mais intrigante é que, se pararmos pra pensar, todos temos alguma necessidade. Seja algo relacionado ao tempo que podemos gastar em uma conexão a um site, ou ao design de uma página que nos prejudica por não ser adaptável, ou ainda, ao tráfego de dados por uma conexão ruim e até mesmo, como disse uma vez nosso conhecido Diego Eis: &amp;#8220;Acessibilidade é tudo sobre a necessidade das pessoas&amp;#8220;, e realmente é.</description>
+    </item>
+    
+    <item>
+      <title>Acessibilidade na web: Como tornar seu site acessível.</title>
+      <link>http://localhost/jhonny-roger/public/acessibilidade-na-web-atualizando-como-tornar-seu-site-acessivel/</link>
+      <pubDate>Mon, 26 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/acessibilidade-na-web-atualizando-como-tornar-seu-site-acessivel/</guid>
+      <description>Você talvez esteja lendo essas primeiras linhas e pensando: por que tornar um site acessível? E por que me preocupar com isso quando meu prazo de entrega é tão curto?
+Eu explico: acessibilidade na web é uma questão de boa prática. Além de você colaborar para que mais pessoas sejam impactadas pelo conteúdo disseminado em seu site, você ainda estará fazendo parte dos profissionais que conhecem e querem implementar cuidados básicos que geram imensos resultados à navegação diferenciada à que estamos habituados.</description>
+    </item>
+    
+    <item>
+      <title>Quanto menos tempo o visitante passar em seu site, melhor!</title>
+      <link>http://localhost/jhonny-roger/public/quanto-menos-tempo-o-visitante-passar-em-seu-site-melhor/</link>
+      <pubDate>Sat, 20 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/quanto-menos-tempo-o-visitante-passar-em-seu-site-melhor/</guid>
+      <description>Você deve estar pensando: &amp;#8220;Mas este cara é louco! Quanto mais tempo o visitante passar em meu site, melhor!&amp;#8221;. E que tal detalharmos o título em: &amp;#8220;Quanto menos tempo o visitante passar em seu site consumindo um determinado conteúdo, melhor.&amp;#8220;? Ainda não? Deixe-me explicar.
+Tempo, um dos substantivos mais valiosos em nossas vidas, se não o mais. Na Internet não poderia ser diferente. Vivemos em constante correria, e na agitação do dia-a-dia, o tempo tem sido um fator determinante no planejamento da usabilidade (UX) de um projeto web.</description>
+    </item>
+    
+    <item>
+      <title>Nós quebramos a web</title>
+      <link>http://localhost/jhonny-roger/public/nos-quebramos-web/</link>
+      <pubDate>Mon, 04 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/nos-quebramos-web/</guid>
+      <description>Depois das grandes evoluções que tivemos na web (HTML5, CSS3 e novas APIs JavaScript), junto vieram alguns problemas, aquela história de &amp;#8220;Com grandes poderes vem grandes responsabilidades&amp;#8221;. As novas features da Open Web são fantásticas. Lembro-me bem quando nós eramos cautelosos no usar certos recursos com medo de não conseguir entregar o conteúdo ao usuário. No fim, surgiram (e surgem) polyfills e n maneiras de darmos fallback ao usuário com menos recursos.</description>
+    </item>
+    
+    <item>
+      <title>O poder do atributo “ALT”</title>
+      <link>http://localhost/jhonny-roger/public/o-poder-do-atributo-alt/</link>
+      <pubDate>Fri, 27 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-poder-do-atributo-alt/</guid>
+      <description>Ao desenvolver um website, temos que pensar em acessibilidade para que seja visto por qualquer usuário. Tendo em vista que sua equipe planejou um website acessível, vocês pensaram em colocar em todas as imagens o atributo&amp;#8221;ALT&amp;#8221;. Pois, websites hoje em dia tem centenas ou milhares de imagens. Já imaginou você olhando para um quadro com uma imagem sem descrição nenhuma, pois é assim que um deficiente visual pode se sentir ao acessar seu website com várias imagens e ao executar um software sintetizador de voz, não tem nenhuma informação do que está na página.</description>
+    </item>
+    
+    <item>
+      <title>Entendendo o Outline do HTML</title>
+      <link>http://localhost/jhonny-roger/public/entendendo-o-outline-html/</link>
+      <pubDate>Thu, 22 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/entendendo-o-outline-html/</guid>
+      <description>O Outline do documento HTML é a estrutura do documento que é gerada pelos títulos, títulos de formulários, títulos das tabelas e qualquer outro elemento que marque alguma seção de conteúdo no documento. Essas marcações de Outline podem ser usadas para várias iniciativas, por exemplo, um browser ou alguma outra interface possa criar uma Tabela de Conteúdo. Outras tecnologias assistivas podem usar também estas seções para formar a navegação, como em um leitor de tela, mas ou menos como acontece no WAI-ARIA, mas de maneira mais natural.</description>
+    </item>
+    
+    <item>
+      <title>Participe da cerimônia de premiação do Todos@Web</title>
+      <link>http://localhost/jhonny-roger/public/participe-da-cerimonia-de-premiacao-todosweb/</link>
+      <pubDate>Tue, 25 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/participe-da-cerimonia-de-premiacao-todosweb/</guid>
+      <description>No dia 4 de dezembro de 2014 acontece o momento máximo da acessibilidade na Web no Brasil. Nessa noite serão conhecidos os vencedores da terceira edição do Prêmio Nacional de Acessibilidade na Web, organizado pelo W3C Brasil e CGI.br. Dezenas de especialistas em acessibilidade estarão presente entre os finalistas e avaliadores dos trabalhos para celebrar a Web inclusiva, que não cria barreiras de acesso para as pessoas.
+Durante a cerimônia o público vai conhecer quais são as pessoas e instituições que vem fomentando a acessibilidade na Web no Brasil, as tecnologias assistivas e aplicativos inovadores que possibilitam o acesso a Web de pessoas com deficiência e projetos web que não criem barreiras para pessoas com deficiências e seguem boas práticas de acessibilidade em seus sites.</description>
+    </item>
+    
+    <item>
+      <title>Participe do Prêmio Nacional de Acessibilidade na Web 2014</title>
+      <link>http://localhost/jhonny-roger/public/participe-premio-nacional-de-acessibilidade-na-web/</link>
+      <pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/participe-premio-nacional-de-acessibilidade-na-web/</guid>
+      <description>As inscrições para a terceira edição do Prêmio Nacional de Acessibilidade na Web estão abertas. Mais uma vez o W3C Brasil abre as inscrições para essa premiação como objetivo promover nacionalmente a acessibilidade na web, de forma a conscientizar desenvolvedores e homenagear pessoas que se destacaram em atividades que visam promover o acesso a web e ações em prol do acesso de pessoas com deficiências na web.
+Se você tem um trabalho de fomento a acessibilidade na Web, desenvolve sites que não criem barreiras para pessoas com deficiência ou desenvolveu uma tecnologia assistiva que possibilite o acesso a Web de pessoas com deficiência, essa é a hora de inscrever seu trabalho.</description>
+    </item>
+    
+    <item>
+      <title>Cabeçalhos nível 1, sections e acessibilidade</title>
+      <link>http://localhost/jhonny-roger/public/cabecalhos-nivel-1-e-sections/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/cabecalhos-nivel-1-e-sections/</guid>
+      <description>Na semana passada li um artigo bem interessante sobre a utilização de múltiplos 
+em uma página separada por  e como isso impacta a acessibilidade das páginas Web. Depois de algumas conversas pelo Twitter resolvi pesquisar e escrever um pouco sobre o assunto.
+Antes de mais nada, quero deixar claro que essa é uma abordagem com relação a acessibilidade das páginas e não sobre SEO. Essa conversa sobre como mais de um  interfere no resultado de busca é antiga mas vale um novo post para o tema.</description>
+    </item>
+    
+    <item>
+      <title>Participe da Cerimônia de Premiação do Todos@web 2013</title>
+      <link>http://localhost/jhonny-roger/public/participe-da-cerimonia-de-premiacao-todosweb-2013/</link>
+      <pubDate>Wed, 27 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/participe-da-cerimonia-de-premiacao-todosweb-2013/</guid>
+      <description>O W3C Brasil e o Comitê Gestor da Internet no Brasil convidam para a cerimônia de premiação da segunda edição do Prêmio Nacional de Acessibilidade na Web &amp;#8211; todos@web, que acontecerá no dia 3 de dezembro de 2013 em São Paulo.
+Nesse dia serão conhecidos os vencedores das categorias Pessoas/Instituições, Projetos Web e Tecnologias Assistivas/Aplicativos. A lista completa de finalistas está disponível em http://premio.w3c.br/finalistas/
+A entrada é gratuita, mas somente pré-inscritos poderão assistir a cerimônia.</description>
+    </item>
+    
+    <item>
+      <title>WAI-ARIA – Estendendo o significado das interações</title>
+      <link>http://localhost/jhonny-roger/public/wai-aria-estendendo-o-significado-das-interacoes/</link>
+      <pubDate>Mon, 18 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/wai-aria-estendendo-o-significado-das-interacoes/</guid>
+      <description>O HTML serve para apenas uma coisa: dar significado à informação. Ele faz isso marcando a informação com as famosas tags. Feito isso você passa para o CSS e o Javascript, que ficarão com as responsabilidades de formatar essa informação e manipular seu comportamento.
+O ponto é que a semântica não fica apenas na hora de marcar a informação com HTML puro. Como você faz para que um usuário com deficiência visual saiba que a informação que ele procura está dentro de um collapse, e esse collapse está fechado?</description>
+    </item>
+    
+    <item>
+      <title>Prorrogadas as inscrições para o Prêmio Nacional de Acessibilidade na Web</title>
+      <link>http://localhost/jhonny-roger/public/prorrogadas-inscricoes-para-o-premio-nacional-de-acessibilidade-na-web/</link>
+      <pubDate>Mon, 30 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/prorrogadas-inscricoes-para-o-premio-nacional-de-acessibilidade-na-web/</guid>
+      <description>Ainda dá tempo de participar da segunda edição do Prêmio Nacional de Acessibilidade na Web, promovido pelo W3C Brasil para fomentar iniciativas que beneficiem o acesso a todas as pessoas. O prazo termina nessa sexta-feira, dia 4 de outubro.
+Pesquisa recente do W3C Brasil aponta que o indicador de conformidade aos padrões de acessibilidade de páginas de sítios web dos órgãos públicos brasileiros alcança a média de 5% do total de mais 6 milhões de páginas analisadas.</description>
+    </item>
+    
+    <item>
+      <title>Sobre organizar informação</title>
+      <link>http://localhost/jhonny-roger/public/sobre-organizar-informacao/</link>
+      <pubDate>Tue, 10 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sobre-organizar-informacao/</guid>
+      <description>Quando eu era criança, fazer trabalhos escolares era algo corriqueiro. O processo quase sempre era assim: a professora definia o assunto e ao chegar em casa, pegava um bocado de papel almaço (lembra?) e ia para casa da minha tia. Ela era a única da família que tinha enciclopédias. Se eu precisava fazer um trabalho escolar, certamente as enciclopédias da minha tia me ajudariam na tarefa. As tais enciclopédias eram pesadas.</description>
+    </item>
+    
+    <item>
+      <title>Abertas as inscrições para a 2ª edição do Prêmio Nacional de Acessibilidade na Web</title>
+      <link>http://localhost/jhonny-roger/public/abertas-as-inscricoes-para-a-2a-edicao-do-premio-nacional-de-acessibilidade-na-web/</link>
+      <pubDate>Mon, 05 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/abertas-as-inscricoes-para-a-2a-edicao-do-premio-nacional-de-acessibilidade-na-web/</guid>
+      <description>Você desenvolve projetos web acessíveis? Tem um trabalho de fomentar padrões abertos e acessíveis ou desenvolve aplicações que auxiliam pessoas com deficiência a acessar a Web? Você pode participar do Prêmio Todos@web.
+O Prêmio Nacional de Acessibilidade na Web tem como objetivo promover nacionalmente a acessibilidade na web, de forma a conscientizar desenvolvedores e homenagear ações em prol do acesso de pessoas com deficiências na web.
+Categorias  Pessoas / Instituições Prêmio à pessoa/entidade que fez um grande trabalho ou promoveu alguma ação para o fomento da acessibilidade na web nos últimos 12 meses (01 de janeiro de 2012 a 31 de dezembro de 2012), permitindo que pessoas com deficiências tenham mais autonomia na web.</description>
+    </item>
+    
+    <item>
+      <title>CSS e acessibilidade na web</title>
+      <link>http://localhost/jhonny-roger/public/css-e-acessibilidade-na-web/</link>
+      <pubDate>Tue, 12 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css-e-acessibilidade-na-web/</guid>
+      <description>Temos abordado bastante a importância da acessibilidade na web na estrutura e semântica do código HTML: cabeçalhos, tabelas, textos alternativos e outros recursos para deixar o markup robusto e acessível. Mas todos são elementos que podem ser manipulados pelo CSS e por isso devemos ter certos cuidados com a acessibilidade deles.
+Softwares leitores de tela já são capazes de identificar elementos de formatação visual das páginas que não foram declaradas no HTML e sim no CSS, como tipo e cor de fonte por exemplo.</description>
+    </item>
+    
+    <item>
+      <title>Favicons</title>
+      <link>http://localhost/jhonny-roger/public/favicons/</link>
+      <pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/favicons/</guid>
+      <description>Favicons Se você ainda não sabe, Favicons são aqueles pequenos ícones que ficam ao lado da barra de endereços de um navegador e servem, entre outras funções, para identificar rapidamente um site. Os Favicons são um velhos conhecidos dos designers e desenvolvedores. Já são 14 anos de história. E neste meio tempo muita coisa evoluiu. Surgiram smartphones, tablets, televisores, sistemas operacionais modernos, telas de alta resolução e o favicon foi mudando de tamanho, posição e formato, conquistando um espaço muito além da barra de ferramentas do navegador.</description>
+    </item>
+    
+    <item>
+      <title>Como schema pode te ajudar em SEO</title>
+      <link>http://localhost/jhonny-roger/public/como-schema-pode-te-ajudar-em-seo/</link>
+      <pubDate>Fri, 01 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/como-schema-pode-te-ajudar-em-seo/</guid>
+      <description>Já imaginou chegar em um corredor com 5 portas iguais, mas precisa decidir em qual delas é mais relevante. Qual critério usaria para decidir qual escolher ? Muitas vezes fazemos assim em nossos códigos quando colocamos no ar nossos sites. Por mais que os buscadores sejam capazes de identificar informações contidas no site, é possível deixar o trabalho deles ainda mais fácil usando schema.
+Schema são tags padrões que foram adicionadas ao HTML afim de facilitar o entendimento de determinada informação pelos buscadores.</description>
+    </item>
+    
+    <item>
+      <title>E-mail Newsletter Responsivo</title>
+      <link>http://localhost/jhonny-roger/public/e-mail-newsletter-responsivo/</link>
+      <pubDate>Thu, 03 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/e-mail-newsletter-responsivo/</guid>
+      <description>Design Responsivo Um assunto que ganhou muita evidência este ano no mundo do design digital é o desenvolvimento de sites responsivos. O termo, emprestado da arquitetura, surgiu em um post do blog A List Apart. Em resumo, são técnicas de design e CSS que, visando a usabilidade e a acessibilidade do conteúdo, fazem com que um site se adapte ao dispositivo do usuário. Parece mágico, mas na verdade é uma combinação de folhas de estilo engenhosas, matemática e um pouco de bom senso.</description>
+    </item>
+    
+    <item>
+      <title>Passwords em Mobiles</title>
+      <link>http://localhost/jhonny-roger/public/passwords-em-mobiles/</link>
+      <pubDate>Sun, 11 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/passwords-em-mobiles/</guid>
+      <description>Estava conversando outro dia com um pessoal sobre melhores práticas em sites/sistemas mobile. Um dos pontos foi a forma que tratamos senhas em mobiles. Em desktops e outros terminais (como caixas eletrônicos) é necessário que sua senha seja escondida conforme você a digita. Isso é bom por que pode ter algum engraçadinho perto de você, olhando a sua tela. Com mobile é um pouco diferente. Normalmente você está com o dispositivo na sua mão, utilizando-o perto do seu corpo, bem difícil de alguém tentar ficar bisbilhotando, e se estiver é fácil de esconder.</description>
+    </item>
+    
+    <item>
+      <title>Microdados do HTML5</title>
+      <link>http://localhost/jhonny-roger/public/microdados-do-html5/</link>
+      <pubDate>Fri, 28 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/microdados-do-html5/</guid>
+      <description>Como você diz para o sistema de busca que uma resenha em determinado site é uma resenha? E como você disponibiliza informações sobre seu evento como o local, data e etc para serviços na internet? Informação é para ser utilizada e reutilizada. Ela é reciclada diversas vezes por diversos motivos e por diversos meios.
+A especificação de Microdados do HTML define um mecanismo que permite que máquinas &amp;#8211; leia-se meios de acesso como scripts, aparelhos, sistemas, serviços etc &amp;#8211; reconheçam dados que possam ser embedados em documentos HTML de uma forma fácil.</description>
+    </item>
+    
+    <item>
+      <title>Web Index</title>
+      <link>http://localhost/jhonny-roger/public/web-index/</link>
+      <pubDate>Wed, 05 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/web-index/</guid>
+      <description>O Web Index, projeto liderado pelo Tim Berners-Lee, foi lançado hoje. Trata-se de um projeto interessante e muito importante que mostra qual a real penetração (ui&amp;#8230;) da Web nos diversos países do mundo.
+As pesquisas e bases de dados que existem hoje mensuram apenas dados quantitativos, tipo: número de assinantes de internet, velocidade de conexão, número de usuários e etc. O Tim Berners-Lee e o pessoal da Web Foundation entende que esses dados não são suficientes para construir uma Web aberta e significativa, que seja uma ferramenta real de transformação e que aumente os padrões de vida, que reduz conflitos e que melhore o governo.</description>
+    </item>
+    
+    <item>
+      <title>Qual unidade utilizar – Pixel, EM ou REM</title>
+      <link>http://localhost/jhonny-roger/public/unidade-pixels-em-rem/</link>
+      <pubDate>Mon, 03 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/unidade-pixels-em-rem/</guid>
+      <description>Aqui no Brasil é muito comum usarmos pixels para definição de tamanho de textos. Lá fora a galera gosta muito de usar EM. Mas qual a diferença? Por que usar um ou outro?
+Pixels Unidade em pixels é mais velho que andar para trás. Você utiliza pixels para definir a largura de um elemento, o tamanho do texto, a espessura da borda e outras coisas.
+Os pixels são utilizados para definir o tamanho dos textos por que é a medida mais exata que você pode encontrar.</description>
+    </item>
+    
+    <item>
+      <title>Eu não sou uma máquina</title>
+      <link>http://localhost/jhonny-roger/public/eu-nao-sou-uma-maquina/</link>
+      <pubDate>Thu, 30 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/eu-nao-sou-uma-maquina/</guid>
+      <description>Por trás de uma máquina, alguém faz perguntas sem sentido, com a intenção de descobrir se você é uma pessoa ou robô. Não estou falando do interrogatório do caçador de andróides, entre Rick Deckard e Rachael durante uma sequência do filme Blade Runner, de 1982. Estou falando de uma pessoa que está fazendo uma compra em uma loja online em 2012. Estou falando do CAPTCHA.
+O CAPTCHA, acrônimo de “_Completely Automated Public Turing test to tell Computers and Humans Apart_” é um teste cognitivo criado para evitar que robôs preencham campos de formulários, especialmente para o envio de spams.</description>
+    </item>
+    
+    <item>
+      <title>Entendendend a regra @viewport do HTML</title>
+      <link>http://localhost/jhonny-roger/public/regra-viewport/</link>
+      <pubDate>Mon, 04 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/regra-viewport/</guid>
+      <description>Faz algum tempo que podemos manipular o viewport dos browsers para podermos entregar um website mais adequado e confortável para os usuários. Essa manipulação era feita diretamente via uma metatag no head do documento, algo assim:
+&amp;lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1, maximum-scale=1.0&#34;&amp;gt;  Isso é necessário por que você tem uma resolução gigante em aparelhos com a tela &amp;#8220;relativamente&amp;#8221; pequena, com 320&amp;#215;480. Lembre-se que a resolução é uma coisa, o tamanho da tela é outra.</description>
+    </item>
+    
+    <item>
+      <title>Project Glass</title>
+      <link>http://localhost/jhonny-roger/public/project-glass/</link>
+      <pubDate>Wed, 04 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/project-glass/</guid>
+      <description>Eu estou separando um tempo frequentemente para ler sobre tecnologias que podem nos influenciar no futuro. Gosto muito de tentar imaginar como a web será daqui um tempo e como nós, desenvolvedores, designers, profissionais de usabilidade e acessibilidade podem se adequar em um lugar onde os browsers, realmente, serão secundários. Comece vendo o vídeo da HP, mostrando a Cooltown, feito há alguns anos.
+Hoje surgiu um vídeo no Brain9, sobre uma iniciativa do Google para um óculos que usa a tecnologia ao nosso favor, em tarefas simples e diárias.</description>
+    </item>
+    
+    <item>
+      <title>As cores da minha web</title>
+      <link>http://localhost/jhonny-roger/public/as-cores-da-minha-web/</link>
+      <pubDate>Mon, 02 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/as-cores-da-minha-web/</guid>
+      <description>Talvez as cores que eu veja não sejam as mesmas que você enxerga, mas isso não faz com que a sua percepção da web seja diferente. Nesse ambiente tão democrático, nada mais justo do que discutir as diversas formas de perceber as cores da web.
+Tenho um grande amigo que sonhava ser piloto de avião. Por trabalhar em uma empresa aérea, a proximidade com as grandes máquinas voadoras o encantava. Porém, seu sonho de pilotar acabou quando, aos trinta anos de idade, ele descobriu que tinha um grau de daltonismo que o impediu de continuar o treinamento.</description>
+    </item>
+    
+    <item>
+      <title>Schema – Marcação de dados estruturados</title>
+      <link>http://localhost/jhonny-roger/public/schema-marcacao-de-dados-estruturados/</link>
+      <pubDate>Mon, 02 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/schema-marcacao-de-dados-estruturados/</guid>
+      <description>Há cerca de cinco anos atrás os principais buscadores se uniram para definir uma nova estrutura que pode ser chamado de “mapa de um site”, um documento onde tem uma única função que é informar aos buscadores a estrutura de um site, vídeos ou imagens. Essa estrutura é utilizada até hoje pelos desenvolvedores permitindo assim que todas as áreas ou páginas sejam facilmente “descobertas” pelos crawlers dos buscadores, foi assim que surgiu o sitemap.</description>
+    </item>
+    
+    <item>
+      <title>Acessibilidade, como mudar o Brasil?</title>
+      <link>http://localhost/jhonny-roger/public/acessbilidade-como-mudar-o-brasil/</link>
+      <pubDate>Tue, 27 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/acessbilidade-como-mudar-o-brasil/</guid>
+      <description>Esse não é apenas um artigo para você se informar. Pelo contrário, é o que eu menos pretendo com ele. É um chamado à ação!
+O tema é Acessibilidade na Web. Trata-se de, ao construir um site, fazê-lo para que seja acessível para qualquer pessoa, em qualquer dispositivo, em qualquer conexão. Trata-se de fazer o site acessível para você mesmo quando estiver navegando no celular, ou sem óculos, ou de uma conexão lenta, ou dirigindo.</description>
+    </item>
+    
+    <item>
+      <title>Qualidade de Imagens e densidade de pixels</title>
+      <link>http://localhost/jhonny-roger/public/qualidade-de-imagens-e-densidade-de-pixels/</link>
+      <pubDate>Mon, 26 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/qualidade-de-imagens-e-densidade-de-pixels/</guid>
+      <description>Você se lembra quando planejavamos nossos layouts para resoluções acima de 1024? Chega ser engraçado lembrar que um dia fizemos websites para 640&amp;#215;480, pensando que a resolução de 1024&amp;#215;768 eram a minoria dos usuários. Os tempos mudaram e naturalmente diversas outras resoluções apareceram por conta de novos dispositivos, melhores monitores e etc. Acontece que na web nada é tão fácil assim. A gente se livra de um problema, mas aparece outro no lugar.</description>
+    </item>
+    
+    <item>
+      <title>Drops 6 – Acessibilidade</title>
+      <link>http://localhost/jhonny-roger/public/drops-6-acessibilidade/</link>
+      <pubDate>Wed, 21 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/drops-6-acessibilidade/</guid>
+      <description>Hoje nós vamos falar um pouco sobre acessibilidade. Existem desenvolvedores que acham que devem apenas criar websites acessíveis para pessoas cegas. Mas, mesmo eu achando que pessoas com deficiência visual sejam prioridade hoje, existem diversas situações e cenários que necessitam de atenção.</description>
+    </item>
+    
+    <item>
+      <title>Responsive Web Design – focando a coisa certa</title>
+      <link>http://localhost/jhonny-roger/public/responsive-web-design-voce-esta-fazendo-isso-errado/</link>
+      <pubDate>Tue, 20 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/responsive-web-design-voce-esta-fazendo-isso-errado/</guid>
+      <description>Eu andei pensando em um assunto e procurando sobre encontrei um artigo, fresquinho, no Brad Frost que veio de encontro ao que eu estava matutando. Eu escrevi em tempos passados um artigo sobre por que estávamos desenvolvendo apenas para iPhone. Foi aí que começamos a pensar em versões mobiles. Mas fazíamos versões mobiles dos nossos sistemas e websites simplesmente sem entender quando a necessidade de ter um site mobile era real.</description>
+    </item>
+    
+    <item>
+      <title>Seu lugar ao sol</title>
+      <link>http://localhost/jhonny-roger/public/seu-lugar-ao-sol/</link>
+      <pubDate>Mon, 12 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/seu-lugar-ao-sol/</guid>
+      <description>Você realmente acha que vai escrever CSS e HTML como escreve hoje em um cenário como este?
+Você já parou para pensar onde CSS/HTML e Javascript se encaixam em um ambiente onde a web é praticamente camuflada por APPs específicos? Eu não estou me referindo a estes Apps como conhecemos hoje. Podem ser Apps instaladas ou WebApps, neste futuro, dá na mesma. Não há diferença.
+Pior do que pensar o lugar que CSS e HTML estarão é pensar em como VOCÊ se colocará em um ambiente tão novo quanto este.</description>
+    </item>
+    
+    <item>
+      <title>A usabilidade deve ser pensada por todos</title>
+      <link>http://localhost/jhonny-roger/public/a-usabilidade-deve-ser-pensada-por-todos/</link>
+      <pubDate>Mon, 05 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/a-usabilidade-deve-ser-pensada-por-todos/</guid>
+      <description>No final de 2010, fui contatada pela Revista WIDE para participar da seção “Opinião” respondendo à seguinte questão: Todos devem pensar em usabilidade? A proposta era opinar se a usabilidade era algo a ser pensado apenas pelo designer (ou especialista de usabilidade) ou se programadores, editores, entre outros membros da equipe, deveriam têm responsabilidade na facilidade de uso do projeto. Isto é um tema delicado, às vezes polêmico, mas importante para ser debatido.</description>
+    </item>
+    
+    <item>
+      <title>Boas práticas de Acessibilidade</title>
+      <link>http://localhost/jhonny-roger/public/boas-praticas-de-acessibilidade/</link>
+      <pubDate>Mon, 23 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/boas-praticas-de-acessibilidade/</guid>
+      <description>Preparei uma pequena (nem tão pequena assim) apresentação que mostra algumas boas práticas e técnicas sobre acessibilidade para sistemas e websites. São pequenos ajustes que podemos incorporar mesmo depois de todo o desenvolvimento pronto e que dão resultados importantes para adequação dos seus sites ou sistemas.
+Apresentancao acessibilidade Veja mais apresentações de Diego Eis 
+ </description>
+    </item>
+    
+    <item>
+      <title>Style Guide para Android</title>
+      <link>http://localhost/jhonny-roger/public/style-guide-para-android/</link>
+      <pubDate>Fri, 13 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/style-guide-para-android/</guid>
+      <description>A Wired entrevistou o Matias Duarte, o cara por trás (ui!) do planejamento de UX do Android.
+O Google lançou recentemente um guia de estilo para desenvolvedores do Android. Neste artigo eles conversam sobre como é difícil manter um sistema operacional para mobiles que pode ser instalado e portado para praticamente qualquer dispositivo. Quando um sistema tem essa flexibilidade, as chances da usabilidade e acessibilidade das aplicações e também do sistema tem grandes chances de dar carquinha.</description>
+    </item>
+    
+    <item>
+      <title>Declarando idiomas no HTML</title>
+      <link>http://localhost/jhonny-roger/public/declarando-idiomas-no-html/</link>
+      <pubDate>Mon, 09 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/declarando-idiomas-no-html/</guid>
+      <description>Publicar conteúdo na web definitivamente não é a mesma coisa da publicação de conteúdo nos meios impressos. Quando imprimimos o conteúdo, temos como foco um determinado público de uma determinada região. Eu, estando no Brasil, não vou fazer uma revista em no idioma Japonês. Quando falamos publicação de conteúdo online a coisa muda de cenário. O conteúdo online pode ser acessado no mundo inteiro, não importa seu idioma. Obviamente se você conhece outros idiomas, você amplia suas possibilidades para encontrar conteúdo e novos sites.</description>
+    </item>
+    
+    <item>
+      <title>Utilizando APPs em vez de browsers</title>
+      <link>http://localhost/jhonny-roger/public/utilizando-apps-em-vez-de-browsers/</link>
+      <pubDate>Fri, 06 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/utilizando-apps-em-vez-de-browsers/</guid>
+      <description>De acordo com a comScore as pessoas estão usando mais mobile Apps para consumir conteúdo do que browsers.
+O tráfego medido pela comScore mostra o market share dos principais players do mercado de mobile em Novembro. O Android continua ganhando, logo atrás vem o iPhone que foi impulsionado pelas vendas do 4S. Todas as outras plataformas perderam campo. Outra coisa, o report da comScore não conta com iPads nem iPods.</description>
+    </item>
+    
+    <item>
+      <title>WebIntents – Framework para WebApps</title>
+      <link>http://localhost/jhonny-roger/public/webintents-framework-para-webapps/</link>
+      <pubDate>Fri, 06 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/webintents-framework-para-webapps/</guid>
+      <description>O Chrome e o Firefox estão trabalhando juntos em um framework open-source que fazem aplicações web trabalhem juntas sem que uma precise dar informações sobre seus respectivos sistemas. O nome deste framework é WebIntents.
+O problema a ser resolvido é que se quisermos criar um sistema que utilize algumas facilidades de outros sistemas, nós precisamos aprender a API deste determinado sistema. Acontece que as APIs não são iguais. Se você quer utilizar um sistema de localização como Foursquare ou Gowalla, você precisa aprender como a API de cada um funciona e então escolher entre um dos dois ou utilizar os dois no seu sistema.</description>
+    </item>
+    
+    <item>
+      <title>Experiência cross-device</title>
+      <link>http://localhost/jhonny-roger/public/experiencia-cross-device/</link>
+      <pubDate>Thu, 22 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/experiencia-cross-device/</guid>
+      <description>Eu vivo comentando aqui no Tableless sobre o desenvolvimento de sistemas e websites para os diversos meios de acesso. Eu falei sobre esse assunto em diversos artigos. Eu li um artigo chamado The Coming Zombie Apocalypse, escrito por Scott Jenson em abril deste ano. Este artigo me fez perceber que eu estava levando o assunto muito superficialmente, mas que tem muito a ver com o artigo publicado aqui chamado A Experiência deve ter começo, meio e fim.</description>
+    </item>
+    
+    <item>
+      <title>Mobile First – A arte de pensar com foco</title>
+      <link>http://localhost/jhonny-roger/public/mobile-first-a-arte-de-pensar-com-foco/</link>
+      <pubDate>Tue, 13 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/mobile-first-a-arte-de-pensar-com-foco/</guid>
+      <description>Durante muito tempo especialistas de diversas áreas previram o crescimento do uso dos dispositivos móveis. Demorou um pouco mas a previsão se tornou verdadeira. Hoje todo mundo carrega um pedaço de plástico com uma tela de vidro na mão o dia inteiro&amp;#8230; quase uma extensão de nossos corpos.
+Os dispositivos móveis se tornaram uma febre e vieram para ficar. É a melhor forma de fazer a inclusão digital para aqueles que não tem uma forma de ter um notebook ou um desktop em casa.</description>
+    </item>
+    
+    <item>
+      <title>Você sabe o que é a “nova usabilidade”? – parte II</title>
+      <link>http://localhost/jhonny-roger/public/o-que-e-nova-usabilidade-parte2/</link>
+      <pubDate>Mon, 12 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-que-e-nova-usabilidade-parte2/</guid>
+      <description>A nova usabilidade procura trazer abordagens para lidar com os novos desafios para o desenvolvimento de aplicações baseadas em tecnologias emergentes, como os dispositivos móveis.
+A intenção dessa denominação é chamar a atenção para o fato de que a os métodos, técnicas e ferramentas de usabilidade que possuímos hoje precisam ser revistos para contemplar a evolução tecnológica e as especificidades dos interesses dos usuários.
+O problema com os testes de usabilidade Os testes de usabilidade como conhecemos hoje (realizados em laboratório) passam a não ter o mesmo grau de eficiência nestes novos cenários de uso.</description>
+    </item>
+    
+    <item>
+      <title>Você sabe o que é a “nova usabilidade”? – parte I</title>
+      <link>http://localhost/jhonny-roger/public/nova-usabilidade-parte1/</link>
+      <pubDate>Mon, 05 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/nova-usabilidade-parte1/</guid>
+      <description>Vimos na parte I e parte II dos artigos sobre usabilidade em dispositivos móveis que as heurísticas permanecem praticamente as mesmas tanto para as aplicações móveis quanto convencionais, a diferença é o quão crítica ou severa elas se tornam para as aplicações móveis. Por este motivo, Thomas e Macredie propuseram em 2002 (sim, há 9 anos!) o paradigma da Nova Usabilidade.
+ &amp;#8220;A usabilidade convencional e mais amplamente disseminada tem suas bases no paradigma do computador pessoal.</description>
+    </item>
+    
+    <item>
+      <title>Experiência deve ter começo, meio e fim</title>
+      <link>http://localhost/jhonny-roger/public/experiencia-deve-ter-comeco-meio-e-fim/</link>
+      <pubDate>Mon, 28 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/experiencia-deve-ter-comeco-meio-e-fim/</guid>
+      <description>Esse artigo pode parecer meio confuso, mas é apenas um pensamento que estive matutando. Não ligue se a ordem das ideias estiverem tortas e sinuosas. 😉
+Tive uma experiência muito ruim no primeiro dia de 2010: pulei na piscina com meu iPhone no bolso.
+Ok, pode me xingar agora.
+Depois da tragédia, ele durou rápidos 5 segundos, e faleceu. Não ligava, não apitava, não fazia nada. &amp;#8220;Paciência&amp;#8221;, falei para mim mesmo.</description>
+    </item>
+    
+    <item>
+      <title>Usabilidade de interfaces para dispositivos móveis – parte II</title>
+      <link>http://localhost/jhonny-roger/public/usabilidade-interfaces-dispositivos-moveis-parte2/</link>
+      <pubDate>Wed, 23 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/usabilidade-interfaces-dispositivos-moveis-parte2/</guid>
+      <description>Como vimos na primeira parte do artigo, as diretrizes existentes de usabilidade continuam valendo no contexto mobile, mas precisam ser revistas e interpretadas de outra forma. Podemos perceber que o gargalo é conseguir manter as informações e funcionalidades que fazem sentido neste cenário. Adequar aplicações ao contexto de dispositivos móveis apresenta determinados vieses de desenvolvimento.
+ Variedade de Dispositivos  Variação de hardware (muito maior do que computadores convencionais) Dispositivos móveis têm uma grande variedade de displays (tamanhos, cores, resolução), de forma de entrada de dados (touchscreen, teclado físico &amp;#8211; QWERTY ou convencional -, microfone, câmera) e também de capacidade (processamento, armazenamento, etc.</description>
+    </item>
+    
+    <item>
+      <title>Usabilidade de interfaces para dispositivos móveis – parte I</title>
+      <link>http://localhost/jhonny-roger/public/usabilidade-de-interfaces-para-dispositivos-moveis-parte1/</link>
+      <pubDate>Mon, 21 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/usabilidade-de-interfaces-para-dispositivos-moveis-parte1/</guid>
+      <description>Já escrevemos aqui no Tableless sobre melhores práticas de front-end / usabilidade para dispositivos móveis. Um questionamento comum a estas diretrizes é o quanto elas são específicas ao contexto mobile, pois muitas delas não se distinguem das diretrizes que vêm sendo difundidas há 20 anos.
+É fato que grande parte das diretrizes são semelhantes, mas o que muda é a criticidade quando tratamos de mobile. Algumas recomendações tornam-se mais graves e imperdoáveis quando não são seguidas no projeto de interfaces para dispositivos móveis.</description>
+    </item>
+    
+    <item>
+      <title>Formulários e o Metawebdesign – Parte 1</title>
+      <link>http://localhost/jhonny-roger/public/formularios-e-o-metawebdesign-parte-1/</link>
+      <pubDate>Mon, 24 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/formularios-e-o-metawebdesign-parte-1/</guid>
+      <description>O front-end é uma profissão de uma amplitude imensa. Temos profissionais montando mockups/PSDs, especialistas em acessibilidade, usabilidade, arquitetura da informação, integração com aplicações, designers de interface, application developers. Tem até SEO.
+O background do profissional neste momento não importa muito, apenas a afirmação que ele está trabalhando na camada de front-end. Só isso basta para confirmar os papéis acima.
+Em muitas empresas o front-end é trabalhado de maneira criteriosa, com separação de tarefas em maior ou menor intensidade, de modo que o processo esteja sempre azeitado e atento aos prazos dos outros times que dependem da interface.</description>
+    </item>
+    
+    <item>
+      <title>Utilizando a Biblioteca Modernizr</title>
+      <link>http://localhost/jhonny-roger/public/utilizando-a-biblioteca-modernizr/</link>
+      <pubDate>Mon, 17 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/utilizando-a-biblioteca-modernizr/</guid>
+      <description>Problemas de compatibilidade Quando produzimos um site os problemas de compatibilidade fazem parte da regra do jogo. Para tentar contornar estes problemas utilizamos hacks, comentários condicionais, sniffing de browsers e outras coisas, que muitas vezes mais prejudicam do que ajudam.
+Para ajudar mais ainda o CSS3 e o HTML5 apareceram derrubando tudo, e o problema de compatibilidade que já era chato, ficou mais chato que meia molhada. Embora os browsers estejam muito mais atuais e suportando propriedades avançadas de CSS3 e HTML5, não é garantia que todos eles suportem as mesmas propriedades.</description>
+    </item>
+    
+    <item>
+      <title>O que é Usabilidade?</title>
+      <link>http://localhost/jhonny-roger/public/o-que-e-usabilidade/</link>
+      <pubDate>Mon, 22 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-que-e-usabilidade/</guid>
+      <description>Já vimos em um artigo anterior como a usabilidade beneficia o desenvolvimento web. Mas, o que de fato compreende a usabilidade? Nem tudo que se refere à experiência de uso está dentro do escopo dela. Sim, a usabilidade tem limitações e lacunas que são complementadas por outros paradigmas, como o design de interação. Porém, podemos considera-la a base da pirâmide que sustenta o projeto de uma aplicação com boa experiência de uso.</description>
+    </item>
+    
+    <item>
+      <title>Introdução ao Responsive Web Design</title>
+      <link>http://localhost/jhonny-roger/public/introducao-ao-responsive-web-design/</link>
+      <pubDate>Mon, 15 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-ao-responsive-web-design/</guid>
+      <description>Você já deve ter ouvido falar sobre Responsive Web Design. Você pode ler sobre isso aqui e aqui.
+Até pouco tempo atrás tínhamos praticamente apenas um meio de acessar a internet, que era pelo desktop. Podíamos acessar mal e porcamente a internet pelos celulares ou por outros aparelhos ligados a televisão etc, mas nenhum destes meios nos permitia acessar a internet com a facilidade que tínhamos quando utilizávamos um desktop.</description>
+    </item>
+    
+    <item>
+      <title>CSS3 – Módulo Template Layout</title>
+      <link>http://localhost/jhonny-roger/public/css3-modulo-template-layout/</link>
+      <pubDate>Mon, 30 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css3-modulo-template-layout/</guid>
+      <description>Talvez você me chame de louco, mas para mim a parte mais fácil de desenvolver um site com CSS é o planejamento e diagramação do layout. Coincidentemente é a parte que mais os desenvolvedores tem problemas crossbrowser ou por falta de recursos mais avançados. Mas se você parar para pensar, apenas uma propriedade cuida dessa parte, que é a propriedade float. De longe, para mim, o float é a propriedade mais importante que há no CSS.</description>
+    </item>
+    
+    <item>
+      <title>Manipulando a metatag Viewport</title>
+      <link>http://localhost/jhonny-roger/public/manipulando-metatag-viewport/</link>
+      <pubDate>Mon, 18 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/manipulando-metatag-viewport/</guid>
+      <description>O viewport é a área onde seu website aparece. É a área branca da janela quando você abre o browser. O viewport sempre vai ter o tamanho da janela. Mas a forma como os elementos são renderizados vai depender bastante do dispositivo. Em máquinas desktop nós não precisamos nos preocupar muito, já estamos acostumados com um determinado tamanho de tela e resolução média utilizada pelos usuários. Mas quando começamos a variar muito o tamanho das telas, a largura do viewport começa a ser uma preocupação porque afeta diretamente a forma como o usuário utiliza seu website.</description>
+    </item>
+    
+    <item>
+      <title>Documentos acessíveis com WAI-ARIA em HTML5</title>
+      <link>http://localhost/jhonny-roger/public/documentos-acessiveis-com-aria-em-html5/</link>
+      <pubDate>Thu, 14 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/documentos-acessiveis-com-aria-em-html5/</guid>
+      <description>A reestruturação do HTML para sua versão 5 propõem elementos mais semânticos. Porém, as novas tags do HTML5 não são suficientes para permitir que os documentos sejam corretamente acessíveis a softwares leitores de tela.
+O comportamento dos novos elementos ainda não é reconhecido por estes programas e o conteúdo da página pode não ser interpretado de forma correta. Em alguns testes que fiz com o conhecido leitor de telas JAWS, ele para de interpretar o conteúdo da página logo após o título.</description>
+    </item>
+    
+    <item>
+      <title>Comportamento e meios de acesso</title>
+      <link>http://localhost/jhonny-roger/public/comportamento-meios-acesso/</link>
+      <pubDate>Fri, 18 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/comportamento-meios-acesso/</guid>
+      <description>Ainda lembro quando comprei meu primeiro smartphone. Odiava navegar naquilo. Eu estava acostumado a utilizer a internet em desktops, com telas grandes e confortáveis. Os sites também não ajudavam. Praticamente nenhum site tinha versão mobile ou uma que funcionasse direito. O Opera tentava fazer a parte dos desenvolvedores, tentando manipular o site para que ele fosse melhor visto em telas menores. Era bom, mas não o ideal.
+Hoje o cenário é diferente.</description>
+    </item>
+    
+    <item>
+      <title>Vídeos mais acessíveis com HTML5 – parte II</title>
+      <link>http://localhost/jhonny-roger/public/videos-mais-acessiveis-com-html5-parte-ii/</link>
+      <pubDate>Tue, 15 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/videos-mais-acessiveis-com-html5-parte-ii/</guid>
+      <description>Na primeira parte do artigo, vimos as principais características do DFXP, uma especificação do W3C para trabalhar com legendas em vídeos do HTML5. Agora iremos conhecer a estrutura de um arquivo DFXP e detalhar o conceito de regions.
+Estrutura básica de um arquivo DFXP Um arquivo DFXP é um arquivo baseado em XML que utiliza a linguagem Timed Text Markup Language (TTML). A TTML estabelece tags e propriedades específicas para atribuir uma informação textual a um intervalo de tempo, posicionar esta informação em uma determinada região do vídeo e formatar a apresentação desta informação.</description>
+    </item>
+    
+    <item>
+      <title>Customizando links</title>
+      <link>http://localhost/jhonny-roger/public/customizando-links/</link>
+      <pubDate>Fri, 18 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/customizando-links/</guid>
+      <description>Além do aspecto visual, customizar links é importante por causa da Acessibilidade. Não estou falando aqui da acessibilidade para pessoas cegas e etc, estou falando de acessibilidade para pessoas que enxergam também. Eu gosto muito de usar o browser sem a barra de status. O problema de se fazer isso é que eu nunca sei para onde um link vai. Quando estou lendo um texto e há um link interessante, quase nunca tenho a indicação de que aquele link vai me levar para fora do site, ou vai me levar para o download arquivo e etc&amp;#8230; Por isso é interessante que você, se puder, indique ao leitor qual o tipo de link ele está prestes a clicar.</description>
+    </item>
+    
+    <item>
+      <title>Vídeos mais acessíveis com HTML5 – parte I</title>
+      <link>http://localhost/jhonny-roger/public/videos-mais-acessiveis-com-html5-parte-i/</link>
+      <pubDate>Tue, 15 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/videos-mais-acessiveis-com-html5-parte-i/</guid>
+      <description>Até o HTML 4 e XHTML 1.1, a acessibilidade de conteúdo era restrita a elementos basicamente textuais e imagens, mas os documentos de hipertexto são compostos de vários elementos de hipermídia, como áudio e vídeo que, na maioria dos casos, não possuíam seu conteúdo acessível a softwares leitores de tela.
+Sabemos que o HTML5 tem potenciais recursos de acessibilidade através de elementos mais semânticos e o W3C tem trabalhado em estender a acessibilidade a recursos de áudio e vídeo.</description>
+    </item>
+    
+    <item>
+      <title>Aplicando um Plano de Usabilidade – Parte 1</title>
+      <link>http://localhost/jhonny-roger/public/aplicando-um-plano-de-usabilidade-parte-1/</link>
+      <pubDate>Tue, 04 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/aplicando-um-plano-de-usabilidade-parte-1/</guid>
+      <description>Pensar a Usabilidade não é algo fácil. Aprendê-la também não o é. Usabilidade não é algo que um desenvolvedor aprenderá por osmose ou coisa parecida, mesmo que a experiência no desenvolvimento conte muito para este assunto.
+Apesar de ser um assunto antigo, a Usabilidade (assim como a Acessibilidade) engatinha no Brasil e, se nao fossem os Bandeirantes da Usabilidade que temos aqui, ainda estaríamos aprendendo a fazer faíscas. Por causa deles, parece que 2011 será o ano que vamos começar realmente a criar a roda.</description>
+    </item>
+    
+    <item>
+      <title>Bem vindo a Xangri-lá – Parte 2</title>
+      <link>http://localhost/jhonny-roger/public/bem-vindo-a-xangrila-parte-2/</link>
+      <pubDate>Mon, 06 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/bem-vindo-a-xangrila-parte-2/</guid>
+      <description>Uma vez familiares com a premissa do Progressive Enhancement, vamos entender como aplicar a abordagem para criar suas páginas do zero, garantindo que elas funcionem na maior aplitude de navegadores e dispositivos. Antes de começar, é importante lembrar que para tudo funcionar bem, você precisa conhecer as funcionalidades e limitações da especificacao HTML, seus elementos, tags, e atributos aprovados, isso esta disponivel no site do w3c. É importante tambem se manter no bleeding edge, para que novas linguagens (como o HTML5) não fiquem de fora de suas análises e ponderações.</description>
+    </item>
+    
+    <item>
+      <title>Bem vindo a Xangri-lá – Parte 1</title>
+      <link>http://localhost/jhonny-roger/public/bem-vindo-a-xangrila-parte-1/</link>
+      <pubDate>Thu, 25 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/bem-vindo-a-xangrila-parte-1/</guid>
+      <description>Um dia desses eu estava no meio de muita gente boa em um treinamento em São Paulo – um dos melhores que já fiz – e no meio de uma discussão sobre abordagens de desenvolvimento de aplicações internet crossbrowser e a maravilha que era o HTML5, o Elcio &amp;#8211; ele mesmo &amp;#8211; da Visie disse que Progressive Enhancement e Graceful Degradation eram a &amp;#8220;mesma coisa&amp;#8221;. Eu discordava dele porém não continuei o assunto porque essa questão poderia ser abordada de maneira mais abrangente, e porque o momento era de HTML5, não de como temos que escrever código.</description>
+    </item>
+    
+    <item>
+      <title>Navegabilidade em Dispositivos Móveis</title>
+      <link>http://localhost/jhonny-roger/public/navegabilidade-em-dispositivos-moveis/</link>
+      <pubDate>Wed, 17 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/navegabilidade-em-dispositivos-moveis/</guid>
+      <description>Um dos principais desafios ao projetar um site ou um sistema web para mobile é o tamanho em KB do conteúdo. Internet pelo celular ainda é cobrada por KB utilizados por muitas operadoras e o custo ainda é muito elevado no Brasil. Além disso, temos um espaço muito pequeno para mostrar o conteúdo. Mesmo os melhores smartphones touch-screen têm telas relativamente pequenas se compararmos com um monitor convencional ou notebook, o que cria um esforço de interação maior.</description>
+    </item>
+    
+    <item>
+      <title>Javascript e acessibilidade</title>
+      <link>http://localhost/jhonny-roger/public/javascript-e-acessibilidade/</link>
+      <pubDate>Thu, 04 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/javascript-e-acessibilidade/</guid>
+      <description>É muito comum o desenvolvedor ficar empolgado ao descobrir recursos, plugins, animações e efeitos JavaScript e acabar exagerando no produto final. Também é muito comum, como disse a Thaiana, que acessiblidade esteja ligado exclusivamente a sites governamentais. Aos poucos este cenário está mudando.
+Além de tornar o seu site acessível à pessoas com necessidades especiais, as técnicas abaixo serão úteis também quando o navegador do usuário estiver com JavaScript desabilitado.</description>
+    </item>
+    
+    <item>
+      <title>Como tornar seu website acessível?</title>
+      <link>http://localhost/jhonny-roger/public/como-tornar-seu-website-acessivel/</link>
+      <pubDate>Mon, 18 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/como-tornar-seu-website-acessivel/</guid>
+      <description>Tornar um site acessível, ainda que num processo lento, tem sido uma das buscas de alguns desenvolvedores, seja pelo objetivo específico de um site em questão ou por algum novo público que a agência ou empresa a qual ele trabalha está buscando atender.
+Assim como no mundo real, onde lugares adaptados à pessoas com deficiências físicas ou mentais ainda estão em expansão, na internet este mesmo público também encontra dificuldades de acessar diversos websites por falta de um código bem elaborado ou estudado para cumprir as exigências de leitores de tela e navegadores textuais.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dionatan Marques on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/dionatan-marques/</link>
+    <description>Recent content in Dionatan Marques on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 27 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/dionatan-marques/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Java SE 7 Programmer I (1Z0-803) – Parte I</title>
+      <link>http://localhost/jhonny-roger/public/java-se-7-programmer-i-1z0-803-parte-i/</link>
+      <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/java-se-7-programmer-i-1z0-803-parte-i/</guid>
+      <description>E aí galera, essa série de posts é pra você que pretende obter a certificação Java SE 7 Programmer I (1Z0-803). Irei abranger todo o conteúdo exigido pela Oracle para obtenção dessa certificação.
+ATENÇÃO! Estou presumindo que você já tenha algum contato com Java e alguma experiência trabalhando com ele. Se você não conhece nada de Java (ou linguagens orientadas a objeto), tente procurar outros posts sobre o básico de Java para depois iniciar seu caminho de certificação.</description>
+    </item>
+    
+  </channel>
+</rss>

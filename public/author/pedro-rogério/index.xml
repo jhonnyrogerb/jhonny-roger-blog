@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pedro Rogério on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/pedro-rog%C3%A9rio/</link>
+    <description>Recent content in Pedro Rogério on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 23 Sep 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/pedro-rog%C3%A9rio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mostrar posts recentes no WordPress</title>
+      <link>http://localhost/jhonny-roger/public/mostrar-posts-recentes-no-wordpress/</link>
+      <pubDate>Tue, 23 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/mostrar-posts-recentes-no-wordpress/</guid>
+      <description>&lt;p&gt;Pode ser interessante para você mostrar em seu site os posts mais recentes criados no &lt;a href=&#34;http://taleless.com.br/wordpress/&#34; title=&#34;Artigos sobre WordPress&#34;&gt;WordPress&lt;/a&gt;, na sidebar, por exemplo, dessa forma você pode deixar seu site mais atrativo aos visitantes pois assim eles não ficariam limitados a ver somente os posts que são listados na home do site. O código para gerar uma lista com os últimos posts é muito simples, basta ter algum conhecimento de HTML para editar os arquivos.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Criar páginas no WordPress</title>
+      <link>http://localhost/jhonny-roger/public/criar-paginas-no-wordpress/</link>
+      <pubDate>Tue, 26 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criar-paginas-no-wordpress/</guid>
+      <description>&lt;p&gt;O WordPress permite total controle sobre a criação de conteúdo, inclusive a criação de novas páginas.&lt;/p&gt;
+
+&lt;p&gt;Para termos acesso a esse recurso, utilizamos o método &lt;a title=&#34;wp_list_pages ()&#34; rel=&#34;external&#34; href=&#34;http://codex.wordpress.org/Template_Tags/wp_list_pages&#34;&gt;wp_list_pages ()&lt;/a&gt;, método pelo qual, após a criação das páginas, elas são mostradas automaticamente no seu site, pois a grande maioria dos templates para WordPress já vem com essa função, que fica localizada no arquivo header.php do tema do WordPress, gerando uma lista de páginas semelhante a essa:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

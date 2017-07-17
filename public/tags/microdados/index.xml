@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microdados on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/microdados/</link>
+    <description>Recent content in Microdados on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 28 Sep 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/microdados/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Microdados do HTML5</title>
+      <link>http://localhost/jhonny-roger/public/microdados-do-html5/</link>
+      <pubDate>Fri, 28 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/microdados-do-html5/</guid>
+      <description>Como você diz para o sistema de busca que uma resenha em determinado site é uma resenha? E como você disponibiliza informações sobre seu evento como o local, data e etc para serviços na internet? Informação é para ser utilizada e reutilizada. Ela é reciclada diversas vezes por diversos motivos e por diversos meios.
+A especificação de Microdados do HTML define um mecanismo que permite que máquinas &amp;#8211; leia-se meios de acesso como scripts, aparelhos, sistemas, serviços etc &amp;#8211; reconheçam dados que possam ser embedados em documentos HTML de uma forma fácil.</description>
+    </item>
+    
+    <item>
+      <title>Introdução a Microdata no HTML5</title>
+      <link>http://localhost/jhonny-roger/public/introducao-a-microdata-no-html5/</link>
+      <pubDate>Mon, 20 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-a-microdata-no-html5/</guid>
+      <description>Provavelmente você já ouviu falar de microformats, um padrão que permite representar informações de modo mais semântico no XHTML, como, por exemplo, informações de contato (hCard) ou dados de um evento (hCalendar).
+No HTML5, temos o microdata, conceito semelhante aos microformats e RDFa, um padrão de representação de informações que estende as potencialidades semânticas do HTML5.
+As informações representadas através de microdata utilizam elementos pertencentes a um vocabulário específico que deve ser referenciado no documento HTML.</description>
+    </item>
+    
+  </channel>
+</rss>

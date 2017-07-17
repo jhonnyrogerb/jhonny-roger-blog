@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tecnicas Css on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/tecnicas-css/</link>
+    <description>Recent content in Tecnicas Css on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 21 Apr 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/tecnicas-css/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HTTP2 para Desenvolvedores de Web</title>
+      <link>http://localhost/jhonny-roger/public/http2-para-desenvolvedores-de-web/</link>
+      <pubDate>Tue, 21 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/http2-para-desenvolvedores-de-web/</guid>
+      <description>HTTP2 significa uma mudança na forma como construímos websites. As boas práticas de HTTP1 são prejudiciais no mundo do HTTP2.
+ HTTP1 é lento e ineficiente para a maioria dos casos de uso de hoje na web.
+ HTTP1.x é a versão do HTTP que nós já conhecemos quando entramos o endereço de um site. É um protocolo antigo que foi concebido antes mesmo de sabermos o que essa imensa rede mundial de computadores se tornaria.</description>
+    </item>
+    
+    <item>
+      <title>Como fazer triângulos (setas ou arrows) com CSS</title>
+      <link>http://localhost/jhonny-roger/public/fazendo-triangulos-triangle-arrows-com-css/</link>
+      <pubDate>Fri, 18 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/fazendo-triangulos-triangle-arrows-com-css/</guid>
+      <description>Muitas vezes usamos triângulos em links, botões ou qualquer outro elemento que precise de alguma indicação de clique. Esses triângulos, por serem muito simples, é bem possível criarmos inteiramente usando CSS. Esse truque vale muito a pena para evitar que o browser tenha que baixar pequenas imagens, quem mesmo tendo um peso bem leve, elas atrapalham a performance do carregamento do site.
+Para esse truque você usará os pseudo elementos :after ou :before.</description>
+    </item>
+    
+    <item>
+      <title>Quando utilizar (ou não) frameworks CSS</title>
+      <link>http://localhost/jhonny-roger/public/quando-utilizar-ou-nao-frameworks-css/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/quando-utilizar-ou-nao-frameworks-css/</guid>
+      <description>Framework é um conjunto de componentes que provêm uma estrutura básica de elementos reutilizáveis, tendo uma arquitetura consistente de funcionalidade genérica sob a qual a aplicação será construída.
+No caso de CSS, os frameworks constituem bibliotecas que visam permitir a codificação do CSS de modo mais fácil e compatível com padrões de estilos, agregando uma série de opções já prontas para projetar uma página web, como se fosse um esqueleto, reduzindo o tempo gasto com o desenvolvimento.</description>
+    </item>
+    
+    <item>
+      <title>Criando um Menu Horizontal com CSS</title>
+      <link>http://localhost/jhonny-roger/public/criando-um-menu-horizontal-com-css/</link>
+      <pubDate>Thu, 06 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-um-menu-horizontal-com-css/</guid>
+      <description>Se você não quiser ler, mas ver como fazer, assista um vídeo. Neste vídeo é mostrado como fazer um menu horizontal com CSS. E se quiser aprender mais, visite o Campus Online e cadastre-se grátis para ver vídeos sobre desenvolvimento web.
+Quer fazer um menu horizontal que seja fácil de personalizar e de fazer manutenção?
+Siga os passos abaixo e descubra como é fácil.
+Estrutura: Primeiramente faça um elemento NAV (antigamente usaríamos a tag DIV) e atribua um ID.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245866">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      <p>Alguns elementos do HTML tem valores padrões de Margem ou Padding ou outros valores de outras propriedades. Estes valores, normalmente são totalmente diferentes dos valores que os designers aplicam para seus layouts. Se você não for regrado, pode fazer confusão com esses valores e causar alguns transtornos na hora da implementação porque esqueceu de zerar os valores padrões dos elementos.</p>
+
+<p>Portanto, sempre que eu começo um CSS, eu me preocupo em zerar todos os valores que possam me atrapalhar futuramente. Me deixando livre para colocar os valores personalizados nestes elementos. Algumas pessoas fazem isso também, mas fazem desta maneira:</p>
+
+<p><code>body, h1, h2, h3, h4, h5, h6, p, form, ul, ol, fieldset {&lt;br /&gt;
+margin:0;&lt;br /&gt;
+padding:0;&lt;br /&gt;
+}</code>Acontece que esta maneira não é a mais elegante e você pode esquecer de mencionar um objeto. Há outra maneira muito mais fácil e mais elegante para fazer isso, é usando o *. Veja como fica:</p>
+
+<p><code>* {&lt;br /&gt;
+margin:0;&lt;br /&gt;
+padding:0;&lt;br /&gt;
+}</code>O * quer dizer TUDO. Então ele seleciona todos os objetos do HTML, e aplica as características que você quiser. Interessante, huh?</p>
+
+<p>Até aqui isso funciona perfeitamente em tudo quanto é browser e até no IE. Só que você pode utilizar este * de diversas outras formas úteis, e claro, que não funcionam no IE. Por exemplo: Você tem um div #conteudo, e dentro deste div existem diversos outros objetos. Deu na telha de você querer colocar para todos estes objetos uma mesma característica, como por exemplo, borda. Normalmente você faria assim:</p>
+
+<p><code>#conteudo div, #conteudo form, #conteudo p, #conteudo fieldset {&lt;br /&gt;
+border:1px solid black;&lt;br /&gt;
+}</code>E daria certo. O ruim é que a cada objeto novo inserido dentro do div#conteudo, você teria que abrir o CSS e editar este seletor mencionando o objeto novo.</p>
+
+<p>O jeito bonito de se fazer e que não funciona no IE é este:</p>
+
+<p><code>#conteudo * {&lt;br /&gt;
+border:1px solid black;&lt;br /&gt;
+}</code></p>
+
+<p>Ou seja: tudo que estiver dentro de #conteudo, vai ter uma borda (ou qualquer outra característica que queira).</p>
+
+<p>Mais fácil, bem simples e dá menos, muito menos trabalho. Mas, só funciona em browsers.</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/moza//?utm_source=tablelessRelatedLin">Moz://a</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/opera-neon-ate-que-enfim-um-browser-decente//?utm_source=tablelessRelatedLin">Opera Neon – Até que enfim um browser decente</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/mozilla-anuncia-firefox-48-para-desktop-com-multi-processamento//?utm_source=tablelessRelatedLin">Mozilla anuncia Firefox 48 para desktop com multi-processamento</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245866"></script>

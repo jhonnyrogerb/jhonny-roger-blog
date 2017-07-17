@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Designer Web on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/designer-web/</link>
+    <description>Recent content in Designer Web on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 04 Jun 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/designer-web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Então você quer ser designer web? (Parte 1 – Cores)</title>
+      <link>http://localhost/jhonny-roger/public/entao-voce-quer-ser-designer-web-parte-1-cores/</link>
+      <pubDate>Thu, 04 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/entao-voce-quer-ser-designer-web-parte-1-cores/</guid>
+      <description>Um dia em você acha que já sabe &amp;#8220;mexer&amp;#8221; bastante no Photoshop (ou Fireworks) e decide que se lançar no mercado como designer web. Fez alguns pequenos trabalhos, e não vê a hora de criar um site bacana e colocar seus serviços à venda na prateleira de um domínio com seu nome.
+Por mais que você seja talentoso, e mereça um lugar ao Sol, o que mais faz falta nesse momento é bagagem.</description>
+    </item>
+    
+  </channel>
+</rss>

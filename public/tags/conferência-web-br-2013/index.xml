@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conferência Web Br 2013 on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/confer%C3%AAncia-web-br-2013/</link>
+    <description>Recent content in Conferência Web Br 2013 on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 27 Nov 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/confer%C3%AAncia-web-br-2013/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Conferência W3C Web.br 2013 – Dia 2</title>
+      <link>http://localhost/jhonny-roger/public/conferencia-w3c-web-br-2013-dia-2/</link>
+      <pubDate>Wed, 27 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/conferencia-w3c-web-br-2013-dia-2/</guid>
+      <description>No primeiro dia fizemos um passeio através da história da internet, aprendemos a importância do WAI-ARIA, ganhamos umas dicas sobre Design Responsivo e Games em HTML5, além de ficar por dentro das próximas novidades de CSS3. Mas muita coisa ainda estava por vir!
+Pushing the Web Forward A abertura do evento ficou por conta do Kris Borchers, diretor executivo da jQuery Foundation. Kris explicou o processo criativo por traz de funções legais do jQuery como Touch Events e SimplePush, com uma demonstração super interessante utilizando os próprios slides da palestra que sincronizavam em tempo real em diversos tipos de dispositivos através de uma URL.</description>
+    </item>
+    
+  </channel>
+</rss>

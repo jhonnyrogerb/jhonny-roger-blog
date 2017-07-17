@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Condicionais on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/condicionais/</link>
+    <description>Recent content in Condicionais on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 25 Aug 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/condicionais/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Usando condicionais no Sass – Control Directives</title>
+      <link>http://localhost/jhonny-roger/public/usando-condicionais-sass-control-directives/</link>
+      <pubDate>Mon, 25 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/usando-condicionais-sass-control-directives/</guid>
+      <description>Ter a possibilidade de usar condicionais no CSS é uma daquelas coisas que fazem os pré-processadores de CSS tão sensuais.
+No Sass essas condicionais são chamadas de **Diretivas de controle**, ou em inglês, que é mais chique, &amp;#8220;Control Directives&amp;#8221;. As funções são @if, @for, @each e @while. São as condicionais tradicionais que estamos acostumados a usar nas outras linguagens.
+@if Se algo for qualquer coisa diferente de falso, execute determinado comando.</description>
+    </item>
+    
+  </channel>
+</rss>

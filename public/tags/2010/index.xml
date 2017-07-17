@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2010 on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/2010/</link>
+    <description>Recent content in 2010 on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 15 Dec 2010 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/2010/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>JQuery para produção de Layouts</title>
+      <link>http://localhost/jhonny-roger/public/jquery-para-layouts/</link>
+      <pubDate>Wed, 15 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/jquery-para-layouts/</guid>
+      <description>O JQuery tem me dado um importante suporte para aqueles problemas que o CSS não consegue resolver por falta de compatibilidade em alguns browsers e também para evitar sujar o código HTML com elementos dispensáveis, em ocasiões comuns como no caso da criação de bordas arredondadas.
+Nestes cenários, invarialmente temos que criar alguns elementos agregados que servirão para dar exclusivamente suporte visual para o layout.
+Não é bom que sujemos nosso HTML com código que não carregue significado semântico nenhum, mas em alguns casos, como ao fazer bordas arredondadas, a criação destes elementos é necessária.</description>
+    </item>
+    
+    <item>
+      <title>HTML5: Elemento AUDIO</title>
+      <link>http://localhost/jhonny-roger/public/elemento-tag-audio/</link>
+      <pubDate>Tue, 14 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/elemento-tag-audio/</guid>
+      <description>O elemento audio do HTML5 representa um som ou um stream de áudio. Atributos como: src, preload, autoplay, loop e controls podem ser utilizados em todos elementos de media, como o elemento audio.
+Formatos suportados Os formatos de audio suportados são:
+ Formato  IE 8  Firefox 3.5  Opera 10.5  Chrome 3.0  Safari 3.0     Ogg Vorbis   Não   Sim   Sim   Sim   Não     MP3   Não   Não   Não   Sim   Sim     Wav   Não   Sim   Sim   Não   Sim    Como no caso dos vídeos, ainda é um problema termos um formato que funcione com sucesso em todos os browsers.</description>
+    </item>
+    
+    <item>
+      <title>Templates e jQuery – parte 2</title>
+      <link>http://localhost/jhonny-roger/public/templates-jquery-parte2/</link>
+      <pubDate>Mon, 13 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/templates-jquery-parte2/</guid>
+      <description>Na primeira parte deste artigo você conferiu uma introdução ao novo plugin .tmpl() que possibilita a utilização de templates para retornos e saídas de suas aplicações jQuery. O plugin certamente é um avanço considerável na organização de código &amp;#8211; é o JavaScript ficando cada vez mais profissional e robusto, abandonando a fama de ser uma simples linguagem de script, sem padrões.
+A forma mais básica de utilização do plugin .</description>
+    </item>
+    
+    <item>
+      <title>Bem vindo a Xangri-lá – Parte 2</title>
+      <link>http://localhost/jhonny-roger/public/bem-vindo-a-xangrila-parte-2/</link>
+      <pubDate>Mon, 06 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/bem-vindo-a-xangrila-parte-2/</guid>
+      <description>Uma vez familiares com a premissa do Progressive Enhancement, vamos entender como aplicar a abordagem para criar suas páginas do zero, garantindo que elas funcionem na maior aplitude de navegadores e dispositivos. Antes de começar, é importante lembrar que para tudo funcionar bem, você precisa conhecer as funcionalidades e limitações da especificacao HTML, seus elementos, tags, e atributos aprovados, isso esta disponivel no site do w3c. É importante tambem se manter no bleeding edge, para que novas linguagens (como o HTML5) não fiquem de fora de suas análises e ponderações.</description>
+    </item>
+    
+    <item>
+      <title>Desenvolvendo para IE6</title>
+      <link>http://localhost/jhonny-roger/public/dev-ie6/</link>
+      <pubDate>Mon, 06 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/dev-ie6/</guid>
+      <description>Você ainda faz sites para IE6? Já me fizeram uma pergunta dessas certa vez. A resposta: Sim. Mas&amp;#8230;
+Desenvolver para Internet Explorer 6 já foi uma obrigação. Enquanto ele era o browser mais utilizado e ainda era o browser mais atual da série, nós tínhamos que desenvolver para ele. Não havia escolha. O cenário atual é outro.
+Eu não desenvolvo sites para o Internet Explorer 6 se o cliente não pedir.</description>
+    </item>
+    
+    <item>
+      <title>Bem vindo a Xangri-lá – Parte 1</title>
+      <link>http://localhost/jhonny-roger/public/bem-vindo-a-xangrila-parte-1/</link>
+      <pubDate>Thu, 25 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/bem-vindo-a-xangrila-parte-1/</guid>
+      <description>Um dia desses eu estava no meio de muita gente boa em um treinamento em São Paulo – um dos melhores que já fiz – e no meio de uma discussão sobre abordagens de desenvolvimento de aplicações internet crossbrowser e a maravilha que era o HTML5, o Elcio &amp;#8211; ele mesmo &amp;#8211; da Visie disse que Progressive Enhancement e Graceful Degradation eram a &amp;#8220;mesma coisa&amp;#8221;. Eu discordava dele porém não continuei o assunto porque essa questão poderia ser abordada de maneira mais abrangente, e porque o momento era de HTML5, não de como temos que escrever código.</description>
+    </item>
+    
+    <item>
+      <title>CSS3 – O que vem por aí…</title>
+      <link>http://localhost/jhonny-roger/public/css3-o-que-vem-por-ai/</link>
+      <pubDate>Mon, 22 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css3-o-que-vem-por-ai/</guid>
+      <description>O grande papel do desenvolvedor Front-End, na minha opinião, é traduzir em tags html, folhas de estilos e programação Javascript ou até mesmo uma linguagem backside, aquilo que o designer de interface criou e espera estar disponível a clicks e à leitura dos usuários. Ao meu ver, este é o nosso grande trabalho, recriar interfaces de forma adaptada aos diversos browsers de mercado e às diversas possibilidades tecnológicas que temos na web respeitando os limites dos padrões online e a essência da criação visual.</description>
+    </item>
+    
+    <item>
+      <title>Responsabilidade de um dev client-side</title>
+      <link>http://localhost/jhonny-roger/public/responsabilidade-de-um-dev-client-side/</link>
+      <pubDate>Wed, 10 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/responsabilidade-de-um-dev-client-side/</guid>
+      <description>O reconhecimento do desenvolvedor client-side está maior do que nos anos passados. Isso é importante para nós. Anteriormente nenhuma empresa levava a sério esse setor, não porque ele era menos importante, porque na verdade ele não era, mas por falta de &amp;#8220;inteligência&amp;#8221; das próprias empresas e dos liderantes. O ponto é que esse mercado cresceu, se estruturou, passou por uma reforma natural como todo e qualquer novo mercado que surge e é prostituído com profissionais imaturos.</description>
+    </item>
+    
+    <item>
+      <title>Templates e jQuery – parte 1</title>
+      <link>http://localhost/jhonny-roger/public/templates-e-jquery-parte-1/</link>
+      <pubDate>Mon, 08 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/templates-e-jquery-parte-1/</guid>
+      <description>Na dieta diária do desenvolvedor front-end sempre esteve presente uma saladinha de HTML com JavaScript. Principalmente quando precisamos implementar um código com funcionalidades AJAX. Por exemplo, imagine que o bloco abaixo representa o retorno de um getJSON() da vida:
+for( i in noticias ) { html = &#39;&amp;lt;li&amp;gt;&amp;lt;h3&amp;gt;&#39; + noticias[i][&#39;titulo&#39;] + &#39;&amp;lt;/h3&amp;gt;&#39;; html += &#39;&amp;lt;span class=&#34;data&#34;&amp;gt;&#39; + noticias[i][&#39;data_publicacao&#39;] + &#39;&amp;lt;/span&amp;gt;&#39;; html += &#39;&amp;lt;span&amp;gt;&#39; + noticias[i][&#39;chamada&#39;] + &#39;&amp;lt;/span&amp;gt;&#39;; html += &#39;&amp;lt;span&amp;gt;&amp;lt;a href=&#34;</description>
+    </item>
+    
+    <item>
+      <title>Sections: elemento article – Parte 4</title>
+      <link>http://localhost/jhonny-roger/public/section-elemento-article/</link>
+      <pubDate>Mon, 25 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/section-elemento-article/</guid>
+      <description>Você deve marcar a área do conteúdo do seu site com um DIV com um ID do tipo: conteudo, texto, main, content e etc&amp;#8230; Normalmente esta é uma área nobre. O Google e outros sistemas de busca não tem com saberem onde fica o bloco do texto principal do site. Não havia nenhuma indicação dizendo que determinado elemento é se trata do bloco que carrega a informação principal do site.</description>
+    </item>
+    
+    <item>
+      <title>Sections: elemento aside – Parte 3</title>
+      <link>http://localhost/jhonny-roger/public/sections-elemento-aside/</link>
+      <pubDate>Wed, 13 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sections-elemento-aside/</guid>
+      <description>Engana-se se o você acha que o aside serve apenas para fazer &amp;#8220;sidebars&amp;#8221;. Lembre-se de outros blocos para utilizamos para expor algum tipo de informação referente ao assunto principal. Isso acontece muito em livros: dependendo do livro que você estiver lendo, como um livro técnico, ele pode ter caixas de informação durante todo o fluxo de texto do livro. Essas caixas normalmente servem para chamar sua atenção para alguma informação importante ou outras informações que agregarão mais ao conteúdo principal.</description>
+    </item>
+    
+    <item>
+      <title>Sections: elemento nav – Parte 2</title>
+      <link>http://localhost/jhonny-roger/public/sections-elemento-nav/</link>
+      <pubDate>Thu, 30 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sections-elemento-nav/</guid>
+      <description>Se você não leu o primeiro artigo da série, é interessante que o faça agora.
+O elemento nav representa uma seção da página que contém link para outras páginas ou partes do mesmo website. Resumindo: nav é uma seção de links de navegação.
+Essa definição é muito mais complexa do que se imagina. A tag nav pode agrupar uma série de elementos que anteriormente faríamos com div. Nem todos os grupos de links da página precisam ser um elemento nav, mas apenas as seções que consitem em blocos principais.</description>
+    </item>
+    
+    <item>
+      <title>6 dicas para evitar problemas de incompatibilidade entre browsers.</title>
+      <link>http://localhost/jhonny-roger/public/evite-incompatibilidade-browsers/</link>
+      <pubDate>Tue, 28 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/evite-incompatibilidade-browsers/</guid>
+      <description>Nas últimas semanas muito falou-se das novas versões de browsers que serão colocadas à disposição dos usuários nos próximos meses. Alguns esperam para ver se a gigante Microsoft recuperará o mercado e outros acompanham as novidades de Mozilla e Google com suas versões beta do Firefox 4 e do Chrome 6. É inevitável perceber a preocupação de todos em adaptar-se às necessidades dos usuários, padrões de desenvolvimento web e compatibilidade com o novo protagonista da web &amp;#8211; o HTML5 &amp;#8211; porém em meio à esses lançamentos, fica a pergunta: enquanto isso, como agir com os atuais browsers?</description>
+    </item>
+    
+    <item>
+      <title>Sections: seções do HTML5 – Parte 1</title>
+      <link>http://localhost/jhonny-roger/public/sections-html5/</link>
+      <pubDate>Thu, 23 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sections-html5/</guid>
+      <description>A estrutura de um site é dividida em diversas seções. Cada seção representa uma fatia do layout e também representa um grupo de conteúdo. Cada um destes grupos tem seu assunto específico. Nas minhas aulas eu costumava apresentar estas seções como seções mestres ou seções principais. Normalmente para descrever em HTML estas seções, usávamos a tag div. O elemento div é um elemento genérico que serve para criar DIVISÕES. Estas divisões não tinham significado semântico nenhum, não levavam nenhum tipo de informação &amp;#8220;extra&amp;#8221;, mas a nível de formatação resolvia nosso problema.</description>
+    </item>
+    
+    <item>
+      <title>Gradientes em CSS</title>
+      <link>http://localhost/jhonny-roger/public/gradientes-em-css/</link>
+      <pubDate>Wed, 22 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/gradientes-em-css/</guid>
+      <description>Uma das vantagens do CSS3 é a economia de imagem. É normal utilizar imagens para tratar partes do layout que são exclusivamente visuais. Um exemplo é o uso de gradientes. Até agora a única maneira de produzir gradientes era com imagens. E dá um trabalhão caso você queira modificá-la ou caso você esteja produzindo um site baseado em themes. Com CSS3 você consegue produzir gradientes diretamente pelo código CSS. Isso dá possibilidades para manipulação via Javascript e outros frameworks.</description>
+    </item>
+    
+    <item>
+      <title>Afinal, o que muda com o HTML 5?</title>
+      <link>http://localhost/jhonny-roger/public/afinal-o-que-muda-com-o-html-5/</link>
+      <pubDate>Wed, 15 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/afinal-o-que-muda-com-o-html-5/</guid>
+      <description>Você desenvolvedor web, antenado, com certeza vem acompanhando a evolução, as críticas, as observações, os elogios e, claro, os tutoriais para entender um pouco mais do que efetivamente significa esta versão “5” do HTML.
+Já você desenvolvedor, que limita-se a saber que uma nova versão está a caminho, talvez ainda não tenha tido a chance de conhecer quais serão essas importantes mudanças e o que trarão de novo para as bases do desenvolvimento web.</description>
+    </item>
+    
+    <item>
+      <title>Modelos de conteúdo no HTML5</title>
+      <link>http://localhost/jhonny-roger/public/modelos-de-conteudo-no-html5/</link>
+      <pubDate>Tue, 20 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/modelos-de-conteudo-no-html5/</guid>
+      <description>Este texto faz parte do capítulo 4 da apostila e guia de referência de HTML5.
+Há pequenas regras básicas que nós já conhecemos e que estão no HTML desde o início. Estas regras definem onde os elementos podem ou não estar. Se eles podem ser filhos ou pais de outros elementos e quais os seus comportamentos.
+Dentre todas as categorias de modelos de conteúdo, existem dois tipos de elementos: elementos de linha e de bloco.</description>
+    </item>
+    
+    <item>
+      <title>HTML5 Diff</title>
+      <link>http://localhost/jhonny-roger/public/html5-diff/</link>
+      <pubDate>Tue, 13 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/html5-diff/</guid>
+      <description>O W3C mantém um documento que compara o HTML4 com as novidades do HTML5. São inúmeras mudanças em elementos mais conhecidos e também em outros elementos mais específicos, utilizados em aplicações e sistemas mais complexos. Sugiro que você leia este documento e o guarde como referência.
+O HTML5 ainda é um rascunho. Ele está sendo discutido entre o WHATWG e o W3C. Diversos pontos podem ser modificados ainda, por isso é interessante que você entenda e fique por dentro das discussões para que você atualize seu código quando necessário.</description>
+    </item>
+    
+    <item>
+      <title>Conteúdo, Flash e HTML</title>
+      <link>http://localhost/jhonny-roger/public/contedo-flash-e-html/</link>
+      <pubDate>Thu, 29 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/contedo-flash-e-html/</guid>
+      <description>Steve Jobs fez um texto explicando os motivos pelos quais a Apple não suporta e nem suportará Flash em seus aparelhos. Sugiro que você leia o artigo antes de continuar. Aqui tem uma versão traduzida.
+A Web foi criada para facilitar o compartilhamento de informação. Este objetivo é muito claro quando estudamos sua história. Você pode enviar um email, um tweet ou uma mensagem no gTalk e a pessoa do outro lado ter essa informação na hora.</description>
+    </item>
+    
+    <item>
+      <title>Propriedade @font-face CSS – Fonts externas na web</title>
+      <link>http://localhost/jhonny-roger/public/font-face-fonts-externas-na-web/</link>
+      <pubDate>Tue, 30 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/font-face-fonts-externas-na-web/</guid>
+      <description>Tipografia na web sempre foi um sonho para todo designer. Alguns designers que trabalharam durante muito tempo com impressão se sentem presos com web por conta da limitação de escolha das fonts. A tipografia é parte importante na criação de peças gráficas e na web isso não poderia ser diferente. Mesmo assim, não havia uma maneira &amp;#8216;inteligente&amp;#8217; de utilizar uma fonts que não seja padrão do sistema operacional do usuário na criação de layouts para web.</description>
+    </item>
+    
+    <item>
+      <title>Emuladores para browsers mobiles</title>
+      <link>http://localhost/jhonny-roger/public/emuladores-para-browsers-mobiles/</link>
+      <pubDate>Tue, 23 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/emuladores-para-browsers-mobiles/</guid>
+      <description>Criar sites para mobiles hoje não é bicho de sete cabeças, mas também não é tarefa fácil. Quando fazemos sites para desktops, temos tudo o que precisamos para testar ao nosso alcance. Se você usa Mac ou Linux, pode usar um virtualizador para ter o IE, se você usa Windows, tem todos os browsers que necessita para testes. Você pode ver o resultado em diferentes resoluções, tamanho de fontes e etc.</description>
+    </item>
+    
+    <item>
+      <title>Produtividade: editores e snippets</title>
+      <link>http://localhost/jhonny-roger/public/produtividade-editores-e-snippets/</link>
+      <pubDate>Thu, 18 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/produtividade-editores-e-snippets/</guid>
+      <description>Não é muito difícil ser produtivo. Em muitas palestras e aulas, me perguntam como o desenvolvedor client-side (ou qualquer outro) pode melhorar sua performance e desenvolver melhor, mais rápido e com qualidade. Além de muito treino, existem outros pontos que se utilizados da maneira correta, podem agilizar seu trabalho. Um destes pontos é o seu editor de código.
+Você já parou para conhecer seu editor? Muitos desenvolvedores simplesmente ignoram a existência das features que seu editor carrega.</description>
+    </item>
+    
+    <item>
+      <title>Google Apps não suportará mais IE6</title>
+      <link>http://localhost/jhonny-roger/public/google-apps-nao-suportara-mais-ie6/</link>
+      <pubDate>Tue, 02 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/google-apps-nao-suportara-mais-ie6/</guid>
+      <description>Recebi hoje um email do Google explicando que em 2010 eles irão deixar de suportar o IE6. Vitória!
+Contar com o IE6 na cartilha de suporte é subutilizar o HTML5 e JavaScript. Aqui mesmo na Visie, temos projetos que o HTML5 e CSS3 seriam a resposta, mas ainda não podemos utilizar por causa do IE6, IE7 e em alguns casos o IE8.
+Deixar de suportar o IE6 é questão de sobrevivência.</description>
+    </item>
+    
+    <item>
+      <title>Simuladores de Browsers Mobiles</title>
+      <link>http://localhost/jhonny-roger/public/simuladores-de-browsers-mobiles/</link>
+      <pubDate>Wed, 20 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/simuladores-de-browsers-mobiles/</guid>
+      <description>Antigamente não existiam simuladores dos pequenos celulares. Na verdade, não precisava. Você provavelmente usava WAP. Quando começamos a utilizar CSS e XHTML para fazer sites mais decentes para os mobiles, tudo ficou mais complicado, você precisava ter um aparelho para fazer testes. Em muitos casos era simples resolver utilizando o Opera no desktop mesmo, mas em forma de visualização mobile/handheld. Contudo, você estava desenvolvendo para apenas aparelhos com Opera. Não havia, por exemplo, um simulador de IE Mobile.</description>
+    </item>
+    
+    <item>
+      <title>2010</title>
+      <link>http://localhost/jhonny-roger/public/ano-novo-2010/</link>
+      <pubDate>Wed, 23 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ano-novo-2010/</guid>
+      <description>Eu gostaria muito de fazer um artigo escrevendo uma retrospectiva do ano que passou. Mas isso é tão démodé, que resolvi deixar para lá. Mesmo assim, não há como falar do ano que vem, sem me alegrar dos avanços que o desenvolvimento web passou em 2009. Em 2009 foi o ano que os desenvolvedores se libertaram do IE6. Não que o IE6 seja uma coisa ruim, mas porque ele se tornou algo ruim, assim como os browsers de hoje podem se tornar um dia.</description>
+    </item>
+    
+  </channel>
+</rss>

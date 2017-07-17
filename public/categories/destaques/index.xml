@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Destaques on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/categories/destaques/</link>
+    <description>Recent content in Destaques on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 02 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/categories/destaques/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Atribuição múltipla com Destruturing Assignment</title>
+      <link>http://localhost/jhonny-roger/public/atribuicao-multipla-com-destruturing-assignment/</link>
+      <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/atribuicao-multipla-com-destruturing-assignment/</guid>
+      <description>Uma coisa que me chamou muita a atenção na linguagem Go foi a possibilidade de retornos múltiplos e, até mesmo, de tipos diferentes. Recentemente, vi que agora, na era pós ES6, podemos fazer algo parecido com JavaScript.
+Vamos supor que precisamos tratar um nome, e exibi-lo como referência do determinado autor. Poderíamos fazer assim:
+const ucFirst = (str) =&amp;gt; str.charAt(0).toUpperCase() + str.substr(1); function nomeAutor(nome) { let nomes = nome.split(&#39; &#39;); let ultimoNome = nomes.</description>
+    </item>
+    
+    <item>
+      <title>UX: Como aumentar a tolerância do usuário para atrasos</title>
+      <link>http://localhost/jhonny-roger/public/ux-como-aumentar-tolerancia-do-usuario-para-atrasos/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ux-como-aumentar-tolerancia-do-usuario-para-atrasos/</guid>
+      <description>Vivemos em um tempo onde velocidade é diferencial. Exigimos rapidez de tudo ao nosso redor, seja em um atendimento, em uma entrega de produto, na velocidade da Internet, no feedback do cliente, na estratégia de SEO do nosso site, entre tantos outros exemplos que poderiam ser citados. A realidade é evidente: esperar é doloroso.
+E em um cenário onde rapidez é fator de satisfação, a espera pode influenciar negativamente no valor de um produto ou serviço oferecido.</description>
+    </item>
+    
+    <item>
+      <title>Moz://a</title>
+      <link>http://localhost/jhonny-roger/public/moza/</link>
+      <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/moza/</guid>
+      <description>A Mozilla mudou seu logo.
+Desde o ano passado a Mozilla estava passando por um processo de rebranding. Não foi um processo como qualquer outra empresa faz: a Mozilla pediu a opinião de toda a sua comunidade. Ela contratou uma agência de Londres chamada Johnson Banks, que fez sete identidades primárias. A comunidade ajudou a escolher nesse site qual logo era mais legal, bonito, adequado e que se encaixava mais com a cultura da Mozilla e tudo o que ela representava.</description>
+    </item>
+    
+    <item>
+      <title>Opera Neon – Até que enfim um browser decente</title>
+      <link>http://localhost/jhonny-roger/public/opera-neon-ate-que-enfim-um-browser-decente/</link>
+      <pubDate>Sun, 15 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/opera-neon-ate-que-enfim-um-browser-decente/</guid>
+      <description>Eu tenho um faniquito com browser. Eu AMO o Safari. Sério. Ele é limpo, leve, rápido o bastante, não mata toda a memória do meu Mac, tem um Inspector usável&amp;#8230; Mas muitas, visitando vários sites, funcionalidades simples deixaram de funcionar por algum motivo desconhecido. Quando eu abria o mesmo site no Firefox ou no Chrome, o funcionamento era perfeito. Isso aconteceu diversas vezes ate que me enchi e comecei a usar o Firefox.</description>
+    </item>
+    
+    <item>
+      <title>Criando uma aplicação de Chat simples com NodeJS e Socket.io</title>
+      <link>http://localhost/jhonny-roger/public/criando-uma-aplicacao-de-chat-simples-com-nodejs-e-socket-io/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-uma-aplicacao-de-chat-simples-com-nodejs-e-socket-io/</guid>
+      <description>Neste tutorial iremos abordar alguns conceitos do Socket.io criando um simples sistema de chat para browser.
+O que é Socket.io? Socket.io é um uma biblioteca Javascript feita para construir aplicações real-time, possibilitando uma comunicação bi-direcional entre cliente e servidor. O socket.io utiliza as especificações de Web Sockets (para quem quer saber mais, recomendo dar uma olhada neste ótimo artigo da HTML5 Rocks).
+O Socket.io roda, no lado do servidor, em NodeJS, e, no lado do cliente, ele roda diretamente no browser, possibilitando uma enorme gama de possibilidades de aplicações, como jogos, sistemas de notificações, real-time analytics e sistemas de chats e conversas em tempo real.</description>
+    </item>
+    
+    <item>
+      <title>Introdução bem rápida sobre vim</title>
+      <link>http://localhost/jhonny-roger/public/introducao-bem-rapida-sobre-vim/</link>
+      <pubDate>Tue, 03 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-bem-rapida-sobre-vim/</guid>
+      <description>O vim é um editor de texto muito conhecido no mundo Linux. Embora conheça faz tempo, eu nunca o utilizei exatamente por que a curva de aprendizado é terrivelmente longa. Aposto que você conhece alguém que já ficou preso no vim quando foi editar um arquivo no servidor e nem sabia como salvar e sair do arquivo. Normal quando se está começando e nem tem ideia de como o vim funciona.</description>
+    </item>
+    
+    <item>
+      <title>Reação é melhor que previsão</title>
+      <link>http://localhost/jhonny-roger/public/reacao-e-melhor-que-previsao/</link>
+      <pubDate>Fri, 23 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/reacao-e-melhor-que-previsao/</guid>
+      <description>Entender o usuário é algo difícil. Você pode perceber isso facilmente comparando a sua forma de usar algum serviço de internet, digamos o Facebook, com qualquer outra pessoa ao seu redor. Provavelmente você tem um costume totalmente diferente de navegar, consumir conteúdo, comentar etc. Pessoas diferentes, usam de formas diferentes um mesmo produto e isso é totalmente normal. É por isso que tentar prever cenários para desenvolver um produto para internet é algo complicado.</description>
+    </item>
+    
+    <item>
+      <title>Integração Contínua com Travis CI — Parte 01</title>
+      <link>http://localhost/jhonny-roger/public/integracao-continua-com-travis-ci-parte-01/</link>
+      <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/integracao-continua-com-travis-ci-parte-01/</guid>
+      <description>O objetivo geral do artigo é mostrar como fazer uma Integração Contínua (técnica de desenvolvimento agile) com Travi CI, criando um repositório no O objetivo geral do artigo é mostrar como fazer uma Integração Contínua (técnica de desenvolvimento agile) com Travi CI, criando um repositório no e publicando nosso projeto em um Host utilizando o Heroku.
+Nesse primeiro post iremos montar toda nossa estrutura de diretórios e configuração de arquivos.</description>
+    </item>
+    
+    <item>
+      <title>Dicas para transformar leads em vendas</title>
+      <link>http://localhost/jhonny-roger/public/dicas-para-transformar-leads-em-vendas/</link>
+      <pubDate>Wed, 07 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/dicas-para-transformar-leads-em-vendas/</guid>
+      <description>Melhorar o relacionamento com seu público-alvo e consequentemente alavancar as vendas são os objetivos dos e-commerces que investem em marketing digital. Para isso, é preciso não só apostar em um design responsivo (adaptado para internet móvel), mas também em uma eficaz gestão de leads. Dessa forma, as chances de conversão irão aumentar bastante. Confira algumas dicas para transformar leads em vendas.
+Crie sua própria lista de leads Quando o assunto é conversão, de nada adianta ter uma extensa lista de leads se ela está recheada de pessoas que não se interessam por seus produtos ou serviços.</description>
+    </item>
+    
+    <item>
+      <title>Adicionando SSL no NGINX com o Let’s Encrypt</title>
+      <link>http://localhost/jhonny-roger/public/adicionando-ssl-no-nginx-com-o-lets-encrypt/</link>
+      <pubDate>Fri, 02 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/adicionando-ssl-no-nginx-com-o-lets-encrypt/</guid>
+      <description>O Let&amp;#8217;s Encrypt é uma forma fácil, automatizada e gratuita de se inserir SSL em uma aplicação web. A utilização do SSL é bem importante quando se há autenticação, tráfego de dados privados ou até mesmo para ser melhor colocado no ranking do Google.
+Neste artigo vou demonstrar como gerar e adicionar o SSL no NGINX com a ferramenta Let&amp;#8217;s Encrypt. Irei utilizar o sistema operacional Debian para executar os comandos, mas estes podem ser facilmente modificados para serem executados em qualquer distro.</description>
+    </item>
+    
+    <item>
+      <title>Proteja seu código usando o Webpack</title>
+      <link>http://localhost/jhonny-roger/public/proteja-seu-codigo-usando-o-webpack/</link>
+      <pubDate>Mon, 28 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/proteja-seu-codigo-usando-o-webpack/</guid>
+      <description>Não é um eufemismo dizer que que as ferramentas de front-end avançam rapidamente. Por um tempo, Grunt foi o principal automatizador. E desde então a comunidade adotou o Gulp, uma alternativa de streaming. Embora essas ferramentas sejam ótimas, você ainda precisará trabalhar dura para manter o seu sistema. E é aí que entram os empacotadores como o Browserify e Webpack.
+Como usar um empacotador Os empacotadores resolvem o problema fundamental no desenvolvimento front-end.</description>
+    </item>
+    
+    <item>
+      <title>Features que sua API REST precisa ter desde o início</title>
+      <link>http://localhost/jhonny-roger/public/features-que-sua-api-rest-precisa-ter-desde-o-inicio/</link>
+      <pubDate>Thu, 17 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/features-que-sua-api-rest-precisa-ter-desde-o-inicio/</guid>
+      <description>Eu tenho trabalhado com dados suavemente flutuando através do protocolo http por um tempo e agora eu tenho esse sentimento altruísta de que eu posso contribuir com os desenvolvedores mais jovens com algumas histórias sobre os desafios que enfrentei durante a minha jornada.
+Este artigo basicamente tem o objetivo de listar e discutir sobre alguns pontos importantes que sua API, possivelmente, poderia abraçar desde o início do projeto, a fim de acelerar o processo de desenvolvimento para todos em sua equipe.</description>
+    </item>
+    
+    <item>
+      <title>Yarn: A evolução do NPM</title>
+      <link>http://localhost/jhonny-roger/public/yarn-evolucao-do-npm/</link>
+      <pubDate>Thu, 03 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/yarn-evolucao-do-npm/</guid>
+      <description>Nos primórdios do desenvolvimento web e afins, trabalhar com bibliotecas era uma tarefa árdua. Lembro que tínhamos que pesquisar pela biblioteca, escolher uma versão, baixar o zip e implementar em nosso projeto. Não parece nada de outro mundo ao se tratar de pequenos projetos, mas quando estamos falando de projetos um pouco maiores, isso se torna um transtorno. A coisa se torna ainda mais complicada quando há a dependência entre bibliotecas.</description>
+    </item>
+    
+    <item>
+      <title>API para Autenticar usuários com JWT e Passport</title>
+      <link>http://localhost/jhonny-roger/public/autenticar-usuarios-com-jwt-e-passport/</link>
+      <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/autenticar-usuarios-com-jwt-e-passport/</guid>
+      <description>Neste artigo nós vamos explorar os principais conceitos e implementações da autenticação de usuário utilizando o mecanismo chamado JWT (JSON Web Token) por meio de um módulo Passport. Afinal, este é um importante passo para se certificar de que os usuários façam uma autenticação segura dentro de uma API baseada em REST.
+Antes de começarmos, vamos criar uma simples API em REST, que será utilizada ao longo deste post. Para simplificar nosso exemplo, nós vamos criar uma Express API.</description>
+    </item>
+    
+    <item>
+      <title>Web Semântica na Prática Parte 1: A Web do futuro (ou quase isso)</title>
+      <link>http://localhost/jhonny-roger/public/web-semantica-na-pratica-parte-1-web-do-futuro-ou-quase-isso/</link>
+      <pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/web-semantica-na-pratica-parte-1-web-do-futuro-ou-quase-isso/</guid>
+      <description>É possível conferir aqui mesmo no Tableless alguns bons artigos introdutórios sobre Web Semântica (veja aqui e aqui), os quais eu recomendo a leitura caso você nunca tenha ouvido falar sobre o assunto.
+A intenção dessa sequência de posts que nomeei como “Web Semântica na Prática” é destrinchar esse assunto de modo aprofundado, apresentando os conceitos e exemplificando-os na prática. O tutorial completo será composto de 9 posts que irão reunir, ao final, um guia bastante abrangente sobre os conceitos, padrões, tecnologias, linguagens e ferramentas utilizadas na criação de aplicações para Web Semântica.</description>
+    </item>
+    
+    <item>
+      <title>Hackathon – SESI Cultura Digital</title>
+      <link>http://localhost/jhonny-roger/public/hackathon-sesi-cultura-digital/</link>
+      <pubDate>Fri, 07 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/hackathon-sesi-cultura-digital/</guid>
+      <description>Para quem é do Rio de Janeiro, o SESI Cultura Digital desse ano está imperdível!
+Desde 2014, o SESI promove um evento anual chamado SESI Cultura Digital. Esse ano o evento vai ocorrer entre os dias 11 e 15 de Outubro, no Teatro SESI Centro com palestras e no SENAI Laranjeiras, com o Hackathon e Oficinas.
+Nessa edição, ocorrerá um Hackathon, cujo tema é sobre como as novas tecnologias estão impactando o mercado do audiovisual.</description>
+    </item>
+    
+    <item>
+      <title>Web.br 2016 – A Conferência do W3C no Brasil</title>
+      <link>http://localhost/jhonny-roger/public/web-br-2016-conferencia-do-w3c-no-brasil/</link>
+      <pubDate>Tue, 04 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/web-br-2016-conferencia-do-w3c-no-brasil/</guid>
+      <description>Palestrantes do Twitter, HPE, Microsoft e outras instituições apresentarão o que há de mais disruptivo e de tendência sobre esse tema durante o evento.
+A Conferência Web.br, promovida pelo W3C Brasil e realizada pelo Ceweb.br / NIC.br, foi criada em 2009 para oferecer ao público brasileiro um amplo fórum anual de discussão e debate sobre a evolução da Web, a padronização de suas tecnologias e o seu impacto na sociedade e na cultura.</description>
+    </item>
+    
+    <item>
+      <title>Menos é mais com Android Annotations</title>
+      <link>http://localhost/jhonny-roger/public/menos-e-mais-com-android-annotations/</link>
+      <pubDate>Mon, 19 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/menos-e-mais-com-android-annotations/</guid>
+      <description>De todo o trabalho que você tem ao programar uma aplicação android, uma grande parte dele é por conta de todo o código boilerplate que sempre temos que fazer. Uma das coisas que mais me incomoda é que todos os recursos (views e afins) precisam ser referenciados para poderem ser acessados e isso, dependendo da quantidade de recursos que você precisa ter na aplicação, pode resultar em muitas e muitas linhas de código.</description>
+    </item>
+    
+    <item>
+      <title>Conheça o debugger.html – Depurador de JS da Mozilla</title>
+      <link>http://localhost/jhonny-roger/public/conheca-o-debugger-html-depurador-de-js-da-mozilla/</link>
+      <pubDate>Wed, 14 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/conheca-o-debugger-html-depurador-de-js-da-mozilla/</guid>
+      <description>debugger.html é um depurador de JavaScript moderna da Mozilla, construído como um
+aplicação web usando React e Redux. Este projecto foi iniciado em um esforço para substituir o depurador atual dentro do Firefox Developer Tools.
+O debugger.html é uma aplicação que faz uma conexão WebSocket para um alvo que será debugável. A aplicação então interpreta dados e envia comandos para o motor JS para gerenciar o ambiente de debug; por exemplo, criando um breakpoint pausando a execução do motor JS em um determinado parte do código.</description>
+    </item>
+    
+    <item>
+      <title>Migrando de enterprise dev para startup dev</title>
+      <link>http://localhost/jhonny-roger/public/migrando-de-enterprise-dev-para-startup-dev/</link>
+      <pubDate>Sun, 11 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/migrando-de-enterprise-dev-para-startup-dev/</guid>
+      <description>Comecei minha carreira na área de desenvolvimento de software razoavelmente cedo, aos 16 anos estudava no ensino médio pela manhã, estagiava à tarde e estudava no curso técnico à noite. Ao contrário de muitos desenvolvedores, meu primeiro contato com código não foi dos melhores, foram horas e horas de estudo pra conseguir entender 1&amp;frasl;3 do que o professor estava tentando ensinar, na época ASP — sim, o ‘clássico’.
+Agora, com 26 anos, posso fazer uma análise interessante do que aconteceu nos últimos 10 anos de software e talvez essa reflexão sirva como norte pra quem está começando ou pra quem está afim de fazer uma troca de ares.</description>
+    </item>
+    
+    <item>
+      <title>Invertendo o Redux</title>
+      <link>http://localhost/jhonny-roger/public/invertendo-o-redux/</link>
+      <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/invertendo-o-redux/</guid>
+      <description>Introdução &amp;nbsp;
+Já faz um tempo desde que implementei pela primeira vez o Redux. Numa época que só se falava nos frameworks, ele apareceu do nada, pelo menos para mim. Eu já conhecia o Flux, mas ainda não era o que estava procurando. O Redux realmente é uma das melhores idéias que vi, para mim faz todo o sentido e ainda é simples de entender e de se implementar.</description>
+    </item>
+    
+    <item>
+      <title>Upload de imagens desmistificado com simpleGallery.js</title>
+      <link>http://localhost/jhonny-roger/public/upload-de-imagens-desmistificado-com-simplegallery-js/</link>
+      <pubDate>Wed, 07 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/upload-de-imagens-desmistificado-com-simplegallery-js/</guid>
+      <description>Olá pessoal, tudo bem?
+Neste artigo vou procurar abordar algo comum no dia-a-dia de qualquer desenvolver, o &amp;#8220;temido&amp;#8221; upload de imagens. No processo utilizarei NodeJS e Express para o back-end. A grande sacada será a utilização da lib simpleGallery.js, que nos auxiliará no front-end.
+Passos iniciais.. A seguir criaremos um servidor bem simples. Utilizarei o package &amp;#8220;Multer&amp;#8221; como middleware para as requisições de arquivo. Não vou prezar por segurança nem boas práticas, já que este artigo é apenas para encorajar aqueles que ainda possuem dificuldades.</description>
+    </item>
+    
+    <item>
+      <title>Construindo uma página com login no JSF</title>
+      <link>http://localhost/jhonny-roger/public/construindo-uma-pagina-com-login-no-jsf/</link>
+      <pubDate>Tue, 06 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/construindo-uma-pagina-com-login-no-jsf/</guid>
+      <description>Neste post vou falar sobre um assunto um pouco trivial e que qualquer iniciante no framework JSF pode se perder: As fases do JSF e onde interceptar a navegação para que o usuário realize a autenticação.
+É importante que você saiba o que é JSF e como configurá-lo em seu editor, aqui estarei utilizando o Eclipse, caso não saiba como configurar em seu editor, ao final, deixarei alguns links para lhe ajudar.</description>
+    </item>
+    
+    <item>
+      <title>Conversão de tipos em JavaScript</title>
+      <link>http://localhost/jhonny-roger/public/conversao-de-tipos-em-javascript/</link>
+      <pubDate>Mon, 05 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/conversao-de-tipos-em-javascript/</guid>
+      <description>Um dia desses eu recebi um quebra-gelo no Telegram, com o seguinte:
+Number(null); // 0 null == 0; // true né?  De cara eu pensei que seria false, mas fiz questão de rodar no console e ver no que dava. Claro que deu false. Mesmo assim, quis entender o motivo de Number(null) retornar `` e fui procurar na documentação do ECMAScript 6, ou ECMAScript 2015.
+O JavaScript, ou ECMAScript, tem um conjunto de operações abastratas que ocorrem por baixo dos panos.</description>
+    </item>
+    
+    <item>
+      <title>JPA de A à Z – Por que conhecer?</title>
+      <link>http://localhost/jhonny-roger/public/jpa-de-z-por-que-conhecer/</link>
+      <pubDate>Tue, 30 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/jpa-de-z-por-que-conhecer/</guid>
+      <description>Não dá pra negar que o Java é uma linguagem bastante verbosa e quando falávamos em juntar o Java com um banco de dados ai sim dava pra ver o tamanho do problema.
+Se não tivéssemos cuidado era muito fácil perder o controle da complexidade de nossas entidades e consultas.
+Antes de entendermos sobre a JPA, é necessário entender que costumávamos utilizar em nossos projetos o JDBC (Java Database Connectivity) que é uma API presente no Java desde a versão 1.</description>
+    </item>
+    
+    <item>
+      <title>Deixando seu site online com Surge.sh</title>
+      <link>http://localhost/jhonny-roger/public/deixando-seu-site-online-com-surge-sh/</link>
+      <pubDate>Mon, 29 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/deixando-seu-site-online-com-surge-sh/</guid>
+      <description>Já pensou em um mundo perfeito onde você pode digitar uma linha de comando e em poucos segundos o seu website está online? E mais um detalhe, GRATUITAMENTE.
+Sim, é verdade, esse mundo existe com o Surge.sh.
+Surge.sh é muito simples de usar, para você instalar você precisa do gerenciador de pacotes npm.
+Instalando Para instalar digite o comando:
+$ npm install --global surge  Pronto! O Surge.sh já está pronto para usar.</description>
+    </item>
+    
+    <item>
+      <title>Linked Data e JSON-LD</title>
+      <link>http://localhost/jhonny-roger/public/linked-data-e-json-ld/</link>
+      <pubDate>Wed, 20 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/linked-data-e-json-ld/</guid>
+      <description>Antes de entrarmos em como esse negócio de JSON-LD e Linked Data, queria falar um pouco sobre como a internet funciona. Organização da Informação na web é um dos assuntos que mais me fascinam no mundo da internet. Inclusive quando falamos sobre semântica e organização da informação de forma que não apenas humanos, mas computadores possam publicar e reutilizar essa informação livremente na web.
+Hoje a internet é baseada basicamente em código HTML, onde nós podemos mostrar imagens, vídeos, audios e principalmente textos.</description>
+    </item>
+    
+    <item>
+      <title>10 sites gratuitos sobre tecnologia e empreendedorismo</title>
+      <link>http://localhost/jhonny-roger/public/15-sites-gratuitos-que-cada-empreendedor-deve-visitar/</link>
+      <pubDate>Mon, 18 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/15-sites-gratuitos-que-cada-empreendedor-deve-visitar/</guid>
+      <description>Para ser um empreendedor bem sucedido significa que você precisa ter um monte de responsabilidades. No início, vai precisar servir café, abrir a porta, lavar privada, e até desenvolver, especialmente quando a sua empresa está apenas começando e você não tem funcionários suficientes para cobrir todas as áreas que você precisa.
+Aprender as novas habilidades necessárias para iniciar um novo negócio pode ser caro, mas, felizmente, a iniciativa é de graça, de alta qualidade, recursos educacionais on-line só tem continuado a crescer nos últimos anos.</description>
+    </item>
+    
+    <item>
+      <title>Deploy usando git pull e hooks</title>
+      <link>http://localhost/jhonny-roger/public/deploy-usando-git-pull-e-hooks/</link>
+      <pubDate>Mon, 18 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/deploy-usando-git-pull-e-hooks/</guid>
+      <description>Se você tem qualquer projeto pessoal, você já deve ter tido a necessidade de como fazer, de forma fácil, a automatização do deploy. Para tentar automatizar os meus projetos, eu tentei usar vários serviços como CodeShip, DeployBot e etc… Esses caras são bem legais, por que te dão uma série de integrações, históricos etc. Mas as vezes você nem precisa de tanto, você só quer dar um push no projeto local pro seu repositório remoto e esse repositório atualizar seu projeto em produção.</description>
+    </item>
+    
+    <item>
+      <title>Você conhece AMP?</title>
+      <link>http://localhost/jhonny-roger/public/voce-conhece-amp/</link>
+      <pubDate>Wed, 13 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/voce-conhece-amp/</guid>
+      <description>O projeto AMP &amp;#8211; Accelerated Mobile Pages, é uma iniciativa Google em conjunto com alguns publishers como Chartbeat, Vox, WordPress.com, Twitter, The Washington Post, UOL, etc; de trabalhar uma estrutura de rápido carregamento de conteúdos em Smartphones. Afinal, apesar da navegação mobile crescer dia-a-dia as soluções para uma entrega com mais velocidade ainda andam a passos lentos. Nossa conexão de internet em celulares ainda não tem a devida capacidade e nos obriga a, em alguns casos, buscar tamanha versatilidade em nosso desenvolvimento web a ponto de, em um site responsivo, ter que oferecer uma &amp;#8220;cidade completa e bem elaborada&amp;#8221; em sua versão desktop e uma &amp;#8220;ilha&amp;#8221; em sua versão mobile para não correr o risco de prejudicar nosso usuário.</description>
+    </item>
+    
+    <item>
+      <title>Vulnerabilidades em Sistemas Web</title>
+      <link>http://localhost/jhonny-roger/public/vulnerabilidades-em-sistemas-web/</link>
+      <pubDate>Mon, 11 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/vulnerabilidades-em-sistemas-web/</guid>
+      <description>O que são vulnerabilidades em sistemas web? Vulnerabilidades em sistemas web são uma realidade cada vez mais crescente na internet. Primeiro deixem-me explicar rapidamente como funciona a comunicação entre o browser e o servidor web. Sistemas web funcionam com uma dupla muito conhecida neste ramo: requisição e resposta.
+A requisição se origina do lado do usuário (pelo Chrome, IE, Firefox, Safari, cURL, etc) composta de elementos como header, URL, método, parâmetros, cookies, etc.</description>
+    </item>
+    
+    <item>
+      <title>Um pouco sobre imagens para Web</title>
+      <link>http://localhost/jhonny-roger/public/um-pouco-sobre-imagens-para-web/</link>
+      <pubDate>Tue, 05 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/um-pouco-sobre-imagens-para-web/</guid>
+      <description>Queria falar um pouco sobre alguns formatos de imagens que usamos todos os dias. Dar algumas informações que encontrei por aí. Vamos explorar as duas principais opções de formato gráfico que pode ser usado na Web para representar gráficos simples, esquemas ou logotipos. Embora hoje possamos usar SVG em diversos momentos, principalmente para ícones ou Logos, o PNG e o GIF ainda podem ser usadas. Depois falamos mais sobre o SVG.</description>
+    </item>
+    
+    <item>
+      <title>Introduzindo “Rich Cards”, um novo formato de resultados para Buscas</title>
+      <link>http://localhost/jhonny-roger/public/introduzindo-rich-cards-um-novo-formato-de-resultados-para-buscas/</link>
+      <pubDate>Mon, 04 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introduzindo-rich-cards-um-novo-formato-de-resultados-para-buscas/</guid>
+      <description>Como uma boa empresa de tecnologia, o Google parece fazer da necessidade de evoluir suas ferramentas uma &amp;#8220;obsessão&amp;#8221;. Quando o assunto é mobilidade então, essa questão é um pouco superior.
+Todo mundo sabe que a maneira de interagir em um resultado de busca depende muito de como as informações estão organizadas no topo. Temos uma tendência em clicar nos primeiros resultados, algo que o o próprio Google nos educou. Com os Dados Estruturados (Rich Snippets), temos uma nova forma de obter resultados relevantes, através de imagens, votação entre outros meios que certamente influenciarão nosso clique.</description>
+    </item>
+    
+    <item>
+      <title>Mozilla libera primeira compilação do Servo, o seu motor de renderização</title>
+      <link>http://localhost/jhonny-roger/public/mozilla-libera-primeira-compilacao-do-servo-o-seu-motor-de-renderizacao/</link>
+      <pubDate>Sun, 03 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/mozilla-libera-primeira-compilacao-do-servo-o-seu-motor-de-renderizacao/</guid>
+      <description>A lançou a primeira compilação de Servo, seu novo engine. Esta é a primeira demonstração que Jack Moffitt, líder do projeto na Mozilla, descreveu como &amp;#8220;um mecanismo de navegação de última geração com foco no desempenho e robustez.&amp;#8221;
+Pacotes para o MacOS e Linux estão disponíveis para download aqui: Servo Developer Preview downloads. A Mozilla promete que os pacotes para Windows e Android estarão disponíveis &amp;#8220;em breve&amp;#8221; e você pode verificar todo o código fonte no GitHub.</description>
+    </item>
+    
+    <item>
+      <title>Bulma: framework CSS baseado em flexbox</title>
+      <link>http://localhost/jhonny-roger/public/bulma-framework-css-baseado-em-flexbox/</link>
+      <pubDate>Tue, 28 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/bulma-framework-css-baseado-em-flexbox/</guid>
+      <description>&amp;#8220;Inspirado pelo Bootstrap, o Bulma visa oferecer a todos a alegria de fazer o design do site, com a simplicidade do flexbox e a elegância de Sass.&amp;#8221; &amp;#8211; Jeremy Thomas, criador do projeto Bulma.io.
+ &amp;nbsp;
+Como o título diz, o Bulma é um framework CSS baseado na tecnologia flexbox, que já tem uma grande compatibilidade entre os navegadores. O pacote contém todos os elementos mais comuns como botões, formulários, menus, tabelas, títulos, notificações, barras de progresso e um simples sistema de grid (basta adicionar uma coluna, o resize das colunas é automático).</description>
+    </item>
+    
+    <item>
+      <title>Sobre Aaron Swartz</title>
+      <link>http://localhost/jhonny-roger/public/sobre-aaron-swartz/</link>
+      <pubDate>Sun, 26 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/sobre-aaron-swartz/</guid>
+      <description>Você conhece Aaron Swartz? Não? Ele está mais presente na sua vida do que você imagina. Duvida? Talvez você conheça RSS. RSS é um subset do XML e sua principal função é facilitar a agregação e distribuição de conteúdo. A especificação 1.0 do RSS foi lançada em 06/12/2000. Aaron Swartz foi um dos co-autores do RSS. Ele só tinha 14 anos. Eu sei que você se sente orgulhoso quando consegue implementar algum framework JS nos seus projetos.</description>
+    </item>
+    
+    <item>
+      <title>Utilize ferramentas SEO para aumentar o tráfego do site</title>
+      <link>http://localhost/jhonny-roger/public/utilize-ferramentas-seo-para-aumentar-o-trafego-do-site/</link>
+      <pubDate>Sun, 26 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/utilize-ferramentas-seo-para-aumentar-o-trafego-do-site/</guid>
+      <description>Três amigos criaram sites para apresentar suas marcas e negócios online e resolveram se aventurar nos caminhos do marketing digital para aumentar o tráfego de suas páginas e, consequentemente, atrair o maior número de clientes. Após pesquisas e consultas com especialistas neste ramo, foram orientados a conhecer o SEO.
+Pensaram que poderia ser nome de alguém e fizeram buscas na internet seguindo essa referência. Diversos sites indicados pelo Google apareceram e indicaram essa sigla.</description>
+    </item>
+    
+    <item>
+      <title>Redesign do Google Fonts</title>
+      <link>http://localhost/jhonny-roger/public/reimaginando-o-google-fontes/</link>
+      <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/reimaginando-o-google-fontes/</guid>
+      <description>O novo Google Fonts torna mais fácil do que nunca para ver nossa coleção de fontes de designer de código aberto e aprender mais sobre as pessoas que os fazem.
+O Google Fonts foi lançado pela primeira vez em 2010 como uma iniciativa de engenharia para mover a web para frente e torná-lo mais rápido, utilizando diferentes tecnologias como cross-site de armazenamento em cache de fontes e de compressão inteligentes, criando uma maneira simples de adicionar variedade tipográfico para os sites.</description>
+    </item>
+    
+    <item>
+      <title>O básico sobre Expressões Regulares</title>
+      <link>http://localhost/jhonny-roger/public/o-basico-sobre-expressoes-regulares/</link>
+      <pubDate>Wed, 15 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-basico-sobre-expressoes-regulares/</guid>
+      <description>Expressão Regular é uma das ferramentas mais úteis que você pode ter. Vira e mexe as Expressões Regulares (RegExp) resolvem desde problemas de Find &amp;amp; Replace no editor até validação de dados em diversos níveis do seu projeto. Mas geralmente a gente só lê sobre Expressões Regulares quando precisamos decifrar aquela linha maluca e ainda assim de um jeito meio descuidado, tateando e tentando fazer dar certo uma combinação de caracteres sem sentido.</description>
+    </item>
+    
+    <item>
+      <title>Fluxo de execução assíncrono em JavaScript – Generators e Async Functions</title>
+      <link>http://localhost/jhonny-roger/public/fluxo-de-execucao-assincrono-em-javascript-generators-e-async-functions/</link>
+      <pubDate>Mon, 23 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/fluxo-de-execucao-assincrono-em-javascript-generators-e-async-functions/</guid>
+      <description>Os últimos artigos tratam de Callbacks e Promises, corre conferir ou relembrar antes de prosseguirmos. Promises são abstrações muito importantes na evolução de escrita de código assíncrono. Tanto isto é verdade, que as técnicas e conceitos que veremos neste artigo são todos apoiados em promises.
+function mountUserComponent() { return get(&#39;profile.json&#39;).then(function (response) { return new UserComponent(response); }, function onRejected() { // falha na requisição Ajax }); }  A intenção a partir daqui é eliminar muito desta necessidade de declarar callbacks de sucesso e falha para recuperar o resultado de uma promessa.</description>
+    </item>
+    
+    <item>
+      <title>Encontro de Desenvolvedores Curitiba – 21/Maio</title>
+      <link>http://localhost/jhonny-roger/public/encontro-de-desenvolvedores-curitiba-21maio/</link>
+      <pubDate>Wed, 18 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/encontro-de-desenvolvedores-curitiba-21maio/</guid>
+      <description>Pessoal de Curitiba, neste sábado, dia 21, haverá um super evento sobre desenvolvimento web no Shopping Estação!
+No final do Post, você confere a data de todos os eventos. Quer desconto? 50% usando o cupom PRCTABLELESS. Faça sua inscrição agora!
+     Renan Ranelli da Xerpa &amp;#8211; mais conhecido como Milhouse &amp;#8211; vai falar sobre como evitar que o sonho de adotar novas tecnologias se torne um pesadolo!</description>
+    </item>
+    
+    <item>
+      <title>Consumo eficiente de recursos computacionais de servidores de aplicação web com Node.js</title>
+      <link>http://localhost/jhonny-roger/public/consumo-eficiente-de-recursos-computacionais-de-servidores-de-aplicacao-web-com-node-js/</link>
+      <pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/consumo-eficiente-de-recursos-computacionais-de-servidores-de-aplicacao-web-com-node-js/</guid>
+      <description>INTRODUÇÃO Nos últimos anos, houve um considerável crescimento do número de usuários e volume de dados na Internet. Em 2014, cerca de 3 bilhões de pessoas no mundo usavam a internet e 43.6% das residências em todo mundo possuíam algum forma de acesso a grande rede. Os sites de redes sociais têm registrado, ao longo dos anos, um crescimento exponencial, o Facebook, por exemplo, possuía no final de 2013, 1,3 bilhões de usuários ativos, enquanto o Twitter, maior microblog internacional, registrava, na mesma época, 646 milhões de usuários ativos, responsáveis por 58 milhões de tweets postados diariamente (ITU, 2014).</description>
+    </item>
+    
+    <item>
+      <title>Testes de Invasão e Análise de Vulnerabilidades</title>
+      <link>http://localhost/jhonny-roger/public/testes-de-invasao-e-analise-de-vulnerabilidades/</link>
+      <pubDate>Tue, 26 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/testes-de-invasao-e-analise-de-vulnerabilidades/</guid>
+      <description>O que é um Teste de Invasão Teste de invasão ou pentest são métodos que avaliam a segurança de um sistema de computador ou de uma rede, simulando ataques de uma fonte maliciosa. O processo envolve uma análise nas atividades do sistema, que envolvem a busca de alguma vulnerabilidade em potencial que possa ser resultado de uma má configuração do sistema, falhas em hardwares/softwares desconhecidas, deficiência no sistema operacional ou técnicas contramedidas.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando com o Docker: dicas práticas para começar a usar agora mesmo</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-com-o-docker-dicas-praticas-para-comecar-usar-agora-mesmo/</link>
+      <pubDate>Tue, 19 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-com-o-docker-dicas-praticas-para-comecar-usar-agora-mesmo/</guid>
+      <description>Nós no Elasticpush utilizamos Docker para criar nossos ambientes de desenvolvimento, não que o Docker seja somente para isso, aliás, a sua principal vantagem é poder ter a mesma imagem da sua máquina e em produção.
+Mas enquanto não reestruturamos as coisas para rodar o Docker em produção utilizamos suas vantagens no ambiente de desenvolvimento o que já nos trás uma série de benefícios como:
+ Facilidade de configuração do ambiente de novos membros da equipe Ter diversas versões da mesma biblioteca rodando sem conflito para testes pontuais Poder trabalhar em outros projetos sem comprometer os recursos da máquina e sem a necessidade de levantar uma Máquina Virtual inteira somente para isso.</description>
+    </item>
+    
+    <item>
+      <title>A arquitetura Redux usando Jails</title>
+      <link>http://localhost/jhonny-roger/public/arquitetura-redux-usando-jails/</link>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/arquitetura-redux-usando-jails/</guid>
+      <description>Ultimamente tenho me preocupado mais com arquiteturas no front-end do que propriamente com as implementações de alguns frameworks. Isso porque eu acho que realmente nos falta um pouco mais de conhecimento sistêmico, mais arquitetural, porque os problemas só estão crescendo e percebi que pelo menos eu não estava acompanhando devidamente a complexidade das aplicações desenvolvidas em Javascript.
+Uma pequena reflexão Os frameworks acabaram aparecendo nos últimos tempos e percebo que tiveram uma importância muito maior do que o nosso amadurecimento quanto aos novos desafios nas aplicações web, especificamente na linguagem Javascript.</description>
+    </item>
+    
+    <item>
+      <title>Resultados do Survey 2015</title>
+      <link>http://localhost/jhonny-roger/public/resultados-do-survey-2015/</link>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/resultados-do-survey-2015/</guid>
+      <description>Eu sei, eu sei&amp;#8230; Demorou bastante, mas chegou! Esses são os resultados do Survey feito em 2015. Foi respondido por 1899 pessoas. Fizemos perguntas que envolvem comportamento, status atual do cargo, salário e pretensões para o futuro.
+Alguns insights:
+ O mercado é relativamente jovem. Pouco menos da metade das pessoas que responderam tem entre 19 a 25 anos; A maioria gostaria de trabalhar nos Estados Unidos, Canadá e Alemanha; 67% não possui nenhuma certificação; 86% não colabora para nenhum site da área; 36% é funcionario de alguma empresa, mas também faz freelas; 66% tem graduação superior;  </description>
+    </item>
+    
+    <item>
+      <title>Entendendo o async e o await em JavaScript</title>
+      <link>http://localhost/jhonny-roger/public/entendendo-o-async-e-o-await-em-javascript/</link>
+      <pubDate>Tue, 12 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/entendendo-o-async-e-o-await-em-javascript/</guid>
+      <description>Introdução As funcionalidades async / await não conseguiram chegar para o ES6, mas isso não significa que elas não irão chegar ao JavaScript. Enquanto escrevo esse post, ela é uma proposta na fase 3 e está sendo trabalhada ativamente. As funcionalidades já estão no Edge e devem chegar a outros browsers assim que chegar na fase 4 &amp;#8211; pavimentando seu caminho para inclusão na próxima edição da linguagem (veja também: Processo TC39).</description>
+    </item>
+    
+    <item>
+      <title>O básico sobre o automatizador de tarefas Make</title>
+      <link>http://localhost/jhonny-roger/public/jaime-o-garoto-quer-make/</link>
+      <pubDate>Mon, 11 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/jaime-o-garoto-quer-make/</guid>
+      <description>O trabalho no client-side é cercado por tarefas pequenas e frequentes. Por causa dessas tarefas frequentes, surgiram ferramentas fantásticas como Grunt, Gulp e vários outros.
+Mas se voltarmos um pouco no tempo, vamos encontrar um cara chamado MAKE. Quem já instalou algum programa em alguma distribuição unix-like sabe bem do quem estou falando.
+Esse era o processo básico pra instalar o programa.
+$ ./configure $ make $ make install  Mas junto com isso, você precisava resolver uma série de problemas de dependências, caminhos de arquivos, permissões, versão e em último caso, ligava ou chamava quele amigo que manjava muito de Linux e implorava por ajuda.</description>
+    </item>
+    
+    <item>
+      <title>React Native: Construa aplicações móveis nativas com JavaScript</title>
+      <link>http://localhost/jhonny-roger/public/react-native-construa-aplicacoes-moveis-nativas-com-javascript/</link>
+      <pubDate>Tue, 05 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/react-native-construa-aplicacoes-moveis-nativas-com-javascript/</guid>
+      <description>Introdução O React Native é um projeto desenvolvido pelos engenheiros do Facebook e que consiste em uma série de ferramentas que viabilizam a criação de aplicações móveis nativas para a plataforma iOS e Android, utilizando o que há de mais moderno no desenvolvimento Front-end &amp;#8211; mirando no futuro. É o estado da arte no que se refere ao desenvolvimento mobile baseado em JavaScript.
+O stack do React Native é poderoso, pois nos permite utilizar ECMAScript 6, CSS Flexbox, JSX, diversos pacotes do NPM e muito mais.</description>
+    </item>
+    
+    <item>
+      <title>Introdução ao Redux</title>
+      <link>http://localhost/jhonny-roger/public/bem-vindo-ao-redux/</link>
+      <pubDate>Mon, 04 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/bem-vindo-ao-redux/</guid>
+      <description>Introdução Redux é uma maneira de pensar o desenvolvimento de aplicações criada pelo @dan_abramov que teve como principio optimizar a ideia do Flux. Ela foi criada para tentar optimizar alguns obstáculos que o Flux começou a enfrentar, e também veio para simplificar a implementação do mesmo. Inspirada em conceitos da linguagem funcional Elm, e de algumas bibliotecas JS como o Immutable.js, o Baobab, o RxJs e o próprio Flux, o Redux veio com alguns paradigmas interessantes e um pouco diferenciados do Flux.</description>
+    </item>
+    
+    <item>
+      <title>20 melhores sites de bancos de imagens grátis</title>
+      <link>http://localhost/jhonny-roger/public/20-melhores-sites-de-bancos-de-imagens-gratis/</link>
+      <pubDate>Mon, 26 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/20-melhores-sites-de-bancos-de-imagens-gratis/</guid>
+      <description>Você deve conhecer o Unplash: um website que a cada 10 dias libera 10 novas fotos maravilhosas em alta resolução que podem ser usadas da forma que você desejar, seja online, offline, em projetos pessoais ou comerciais. O legal é que existem mais um monte de sites tão bons quanto o Unsplash. Confira abaixo as opções:
+1. Unsplash 
+2. Negative Space 
+3. Death to Stock 
+4. FancyCrave</description>
+    </item>
+    
+    <item>
+      <title>Programadores podem se tornar bons escritores?</title>
+      <link>http://localhost/jhonny-roger/public/programadores-podem-se-tornar-bons-escritores/</link>
+      <pubDate>Fri, 05 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/programadores-podem-se-tornar-bons-escritores/</guid>
+      <description>Num mundo em que quase tudo é intermediado por tecnologia, escrever códigos é uma das habilidades mais interessantes e necessárias. É uma atividade que se tornou criativa e lúdica (vide as crianças que se divertem nas aulas de programação).
+Na área de comunicação, por exemplo, escrever códigos se tornou extremamente importante. Não é à toa, as velhas habilidades do campo da comunicação já não conseguem mais responder aos atuais problemas de gestão e consumo de informação.</description>
+    </item>
+    
+    <item>
+      <title>Design Responsivo na prática: do rascunho ao digital</title>
+      <link>http://localhost/jhonny-roger/public/design-responsivo-na-pratica-do-rascunho-ao-digita/</link>
+      <pubDate>Wed, 17 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/design-responsivo-na-pratica-do-rascunho-ao-digita/</guid>
+      <description>Você já convenceu o seu chefe ou cliente que Design Responsivo é a última bolacha de chocolate do pacote, já sabe como trabalhar com media queries e como desenvolver códigos bonitos, semânticos e cheirosos. Mas a dúvida ainda persiste &amp;#8211; por onde começar? Você não está sozinho. Esta é uma dúvida bem frequente. Por isto resolvi escrever um artigo básico só com dicas de prototipagem para design responsivo coletando algumas ferramentas úteis, artigos interessantes e comentando também um pouco da minha experiência pessoal ao lidar com o assunto no dia-a-dia gerindo um pequeno estúdio de webdesign.</description>
+    </item>
+    
+  </channel>
+</rss>

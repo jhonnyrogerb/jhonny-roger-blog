@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feed on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/feed/</link>
+    <description>Recent content in Feed on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 09 Nov 2006 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Podcast Tableless #25 – Validação é importante?!</title>
+      <link>http://localhost/jhonny-roger/public/podcast-tableless-25-validacao-e-importante/</link>
+      <pubDate>Thu, 09 Nov 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/podcast-tableless-25-validacao-e-importante/</guid>
+      <description>&lt;p&gt;Validar ou não validar, eis a questão. Será que validar é realmente importante? Para quem ela é importante? Qual o sentido da vida? Mas &lt;a href=&#34;http://en.wikipedia.org/wiki/The_Answer_to_Life,_the_Universe,_and_Everything#The_search_for_the_Ultimate_Question&#34;&gt;porque 42 é a resposta&lt;/a&gt;?&lt;/p&gt;
+
+&lt;p&gt;Validação sempre foi um assunto muito interessante. Não temos como falar sobre validação sem tocar em assuntos como semântica, xhtml2, html5 e etc. Instigados pelo assunto (um tanto polêmico, confesso) e pelos comentários do &lt;a href=&#34;http://tableless.com.br/validar-e-importante&#34;&gt;post que escrevi anteriormente&lt;/a&gt;, decidimos fazer um podcast madrugada adentro.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>BlogBits Podcast #3 – Convergência Digital</title>
+      <link>http://localhost/jhonny-roger/public/blogbits-podcast-3-convergencia-digital/</link>
+      <pubDate>Fri, 10 Mar 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/blogbits-podcast-3-convergencia-digital/</guid>
+      <description>Enfim conseguimos colocar no ar o terceiro BlogBits Podcast. O assunto central desta vez foi convergência digital.
+Falamos um pouco do hype em torno do novo lançamento da microsoft, o Ultra-Mobile PC, mais conhecido pelo seu codinome, Origami, uma mistura de tablet PC com PDA (Leia o post do Rigonatti sobre ele).
+Democracy Player, um player que funciona mais ou menos como uma &amp;#8220;Internet TV&amp;#8221;, baixando vídeos de alguns &amp;#8220;canais&amp;#8221; pré-configurados ou usando RSS, por exemplo, do tvRSS.</description>
+    </item>
+    
+    <item>
+      <title>BlogBits Podcast</title>
+      <link>http://localhost/jhonny-roger/public/blogbits-podcast/</link>
+      <pubDate>Thu, 16 Feb 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/blogbits-podcast/</guid>
+      <description>Lembra daquele podcast que a gente publicava aqui no Tableless, que juntava um bando de nerd sem o que fazer para poder falar sobre a vida, o universo e tudo mais? Pois é&amp;#8230; Virou o BlogBits Podcast.
+Eu, Danilo Medeiros, Thiago Rigonatti, Bruno Torres, Leonardo Faoro e Gui Leite nos juntamos para falar sobre tecnologia, web, tendências, acessibilidade e etc&amp;#8230;
+Iremos tentar fazer um programa por semana, tentando abordar os assuntos mais recentes, e fazer aquele bate-papo descontraído que vocês já conhecem.</description>
+    </item>
+    
+    <item>
+      <title>Podcast #17 – IE7 Beta 2 e Mercado de trabalho</title>
+      <link>http://localhost/jhonny-roger/public/podcast-17-ie7-beta-2-e-mercado-de-trabalho/</link>
+      <pubDate>Tue, 07 Feb 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/podcast-17-ie7-beta-2-e-mercado-de-trabalho/</guid>
+      <description>Podcast um pouco mais animado. Muita gente deu uma reclamada básica, resolvi mudar algumas coisas no podcast. Vamos mudando aos poucos, afinando aqui e ali até que chegue no ponto. Não só o podcast em si, mas também a minha forma de narrar&amp;#8230; Vou tentar relaxar mais daqui para frente para deixar de ser muito formal. Juro que vou tentar&amp;#8230; :-@
+Nesse podcast foram apenas dois assuntos ( vou tentar aumentar o numero de assuntos e novidades com o tempo), o primeiro fo IE7 e o segundo sobre o mercado de trabalho.</description>
+    </item>
+    
+    <item>
+      <title>RSS</title>
+      <link>http://localhost/jhonny-roger/public/rss-2/</link>
+      <pubDate>Thu, 03 Jul 2003 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/rss-2/</guid>
+      <description>O Charles deu a idéia inicial. Tomei um tempinho pra pensar, e aqui vai: RSSficador, um jeito fácil de criar RSS com ASP, XML e Expressões Regulares. De quebra, o Tableless também ganhou um RSS.</description>
+    </item>
+    
+  </channel>
+</rss>

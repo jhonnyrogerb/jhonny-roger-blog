@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245860">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>É muito comum o desenvolvedor ficar empolgado ao descobrir recursos, plugins, animações e efeitos JavaScript e acabar exagerando no produto final. Também é muito comum, <a href="/como-tornar-seu-website-acessivel">como disse a Thaiana</a>, que acessiblidade esteja ligado exclusivamente a sites governamentais. Aos poucos este cenário está mudando.</p>
+
+<p>Além de tornar o seu site acessível à pessoas com necessidades especiais, as técnicas abaixo serão úteis também quando o navegador do usuário estiver com JavaScript desabilitado. E se mesmo assim você ainda não estiver convencido, pense que, quanto menos JavaScript, mais otimizado e estável será o seu site/sistema.</p>
+
+<h2 id="o-problema">O problema</h2>
+
+<p>Acessibilidade, basicamente, significa tornar o seu site/sistema compatível com dispositivos leitores de tela. O que este dispositivo faz é tentar converter todo o conteúdo presente em uma página para uma saída especial, seja ela voz (text-to-speech) ou braille. Por isso a importância da semântica no HTML e, por isso também, a importância do JavaScript não acabar atrapalhando o funcionamento do seu site.</p>
+
+<p>Dependendo da forma como você utilizou JavaScript, parte do conteúdo pode passar batida no screen reader. Isso acontece muito com animações (conteúdos escondidos) e eventos que não são nativos do elemento, como tentar utilizar onClick em um parágrafo.</p>
+
+<h2 id="noscript"><noscript></h2>
+
+<p>A prioridade número 1 nas regras para acessibilidade é tornar todo o conteúdo disponível quando o navegador não estiver com JavaScript habilitado. Procure implementar alternativas HTML parecidas com o conteúdo estabelecido por seus scripts.</p>
+
+<p>No entanto, é importante ressaltar que o noscript só vai funcionar quando o javascript estiver dasabilitado no navegador (ele não vai funcionar se o JavaScript estiver com erro, por exemplo). Alguns screen readers tentam interpretar JS, portanto, utilizar JavaScript NÃO significa tornar seu site pouco acessível. Depende da forma como você implementa seus scripts.</p>
+
+<p>Muita gente é a favor da extinção da tag <noscript>. O que eles defendem é que basta você desenvolver seus scripts de forma não-obstrutiva. Seu script pode ser executado ou não &#8211; independente disso ele não afetará a funcionalidade básica da página.</p>
+
+<h2 id="preciso-mesmo-usar-javascript">Preciso mesmo usar JavaScript?</h2>
+
+<p>Sempre que for utilizar algum efeito ou interação em JavaScript você deve se perguntar se ele é mesmo necessário. Ou ainda, não daria pra fazer a mesma coisa utilizando apenas HTML e CSS?</p>
+
+<p>Pense duas vezes antes de implementar qualquer tipo de script. Analise não só a questão da acessibilidade, mas também performance e manutenção.</p>
+
+<h2 id="não-invente-eventos-e-não-fique-preso-ao-mouse">Não invente eventos e não fique preso ao mouse</h2>
+
+<p>Procure utilizar eventos JavaScript apenas em elementos que estão aptos a recebê-los. Por exemplo, não utilize onClick em um <li>. Geralmente, os eventos de interação devem estar associados a links e botões.</p>
+
+<p>Lembre-se também que nem sempre vai ser utilizado o mouse, logo, eventos como onMouseOver e onMouseOut seriam inválidos. Ofereça alternativas globais, como onFocus, onBlur, onClick (que, no teclado, seria executado com a tecla Enter) &#8211; visando usuários que utilizam outros dispositivos.</p>
+
+<p>Um problema grave são menus ativados no mouseover. Nesse caso o usuário não teria como acessar todas as páginas &#8211; ele não poderia navegar por toda a estrutura do site.</p>
+
+<p>Essas regras estão também diretamente ligadas a conteúdos carregados via AJAX. Dependendo da forma como você ativa o evento, o screenreader vai ler ou não o conteúdo recém adicionado.</p>
+
+<h2 id="wai-aria">WAI-ARIA</h2>
+
+<p>Procurando estabelecer um padrão para acessibilidade e conteúdos dinâmicos foi criada a especificação WAI-ARIA (Accessible Rich Internet Applications). O que ela faz é adicionar novas formas de identificar e habilitar funcionalidades dinâmicas através de propriedades nas tags HTML. Recentemente o jQuery UI adicionou suporte total ao framework ARIA tornando assim seus widgets e elementos de interface acessíveis a usuários com alguma necessidade especial.</p>
+
+<p>O ARIA, por exemplo, pode definir regiões em um site e habilitar o movimento via tab entre essas regiões, ao invés de elemento por elemento. O WAI-ARIA também possibilita definir papéis (roles) para elementos como menu, menuitem, banner, application etc.</p>
+
+<p>Este é um assunto muito rico e ainda pouco explorado. Para mais informações visite a <a href="http://www.w3.org/WAI/PF/aria/" rel="external">especificação do WAI-ARIA no site do W3C</a> e também <a href="http://www.paciellogroup.com/blog/?p=106" rel="external">este tutorial sobre os papéis disponíveis no ARIA</a>.</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/indo-alem-no-react-native//?utm_source=tablelessRelatedLin">Indo além no Mundo React-Native</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/seu-primeiro-bot-para-o-telegram//?utm_source=tablelessRelatedLin">Seu primeiro bot para o Telegram</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245861"></script>

@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245838">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>Ultimamente, com o boom do JavaScript, os desenvolvedores front end se depararam com a difícil questão: qual framework e/ou biblioteca usar em meu projeto? A resposta é: depende do que você está procurando. Construir uma SPA completa? Uma aplicação híbrida? Ou apenas um simples formulário? O objetivo aqui não é enumerar as diferenças entre todas as várias ferramentas existentes no mercado, e sim focar no Angular, a que considero mais completa e que pode atender a todos os objetivos de um projeto.</p>
+
+<p>O Angular, apesar de ter sido pensado inicialmente para lidar apenas com formulários, é hoje uma das ferramentas mais largamente utilizada para desenvolvimento front end, porém, sempre teve seus problemas, dentre eles, os problemas de performance. E é esse um dos principais motivos que levou a equipe do Angular a desenvolver, do zero, a sua versão 2.</p>
+
+<p>O <a href="https://angular-2-training-book.rangle.io/handout/why_angular_2.html" target="_blank">rangle.io</a> listou as principais diferenças entre o Angular 1 e o 2:</p>
+
+<blockquote>
+<p>“_Transitional Architecture_” se refere ao estilo de programação no Angular 1 de forma a se aproximar o máximo possível do Angular 2, mas com <em>Controllers</em> e _Diretivas,_ ao invés de classes TypeScript.</p>
+</blockquote>
+
+<p><img class="alignnone wp-image-56319 size-full" src="http://tableless.com.br/uploads/2016/10/Captura-de-Tela-2016-10-27-às-10.28.09.png" alt="Comparação Angular 1 e 2 do rangle.io" width="718" height="274" /></p>
+
+<h2 id="mas-e-aí-vale-ou-não-a-pena">Mas e aí, vale ou não a pena?</h2>
+
+<h3 id="adoção">Adoção</h3>
+
+<p>A preocupação da maioria das pessoas é simplesmente não saber se Angular 2 vai realmente “vingar”, e acabam ficando com receio de migrar. Fazendo uma simples pesquisa no Google Trends, é possível comparar a popularidade do termo Angular 2, comparado a VueJS e ReactJS, as ferramentas que estão mais em alta atualmente.</p>
+
+<p><img class="alignnone wp-image-56321 size-full" src="http://tableless.com.br/uploads/2016/10/trends.jpg" alt="Comparação entre AngularJS, VueJS e ReactJS" width="1118" height="357" /></p>
+
+<h3 id="mobile">Mobile</h3>
+
+<p>Se você pretende desenvolver aplicativos híbridos, cá está mais um excelente motivo para usar Angular 2, a equipe do Ionic está finalizando o desenvolvimento da sua segunda versão, que é totalmente escrita em Angular 2.</p>
+
+<h3 id="typescript">TypeScript</h3>
+
+<p>Uma vez que a maioria dos navegadores não estão habilitados para rodar ES6 e ES7, surgiram alguns pré-compiladores, que geram todo o código para o JavaScript “entendível” pelo navegador. Mas o Typescript vai um pouco mais longe.</p>
+
+<p><img class="alignnone wp-image-56324 size-full" src="http://tableless.com.br/uploads/2016/10/v94tyy.jpg" alt="Meme TypeScript" width="512" height="358" /></p>
+
+<p>O TypeScript, criado pela Microsoft (isso mesmo), é um “_superset_” do JavaScript, que, além de implementar as funcionalidades do ES6+, traz uma série de “poderes” no desenvolvimento. Uma das coisas que eu gosto bastante, é a capacidade de <em>autocomplete</em> nas IDEs (se você tiver uma que suporte, como o Sublime Text ou VSCode). Mas acredito que o mais interessante é a parte de organização do código. O TypeScript tem uma sintaxe muito mais clara e fácil de entender. Abaixo um mesmo código escrito em TypeScript e JavaScript:</p>
+
+<p>TypeScript:</p>
+
+<pre class="lang-javascript">class HelloWorld {
+  text: string;
+  constructor(text: string) {
+    this.text = text;
+  }
+}
+let txt = new HelloWorld("Olá mundo!");
+console.log(txt);
+</pre>
+
+<p>JavaScript:</p>
+
+<pre class="lang-javascript">var HelloWorld = (function () {
+  function HelloWorld(text) {
+    this.text = text;
+  }
+return HelloWorld;
+}());
+var txt = new HelloWorld("Olá mundo!");
+console.log(txt);</pre>
+
+<h3 id="performance">Performance</h3>
+
+<p>Um ponto muito importante de destaque é a performance. O Angular 1, de fato, oferece uma experiência de baixa performance devido a excessivas interações com a DOM. O Angular 2 vem pra resolver esse problema de uma vez por todas. O gráfico abaixo, feito pela <a href="https://auth0.com/blog/more-benchmarks-virtual-dom-vs-angular-12-vs-mithril-js-vs-the-rest/" target="_blank">auth0</a>, mostra, na prática o resultado do <em>benchmark</em> que eles realizaram:</p>
+
+<p><img class="alignnone wp-image-56328 size-full" src="http://tableless.com.br/uploads/2016/10/angular2-grafico.png" alt="angular2 grafico por auth0" width="615" height="338" /></p>
+
+<h2 id="conclusão">Conclusão</h2>
+
+<p>O Angular 2 veio pra ficar, além de ser uma ferramenta que evoluiu, ter uma grande empresa como o Google por trás só ajuda. A adoção deste framework só tende a crescer mais, e, sim, vale muito a pena usar em seus projetos.</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/indo-alem-no-react-native//?utm_source=tablelessRelatedLin">Indo além no Mundo React-Native</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/seu-primeiro-bot-para-o-telegram//?utm_source=tablelessRelatedLin">Seu primeiro bot para o Telegram</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/paginas_acessiveis_hatemile//?utm_source=tablelessRelatedLin">Páginas acessíveis com o HaTeMiLe</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245838"></script>

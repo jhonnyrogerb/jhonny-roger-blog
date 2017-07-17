@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Propósito on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/prop%C3%B3sito/</link>
+    <description>Recent content in Propósito on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 31 Dec 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/prop%C3%B3sito/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Um 2013 cheio de propósito</title>
+      <link>http://localhost/jhonny-roger/public/um-2013-cheio-de-proposito/</link>
+      <pubDate>Mon, 31 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/um-2013-cheio-de-proposito/</guid>
+      <description>Este post é longo e não tem versão TL;DR.
+No começo falo muito sobre o que aconteceu comigo esse ano. No final falo o que quero fazer com o Tableless em 2013.
+Este é meu último post pessoal aqui no Tableless. Quero desassociar artigos pessoais com os artigos do Tableless.
+Eu tenho a tradição (na verdade tinha) de escrever um post de como foi o último ano do Tableless. É difícil eu não falar algo pessoal por que o Tableless está na minha vida todos os dia.</description>
+    </item>
+    
+  </channel>
+</rss>

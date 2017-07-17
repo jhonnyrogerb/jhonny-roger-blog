@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rwd on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/rwd/</link>
+    <description>Recent content in Rwd on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 10 Jun 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/rwd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>O futuro chegou: O elemento picture</title>
+      <link>http://localhost/jhonny-roger/public/o-futuro-chegou-o-elemento-picture/</link>
+      <pubDate>Tue, 10 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-futuro-chegou-o-elemento-picture/</guid>
+      <description>O título é muito tentador, não é? Então, eu apenas estou completando o que a Dani Guerrato disse nesse artigo sobre Imagens Responsivas (Elemento Picture). O &amp;#8220;futuro&amp;#8221;, agora, é nosso querido presente.
+No dia 04/06/2014 o site A List Apart postou um artigo falando sobre o elemento picture que era estudado há um bom tempo e foi finalmente implementado para testes no Google Chrome Canary (Browser para testes das mais novas coisas que inventam).</description>
+    </item>
+    
+    <item>
+      <title>Design Responsivo na prática 2: do layout ao HTML</title>
+      <link>http://localhost/jhonny-roger/public/design-responsivo-na-pratica-2-layout-ao-html/</link>
+      <pubDate>Mon, 28 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/design-responsivo-na-pratica-2-layout-ao-html/</guid>
+      <description>Há um tempinho atrás eu escrevi aqui no Tableless um artigo chamado Design Responsivo na Prática &amp;#8211; Do Rascunho ao Digital. A abordagem na época foi mais voltada para os designers, que estavam carentes de conteúdo bacana sobre o assunto. Mas, no entanto, todavia, algumas pessoas comentaram que gostariam de ver o desenvolvimento do dito cujo do layout criado passo-a-passo ou ao menos uma demo. Como eu não poderia deixar de atender os devs também, é justamente isto que vou fazer hoje.</description>
+    </item>
+    
+    <item>
+      <title>Não tenho versão mobile, faço ou não faço?</title>
+      <link>http://localhost/jhonny-roger/public/nao-tenho-versao-mobile-faco-ou-nao-faco/</link>
+      <pubDate>Mon, 06 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/nao-tenho-versao-mobile-faco-ou-nao-faco/</guid>
+      <description>Estamos fazendo uma reestruturação no framework da firma. A primeira versão do projeto tinha como objetivo iniciar uma estruturação e uniformização de comportamento e design dos layouts de cada produto, melhorando o código front-end gerado, automatizando algumas tarefas e uniformizando o design e a expediência de uso. Não havíamos planejado nessa primeira versão qualquer tipo de compatibilidade com dispositivos móveis.
+Nessa reestruturação, o objetivo principal é produzir um novo código mais legível e escalável possível, de forma que não apenas nossa equipe de front-end consiga usar componentes, mas também que os back-ends possam montar painéis inteiros, como um quebra-cabeças, sem a necessidade de um front-end para tarefas básicas.</description>
+    </item>
+    
+    <item>
+      <title>O Cenário do Web Design Responsivo</title>
+      <link>http://localhost/jhonny-roger/public/o-cenario-do-web-design-responsivo/</link>
+      <pubDate>Wed, 17 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-cenario-do-web-design-responsivo/</guid>
+      <description>O Web design responsivo está por aí há alguns anos, e foi destaque em 2012. Muitas estrelas da web, como Brad Frost e Luke Wroblewski, possuem vasta experiência neste tema e têm nos ajudado a fazer grandes melhorias. Mesmo assim, ainda há muito a ser feito.
+Neste artigo, vamos ver o que já é possível fazer hoje, o que será possível no futuro &amp;#8211; usando propriedades ainda não padronizadas (como CSS nível 4 e API&amp;#8217;s do HTML5) &amp;#8211; e o que ainda precisa ser melhorado.</description>
+    </item>
+    
+    <item>
+      <title>Design responsivo: foco no ser humano</title>
+      <link>http://localhost/jhonny-roger/public/design-responsivo-foco-no-ser-humano/</link>
+      <pubDate>Thu, 21 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/design-responsivo-foco-no-ser-humano/</guid>
+      <description>Quando o computador tornou-se realmente pessoal, o desenvolvimento de softwares cresceu exponencialmente. Uma enorme demanda de aplicativos surgia para aquele produto enorme, com monitor CRT e velocidade de processamento muito menor do que o telefone celular que está no seu bolso.
+Esses aplicativos traziam novidades e surgiam para resolver problemas que ainda não tínhamos. Com o tempo, passamos a nos familiarizar com a interface desse dispositivo mas hoje, olhando para trás, é possível entender como naquela época desenvolvíamos um software pensando na máquina, e não na pessoa que faria o uso dela.</description>
+    </item>
+    
+  </channel>
+</rss>

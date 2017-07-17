@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chromebook on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/chromebook/</link>
+    <description>Recent content in Chromebook on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 01 Jun 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/chromebook/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Como criar um Chrome App com o seu Chromebook</title>
+      <link>http://localhost/jhonny-roger/public/como-criar-um-chrome-app-com-o-seu-chromebook/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/como-criar-um-chrome-app-com-o-seu-chromebook/</guid>
+      <description>O que é um chrome app A ideia de chrome app&amp;nbsp;é trazer ferramentas que você usa no browser para o seu computador. Como se fosse uma extensão do browser. &amp;nbsp;A&amp;nbsp;instalação/desinstalação destes apps é fácil, rápida e sem dor de cabeça, além de contar com aplicativos que podem funcionar off-line.
+Por que criar um chrome APP? A grande vantagem, é que aplicativos nativos para Chrome&amp;nbsp;OS são feitos com tecnologias que já conhecemos como HTML, CSS e JS.</description>
+    </item>
+    
+    <item>
+      <title>Comprei um Chromebook. E agora?</title>
+      <link>http://localhost/jhonny-roger/public/comprei-um-chromebook-e-agora/</link>
+      <pubDate>Tue, 28 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/comprei-um-chromebook-e-agora/</guid>
+      <description>Estamos em 2015, ano do futuro, do design responsivo e das aplicações na nuvem. Sério cara, ler essa frase em voz alta chega a arrepiar os cabelinhos do braço direito. Os hackers estão cada vez mais loucos, o Google está cada dia mais rico e o número de desenvolvedores web não para de crescer em todo o mundo. Somos muitos fazendo a mesma coisa, ou quase isso. Com toda a demanda de profissionais aptos a desenvolver códigos limpos, comentados e bem estruturados, as empresas investem uma boa parte dos seus recursos em hardware.</description>
+    </item>
+    
+  </channel>
+</rss>

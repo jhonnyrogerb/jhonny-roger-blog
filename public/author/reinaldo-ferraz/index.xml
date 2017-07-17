@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reinaldo Ferraz on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/reinaldo-ferraz/</link>
+    <description>Recent content in Reinaldo Ferraz on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 04 Mar 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/reinaldo-ferraz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Por que inscrever seu site no prêmio de acessibilidade?</title>
+      <link>http://localhost/jhonny-roger/public/por-que-inscrever-seu-site-no-premio-de-acessibilidade/</link>
+      <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/por-que-inscrever-seu-site-no-premio-de-acessibilidade/</guid>
+      <description>Tenho conversado com algumas pessoas que trabalham com desenvolvimento e tem belos sites que poderiam participar do Prêmio Nacional de Acessibilidade na Web. Quando recomendo que inscrevam seu trabalho, ouço os mais diversos argumentos:
+ Não tenho chance de ganhar Não tenho material para inscrever Meu site não é 100% acessível Não conheço todos os requisitos de acessibilidade  Baseado nessas respostas, gostaria de elencar alguns bons motivos para que as pessoas sim, inscrevam seu site no prêmio:</description>
+    </item>
+    
+    <item>
+      <title>A importância de desenvolver considerando off-line first</title>
+      <link>http://localhost/jhonny-roger/public/a-importancia-do-offline-first/</link>
+      <pubDate>Wed, 18 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/a-importancia-do-offline-first/</guid>
+      <description>Você está em casa à noite e resolve baixar um jogo no seu smartphone. Depois de algumas horas jogando, é hora de ir dormir porque no dia seguinte você tem um voo para pegar. Logo após a decolagem você resolve passar mais uma fase daquele joguinho que instalou. Ao abrir o aplicativo, você se depara com a necessidade de conexão com a internet para jogar (e muitas vezes até para abrir o jogo).</description>
+    </item>
+    
+    <item>
+      <title>Conheça os primeiros palestrantes da Webbr2015</title>
+      <link>http://localhost/jhonny-roger/public/conheca-os-primeiros-palestrantes-da-webbr2015/</link>
+      <pubDate>Fri, 31 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/conheca-os-primeiros-palestrantes-da-webbr2015/</guid>
+      <description>Lote de inscrições para a Webbr 2015 por R$ 80,00 termina segunda-feira, dia 3 de agosto!
+A abertura do evento será sobre re-descentralizar da Web! que contará com Andrei Sambra, Research Associate do W3C, para discutir o tema como keynote speaker da conferência. O pesquisador comentará os atuais esforços de padronização feitos pelo World Wide Web Consortium (W3C), além dos processos de tradução tecnológica do Massachusetts Institute of Technology (MIT) para construir aplicações e serviços descentralizados.</description>
+    </item>
+    
+    <item>
+      <title>Participe da cerimônia de premiação do Todos@Web</title>
+      <link>http://localhost/jhonny-roger/public/participe-da-cerimonia-de-premiacao-todosweb/</link>
+      <pubDate>Tue, 25 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/participe-da-cerimonia-de-premiacao-todosweb/</guid>
+      <description>No dia 4 de dezembro de 2014 acontece o momento máximo da acessibilidade na Web no Brasil. Nessa noite serão conhecidos os vencedores da terceira edição do Prêmio Nacional de Acessibilidade na Web, organizado pelo W3C Brasil e CGI.br. Dezenas de especialistas em acessibilidade estarão presente entre os finalistas e avaliadores dos trabalhos para celebrar a Web inclusiva, que não cria barreiras de acesso para as pessoas.
+Durante a cerimônia o público vai conhecer quais são as pessoas e instituições que vem fomentando a acessibilidade na Web no Brasil, as tecnologias assistivas e aplicativos inovadores que possibilitam o acesso a Web de pessoas com deficiência e projetos web que não criem barreiras para pessoas com deficiências e seguem boas práticas de acessibilidade em seus sites.</description>
+    </item>
+    
+    <item>
+      <title>Participe do Prêmio Nacional de Acessibilidade na Web 2014</title>
+      <link>http://localhost/jhonny-roger/public/participe-premio-nacional-de-acessibilidade-na-web/</link>
+      <pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/participe-premio-nacional-de-acessibilidade-na-web/</guid>
+      <description>As inscrições para a terceira edição do Prêmio Nacional de Acessibilidade na Web estão abertas. Mais uma vez o W3C Brasil abre as inscrições para essa premiação como objetivo promover nacionalmente a acessibilidade na web, de forma a conscientizar desenvolvedores e homenagear pessoas que se destacaram em atividades que visam promover o acesso a web e ações em prol do acesso de pessoas com deficiências na web.
+Se você tem um trabalho de fomento a acessibilidade na Web, desenvolve sites que não criem barreiras para pessoas com deficiência ou desenvolveu uma tecnologia assistiva que possibilite o acesso a Web de pessoas com deficiência, essa é a hora de inscrever seu trabalho.</description>
+    </item>
+    
+    <item>
+      <title>Cabeçalhos nível 1, sections e acessibilidade</title>
+      <link>http://localhost/jhonny-roger/public/cabecalhos-nivel-1-e-sections/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/cabecalhos-nivel-1-e-sections/</guid>
+      <description>Na semana passada li um artigo bem interessante sobre a utilização de múltiplos 
+em uma página separada por  e como isso impacta a acessibilidade das páginas Web. Depois de algumas conversas pelo Twitter resolvi pesquisar e escrever um pouco sobre o assunto.
+Antes de mais nada, quero deixar claro que essa é uma abordagem com relação a acessibilidade das páginas e não sobre SEO. Essa conversa sobre como mais de um  interfere no resultado de busca é antiga mas vale um novo post para o tema.</description>
+    </item>
+    
+    <item>
+      <title>Conferência Web.br 2014 e os 25 anos da Web</title>
+      <link>http://localhost/jhonny-roger/public/conferencia-web-w3c-2014-e-os-25-anos-da-web/</link>
+      <pubDate>Wed, 30 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/conferencia-web-w3c-2014-e-os-25-anos-da-web/</guid>
+      <description>Em 2014 a Web completa 25 anos e o W3C 20 anos de existência. Para celebrar esses dois importantes momentos o W3C Brasil vai promover diversas ações durante a Conferência Web W3C Brasil 2014. O evento já tem data e local definidos: 25 e 26 de setembro em São Paulo e as inscrições estão abertas!
+Keynote Speakers confirmados François Daoust é um dos líderes nas discussões e desenvolvimento da convergência entre Web e TV no W3C, com um foco específico em cenários multi-tela.</description>
+    </item>
+    
+    <item>
+      <title>Participe da Cerimônia de Premiação do Todos@web 2013</title>
+      <link>http://localhost/jhonny-roger/public/participe-da-cerimonia-de-premiacao-todosweb-2013/</link>
+      <pubDate>Wed, 27 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/participe-da-cerimonia-de-premiacao-todosweb-2013/</guid>
+      <description>O W3C Brasil e o Comitê Gestor da Internet no Brasil convidam para a cerimônia de premiação da segunda edição do Prêmio Nacional de Acessibilidade na Web &amp;#8211; todos@web, que acontecerá no dia 3 de dezembro de 2013 em São Paulo.
+Nesse dia serão conhecidos os vencedores das categorias Pessoas/Instituições, Projetos Web e Tecnologias Assistivas/Aplicativos. A lista completa de finalistas está disponível em http://premio.w3c.br/finalistas/
+A entrada é gratuita, mas somente pré-inscritos poderão assistir a cerimônia.</description>
+    </item>
+    
+    <item>
+      <title>Destaques da 5ª edição da Conferência Web W3C Brasil</title>
+      <link>http://localhost/jhonny-roger/public/destaques-da-5a-edicao-da-conferencia-web-w3c-brasil/</link>
+      <pubDate>Tue, 29 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/destaques-da-5a-edicao-da-conferencia-web-w3c-brasil/</guid>
+      <description>Está chegando a Está chegando a e temos orgulho de dizer que os principais especialistas que estão fazendo a história da Web no Brasil e no mundo já palestraram por aqui.
+Em 2013, a Web.br ocorre nos dias 18 e 19 de novembro, em São Paulo, no Centro de Convenções Rebouças. Na programação serão abordados os principais padrões da Open Web Platform. Teremos palestras sobre jogos com HTML5, Web Components, API Web Speech, Web Sockets, Curso de Git, além de mesas sobre publicações digitais, Web TV, privacidade e rastreamento na Web e muito mais.</description>
+    </item>
+    
+    <item>
+      <title>Prorrogadas as inscrições para o Prêmio Nacional de Acessibilidade na Web</title>
+      <link>http://localhost/jhonny-roger/public/prorrogadas-inscricoes-para-o-premio-nacional-de-acessibilidade-na-web/</link>
+      <pubDate>Mon, 30 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/prorrogadas-inscricoes-para-o-premio-nacional-de-acessibilidade-na-web/</guid>
+      <description>Ainda dá tempo de participar da segunda edição do Prêmio Nacional de Acessibilidade na Web, promovido pelo W3C Brasil para fomentar iniciativas que beneficiem o acesso a todas as pessoas. O prazo termina nessa sexta-feira, dia 4 de outubro.
+Pesquisa recente do W3C Brasil aponta que o indicador de conformidade aos padrões de acessibilidade de páginas de sítios web dos órgãos públicos brasileiros alcança a média de 5% do total de mais 6 milhões de páginas analisadas.</description>
+    </item>
+    
+    <item>
+      <title>Abertas as inscrições para a 2ª edição do Prêmio Nacional de Acessibilidade na Web</title>
+      <link>http://localhost/jhonny-roger/public/abertas-as-inscricoes-para-a-2a-edicao-do-premio-nacional-de-acessibilidade-na-web/</link>
+      <pubDate>Mon, 05 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/abertas-as-inscricoes-para-a-2a-edicao-do-premio-nacional-de-acessibilidade-na-web/</guid>
+      <description>Você desenvolve projetos web acessíveis? Tem um trabalho de fomentar padrões abertos e acessíveis ou desenvolve aplicações que auxiliam pessoas com deficiência a acessar a Web? Você pode participar do Prêmio Todos@web.
+O Prêmio Nacional de Acessibilidade na Web tem como objetivo promover nacionalmente a acessibilidade na web, de forma a conscientizar desenvolvedores e homenagear ações em prol do acesso de pessoas com deficiências na web.
+Categorias  Pessoas / Instituições Prêmio à pessoa/entidade que fez um grande trabalho ou promoveu alguma ação para o fomento da acessibilidade na web nos últimos 12 meses (01 de janeiro de 2012 a 31 de dezembro de 2012), permitindo que pessoas com deficiências tenham mais autonomia na web.</description>
+    </item>
+    
+    <item>
+      <title>Design responsivo: foco no ser humano</title>
+      <link>http://localhost/jhonny-roger/public/design-responsivo-foco-no-ser-humano/</link>
+      <pubDate>Thu, 21 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/design-responsivo-foco-no-ser-humano/</guid>
+      <description>Quando o computador tornou-se realmente pessoal, o desenvolvimento de softwares cresceu exponencialmente. Uma enorme demanda de aplicativos surgia para aquele produto enorme, com monitor CRT e velocidade de processamento muito menor do que o telefone celular que está no seu bolso.
+Esses aplicativos traziam novidades e surgiam para resolver problemas que ainda não tínhamos. Com o tempo, passamos a nos familiarizar com a interface desse dispositivo mas hoje, olhando para trás, é possível entender como naquela época desenvolvíamos um software pensando na máquina, e não na pessoa que faria o uso dela.</description>
+    </item>
+    
+    <item>
+      <title>W3C Brasil procura padawans</title>
+      <link>http://localhost/jhonny-roger/public/w3cbrasil-procura-padawans/</link>
+      <pubDate>Tue, 19 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/w3cbrasil-procura-padawans/</guid>
+      <description>O W3C Brasil está buscando candidatos comunicativos, criativos, nerds e pró-ativos para se juntar à equipe como estagiário.
+Se você sabe a diferença entre Web e Internet e entende a importância das ferramentas Open Web, candidate-se! Preencha o formulário de inscrição.
+Não é preciso ser expert em HTML5, CSS3 e Js. Basta que você esteja matriculado em um curso superior e tenha uma boa noção destas ferramentas.
+A exigência básica é vontade de aprender.</description>
+    </item>
+    
+    <item>
+      <title>CSS e acessibilidade na web</title>
+      <link>http://localhost/jhonny-roger/public/css-e-acessibilidade-na-web/</link>
+      <pubDate>Tue, 12 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css-e-acessibilidade-na-web/</guid>
+      <description>Temos abordado bastante a importância da acessibilidade na web na estrutura e semântica do código HTML: cabeçalhos, tabelas, textos alternativos e outros recursos para deixar o markup robusto e acessível. Mas todos são elementos que podem ser manipulados pelo CSS e por isso devemos ter certos cuidados com a acessibilidade deles.
+Softwares leitores de tela já são capazes de identificar elementos de formatação visual das páginas que não foram declaradas no HTML e sim no CSS, como tipo e cor de fonte por exemplo.</description>
+    </item>
+    
+    <item>
+      <title>Creme de papaia e Geolocalização</title>
+      <link>http://localhost/jhonny-roger/public/creme-de-papaia-e-geolocalizacao/</link>
+      <pubDate>Wed, 28 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/creme-de-papaia-e-geolocalizacao/</guid>
+      <description>Eu não sou um grande apreciador de doces, mas uma das minhas sobremesas preferidas é o popular creme de mamão papaia com licor de cassis. Sempre achei que essa era a combinação perfeita para uma sobremesa, especialmente no calor. Mas o mamão papaia é um grande injustiçado. Se você perguntar para qualquer pessoa o nome de uma sobremesa feita com mamão papaia, com certeza a grande maioria vai dizer &amp;#8220;creme de papaia com licor de cassis&amp;#8221;.</description>
+    </item>
+    
+    <item>
+      <title>Inscrições abertas para a Conferência Web W3C Brasil 2012</title>
+      <link>http://localhost/jhonny-roger/public/inscricoes-abertas-para-a-conferencia-web-w3c-brasil-2012/</link>
+      <pubDate>Tue, 25 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/inscricoes-abertas-para-a-conferencia-web-w3c-brasil-2012/</guid>
+      <description>As inscrições para a Conferência Web W3C Brasil 2012 estão abertas. Serão três dias de debates (18, 19 e 20 de outubro de 2012) e apresentações sobre os mais diversos temas relacionados a Open Web Plataform: HTML5 e Marketing Digital, Semântica, SEO e HTML5, Web TV, Acessibilidade, Mobile Web, Web além dos dispositivos e muito mais.
+A programação da 4ª Conferência Web W3C Brasil está no ar. Na quinta-feira, dia 18 de outubro, o evento é iniciado com uma mesa redonda que abordará o seguinte tema: Estamos usando HTML5.</description>
+    </item>
+    
+    <item>
+      <title>Eu não sou uma máquina</title>
+      <link>http://localhost/jhonny-roger/public/eu-nao-sou-uma-maquina/</link>
+      <pubDate>Thu, 30 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/eu-nao-sou-uma-maquina/</guid>
+      <description>Por trás de uma máquina, alguém faz perguntas sem sentido, com a intenção de descobrir se você é uma pessoa ou robô. Não estou falando do interrogatório do caçador de andróides, entre Rick Deckard e Rachael durante uma sequência do filme Blade Runner, de 1982. Estou falando de uma pessoa que está fazendo uma compra em uma loja online em 2012. Estou falando do CAPTCHA.
+O CAPTCHA, acrônimo de “_Completely Automated Public Turing test to tell Computers and Humans Apart_” é um teste cognitivo criado para evitar que robôs preencham campos de formulários, especialmente para o envio de spams.</description>
+    </item>
+    
+    <item>
+      <title>As cores da minha web</title>
+      <link>http://localhost/jhonny-roger/public/as-cores-da-minha-web/</link>
+      <pubDate>Mon, 02 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/as-cores-da-minha-web/</guid>
+      <description>Talvez as cores que eu veja não sejam as mesmas que você enxerga, mas isso não faz com que a sua percepção da web seja diferente. Nesse ambiente tão democrático, nada mais justo do que discutir as diversas formas de perceber as cores da web.
+Tenho um grande amigo que sonhava ser piloto de avião. Por trabalhar em uma empresa aérea, a proximidade com as grandes máquinas voadoras o encantava. Porém, seu sonho de pilotar acabou quando, aos trinta anos de idade, ele descobriu que tinha um grau de daltonismo que o impediu de continuar o treinamento.</description>
+    </item>
+    
+  </channel>
+</rss>

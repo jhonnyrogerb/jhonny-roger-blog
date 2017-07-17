@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245840">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<h2 id="o-que-são-vulnerabilidades-em-sistemas-web">O que são vulnerabilidades em sistemas web?</h2>
+
+<p>Vulnerabilidades em sistemas web são uma realidade cada vez mais crescente na internet. Primeiro deixem-me explicar rapidamente como funciona a comunicação entre o <em>browser</em> e o servidor web. Sistemas web funcionam com uma dupla muito conhecida neste ramo: requisição e resposta.</p>
+
+<p>A requisição se origina do lado do usuário (pelo Chrome, IE, Firefox, Safari, cURL, etc) composta de elementos como <em>header</em>, URL, método, parâmetros, <em>cookies</em>, etc. Ela é enviada para um servidor web que responde pelo domínio (o &#8216;www.algumacoisa.com.br&#8217;) da requisição. Por sua vez, o servidor processa a requisição e retorna para o usuário a resposta (42?), também composta de partes conhecidas como <em>header</em>, <em>body</em>, <em>code</em>, <em>cookies</em>, etc.</p>
+
+<p>As vulnerabilidades web nascem quando determinadas partes oriundas da requisição, são processadas sem o devido tratamento pelo servidor. Essas partes podem ser <em>cookies</em> mal configurados, o ID de uma sessão exposta no navegador e até mesmo os parâmetros passados pela URL ou num formulário de <em>login</em>, por exemplo. Essas informações, quando não são tratadas no servidor se caracteriza como uma falha de segurança, deixando assim o próprio servidor suscetível à ataques específicos através da exploração dessas falhas.</p>
+
+<h3 id="como-sei-se-minha-url-ou-melhor-se-meu-site-está-vulnerável-através-de-minha-url">Como sei se minha URL, ou melhor, se meu site está vulnerável através de minha URL?</h3>
+
+<p>Entre as várias formas existentes para explorar vulnerabilidades web, a Nº 01 do <a href="https://www.owasp.org/index.php/Top_10_2013-Top_10" target="_blank">Top 10</a> da OWASP (<em>Open Web Application Security Project</em>) é a <em>A1 &#8211; Injection</em>, injeção direta de código malicioso através de parâmetros enviados pela requisição, ou seja, pelo usuário. A OWASP é uma organização que visa orientar desenvolvedores, analistas, arquitetos e empresas quanto aos riscos das vulnerabilidades em sistemas web.</p>
+
+<p>Existe um teste bem simples para saber se  existem vulnerabilidades em sua URL: forçando um erro. Tomemos como exemplo um ambiente web, com um banco de dado MySQL, a aplicação em PHP e a URL no padrão:</p>
+
+<p style="text-align: center">
+  http://www.meudominio.com.br/produtos.php?id=15
+</p>
+
+<p>A extensão da URL não importa muito nesse momento, o problema está nos parâmetros, e estou supondo um banco de dados MySQL apenas para exemplificar o erro.</p>
+
+<p class="lang-php">
+  Digamos então que, no lado do servidor, naquele arquivo <em>produtos.php</em> que fica na raiz do site, existe uma linha de código que recebe via GET o parâmetro &#8216;id&#8217; e nosso amiguinho que o desenvolveu implementou a regra de busca de produto no banco de dados com a seguinte consulta SQL:
+</p>
+
+<p><code>$id = $_GET['id'];&lt;br /&gt;
+$sql = &quot;SELECT * FROM produtos WHERE produtos.id = {$id}&quot;;</code></p>
+
+<p>Até aí tudo bem, o código funciona, isso se o valor passado no parâmetro &#8216;id&#8217; da URL sempre for um número. Entendeu? E se eu substituir o valor do parâmetro &#8216;id&#8217; na URL por uma letra, ou até mesmo acrescentar um simples apóstrofo após o número 15 e o servidor retornar algo do tipo:</p>
+
+<blockquote>
+<p>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near &#8220;15&#8221; LIMIT 1&#8242; at line 1</p>
+</blockquote>
+
+<p>Não quero assustar ninguém, mas alguém com conhecimentos avançados em consultas SQL pode explorar essa falha de segurança e como resultado obter acesso a todo o banco de dados da aplicação, podendo assim baixar dados sigilosos, como número de cartões de crédito, ou obter acesso ao sistema como um usuário autenticado, quebrando a encriptação de senhas através de força bruta, isso se a senha estiver encriptada. Tudo isso através de sua URL.</p>
+
+<p>Essa técnica é chamada de Injeção de SQL (SQL Injection), quando o atacante tenta alterar o código SQL para conseguir acesso à essas informações, direto do banco de dados e segundo a OWASP é considerada uma das vulnerabilidades em sistemas web mais comuns.</p>
+
+<h3 id="como-faço-para-me-proteger">Como faço para me proteger?</h3>
+
+<p>Lembra daquela parte do código que recebeu o parâmetro &#8216;id&#8217; da URL? Pois então, uma solução bem prática seria fazer o parse (forçar o valor) para o tipo inteiro, que no PHP poderia ficar assim:</p>
+
+<p><code>$id = (int) $_GET['id'];</code></p>
+
+<p>Dessa forma, qualquer valor que não fosse um número inteiro seria forçado para um simples 0 (zero).</p>
+
+<p>Existem outras formas de se explorar falhas como essa, seja através da URL ou de formulários, mas para mitigá-las é necessário realizar uma varredura em todo o código em que a aquisição de dados através de parâmetros se faz presente, e realizando as devidas correções.</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/atribuicao-multipla-com-destruturing-assignment//?utm_source=tablelessRelatedLin">Atribuição múltipla com Destruturing Assignment</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/teste-de-carga-em-apis-utilizando-artillery//?utm_source=tablelessRelatedLin">Teste de carga em APIs utilizando Artillery</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/ux-como-aumentar-tolerancia-do-usuario-para-atrasos//?utm_source=tablelessRelatedLin">UX: Como aumentar a tolerância do usuário para atrasos</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245840"></script>

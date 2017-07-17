@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gmail Firefox on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/gmail-firefox/</link>
+    <description>Recent content in Gmail Firefox on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 06 Dec 2007 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/gmail-firefox/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lidando bem com os bloqueadores de pop-up</title>
+      <link>http://localhost/jhonny-roger/public/lidando-bem-com-os-bloqueadores-de-pop-up/</link>
+      <pubDate>Thu, 06 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/lidando-bem-com-os-bloqueadores-de-pop-up/</guid>
+      <description>Todo mundo que já experimentou ama bloqueadores de pop-ups. Navegando há anos com Opera e Konqueror e usando Firefox para acessar o Gmail, ainda me assusto quando preciso navegar no IE, seja num cybercafé ou na máquina de um amigo. Como é que as pessoas podem conviver com aquilo? Pop-ups são muito chatos, e se você não acha é porque ainda não experimentou viver sem eles tempo o suficiente.</description>
+    </item>
+    
+  </channel>
+</rss>

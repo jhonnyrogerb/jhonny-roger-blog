@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Client Side on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/client-side/</link>
+    <description>Recent content in Client Side on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 03 Feb 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/client-side/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Qual a dose certa de JavaScript</title>
+      <link>http://localhost/jhonny-roger/public/qual-dose-certa-de-javascript/</link>
+      <pubDate>Mon, 03 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/qual-dose-certa-de-javascript/</guid>
+      <description>Para uma linguagem de programação que começou de maneira tão despretensiosa, o JavaScript ganhou muito espaço. É bem verdade que alguns navegadores não dão suporte à linguagem, mas estes possuem propósitos particulares ou estacionaram em alguma era que não esta.
+O navegador Chrome deve muito da sua popularidade pela rapidez com que interpreta JavaScript e a Mozilla há pouco removeu a opção de desabilitar a linguagem no Firefox. Os fabricantes de navegadores bem sabem, querendo ou não, a internet como conhecemos tem o JavaScript como uma de suas principais dependências.</description>
+    </item>
+    
+  </channel>
+</rss>

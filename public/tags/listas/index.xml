@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Listas on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/listas/</link>
+    <description>Recent content in Listas on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 06 Dec 2007 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/listas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Criando um Menu Horizontal com CSS</title>
+      <link>http://localhost/jhonny-roger/public/criando-um-menu-horizontal-com-css/</link>
+      <pubDate>Thu, 06 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-um-menu-horizontal-com-css/</guid>
+      <description>Se você não quiser ler, mas ver como fazer, assista um vídeo. Neste vídeo é mostrado como fazer um menu horizontal com CSS. E se quiser aprender mais, visite o Campus Online e cadastre-se grátis para ver vídeos sobre desenvolvimento web.
+Quer fazer um menu horizontal que seja fácil de personalizar e de fazer manutenção?
+Siga os passos abaixo e descubra como é fácil.
+Estrutura: Primeiramente faça um elemento NAV (antigamente usaríamos a tag DIV) e atribua um ID.</description>
+    </item>
+    
+  </channel>
+</rss>

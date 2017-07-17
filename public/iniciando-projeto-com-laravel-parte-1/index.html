@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245837">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>Seja bem vindo a série Iniciando projeto com laravel, na primeira parte veremos como criar um projeto, as principais pastas da estrutura e configuração do banco de dados.</p>
+
+<h2 id="configurações-gerais">CONFIGURAÇÕES GERAIS</h2>
+
+<p>Para iniciarmos precisamos configurar algumas coisas.</p>
+
+<p>Como o foco não é banco de dados, utilizaremos o xampp. Você pode baixá-lo aqui: <a href="https://www.apachefriends.org/pt_br/download.html">https://www.apachefriends.org/pt_br/download.html</a></p>
+
+<p>Para configurar o laravel:</p>
+
+<p>Windows: <a href="https://gist.github.com/Turini/4949f23350ae2297c933">https://gist.github.com/Turini/4949f23350ae2297c933</a>
+Linux: <a href="https://gist.github.com/Turini/843fa49af3ada5599c69">https://gist.github.com/Turini/843fa49af3ada5599c69</a>
+Mac: <a href="https://gist.github.com/Turini/94ed27b4f169c66349d2">https://gist.github.com/Turini/94ed27b4f169c66349d2</a></p>
+
+<h2 id="criando-o-projeto">CRIANDO O PROJETO</h2>
+
+<p>Muito bem, agora que tudo esta configurado, abra seu terminal. Digite laravel new NomeProjeto. Pronto, isso mesmo, seu projeto já esta criado. Para testá-lo, inicie seu apache do xampp e digite no terminal php artisan serve, nesse momento já pode testar sua aplicação em localhost.</p>
+
+<p><img class="alignnone wp-image-57488" src="uploads/2017/03/Sem-título.png" alt="" width="648" height="297" /></p>
+
+<p>Mas o que é esse artisan? Bom, ele é uma ferramenta de linha de comando, inclusa no framework.</p>
+
+<p>Maiores informações sobre o artisan e os comandos inclusos, pode consultar <a href="https://laravel.com/docs/5.4/artisan">https://laravel.com/docs/5.4/artisan</a></p>
+
+<h2 id="estruturas-de-pastas">ESTRUTURAS DE PASTAS</h2>
+
+<p>Após criar o projeto, várias pastas foram criadas, vou comentar sobre as mais importantes.</p>
+
+<p>app: Aqui fica o código principal da sua aplicação, seus modelos e controllers.</p>
+
+<p>config: Nessa pasta fica toda a configuração, como, banco de dados, e-mails, entre outros.</p>
+
+<p>public: Geralmente aqui fica seu arquivo index.php, as imagens, css e o js.</p>
+
+<p>vendor: Possui o source code do laravel, plugins e dependências. Tudo que for usado de terceiros, como, frameworks e bibliotecas devem ficar aqui.</p>
+
+<p>Você pode descobrir mais sobre a estrutura aqui <a href="https://laravel.com/docs/5.4/structure">https://laravel.com/docs/5.4/structure</a></p>
+
+<h2 id="banco-de-dados">BANCO DE DADOS</h2>
+
+<p>O laravel tem interações possíveis com 4 bancos de dados, entre eles, MySQL, Postgres, SQLite, SQL Server. Na versão atual 5.4, o default é o MySQL. Toda a configuração fica na pasta config e no arquivo database.php. E tudo fica em um array como este:</p>
+
+<pre class="lang-php">
+'mysql' =&gt; [
+'driver' =&gt; 'mysql',
+'host' =&gt; env('DB_HOST', 'localhost'),
+'database' =&gt; env('DB_DATABASE', 'NomeDoBanco'),
+'username' =&gt; env('DB_USERNAME', 'root'),
+'password' =&gt; env('DB_PASSWORD', ''),
+]
+</pre>
+
+<p>Basicamente, é aqui que você deve inserir os seus dados. Além dessas chaves, é possível configurar outras, que não serão mencionadas nesse artigo, mas que podem ser vistas aqui <a href="https://laravel.com/docs/5.4/database">https://laravel.com/docs/5.4/database</a></p>
+
+<p>OBS: Em um projeto real, o ideal é colocar as configurações do banco de dados no arquivo .env, esse arquivo é mantido fora do controle de versão. Dessa forma, cada desenvolvedor vai possuir seu próprio arquivo e mantém as configurações do servidor em produção de forma sigilosa.</p>
+
+<p>Para saber mais: <a href="https://laravel.com/docs/5.4/configuration">https://laravel.com/docs/5.4/configuration</a></p>
+
+<h2 id="conclusão">CONCLUSÃO</h2>
+
+<p>Para iniciar um projeto é muito simples, com poucos passos já esta tudo configurado. Ele facilita muito o desenvolvimento, deixando o processo mais veloz. Nada impede de fazer com php puro, mas caso queira economizar algum tempo, esse framework se torna uma boa forma, nas referências, deixo algumas razões para usá-lo. Ficamos por aqui, nas próximas partes veremos como configurar e manipular as rotas, detalhar como funciona o padrão MVC (Model, View, Controller) no laravel.</p>
+
+<h2 id="para-saber-mais">PARA SABER MAIS:</h2>
+
+<p>Criando um projeto: <a href="http://laravel-recipes.com/recipes/30/creating-a-laravel-project">http://laravel-recipes.com/recipes/30/creating-a-laravel-project</a></p>
+
+<p>Documentação do framework: <a href="https://laravel.com/docs/5.4">https://laravel.com/docs/5.4</a></p>
+
+<p>O que é o laravel: <a href="https://code.tutsplus.com/tutorials/getting-started-with-laravel--cms-25386">https://code.tutsplus.com/tutorials/getting-started-with-laravel--cms-25386</a></p>
+
+<p>10 razões para usar laravel: <a href="http://acadtec.com.br/site/blog/item/61-10-razoes-para-usar-laravel.html">http://acadtec.com.br/site/blog/item/61-10-razoes-para-usar-laravel.html</a></p>
+
+<p>Arquivo .env: <a href="http://pt.stackoverflow.com/questions/156660/laravel-5-arquivo-env">http://pt.stackoverflow.com/questions/156660/laravel-5-arquivo-env</a></p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/indo-alem-no-react-native//?utm_source=tablelessRelatedLin">Indo além no Mundo React-Native</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/seu-primeiro-bot-para-o-telegram//?utm_source=tablelessRelatedLin">Seu primeiro bot para o Telegram</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245838"></script>

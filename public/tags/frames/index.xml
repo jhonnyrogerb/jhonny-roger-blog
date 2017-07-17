@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frames on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/frames/</link>
+    <description>Recent content in Frames on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 06 Dec 2007 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/frames/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HTML simples com XML e CSS</title>
+      <link>http://localhost/jhonny-roger/public/html-simples-com-xml-e-css/</link>
+      <pubDate>Thu, 06 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/html-simples-com-xml-e-css/</guid>
+      <description>Qualquer um que codifique HTML, ou mesmo use um editor WYSIWYG, já esbarrou no problema. Se você trabalha com internet, já deve ter tido também esse problema. O código se tornou complexo, com várias tabelas, uma dentro da outra. Vários frames, com uma porção de scripts para manter o
+conteúdo atualizado entre eles. Uma parte da aplicação rodando em um pop-up, com um script
+que atualiza o conteúdo principal.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2009 on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/2009/</link>
+    <description>Recent content in 2009 on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 21 Jul 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/2009/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Efeito cascata, herança e especificidade do CSS</title>
+      <link>http://localhost/jhonny-roger/public/efeito-cascata-e-especificidade-do-css/</link>
+      <pubDate>Tue, 21 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/efeito-cascata-e-especificidade-do-css/</guid>
+      <description>Herança Existem algumas propriedades do CSS que quando aplicadas aos &amp;#8220;elementos pais&amp;#8221;, os &amp;#8220;elementos filhos&amp;#8221; herdam a característica aplicada no pai. Um exemplo disso é a propriedade color. Quando aplicamos a propriedade color em um elemento div, o texto dos elementos contidos no div são coloridos de acordo com a propriedade.
+div { color: green; }  O texto que há dentro deste div irá ter a cor verde, independente se este texto está &amp;#8220;solto&amp;#8221; dentro do div ou se ele está dentro de um parágrafo, por exemplo.</description>
+    </item>
+    
+    <item>
+      <title>Digest – Referências de CSS</title>
+      <link>http://localhost/jhonny-roger/public/referencias-online-css/</link>
+      <pubDate>Mon, 20 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/referencias-online-css/</guid>
+      <description> Lista de propriedades CSS mantida por Jens Meiert  Referência de CSS da SitePoint Referência de CSS da XHTML.com Tabela de Compatibilidade de CSS (do Tableless) Guia de Referência rápida do Tableless Referência mantida pelo W3Schools   </description>
+    </item>
+    
+    <item>
+      <title>Propriedade do CSS: nth-child</title>
+      <link>http://localhost/jhonny-roger/public/nth-child/</link>
+      <pubDate>Thu, 16 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/nth-child/</guid>
+      <description>Se você é um cara muito técnico, que adora matemática e números, prefiro que você leia a documentação do W3C sobre nth-child. Ela é mais rica em detalhes sobre o cálculo que essa pseudo-classe faz. Este artigo é para os pobres mortais.
+Você já precisou de criar uma tabela zebrada? Eu já, muitas vezes. Provavelmente se você não sabe programar, você precisa chamar um programador para escrever duas ou três linhas de código Javascript ou até mesmo usando JQuery, para fazer a mágica para você.</description>
+    </item>
+    
+    <item>
+      <title>CSS 3 Columns</title>
+      <link>http://localhost/jhonny-roger/public/css3-columns/</link>
+      <pubDate>Tue, 14 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css3-columns/</guid>
+      <description>Com o controle de colunas no CSS, podemos definir colunas de texto de forma automática. Até hoje não havia maneira de fazer isso de maneira inteligente com CSS e o grupo de propriedades columns pode fazer isso de maneira livre de gambiarras.
+column-count A propriedade column-count define a quantidade de colunas terá o bloco de textos.
+/* Define a quantidade de colunas, a largura é definida uniformimente. */ -moz-column-count: 2; -webkit-column-count: 2;  column-width Com a propriedade column-width definimos a largura destas colunas.</description>
+    </item>
+    
+    <item>
+      <title>Propriedade Position do CSS</title>
+      <link>http://localhost/jhonny-roger/public/propriedade-position-do-css/</link>
+      <pubDate>Tue, 12 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/propriedade-position-do-css/</guid>
+      <description>Entendendo a propriedade Position O Position é uma propriedade perigosa para iniciantes. Normalmente o desenvolvedor que acaba de conhecer essa propriedade, acha que ela é a resposta para todos os problemas de posicionamento e diagramação de layout. Pelo contrário. O Position não serve para diagramar a estrutura de layouts. Para isso, você utiliza a propriedade float do css. O Position vai servir para fazer coisas mais simples.
+Coordenadas Para posicionar seus elementos, você precisa inserir uma coordenada.</description>
+    </item>
+    
+    <item>
+      <title>Um 2009 sem fôlego</title>
+      <link>http://localhost/jhonny-roger/public/um-2009-sem-folego/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/um-2009-sem-folego/</guid>
+      <description>&lt;p&gt;O ano de 2008 foi um ano parado para o &lt;a href=&#34;http://tableless.com.br/&#34; title=&#34;CSS e XHTML na ponta da língua&#34;&gt;Tableless&lt;/a&gt;. Na verdade foi um ano parado para os &lt;strong&gt;Padrões Web&lt;/strong&gt;. Ok, na verdade não foi tão parado assim. Mas digo, não houve mudanças drásticas, ou o &lt;strong&gt;CSS 3&lt;/strong&gt; foi lançado e eu não estou sabendo?&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

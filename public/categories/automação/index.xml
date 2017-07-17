@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automação on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/categories/automa%C3%A7%C3%A3o/</link>
+    <description>Recent content in Automação on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 09 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/categories/automa%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mas afinal, o que está acontecendo com a automação?</title>
+      <link>http://localhost/jhonny-roger/public/o-que-esta-acontecendo-com-a-automacao/</link>
+      <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-que-esta-acontecendo-com-a-automacao/</guid>
+      <description>Mas afinal, o que está acontecendo com a automação? Segundo um estudo de 2013, quase metade dos empregos nos EUA pode potencialmente ser automatizada nas próximas duas décadas. Mas espera! A automação já não existe há décadas? O que mudou dessa vez?
+Enquanto novas indústrias da Era da Informação estão prosperando, elas estão criando menos e menos empregos. Indústrias antigas estão perdendo fôlego. Veja os carros, por exemplo. Quando eles se tornaram novidade, cem anos atrás, eles criaram indústrias enormes.</description>
+    </item>
+    
+  </channel>
+</rss>

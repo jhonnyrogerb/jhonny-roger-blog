@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tailo Mateus Gonsalves on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/tailo-mateus-gonsalves/</link>
+    <description>Recent content in Tailo Mateus Gonsalves on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 09 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/tailo-mateus-gonsalves/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mas afinal, o que está acontecendo com a automação?</title>
+      <link>http://localhost/jhonny-roger/public/o-que-esta-acontecendo-com-a-automacao/</link>
+      <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-que-esta-acontecendo-com-a-automacao/</guid>
+      <description>Mas afinal, o que está acontecendo com a automação? Segundo um estudo de 2013, quase metade dos empregos nos EUA pode potencialmente ser automatizada nas próximas duas décadas. Mas espera! A automação já não existe há décadas? O que mudou dessa vez?
+Enquanto novas indústrias da Era da Informação estão prosperando, elas estão criando menos e menos empregos. Indústrias antigas estão perdendo fôlego. Veja os carros, por exemplo. Quando eles se tornaram novidade, cem anos atrás, eles criaram indústrias enormes.</description>
+    </item>
+    
+    <item>
+      <title>Iniciando projeto com laravel – parte 1</title>
+      <link>http://localhost/jhonny-roger/public/iniciando-projeto-com-laravel-parte-1/</link>
+      <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/iniciando-projeto-com-laravel-parte-1/</guid>
+      <description>Seja bem vindo a série Iniciando projeto com laravel, na primeira parte veremos como criar um projeto, as principais pastas da estrutura e configuração do banco de dados.
+CONFIGURAÇÕES GERAIS Para iniciarmos precisamos configurar algumas coisas.
+Como o foco não é banco de dados, utilizaremos o xampp. Você pode baixá-lo aqui: https://www.apachefriends.org/pt_br/download.html
+Para configurar o laravel:
+Windows: https://gist.github.com/Turini/4949f23350ae2297c933 Linux: https://gist.github.com/Turini/843fa49af3ada5599c69 Mac: https://gist.github.com/Turini/94ed27b4f169c66349d2
+CRIANDO O PROJETO Muito bem, agora que tudo esta configurado, abra seu terminal.</description>
+    </item>
+    
+    <item>
+      <title>Conselhos de um simples programador</title>
+      <link>http://localhost/jhonny-roger/public/conselhos-de-um-simples-programador/</link>
+      <pubDate>Sun, 19 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/conselhos-de-um-simples-programador/</guid>
+      <description>Aqui estão conselhos de um simples programador ou apenas algumas situações que vivenciei na minha vida.
+Você também vai passar por várias fases como programador, momentos de fazer gambiaras, pois tem etapas que vai querer fugir daquele projeto chato. Mas também vai viver momentos em que o código importará mais que qualquer resultado. Com certeza você também vai passar por várias situações difíceis, e possivelmente vai pensar em desistir da carreira.</description>
+    </item>
+    
+  </channel>
+</rss>

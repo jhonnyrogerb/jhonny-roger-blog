@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mac on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/mac/</link>
+    <description>Recent content in Mac on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 14 Apr 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/mac/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Criando comandos de atalhos no terminal</title>
+      <link>http://localhost/jhonny-roger/public/criando-comandos-de-atalhos-no-terminal/</link>
+      <pubDate>Sun, 14 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-comandos-de-atalhos-no-terminal/</guid>
+      <description>Esta dica pode ser utilizada em qualquer distribuição Linux ou Mac OS X.
+Se você está cansado de digitar comandos gigantescos no terminal, aqui vai uma dica: crie atalhos para os comandos no seu terminal para melhorar a produtividade. Uma dica simples mas é muito util.
+Para rodar um projeto python/django, geralmente executamos este comando:
+python manage.py runserver  Com o comando de atalho criado, execute-o desta maneira:
+run Criando os atalhos Para começar a criar seus atalhos, abra o arquivo .</description>
+    </item>
+    
+    <item>
+      <title>Flock 1.0 – agora dá para usar</title>
+      <link>http://localhost/jhonny-roger/public/flock-10-agora-da-para-usar/</link>
+      <pubDate>Sun, 02 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/flock-10-agora-da-para-usar/</guid>
+      <description>O Firefox é o browser do meu coracão. Não vivo mais sem suas extensões. Se você é desenvolvedor e usa Firefox, sabe do que estou falando.
+Só que eu não sou apenas desenvolvedor. Nas horas vagas, sou gente normal. Gosto de passar uma parte do meu tempo navegando pelos meus sites prediletos. Por isso, eu gastava algumas horas procurando por extensões que me deixassem mais ligado em sites como Flickr, Twitter e Del.</description>
+    </item>
+    
+    <item>
+      <title>IE para MAC deixado de lado (ainda bem)</title>
+      <link>http://localhost/jhonny-roger/public/ie-para-mac-deixado-de-lado-ainda-bem/</link>
+      <pubDate>Mon, 19 Dec 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ie-para-mac-deixado-de-lado-ainda-bem/</guid>
+      <description>Quem já teve que resolver alguns problemas de compatibilidade de layout para IE/Mac, sabe que não é fácil.
+Mas agora, todos os problemas acabaram! O Microsoft anunciou que vai parar de dar suporte ao IE/Mac no dia 31 de Dezembro de 2005. E, em 31 de Janeiro de 2006, ele já não estará disponível para download.
+Ótima notícia para todas as partes. Menos um browser que não segue os padrões para os desenvolvedores se preocuparem.</description>
+    </item>
+    
+  </channel>
+</rss>

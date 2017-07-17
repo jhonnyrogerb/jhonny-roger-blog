@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dashboard Wordpress on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/dashboard-wordpress/</link>
+    <description>Recent content in Dashboard Wordpress on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 03 Jul 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/dashboard-wordpress/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Personalizando o painel de administração do WordPress</title>
+      <link>http://localhost/jhonny-roger/public/customizando-o-painel-de-administracao-do-wordpress/</link>
+      <pubDate>Wed, 03 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/customizando-o-painel-de-administracao-do-wordpress/</guid>
+      <description>Você provavelmente já conhece o WordPress e já sabe como criar seus próprios temas. Mas isto não significa que o trabalho acabou. É possível &amp;#8211; e extremamente recomendável &amp;#8211; personalizar os elementos da interface do Painel de Administração para que ele se adeque as necessidades de cada marca.
+Layouts únicos Muitas vezes ao fazer a escolha entre utilizar um sistema de administração de conteúdo padrão ou projetar o seu próprio do zero o critério de desempate é a capacidade de personalização.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bibliotecas on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/bibliotecas/</link>
+    <description>Recent content in Bibliotecas on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 26 Feb 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/bibliotecas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Plugins jQuery e bibliotecas JavaScript para e-commerces</title>
+      <link>http://localhost/jhonny-roger/public/plugins-jquery-e-bibliotecas-javascript-para-e-commerces/</link>
+      <pubDate>Tue, 26 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/plugins-jquery-e-bibliotecas-javascript-para-e-commerces/</guid>
+      <description>jQuery.payment https://stripe.com/blog/jquery-payment
+O plugin jQuery.payment valida o número dos principais cartões do mercado. Desenvolvido pelo pessoal da Stripe, empresa especializada em uma solução de pagamento para desenvolvedores de e-commerces, o plugin conta com validadores para números de cartão de crédito, data de validade e código de segurança.
+Exemplos de uso:
+$(&#39;.numero-cartao&#39;).payment(&#39;formatCardNumber&#39;); $(&#39;.expiracao-cartao&#39;).payment(&#39;formatCardExpiry&#39;); $(&#39;.codigo-cartao&#39;).payment(&#39;formatCardCVC&#39;); $(&#39;.numerico&#39;).payment(&#39;restrictNumeric&#39;); É possível também tirar proveito de alguns utilitários que acompanham o plugin e executar tarefas de validação, além de retornar informações do cartão baseado no número e a data de validade como um objeto:</description>
+    </item>
+    
+    <item>
+      <title>CSS3 com PIE – bordas, sombras e gradiente</title>
+      <link>http://localhost/jhonny-roger/public/css3-bordas-arredondadas-sombras-e-gradiente/</link>
+      <pubDate>Mon, 04 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css3-bordas-arredondadas-sombras-e-gradiente/</guid>
+      <description>Apesar das incompatibilidades entre browsers, utilizar as novas ou modificadas propriedades em folhas de estilo na versão 3 virou motivo de testes e de implementação das modificações que tanto almejamos no desenvolvimento web. Junto como HTML 5, o uso de CSS3 resultará em facilidades na criação de estruturas semânticas e válidas bem como melhor planejadas visualmente e com velocidade de carregamento reduzida, mas enquanto ainda não o colocamos em prática com HTML5, neste processo de transição em que nos encontramos já podemos utilizar algumas propriedades de CSS3 com os navegadores de mercado, ainda que com o uso de scripts externos para tanto.</description>
+    </item>
+    
+    <item>
+      <title>Animando com jQuery</title>
+      <link>http://localhost/jhonny-roger/public/animando-com-jquery/</link>
+      <pubDate>Mon, 05 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/animando-com-jquery/</guid>
+      <description>Um dos recursos mais procurados pelos designers (e programadores) em bibliotecas é animação. Existem bibliotecas e mais bibliotecas que fazem animações de diversas formas. Em prototype por exemplo, deve-se anexar a biblioteca scriptaculous para que seja possivel realizar animações. Já em mootools existem várias formas de resolver o mesmo problema, sendo assim um pouco mais complicado de lembrar de tudo isso. Por jQuery ser uma biblioteca simples com somente o funcional, o trabalho se torna mais simples, logo mais rápido de desenvolver as soluções.</description>
+    </item>
+    
+  </channel>
+</rss>

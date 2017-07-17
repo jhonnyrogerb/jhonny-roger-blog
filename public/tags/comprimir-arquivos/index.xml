@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Comprimir Arquivos on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/comprimir-arquivos/</link>
+    <description>Recent content in Comprimir Arquivos on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 09 Jun 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/comprimir-arquivos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Melhorando carregamento do WordPress</title>
+      <link>http://localhost/jhonny-roger/public/melhorando-carregamento-wordpress/</link>
+      <pubDate>Thu, 09 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/melhorando-carregamento-wordpress/</guid>
+      <description>(Imagem retirada de http://www.netpaths.net/blog/how-to-increase-site-speed-for-google-page-load-algorithm/, em 02/06/11 às 21:06) A web cresceu, e com isso várias tecnologias e ferramentas foram criadas ou melhoradas para suprir necessidades requisitadas pelos usuários. Ao longo do tempo clientes e usuários vão pedindo sites mais bonitos e atraentes, e também exigindo rapidez. Para quem usa WordPress, existe aperfeiçoamento e acertos para deixar ele mais rápido. Já para quem não usa, lamento, mas é bom prestar atenção algumas dicas, pois podem servir.</description>
+    </item>
+    
+  </channel>
+</rss>

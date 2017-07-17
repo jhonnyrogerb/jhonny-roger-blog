@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inspect on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/inspect/</link>
+    <description>Recent content in Inspect on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 30 Sep 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/inspect/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adobe Edge Inspect: Uma ajudinha no desenvolvimento para múltiplos dispositivos</title>
+      <link>http://localhost/jhonny-roger/public/adobe-edge-inspect/</link>
+      <pubDate>Sun, 30 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/adobe-edge-inspect/</guid>
+      <description>Dentre as possibilidades de adaptação, temos técnicas de redimensionamento de tela, reconhecimento de dispositivos para redirecionamento a sites feitos especificamente pra este, a ainda envolta em mistério: a técnica de responsive design, entre outras soluções. Em fim, cabe a escolha da melhor técnica de acordo com as definições do projeto adotado.
+Adobe Edge Inspect Para facilitar a vida de quem encara constantemente ou até mesmo esporadicamente este tipo de desafio, a Adobe lançou dentro de seu kit de ferramentas denominado Edge Tools o curioso Inspect.</description>
+    </item>
+    
+  </channel>
+</rss>

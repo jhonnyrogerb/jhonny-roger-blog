@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Temas Em Woocommerce on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/temas-em-woocommerce/</link>
+    <description>Recent content in Temas Em Woocommerce on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 04 Nov 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/temas-em-woocommerce/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lojas virtuais com WooCommerce II – Criando temas personalizados</title>
+      <link>http://localhost/jhonny-roger/public/lojas-virtuais-com-woocommerce-ii-criando-temas-personalizados/</link>
+      <pubDate>Mon, 04 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/lojas-virtuais-com-woocommerce-ii-criando-temas-personalizados/</guid>
+      <description>O WooCommerce é um plugin capaz de transformar qualquer site desenvolvido em WordPress em uma loja virtual super potente. Mas para adaptar o seu tema para o sistema e garantir que o seu layout seja visualizado corretamente existem alguns truques, funções e ações fundamentais para que tudo funcione direitinho. A documentação oficial, embora bem completa, pode ser um pouco confusa pois não está organizada em uma ordem cronológica. Pensando nisto preparei este artigo recheado de dicas úteis para que você possa criar temas em WooCommerce facilmente.</description>
+    </item>
+    
+  </channel>
+</rss>

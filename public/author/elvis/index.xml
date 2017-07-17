@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elvis on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/elvis/</link>
+    <description>Recent content in Elvis on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 22 Mar 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/elvis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Migrando do MySQL para Mongo</title>
+      <link>http://localhost/jhonny-roger/public/migrando-mysql-para-mongo/</link>
+      <pubDate>Sun, 22 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/migrando-mysql-para-mongo/</guid>
+      <description>Introdução O Mongodb é um banco de dados NoSql, open-source e escrito em C++ que salva seus dados em formato JSON(usando BSON — uma versão binária de JSON) utilizando chaves e valores para isso.
+
+O que mais diferencia o Mongo dos outros bancos NoSQL é a simplicidade em converter instruções SQL.
+Alem de ser muito simples de instalar e usar, com binários e drivers disponíveis para os principais sistemas operacionais e linguagens de programação, ele ainda é suportado pelas mais populares linguagens tais como: C, C#, C++, Haskell, Java™, JavaScript, Perl, PHP, Python, Ruby e Scala.</description>
+    </item>
+    
+  </channel>
+</rss>

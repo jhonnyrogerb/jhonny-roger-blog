@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245861">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      <p>Você já precisou ter o rodapé fixo no fim da página algum dia. Normalmente os clientes chatos acham feio aquele rodapé terminando no meio da página quando há pouco conteúdo. Há uma técnica no CSS que resolve isso. Não funciona no IE6, já aviso agora. Na verdade, tem um jeito de funcionar, mas não quero te acostumar mal. 🙂</p>
+
+<p>Lembrando que você pode fazer isso facilmente com JQuery.</p>
+
+<p>Suponha que você tenha o código HTML:</p>
+
+<pre class="lang-html">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
+
+&lt;html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"&gt;
+&lt;head&gt;
+    &lt;meta http-equiv="Content-Type" content="text/html; charset=utf-8"/&gt;
+
+    &lt;title&gt;Tableless.com.br&lt;/title&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+    
+&lt;div class="geral"&gt;
+    &lt;div class="header"&gt;
+        HEADER
+    &lt;/div&gt;
+    &lt;div class="aside fleft"&gt;
+        ESQUERDA
+    &lt;/div&gt;
+    &lt;div class="aside fright"&gt;
+        DIREITA
+    &lt;/div&gt;
+    &lt;div class="content"&gt;
+        &lt;p&gt;
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin augue erat, ullamcorper pulvinar malesuada ultricies, mollis non magna. Curabitur quis nisi ut ligula ultricies gravida. Suspendisse elit justo, vulputate in facilisis sed, tristique id nisi. Maecenas risus quam, suscipit eu vehicula ut, ultricies in neque. Donec gravida tristique turpis ut interdum. Donec lacinia nisi id enim lacinia sit amet facilisis est ullamcorper. Curabitur ipsum libero, sollicitudin nec rhoncus quis, congue non ipsum. Etiam at eros dolor. Mauris non erat vitae leo faucibus fermentum. In consectetur, diam eget faucibus dignissim, urna justo pretium dui, nec eleifend neque velit vitae odio. Nam et tristique turpis. In dictum commodo sem ut dignissim. In convallis quam non tortor posuere sed ornare nulla pulvinar. Suspendisse placerat turpis in tortor rutrum nec mollis nulla posuere. Integer tellus est, rhoncus ut sagittis eget, mattis a velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque gravida posuere orci nec ornare. Donec elit nulla, aliquam eget cursus a, commodo sed odio.
+        &lt;/p&gt;
+        &lt;p&gt;
+        Duis id metus enim, sed dignissim magna. Quisque dapibus pulvinar diam eget adipiscing. Ut aliquet ipsum quis lorem elementum lacinia. Vestibulum feugiat ultrices orci, vel sollicitudin nibh rutrum eu. In gravida tincidunt ornare. Aenean vestibulum leo eu orci egestas semper. Proin euismod dapibus tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse rutrum purus eget lectus ultricies a consectetur ante laoreet. Phasellus ullamcorper gravida risus vitae convallis. Curabitur ante lorem, faucibus in tincidunt quis, ullamcorper at lectus. Fusce fermentum blandit varius. Donec a quam id massa bibendum commodo sit amet vel felis. Sed magna nibh, convallis nec dignissim non, vestibulum adipiscing ipsum. Mauris cursus fringilla tortor eu feugiat. Vivamus vestibulum dapibus justo, porttitor luctus nisi posuere at. Nunc mi elit, suscipit id venenatis at, suscipit nec purus. Donec malesuada fringilla tempor. Pellentesque vehicula diam a magna commodo sagittis. Nulla facilisi. 
+        &lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class="footer"&gt;
+        FOOTER
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+
+</pre>
+
+<p>E o seguinte CSS:</p>
+
+<pre class="lang-css">*  {
+    margin:0;
+    padding:0;
+}
+
+html, body {height:100%;}
+
+.geral {
+    min-height:100%;
+    position:relative;
+    width:800px;
+}
+
+.footer {
+    position:absolute;
+    bottom:0;
+    width:100%;
+}
+
+.content {overflow:hidden;}
+.aside {width:200px;}
+.fleft {float:left;}
+.fright {float:right;}
+</pre>
+
+<p>Na linha 6, você faz com que as tags body e html tenham 100% de altura. Isso fará com que o rodapé entenda que o limite dos dois elementos seja o final da janela do navegador.</p>
+
+<p>Na linha 8, defino que a largura mínima do div GERAL, que é o div que envolve todo o site, seja de 100%. E defino um position: relative; para que o footer seja referenciado por ele.</p>
+
+<p>Na linha 14, eu defino um position: absolute; e bottom:0; para footer, forçando sempre para o final do div.</p>
+
+<p>Se houver pouco conteúdo o Rodapé fica lá embaixo, se houver muito, o rodapé desce junto com o conteúdo.</p>
+
+<p>Funciona em IE7+ e em bons browsers.</p>
+
+<p>Link para o arquivo de exemplo: <a href="http://tableless.com.br/uploads/2010/01/footer.html">Footer fixo no Rodapé</a></p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/o-basico-sobre-sparql-turtle//?utm_source=tablelessRelatedLin">O básico sobre Sparql e Turtle</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/paginas_acessiveis_hatemile//?utm_source=tablelessRelatedLin">Páginas acessíveis com o HaTeMiLe</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245861"></script>

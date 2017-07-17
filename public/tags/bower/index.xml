@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bower on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/bower/</link>
+    <description>Recent content in Bower on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 10 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/bower/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Configurando Bower e Polymer</title>
+      <link>http://localhost/jhonny-roger/public/configurando-bower-e-polymer-2/</link>
+      <pubDate>Thu, 10 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/configurando-bower-e-polymer-2/</guid>
+      <description>Bower é um gerenciador de pacotes e dependências muito utilizado hoje em dia. O Polymer é um novo polyfill do Google para Web Components. Neste artigo veremos algumas configurações do Bower e criaremos nosso primeiro web component com Polymer.
+[youtube http://www.youtube.com/watch?v=owT5n9jlzVI?rel=0]
+Bower Criado pelo Twitter, o Bower promete melhorar o gerenciamento de suas dependências no client-side. Via terminal, você controla tudo, desde instalar uma Dependência até atualizar a Dependência.</description>
+    </item>
+    
+    <item>
+      <title>Bower na prática</title>
+      <link>http://localhost/jhonny-roger/public/bower-na-pratica/</link>
+      <pubDate>Wed, 15 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/bower-na-pratica/</guid>
+      <description>A maioria das linguagens já possuem ferramentas para automatizar e facilitar esse tipo de tarefa.
+Por exemplo: Java &amp;#8211; (Maven e Ivy), Ruby &amp;#8211; (Rubygems), Python &amp;#8211; (pip), entre outras.
+No desenvolvimento front-end, uma ferramenta que vem ganhando bastante espaço nessa área é o Bower.
+Como o bower é para gerenciar componentes de front-end, pode ser adicionado em qualquer projeto, independente do seu back-end ser Java, Ruby, Python, Node, PHP, etc.</description>
+    </item>
+    
+  </channel>
+</rss>

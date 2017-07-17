@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bdd on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/bdd/</link>
+    <description>Recent content in Bdd on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 21 Feb 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/bdd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introdução ao Behavior Driven Development</title>
+      <link>http://localhost/jhonny-roger/public/introducao-ao-behavior-driven-development/</link>
+      <pubDate>Fri, 21 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-ao-behavior-driven-development/</guid>
+      <description>O BDD (Behavior Driven Development ou Desenvolvimento guiado por comportamento), é uma resposta ao TDD, criado em 2003, por Dan North, e tem se expandido bastante nos últimos anos. Seu foco é obter um código testado a partir de um conjunto de cenários que descrevem como a aplicação ou unidade de código deverá se comportar em determinada situação.
+As práticas de BDD incluem:  Envolver as partes interessadas no processo através de Outside-in Development Usar linguagem ubíqua para descrever o comportamento de uma aplicação Automatizar os exemplos para provê um feedback rápido e testes de regressão Usar SHOULD na hora de descrever o comportamento de software para ajudar esclarecer responsabilidades e permitir que funcionalidades do software sejam questionadas Usar dublês de teste (mocks, stubs, fakes, dummies, spies) para auxiliar na colaboração entre módulos e códigos que ainda não foram escritos  E&amp;#8230; O grande lance do BDD, é que nos trabalhamos com comportamentos de uma maneira que</description>
+    </item>
+    
+    <item>
+      <title>Introdução ao Selenium 2</title>
+      <link>http://localhost/jhonny-roger/public/introducao-ao-selenium-2/</link>
+      <pubDate>Wed, 18 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-ao-selenium-2/</guid>
+      <description>Selenium é uma ferramenta de apoio às necessidades de testes em aplicações web. Altamente flexível, permite muitas opções para a localização de elementos de interface no navegador e simular comportamentos reais de um usuário. A versão 2.0 tem como funcionalidade primária a integração da API WebDriver. Projetado para fornecer uma interface ainda mais simples, concisa e orientada a objeto, o que melhora de forma significativa o suporte aos problemas complexos que são enfrentados ao testar uma aplicação web.</description>
+    </item>
+    
+    <item>
+      <title>Introdução de como executar testes unitários em diferentes tipos de navegadores</title>
+      <link>http://localhost/jhonny-roger/public/introducao-de-como-executar-testes-unitarios-em-diferentes-tipos-de-navegadores/</link>
+      <pubDate>Wed, 04 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-de-como-executar-testes-unitarios-em-diferentes-tipos-de-navegadores/</guid>
+      <description>SauceLabs é uma plataforma de teste que possibilita realizar testes automáticos ou manuais em aplicações móveis e web (incluindo navegadores como Internet Explorer, Opera, Safari, Android, iPhone, Chrome etc). Essa plataforma permite executar os testes em diversas linguagem de programação, porém, em nosso exemplo, iremos utilizar o NodeJS (JavaScript).
+O NodeJS e o Gerenciador de Pacotes do Node (traduzido do inglês Node Package Manager &amp;#8211; NPM) podem ser baixados no site oficial.</description>
+    </item>
+    
+    <item>
+      <title>Testando seu código jQuery com Jasmine – Parte 2</title>
+      <link>http://localhost/jhonny-roger/public/testando-seu-codigo-jquery-com-jasmine-parte-2/</link>
+      <pubDate>Tue, 04 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/testando-seu-codigo-jquery-com-jasmine-parte-2/</guid>
+      <description>Jasmine é um framework para testes focado em BDD (Behavior Driven Development). Na primeira parte deste artigo aprendemos seus métodos básicos e realizamos alguns testes simples. Agora chegou a hora de ir um pouco além e conhecer técnicas mais avançadas.
+Vale lembrar que, em nossos exemplos, utilizamos uma versão modificada da biblioteca, adaptada para jQuery: jasmine-jquery.
+Utilizaremos os dados de um outro artigo, Conteúdo sob demanda com jQuery. O objetivo é testar as solicitações AJAX do carregamento da lista de tweets do Tableless.</description>
+    </item>
+    
+    <item>
+      <title>Testando seu código jQuery com Jasmine – Parte 1</title>
+      <link>http://localhost/jhonny-roger/public/testando-seu-codigo-jquery-com-jasmine-parte-1/</link>
+      <pubDate>Mon, 12 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/testando-seu-codigo-jquery-com-jasmine-parte-1/</guid>
+      <description>Durante muito tempo testar/debugar JavaScript era uma tarefa árdua (infelizmente, em alguns navegadores, ainda é). Quem aí se lembra do tempo em que não existia Firebug, por exemplo? E o tamanho dos scripts? Um simples menu drop-drown possuía umas 1.500 linhas de código. Não existia jQuery ou qualquer outro tipo de framework. Tempos difíceis.
+Hoje a tarefa do desenvolvedor é muito mais fácil. Para debug temos o já citado Firebug e o Developer Tools do Chrome, entre outros.</description>
+    </item>
+    
+  </channel>
+</rss>

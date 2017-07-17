@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Html Com Php on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/html-com-php/</link>
+    <description>Recent content in Html Com Php on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 28 Apr 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/html-com-php/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Otimizando e organizando seu front-end com PHP</title>
+      <link>http://localhost/jhonny-roger/public/otimizando-e-organizando-seu-front-end-com-php/</link>
+      <pubDate>Sun, 28 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/otimizando-e-organizando-seu-front-end-com-php/</guid>
+      <description>Não é de hoje que se fala em otimização e organização de scripts. Não há dor de cabeça maior para um desenvolvedor back-end receber uma marcação HTML bagunçada e sem padronização. Isso é mais comum do que imaginamos e nem sempre é por falta de conhecimento ou preguiça. O maior fator é o curto tempo para finalizar os projetos.
+A ideia desse post é justamente auxiliar os desenvolvedores a criarem um núcleo de código no PHP para reaproveitá-lo diversas vezes, como se fosse um módulo.</description>
+    </item>
+    
+  </channel>
+</rss>

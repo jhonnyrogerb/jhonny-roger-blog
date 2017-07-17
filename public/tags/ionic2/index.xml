@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ionic2 on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/ionic2/</link>
+    <description>Recent content in Ionic2 on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 04 Nov 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/ionic2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Criando uma aplicação móvel com Ionic 2 e Angular 2 em dez passos</title>
+      <link>http://localhost/jhonny-roger/public/criando-uma-aplicacao-movel-com-ionic-2-e-angular-2-em-dez-passos/</link>
+      <pubDate>Fri, 04 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-uma-aplicacao-movel-com-ionic-2-e-angular-2-em-dez-passos/</guid>
+      <description>Introdução À esta altura do campeonato é provável que você já tenha ouvido falar da nova versão deste famoso framework para criação de aplicações móveis híbridas. O Ionic 2 acaba de chegar em seu Release Candidate e, com ele, trás uma série de recursos e otimizações de código, além de um considerável ganho de performance! Muito desse mérito se deve ao Angular (como é chamada a nova versão do framework, que deixa para trás o &amp;#8220;JS&amp;#8221; ao final do nome) que chega &amp;#8211; finalmente &amp;#8211; na sua versão estável, provando que não está para brincadeiras.</description>
+    </item>
+    
+  </channel>
+</rss>

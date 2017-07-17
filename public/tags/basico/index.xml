@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basico on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/basico/</link>
+    <description>Recent content in Basico on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 09 Oct 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/basico/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Como se tornar um dev front-end</title>
+      <link>http://localhost/jhonny-roger/public/tornar-dev-front-end/</link>
+      <pubDate>Wed, 09 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tornar-dev-front-end/</guid>
+      <description>Esse artigo inspirou um livro, mais completo, com mais assuntos e detalhes. Olha só: Guia Front-end.
+Estava navegando por aí e acabei encontrando um artigo bem legal do Leandro Oriente, que fala sobre um assunto muito interessante e que sempre me perguntam por aí. Decidi então escrever minha versão do artigo, colocando meus pontos de vista sobre como se tornar um desenvolvedor front-end.
+Entrar na área de front-end é algo muito fácil.</description>
+    </item>
+    
+    <item>
+      <title>Para Iniciantes</title>
+      <link>http://localhost/jhonny-roger/public/para-iniciantes/</link>
+      <pubDate>Wed, 15 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/para-iniciantes/</guid>
+      <description>Pessoal, me inspirei em uma conversa no twitter e resolvi começar uma área para Iniciantes aqui no Tableless. Já existe uma categoria onde selecionamos alguns artigos sobre assuntos básicos, que são interessantes para quem está começando na área de TI. Mas eu acho que precisamos de algo mais centralizado. Por isso comecei um rascunho, que vai virar um site futuramente, onde abordaremos apenas assuntos para iniciantes. Por agora, se você conhecer alguém que seja iniciante na área, indique este endereço: http://tableless.</description>
+    </item>
+    
+    <item>
+      <title>Mozilla Webmaker</title>
+      <link>http://localhost/jhonny-roger/public/mozilla-webmaker/</link>
+      <pubDate>Thu, 20 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/mozilla-webmaker/</guid>
+      <description>Mozilla Webmaker é uma iniciativa da Mozilla para ajudar pessoas normais a entenderem melhor como a web funciona. A ideia é que todo mundo entenda de verdade como a web funciona.
+ The goal: help millions of people move from using the web to making the web. As part of Mozilla’s non-profit mission, we want to help the world increase their understanding of the web, take greater control of their online lives, and create a more web literate planet</description>
+    </item>
+    
+    <item>
+      <title>Arrumando a casa</title>
+      <link>http://localhost/jhonny-roger/public/arrumando-a-casa/</link>
+      <pubDate>Thu, 15 Dec 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/arrumando-a-casa/</guid>
+      <description>Estamos muito felizes com a mudança, ainda mais depois de tantos comentários de vocês. Obrigado pelo feedback, é muito gratificante escrever assim.
+Como numa mudança real, algumas coisas ficam dentro das caixas até que alguém dê pela falta delas. Obrigado também por sua paciência. Aos poucos estamos colocando todo o conteúdo de volta.
+Agora foi a vez do Tutorial Tableless Básico, um dos primeiros estudos que escrevi aqui para o Tableless.</description>
+    </item>
+    
+  </channel>
+</rss>

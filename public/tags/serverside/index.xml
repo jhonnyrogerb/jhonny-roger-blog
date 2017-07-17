@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Serverside on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/serverside/</link>
+    <description>Recent content in Serverside on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 28 Apr 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/serverside/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>O LOOP do WordPress</title>
+      <link>http://localhost/jhonny-roger/public/o-loop-do-wordpress/</link>
+      <pubDate>Mon, 28 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-loop-do-wordpress/</guid>
+      <description>O WordPress tem vários segredos&amp;#8230; um dos segredos mais interessantes é o Loop.
+O Loop é usado no WordPress para mostrar os posts e páginas do site. O WordPress procura pelas páginas ou posts publicados no sistema e exibe seu conteúdo na página de acordo com os critérios que especificamos com as Template Tags. Qualquer código HTML ou PHP colocado no Loop será repetido em cada um dos posts exibidos.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smashing Magazine on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/smashing-magazine/</link>
+    <description>Recent content in Smashing Magazine on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 17 Jul 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/smashing-magazine/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>O Cenário do Web Design Responsivo</title>
+      <link>http://localhost/jhonny-roger/public/o-cenario-do-web-design-responsivo/</link>
+      <pubDate>Wed, 17 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-cenario-do-web-design-responsivo/</guid>
+      <description>O Web design responsivo está por aí há alguns anos, e foi destaque em 2012. Muitas estrelas da web, como Brad Frost e Luke Wroblewski, possuem vasta experiência neste tema e têm nos ajudado a fazer grandes melhorias. Mesmo assim, ainda há muito a ser feito.
+Neste artigo, vamos ver o que já é possível fazer hoje, o que será possível no futuro &amp;#8211; usando propriedades ainda não padronizadas (como CSS nível 4 e API&amp;#8217;s do HTML5) &amp;#8211; e o que ainda precisa ser melhorado.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rich Cards on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/rich-cards/</link>
+    <description>Recent content in Rich Cards on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 04 Jul 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/rich-cards/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduzindo “Rich Cards”, um novo formato de resultados para Buscas</title>
+      <link>http://localhost/jhonny-roger/public/introduzindo-rich-cards-um-novo-formato-de-resultados-para-buscas/</link>
+      <pubDate>Mon, 04 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introduzindo-rich-cards-um-novo-formato-de-resultados-para-buscas/</guid>
+      <description>Como uma boa empresa de tecnologia, o Google parece fazer da necessidade de evoluir suas ferramentas uma &amp;#8220;obsessão&amp;#8221;. Quando o assunto é mobilidade então, essa questão é um pouco superior.
+Todo mundo sabe que a maneira de interagir em um resultado de busca depende muito de como as informações estão organizadas no topo. Temos uma tendência em clicar nos primeiros resultados, algo que o o próprio Google nos educou. Com os Dados Estruturados (Rich Snippets), temos uma nova forma de obter resultados relevantes, através de imagens, votação entre outros meios que certamente influenciarão nosso clique.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245857">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>Com o uso da versão 3, já podemos tornar possível a criação de sombra em textos e boxes, arredondamento de bordas, múltiplos backgrounds, etc; objetivando reduzir o tempo de carregamento da página e estimulando o cuidado na utilização de códigos e textos limpos que servirão de comunicação para robôs de busca ou favorecerão a acessibilidade do website.</p>
+
+<p>A exemplo de mais uma das vantagens do CSS3, vamos conhecer melhor como aplicar uma imagem de textura ao preenchimento de um texto, utilizando apenas declarações &#8220;fonts&#8221; na folha de estilo.</p>
+
+<p>Vale ressaltar que o exemplo abaixo funcionará, neste momento, exclusivamente no Chrome e no Safari em suas últimas versões. E antes que você pense: “então, não poderei aplicar aos meus projetos&#8230;”, te tranquilizo; talvez você não possa aplicar aos projetos para web em desktop e diversos tipos de outros navegadores, mas você poderá aplicar a seus projetos mobile ou para tablets.  Pense nisso! 😉</p>
+
+<p>Então, vamos lá!</p>
+
+<p>Crie um novo documento html com a seguinte marcação:</p>
+
+<p>[cc lang=&#8221;css&#8221;]</p> <header></p>
+
+<h1 id="wood-header">Wood</header></h1>
+
+<p></body>[/cc]</p>
+
+<p>Após, adicione as características de estilo (uso aqui a aplicação incorporada para facilitar os testes):</p>
+
+<p>[cc lang=&#8221;css&#8221;]body{background:#fff}</p>
+
+<p>h1{      </p>
+
+<p>font:72px bold &#8220;Arial Black&#8221;, Gadget, sans-serif;     </p>
+
+<p>color:#930;     </p>
+
+<p>text-transform:uppercase;     </p>
+
+<p>border:solid 20px #930;     </p>
+
+<p>padding:10px;</p>
+
+<p>}[/cc]</p>
+
+<p>A princípio, seu texto está assim:</p>
+
+<p><a href="http://tableless.com.br/uploads/2012/02/img1.png"><img class="alignnone size-medium wp-image-5549" src="http://tableless.com.br/uploads/2012/02/img1.png" alt="" width="300" height="151" /></a></p>
+
+<p>Agora, vamos abrir um dos editores de imagem – Photoshop ou Fireworks – e criar uma <strong>imagem PNG</strong> com a nossa textura. Em meu teste inicial, eu utilizei uma imagem de textura pronta, mas o resultado não ficou como esperado, então aconselho colocar seus dotes de criação em atividade e realmente criar a textura.</p>
+
+<p>Abaixo uma breve explicação da textura que criei no Fireworks.</p>
+
+<p>Utilizando o Fireworks, crie um novo documento (1900&#215;200), selecione a ferramenta pincel, depois aplique as seguintes características (barra de ferramentas inferior): <strong>Tip size – 300 | Stroke Category – Pencil Pixel Soft | Texture – Line vertical e Burlap.</strong></p>
+
+<p><strong><a href="http://tableless.com.br/uploads/2012/02/img2.png"><img class="size-medium wp-image-5550 alignleft" style="margin-right: 10px" src="http://tableless.com.br/uploads/2012/02/img2.png" alt="" width="300" height="269" /></a></strong></p>
+
+<p>Na hora de escolher a melhor forma de exportar sua imagem, o cuidado com o peso em kb continua valendo. Em se tratando de PNG, é muito fácil um simples arquivo ficar com mais de 500kb, por isso, em meus testes observei que exportando em PNG8 você vai ter um arquivo de 52kb com uma qualidade visual menor, mas que dependendo do estilo de textura é perfeitamente aplicável, ou exportando em PNG32 você preza por uma qualidade visual melhor, mas ao custo de um arquivo de 200kb. A escolha vai depender da velocidade de conexão ao qual você vai estabelecer para esta aplicação e do resultado visual que você julgar aceitável.</p>
+
+<p>Criada a imagem, vamos incluir ao style do texto o atributo <strong>“mask-image”</strong> que definem a textura no texto.</p>
+
+<p>[cc lang=&#8221;css&#8221;]h1{      </p>
+
+<p>font:72px bold &#8220;Arial Black&#8221;, Gadget, sans-serif;     </p>
+
+<p>color:#930;</p>
+
+<p>text-transform:uppercase;     </p>
+
+<p>border:solid 20px #930;     </p>
+
+<p>padding:10px;     </p>
+
+<p>-webkit-mask-image: url(text2.png);</p>
+
+<p>-o-mask-image: url(text2.png);</p>
+
+<p>-moz-mask-image: url(text2.png);</p>
+
+<p>mask-image: url(text2.png);</p>
+
+<p>}[/cc]</p>
+
+<p>Reload no navegador&#8230; e voilá! Um texto com um preenchimento texturizado.</p>
+
+<p><a href="http://tableless.com.br/uploads/2012/02/img3.png"><img class="alignnone size-medium wp-image-5553" src="http://tableless.com.br/uploads/2012/02/img3.png" alt="" width="300" height="117" /></a></p>
+
+<p>Daí para frente você pode incrementar utilizando <a title="Propriedade @font-face CSS – Fonts externas na web" href="http://tableless.com.br/font-face-fonts-externas-na-web/" target="_blank">font-face</a>, <a title="CSS3 – Sombras em textos e elementos" href="http://tableless.com.br/css3-sombras-em-textos-e-elementos/" target="_blank">text-shadow</a> ou outras texturas. Fica a critério da sua criatividade.</p>
+
+<p>Até a próxima!</p>
+
+<p>😉</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/o-basico-sobre-sparql-turtle//?utm_source=tablelessRelatedLin">O básico sobre Sparql e Turtle</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/paginas_acessiveis_hatemile//?utm_source=tablelessRelatedLin">Páginas acessíveis com o HaTeMiLe</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245857"></script>

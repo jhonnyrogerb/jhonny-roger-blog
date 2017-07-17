@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245848">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>Se você trabalha em um site de conteúdo ou em algum produto web, uma possibilidade interessante seria fazer com que o usuário recebesse uma notificação quando houvesse uma nova notícia ou, no caso de produtos, uma notificação do próprio serviço. Com a Notifications API agora é totalmente possível.</p>
+
+<p>Caso você queira dar uma <a href="http://www.w3.org/TR/notifications/">olhada na documentação</a>.</p>
+
+<p>Outro detalhe importante: as notificações só podem ser ativadas por meio de uma interação do usuário, como clique de mouse, teclado e etc&#8230; Logo, vamos usar um botão em nosso exemplo para poder ativar as notificações.</p>
+
+<blockquote>
+<p>Notifications should only be presented when the user has indicated they are desired; without this they could create a negative experience for the user.</p>
+</blockquote>
+
+<h2 id="verificando-suporte">Verificando suporte</h2>
+
+<p>A primeira coisa que nossa função precisa fazer é verificar se o browser suporta ou não notificações. Se ele não aceitar, ele fica em silêncio e pronto. No nosso exemplo ele vai logar uma mensagem no console, só para gente saber, ok?</p>
+
+<h2 id="pedindo-permissão">Pedindo permissão</h2>
+
+<p>Para não virar festa, é necessário que tenhamos a permissão do usuário para enviar as notificações via browser. Isso acontece também ao utilizar outras APIs, como a de Geolocation, por exemplo. A permissão terá três possíveis valores: um valor inicial de <strong>default</strong>, que significa que o usuário ainda não negou nem permitiu receber notificações deste domínio. O <strong>denied</strong> significa que o usuário negou receber e o <strong>granted</strong> que significa que usuário aceitou receber as notificações.</p>
+
+<p>Agora é só fazer uma condição verificando estes estágios:</p>
+
+<h2 id="preparando-a-notificação">Preparando a notificação</h2>
+
+<p>Se o usuário nos deu permissão para fazer a notificação, nosso domínio fica listado com permissão nas configurações do browser e aí poderemos enviar notificações até que o usuário bloqueie. Agora é hora de fazer a notificação. Para tanto, iremos executar pequena função quando a permissão for &#8220;granted&#8221;.</p>
+
+<p>O código fica assim:</p>
+
+<p>Criamos um novo objeto <strong>Notification</strong>, que recebe logo de cara um parâmetro que é o título da notificação. Depois há algumas opções que podemos preencher:</p>
+
+<ul>
+<li><strong>body</strong>: A mensagem da notificação.</li>
+<li><strong>tag</strong>: Identificador único da notificação. Uma string simples. Isso serve para não fazermos notificações duplicadas.</li>
+<li><strong>onshow</strong>: Evento que é disparado quando a notificação aparece.</li>
+<li><strong>onclick</strong>: Evento quando o usuário clica na notificação.</li>
+<li><strong>onclose</strong>: Quando o usuário fecha a notificação.</li>
+<li><strong>onerror</strong>: Quando há algum erro na notificação e ela não pode ser mostrada.</li>
+</ul>
+
+<p>E voilá! Faça um teste aí. Aqui usei o Chrome e Safari. No meu Safari só funcionou depois que coloquei na minha pasta onde sirvo o localhost (httpdocs, public, www, sei lá o que você usa aí localmente).</p>
+
+<h2 id="o-browser-pensa-assim">O browser pensa assim</h2>
+
+<p>O Browser tem um processo definido pela especificação do W3C que é basicamente assim:</p>
+
+<ul>
+<li>Se a permissão para a notificação não foi positiva, cancele qualquer pedido de notificação e retorne um evento de erro na notificação, finalizando todos os passos. É aqui que o <strong>onerror</strong> entra em ação.</li>
+<li>Se existir uma notificação pendente na lista ou se na lista de notificações ativas existem tags iguais a notificação que está sendo chamada, rode os <a href="http://www.w3.org/TR/notifications/#replace-steps">passos de substituição</a> e finalize as ações.</li>
+<li>Se um dispositivo autorizar, as notificações podem ser mostradas imediatamente sem limitações no número de notificações concorrentes, rodando os <a href="http://www.w3.org/TR/notifications/#display-steps">passos de amostra</a> e finalizando as tarefas.</li>
+<li>Se o dispositivo tem limitações com o número de notificações concorrentes, chame imediatamente a plataforma alternativa que suporte enfileirar as notificações ou posicione as notificações em uma <a href="http://www.w3.org/TR/notifications/#list-of-pending-notifications">lista de pendências</a>.</li>
+</ul>
+
+<p>É legal <a href="http://www.w3.org/TR/notifications/">ler a documentação do W3C</a>, mesmo que boa parte das informações sobre essa API seja interessante para os fabricantes de browsers.</p>
+
+<p><strong>Mais pra estudar:</strong></p>
+
+<ul>
+<li><a href="https://zeropush.com/blog/implementing-safari-push-notifications-in-osx-mavericks">Implementing Safari push notifications in OSX Mavericks</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Notification/Using_Web_Notifications">Using Web Notifications &#8211; MDN</a></li>
+<li><a href="https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/SafariJSProgTopics/Articles/SendingNotifications.html#//apple_ref/doc/uid/TP40001483-CH23-SW1">Sending Notifications &#8211; Apple</a></li>
+<li><a href="http://loopinfinito.com.br/2012/08/22/web-notifications-api/">Artigo sobre o mesmo assunto no LoopInfinito</a></li>
+</ul>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/indo-alem-no-react-native//?utm_source=tablelessRelatedLin">Indo além no Mundo React-Native</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/velocidade-tableless-estatico//?utm_source=tablelessRelatedLin">Performance do Tableless estático</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/seu-primeiro-bot-para-o-telegram//?utm_source=tablelessRelatedLin">Seu primeiro bot para o Telegram</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245848"></script>

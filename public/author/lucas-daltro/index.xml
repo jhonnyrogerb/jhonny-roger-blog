@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lucas Daltro on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/author/lucas-daltro/</link>
+    <description>Recent content in Lucas Daltro on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 17 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/author/lucas-daltro/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Criando a sua primeira aplicação web com React</title>
+      <link>http://localhost/jhonny-roger/public/criando-sua-primeira-aplicacao-web-com-react/</link>
+      <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-sua-primeira-aplicacao-web-com-react/</guid>
+      <description>Você já deve ter ouvido falar do React, a biblioteca JS mais popular da atualidade, usado por várias empresas grandes como Facebook, Airbnb e Twitter. A ideia desse artigo é demonstrar a criação de uma aplicação simples, que use as principais partes do React. Neste tutorial nós iremos ver:
+ Componentes Componentes puros/funcionais O uso do state vs props  Todos os exemplos deste tutorial serão escritos em ES6. Se você não sabe ES6 leia esse artigo antes.</description>
+    </item>
+    
+  </channel>
+</rss>

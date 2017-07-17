@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nwjs on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/nwjs/</link>
+    <description>Recent content in Nwjs on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 14 Jul 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/nwjs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aplicativos Desktop com NW.js – Node Webkit – Introdução</title>
+      <link>http://localhost/jhonny-roger/public/aplicativos-desktop-com-nw-js-node-webkit-introducao/</link>
+      <pubDate>Thu, 14 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/aplicativos-desktop-com-nw-js-node-webkit-introducao/</guid>
+      <description>Este é o primeiro artigo de uma série que vou escrever sobre aplicações desktop usando tecnologias web. (HTML, CSS, Javascript e WebGL) O NW.js é uma aplicação em tempo de execução baseado em Chromium e Node.js, com ele é possível desenvolver aplicativos nativos para Windows, Linux e Mac, usando tecnologias web e usufruindo dos pacotes do Node.js.
+Para ter uma ideia do que é possível fazer, visite este link e veja alguns aplicativos desenvolvidos com NW.</description>
+    </item>
+    
+  </channel>
+</rss>

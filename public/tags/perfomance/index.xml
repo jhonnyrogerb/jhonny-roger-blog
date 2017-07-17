@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Perfomance on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/perfomance/</link>
+    <description>Recent content in Perfomance on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 30 May 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/perfomance/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>“HTTP Archive” Ferramenta para performance</title>
+      <link>http://localhost/jhonny-roger/public/http-archive-ferramenta-para-performance/</link>
+      <pubDate>Wed, 30 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/http-archive-ferramenta-para-performance/</guid>
+      <description>Este é o primeiro post sobre um tema que ainda não temos falado muito aqui no tableless, mas é um tema muito importante tanto para nós Front-end quanto para Back-end&amp;#8217;s que é a performance. Hoje mostrarei uma ferramenta para analisar a performance do seu projeto web.
+A ferramenta HTTP Archive Este projeto iniciou-se no começo de novembro de 2010, através de análises de Urls e armazenamento de suas informações (subresource URLs, HTTP headers, sizes, etc.</description>
+    </item>
+    
+  </channel>
+</rss>

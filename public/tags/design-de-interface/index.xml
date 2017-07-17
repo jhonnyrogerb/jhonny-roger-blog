@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design De Interface on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/design-de-interface/</link>
+    <description>Recent content in Design De Interface on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 27 Nov 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/design-de-interface/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Como uma simples mudança de cores pode revolucionar seu site</title>
+      <link>http://localhost/jhonny-roger/public/como-uma-simples-mudanca-de-cores-pode-revolucionar-seu-site/</link>
+      <pubDate>Fri, 27 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/como-uma-simples-mudanca-de-cores-pode-revolucionar-seu-site/</guid>
+      <description>Acredito que muitos de nós estamos na batalha diária desenvolvendo projetos para se realizar profissionalmente, sustentar nossas famílias, entre outras razões particulares. Entretanto existem também os objetivos relacionados às nossas funções que motivam, ou deveriam motivar, nossas ações para que os resultados de nossos projetos nos realizem e tragam reconhecimento.
+E uma meta primordial que faz com que todo profissional web atinja parte destes objetivos é desenvolver projetos com foco no usuário, como já foi citado neste excelente artigo aqui no Tableless.</description>
+    </item>
+    
+    <item>
+      <title>Formulários e o Metawebdesign – Parte 1</title>
+      <link>http://localhost/jhonny-roger/public/formularios-e-o-metawebdesign-parte-1/</link>
+      <pubDate>Mon, 24 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/formularios-e-o-metawebdesign-parte-1/</guid>
+      <description>O front-end é uma profissão de uma amplitude imensa. Temos profissionais montando mockups/PSDs, especialistas em acessibilidade, usabilidade, arquitetura da informação, integração com aplicações, designers de interface, application developers. Tem até SEO.
+O background do profissional neste momento não importa muito, apenas a afirmação que ele está trabalhando na camada de front-end. Só isso basta para confirmar os papéis acima.
+Em muitas empresas o front-end é trabalhado de maneira criteriosa, com separação de tarefas em maior ou menor intensidade, de modo que o processo esteja sempre azeitado e atento aos prazos dos outros times que dependem da interface.</description>
+    </item>
+    
+    <item>
+      <title>Estabelecendo uma metodologia ágil para avaliação de usabilidade</title>
+      <link>http://localhost/jhonny-roger/public/estabelecendo-uma-metodologia-agil-para-avaliacao-de-usabilidade/</link>
+      <pubDate>Wed, 05 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/estabelecendo-uma-metodologia-agil-para-avaliacao-de-usabilidade/</guid>
+      <description>O conjunto de técnicas de usabilidade aplicado ao desenvolvimento da interfaces visa proporcionar: a facilidade de realização de tarefas; analise e otimização do processo de aprendizado do sistema; eficiência de uso; facilidade de memorização, evitando que o usuário necessite reaprender os processos de interação; e, por fim, a baixa ocorrência de erros, evitando transtornos na realização de tarefas e obtendo satisfação do usuário ao interagir com a aplicação.
+Para que estes critérios sejam cumpridos, é necessário estabelecer uma abordagem para aplicar e garantir a efetividade da usabilidade através de padrões concisos de interfaces e rotinas de avaliação próprias para mensurar os diversos quesitos de interação do usuário com o website.</description>
+    </item>
+    
+  </channel>
+</rss>

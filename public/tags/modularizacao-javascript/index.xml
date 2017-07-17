@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modularizacao Javascript on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/modularizacao-javascript/</link>
+    <description>Recent content in Modularizacao Javascript on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 09 Dec 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/modularizacao-javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Modularização em JavaScript</title>
+      <link>http://localhost/jhonny-roger/public/modularizacao-em-javascript/</link>
+      <pubDate>Mon, 09 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/modularizacao-em-javascript/</guid>
+      <description>Modularização implica na divisão das funcionalidades de um código em partes distintas. Os módulos compõe peças que podem ser adicionadas e removidas quando necessário, vejam: reuso de código.
+Os frutos do encapsulamento alcançado com a modularização são a redução da complexidade, separação de interesses e manutenção descomplicada. Ainda, a definição de cada módulo força o programador a determinar quais os limites e responsabilidades de cada porção do código.
+Acredito que estes argumentos já justificam a adoção de um sistema de módulos para seu código.</description>
+    </item>
+    
+  </channel>
+</rss>

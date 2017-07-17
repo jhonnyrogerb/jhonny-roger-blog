@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245850">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>Se você não sabe o que é <strong>Behavior driven development,</strong> para ter um melhor proveito desse artigo,  leia uma <a href="http://tableless.com.br/introducao-ao-behavior-driven-development/">introdução ao BDD</a> antes de prosseguir.</p>
+
+<p>Para começo de conversa, estaremos fazendo uma abordagem prática sobre testes de comportamento. Para isso, utilizaremos a biblioteca para testes <a href="http://behat.org/">behat</a>. Vamos ao nosso arquivo <code>composer.json:</code></p>
+
+<pre class="lang-javascript">{
+    "require-dev": {
+        "behat/behat": "2.4.*@stable"
+    },
+    "config": {
+        "bin-dir": "bin/"
+    }
+}</pre>
+
+<p>Se ainda não estiver familiarizado com o uso do <strong>composer</strong> para gerenciamento de dependências de seus projetos em php, vale a pena dar uma olhada em <a href="http://tableless.com.br/composer-para-iniciantes/">composer para iniciantes</a>.</p>
+
+<p>Agora, basta instalar nossas dependências com o seguinte comando:</p>
+
+<pre class="lang-sh">$ composer install</pre>
+
+<p><img class="size-full wp-image-42015 aligncenter" alt="Captura de tela 2014-04-06 13.52.43" src="http://tableless.com.br/uploads/2014/04/Captura-de-tela-2014-04-06-13.52.43.png" width="684" height="816" srcset="uploads/2014/04/Captura-de-tela-2014-04-06-13.52.43.png 684w, uploads/2014/04/Captura-de-tela-2014-04-06-13.52.43-400x477.png 400w" sizes="(max-width: 684px) 100vw, 684px" /></p>
+
+<p>De forma alternativa, você poderá fazer uma instalação global baixando o arquivo <code>behat.phar</code> e deixando acessível de seu sistema operacional, geralmente esse processo é simples, e basta criar um link simbólico em <code>/usr/local/bin</code> para o arquivo que deseja executar.</p>
+
+<h2 id="como-funciona">Como funciona?</h2>
+
+<p>Se dermos uma olhada na estrutura que o <em><strong>composer</strong></em> criou para a gente, notaremos que um diretório <strong><em>feature</em></strong> foi criado. Nesse diretório criaremos os arquivos *<strong>.feature</strong> que descreverão um conjunto de ações para atingir um determinado objetivo.</p>
+
+<p>Para começar criaremos o arquivo <strong>example.feature</strong>.</p>
+
+<p><img class="size-full wp-image-42019 aligncenter" alt="Estrutura de diretórios" src="http://tableless.com.br/uploads/2014/04/Captura-de-tela-2014-04-06-14.25.49.png" width="407" height="95" srcset="uploads/2014/04/Captura-de-tela-2014-04-06-14.25.49.png 407w, uploads/2014/04/Captura-de-tela-2014-04-06-14.25.49-400x93.png 400w" sizes="(max-width: 407px) 100vw, 407px" /></p>
+
+<p>Se você estiver usando o <strong>Sublime Text</strong>, instale essa extensão <a href="https://www.dropbox.com/s/xb6mmsxy5qdtjja/Captura%20de%20tela%202014-04-06%2014.47.25.png">https://github.com/omissis/sublime-behat-syntax</a> que provê highlight em arquivos *.feature</p>
+
+<p>No nosso arquivo <strong>example.feature</strong>, iremos descrever nosso cenário, o que queremos <em>testar.</em></p>
+
+<p><img class="alignnone size-full wp-image-42024" alt="Captura de tela 2014-04-06 14.54.18" src="http://tableless.com.br/uploads/2014/04/Captura-de-tela-2014-04-06-14.54.18.png" width="609" height="474" srcset="uploads/2014/04/Captura-de-tela-2014-04-06-14.54.18.png 609w, uploads/2014/04/Captura-de-tela-2014-04-06-14.54.18-400x311.png 400w" sizes="(max-width: 609px) 100vw, 609px" /></p>
+
+<p>Com uma <strong>feature</strong> já escrita, iremos executar o <em>behat</em> para nos dar a descrição e métodos dessa feature em PHP, daí prosseguiremos com a implementação dos métodos que eles nos forneceu. Para isso basta executarmos o arquivo <strong>behat</strong>, dentro da pasta <strong>bin</strong> que foi criada pelo <em>composer</em>.</p>
+
+<pre class="lang-sh">$ bin/behat features/example.feature</pre>
+
+<p><img class="alignnone size-full wp-image-42029" alt="Behat feature" src="http://tableless.com.br/uploads/2014/04/Captura-de-tela-2014-04-06-15.07.06.png" width="684" height="620" srcset="uploads/2014/04/Captura-de-tela-2014-04-06-15.07.06.png 684w, uploads/2014/04/Captura-de-tela-2014-04-06-15.07.06-400x362.png 400w" sizes="(max-width: 684px) 100vw, 684px" /></p>
+
+<p>Assim, o <strong>behat</strong> cospe pra nos um código PHP para que coloquemos na classe de feature. E aí começaremos a <em>codar</em> os cenários. No arquivo <code>features/bootstrap/FeatureContext.php</code> colaremos o código que foi fornecido pelo <strong>behat</strong>.</p>
+
+<pre class="lang-php">&lt;?php
+
+use Behat\Behat\Context\BehatContext;
+
+class FeatureContext extends BehatContext
+{
+    /** @Given /^some step with "([^"]*)" argument$/ */
+    public function someStepWithArgument($argument1)
+    {
+        return $argument1;
+    }
+
+    /** @Given /^number step with (\d+)$/ */
+    public function numberStepWith($argument1)
+    {
+        return $argument1;
+    }
+}</pre>
+
+<p>Aqui temos uma classe simples, que <strong>não testa nada</strong>, mais é um bom ponto de partidada para entender como funciona a ferramenta e o esquema de testes de comportamento. Pois <em>codar</em> os cenários deve ser a parte mais fácil do processo, se você tem <strong>steps</strong> bem definidos.</p>
+
+<p>para rodar esse testes execute o seguinte comando.</p>
+
+<pre class="lang-sh">$ bin/behat features/example.feature</pre>
+
+<h2 id="hello-world">Hello world</h2>
+
+<p>Agora que temos uma ideia de como o <strong>behat</strong> trabalha, faremos o clássico <strong>hello world</strong>.</p>
+
+<p>Em nosso arquivo <code>example.feature</code> descreveremos o seguinte cenário:</p>
+
+<p><img class="alignnone size-full wp-image-42040" alt="Hello world feature behat" src="http://tableless.com.br/uploads/2014/04/Captura-de-tela-2014-04-06-16.53.08.png" width="605" height="333" srcset="uploads/2014/04/Captura-de-tela-2014-04-06-16.53.08.png 605w, uploads/2014/04/Captura-de-tela-2014-04-06-16.53.08-400x220.png 400w" sizes="(max-width: 605px) 100vw, 605px" /></p>
+
+<p>Nesse cenário estaremos testando que quando passarmos a string <strong>Hello world,</strong> nossa classe tem que concatenar nossa string a uma exclamação. Com isso já poderemos escrever nossa classe PHP para testar essa <strong>feature.</strong></p>
+
+<pre class="lang-php">&lt;?php
+
+use Behat\Behat\Context\BehatContext;
+
+class FeatureContext extends BehatContext
+{
+    private $_string;
+
+    /** @Given /^some step with "([^"]*)" argument$/ */
+    public function someStepWithArgument($string)
+    {
+        $this-&gt;_string = strtolower($string);
+    }
+
+    /**
+     * @Then /^i have "([^"]*)"$/
+     */
+    public function iHave($expected)
+    {
+        if (0 !== strcmp(strtolower($expected), $this-&gt;_string.'!'))
+            throw new Exception('Wrong "hello world" received: '.$this-&gt;_string );
+
+        return $expected;
+    }
+}</pre>
+
+<p>Se executarmos o teste com o <strong>behat</strong>, poderemos ver como está o nosso cenário.</p>
+
+<p>&nbsp;</p>
+
+<p><img class="alignnone size-full wp-image-42045" alt="Behat hello world execution" src="http://tableless.com.br/uploads/2014/04/Captura-de-tela-2014-04-06-17.16.30.png" width="740" height="494" srcset="uploads/2014/04/Captura-de-tela-2014-04-06-17.16.30.png 740w, uploads/2014/04/Captura-de-tela-2014-04-06-17.16.30-400x267.png 400w" sizes="(max-width: 740px) 100vw, 740px" /></p>
+
+<h2 id="conclusão">Conclusão</h2>
+
+<p>Escrever testes de comportamento é sempre bom, e podemos consulta-los sempre, seja pra esclarecer uma regra de negócio ou para integrar novas pessoas ao time de desenvolvimento. Vendo os cenários sabemos exatamente o que uma classe/entidade deve fazer. Seu objetivo e contexto ficam claros. Os incentivo fortemente a implantar uma cultura de testes de software em sua empresa e projetos. Você tem muito a ganhar a longo prazo.</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/conselhos-de-um-simples-programador//?utm_source=tablelessRelatedLin">Conselhos de um simples programador</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/minha-experiencia-com-o-ct-centro-de-treinamento//?utm_source=tablelessRelatedLin">Minha experiência com o CT (Centro de Treinamento)</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/projeto-felix-o-novo-software-de-3d-da-adobe//?utm_source=tablelessRelatedLin">Projeto Felix: O novo software de 3D da Adobe</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245850"></script>

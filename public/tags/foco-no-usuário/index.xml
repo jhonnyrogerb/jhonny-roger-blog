@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Foco No Usuário on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/foco-no-usu%C3%A1rio/</link>
+    <description>Recent content in Foco No Usuário on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Mar 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/foco-no-usu%C3%A1rio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Não sou artista, sou designer</title>
+      <link>http://localhost/jhonny-roger/public/nao-sou-artista-sou-designer/</link>
+      <pubDate>Wed, 04 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/nao-sou-artista-sou-designer/</guid>
+      <description>Hello World, eu sou cristianoweb, e esse é o meu 1º artigo no Tableless! Olá amigos leitores, esse será um texto de estreia!
+Para começar, nada melhor do que eu me apresentar, certo? Meu nome é Cristiano Santos, mais conhecido na Internet como cristianoweb e trabalho com criação desde 2001. Na época eu era designer gráfico e diagramador no setor de criação de uma grande escola/curso aqui do Rio de Janeiro.</description>
+    </item>
+    
+  </channel>
+</rss>

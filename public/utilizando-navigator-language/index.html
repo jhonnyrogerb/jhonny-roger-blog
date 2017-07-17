@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+	<link rel="stylesheet" type="text/css" href="http://localhost/jhonny-roger/public/css/style.min.css?1500245847">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-9403183739906461",
+	    enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+	<header id="sd-header">
+		<a href="http://localhost/jhonny-roger/public/" id="sd-logo">Sejedev</a>
+		<nav id="sd-nav-menu">
+			<ul>
+				<li><a href="http://localhost/jhonny-roger/public/categories/nodejs">Artigos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Noticias</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Projetos</a></li>
+				<li><a href="http://localhost/jhonny-roger/public/categories/jquery">Colabore</a></li>
+			</ul>
+		</nav>
+		<form action="#" id="sd-search-form">
+			<input type="search" name="search" placeholder="Faça a sua busca!">
+		</form>
+	</header>
+<section id="sd-main-post">
+    
+    <h1>
+        <a href="/jhonny-roger/public/frontend-week/">
+            Front-end Week
+        </a>
+    </h1>
+    <p class="sd-main-excerpt">
+         Uma overdose de eventos e palestras sobre front-end em uma semana. 
+    </p>
+    <p class="sd-main-author">
+        por <a href="/jhonny-roger/public/author/diego-eis">Diego Eis"</a>27/06/2017
+    </p>
+    
+</section>
+
+
+
+<div class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      
+
+<p>Quando desenvolvemos um aplicativo web, normalmente desenvolvemos incluindo o trabalho de internacionalização. Mas não basta apenas criar arquivos para cada país, pois o aplicativo pode ser acessado por diversos países que você não contemplou. Pensando nesses problemas o Yahoo Presentation Technologies (YPT) e com a ajuda de <a href="https://github.com/andyearnshaw">Andy Earnshaw</a> e <a href="http://norbertlindenberg.com">Norbert Lindenberg</a> criaram a biblioteca <a href="http://formatjs.io/">Formatjs</a>. Vamos mostrar um pouco sobre essa biblioteca logo abaixo, com um exemplo bem simples:</p>
+
+<pre class="lang-javascript">var messages = {
+   en: {
+       GREETING: 'Hello {name}'
+   },
+   fr: {
+       GREETING: 'Bonjour {name}'
+   }
+};
+</pre>
+
+<h2 id="qual-o-local-language-do-usuário">Qual o local language do usuário</h2>
+
+<p>A melhor forma de você servir um idioma para o usuário, é descobrindo o idioma que ele usa no browser. Geralmente o idioma do browser é igual ao idioma do sistema operacional, logo, é o idioma nativo do usuário ou o idioma que o usuário se sente mais confortável para usar.</p>
+
+<p>Então, vamos descobrir qual é esse idioma usado pelo usuário. Para tanto, precisamos utilizar um desses comandos <code>(navigator.language || navigator.browserLanguage)</code> para entregar o conteúdo no idioma correto. Para essa verificação, podemos utilizar vários métodos, um deles é fazendo com que o usuário clique em um botão e nesse momento rodamos o código que vai descobrir o idioma.</p>
+
+<p>Um exemplo de como identificar o idioma do browser do usuário pode ser feito assim:</p>
+
+<pre class="lang-javascript">//variável que vai retornar uma string com language preferida do usuario
+var lang = navigator.language ;
+//verificamos o momento do click no botao
+$("#lang").on('click',function () {
+    //identificamos a language
+    if(lang === 'en-US'){
+        //apresentamos uma mensagem ao usuario
+        alert("Your language is:"+lang);
+    }
+});
+</pre>
+
+<h2 id="parâmetros-do-navigator-language">Parâmetros do navigator.language</h2>
+
+<p>A string “lang” representando as versões de linguagens, está definida em <a href="http://tools.ietf.org/html/rfc4646">RFC 4646</a>.</p>
+
+<p>Exemplos de códigos de linguagens validos inclui &#8220;en-US&#8221;, &#8220;fr&#8221;, &#8220;es-ES&#8221;, etc.</p>
+
+<h2 id="maneiras-de-verificar-o-language">Maneiras de verificar o language</h2>
+
+<p>Podemos utilizar duas maneiras de identificação: uma retorna apenas a language que o usuário está utilizando no browser e o outro verifica alguns códigos de languages que são suportados.</p>
+
+<p>Exemplos:</p>
+
+<pre class="lang-javascript">navigator.language  //"en-US"
+navigator.languages //["en-US", "zh-CN", "ja-JP"]
+</pre>
+
+<h2 id="como-seria-na-prática">Como seria na prática</h2>
+
+<p>Na prática quando o usuário for acessar o site, não será preciso selecionar o país de origem para entregarmos o conteúdo no seu idioma. Com todos os idiomas prontos, só vamos precisar criar um script que verifique qual idioma o browser está utilizando.</p>
+
+<h2 id="analisando-o-código-fonte">Analisando o código fonte</h2>
+
+<p>No código fonte abaixo, cada linha tem uma explicação:</p>
+
+<pre class="lang-javascript">//esconder os formularios
+$(".form").hide();
+$(".form2").hide();
+
+//ao clicar vamos descobrir o language
+$("#lang").on('click',function () {
+
+//variavel que vai retornar uma string com language preferida do usuario
+var lang = navigator.language;    
+
+//aqui realizamos uma identificação do language 
+if(lang === 'en-US'){
+//entregamos para o usuário o form correto
+        alert("Your language is:"+lang);
+        $(".form2").show('slow', function(){});        
+    }
+
+   //aqui realizamos uma identificação do language 
+if(lang === 'pt-BR'){
+     //entregamos para o usuário o form correto
+        alert("Your language is:"+lang);
+        $(".form").show('slow', function(){});        
+    }    
+});
+</pre>
+
+<p>Link para o exemplo no <a href="http://jsfiddle.net/leonardo403/f9f70vgh/10/">JSFiddle</a></p>
+
+<h2 id="propriedades">Propriedades</h2>
+
+<p>A interface <code>NavigatorLanguage</code> não herda qualquer propriedade.</p>
+
+<p>O <a href="https://developer.mozilla.org/en-US/docs/Web/API/NavigatorLanguage.language">NavigatorLanguage.language</a> retorna uma <a href="https://developer.mozilla.org/en-US/docs/Web/API/DOMString">DOMString</a> representando o idioma de preferência do usuário, geralmente o idioma da interface do usuário do navegador. O valor null é devolvido quando este é desconhecido.</p>
+
+<p><a href="https://developer.mozilla.org/en-US/docs/Web/API/NavigatorLanguage.languages">NavigatorLanguage.languages</a></p>
+
+<p>Retorna um array de <a href="https://developer.mozilla.org/en-US/docs/Web/API/DOMString">DOMString</a> representando os idiomas conhecidos para o usuário, por ordem de preferência.</p>
+
+<h2 id="referências">Referências</h2>
+
+<p><a href="https://developer.mozilla.org/en-US/docs/Web/API/NavigatorLanguage.languages">NavigatorLanguage.languages</a></p>
+
+<p><a href="https://developer.mozilla.org/en-US/docs/Web/API/NavigatorLanguage">NavigatorLanguage</a></p>
+
+<h2 id="browsers-compatíveis-desktop">Browsers compatíveis (Desktop)</h2>
+
+<p>A tabela e a lista de browsers compativeis foi retirada do site <a href="http://developer.mozilla.org">Developer Mozilla</a>.</p>
+
+<ul>
+<li><strong>Chrome</strong>=&gt; Sim. Returns the browser UI language, not the value of the Accept-Language <a href="https://developer.mozilla.org/en/HTTP/Headers">HTTP header</a>.</li>
+
+<li><p><strong>Firefox(Gecko)</strong>=&gt;1.0 (1.7 or earlier)</p>
+
+<p>Prior to Gecko 2.0 (Firefox 4 / Thunderbird 3.3 / SeaMonkey 2.1), this property&#8217;s value was also part of the user agent string, as reported by <a href="https://developer.mozilla.org/en-US/docs/Web/API/window.navigator.userAgent">navigator.userAgent</a>.</p>
+
+<p>Starting in Gecko 5.0 (Firefox 5.0 / Thunderbird 5.0 / SeaMonkey 2.2), this property&#8217;s value is based on the value of the Accept-Language <a href="https://developer.mozilla.org/en/HTTP/Headers">HTTP header</a>.</p></li>
+
+<li><p><strong>Internet Explorer</strong>=&gt; Closest available (non-standard) properties are <a href="http://msdn.microsoft.com/en-us/library/ie/ms534713.aspx">userLanguage</a> and <a href="http://msdn.microsoft.com/en-us/library/ie/ms533542.aspx">browserLanguage</a>. IE11 provides navigator.language but it is unclear how many prior versions support it. Old versions are not available to me, at the moment.</p></li>
+
+<li><p><strong>Opera</strong>=&gt; Sim.</p></li>
+
+<li><p><strong>Safari</strong>=&gt;Sim.</p></li>
+</ul>
+
+<h2 id="browsers-compatíveis-mobile">Browsers compatíveis (Mobile)</h2>
+
+<p>Essa é a lista dos browsers mobile que suportam o <strong>navigator.language</strong>:</p>
+
+<ul>
+<li><strong>Android</strong>=&gt;Sim.</li>
+<li><strong>Firefox Mobile(Gecko)</strong>=&gt;1.0 (1.0)</li>
+<li><strong>IE Mobile</strong>=&gt;Não suporta. Closest available (non-standard) properties are <a href="http://msdn.microsoft.com/en-us/library/ie/ms534713.aspx">userLanguage</a> and <a href="http://msdn.microsoft.com/en-us/library/ie/ms533542.aspx">browserLanguage.</a></li>
+<li><strong>Opera Mobile</strong>=&gt;Sim.</li>
+<li><strong>Safari Mobile</strong>=&gt;Sim.</li>
+</ul>
+
+<h2 id="conclusão">Conclusão</h2>
+
+<p>Todo o conteúdo utilizado foi retirado do site developer.mozilla.org, pois lá tem bastante material sobre o assunto. Você pode utilizar o navigator.language por enquanto nos dois principais browsers Firefox e Chrome, mas isso não impede você de testar nos outros também. Eu espero que este material sirva como um auxílio para encorajar outros web developer a utilizarem mais o navigator.language.</p>
+
+    </article>
+
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/indo-alem-no-react-native//?utm_source=tablelessRelatedLin">Indo além no Mundo React-Native</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/seu-primeiro-bot-para-o-telegram//?utm_source=tablelessRelatedLin">Seu primeiro bot para o Telegram</a><br />
+        </li>
+
+        
+        <li class="tb-related-post">
+          <a href="/jhonny-roger/public/paginas_acessiveis_hatemile//?utm_source=tablelessRelatedLin">Páginas acessíveis com o HaTeMiLe</a><br />
+        </li>
+
+        
+      </ul>
+    </div>
+
+  </section>
+</div>
+
+<footer id="sd-footer">
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="http://localhost/jhonny-roger/public/js/main.js?1500245847"></script>

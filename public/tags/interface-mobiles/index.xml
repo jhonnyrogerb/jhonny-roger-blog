@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interface Mobiles on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/interface-mobiles/</link>
+    <description>Recent content in Interface Mobiles on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 22 Jun 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/interface-mobiles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Especificação para touch screens</title>
+      <link>http://localhost/jhonny-roger/public/especificacao-para-touch-screens/</link>
+      <pubDate>Wed, 22 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/especificacao-para-touch-screens/</guid>
+      <description>Até alguns anos atrás nós acessávamos a internet apenas utilizando computadores e celulares. Hoje existem aparelhos de diversos tipos. Temos até dispositivos como o Surface, ainda que seu uso seja mais restrito e específico. Mas não demora muito que outros dispositivos surjam e preencham alguma lacuna escondida. O importante é entender que cada aparelho tem sua forma de interação.
+Hoje, as interfaces touch estão maduras e estáveis, que chegam a inspirar as interfaces dos sistemas desktops.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wasp on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/wasp/</link>
+    <description>Recent content in Wasp on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 23 Jun 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/wasp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Web Standards Project – WaSP</title>
+      <link>http://localhost/jhonny-roger/public/web-standards-project-wasp/</link>
+      <pubDate>Mon, 23 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/web-standards-project-wasp/</guid>
+      <description>&lt;p&gt;No início, fabricantes de browsers, W3C e desenvolvedores começaram quase que ao mesmo tempo.&lt;/p&gt;
+
+&lt;p&gt;Neste começo não brotaram desenvolvedores web do chão. Essa profissão não existia. Os primeiros que trabalharam nessa área, migraram de profissões parecidas: quem era programador desktop naquele tempo, começou a programar para web. Quem era designer de impresso, começou a fazer design para web.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

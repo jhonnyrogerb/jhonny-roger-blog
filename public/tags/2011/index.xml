@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2011 on Jhonny Roger</title>
+    <link>http://localhost/jhonny-roger/public/tags/2011/</link>
+    <description>Recent content in 2011 on Jhonny Roger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 22 Dec 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/jhonny-roger/public/tags/2011/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Experiência cross-device</title>
+      <link>http://localhost/jhonny-roger/public/experiencia-cross-device/</link>
+      <pubDate>Thu, 22 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/experiencia-cross-device/</guid>
+      <description>Eu vivo comentando aqui no Tableless sobre o desenvolvimento de sistemas e websites para os diversos meios de acesso. Eu falei sobre esse assunto em diversos artigos. Eu li um artigo chamado The Coming Zombie Apocalypse, escrito por Scott Jenson em abril deste ano. Este artigo me fez perceber que eu estava levando o assunto muito superficialmente, mas que tem muito a ver com o artigo publicado aqui chamado A Experiência deve ter começo, meio e fim.</description>
+    </item>
+    
+    <item>
+      <title>Introdução ao CSS 3D – Flip Card</title>
+      <link>http://localhost/jhonny-roger/public/introducao-ao-css-3d-flip-card/</link>
+      <pubDate>Wed, 21 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-ao-css-3d-flip-card/</guid>
+      <description>O CSS 3D é sem dúvida uma das features do CSS mais aguardadas por todas as crianças do Brasil. Fala a verdade! Fazer efeitozinhos com sombra, gradientes, transparências e etc já foi um dia na vida do desenvolvimento algo bacana. Hoje é muito fora de moda. Carne de vaca, sabe? Por isso o CSS 3D é tão esperado. Ele trará para a web efeitos visuais para layout que antes só viamos em sistemas que rodam em smartphones, tipo um iPhone ou nos sistemas operacionais mais populares como Linux e OSX.</description>
+    </item>
+    
+    <item>
+      <title>Command &amp; Conquer: Tiberium Alliances</title>
+      <link>http://localhost/jhonny-roger/public/commander-conquer-tiberium-alliances/</link>
+      <pubDate>Mon, 19 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/commander-conquer-tiberium-alliances/</guid>
+      <description>Se você é fã de jogos de estratégia já deve conhecer o Command &amp;amp; Conquer. Para ser sincero eu não gostava muito dessa série e por isso joguei muito pouco. Achava tudo muito complicado. 😉
+Mas a notícia interessante é que a EA/Phenomic (os mesmos que desenvolvedoram de Lord of Ultima, BattleForge e Spellforce) vai lançar uma edição do jogo chamada Command &amp;amp; Conquer: Tiberium Alliances e vai ser baseado em HTML5.</description>
+    </item>
+    
+    <item>
+      <title>OOCSS ou CSS do jeito certo</title>
+      <link>http://localhost/jhonny-roger/public/oocss-ou-css-do-jeito-certo/</link>
+      <pubDate>Mon, 19 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/oocss-ou-css-do-jeito-certo/</guid>
+      <description>O conceito Escrever CSS é fácil. Isto não deveria ser um problema, mas é. Por ser fácil os desenvolvedores acabam se esquecendo de princípios básicos, técnicas e metodologias que nos ajudam a manter o controle durante a produção. Entenda que algumas dessas metodologias não precisam ser aplicadas em sites pequenos. Por exemplo, aqui no Tableless eu não modularizo o CSS em vários arquivos por um ou dois motivos: 1) Somente eu tenho acesso ao código.</description>
+    </item>
+    
+    <item>
+      <title>O IE6 vai morrer no Brasil</title>
+      <link>http://localhost/jhonny-roger/public/o-ie6-vai-morrer-no-brasil/</link>
+      <pubDate>Fri, 16 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-ie6-vai-morrer-no-brasil/</guid>
+      <description>Ontem a Microsoft anunciou que em Janeiro vai ativar a atualização automática para os Internet Explorers dos sistemas Windows XP, Vista e Windows 7! E sabe por onde eles começarão a fazer esse milagre? No Brasil e na Austrália. Este é um passo importante para que a web, do mundo, avance mais rápido.
+O mais interessante é a Microsoft está diferente. Ela realmente está colocando o usuário em primeiro lugar. Por exemplo: toda vez que o sistema atualizar a versão do IE, essa atualização não mudará a sua configuração de browser padrão, nem as configurações de buscador, bookmarks, nada.</description>
+    </item>
+    
+    <item>
+      <title>Convencimento e educação = liberdade</title>
+      <link>http://localhost/jhonny-roger/public/convencimento-e-educacao-liberdade/</link>
+      <pubDate>Thu, 15 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/convencimento-e-educacao-liberdade/</guid>
+      <description>Os websites precisam parecer iguais em todos os browsers? Claro que não. Aí você fala assim: &amp;#8220;Diz isso para meu chefe ou meu cliente.&amp;#8221; Eu até posso dizer, mas aí eu estaria fazendo o seu trabalho.
+Uma das obrigações atuais do desenvolvedor client-side é educar e convencer. Não venha me dizer que isso é quase impossível porque eu já sei disso. Mas ninguém disse que é totalmente impossível, correto? Você vai encontrar muitos obstáculos, tenha certeza disso, mas você vai conseguir mudar a web brasileira e a do mundo se fizer isso e fizer bem feito.</description>
+    </item>
+    
+    <item>
+      <title>Mobile First – A arte de pensar com foco</title>
+      <link>http://localhost/jhonny-roger/public/mobile-first-a-arte-de-pensar-com-foco/</link>
+      <pubDate>Tue, 13 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/mobile-first-a-arte-de-pensar-com-foco/</guid>
+      <description>Durante muito tempo especialistas de diversas áreas previram o crescimento do uso dos dispositivos móveis. Demorou um pouco mas a previsão se tornou verdadeira. Hoje todo mundo carrega um pedaço de plástico com uma tela de vidro na mão o dia inteiro&amp;#8230; quase uma extensão de nossos corpos.
+Os dispositivos móveis se tornaram uma febre e vieram para ficar. É a melhor forma de fazer a inclusão digital para aqueles que não tem uma forma de ter um notebook ou um desktop em casa.</description>
+    </item>
+    
+    <item>
+      <title>Experiência deve ter começo, meio e fim</title>
+      <link>http://localhost/jhonny-roger/public/experiencia-deve-ter-comeco-meio-e-fim/</link>
+      <pubDate>Mon, 28 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/experiencia-deve-ter-comeco-meio-e-fim/</guid>
+      <description>Esse artigo pode parecer meio confuso, mas é apenas um pensamento que estive matutando. Não ligue se a ordem das ideias estiverem tortas e sinuosas. 😉
+Tive uma experiência muito ruim no primeiro dia de 2010: pulei na piscina com meu iPhone no bolso.
+Ok, pode me xingar agora.
+Depois da tragédia, ele durou rápidos 5 segundos, e faleceu. Não ligava, não apitava, não fazia nada. &amp;#8220;Paciência&amp;#8221;, falei para mim mesmo.</description>
+    </item>
+    
+    <item>
+      <title>Utilizando a Biblioteca Modernizr</title>
+      <link>http://localhost/jhonny-roger/public/utilizando-a-biblioteca-modernizr/</link>
+      <pubDate>Mon, 17 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/utilizando-a-biblioteca-modernizr/</guid>
+      <description>Problemas de compatibilidade Quando produzimos um site os problemas de compatibilidade fazem parte da regra do jogo. Para tentar contornar estes problemas utilizamos hacks, comentários condicionais, sniffing de browsers e outras coisas, que muitas vezes mais prejudicam do que ajudam.
+Para ajudar mais ainda o CSS3 e o HTML5 apareceram derrubando tudo, e o problema de compatibilidade que já era chato, ficou mais chato que meia molhada. Embora os browsers estejam muito mais atuais e suportando propriedades avançadas de CSS3 e HTML5, não é garantia que todos eles suportem as mesmas propriedades.</description>
+    </item>
+    
+    <item>
+      <title>Biblioteca CSS ou Framework?</title>
+      <link>http://localhost/jhonny-roger/public/biblioteca-css-ou-framework/</link>
+      <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/biblioteca-css-ou-framework/</guid>
+      <description>Primeiro você precisa entender a diferença entre os dois. A Talita Pagani em um dos seus artigos descreve o que é um framework assim:
+ Framework é um conjunto de componentes que provêm uma estrutura básica de elementos reutilizáveis, tendo uma arquitetura consistente de funcionalidade genérica sob a qual a aplicação será construída.
+ O uso de uma Biblioteca (CSS, Javascript, etc) é bastante parecido com a utilização de um framework.</description>
+    </item>
+    
+    <item>
+      <title>Lendo um arquivo de texto com AJAX</title>
+      <link>http://localhost/jhonny-roger/public/lendo-um-arquivo-de-texto-com-ajax/</link>
+      <pubDate>Wed, 14 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/lendo-um-arquivo-de-texto-com-ajax/</guid>
+      <description>Inicio mostrando como realizar uma requisição de arquivos de texto com AJAX.
+Em tempos de Web 2.0, não podemos pensar mais em sites que usem requisições síncronas para rotinas de interação com o usuário.
+Uma das técnicas mais utilizadas para esse fim é o AJAX &amp;#8211; Assynchronous Javascript and XML.
+De uma forma resumida e sem muito &amp;#8220;tecniquês&amp;#8221;, AJAX é a captura de informações sem a necessidade de recarregamento da estrutura do documento HTML a cada requisição ao servidor web.</description>
+    </item>
+    
+    <item>
+      <title>Nem só de client-side vive um site</title>
+      <link>http://localhost/jhonny-roger/public/nem-so-de-client-side-vive-um-site/</link>
+      <pubDate>Sun, 28 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/nem-so-de-client-side-vive-um-site/</guid>
+      <description>Artigo publicado originalmente na revista Wide em Janeiro/Fevereiro de 2011.
+Estou feliz porque o mercado de client-side tem amadurecido de forma inteligente no Brasil. Empresas mais espertas entenderam a importância do código HTML/CSS/ JavaScript bem escrito. O problema é que grande parte das empresas, clientes e desenvolvedores acham que o trio HTML/CSS/JavaScript faz milagres. É certo pensar que um código bem escrito traz grandes vantagens para o projeto, mas ele sozinho não faz milages.</description>
+    </item>
+    
+    <item>
+      <title>Introdução ao Responsive Web Design</title>
+      <link>http://localhost/jhonny-roger/public/introducao-ao-responsive-web-design/</link>
+      <pubDate>Mon, 15 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/introducao-ao-responsive-web-design/</guid>
+      <description>Você já deve ter ouvido falar sobre Responsive Web Design. Você pode ler sobre isso aqui e aqui.
+Até pouco tempo atrás tínhamos praticamente apenas um meio de acessar a internet, que era pelo desktop. Podíamos acessar mal e porcamente a internet pelos celulares ou por outros aparelhos ligados a televisão etc, mas nenhum destes meios nos permitia acessar a internet com a facilidade que tínhamos quando utilizávamos um desktop.</description>
+    </item>
+    
+    <item>
+      <title>RGB e HSL</title>
+      <link>http://localhost/jhonny-roger/public/rgb-e-hsl/</link>
+      <pubDate>Mon, 27 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/rgb-e-hsl/</guid>
+      <description>A manipulação de cores no HTML nunca foi muito flexível. No começo escolhíamos as cores escrevendo seus nomes por extenso. Os nomes eram padrões eram: black, blue, yellow, green, olive, maroon, fuchsia, red, white, silver, navy, teal, purple, lime, gray, aqua. Na década de 80 houve um acréscimo de 131 novas cores com nomes estranhos chamada X11. Estes nomes foram adotados pelos primeiros browsers tem sido suportados até hoje. Há nomes como mintcream, moccasin, navajowhite, powderblue, springgreen entre outros&amp;#8230; O W3C ainda mantém uma lista completa com os nomes destas cores aqui.</description>
+    </item>
+    
+    <item>
+      <title>Especificação para touch screens</title>
+      <link>http://localhost/jhonny-roger/public/especificacao-para-touch-screens/</link>
+      <pubDate>Wed, 22 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/especificacao-para-touch-screens/</guid>
+      <description>Até alguns anos atrás nós acessávamos a internet apenas utilizando computadores e celulares. Hoje existem aparelhos de diversos tipos. Temos até dispositivos como o Surface, ainda que seu uso seja mais restrito e específico. Mas não demora muito que outros dispositivos surjam e preencham alguma lacuna escondida. O importante é entender que cada aparelho tem sua forma de interação.
+Hoje, as interfaces touch estão maduras e estáveis, que chegam a inspirar as interfaces dos sistemas desktops.</description>
+    </item>
+    
+    <item>
+      <title>CSS3 – Sombras em textos e elementos</title>
+      <link>http://localhost/jhonny-roger/public/css3-sombras-em-textos-e-elementos/</link>
+      <pubDate>Thu, 16 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css3-sombras-em-textos-e-elementos/</guid>
+      <description>Uma das vantagens mais interessantes que o CSS3 nos dá é a possibilidade de cada vez menos abrirmos o Photoshop. Não precisamos mais abrir o Photoshop para criar bordas arredondadas, gradientes e agora até mesmo sombras. Agora temos a possibilidade de inserirmos sombras em textos e em elementos. As propriedades tem nomes diferentes mas a mesma sintaxe. Veja abaixo:
+[cc lang=&amp;#8221;html&amp;#8221;]
+p {
+text-shadow: 5px 5px 5px rbga(0,0,0,0.5);
+box-shadow: 5px 5px 5px rgba(0,0,0,0.</description>
+    </item>
+    
+    <item>
+      <title>CSS3 – Módulo Template Layout</title>
+      <link>http://localhost/jhonny-roger/public/css3-modulo-template-layout/</link>
+      <pubDate>Mon, 30 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css3-modulo-template-layout/</guid>
+      <description>Talvez você me chame de louco, mas para mim a parte mais fácil de desenvolver um site com CSS é o planejamento e diagramação do layout. Coincidentemente é a parte que mais os desenvolvedores tem problemas crossbrowser ou por falta de recursos mais avançados. Mas se você parar para pensar, apenas uma propriedade cuida dessa parte, que é a propriedade float. De longe, para mim, o float é a propriedade mais importante que há no CSS.</description>
+    </item>
+    
+    <item>
+      <title>Interface Guide para Apps Mobiles</title>
+      <link>http://localhost/jhonny-roger/public/interface-guide-para-apps-mobiles/</link>
+      <pubDate>Thu, 26 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/interface-guide-para-apps-mobiles/</guid>
+      <description>Um dos sucessos dos Apps da Apple, tanto para mobiles quanto para desktops é a fidelidade e respeito que os desenvolvedores e designers tem ao seguir os padrões de interface que a Apple dispõe. São guias com informações importantes para que o App tenha um layout mais adequado e homogêneo com o sistema operacional. Dessa maneira o usuário final não se sente em um ambiente hostil e desconhecido.
+Separei 3 guias para que você, independente da sua área de atuação, leia e compreenda mais os padrões dos três principais sistemas operacionais para mobiles existentes: Android, iOS e Windows Phone.</description>
+    </item>
+    
+    <item>
+      <title>Em tempo de transição, quais recursos utilizar?</title>
+      <link>http://localhost/jhonny-roger/public/em-tempo-de-transicao-quais-recursos-utilizar/</link>
+      <pubDate>Tue, 24 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/em-tempo-de-transicao-quais-recursos-utilizar/</guid>
+      <description>HTML 5, CSS3, IE9, Firefox 4&amp;#8230; enfim, siglas, nomes e versões que não param de pipocar nos tweets, posts, artigos, e em todos os lugares dentro do nosso universo do desenvolvimento web e automaticamente nos perguntamos &amp;#8211; como traçar nosso trabalho nesta época de transição? O que é certo? O que é errado?
+Graciosamente retroceder ou progressivamente evoluir? A melhor análise antes de decidir qual caminho tomar e a qual evolução recorrer vem do planejamento de seu projeto.</description>
+    </item>
+    
+    <item>
+      <title>Posts Formats do WordPress</title>
+      <link>http://localhost/jhonny-roger/public/posts-formats-do-wordpress/</link>
+      <pubDate>Wed, 18 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/posts-formats-do-wordpress/</guid>
+      <description>O WordPress depois de sua atualização para versão 3.1, trouxe uma função de Formato nos Posts, que consiste em personalizar a visualização do post. É uma funcionalidade para temas, que oferece uma lista de formatos que estão disponíveis. São suportados os seguintes formatos:
+ aside gallery link image quote status video audio chat  Esses formatos são padrões, até hoje não se tem maneiras para criar um novo tipo de formato.</description>
+    </item>
+    
+    <item>
+      <title>CSS3 – Animation e regra keyframe</title>
+      <link>http://localhost/jhonny-roger/public/css3-animation-keyframe/</link>
+      <pubDate>Mon, 09 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css3-animation-keyframe/</guid>
+      <description>A propriedade trasition trabalha de forma muito simples e flexível. Você praticamente diz para o browser qual o valor inicial e o valor final para que ele aplique a transição automaticamente, controlamos praticamente apenas o tempo de execução. Para termos mais controle sobre a animação temos a propriedade animation que trabalha juntamente com a rule keyframe.
+Basicamente você consegue controlar as características do objeto e suas diversas transformações definindo fases da animação.</description>
+    </item>
+    
+    <item>
+      <title>CSS 3 – O valor currentColor</title>
+      <link>http://localhost/jhonny-roger/public/css-3-o-valor-currentcolor/</link>
+      <pubDate>Mon, 02 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css-3-o-valor-currentcolor/</guid>
+      <description>O valor currentColor é muito simples de se entender e pode ser muito útil para diminuirmos o retrabalho em alguns momentos da produção. Imagine que o currentColor é uma variável cujo seu valor é definido pelo valor da propriedade color do seletor. Veja o código abaixo:
+p { background:red; padding:10px; font:13px verdana; color: green; border:1px solid green; }  Note que o valor da propriedade color é igual ao valor da cor da propriedade border.</description>
+    </item>
+    
+    <item>
+      <title>CSS3 – Breve introdução ao RGBA</title>
+      <link>http://localhost/jhonny-roger/public/css3-breve-introducao-a-rgba/</link>
+      <pubDate>Mon, 02 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css3-breve-introducao-a-rgba/</guid>
+      <description>Introdução ao RGB Normalmente em web trabalhamos com cores na forma de hexadecimal. É a forma mais comum e mais utilizada desde os primórdios do desenvolvimento web. Mesmo assim, há outros formatos menos comuns que funcionam sem problemas, um destes formatos é o RGB. O RGB são 3 conjuntos de números que começam no 0 e vão até 255 (0% até 100%), onde o primeiro bloco define a quantidade de vermelho (Red), o segundo bloco a quantidade de verde (Green) e o último bloco a quantidade de azul (Blue).</description>
+    </item>
+    
+    <item>
+      <title>Pontuação de especificidade da CSS</title>
+      <link>http://localhost/jhonny-roger/public/pontuacao-especificidade-css/</link>
+      <pubDate>Mon, 25 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/pontuacao-especificidade-css/</guid>
+      <description>Você pode ler algo sobre herança e especificadade do CSS aqui. O problema é que nesse artigo eu não explico muito sobre a pontuação da especificidade do CSS. Como que o browser calcula qual propriedade é mais especifica que outra?
+Para que serve? A graça do CSS é que você pode manipular os estilos de diversos elementos com pouco esforço. Se você quer modificar a font de todos os parágrafos ou títulos do seu site é simples de se fazer mudando um parâmetro da linha onde é definida a propriedade font.</description>
+    </item>
+    
+    <item>
+      <title>Drops 5 – Responsabilidade Dev Front-end</title>
+      <link>http://localhost/jhonny-roger/public/drops-5-responsabilidade-dev-front-end/</link>
+      <pubDate>Wed, 20 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/drops-5-responsabilidade-dev-front-end/</guid>
+      <description>Qual a responsabilidade do desenvolvedor front-end? Ele precisa ser designer? Tem que aprender a programar?
+Se preferir faça o download do arquivo em Mp3 ou OGA.  Veja todos os nossos drops no Soundcloud.
+Se preferir faça o download do arquivo em Mp3 ou OGA. Ou inscreva no iTunes. Feed direto dos Podcasts.</description>
+    </item>
+    
+    <item>
+      <title>Manipulando a metatag Viewport</title>
+      <link>http://localhost/jhonny-roger/public/manipulando-metatag-viewport/</link>
+      <pubDate>Mon, 18 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/manipulando-metatag-viewport/</guid>
+      <description>O viewport é a área onde seu website aparece. É a área branca da janela quando você abre o browser. O viewport sempre vai ter o tamanho da janela. Mas a forma como os elementos são renderizados vai depender bastante do dispositivo. Em máquinas desktop nós não precisamos nos preocupar muito, já estamos acostumados com um determinado tamanho de tela e resolução média utilizada pelos usuários. Mas quando começamos a variar muito o tamanho das telas, a largura do viewport começa a ser uma preocupação porque afeta diretamente a forma como o usuário utiliza seu website.</description>
+    </item>
+    
+    <item>
+      <title>Tags Condicionais do WordPress</title>
+      <link>http://localhost/jhonny-roger/public/tags-condicionais-do-wordpress/</link>
+      <pubDate>Tue, 12 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/tags-condicionais-do-wordpress/</guid>
+      <description>As Tags Condicionais são funções próprias do WordPress capazes de manipular todo o conteúdo de sua página. Com elas, você ganha aquele tempo que iria perder criando aquelas condições para retornar seus valores de maneira personalizada. Geralmente retornam o valor em Booleano, ou seja, TRUE (verdadeiro) ou FALSE (falso).
+Como usar? [cce lang=&amp;#8221;php&amp;#8221;]
+&amp;lt;?php if(tag_condicional()){ //se verdadeiro, retorne isso }else{ //se falso, retorne isso } ?&amp;gt;
+[/cce]
+Tags que podem receber parâmetros dentro de sua função, ex:</description>
+    </item>
+    
+    <item>
+      <title>Ferramentas de diagnóstico</title>
+      <link>http://localhost/jhonny-roger/public/ferramentas-de-diagnostico/</link>
+      <pubDate>Mon, 11 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/ferramentas-de-diagnostico/</guid>
+      <description>Se você escreve CSS e HTML provavelmente tem problemas de compatibilidade e visualização. Isso é normal, acontece com os melhores desenvolvedores. Quando isso acontece, o melhor a se fazer é um trabalho investigativo. Esse trabalho normalmente é ingrato porque você demora horas investigando o seu código para encontrar o erro e geralmente esse erro é solucionado com uma linha de código. Para você descobrir qual é essa linha, você precisa de ferramentas que te ajudem a decifrar todo o problema.</description>
+    </item>
+    
+    <item>
+      <title>CSS3 com PIE – bordas, sombras e gradiente</title>
+      <link>http://localhost/jhonny-roger/public/css3-bordas-arredondadas-sombras-e-gradiente/</link>
+      <pubDate>Mon, 04 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css3-bordas-arredondadas-sombras-e-gradiente/</guid>
+      <description>Apesar das incompatibilidades entre browsers, utilizar as novas ou modificadas propriedades em folhas de estilo na versão 3 virou motivo de testes e de implementação das modificações que tanto almejamos no desenvolvimento web. Junto como HTML 5, o uso de CSS3 resultará em facilidades na criação de estruturas semânticas e válidas bem como melhor planejadas visualmente e com velocidade de carregamento reduzida, mas enquanto ainda não o colocamos em prática com HTML5, neste processo de transição em que nos encontramos já podemos utilizar algumas propriedades de CSS3 com os navegadores de mercado, ainda que com o uso de scripts externos para tanto.</description>
+    </item>
+    
+    <item>
+      <title>jQuery: seletores personalizados</title>
+      <link>http://localhost/jhonny-roger/public/jquery-seletores-personalizados/</link>
+      <pubDate>Wed, 30 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/jquery-seletores-personalizados/</guid>
+      <description>Um seletor pode ser composto de uma ou mais classes, atributos ou expressões e sua chamada retorna um conjunto de objetos que atendem suas regras.
+[cce lang=&amp;#8221;javascript&amp;#8221;]
+// seleciona todos os elementos 
+$(&amp;#8216;a&amp;#8217;)
+// seleciona todas as células com a classe projeto
+$(&amp;#8216;td.projeto&amp;#8217;)
+// seleciona todas as imagens com o source &amp;#8220;default.jpg&amp;#8221;
+$(&amp;#8216;img[src=&amp;#8221;default.jpg&amp;#8221;]&amp;#8217;)
+// seleciona todas as linhas diretamente filhas de uma table/tbody
+$(&amp;#8216;table &amp;gt; tbody &amp;gt; tr&amp;#8217;)
+// seleciona o primeiro parágrafo da página</description>
+    </item>
+    
+    <item>
+      <title>Custom Post Types no WordPress</title>
+      <link>http://localhost/jhonny-roger/public/custom-post-types-wordpress/</link>
+      <pubDate>Tue, 29 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/custom-post-types-wordpress/</guid>
+      <description>Custom Post Types é a função que manipula os tipos de conteúdo no WordPress, ou seja, pode-se criar conteúdos personalizados a partir da sua demanda. Isso é uma das provas mais concretas que temos hoje um CMS muito forte que não serve apenas para criar blog e/ou sites de pequeno porte.
+Criando Custom Post Types Como o assunto é muito amplo, criarei com vocês um exemplo de Notícias.
+Em functions.</description>
+    </item>
+    
+    <item>
+      <title>Múltiplos backgrounds com CSS</title>
+      <link>http://localhost/jhonny-roger/public/multiplos-backgrounds-com-css/</link>
+      <pubDate>Mon, 28 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/multiplos-backgrounds-com-css/</guid>
+      <description>Uma das features mais esperadas por mim é sem dúvida a possibilidade de podermos definir múltiplos backgrounds via CSS. Chega de elementos extras e gambiarras. No CSS3 a propriedade background ganha várias funções, dentro elas a possibilidade de definirmos várias imagens como background em um único elemento.
+A sintaxe é muito simples. Na verdade, é idêntica a sintaxe existente. Segue abaixo:
+[cc lang=&amp;#8221;css&amp;#8221;]
+div {
+width:600px;
+height:500px;
+border:1px solid black;</description>
+    </item>
+    
+    <item>
+      <title>Novo parser HTML5 – FF4</title>
+      <link>http://localhost/jhonny-roger/public/parser-html5-firefox4/</link>
+      <pubDate>Mon, 28 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/parser-html5-firefox4/</guid>
+      <description>O Firefox é o meu browser favorito embora não seja meu browser padrão atualmente. Durante muito tempo ele me segurava com suas extensions exclusivas. Os outros browsers demoraram para ter uma coleção aceitável de extensions que realmente competissem com as do Firefox.
+Foi lançado na semana passada o Firefox 4.0 que trouxe uma série de mudanças interessantes. Uma das atualizações mais importantes foi o &amp;#8220;redesign&amp;#8221; do parser de HTML5.</description>
+    </item>
+    
+    <item>
+      <title>CSS3 – Abas com a pseudo-classe :target</title>
+      <link>http://localhost/jhonny-roger/public/css3-abas-com-a-pseudo-classe-target/</link>
+      <pubDate>Mon, 21 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css3-abas-com-a-pseudo-classe-target/</guid>
+      <description>O CSS está cada vez mais facilitando as coisas. Alguns problemas que eram resolvidos apenas via Javascript já podem ser resolvidos inteiramente com CSS. Obviamente que para alguns browsers temos que usar algum script para conseguir a compatibilidade. Mesmo assim, se for já possível utilizar as novas maravilhas do CSS 3 e outras compatibilidades que estão surgindo do CSS 2.1, faça-o já. Você com certeza vai se agradecer um tempo próximo!</description>
+    </item>
+    
+    <item>
+      <title>Convertidos do Tableless</title>
+      <link>http://localhost/jhonny-roger/public/convertidos-tableless/</link>
+      <pubDate>Mon, 21 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/convertidos-tableless/</guid>
+      <description>Quem acompanha o Tableless desde o começo conhece a história de como este humilde website nasceu. Eu estudava e aprendia CSS com HTML de uma única maneira: praticando. Eu convertia para tableless a home de alguns grandes sites just for fun. Só para provar que a técnica era real, possível e muito melhor que tabelas. O Tableless nasceu quando eu decidi compartilhar este material para outros desenvolvedores.
+Este material não estava publicado porque uma das empresas que eu utilizei como estudo me mandou uma simpática carta extrajudicial dizendo que eu estava fazendo cópia indevida e todo aquele blá blá blá e que eu devia tirar o materia deles imediatamente do ar&amp;#8230; Eles com certeza não eram bem humorados.</description>
+    </item>
+    
+    <item>
+      <title>Comportamento e meios de acesso</title>
+      <link>http://localhost/jhonny-roger/public/comportamento-meios-acesso/</link>
+      <pubDate>Fri, 18 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/comportamento-meios-acesso/</guid>
+      <description>Ainda lembro quando comprei meu primeiro smartphone. Odiava navegar naquilo. Eu estava acostumado a utilizer a internet em desktops, com telas grandes e confortáveis. Os sites também não ajudavam. Praticamente nenhum site tinha versão mobile ou uma que funcionasse direito. O Opera tentava fazer a parte dos desenvolvedores, tentando manipular o site para que ele fosse melhor visto em telas menores. Era bom, mas não o ideal.
+Hoje o cenário é diferente.</description>
+    </item>
+    
+    <item>
+      <title>Otimizando seu site em WordPress para SEO</title>
+      <link>http://localhost/jhonny-roger/public/otimizando-site-wordpress-seo/</link>
+      <pubDate>Thu, 17 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/otimizando-site-wordpress-seo/</guid>
+      <description>Uma característica que defina o WordPress é a customização. Em poucas linhas conseguimos soluções significantes. Seja trabalhando com suas funções ou com seus plugins, temos resultados objetivos para preparar um Blog e até mesmo um site de grande porte, como temos hoje, vários exemplos disso.
+Elogiam muito o WordPress por ele ter uma facilidade para otimização de sites (SEO). Antes de começarem a ler as dicas que vou citar, faça a seguinte reflexão: O que é um site hoje, sem ser bem indexado pelos mecanismos de busca?</description>
+    </item>
+    
+    <item>
+      <title>PDF – Browsers antigos: guerra contra o terror</title>
+      <link>http://localhost/jhonny-roger/public/browsers-antigos-guerra-contra-o-terror/</link>
+      <pubDate>Wed, 09 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/browsers-antigos-guerra-contra-o-terror/</guid>
+      <description>É muito difícil tomar a decisão de não suportar browsers antigos. Sempre há diversas desculpas, mas dependendo da empresa ou da popularidade do site/serviço, mesmo uma pequena porcentagem pode significar milhões de usuários usando browsers antigos ou que não tem um bom suporte de Padrões Web. Simplesmente ignorar algumas centenas de milhares de usuários não é algo muito aceitável. O ponto é que você não precisa ignorar estes valiosos 1%. Mas também não precisa gastar milhões nem perder muito tempo tentando resolver os problemas causados pelos browsers antigos que estes usuários usam.</description>
+    </item>
+    
+    <item>
+      <title>The IE6 Countdown – O ultimato da Microsoft</title>
+      <link>http://localhost/jhonny-roger/public/the-ie6-countdown-ultimato-microsoft/</link>
+      <pubDate>Sun, 06 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/the-ie6-countdown-ultimato-microsoft/</guid>
+      <description>A Microsoft acaba de publicar um website chamado IE6 Countdown, onde ela incentiva a descontinuação do Internet Explorer 6. Esqueça qualquer campanha iniciada por qualquer um&amp;#8230; Essa campanha é definitiva e iniciada pela própria Microsoft. Claro, a Microsoft está fazendo com que os usuários migrem do IE6 para o IE8. Ela não indica nenhum outro browser concorrente. Mas realmente isso não importa&amp;#8230; O que importa é que os usuários ouçam a voz da Microsoft e parem, defintivamente de utilizar o Internet Explorer.</description>
+    </item>
+    
+    <item>
+      <title>Criando Menus no WordPress</title>
+      <link>http://localhost/jhonny-roger/public/criando-menus-no-wordpress/</link>
+      <pubDate>Wed, 02 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-menus-no-wordpress/</guid>
+      <description>Depois da versão 3.0, a criação de menus no WordPress tornou-se muito importante, pois se utiliza um gerenciador para reproduzir as informações do menu. No menu, pode-se criar links, integrar páginas e páginas de arquivo.
+Habilitando e registrando o menu Em functions.php do seu tema, adicione:
+[cce lang=&amp;#8221;php&amp;#8221;]
+if ( function_exists( &amp;#8216;register_nav_menu&amp;#8217; ) ) {
+register_nav_menu( &amp;#8216;meu_menu&amp;#8217;, &amp;#8216;Este é meu primeiro menu&amp;#8217; );
+register_nav_menu( &amp;#8216;segundo_menu&amp;#8217;, &amp;#8216;Este é meu segundo menu&amp;#8217; );</description>
+    </item>
+    
+    <item>
+      <title>Drops 3 – Duas formas de modular seu CSS</title>
+      <link>http://localhost/jhonny-roger/public/drops3-modular-css/</link>
+      <pubDate>Mon, 28 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/drops3-modular-css/</guid>
+      <description>Existem várias formas de modular seu CSS, vou citar duas delas. A primeira delas é modulando seu código por página. A segunda é modulando por áreas do site.
+Se preferir faça o download do arquivo em Mp3 ou OGA.  Veja todos os nossos drops no Soundcloud.
+Se preferir faça o download do arquivo em Mp3 ou OGA. Ou inscreva no iTunes.</description>
+    </item>
+    
+    <item>
+      <title>HTML 5, novos elementos e atributos.</title>
+      <link>http://localhost/jhonny-roger/public/html-5-novos-elementos-e-atributos/</link>
+      <pubDate>Mon, 28 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/html-5-novos-elementos-e-atributos/</guid>
+      <description>Tags, mídia, interação usuário x website, relevância nos resultados de busca, usabilidade e acessibilidade são as grandes definições do poder de transformação que o HTML 5 promete estabelecer quando desenvolvedores web puderem utilizá-lo e como já mencionado em outro artigo, especializações na área devem surgir com esta nova versão, ou seja, você terá a possibilidade de escolher em qual das vertentes citadas acima vai deter maior conhecimento. Ainda assim, é fato que a construção de códigos para interfaces continuará sendo tarefa geral do desenvolvedor Front-End e saber quais tags utilizar e de que forma as utilizar continuará sendo conhecimento básico no desenvolvimento de códigos de marcação.</description>
+    </item>
+    
+    <item>
+      <title>Drops 2 – A palavra Marcação do HTML</title>
+      <link>http://localhost/jhonny-roger/public/drops-2-a-palavra-marcacao-do-html/</link>
+      <pubDate>Mon, 31 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/drops-2-a-palavra-marcacao-do-html/</guid>
+      <description>Você já parou para pensar o que significa a palavra marcação da abreviação do HTML?
+Se preferir faça o download do arquivo em Mp3 ou OGA.  Veja todos os nossos drops no Soundcloud.
+Se preferir faça o download do arquivo em Mp3 ou OGA. Ou inscreva no iTunes.</description>
+    </item>
+    
+    <item>
+      <title>Boas práticas na estruturação de interfaces.</title>
+      <link>http://localhost/jhonny-roger/public/boas-praticas-na-estruturacao-de-interfaces/</link>
+      <pubDate>Mon, 24 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/boas-praticas-na-estruturacao-de-interfaces/</guid>
+      <description>Ao iniciar um novo projeto, precisamos estabelecer um planejamento de tempo de trabalho X modelo de trabalho. Em geral, não há uma regra estabelecida, pois muitos desenvolvedores Front-End acabam por utilizar suas próprias lógicas de estruturação de códigos levando em consideração qualidade em menor tempo.
+Conforme vamos adquirido experiência na área, acabamos assimilando e adotando os métodos utilizados na empresa ou agência em que trabalhamos somados à troca de experiência com os outros profissionais.</description>
+    </item>
+    
+    <item>
+      <title>O básico: O que é HTML?</title>
+      <link>http://localhost/jhonny-roger/public/o-que-html-basico/</link>
+      <pubDate>Fri, 21 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/o-que-html-basico/</guid>
+      <description>HTML é uma das linguagens que utilizamos para desenvolver websites. O acrônimo HTML vem do inglês e significa Hypertext Markup Language ou em português Linguagem de Marcação de Hipertexto.
+O HTML é a liguagem base da internet. Foi criada para ser de fácil entendimento por seres humanos e também por máquinas, como por exemplo o Google ou outros sistemas que percorrem a internet capturando informação.
+Quem criou o HTML? Tim Berners-Lee.</description>
+    </item>
+    
+    <item>
+      <title>Criando Sidebar Dinâmica no WordPress</title>
+      <link>http://localhost/jhonny-roger/public/criando-sidebar-dinamica-no-wordpress/</link>
+      <pubDate>Tue, 18 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/criando-sidebar-dinamica-no-wordpress/</guid>
+      <description>O WordPress disponibiliza uma função para criar sidebars de forma dinâmica, onde no painel de administração podemos gerenciar todos os Widgets disponíveis ou Widgets instalados.
+Essa função, mais uma vez, sai na frente e contribui para o WordPress ser esse CMS tão poderoso para os desenvolvedores e os usuários que o utilizam.
+De início iremos registrar a sidebar. Para isso coloque esse código em functions.php:
+[cc lang=&amp;#8221;php&amp;#8221;]
+/* Registando a primeira sidebar*/</description>
+    </item>
+    
+    <item>
+      <title>Adicionando Post Thumbnail</title>
+      <link>http://localhost/jhonny-roger/public/adicionando-post-thumbnail/</link>
+      <pubDate>Mon, 17 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/adicionando-post-thumbnail/</guid>
+      <description>Ativando o suporte ao Post Thumbnails em seu tema Antes de qualquer coisa, volto a lembrar que essa característica é do tema. Pode ser que alguns autores não ativem esse suporte. Para iniciar, adicione este seguinte código no arquivo functions.php:
+[cc lang=&amp;#8221;php&amp;#8221;]
+[/cc]
+Para ativar o suporte só é necessário este código. Bacana, né? O WordPress faz com que em poucas linhas de código possamos obter soluções significantes.
+A condição verifica se a função &amp;#8216;add_theme_support&amp;#8217; existe, caso ela exista, adicionamos um suporte ao nosso tema, que é o Post Thumbnails.</description>
+    </item>
+    
+    <item>
+      <title>Drops 1 – HTML5 já pode ser usado</title>
+      <link>http://localhost/jhonny-roger/public/drops-1-html5-ja-pode-ser-usado/</link>
+      <pubDate>Mon, 17 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/drops-1-html5-ja-pode-ser-usado/</guid>
+      <description>Você já pode usar o HTML5. Talvez não os 100% das maravilhas que ele te proporciona, mas pelo menos, nivelando por baixo, as tags já podem ser usadas.
+Saiba mais ouvindo nosso primeiro drops de 2011.
+Se preferir faça o download do arquivo em Mp3 ou OGA.  -- Veja nossos Drops aqui no Soundcloud.
+Se preferir faça o download do arquivo em Mp3 ou OGA. Ou inscreva no iTunes.</description>
+    </item>
+    
+    <item>
+      <title>Carrinho de compras com drag and drop</title>
+      <link>http://localhost/jhonny-roger/public/carrinho-de-compras-com-drag-and-drop/</link>
+      <pubDate>Thu, 13 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/carrinho-de-compras-com-drag-and-drop/</guid>
+      <description>Se você comprou alguma coisa recentemente no Submarino deve ter notado uma nova opção na interface do site: agora é possível arrastar os produtos exibidos na página para o seu carrinho, que fica exibido de forma permanente no topo do site.
+De uma forma simples, vou tentar mostrar pra vocês como implementar uma solução parecida utilizando jQuery e sua biblioteca para interfaces, a jQuery UI &amp;#8211; é nela que encontramos os plugins draggable() e droppable(), responsáveis, como os nomes sugerem, por toda nossa operação de arrastar e soltar produtos.</description>
+    </item>
+    
+    <item>
+      <title>CSS Transforms</title>
+      <link>http://localhost/jhonny-roger/public/css-transforms/</link>
+      <pubDate>Mon, 10 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/css-transforms/</guid>
+      <description>O W3C descreve CSS Transform assim:
+ CSS 2D Transforms allow elements rendered by CSS to be trans- formed in two-dimensional space.
+ Há dois tipos de CSS Transforms: no formato 2D e 3D. Veremos aqui apenas o formato 2D que é o que tem mais suporte entre os browsers. Testaremos com Firefox 4, Safari 5 e Opera 10.5. Perceba que o código estará com o prefixo de cada browser para que não haja problemas em browsers que não reconheçam as propriedades que iremos aplicar.</description>
+    </item>
+    
+    <item>
+      <title>2011: um grande ano</title>
+      <link>http://localhost/jhonny-roger/public/2011-um-grande-ano/</link>
+      <pubDate>Thu, 30 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/jhonny-roger/public/2011-um-grande-ano/</guid>
+      <description>Indiscutivelmente HTML5 e CSS3 foram as grandes novidades do ano de 2010. Começamos a utilizar recursos que nunca havíamos (pelo menos eu) imaginado utilizar tão cedo. Para mim, só faríamos gradiente via CSS daqui uns 5 anos. Sem contar com CSS Columns, inserção de áudio e vídeo, canvas e SVG. Manipulação do histórico de sessão e local storage eram como Ferraris: só em sonho. Hoje, tudo isso é possível. De uma maneira ou de outra, funcionando ou não funcionando nos IEs antigos (7 e 8), é possível.</description>
+    </item>
+    
+  </channel>
+</rss>
