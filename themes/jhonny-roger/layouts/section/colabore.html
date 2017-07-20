@@ -1,0 +1,37 @@
+{{ partial "header.html" . }}
+<style type="text/css">
+	#sd-header{
+		position: relative !important;
+		z-index: 1 !important
+	}
+</style>
+<section id="sd-main-post" class="sd-is-post">
+	<h1>
+		<a href="{{ .RelPermalink }}">
+			Área de Colaboração
+		</a>
+	</h1>
+</section>
+<section id="sd-area-colaboracao">
+	<textarea hidden="" id="sd-text-area">
+		---  
+		title: "O básico sobre Sparql e Turtle"  
+		categories:  
+		- Web Semântica  
+		- HTML  
+		excerpt: Entendendo um pouco sobre serialização RDF com Turtle e criando queries simples com   
+		Sparql  
+		image: http://imgh.us/pexels-photo-245618.jpeg  
+		type: "post"  
+		author: Diego Eis  
+		date: "2017-05-07T16:10:22-03:00"  
+		---
+	</textarea>
+</section>
+
+
+{{ partial "footer.html" . }}
+
+
+
+

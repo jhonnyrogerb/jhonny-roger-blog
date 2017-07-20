@@ -1,9 +1,8 @@
 DefaultContentLanguage = "pt-br"
 title = "Jhonny Roger"
-baseURL = "http://localhost/jhonny-roger/public/"
+baseURL = "http://sejedev.com/"
 theme = "jhonny-roger"
-
-#enableRobotsTXT = "true"
+enableRobotsTXT = "true"
 
 [params]
     siteName = "Jhonny Roger"

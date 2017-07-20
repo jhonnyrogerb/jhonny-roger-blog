@@ -16,10 +16,14 @@
 				<li><a href="{{ .Site.BaseURL}}categories/nodejs">Artigos</a></li>
 				<li><a href="{{ .Site.BaseURL}}categories/jquery">Noticias</a></li>
 				<li><a href="{{ .Site.BaseURL}}categories/jquery">Projetos</a></li>
-				<li><a href="{{ .Site.BaseURL}}categories/jquery">Colabore</a></li>
+				<li><a href="{{ .Site.BaseURL}}/colabore/">Colabore</a></li>
 			</ul>
 		</nav>
 		<form action="#" id="sd-search-form">
-			<input type="search" name="search" placeholder="Faça a sua busca!">
+			<input type="search" name="search" id="search-input" placeholder="Faça a sua busca!">
+			<div id="search-results">
+				<ul></ul>
+			</div>
 		</form>
 	</header>
+	

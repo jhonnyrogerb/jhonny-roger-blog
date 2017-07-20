@@ -1,0 +1,34 @@
+{{ partial "header.html" . }}
+
+<section id="sd-main-post" class="sd-is-post">
+    <h1>
+        <a href="{{ .RelPermalink }}">
+            Categoria: {{ .Title }}
+        </a>
+    </h1>
+</section>
+
+<section id="sd-main-list">
+	{{ range .Data.Pages }}
+	<div class="sd-post-figure">
+		<a href="{{ .RelPermalink }}">
+			<figure class="tb-post-img" style="background: url('{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}') no-repeat center; background-size: cover">
+			</figure>
+		</a>
+		{{ range first 1 .Params.categories }}
+		<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="sd-btn-category">{{ . }}</a> 
+		{{ end }}
+		<h1>
+			<a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+		</h1>
+		<p class="sd-main-excerpt">
+            {{if .Param "excerpt"}} {{ .Param "excerpt" }} {{else}} {{ .Summary }} {{end}}
+        </p>
+		<p class="sd-main-author">
+			por <a href="{{ "/author/" | relLangURL }}{{ .Param "author" | urlize }}">{{ .Param "author" }}</a>{{ .Date.Format "02/01/2006" }}
+		</p>
+	</div>
+	{{end}}
+</section>
+
+{{ partial "footer.html" . }}

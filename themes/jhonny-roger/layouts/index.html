@@ -53,17 +53,22 @@
                 {{if .Param "excerpt"}} {{ .Param "excerpt" }} {{else}} {{ .Summary }} {{end}}
             </p>
             <p class="sd-main-author">
+                {{if isset .Params "author"}}
                 por <a href="{{ "/author/" | relLangURL }}{{ .Param "author" | urlize }}">{{ .Param "author" }}</a>{{ .Date.Format "02/01/2006" }}
+                {{end}}
             </p>
         </h3>
+         {{if isset .Params "categories"}}
         {{ range first 1 .Params.categories }}
-        <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="sd-btn-category">{{ . }}</a> {{ end }}
+        <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="sd-btn-category">{{ . }}</a> 
+        {{ end }}
+        {{ end }}
     </div>
     {{end}}
 </section>
 
 <section id="sb-todos-artigos">
-    <a href="#"><span>+ </span> Todos Artigos</a>
+    <a href="{{ .Site.BaseURL}}todos-posts/"><span>+</span> Todos Artigos</a>
 </section>
 
 {{ partial "footer.html" . }}
