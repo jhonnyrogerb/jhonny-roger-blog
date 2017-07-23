@@ -11,30 +11,30 @@
   transition: background 0.2s ease-in-out
 
 #sd-logo
-  flex: 1 0 150px
-  font-size: 20px
-  text-transform: uppercase
-  font-weight: bolder
   text-decoration: none
-  max-width: 150px
-  color: #332925
-  padding: 20px 30px
+  padding: 20px 20px 20px 30px
+  flex-basis: 300px
+  width: 300px
+  display: block
+
+  img
+    width: 100%
 
 
 #sd-nav-menu
-  flex: 1 0 50%
+  flex: 1 0 40%
   text-align: center
-  font-family: 'Arimo', sans-serif
   transition: background 0.2s ease-in-out
+  font-size: 24px
 
   ul
-    display: inline-flex
+    display: block
     list-style: none
     text-transform: uppercase
     font-weight: bolder
 
     li 
-      display: list-item
+      display: inline
       padding: 20px
       transition: padding 0.2s ease-in-out
 
@@ -47,34 +47,20 @@
 
 
 #sd-header.inverted
-  background: #332925
-
-#sd-logo.inverted
-  color: #FAC200
-
-#sd-nav-menu.inverted
-  ul
-
-    li 
-
-      a
-        text-decoration: none
-        color: #FAC200
-
-        &:hover
-          color: #FFF
+  background: #f3f3f3
 
 
 #sd-search-form
-  display: flex
+  display: block
   padding: 20px 30px
   position: relative
+  width: 260px
 
   input
+    width: 100%
     padding: 10px 5px
 
   #search-results
-    margin-top: 50px
     display: block
     position: absolute
     right: 0
@@ -103,12 +89,14 @@
           display: block
 
     
-@media screen and (max-width: 890px)
+@media screen and (max-width: 1000px)
   #sd-search-form
-    display: none
+    width: 100%
+    flex-basis: 100%
 
   #sd-header
-    position: relative
+    position: relative !important
+
 
   #sd-nav-menu
     ul
@@ -117,7 +105,7 @@
         padding: 10px
 
         a
-          font-size: 12px
+          font-size: 1em
 
 
   #sd-header.inverted
@@ -137,3 +125,23 @@
 
           &:hover
             color: #FAC200
+
+
+
+@media screen and (max-width: 768px)
+  #sd-logo
+    padding: 20px 1px 10px 10px
+    flex-basis: 240px
+    width: 240px
+
+  #sd-nav-menu
+    width: 100%
+    flex-basis: 100%
+    margin-bottom: 10px
+
+    ul
+
+      li
+
+        a
+          font-size: .8em

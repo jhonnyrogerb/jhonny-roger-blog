@@ -16,11 +16,9 @@ fs.readFile('public/index.json', 'utf-8' , function (err, data) {
     documents.forEach(function (doc, index) {
       doc.ref = index
       doc.title = removeDiacritics(doc.title.toLowerCase())
-      console.log(doc)
       this.add(doc)
     }, this)
   })
 
-  console.log("acabou")
   fs.writeFile('public/search-index.json', JSON.stringify(idx));
 })

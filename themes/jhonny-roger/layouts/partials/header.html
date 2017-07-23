@@ -1,26 +1,27 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Sejedev - "Seje" dev, não seja sobrinho!</title>
+	<title>ROGER 'n the BITS - {{ .Title }}</title>
 	<meta charset="utf-8">
-  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+	<meta name="theme-color" content="#332925">
 
+	<link rel="icon" href="{{ .Site.BaseURL}}img/favicon.ico">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 	<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL}}css/style.min.css?{{ .Now.Unix }}">
-	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/monokai-sublime.min.css">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/monokai-sublime.min.css">
 </head>
 <body>
 	<header id="sd-header">
-		<a href="{{ .Site.BaseURL}}" id="sd-logo">Sejedev</a>
+		<a href="{{ .Site.BaseURL}}" id="sd-logo"><img src="{{ .Site.BaseURL}}img/logo.png"></a>
 		<nav id="sd-nav-menu">
 			<ul>
-				<li><a href="{{ .Site.BaseURL}}categories/nodejs">Artigos</a></li>
-				<li><a href="{{ .Site.BaseURL}}categories/jquery">Noticias</a></li>
-				<li><a href="{{ .Site.BaseURL}}categories/jquery">Projetos</a></li>
-				<li><a href="{{ .Site.BaseURL}}/colabore/">Colabore</a></li>
+				<li><a href="{{ .Site.BaseURL}}categories/artigos">Artigos</a></li>
+				<li><a href="{{ .Site.BaseURL}}categories/noticias">Noticias</a></li>
+				<li><a href="{{ .Site.BaseURL}}categories/sobre">Sobre</a></li>
 			</ul>
 		</nav>
 		<form action="#" id="sd-search-form">
-			<input type="search" name="search" id="search-input" placeholder="Faça a sua busca!">
+			<input type="search" name="search" id="search-input" autocomplete="off" autocorrect="off" autocapitalize="off" placeholder="Faça a sua busca!">
 			<div id="search-results">
 				<ul></ul>
 			</div>
