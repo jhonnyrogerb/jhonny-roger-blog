@@ -1,0 +1,81 @@
+{{ if isset .Params.author "name" }}
+
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Article",
+    "author": {
+      "name" : "{{ .Params.author.name }}"
+    },
+    "headline": "{{ .Title }}",
+    "description": "{{ .Params.description }}",
+    "wordCount": {{ .WordCount }},
+    "datePublished" : "{{ .PublishDate.Format "2006-01-02T15:04:05" }}",
+    "dateModified" : "{{ .Date.Format "2006-01-02T15:04:05"  }}",
+    "image" : {
+        "@context": "http://schema.org",
+        "@type": "ImageObject",
+        "author": "{{ .Params.image.author }}",
+        "url": "{{ .Params.image.src }}",
+        "datePublished": "{{ .PublishDate.Format "2006-01-02T15:04:05" }}",
+        "name": "{{ .Params.image.title }}",
+        "height" : {{ .Params.image.height }},
+        "width" : {{ .Params.image.width }},
+        "license" : "{{ .Params.image.license_link }}",
+        "isBasedOn" : "{{ .Params.image.link }}"
+      },
+    "mainEntityOfPage" : "{{ .Permalink }}",
+    "publisher" : {
+      "@type": "Organization",
+      "name" : "{{ $.Site.Params.publisherName }}",
+      "logo" : {
+          "@type" : "ImageObject",
+          "url" : "{{ $.Site.Params.publisherLogo }}",
+          "height" : {{ $.Site.Params.publisherLogoHeight }},
+          "width" : {{ $.Site.Params.publisherLogoWidth }}
+      }
+    }
+  }
+  </script>
+
+{{ else }}
+
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Article",
+    "author": {
+      "name" : "{{ .Params.author }}"
+    },
+    "headline": "{{ .Title }}",
+    "description": "{{ .Params.excerpt }}",
+    "wordCount": {{ .WordCount }},
+    "datePublished" : "{{ .Params.date | dateFormat "2006-01-02T15:04:05" }}",
+    "dateModified" : "{{ .Date.Format "2006-01-02T15:04:05"  }}",
+    "articleBody": "{{.Content| plainify}}",
+    "keywords": "{{if isset .Params "tags" }}{{ .Params.tags }}{{ else }}{{ .Params.categories }}{{end}}"
+    "image" : {
+        "@context": "http://schema.org",
+        "@type": "ImageObject",
+        "author": "{{ .Params.image }}",
+        "url": "{{ .Params.image }}",
+        "datePublished": "{{ .Params.date | dateFormat "2006-01-02T15:04:05" }}",
+        "name": "{{ .Title }}",
+        "height" : 1280,
+        "width" : 720,
+      },
+    "mainEntityOfPage" : "{{ .Permalink }}",
+    "publisher" : {
+      "@type": "Organization",
+      "name" : "{{ $.Site.Params.publisherName }}",
+      "logo" : {
+          "@type" : "ImageObject",
+          "url" : "{{ $.Site.Params.publisherLogo }}",
+          "height" : {{ $.Site.Params.publisherLogoHeight }},
+          "width" : {{ $.Site.Params.publisherLogoWidth }}
+      }
+    }
+  }
+  </script>
+
+{{ end }}

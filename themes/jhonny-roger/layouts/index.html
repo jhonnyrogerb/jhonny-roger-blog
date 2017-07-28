@@ -45,7 +45,7 @@
 
 <section class="sd-post-list">
     <h1><span></span></h1>
-    {{ range first 20 (after 9 .Pages)}}
+    {{ range first 20 (after 10 .Pages)}}
     <div class="sd-post-figure">
         <h3>
             <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
@@ -66,9 +66,6 @@
     </div>
     {{end}}
 </section>
-
-<section id="sb-todos-artigos">
-    <a href="{{ .Site.BaseURL}}todos-posts/"><span>+</span> Todos Artigos</a>
-</section>
+<a href="{{ .Site.BaseURL}}todos-posts/" id="sb-todos-artigos"><span>+</span> Todos Artigos</a>
 
 {{ partial "footer.html" . }}

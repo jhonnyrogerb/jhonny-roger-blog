@@ -9,7 +9,7 @@
 </section>
 
 <section id="sd-main-list">
-	{{ range .Data.Pages }}
+	{{ range .Paginator.Pages }}
 	<div class="sd-post-figure">
 		<a href="{{ .RelPermalink }}">
 			<figure class="tb-post-img" style="background: url('{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}') no-repeat center; background-size: cover">
@@ -29,6 +29,7 @@
 		</p>
 	</div>
 	{{end}}
+	{{ template "_internal/pagination.html" . }}
 </section>
 
 {{ partial "footer.html" . }}

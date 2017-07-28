@@ -1,9 +1,7 @@
 
 #sd-main-post
 	height: auto
-	padding: 80px 50px
-	padding-top: 120px
-	//background: rgba(0,0,0,0.65) 
+	padding: 180px 50px 80px 50px
 
 	h1
 		text-align: center
@@ -190,20 +188,44 @@
 						color: #332925
 
 
-#sb-todos-artigos
-	width: 80%
+.pagination
+	display: block
+	width: 100%
 	text-align: center
-	margin: 80px auto
+	margin-top: 50px
 
-	a 
-		padding: 15px 40px
-		background: #332925
-		color: #FAC200
-		text-decoration: none
-		margin: 20px auto
-		font-size: 26px
-		border-radius: 5px
+	li
 		display: inline-block
+		a, span
+			border-radius: 20px
+			margin: 0 5px
+
+		a 
+			text-decoration: none
+			color: #332925
+			background: #FAC200
+			position: relative
+			float: left
+			padding: 10px 20px
+			font-size: 22px
+			font-weight: bolder
+
+			&:hover
+				background: #332925
+				color : #FAC200
+
+
+#sb-todos-artigos
+	border-radius: 20px
+	padding: 15px 40px
+	background: #332925
+	color: #FAC200
+	text-decoration: none
+	margin: 50px auto
+	font-size: 26px
+	display: block
+	clear: both
+	width: 250px
 
 	&:hover
 		transform: scale(1.1) 
@@ -256,3 +278,5 @@
 			margin-right: 0  
 			padding-left: 0 
 			padding-right: 0 
+
+

@@ -1,12 +1,25 @@
 DefaultContentLanguage = "pt-br"
-title = "Jhonny Roger"
-baseURL = "http://sejedev.com/"
+title = "Blog | Jhonny Roger - Software Developer"
+baseURL = "https://jhonnyroger.com/"
 theme = "jhonny-roger"
 enableRobotsTXT = "true"
+disqusShortname = "Jhonny Roger"
+googleAnalytics = "UA-103073817-1"
 
 [params]
-    siteName = "Jhonny Roger"
-    description = "Blog pessoal para compartilhar conhecimentos com a comunidade"
+    siteName = "Blog | Jhonny Roger - Software Developer"
+    description = "Blog pessoal para compartilhar conhecimentos com a comunidade!"
+
+    alternatePageName = "Blog | Jhonny Roger"
+    organizationLogo = "https://jhonnyroger.com/logo.png"
+    organizationName = "Roger e os Bits"
+    organizationAddress = "Franca - SP, Brazil"
+
+    publisherName = "Jhonny Roger"
+    publisherLogo = "https://jhonnyroger.com/logo.png"
+    publisherLogoWidth = 600
+    publisherLogoHeight = 60
+
 
 [permalinks]
     posts = "/:filename"

@@ -1,147 +1,99 @@
 
-#sd-header
-  top: 0
-  display: flex
-  align-items: center
-  position: fixed
+.header
   width: 100%
+  display: flex
+  top: 0
+  z-index: $z-index-10--header
+  background: $white
+  align-items: center
+  transition: background 0.2s ease-in-out
   flex-wrap: wrap
-  z-index: 999
-  background: #fff
-  transition: background 0.2s ease-in-out
 
-#sd-logo
-  text-decoration: none
-  padding: 20px 20px 20px 30px
-  flex-basis: 300px
-  width: 300px
+  @media only screen and (max-width: $screen-md)
+    position: relative
+
+  @media only screen and (min-width: $screen-md)
+    position: fixed
+
+.header__logo
+  width: 9rem
+  flex-basis: 9rem
   display: block
+  padding: 10px 10px 10px 25px
+  text-decoration: none
 
-  img
-    width: 100%
-
-
-#sd-nav-menu
-  flex: 1 0 40%
+.nav
+  font-size: 1.2rem
   text-align: center
-  transition: background 0.2s ease-in-out
-  font-size: 24px
+  text-transform: uppercase
+  font-weight: bolder
 
-  ul
-    display: block
-    list-style: none
-    text-transform: uppercase
-    font-weight: bolder
+  @media only screen and (max-width: $screen-xs)
+    flex: 1 0 100%
 
-    li 
-      display: inline
-      padding: 20px
-      transition: padding 0.2s ease-in-out
+  @media screen and (min-width: $screen-xs)
+    flex: 1 0
 
-      a
-        text-decoration: none
-        color: #332925
+.nav__item
+  display: inline
+  transition: padding 0.2s ease-in-out
+  list-style: none
 
-        &:hover
-          color: #FAC200
+  @media only screen and (max-width: $screen-xs)
+    padding: 10px
 
+  @media only screen and (min-width: $screen-xs)
+    padding: 20px
 
-#sd-header.inverted
-  background: #f3f3f3
+.nav__link
+  text-decoration: none
+  color: $main-brown
 
+  &:hover
+    color: $main-yellow
 
-#sd-search-form
+.search
   display: block
   padding: 20px 30px
   position: relative
-  width: 260px
 
-  input
+  @media only screen and (max-width: $screen-md)
     width: 100%
-    padding: 10px 5px
 
-  #search-results
-    display: block
-    position: absolute
-    right: 0
-      
-    ul
+  @media only screen and (min-width: $screen-md)
+    width: 260px
+
+.search__input
+  width: 100%
+  padding: 10px 5px
+  border: 1px solid #333
+
+.search__results
+  display: block
+  position: absolute
+  right: 0
+    
+  ul
+    list-style: none
+    width: 320px
+    box-shadow: 0px 5px 10px rgba(51, 41, 37, .5)
+
+    li
+      padding: 15px 30px
+      background: $white
       list-style: none
-      width: 320px
-      box-shadow: 0px 5px 10px rgba(51, 41, 37, .5)
+      width: 100%
+      display: block
 
-      li
-        padding: 15px 30px
-        background: #FFF
-        list-style: none
-        width: 100%
+      &:hover
+        background: rgb(51, 41, 37)
+
+      &:hover a
+        color: $white
+
+      a
+        text-decoration: none
+        color: $main-brown
         display: block
 
-        &:hover
-          background: rgb(51, 41, 37)
 
-        &:hover a
-          color: #fff
-
-        a
-          text-decoration: none
-          color: #332925
-          display: block
-
-    
-@media screen and (max-width: 1000px)
-  #sd-search-form
-    width: 100%
-    flex-basis: 100%
-
-  #sd-header
-    position: relative !important
-
-
-  #sd-nav-menu
-    ul
-
-      li
-        padding: 10px
-
-        a
-          font-size: 1em
-
-
-  #sd-header.inverted
-    background: #FFF
-
-  #sd-logo.inverted
-    color: #332925
-
-  #sd-nav-menu.inverted
-    ul
-
-      li 
-
-        a
-          text-decoration: none
-          color: #332925
-
-          &:hover
-            color: #FAC200
-
-
-
-@media screen and (max-width: 768px)
-  #sd-logo
-    padding: 20px 1px 10px 10px
-    flex-basis: 240px
-    width: 240px
-
-  #sd-nav-menu
-    width: 100%
-    flex-basis: 100%
-    margin-bottom: 10px
-
-    ul
-
-      li
-
-        a
-          font-size: .8em
