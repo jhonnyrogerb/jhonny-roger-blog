@@ -49,7 +49,7 @@ $(document).ready(function(){
 			console.log(idx)
 
 			$(".search__input").on('keyup keydown', function(){
-				var response = idx.search($("#search-input").val().toLowerCase())
+				var response = idx.search($(".search__input").val().toLowerCase())
 				$(".search__results ul").html("")
 
 				if(!header.hasClass("inverted")){
