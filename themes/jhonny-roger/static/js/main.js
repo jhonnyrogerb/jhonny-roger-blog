@@ -11,7 +11,7 @@ $(document).ready(function(){
 	})
 
 	$(window).scroll(function () {
-		if(searchResultItems.length == 0){
+		if($(".search__item").length == 0){
 			header.css("position", "fixed")
 		}else{
 			header.css("position", "relative")
