@@ -6,8 +6,8 @@ install:
 script:
 - hugo
 deploy:
-- provider: script
-  script: "chmod +x deploy.sh && deploy.sh"
+  provider: script
+  script: sh scripts/deploy.sh
   skip_cleanup: true
   on:
     branch: master
