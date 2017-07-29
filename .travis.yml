@@ -1,17 +1,16 @@
-# .travis.yml
 dist: trusty
 sudo: required
-
 install:
-  - wget -O /tmp/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.25.1/hugo_0.25.1_Linux-64bit.deb
-  - sudo dpkg -i /tmp/hugo.deb
-
+- wget -O /tmp/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.25.1/hugo_0.25.1_Linux-64bit.deb
+- sudo dpkg -i /tmp/hugo.deb
 script:
- - hugo
-
+- hugo
 deploy:
-  - provider: script
-    script: ./deploy.sh
-    skip_cleanup: true
-    on:
-      branch: master
+- provider: script
+  script: "./deploy.sh"
+  skip_cleanup: true
+  on:
+    branch: master
+before_install:
+- openssl aes-256-cbc -K $encrypted_b23c8c9c9d96_key -iv $encrypted_b23c8c9c9d96_iv
+  -in id_rsa.enc -out ~\/.ssh/id_rsa -d
