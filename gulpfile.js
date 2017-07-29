@@ -5,19 +5,54 @@ var autoprefixer = require('gulp-autoprefixer');
 var rename = require('gulp-rename');
 var uglify = require('gulp-uglify');
 var debug = require('gulp-debug');
-var order = require('gulp-order');
 var htmlmin = require('gulp-htmlmin')
 var gutil = require('gulp-util');
-var childProcess = require('child_process');
 var del = require('del');
-const shell = require('gulp-shell')
 var sass = require('gulp-sass');
-var rename = require('gulp-rename')
+var rev = require('gulp-rev')
+var revReplace = require('gulp-rev-replace')
+
+var staticFolder = "./themes/jhonny-roger/static";
+
+console.log(`${staticFolder}/js/*.js`)
+gulp.task('css', function(){
+	return gulp.src(`${staticFolder}/css/style.sass`)
+	.pipe(sass().on('error', sass.logError))
+	.pipe(autoprefixer('last 2 version', 'safari 5', 'ie6', 'ie7', 'ie 8', 'ie 9', 'opera 12.1', 'ios 6', 'android 4'))
+	.pipe(minifyCSS())
+	.pipe(rename('style.min.css'))
+	.pipe(gulp.dest(`${staticFolder}/css`))
+})
 
 
-gulp.task('build', ['html', 'css', 'js'])
+gulp.task('js', function () {
+	return gulp.src([`!${staticFolder}/js/main.min.js`, `${staticFolder}/js/*.js`])
+	.pipe(uglify())
+	.pipe(concat('main.min.js'))
+	.pipe(gulp.dest(`${staticFolder}/js`))
+});
 
-gulp.task('html', function () {
+
+gulp.task('rev-assets',  ['css', 'js'], function () {
+	return gulp.src([`${staticFolder}/js/*.js`, `${staticFolder}/css/*.css`])
+	.pipe(gulp.dest(`${staticFolder}/dist`))
+	.pipe(rev())
+	.pipe(gulp.dest(`${staticFolder}/dist`)) 
+	.pipe(rev.manifest())
+	.pipe(gulp.dest(`${staticFolder}/dist/manifest`))
+});
+
+
+gulp.task("replace-assets", function() {
+	var manifest = gulp.src(`${staticFolder}/dist/manifest/rev-manifest.json`);
+
+	return gulp.src('public/**/*.html')
+	.pipe(revReplace({manifest: manifest}))
+	.pipe(gulp.dest('./public'));
+});
+
+
+gulp.task('html', ["replace-assets"], function () {
 	return gulp.src('public/**/*.html')
 	.pipe(htmlmin({
 		collapseWhitespace: true,
@@ -28,21 +63,3 @@ gulp.task('html', function () {
 	}).on('error', gutil.log))
 	.pipe(gulp.dest('./public'))
 });
-
-gulp.task('css', function(){
-  return gulp.src('public/css/style.sass')
-    .pipe(sass().on('error', sass.logError))
-	.pipe(minifyCSS())
-	.pipe(autoprefixer('last 2 version', 'safari 5', 'ie6', 'ie7', 'ie 8', 'ie 9', 'opera 12.1', 'ios 6', 'android 4'))
-	.pipe(rename('style.min.css'))
-	.pipe(gulp.dest('public/css/'))
-})
-
-
-gulp.task('js', function () {
-	return gulp.src(['!public/js/main.min.js', 'public/js/*.js'])
-	.pipe(uglify())
-	.pipe(concat('main.min.js'))
-	.pipe(gulp.dest('public/js'))
-});
-
