@@ -4,4 +4,4 @@ set -e
 
 sudo apt-get install -y rsync
 
-rsync -ravzup public/* jhonnyroger@jhonnyroger.com:~/public_html/
+rsync -e "ssh -o StrictHostKeyChecking=no" -ravzup public/* jhonnyroger@jhonnyroger.com:~/public_html/
