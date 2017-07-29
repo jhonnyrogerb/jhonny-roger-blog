@@ -1,6 +1,6 @@
 $(document).ready(function(){
 	var iScrollPos = 0;
-	var header = $('#sd-header');
+	var header = $('.header');
 	var htmlHeight = $("#sd-main-post").height();
 
 	$('body').on('click', function(){
@@ -48,19 +48,17 @@ $(document).ready(function(){
 
 			console.log(idx)
 
-			$("#search-input").on('keyup keydown', function(){
+			$(".search__input").on('keyup keydown', function(){
 				var response = idx.search($("#search-input").val().toLowerCase())
-				$("#search-results ul").html("")
+				$(".search__results ul").html("")
 
 				if(!header.hasClass("inverted")){
 					header.addClass("inverted")
-					$('#sd-logo').addClass("inverted")
-					$('#sd-nav-menu').addClass("inverted")
 				}
 				
 				response.forEach(function(item, index){
 					var post = data2[item.ref]
-					$("#search-results ul").append("<li><a href='" + post.ref + "'>" + post.title + "</a></li>")
+					$(".search__results ul").append("<li><a href='" + post.ref + "'>" + post.title + "</a></li>")
 				})
 			})
 		})
