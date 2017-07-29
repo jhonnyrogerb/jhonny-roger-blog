@@ -14,19 +14,10 @@ const shell = require('gulp-shell')
 var sass = require('gulp-sass');
 var rename = require('gulp-rename')
 
-gulp.task('clean', function(){
-	del(['public']).then(paths => {
-		gulp.run('build')
-	})
+
+gulp.task('build', function () {
+	gulp.run(['html', 'css', 'js'])
 })
-
-gulp.task('build', ['hugo'], function () {
-	gulp.run(['html', 'css', 'js', 'search-index'])
-})
-
-
-gulp.task('hugo', shell.task('hugo', {'ignoreErrors': true}))
-
 
 gulp.task('html', function () {
 	return gulp.src('public/**/*.html')
@@ -57,4 +48,3 @@ gulp.task('js', function () {
 	.pipe(gulp.dest('public/js'))
 });
 
-gulp.task('search-index', shell.task('node lunr-script.js'))
