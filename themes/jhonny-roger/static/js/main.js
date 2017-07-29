@@ -46,11 +46,9 @@ $(document).ready(function(){
 		$.getJSON('/search-index.json', function(data){
 			var idx = lunr.Index.load(data);
 
-			console.log(idx)
-
 			$(".search__input").on('keyup keydown', function(){
 				var response = idx.search($(".search__input").val().toLowerCase())
-				$(".search__results ul").html("")
+				$("#search__results ul").html("")
 
 				if(!header.hasClass("inverted")){
 					header.addClass("inverted")
@@ -58,7 +56,7 @@ $(document).ready(function(){
 				
 				response.forEach(function(item, index){
 					var post = data2[item.ref]
-					$(".search__results ul").append("<li><a href='" + post.ref + "'>" + post.title + "</a></li>")
+					$("#search__results ul").append("<li><a href='" + post.ref + "'>" + post.title + "</a></li>")
 				})
 			})
 		})
