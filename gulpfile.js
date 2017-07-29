@@ -15,9 +15,7 @@ var sass = require('gulp-sass');
 var rename = require('gulp-rename')
 
 
-gulp.task('build', function () {
-	gulp.run(['html', 'css', 'js'])
-})
+gulp.task('build', ['html', 'css', 'js'])
 
 gulp.task('html', function () {
 	return gulp.src('public/**/*.html')

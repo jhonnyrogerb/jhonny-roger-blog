@@ -6,7 +6,8 @@
   "scripts": {
     "start": "hugo server | gulp watch",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "hugo; gulp build; node lunr-script.js;"
+    "build": "hugo; gulp build; node scripts/lunr-script.js;",
+    "deploy": "rsync -e 'ssh -o StrictHostKeyChecking=no -i /tmp/id_rsa' -ravzup public/* jhonnyroger@jhonnyroger.com:~/public_html/"
   },
   "repository": {
     "type": "git",
