@@ -68,32 +68,32 @@
   padding: 10px 5px
   border: 1px solid #333
 
-.search__results
+.search__result
   display: block
   position: absolute
   right: 0
     
-  ul
-    list-style: none
-    width: 320px
-    box-shadow: 0px 5px 10px rgba(51, 41, 37, .5)
+.search__list
+  width: 320px
+  box-shadow: 0px 5px 10px rgba(51, 41, 37, .5)
 
-    li
-      padding: 15px 30px
-      background: $white
-      list-style: none
-      width: 100%
-      display: block
+.search__item
+  list-style: none
+  padding: 15px 30px
+  background: $white
+  list-style: none
+  width: 100%
+  display: block
 
-      &:hover
-        background: rgb(51, 41, 37)
+  &:hover
+    background: rgb(51, 41, 37)
 
-      &:hover a
-        color: $white
+  &:hover .search__link
+    color: $white
 
-      a
-        text-decoration: none
-        color: $main-brown
-        display: block
+.search__link
+    text-decoration: none
+    color: $main-brown
+    display: block
 
 
