@@ -2,9 +2,9 @@
 
 {{ partial "header.html" . }}
 
-<section id="sd-main-post" class="sd-is-post">
-    <h1>
-        <a href="{{ .RelPermalink }}">
+<section id="sd-main-post" class="main__post main__post--is-post">
+    <h1 class="main__post-title">
+        <a class="main__post-link" href="{{ .RelPermalink }}">
             {{ .Title | markdownify }}
         </a>
     </h1>

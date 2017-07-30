@@ -18,7 +18,7 @@ console.log(`${staticFolder}/js/*.js`)
 gulp.task('css', function(){
 	return gulp.src(`${staticFolder}/css/style.sass`)
 	.pipe(sass().on('error', sass.logError))
-	.pipe(autoprefixer('last 2 version', 'safari 5', 'ie6', 'ie7', 'ie 8', 'ie 9', 'opera 12.1', 'ios 6', 'android 4'))
+	.pipe(autoprefixer())
 	.pipe(minifyCSS())
 	.pipe(rename('style.min.css'))
 	.pipe(gulp.dest(`${staticFolder}/css`))

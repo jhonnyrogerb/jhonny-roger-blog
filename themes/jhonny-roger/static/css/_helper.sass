@@ -21,3 +21,20 @@ $screen-xlg-max: ($screen-xxlg - 1)
 $white: rgb(255, 255, 255)
 $main-brown: rgb(51, 41, 37)
 $main-yellow: rgb(250, 194, 0)
+
+
+.link
+	color: #FAC200
+	text-decoration: none
+	font-weight: bolder
+
+	&:hover
+		color: #332925
+
+
+.link--inverted
+	@extend .link
+	color: #332925
+
+	&:hover
+		color: #FAC200

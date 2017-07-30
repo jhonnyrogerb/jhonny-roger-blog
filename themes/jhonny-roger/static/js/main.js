@@ -11,32 +11,8 @@ $(document).ready(function(){
 	})
 
 	$(window).scroll(function () {
-		if($(".search__item").length == 0){
-			header.css("position", "fixed")
-		}else{
-			header.css("position", "relative")
-		}
-
-		if(header.css("position") === "fixed"){
-			var iCurScrollPos = $(this).scrollTop();
-
-			if (iCurScrollPos > 100) {
-				if(!header.hasClass("inverted")){
-					header.addClass("inverted")
-				}
-			} else {
-				if(header.hasClass("inverted")){
-					header.removeClass("inverted")
-				}
-			}
-
-			if(iCurScrollPos > iScrollPos && iCurScrollPos > htmlHeight - 200){
-				header.slideUp(200)
-			}else{
-				header.slideDown(200)
-			}
-
-			iScrollPos = iCurScrollPos;
+		if(searchResultItems.length !== 0 &&  header.css("position") == "fixed"){
+			header.css("position", "relative");
 		}
 	});
 	

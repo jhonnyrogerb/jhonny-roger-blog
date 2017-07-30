@@ -4,7 +4,7 @@
   "description": "Blog pessoal sobre desenvolvimento",
   "main": "index.js",
   "scripts": {
-    "start": "hugo server | gulp watch",
+    "start": "sass --watch themes/jhonny-roger/static/css/style.sass:public/dist/style.min.css | hugo --watch --baseUrl http://localhost/sejedev/",
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "gulp rev-assets; hugo; gulp html; node scripts/lunr-script.js;",
     "deploy": "rsync -e 'ssh -o StrictHostKeyChecking=no -i /tmp/id_rsa' -ravzup public/* $FTP_USER@$FPT_HOST:~/public_html/"

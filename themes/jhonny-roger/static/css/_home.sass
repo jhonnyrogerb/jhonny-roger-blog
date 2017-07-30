@@ -1,118 +1,111 @@
+.main__post
+	@media only screen and (max-width: $screen-md)
+		padding: 20px 20px 60px 20px
 
-#sd-main-post
+	@media only screen and (min-width: $screen-md)
+		padding: 180px 50px 80px 50px
+
+.main__post--is-home
 	height: auto
-	padding: 180px 50px 80px 50px
 
-	h1
-		text-align: center
-		margin-bottom: 30px
-		
-		a
-			color: #FAC200
-			font-size: 80px
-			padding: 30px
-			font-weight: bolder
-			text-decoration: none
-		
-			&:hover
-				color: #332925
+.main__post--is-post
+	height: auto
+	
+.main__post-title
+	margin-bottom: 30px
+	text-align: center
 
-	.sd-main-excerpt
-		text-align: center
-		color: #332925
-		font-size: 24px
-		font-weight: bold
+	@media only screen and (max-width: $screen-sm)
+		font-size: 2.8rem
 
-	.sd-main-author
-		text-align: center
-		font-size: 18px
-		font-weight: bold
-		padding: 30px
-		color: #444
+	@media only screen and (min-width: $screen-sm)
+		font-size: 5rem
 
-		a
-			text-decoration: none
-			color: #FAC200
-			margin: 0 8px
-			font-weight: bolder
-			font-size: 20px
+.main__post-excerpt
+	text-align: center
+	color: #332925
+	font-size: 1.3rem
+	font-weight: normal
+
+.main__post-author
+	text-align: center
+	font-weight: bold
+	padding: 30px 0
+	font-size: 1.3rem
 
 
-#sd-main-list
+.list__post
 	display: flex
 	flex-wrap: wrap
-	margin: 5px 20px
+	margin: 5px 20px	
 
-	.sd-post-figure
-		flex: 1 0 350px
-		margin: 20px 10px
-		border-radius: 5px
-		box-shadow: 0px 0px 2px 0px rgba(51, 41, 37, .5)
-		position: relative
-		overflow: hidden
+.list__post-item
+	flex: 1 0 350px
+	margin: 20px 10px
+	position: relative
 
-		&:hover
-			box-shadow: 0px 0px 8px 0px rgba(51, 41, 37, .5)
+	&:hover .list__post-figure
+		transform: scale(1.12)
 
-		figure
-			height: 250px
-			overflow: hidden
-			display: block
+.list__post--default .list__post-item
+	border-bottom: 1px solid rgba(51, 41, 37, .2)
 
-			img
-				width: 100%
+.list__post-figure-wrapper
+	max-height: 250px
+	overflow: hidden
 
-		h1
-			font-size: 22px
-			margin: 25px 0 10px
-			font-weight: bolder
-			padding: 0 10px
+.list__post-figure
+	height: 250px
+	overflow: hidden
+	display: block
+	transition: all .5s
 
-			a
-				text-decoration: none
-				color: #332925
+.list__post-title
+	font-size: 1.3rem
+	margin: 25px 0 10px
+	font-weight: bolder
+	padding: 0 10px
 
-				&:hover
-					color: #FAC200
-		
-		.sd-btn-category
-			transform : translateY(-20px)
-			background: #332925
-			width: auto
-			display: inline-block
-			position: absolute
-			margin: 0 10px
-			right: 0
-			padding: 10px 20px
-			border-radius: 40px
-			text-decoration: none
-			color: #fac200
-			font-weight: bolder
-
-			&:hover
-				transform: scale(1.15) translateY(-20px)
-
-	.sd-main-excerpt
-		color: #795227
-		font-size: 16px
-		padding: 0 10px
+.list__post-excerpt
+	color: #795227
+	font-size: 1rem
+	padding: 0 10px
 
 
-	.sd-main-author
-		font-size: 14px
-		color: #444
-		margin: 10px 0
-		padding: 10px
+.list__post-author
+	font-size: 14px
+	color: #444
+	margin: 10px 0
+	padding: 10px
+	font-weight: bolder
 
-		a
-			text-decoration: none
-			color: #FAC200
-			margin: 0 4px
-			font-weight: bolder
-			font-size: 16px
 
-			&:hover
-				color: #332925
+.list__post--featured .sd-btn-category
+	background: #332925
+	width: auto
+	display: inline-block
+	position: absolute
+	margin: 0 10px
+	right: 0
+	padding: 10px 20px
+	border-radius: 40px
+	text-decoration: none
+	color: #fac200
+	font-weight: bolder
+
+
+.list__post--default .sd-btn-category
+	background: #332925
+	display: inline-block
+	position: absolute
+	right: 20px
+	bottom: -20px
+	padding: 10px 20px
+	border-radius: 40px
+	text-decoration: none
+	color: #fac200
+	font-weight: bolder
+
 
 .sd-post-list
 	display: flex
@@ -230,8 +223,7 @@
 	&:hover
 		transform: scale(1.1) 
 
-
-@media screen and (max-width: 768px)
+/*@media screen and (max-width: 768px)
 	#sd-main-post
 		padding-top: 40px
 
@@ -277,6 +269,4 @@
 			margin-left: 0 
 			margin-right: 0  
 			padding-left: 0 
-			padding-right: 0 
-
-
+			padding-right: 0 */
