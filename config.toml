@@ -1,6 +1,6 @@
 DefaultContentLanguage = "pt-br"
 title = "Blog | Jhonny Roger - Software Developer"
-baseURL = "http://jhonnyroger.com/"
+baseURL = "https://jhonnyroger.com/"
 theme = "jhonny-roger"
 enableRobotsTXT = "true"
 disqusShortname = "Jhonny Roger"
