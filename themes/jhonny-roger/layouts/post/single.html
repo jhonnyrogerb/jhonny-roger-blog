@@ -17,7 +17,7 @@
     </p>
      <p class="sb-categories-post">
         {{ range .Params.categories }}
-        <a href="{{ "categories" | relLangURL }}{{ . | urlize }}" class="sd-btn-category">{{ . }}</a> 
+            <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="sd-btn-category">{{ . }}</a> 
         {{ end }}
     </p>
     {{end}}
@@ -41,9 +41,6 @@
                 <h1 class="list__post-title">
                     <a class="link--inverted" href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
                 </h1>
-                <p class="list__post-excerpt">
-                    {{if .Param "excerpt"}} {{ .Param "excerpt" }} {{else}} {{ .Summary }} {{end}}
-                </p>
                 <p class="list__post-author">
                     por <a class="link" href="{{ "/author/" | relLangURL }}{{ .Param "author" | urlize }}">{{ .Param "author" }}</a> {{ .Date.Format "02/01/2006" }}
                 </p>

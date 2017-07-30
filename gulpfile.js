@@ -11,6 +11,8 @@ var del = require('del');
 var sass = require('gulp-sass');
 var rev = require('gulp-rev')
 var revReplace = require('gulp-rev-replace')
+var combineMediaQueries = require('gulp-combine-media-queries');
+
 
 var staticFolder = "./themes/jhonny-roger/static";
 
@@ -19,6 +21,7 @@ gulp.task('css', function(){
 	return gulp.src(`${staticFolder}/css/style.sass`)
 	.pipe(sass().on('error', sass.logError))
 	.pipe(autoprefixer())
+	.pipe(combineMediaQueries({log: true}))
 	.pipe(minifyCSS())
 	.pipe(rename('style.min.css'))
 	.pipe(gulp.dest(`${staticFolder}/css`))

@@ -15,37 +15,59 @@
 
 .post__wrapper
 	display: flex
+	flex-wrap: wrap
 	max-width: 100%
 	width: 100%
 	overflow: hidden
 
+//SIDEBAR
 .post__sidebar
 	@media only screen and (max-width: $screen-md)
-		display: none
+		order: 2
+		max-width: 100%
+		width: 100%
 
 	@media only screen and (min-width: $screen-md)
 		flex: 1 0
 		order: 2
 
 .list__post-sidebar
-	margin: 5px 0
+	padding: 40px 20px
 
 .list__post-sidebar-item
-	margin: 0
+	margin: 5px 0 20px 0
+	box-shadow: 0px 0px 3px 0px rgba(51, 41, 37, .7)
 
 	&:hover .list__post-figure
 		transform: scale(1.12)
 
+.list__post-sidebar .list__post-figure-wrapper
+	max-height: 200px
+
+
+//POST
 .post__content
 	order: 1
 	flex: 1 0
-	padding: 40px 40px 40px 80px
-	max-width: 75%
-	flex-basis: 75%
-	font-size: 21px
 	color: #3c3c3c
-	line-height: 150%
+	line-height: 2rem
 	overflow: hidden
+
+	@media only screen and (max-width: $screen-md)
+		width: 100%
+		max-width: 100%
+		flex-basis: 100%
+		margin-left: 0
+		margin-right: 0
+		padding: 0 20px
+
+		img
+			width: 100%
+
+	@media only screen and (min-width: $screen-md)
+		max-width: 73%
+		flex-basis: 73%
+		padding: 40px 40px 40px 80px
 
 	img, video
 		max-width: 100%
@@ -56,21 +78,19 @@
 		max-width: 100%
 
 	p
-		font-size: 1em
-		margin-bottom: 28px
-		font-weight: 300
+		font-size: 1.3rem
+		margin-bottom: 1.8rem
+		font-weight: normal
 
 	a
-		color: #FAC200
-		word-wrap: break-word
-		font-weight: bolder
+		@extend .link
+		font-weight: 900
+		text-decoration: underline
 
-		&:hover
-			color: #332925
 
 	li
 		margin-bottom: 10px
-		font-size: 1em
+		font-size: 1.2rem
 
 	ul, ol
 		margin: 40px 20px
@@ -78,21 +98,26 @@
 		font-weight: lighter
 
 	h1 
-		font-size: 2.5em
-		line-height: 150%
+		font-size: 3rem
+		margin: 3.5rem 0 1.67rem
+		font-weight: 900
+		line-height: 120%
 
 	h2
-		margin: 60px 0 20px
-		font-size: 2em
-		line-height: 150%
-	
+		font-size: 2.6rem
+		margin: 3.5rem 0 1.83rem
+		font-weight: 900
+		line-height: 120%
+
 	h3
-		margin: 60px 0 20px
-		font-size: 1.4em
+		font-size: 1.6rem
+		margin: 3.5rem 0 1.5rem
+		font-weight: 900
+		line-height: 120%
 	
 	h6
 		margin: 30px 0 20px
-		font-size: 1.1em
+		font-size: 1.1rem
 
 	blockquote
 		padding: 30px
@@ -106,26 +131,28 @@
 		white-space: pre-wrap
 		border-radius: 5px
 		padding: 30px !important
-	  
 
-@media screen and (max-width: 860px)
-	.post__content
-		width: 100%
-		max-width: 100%
-		flex-basis: 100%
-		margin-left: 0
-		margin-right: 0
-		padding: 0 20px
+.pagination
+	display: block
+	width: 100%
+	margin: 6rem .8rem
+	text-align: center
 
-		img
-			max-width: 100%
-			width: 100%
+.pagination li
+	list-style: none
+	display: inline-block
+	font-weight: bolder
+	font-size: 2.5rem
+	padding: 1rem
 
-		h1 
-			font-size: 1.8em
+	@media only screen and (max-width: $screen-md)
+		font-size: 1.5rem
 
-		h2
-			font-size: 1.6em
-		
-		h3
-			font-size: 1.2em
+	@media only screen and (min-width: $screen-md)
+		font-size: 2.1rem
+
+.pagination li a
+	@extend .link--inverted
+
+.pagination li.active a
+	@extend .link

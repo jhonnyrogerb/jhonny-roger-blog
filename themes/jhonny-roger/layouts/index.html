@@ -15,14 +15,14 @@
     </p>
      <p class="sb-categories-post">
         {{ range .Params.categories }}
-        <a href="{{ "categories" | relLangURL }}{{ . | urlize }}" class="sd-btn-category">{{ . }}</a> 
+            <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="sd-btn-category">{{ . }}</a> 
         {{ end }}
     </p>
     {{end}}
 </section>
 
 <section class="list__post list__post--featured">
-    {{ range first 9 (after 1 .Pages)}}
+    {{ range first 6 (after 1 .Pages)}}
     <div class="list__post-item">
         <div class="list__post-figure-wrapper">        
             <a href="{{ .RelPermalink }}">
@@ -48,7 +48,7 @@
 
 
 <section class="list__post list__post--default">
-    {{ range first 20 (after 10 .Pages)}}
+    {{ range first 20 (after 7 .Pages)}}
     <div class="list__post-item">
         <h1 class="list__post-title">
             <a class="link--inverted" href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
@@ -69,6 +69,9 @@
     {{end}}
 </section>
 
-<a href="{{ .Site.BaseURL}}todos-posts/" id="sb-todos-artigos"><span>+</span> Todos Artigos</a>
+<section class="all-posts__wrapper">
+    <a href="{{ .Site.BaseURL}}todos-posts/" class="btn-all-posts"><span>+</span> Todos os Posts</a>
+</section>
+
 
 {{ partial "footer.html" . }}
