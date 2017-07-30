@@ -3,7 +3,6 @@
 {{ partial "header.html" . }}
 
 <section class="main__post main__post--is-post">
-    {{ range first 1 (where .Site.Pages "Type" "post")}}
     <h1 class="main__post-title">
         <a class="link" href="{{ .RelPermalink }}">
             {{ .Title | markdownify }}
@@ -20,7 +19,6 @@
             <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="sd-btn-category">{{ . }}</a> 
         {{ end }}
     </p>
-    {{end}}
 </section>
 
 
