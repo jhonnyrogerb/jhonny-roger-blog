@@ -1,5 +1,4 @@
-.sd-is-post
-	height: auto !important
+
 
 .sb-categories-post 
 	text-align: center
@@ -14,17 +13,34 @@
 		color: #fac200
 		font-weight: bolder
 
-#sd-post
+.post__wrapper
 	display: flex
 	max-width: 100%
 	width: 100%
+	overflow: hidden
 
-#sd-post-content
+.post__sidebar
+	@media only screen and (max-width: $screen-md)
+		display: none
+
+	@media only screen and (min-width: $screen-md)
+		flex: 1 0
+		order: 2
+
+.list__post-sidebar
+	margin: 5px 0
+
+.list__post-sidebar-item
+	margin: 0
+
+	&:hover .list__post-figure
+		transform: scale(1.12)
+
+.post__content
 	order: 1
 	flex: 1 0
 	padding: 40px 40px 40px 80px
 	max-width: 75%
-	width: 75%
 	flex-basis: 75%
 	font-size: 21px
 	color: #3c3c3c
@@ -92,58 +108,8 @@
 		padding: 30px !important
 	  
 
-#sd-post-sidebar
-	order: 2
-	padding: 50px 20px
-	color: #332925
-
-	h2
-		font-size: 1.5rem
-		color: #FAC200
-		margin-bottom: 10px
-
-	li
-		max-width: 300px
-		list-style: none
-		padding-bottom: 20px
-
-	a
-		text-decoration: none
-		color: #494949
-
-		&:hover
-			color: #FAC200
-
-	#sd-main-list
-		margin: 0
-
-		.sd-post-figure
-			margin: 0 0 15px 0
-			display: block
-			flex: none
-			max-width: 100%
-			width: 100%
-
-			a
-				figure
-					height: 160px
-					width: 100%
-
-					img
-						width: 120%
-
-			h1
-				font-size: 16px
-
-
 @media screen and (max-width: 860px)
-	#sd-post
-		display: block
-
-	#sd-post-sidebar
-		display: none
-
-	#sd-post-content
+	.post__content
 		width: 100%
 		max-width: 100%
 		flex-basis: 100%

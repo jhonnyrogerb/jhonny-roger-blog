@@ -37,18 +37,28 @@
 .list__post
 	display: flex
 	flex-wrap: wrap
-	margin: 5px 20px	
+
+	@media only screen and (max-width: $screen-sm)
+		margin: 5px 10px	
+
+	@media only screen and (min-width: $screen-sm)
+		margin: 5px 20px
 
 .list__post-item
-	flex: 1 0 350px
-	margin: 20px 10px
 	position: relative
+
+	@media only screen and (max-width: $screen-sm)
+		margin: 5px 0
+		flex: 1 0 100%	
+
+	@media only screen and (min-width: $screen-sm)
+		margin: 5px 20px
+		flex: 1 0 350px
 
 	&:hover .list__post-figure
 		transform: scale(1.12)
 
-.list__post--default .list__post-item
-	border-bottom: 1px solid rgba(51, 41, 37, .2)
+
 
 .list__post-figure-wrapper
 	max-height: 250px
@@ -71,7 +81,6 @@
 	font-size: 1rem
 	padding: 0 10px
 
-
 .list__post-author
 	font-size: 14px
 	color: #444
@@ -79,26 +88,35 @@
 	padding: 10px
 	font-weight: bolder
 
-
 .list__post--featured .sd-btn-category
+	transform : translateY(-20px)
 	background: #332925
-	width: auto
 	display: inline-block
 	position: absolute
-	margin: 0 10px
-	right: 0
+	right: 10px
 	padding: 10px 20px
 	border-radius: 40px
 	text-decoration: none
 	color: #fac200
 	font-weight: bolder
 
+.list__post-sidebar .sd-btn-category
+	transform : translateY(-20px)
+	background: #332925
+	display: inline-block
+	position: absolute
+	right: 10px
+	padding: 10px 20px
+	border-radius: 40px
+	text-decoration: none
+	color: #fac200
+	font-weight: bolder
 
 .list__post--default .sd-btn-category
 	background: #332925
 	display: inline-block
 	position: absolute
-	right: 20px
+	right: 10px
 	bottom: -20px
 	padding: 10px 20px
 	border-radius: 40px
@@ -106,167 +124,5 @@
 	color: #fac200
 	font-weight: bolder
 
-
-.sd-post-list
-	display: flex
-	flex-wrap: wrap
-	margin: 5px 20px
-
-	.sd-post-figure
-		flex: 1 0
-		margin: 5px 10px 50px
-		width: calc(33% - 20px)
-		flex-basis: calc(33% - 20px)
-		padding: 20px 0
-		border-bottom: 1px solid rgba(51, 41, 37, .2)
-		position: relative
-
-		.sd-btn-category
-			transform : translateY(-10px)
-			background: #332925
-			display: inline-block
-			position: absolute
-			margin: 0 10px
-			right: 0
-			bottom: -25px
-			padding: 10px 20px
-			border-radius: 40px
-			text-decoration: none
-			color: #fac200
-			font-weight: bolder
-
-			&:hover
-				transform: scale(1.15) translateY(-10px)
-
-		header
-			width: 100%
-
-		figure
-			height: 250px
-			overflow: hidden
-
-			img
-				width: 100%
-
-		h3
-			font-size: 20px
-			font-weight: bolder
-
-			a
-				text-decoration: none
-				color: #332925
-
-				&:hover
-					color: #FAC200
-
-			.sd-main-excerpt
-				color: #795227
-				font-size: 14px
-				padding: 5px 0
-				font-weight: lighter
-
-			.sd-main-author
-				font-size: 14px
-				color: #444
-				margin-top: 10px
-
-				a
-					text-decoration: none
-					color: #FAC200
-					margin: 0 4px
-					font-weight: bolder
-					font-size: 16px
-
-					&:hover
-						color: #332925
-
-
-.pagination
-	display: block
-	width: 100%
-	text-align: center
-	margin-top: 50px
-
-	li
-		display: inline-block
-		a, span
-			border-radius: 20px
-			margin: 0 5px
-
-		a 
-			text-decoration: none
-			color: #332925
-			background: #FAC200
-			position: relative
-			float: left
-			padding: 10px 20px
-			font-size: 22px
-			font-weight: bolder
-
-			&:hover
-				background: #332925
-				color : #FAC200
-
-
-#sb-todos-artigos
-	border-radius: 20px
-	padding: 15px 40px
-	background: #332925
-	color: #FAC200
-	text-decoration: none
-	margin: 50px auto
-	font-size: 26px
-	display: block
-	clear: both
-	width: 250px
-
-	&:hover
-		transform: scale(1.1) 
-
-/*@media screen and (max-width: 768px)
-	#sd-main-post
-		padding-top: 40px
-
-		h1
-
-			a
-				font-size: 2em
-				display: block
-				padding: 0
-
-		.sd-main-excerpt
-			font-size: 1.2em
-			font-weight: lighter
-
-	.sd-post-list
-		margin: 30px 10px 10px
-
-		h1 
-			margin: 10px
-
-		.sd-post-figure
-			width: 100%
-			flex-basis: 100%
-
-			.sd-main-author
-				margin-bottom: 20px
-
-
-		.sd-post-figure
-			width: 100%
-			flex-basis: 100%
-			margin-left: 0 
-			margin-right: 0 
-			padding-left: 0 
-			padding-right: 0 
-
-	#sd-main-list
-		margin: 30px 10px 10px
-
-		.sd-post-figure
-			width: 100%
-			flex-basis: 100%
-			margin-left: 0 
-			margin-right: 0  
-			padding-left: 0 
-			padding-right: 0 */
+.list__post--default .list__post-item
+	border-bottom: 1px solid rgba(51, 41, 37, .2)

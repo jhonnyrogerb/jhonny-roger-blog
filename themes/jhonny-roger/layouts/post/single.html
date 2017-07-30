@@ -2,67 +2,60 @@
 
 {{ partial "header.html" . }}
 
-<section id="sd-main-post" class="main__post main__post--is-post">
+<section class="main__post main__post--is-post">
+    {{ range first 1 (where .Site.Pages "Type" "post")}}
     <h1 class="main__post-title">
-        <a class="main__post-link" href="{{ .RelPermalink }}">
+        <a class="link" href="{{ .RelPermalink }}">
             {{ .Title | markdownify }}
         </a>
     </h1>
-    <p class="sd-main-excerpt">
+    <p class="main__post-excerpt">
         {{if .Param "excerpt"}} {{ .Param "excerpt" }} {{else}} {{ .Summary }} {{end}}
     </p>
-    <p class="sd-main-author">
-        por <a href="{{ "/author/" | relLangURL }}{{ .Param "author" | urlize }}">{{ .Param "author" }}</a>{{ .Date.Format "02/01/2006" }}
+    <p class="main__post-author">
+        por <a class="link" href="{{ "/author/" | relLangURL }}{{ .Param "author" | urlize }}">{{ .Param "author" }} </a>{{ .Date.Format "02/01/2006" }}
     </p>
      <p class="sb-categories-post">
         {{ range .Params.categories }}
-        <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="sd-btn-category">{{ . }}</a> 
+        <a href="{{ "categories" | relLangURL }}{{ . | urlize }}" class="sd-btn-category">{{ . }}</a> 
         {{ end }}
     </p>
+    {{end}}
 </section>
 
-<div id="sd-post">
-    <aside id="sd-post-sidebar">
-        <section id="sd-main-list">
+
+<main class="post__wrapper">
+    <aside class="post__sidebar">
+        <section class="list__post-sidebar">
             {{ range first 9 ( where ( where .Site.Pages.ByDate.Reverse ".Params.categories" "intersect" .Params.categories ) "Permalink" "!=" .Permalink ) }}
-                <div class="sd-post-figure">
+            <div class="list__post-sidebar-item">
+                <div class="list__post-figure-wrapper">        
                     <a href="{{ .RelPermalink }}">
-                        <figure class="tb-post-img" style="background: url('{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}') no-repeat center; background-size: cover">
+                        <figure class="list__post-figure" style="background: url('{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}') no-repeat center; background-size: cover">
                         </figure>
                     </a>
                     {{ range first 1 .Params.categories }}
-                    <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="sd-btn-category">{{ . }}</a> 
+                        <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="sd-btn-category">{{ . }}</a> 
                     {{ end }}
-                    <h1>
-                        <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
-                    </h1>
-                    <p class="sd-main-author">
-                        por <a href="{{ "/author/" | relLangURL }}{{ .Param "author" | urlize }}">{{ .Param "author" }}</a>{{ .Date.Format "02/01/2006" }}
-                    </p>
                 </div>
+                <h1 class="list__post-title">
+                    <a class="link--inverted" href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+                </h1>
+                <p class="list__post-excerpt">
+                    {{if .Param "excerpt"}} {{ .Param "excerpt" }} {{else}} {{ .Summary }} {{end}}
+                </p>
+                <p class="list__post-author">
+                    por <a class="link" href="{{ "/author/" | relLangURL }}{{ .Param "author" | urlize }}">{{ .Param "author" }}</a> {{ .Date.Format "02/01/2006" }}
+                </p>
+            </div>
             {{end}}
         </section>
     </aside>
 
-       <section id="sd-post-content">
-        <article class="sd-post-article">
-          {{.Content}}
-        </article>
-
-        <div class="sd-related-posts">
-            <h3>Leia mais:</h3>
-            <ul>
-                {{ range first 3 ( where ( where .Site.Pages.ByDate.Reverse ".Params.categories" "intersect" .Params.categories ) "Permalink" "!=" .Permalink ) }}
-                <li class="tb-related-post">
-                  <a href="{{ .RelPermalink }}/?utm_source=tablelessRelatedLin">{{ .Title | markdownify }}</a><br />
-              </li>
-
-              {{ end }}
-          </ul>
-      </div>
-
-      {{ partial "comments.html" . }}
-    </section>
-</div>
+    <article class="post__content">
+        {{.Content}}
+        {{ partial "comments.html" . }}
+    </article>
+</main>
 
 {{ partial "footer.html" . }}

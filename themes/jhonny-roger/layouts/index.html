@@ -29,9 +29,10 @@
                 <figure class="list__post-figure" style="background: url('{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}') no-repeat center; background-size: cover">
                 </figure>
             </a>
+            {{ range first 1 .Params.categories }}
+                <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="sd-btn-category">{{ . }}</a> 
+            {{ end }}
         </div>
-        {{ range first 1 .Params.categories }}
-        <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="sd-btn-category">{{ . }}</a> {{ end }}
         <h1 class="list__post-title">
             <a class="link--inverted" href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
         </h1>
