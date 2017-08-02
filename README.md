@@ -1,2 +1,1 @@
-# sejedev
-Codigo fonte do blog "Seje" Dev
+Codigo fonte do blog meu blog pessoal
