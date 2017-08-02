@@ -22,6 +22,7 @@
 </section>
 
 <section class="list__post list__post--featured">
+    {{ if gt (len (.Pages)) 1 }}
     {{ range first 6 (after 1 .Pages)}}
     <div class="list__post-item">
         <div class="list__post-figure-wrapper">        
@@ -44,10 +45,12 @@
         </p>
     </div>
     {{end}}
+    {{end}}
 </section>
 
 
 <section class="list__post list__post--default">
+    {{ if gt (len (.Pages)) 7 }}
     {{ range first 20 (after 7 .Pages)}}
     <div class="list__post-item">
         <h1 class="list__post-title">
@@ -66,6 +69,7 @@
         <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="sd-btn-category">{{ . }}</a> {{ end }}
         {{ end }}        
     </div>
+    {{end}}
     {{end}}
 </section>
 

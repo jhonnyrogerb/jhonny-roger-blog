@@ -25,6 +25,7 @@
 <main class="post__wrapper">
     <aside class="post__sidebar">
         <section class="list__post-sidebar">
+            {{ if gt (len ( where ( where .Site.Pages.ByDate.Reverse ".Params.categories" "intersect" .Params.categories ) "Permalink" "!=" .Permalink )) 7 }}
             {{ range first 9 ( where ( where .Site.Pages.ByDate.Reverse ".Params.categories" "intersect" .Params.categories ) "Permalink" "!=" .Permalink ) }}
             <div class="list__post-sidebar-item">
                 <div class="list__post-figure-wrapper">        
@@ -43,6 +44,7 @@
                     por <a class="link" href="{{ "/author/" | relLangURL }}{{ .Param "author" | urlize }}">{{ .Param "author" }}</a> {{ .Date.Format "02/01/2006" }}
                 </p>
             </div>
+            {{end}}
             {{end}}
         </section>
     </aside>
