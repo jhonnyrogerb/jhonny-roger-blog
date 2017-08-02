@@ -4,7 +4,7 @@ baseURL = "https://jhonnyroger.com/"
 theme = "jhonny-roger"
 enableRobotsTXT = "true"
 disqusShortname = "Jhonny Roger"
-googleAnalytics = "UA-103073817-1"
+googleAnalytics = "UA-103637264-1"
 
 [params]
     siteName = "Blog | Jhonny Roger - Software Developer"
