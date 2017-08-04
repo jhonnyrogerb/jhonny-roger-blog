@@ -22,7 +22,7 @@
 </section>
 
 <section class="list__post list__post--featured">
-    {{ if gt (len (.Pages)) 1 }}
+    {{ if gt (len (.Pages)) 2 }}
     {{ range first 6 (after 1 .Pages)}}
     <div class="list__post-item">
         <div class="list__post-figure-wrapper">        
@@ -50,7 +50,7 @@
 
 
 <section class="list__post list__post--default">
-    {{ if gt (len (.Pages)) 7 }}
+    {{ if gt (len (.Pages)) 8 }}
     {{ range first 20 (after 7 .Pages)}}
     <div class="list__post-item">
         <h1 class="list__post-title">
