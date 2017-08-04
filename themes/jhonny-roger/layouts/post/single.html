@@ -51,7 +51,7 @@
 
     <article class="post__content">
         {{.Content}}
-        {{ partial "comments.html" . }}
+        {{ template "_internal/disqus.html" . }}
     </article>
 </main>
 
