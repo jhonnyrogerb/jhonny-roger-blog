@@ -23,13 +23,13 @@ AFINAL, O QUE SÃO GERADORES DE SITES ESTÁTICOS?
 
 Geradores de sites estáticos, são ferramentas que possibilitam gerar HTML puro a partir de templates predefinidos sem nenhuma dependência no servidor, ou seja, sem precisar de banco de dados, servidores, frameworks web ou qualquer coisa do tipo (alguns até usam algum banco de dados como fonte de conteúdo, porem o resultado final sempre serão arquivos estáticos). 
 
-A grande maioria destas ferramentas são alimentadas com arquivos de texto no formato .md, o famoso markdown, onde o conteúdo destes arquivos é injetado em um motor de template e convertido em arquivos HTML prontos para serem servidos para o usuário. Eles oferecem recursos como loopings, templates, condicionais, includes, e dependendo do caso funcionalidades extras da linguagem na qual o ele foi escrito. 
+A grande maioria destas ferramentas são alimentadas com arquivos de texto no formato .md, o famoso markdown, onde o conteúdo destes arquivos é injetado em um motor de template e convertido em arquivos HTML prontos para serem servidos para o usuário. Eles oferecem recursos como loopings, templates, condicionais, includes, e dependendo do caso, funcionalidades extras da linguagem na qual ele foi escrito. 
  
  
 E QUAIS SÃO AS VANTAGENS DESSES GERADORES?
 ------------------------------------------
 
-Bem a principal vantagem é que você estará servindo conteúdo estático, ou seja, nada de se preocupar em preparar todo um ambiente server-side com servidores, banco de dados, frameworks, dependências, módulos, plugins, é só pegar os arquivos html gerados, jogar em um servidor HTTP qualquer tipo o Apache ou Nginx e pronto o site já está funcionando. 
+Bem a principal vantagem é que você estará servindo conteúdo estático, ou seja, nada de se preocupar com todo um ambiente server-side de servidores, banco de dados, frameworks, dependências, módulos, plugins, é só pegar os arquivos html gerados, jogar em um servidor HTTP qualquer tipo o Apache ou Nginx e pronto o site já está funcionando. 
  
 Uma outra vantagem é a velocidade, pense em um blog feito em WordPress, toda vez que um usuário requisitar uma página do blog no mínimo acontece o seguinte: 
 
