@@ -23,7 +23,7 @@
 
 <section class="list__post list__post--featured">
     {{ if gt (len (.Pages)) 2 }}
-    {{ range first 6 (after 1 .Pages)}}
+    {{ range first 1 (after 1 .Pages)}}
     <div class="list__post-item">
         <div class="list__post-figure-wrapper">        
             <a href="{{ .RelPermalink }}">
