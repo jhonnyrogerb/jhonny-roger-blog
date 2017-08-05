@@ -6,8 +6,9 @@ type: post
 date: 2017-08-04
 excerpt: Primeira parte da série de tutorias sobre o gerador de sites estáticos Hugo, abordando o processo de instação da ferramenta.
 categories:
-  - Geradores estáticos
   - Hugo
+  - Geradores estáticos
+  - Tutorial
   - Go
   - HTML
 tags:

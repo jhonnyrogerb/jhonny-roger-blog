@@ -1,7 +1,7 @@
 ---
 title: Todos os posts
-excerpt: Estes são TODOS os posts do Tableless. São mais de 1600 posts, listados do mais novo para o mais velho. Enjoy!
-author: Diego Eis
+excerpt: Todos os posts do Site!
+author: Jhonny Roger
 type: page
-date: 2016-04-09
+date: 2017-08-01
 ---
