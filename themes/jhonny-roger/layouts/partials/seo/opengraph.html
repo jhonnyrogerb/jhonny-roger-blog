@@ -4,7 +4,7 @@
 <meta property="og:title" content="{{ .Title}}">
 <meta property="og:site_name" content="Jhonny Roger">
 <meta property="og:description" content="{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.description}}{{ else }}{{if .Param "excerpt"}}{{ .Param "excerpt" }}{{else}}{{ .Summary }}{{end}}{{ end }}" name="description">
-<meta property="og:image" content="{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}">
+<meta property="og:image" content="{{ .Site.BaseURL }}{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}">
 <meta property="fb:app_id" content="1933697806885402">
 <meta property="og:type" content="article">
 <meta property="article:author" content="{{ .Params.author }}">
@@ -16,4 +16,4 @@
 <meta name="twitter:site" content="@jhonnyrogerb">
 <meta name="twitter:title" content="{{.Title}}">
 <meta name="twitter:description" content="{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.description}}{{ else }}{{if .Param "excerpt"}}{{ .Param "excerpt" }}{{else}}{{ .Summary }}{{end}}{{ end }}">
-<meta name="twitter:image" content="{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}">
+<meta name="twitter:image" content="{{ .Site.BaseURL }}{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}">
