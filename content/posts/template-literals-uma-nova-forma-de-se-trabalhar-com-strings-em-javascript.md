@@ -68,10 +68,10 @@ Com template literals a tarefa de construir strings multilinha é bem simples, �
 	//Julia
 
   
-CONCATENAÇÃO / EXPRESSÕES
+CONCATENAÇÃO E EXPRESSÕES
 ------------
 
-Concatenar valores também é uma tarefa fácil com template literals, pois com esta nova especificação foi introduzido as expressions. Estas expressões seguem uma lógica e sintaxe parecida com as expressões de template engines famosas como Ejs, Handlebars, Pug, Mustache, e são declaradas da seguinte com a sintaxe ( *${expressão}* ).
+Concatenar valores também é uma tarefa fácil com template literals, pois com esta nova especificação foi introduzido as expressions. Estas expressões seguem uma lógica e sintaxe parecida com as expressões de template engines famosas como Ejs, Handlebars, Pug, Mustache, e são declaradas da seguinte forma ( *${expressão}* ).
 Veja alguns exemplos:
 
 Usando strings literais padrão do JavaScript
