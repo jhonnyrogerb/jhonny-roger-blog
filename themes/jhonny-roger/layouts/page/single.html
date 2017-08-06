@@ -1,0 +1,31 @@
+{{ $.Scratch.Add "page" true }}
+{{ partial "header.html" . }}
+
+<section class="main__post main__post--is-post">
+    <h1 class="main__post-title">
+        <a class="link" href="{{ .RelPermalink }}">
+            {{ .Title | markdownify }}
+        </a>
+    </h1>
+    <p class="main__post-excerpt">
+        {{if .Param "excerpt"}} {{ .Param "excerpt" }} {{else}} {{ .Summary }} {{end}}
+    </p>
+    <p class="main__post-author">
+        por <a class="link" href="{{ "/author/" | relLangURL }}{{ .Param "author" | urlize }}">{{ .Param "author" }} </a>{{ .Date.Format "02/01/2006" }}
+    </p>
+     <p class="sb-categories-post">
+        {{ range .Params.categories }}
+            <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="sd-btn-category">{{ . }}</a> 
+        {{ end }}
+    </p>
+</section>
+
+<main class="post__wrapper">
+    <article class="post__content">
+        {{.Content}}
+        {{ partial "comments.html" . }}
+    </article>
+</main>
+
+{{ partial "footer.html" . }}
+

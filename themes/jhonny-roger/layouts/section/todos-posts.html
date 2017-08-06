@@ -10,7 +10,7 @@
 
 
 <section class="list__post list__post--default">
-    {{range .Site.RegularPages }}
+    {{ range (where .Site.Pages "Type" "post")}}
     <div class="list__post-item">
         <h1 class="list__post-title">
             <a class="link--inverted" href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>

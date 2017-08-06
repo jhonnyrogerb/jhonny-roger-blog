@@ -16,7 +16,6 @@ var combineMediaQueries = require('gulp-combine-mq');
 
 var staticFolder = "./themes/jhonny-roger/static";
 
-console.log(`${staticFolder}/js/*.js`)
 gulp.task('css', function(){
 	return gulp.src(`${staticFolder}/css/style.sass`)
 	.pipe(sass().on('error', sass.logError))
