@@ -1,5 +1,5 @@
 ---
-title: Construindo um site estático com Hugo Parte 1 - Instalação
+title: Hugo - Construindo Sites Estáticos Parte 1 - Instalação
 author: Jhonny Roger
 image: /img/hugologo.png
 type: post
@@ -22,7 +22,7 @@ tags:
 
 Como prometido, vou dar início a uma série de posts explicando como construir um site estático com o Hugo, começando pelo processo de instalação da ferramenta.
  
-O Hugo é um gerador estático construído em Go, ou seja, ele é multiplataforma. Existem várias maneiras de se instalar o Hugo dependendo do sistema operacional,
+Ele é um gerador estático escrito em Go, ou seja, é multiplataforma. Existem várias maneiras de se instalar o Hugo dependendo do sistema operacional.
 
 INSTALANDO NO MODO FÁCIL
 ------------------------
@@ -30,7 +30,7 @@ INSTALANDO NO MODO FÁCIL
 
 Isso mesmo! Os binários do Hugo não tem dependências externas e não precisam necessariamente de instalação para serem utilizados, basta executar o arquivo hugo (ou hugo.exe).
 
-Para encontrar estes binários basta ir na [página de releases](https://github.com/gohugoio/hugo/releases) do Hugo, lá você encontrará todas as versões do Hugo para todas as plataformas oficialmente suportadas. 
+Para encontrar estes binários basta ir na [página de releases](https://github.com/gohugoio/hugo/releases) do Hugo, lá você encontrará todas as versões para todas as plataformas oficialmente suportadas. 
  
 INSTALANDO COM GERENCIADORES DE PACOTES
 ---------------------------------------
@@ -67,11 +67,11 @@ O modo raiz de se instalar o Hugo é baixar o código fonte e compilar ele você
  
 Se você preferir compilar a versão mais atualizada o possível do Hugo, basta clonar o repositório no Github que lá já vai ter todo o código necessário, lembrando que através deste método existe o risco de você baixar versões instáveis e com bugs inesperados. Se uma versão mais estável é o que você procura, é só ir na [página de releases](https://github.com/gohugoio/hugo/releases) do Hugo é baixar a versão do código fonte que mais te agrada. 
  
-Com o código baixado basta entrar na pasta raiz do código fonte,  onde se encontrar o arquivo *main.go* e digitar o seguinte comando:
+Com o código baixado basta entrar na pasta raiz do código fonte, onde se encontrar o arquivo *main.go* e digitar o seguinte comando:
 
     go build -o hugo main.go
 
- Este comando irá compilar o código fonte e gerar o executável do Hugo na mesma pasta onde o comando foi executado, agora é so adicionar o executável no $PATH do sistema e pronto! 
+ Este comando irá compilar o código fonte e gerar o executável do Hugo na mesma pasta onde o comando foi executado, agora é so adicionar o executável no PATH do sistema e pronto! 
 
 Por enquanto é isso, o próximo post será sobre a estrutura básica de pastas e arquivos do Hugo, além de já introduzir alguns comandos básicos e outras funcionalidades!
 
