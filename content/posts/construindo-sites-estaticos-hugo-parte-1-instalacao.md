@@ -18,6 +18,7 @@ tags:
   - golang
   - html
   - static generators
+  - hugo
 ---
 
 Como prometido, vou dar início a uma série de posts explicando como construir um site estático com o Hugo, começando pelo processo de instalação da ferramenta.
