@@ -18,6 +18,7 @@ tags:
   - golang
   - html
   - static generators
+  - hugo
 ---
 
 A estrutura de diretórios do Hugo é bastante simples, no total são 6 pastas principais e um arquivo de configuração. Para gerar o esqueleto de um novo projeto via CLI basta digitar o comando:
