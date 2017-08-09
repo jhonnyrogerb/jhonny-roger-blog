@@ -114,9 +114,9 @@ Eu explicarei cada uma delas de forma detalhada com casos de uso próximos da re
 
 MAP
 ---
-Como dito anteriormente, o map percorrerá todas os elementos da sua coleção, aplicar uma regra pré definida e te devolver uma nova coleção com todas as regras aplicadas.
+Como dito anteriormente, o map percorrerá todas os elementos da sua coleção, aplicará uma regra pré definida e te devolverá uma nova coleção com todas as regras aplicadas.
 
-Imagine que você tenha que aplicar uma regra na nossa coleção de exemplo, onde todos os carros sofrerão uma desvalorização de 5% sobre o valor do preço, com o map seria possível resolver isto com três linhas:
+Imagine que você tenha que aplicar uma regra na coleção de exemplo, onde todos os carros sofrerão uma desvalorização de 5% sobre o valor do preço, com o map seria possível resolver isto com três linhas:
 
     let carrosDesvalorizados = carros.map(function(element, index, array){
 		element.price = element.price - (element.price * 0.05)
@@ -211,7 +211,7 @@ Neste exemplo mesmo, nós pegamos o array original *carros*, aplicamos uma regra
 
 FILTER
 ------
-Recapitulando, o filter serve para você remover valores indesejados de sua coleção, ele utiliza expressões booleanas para decidir se um elemento permanecerá ou não no array. Se o resultado da expressão for falso o item será excluído da coleção final, se a expressão for verdadeira o item será mantido. 
+Recapitulando, o filter serve remover valores indesejados de uma coleção, ele utiliza expressões booleanas para decidir se um elemento permanecerá ou não no array. Se o resultado da expressão for falso o item será excluído da coleção final, se a expressão for verdadeira o item será mantido. 
 
 Os parâmetros do callback do método filter são praticamente os mesmos do callback do método map, veja um exemplo prático onde será removido da coleção final qualquer carro com valor inferior a R$ 50.000,00:
 
@@ -255,7 +255,7 @@ Os parâmetros do callback do método filter são praticamente os mesmos do call
 
 REDUCE
 ------
-Chegamos no meu método preferido dentre os três, o *reduce*, ela serve para agrupar, reduzir, somar, concatenar, subtrair os valores de sua coleção. 
+Chegamos no meu método preferido dentre os três, o *reduce*, ela serve para agrupar, reduzir, somar, concatenar, subtrair, etc os valores de sua coleção. 
 
 Assim como o *map* e o *filter* o *reduce* percorrerá a coleção da esquerda para a direita e retornará um callback para cada elemento percorrido. A maior diferença entre ele e os outros dois métodos citados é que o *reduce* guarda um valor acumulativo que é incrementado a cada expressão de retorno do callback.
 
@@ -294,7 +294,7 @@ Como podemos ver na ordem de execução, o primeiro valor acumulado sempre é o 
 	//acumulado: 10, operacao: 10+5
 	//acumulado: 15, operacao: 15+6
 
-Vamos agora para a coleção de exemplo e aplicar algumas regras mais avançadas com o reduce, imagine que você precise agrupar os carros por marca, com o reduce esta tarefa ficaria da seguinte forma: 
+Vamos agora voltar para a coleção de exemplo e aplicar algumas regras mais avançadas com o reduce, imagine que você precise agrupar os carros por marca, com o reduce esta tarefa ficaria da seguinte forma: 
 
     let carrosPorMarca = carros.reduce((value, element, index, array) => {
 		if(value[element.marca]){
@@ -312,7 +312,7 @@ Como a coleção será agrupada por marca, o nome da marca será utilizado como 
 
 A primeira verificação é para certificar se já existe alguma chave no argumento *value* com o nome da marca do elemento atual como chave. Caso não exista, esta chave será criada e ela terá como valor um array com o valor do elemento atual da iteração.
 
-Caso esta chave já exista, o valor do elemento atual só será adicionado no array correspondente a sua marca. A coleção final ficaria assim:
+Caso esta chave já exista, o valor do elemento atual apenas será adicionado no array correspondente a sua marca. A coleção final ficaria assim:
 		   
     console.log(carrosPorMarca)
     /*{  
