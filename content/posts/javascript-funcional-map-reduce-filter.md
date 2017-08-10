@@ -215,7 +215,7 @@ Recapitulando, o filter serve remover valores indesejados de uma coleção, ele 
 
 Os parâmetros do callback do método filter são praticamente os mesmos do callback do método map, veja um exemplo prático onde será removido da coleção final qualquer carro com valor inferior a R$ 50.000,00:
 
-    let carrosAcimaCinquentaMil = carros.filter((element, element, array) => {
+    let carrosAcimaCinquentaMil = carros.filter((element, index, array) => {
 		return element.price > 50000
 	})
 	
@@ -305,7 +305,7 @@ Vamos agora voltar para a coleção de exemplo e aplicar algumas regras mais ava
 		}
 	
 		return value
-	}, [])
+	}, {})
 
 
 Como a coleção será agrupada por marca, o nome da marca será utilizado como "chave única" no valor acumulado.  
