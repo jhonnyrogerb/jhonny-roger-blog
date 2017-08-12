@@ -1,5 +1,5 @@
 ---
-title: JavaScript funcional - higer-order functions, funções de primeira classe e funções puras
+title: JavaScript funcional - higher-order functions, funções de primeira classe e funções puras
 author: Jhonny Roger
 image: /img/jsf.jpg
 type: post
@@ -22,11 +22,11 @@ tags:
 ---
 
 
-Como eu exemplifiquei no [post anterior](https://jhonnyroger.com/javascript-funcional-map-reduce-filter/), as funções map, reduce e filter do JavaScript utilizam alguns conceitos de programação funcional, um destes conceitos é conhecido como *Higer-Order Functions*. Uma *higer-order function* é uma função que pode receber outra função como argumento ou retornar uma função como resultado. 
+Como eu exemplifiquei no [post anterior](https://jhonnyroger.com/javascript-funcional-map-reduce-filter/), as funções map, reduce e filter do JavaScript utilizam alguns conceitos de programação funcional, um destes conceitos é conhecido como *Higher-Order Functions*. Uma *higher-order function* é uma função que pode receber outra função como argumento ou retornar uma função como resultado. 
 
 Isto só é possível porque o JavaScript trata as suas funções como *First Class Functions*, abrasileirando, *funções de primeira classe*. Este conceito é uma característica de linguagem, e só ocorre quando ela oferece a possibilidade de tratar funções como objetos comuns que podem ser passados como argumentos, manipulados, retornados, etc.
 
-Por o JavaScript tratar as suas funções como *first class functions* o trabalho de construir *higer-order functions* é mais natural, tão natural que com certeza você já utilizou estes conceitos sem perceber! Toda vez que você escreve uma função que tem como callback uma outra função, você está utilizando o conceito de *first class function*.
+Por o JavaScript tratar as suas funções como *first class functions* o trabalho de construir *higher-order functions* é mais natural, tão natural que com certeza você já utilizou estes conceitos sem perceber! Toda vez que você escreve uma função que tem como callback uma outra função, você está utilizando o conceito de *first class function*.
 
     let a = function(){
 	   console.log("Eu sou a função a!")
@@ -52,7 +52,7 @@ Este exemplo demonstra o conceito de *first class functions*, e de como é poss�
  3. A variável *c* receberá o retorno da execução da função *b*, ou seja, agora variável *c* tem o mesmo valor da função *a* que foi retornada pela função *b*;
  4. Quando for chamada, a função *c* executará a mesma logica da função *a* já que as duas tem o mesmo valor;
 
-Agora vamos para um exemplo com higer-order functions:
+Agora vamos para um exemplo com higher-order functions:
 
 
     let menorQue = function(argumento){
@@ -115,7 +115,7 @@ Por baixo dos panos esta função está na verdade fazendo algo deste tipo:
 
 E aonde estão os conceitos de programação funcional? Bem, a função filter tem dois argumentos, um é o array que será filtrado e o outro é uma função que testará os elementos deste array.
 
-Desta forma, nós temos um exemplo de utilização de *higer-order functions* e *first-class functions* já que uma função está sendo passada como argumento para outra função.
+Desta forma, nós temos um exemplo de utilização de *higher-order functions* e *first-class functions* já que uma função está sendo passada como argumento para outra função.
 
 O mesmo vale para as funções map e reduce:
     
