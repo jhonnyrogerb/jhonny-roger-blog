@@ -257,7 +257,7 @@ REDUCE
 ------
 Chegamos no meu método preferido dentre os três, o *reduce*, ela serve para agrupar, reduzir, somar, concatenar, subtrair, etc os valores de sua coleção. 
 
-Assim como o *map* e o *filter* o *reduce* percorrerá a coleção da esquerda para a direita e retornará um callback para cada elemento percorrido. A maior diferença entre ele e os outros dois métodos citados é que o *reduce* guarda um valor acumulativo que é incrementado a cada expressão de retorno do callback.
+Assim como o *map* e o *filter*, o *reduce* percorrerá a coleção da esquerda para a direita e retornará um callback para cada elemento percorrido. A maior diferença entre ele e os outros dois métodos citados é que o *reduce* guarda um valor acumulativo que é incrementado a cada expressão de retorno do callback.
 
 Quando o método percorrer todos os elementos do array, será retornado o resultado do valor acumulado. Na sintaxe da função, este valor é o primeiro argumento do callback, os outros argumentos seguem o mesmo padrão já citado, elemento atual, índice do elemento atual e representação da coleção original. Veja um exemplo simples: 
 
@@ -312,7 +312,7 @@ Como a coleção será agrupada por marca, o nome da marca será utilizado como 
 
 A primeira verificação é para certificar se já existe alguma chave no argumento *value* com o nome da marca do elemento atual como chave. Caso não exista, esta chave será criada e ela terá como valor um array com o valor do elemento atual da iteração.
 
-Caso esta chave já exista, o valor do elemento atual apenas será adicionado no array correspondente a sua marca. A coleção final ficaria assim:
+Caso esta chave já exista, o valor do elemento atual apenas será adicionado no array correspondente à sua marca. A coleção final ficaria assim:
 		   
     console.log(carrosPorMarca)
     /*{  
@@ -427,5 +427,5 @@ Para finalizar, vamos para mais um exemplo, desta vez será necessário retornar
 	}
 	*/
 
-Deu para perceber que as possibilidades são imensas né? Você pode ainda criar verdadeiras pipelines utilizando estes métodos, filtrar, mapear e depois reduzir uma coleção em um único só fluxo. Mas isto fica para outro post :).
+Deu para perceber que as possibilidades são imensas né? Você pode ainda criar verdadeiras pipelines utilizando estes métodos, filtrar, mapear e depois reduzir uma coleção em um único fluxo. Mas isto fica para outro post :).
 Até a próxima!
