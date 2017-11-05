@@ -1,5 +1,5 @@
 ---
-title: Hugo - Construindo Sites Estáticos Parte 4 - Mais um pouco sobre a criação de Templates
+title: Hugo - Construindo Sites Estáticos Parte 4 - Criação de Templates
 author: Jhonny Roger
 image: /img/hugologo.png
 type: post

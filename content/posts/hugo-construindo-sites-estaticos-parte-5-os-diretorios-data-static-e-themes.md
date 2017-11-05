@@ -1,9 +1,9 @@
 ---
-title: Hugo - Construindo Sites Estáticos Parte 5 - Os diretórios Data, Static e Themes
+title: Hugo - Construindo Sites Estáticos Parte 5 - Data, Static e Themes
 author: Jhonny Roger
 image: /img/hugologo.png
 type: post
-date: 2017-08-13
+date: 2017-08-15
 excerpt: Para finalizarmos a nossa saga sobre a introdução ao Hugo, vamos falar sobre os três ultimos diretórios principais que faltavam, Data, Static e Themes
 categories:
   - Hugo
@@ -21,25 +21,15 @@ tags:
   - hugo
 ---
 
-    nome_do_site
-    ├── archetypes 
-    ├── config.toml 
-    ├── content
-    ├── data 
-    ├── layouts 
-    ├── static 
-    └── themes
 
 O DIRETÓRIO DATA
 -----------------
 
-O diretório Data, é um diretório onde se pode armazerar dados adicionais, como listas de endereços, listas de imagens, lista de eventos ou qualquer outro tipo de coleção dados que você queira que o HUGO utilize como suplemento para a construção das páginas de seu site.
-
-Estes dados são opcionais, ou seja, não são cruciais para a criação de uma página web, mas, eles podem ser de grande auxilio caso seja necessário consumir uma grande quantidade de dados nos templates.
-
-Os arquivos de dados podem ser armazenados em tres formatos YALM, TOML e JSON, e estarão disponiveis para consumo nos templates através da variavel *.Site.Data*. 
-
-No exemplo abaixo, temos uma coleção de imagens que foi salva no formato JSON *data/cats.json*
+O diretório Data, é um diretório onde se pode armazenar dados adicionais, como listas de endereços, listas de imagens, lista de eventos ou qualquer outro tipo de coleção dados que você queira que o HUGO utilize como suplemento para a construção das páginas de seu site. 
+  
+Estes dados são opcionais, ou seja, não são cruciais para a criação de uma página web, mas, eles podem ser de grande auxilio caso seja necessário consumir uma grande quantidade de dados nos templates. 
+  
+Os arquivos de dados podem ser armazenados em três formatos YALM, TOML e JSON. No exemplo abaixo, temos uma coleção de imagens que foi salva no formato JSON *data/cats.json* 
 
       {
         "images": [
@@ -55,7 +45,7 @@ No exemplo abaixo, temos uma coleção de imagens que foi salva no formato JSON 
         ]
     }
 
-Estes dados ficarão disponíveis nos seus templates através de um Map na váriavel *$.Site.Data*, esta coleção poderá ser consumida nos templates da seguinte forma:
+Estes dados ficarão disponíveis para serem consumidos nos seus templates através de um Map na variável *$.Site.Data*, esta coleção poderá ser consumida da seguinte forma:
 
     {{ range $.Site.Data.cats.images }}
         <img src="{{ . }}"/>
@@ -65,7 +55,7 @@ Estes dados ficarão disponíveis nos seus templates através de um Map na vári
 O DIRETÓRIO STATIC
 ------------------
 
-O diretório static, como o proprio nome diz, é onde será armazenado todos os arquivos estáticos do site como arquivos javascript, css, imagens, etc. Os arquivos serão mapeados nos templates através de urls de acordo com o nome das pastas onde eles estão armazenas, exemplo se um arquivo for armazenado na pasta *static/javascript/main.js* ele poderá ser acessado da seguinte forma:
+O diretório *Static*, como o próprio nome diz, é onde será armazenado todos os arquivos estáticos do site como arquivos javascript, css, imagens, etc. Os arquivos serão mapeados nos templates através de urls de acordo com o nome das pastas onde eles estão armazenas, exemplo se um arquivo for armazenado na pasta *static/javascript/main.js* ele poderá ser acessado da seguinte forma: 
   
     <script src="/javascript/main.js"></script>
 
@@ -73,14 +63,14 @@ O diretório static, como o proprio nome diz, é onde será armazenado todos os 
 O DIRETÓRIO THEMES
 -------------------
 
-O HUGO tem um sistema de criação, instalação e personalização de temas muito poderoso, você pode encontrar os inumeros temas criados pela comunidade [aqui](https://themes.gohugo.io/).
+O HUGO tem um sistema de criação, instalação e personalização de temas muito poderoso, você pode encontrar os inúmeros temas criados pela comunidade [aqui](https://themes.gohugo.io/).
 
-Cada tema representará um subdiretório dentro da pasta *themes*, sendo que cada pasta de tema terá seus proprios layouts, arquivos estáticos e archetypes. Para criar um novo tema pela CLI do HUGO você pode utilizar o seguinte comando:
+Cada tema representará um subdiretório dentro da pasta *themes*, sendo que cada pasta de tema terá seus próprios layouts, arquivos estáticos e archetypes. Para criar um novo tema pela CLI do HUGO você pode utilizar o seguinte comando: 
 
     hugo new theme [nome-do-tema]
     hugo new theme tema-blog
 
-Com este comando será criada uma subpasta correspondente ao nome do thema no diretório *themes*, *themes/theme-blog*. A estrutura básica ficara assim:
+Com este comando será criada uma subpasta correspondente ao nome do tema no diretório *themes*, *themes/theme-blog*. A estrutura básica ficara assim:
 
     tema-blog
     ├── archetypes 
@@ -88,9 +78,9 @@ Com este comando será criada uma subpasta correspondente ao nome do thema no di
     ├── layouts 
     └── static
 
-Estas pastas desempenham as mesmas funções que nós já vimos anteriormente, a pasta archetypes guardará esquemas de metadados reutilizaveis, a pasta layouts será responsável pelos seus templates e a pasta static será responsavel pelos arquivos estáticos. A unica diferença neste caso, é que todas estas funções serão exclusivas deste tema.
-
-Algo importante ao se considerar é a ordem de prioridades de busca do HUGO, os diretórios de um tema sempre serão os ultimos na ordem de prioridade, para exemlificar, vamos pegar um exemplo do terceiro post da nossa série:
+Estas pastas desempenharão as mesmas funções que nós já vimos anteriormente, a pasta *archetypes* guardará esquemas de metadados reutilizáveis, a pasta *layouts* será responsável pelos seus templates e a pasta *static* será responsável pelos arquivos estáticos. A única diferença neste caso, é que todas estas funções serão exclusivas deste tema. 
+  
+Algo importante ao se considerar é a ordem de prioridades de busca do HUGO, os diretórios de um tema sempre serão os últimos na ordem de prioridade, para exemplificar, vamos pegar um exemplo do terceiro post da nossa série: 
 
     1.  /layouts/artigo/artigotecnologia.html
     2.  /layouts/posts/artigotecnologia.html 
@@ -103,6 +93,6 @@ Algo importante ao se considerar é a ordem de prioridades de busca do HUGO, os 
     9.  /themes/<THEME>/layouts/posts/single.html
     10. /themes/<THEME>/layouts/_default/single.html
 
-Como você pode notar, a lista de prioridades aumentou um pouco se comparado ao post anterior, caso exista um template correspondente ao arquivo *.md* na pasta layout raiz do HUGO este template será utilizado ao invés do template que está na pasta do tema porque ele tem uma prioridade maior.
-
-Eu estari abordando melhor este assunto de criação de tema na proxima parte da nossa série de posts, agora o foco será a criação de um tema do inicio até a publicação de um blog. Até a proxima!.
+Como você pode notar, a lista de prioridades aumentou um pouco se comparado ao post anterior. Caso exista um template correspondente ao arquivo *.md* na pasta *layouts* raiz do HUGO, este template terá uma prioridade maior do que qualquer outro template que estiver dentro da pasta *layouts* do seu tema. 
+  
+Eu estarei abordando melhor o assunto de criação de tema na próxima parte da nossa série de posts, agora o foco será a criação de um tema do início até a publicação de um blog. Até a próxima!. 
