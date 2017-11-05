@@ -50,7 +50,7 @@
     "headline": "{{ .Title }}",
     "description": "{{ .Params.excerpt }}",
     "wordCount": {{ .WordCount }},
-    "datePublished" : "{{ .Params.date | .Date.Format "2006-01-02T15:04:05" }}",
+    "datePublished" : "{{ .Params.date | dateFormat "2006-01-02T15:04:05" }}",
     "dateModified" : "{{ .Date.Format "2006-01-02T15:04:05"  }}",
     "articleBody": "{{.Content| plainify}}",
     "keywords": "{{if isset .Params "tags" }}{{ .Params.tags }}{{ else }}{{ .Params.categories }}{{end}}",
@@ -59,7 +59,7 @@
         "@type": "ImageObject",
         "author": "{{ .Params.author }}",
         "url": "{{ .Site.BaseURL }}{{ .Params.image }}",
-        "datePublished": "{{ .Params.date | .Date.Format "2006-01-02T15:04:05" }}",
+        "datePublished": "{{ .Params.date | dateFormat "2006-01-02T15:04:05" }}",
         "name": "{{ .Title }}",
         "height" : 1280,
         "width" : 720
