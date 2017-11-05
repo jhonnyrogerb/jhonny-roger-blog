@@ -1,7 +1,7 @@
 ---
 title: Hugo - Construindo Sites Estáticos Parte 2 - Content e Archetype
 author: Jhonny Roger
-image: /img/hugologo.png
+image: /img/code-hugo.png
 type: post
 date: 2017-08-07
 excerpt: Nesta segunda parte da série de tutorias sobre o gerador de sites estáticos Hugo, falaremos sobre a estrutura básica do projeto, começando pelos diretórios content e archetype

@@ -1,7 +1,7 @@
 ---
 title: Hugo - Construindo Sites Estáticos Parte 4 - Criação de Templates
 author: Jhonny Roger
-image: /img/hugologo.png
+image: /img/hugo-gradiente.png
 type: post
 date: 2017-08-13
 excerpt: Falaremos um pouco mais sobre alguns conceitos básicos na construção de templates em Hugo

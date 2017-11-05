@@ -1,7 +1,7 @@
 ---
 title: Template literals, uma nova forma de se trabalhar com strings em JavaScript
 author: Jhonny Roger
-image: /img/template-literal.png
+image: /img/code-template.png
 type: post
 date: 2017-08-05
 excerpt: Vamos dar uma olhada nesta feature introduzida no ES6 que pode facilitar muito o processo de manipulação de strings em javascript.

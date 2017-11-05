@@ -1,7 +1,7 @@
 ---
 title: Hugo - Construindo Sites Estáticos Parte 5 - Data, Static e Themes
 author: Jhonny Roger
-image: /img/hugologo.png
+image: /img/HUGO.jpg
 type: post
 date: 2017-08-15
 excerpt: Para finalizarmos a nossa saga sobre a introdução ao Hugo, vamos falar sobre os três ultimos diretórios principais que faltavam, Data, Static e Themes

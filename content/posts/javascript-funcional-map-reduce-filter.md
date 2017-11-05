@@ -1,7 +1,7 @@
 ---
 title: JavaScript funcional - map, reduce e filter
 author: Jhonny Roger
-image: /img/JavaScript.jpg
+image: /img/map-filter-reduce.png
 type: post
 date: 2017-08-08
 excerpt: Neste post falaremos sobre os métodos map, reduce e filter em JavaScript e como eles podem ser poderosos aliados na hora de se trabalhar com arrays e coleções.

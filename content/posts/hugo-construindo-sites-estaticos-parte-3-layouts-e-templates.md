@@ -1,7 +1,7 @@
 ---
 title: Hugo - Construindo Sites Estáticos Parte 3 - Layouts e Templates
 author: Jhonny Roger
-image: /img/hugologo.png
+image: /img/gradiente-green.png
 type: post
 date: 2017-08-12
 excerpt: Confinuando a nossa série sobre Hugo, hoje falaremos sobre um das partes mais importantes do projeto, o diretório layouts e algumas regras sobre templates.
