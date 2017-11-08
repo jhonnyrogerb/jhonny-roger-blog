@@ -1,5 +1,5 @@
 ---
-title: JavaScript funcional - Estruturas de dados imutavies com o immutable-js
+title: Estruturas de dados imutáveis com o immutable-js
 author: Jhonny Roger
 image: /img/immutable.png
 type: post
