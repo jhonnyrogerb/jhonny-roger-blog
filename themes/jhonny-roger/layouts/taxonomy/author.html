@@ -19,7 +19,7 @@
         </p>
         <p class="list__post-author">
             {{if isset .Params "author"}}
-            por <a class="link" href="{{ "/author/" | relLangURL }}{{ .Param "author" | urlize }}">{{ .Param "author" }}</a> {{ .Date.Format "02/01/2006" }}
+            por <span class="author"><a class="link" href="{{ "/author/" | relLangURL }}{{ .Param "author" | urlize }}">{{ .Param "author" }}</a></span> <span class="date">{{ .Date.Format "02/01/2006" }}</span>
             {{end}}
         </p>
          {{if isset .Params "categories"}}

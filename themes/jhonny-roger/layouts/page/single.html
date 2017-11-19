@@ -11,7 +11,7 @@
         {{if .Param "excerpt"}} {{ .Param "excerpt" }} {{else}} {{ .Summary }} {{end}}
     </p>
     <p class="main__post-author">
-        por <a class="link" href="{{ "/author/" | relLangURL }}{{ .Param "author" | urlize }}">{{ .Param "author" }} </a>{{ .Date.Format "02/01/2006" }}
+        por <span class="author"><a class="link" href="{{ "/author/" | relLangURL }}{{ .Param "author" | urlize }}">{{ .Param "author" }} </a></span> <span class="page">{{ .Date.Format "02/01/2006" }}</span>
     </p>
      <p class="sb-categories-post">
         {{ range .Params.categories }}
