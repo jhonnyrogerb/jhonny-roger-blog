@@ -1,5 +1,5 @@
 ---
-title: "Criando um site estático com o Hugo Parte 1: Instalação"
+title: "Criando um site estático com Hugo Parte 1: Instalação"
 author: Jhonny Roger
 image: /img/hugologo.png
 type: post
@@ -8,18 +8,25 @@ excerpt: Primeira parte da série de tutorias sobre o gerador de sites estático
 categories:
   - Hugo
   - Geradores estáticos
-  - Tutorial
   - Go
-  - HTML
 tags:
   - geradores
   - estáticos
+  - site
+  - sites estáticos
+  - blog
+  - gohugo
   - go
   - golang
   - html
   - static generators
   - hugo
 ---
+
+Posts anteriores:
+
+- [O Que São Geradores de Sites Estáticos?](/o-que-sao-geradores-de-sites-estaticos/)
+
 
 Como prometido, vou dar início a uma série de posts explicando como construir um site estático com o Hugo, começando pelo processo de instalação da ferramenta.
  

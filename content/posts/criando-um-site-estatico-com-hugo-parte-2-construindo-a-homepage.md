@@ -1,19 +1,21 @@
 ---
-title: "Criando um site estático com o Hugo Parte 2: Construindo a Homepage"
+title: "Criando um site estático com Hugo Parte 2: Construindo a Homepage"
 author: Jhonny Roger
 image: /img/hugo-hero.png
 type: post
 date: 2017-10-17
-excerpt: Nesta post nós vamos começar a criar um blog estático com Hugo iniciando pela homepage.
+excerpt: Nesta post nós vamos começar a criar um blog estático com o gerador de sites estáticos Hugo, iniciando pela homepage e por algumas configurações básicas.
 categories:
   - Hugo
   - Geradores estáticos
-  - Tutorial
   - Go
-  - HTML
 tags:
   - geradores
   - estáticos
+  - site
+  - sites estáticos
+  - blog
+  - gohugo
   - go
   - golang
   - html
@@ -27,12 +29,12 @@ CRIANDO UM NOVO BLOG
 
 Para começar, vamos relembar alguns conceitos básicos lá do inicio da nossa série, caso você não tenha lido nenhum dos posts anteriores aqui vai a lista:
 
-- [O que são geradores de sites estáticos?](/o-que-sao-geradores-de-sites-estaticos)
-- [Criando um site estático com o Hugo Parte 1: Instalação](/criando-um-site-est%C3%A1tico-com-o-hugo-parte-1-instala%C3%A7%C3%A3o/)
-- [Introdução ao Hugo - Diretórios Content e Archetypes](/introdução-ao-hugo---diretórios-content-e-archetypes/)
-- [Introdução ao Hugo - Diretórios Layouts e Templates](/introdução-ao-hugo---diretórios-layouts-e-templates/)
-- [Introdução ao Hugo - Criação de Templates](/introdução-ao-hugo---criação-de-templates/)
-- [Introdução ao Hugo - Diretórios Data, Static e Themes](/introdução-ao-hugo---diretórios-data-static-e-themes/)
+- [O Que São Geradores de Sites Estáticos?](/o-que-sao-geradores-de-sites-estaticos/)
+- [Criando um site estático com Hugo Parte 1: Instalação](/criando-um-site-estatico-com-hugo-parte-1-instalacao/)
+- [Introdução ao Hugo - Diretórios Content e Archetypes](/introducao-ao-hugo-diretorios-content-e-archetypes/)
+- [Introdução ao Hugo - Diretórios Layouts e Templates](/introducao-ao-hugo-diretorios-layouts-e-templates/)
+- [Introdução ao Hugo - Criação de Templates](/introducao-ao-hugo-criacao-de-templates/)
+- [Introdução ao Hugo - Diretórios Data, Static e Themes](/introducao-ao-hugo-diretorios-data-static-e-themes/)
 
 Para criar um novo projeto Hugo basta utilizar o seguinte comando:
 

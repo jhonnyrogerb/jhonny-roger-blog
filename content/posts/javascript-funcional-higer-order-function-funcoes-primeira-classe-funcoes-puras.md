@@ -1,5 +1,5 @@
 ---
-title: JavaScript funcional - higher-order functions, funções de primeira classe e funções puras
+title: JavaScript Funcional - Higher-order Functions, Funções de Primeira Classe e Funções Puras
 author: Jhonny Roger
 image: /img/js-w.png
 type: post
@@ -8,7 +8,6 @@ excerpt: Alguns conceitos de programação funcional em JavaScript
 categories:
   - JavaScript
   - Funcional
-  - Tutorial
 tags:
   - javascript
   - ecma

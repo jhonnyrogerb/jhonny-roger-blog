@@ -1,5 +1,5 @@
 ---
-title: Estruturas de dados imutáveis com o immutable.js
+title: Estruturas de Dados Imutáveis com o Immutable.js
 author: Jhonny Roger
 image: /img/immutable.png
 type: post
@@ -8,7 +8,6 @@ excerpt: Vamos falar sobre o immutable.js, uma biblioteca fenomenal para se trab
 categories:
   - JavaScript
   - Funcional
-  - Tutorial
   - Immutable.js
 tags:
   - JavaScript

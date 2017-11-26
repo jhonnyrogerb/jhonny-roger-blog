@@ -1,21 +1,26 @@
 ---
-title: O que são geradores de sites estáticos?
+title: O Que São Geradores de Sites Estáticos?
 author: Jhonny Roger
 image: /img/hugologo.png
 type: post
 date: 2017-08-03
-excerpt: Os geradores de sites estáticos são focados na simplicidade e podem ser uma ótima alternativa aos CMS tradicionais
+excerpt: Os geradores de sites estáticos como o Hugo, Jekyll e Middleman, são focados na simplicidade e podem ser uma ótima alternativa aos CMS tradicionais
 categories:
   - Geradores estáticos
   - Hugo
   - Go
-  - HTML
 tags:
-  - ssl
+  - geradores
+  - estáticos
+  - site
+  - sites estático
+  - blog
+  - gohugo
   - go
   - golang
   - html
   - static generators
+  - hugo
 ---
 
 AFINAL, O QUE SÃO GERADORES DE SITES ESTÁTICOS?

@@ -4,16 +4,18 @@ author: Jhonny Roger
 image: /img/HUGO.jpg
 type: post
 date: 2017-08-15
-excerpt: Para finalizarmos a nossa saga sobre a introdução ao Hugo, vamos falar sobre os três ultimos diretórios principais que faltavam, Data, Static e Themes
+excerpt: Para finalizarmos a nossa saga sobre a introdução ao gerador de site estático Hugo, vamos falar sobre os três ultimos diretórios principais que faltavam, Data, Static e Themes
 categories:
   - Hugo
   - Geradores estáticos
-  - Tutorial
   - Go
-  - HTML
 tags:
   - geradores
   - estáticos
+  - site
+  - sites estáticos
+  - blog
+  - gohugo
   - go
   - golang
   - html
@@ -21,6 +23,13 @@ tags:
   - hugo
 ---
 
+Posts anteriores:
+
+- [O Que São Geradores de Sites Estáticos?](/o-que-sao-geradores-de-sites-estaticos/)
+- [Criando um site estático com Hugo Parte 1: Instalação](/criando-um-site-estatico-com-hugo-parte-1-instalacao/)
+- [Introdução ao Hugo - Diretórios Content e Archetypes](/introducao-ao-hugo-diretorios-content-e-archetypes/)
+- [Introdução ao Hugo - Diretórios Layouts e Templates](/introducao-ao-hugo-diretorios-layouts-e-templates/)
+- [Introdução ao Hugo - Criação de Templates](/introducao-ao-hugo-criacao-de-templates/)
 
 O DIRETÓRIO DATA
 -----------------

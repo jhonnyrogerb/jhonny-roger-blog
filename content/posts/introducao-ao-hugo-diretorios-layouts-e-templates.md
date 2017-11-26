@@ -4,22 +4,31 @@ author: Jhonny Roger
 image: /img/gradiente-green.png
 type: post
 date: 2017-08-12
-excerpt: Confinuando a nossa série sobre Hugo, hoje falaremos sobre um das partes mais importantes do projeto, o diretório layouts e algumas regras sobre templates.
+excerpt: Confinuando a nossa série sobre o gerador de site estático Hugo, hoje falaremos sobre um das partes mais importantes do projeto, o diretório layouts e algumas regras sobre templates.
 categories:
   - Hugo
   - Geradores estáticos
-  - Tutorial
   - Go
-  - HTML
 tags:
   - geradores
   - estáticos
+  - site
+  - sites estáticos
+  - blog
+  - gohugo
   - go
   - golang
   - html
   - static generators
   - hugo
 ---
+
+Posts anteriores:
+
+- [O Que São Geradores de Sites Estáticos?](/o-que-sao-geradores-de-sites-estaticos/)
+- [Criando um site estático com Hugo Parte 1: Instalação](/criando-um-site-estatico-com-hugo-parte-1-instalacao/)
+- [Introdução ao Hugo - Diretórios Content e Archetypes](/introducao-ao-hugo-diretorios-content-e-archetypes/)
+
 
 A pasta *layouts* é uma das mais importantes de um projeto HUGO, nela ficarão todos os templates de seu site. Estes templates são basicamente arquivos no formato *.html* que determinarão como um conjunto de páginas serão renderizadas, ou seja, como as informações ficarão dispostas quando o arquivo *.html* final de cada uma destas páginas forem gerados. 
 

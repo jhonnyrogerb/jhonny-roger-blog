@@ -1,5 +1,5 @@
 ---
-title: "Template literals: trabalhando com strings em JavaScript"
+title: "ES6 Template Literals: Trabalhando com Strings em JavaScript"
 author: Jhonny Roger
 image: /img/code-template.png
 type: post
@@ -8,8 +8,6 @@ excerpt: Vamos dar uma olhada nesta feature introduzida no ES6 que pode facilita
 categories:
   - JavaScript
   - ES6
-  - Tutorial
-  - HTML
 tags:
   - javascript
   - ecma

@@ -8,18 +8,26 @@ excerpt: Nesta segunda parte da série de tutorias sobre o gerador de sites est�
 categories:
   - Hugo
   - Geradores estáticos
-  - Tutorial
   - Go
-  - HTML
 tags:
   - geradores
   - estáticos
+  - site
+  - sites estáticos
+  - blog
+  - gohugo
   - go
   - golang
   - html
   - static generators
   - hugo
 ---
+
+Posts anteriores:
+
+- [O Que São Geradores de Sites Estáticos?](/o-que-sao-geradores-de-sites-estaticos/)
+- [Criando um site estático com Hugo Parte 1: Instalação](/criando-um-site-estatico-com-hugo-parte-1-instalacao/)
+
 
 A estrutura de diretórios do Hugo é bastante simples, no total são 6 pastas principais e um arquivo de configuração. Para gerar o esqueleto de um novo projeto via CLI basta digitar o comando:
 

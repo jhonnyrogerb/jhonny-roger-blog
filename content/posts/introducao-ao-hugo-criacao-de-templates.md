@@ -4,22 +4,31 @@ author: Jhonny Roger
 image: /img/hugo-gradiente.png
 type: post
 date: 2017-08-13
-excerpt: Falaremos um pouco mais sobre alguns conceitos básicos na construção de templates em Hugo
+excerpt: Falaremos um pouco mais sobre alguns conceitos básicos na construção de templates com o gerador de site estático Hugo
 categories:
   - Hugo
   - Geradores estáticos
-  - Tutorial
   - Go
-  - HTML
 tags:
   - geradores
   - estáticos
+  - site
+  - sites estáticos
+  - blog
+  - gohugo
   - go
   - golang
   - html
   - static generators
   - hugo
 ---
+
+Posts anteriores:
+
+- [O Que São Geradores de Sites Estáticos?](/o-que-sao-geradores-de-sites-estaticos/)
+- [Criando um site estático com Hugo Parte 1: Instalação](/criando-um-site-estatico-com-hugo-parte-1-instalacao/)
+- [Introdução ao Hugo - Diretórios Content e Archetypes](/introducao-ao-hugo-diretorios-content-e-archetypes/)
+- [Introdução ao Hugo - Diretórios Layouts e Templates](/introducao-ao-hugo-diretorios-layouts-e-templates/)
 
 O HUGO utiliza como motor de template as próprias engines de Html e Texto da linguagem GO, elas são simples e poderosas o suficiente para praticamente qualquer tarefa envolvendo a criação de templates HTML, oferecendo funcionalidades como loops, condicionais, acesso a variáveis, partials, acesso a funções, etc. 
 

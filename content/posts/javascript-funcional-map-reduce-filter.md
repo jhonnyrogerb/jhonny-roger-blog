@@ -1,5 +1,5 @@
 ---
-title: JavaScript funcional - map, reduce e filter
+title: JavaScript Funcional - Map, Reduce e Filter
 author: Jhonny Roger
 image: /img/map-filter-reduce.png
 type: post
@@ -8,7 +8,6 @@ excerpt: Neste post falaremos sobre os métodos map, reduce e filter em JavaScri
 categories:
   - JavaScript
   - Funcional
-  - Tutorial
 tags:
   - javascript
   - ecma
