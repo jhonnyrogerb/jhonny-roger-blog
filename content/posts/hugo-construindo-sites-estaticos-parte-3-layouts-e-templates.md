@@ -1,5 +1,5 @@
 ---
-title: Hugo - Construindo Sites Estáticos Parte 3 - Layouts e Templates
+title: Introdução ao Hugo - Diretórios Layouts e Templates
 author: Jhonny Roger
 image: /img/gradiente-green.png
 type: post

@@ -4,7 +4,7 @@ author: Jhonny Roger
 image: /img/immutable.png
 type: post
 date: 2017-10-07
-excerpt: Vamos falar sobre essa biblioteca fenomenal para se trabalhar com estruturas de dados 100% imutáveis em JavaScript
+excerpt: Vamos falar sobre o immutable.js, uma biblioteca fenomenal para se trabalhar com estruturas de dados 100% imutáveis em JavaScript
 categories:
   - JavaScript
   - Funcional
@@ -36,7 +36,7 @@ Existem várias formas de se instalar e utilizar o immutable.js, ele pode ser ut
 
 	npm install immutable
 
-Após este comando já será possível importar o immutable em seu código
+Após este comando já será possível importar o immutable.js em seu código
 
 	const { Map } = require('immutable')
 
@@ -82,7 +82,7 @@ Você ainda pode criar uma List passando um Array como parâmetro "construtor". 
 MAP
 ---
 
-o Map é uma estrutura imutável não ordenada baseada em chave-valor. Se no Immutable a List é o que corresponde a um Array, o Ḿap é a representação do que seria um objeto literal do JavaScript. 
+o Map é uma estrutura imutável não ordenada baseada em chave-valor. Se no Immutable.js a List é o que corresponde a um Array, o Ḿap é a representação do que seria um objeto literal do JavaScript. 
 
 Uma das grandes diferenças entre os dois, é que no caso do Map qualquer tipo valor pode ser usado como *chave* (literalmente qualquer tipo de valor, incluindo *undefined*, *false*, *null*, *true*, entre outros), já com objetos JavaScript apenas Strings são permitidas. Veja alguns exemplos:
 
@@ -182,7 +182,7 @@ Caso um atributo não esteja no Record e for passado via construtor, este atribu
 	//Atributo 'x' não foi declarado no Record será ignorado
 	const myRecord3 = new RecordEsquema({ x: 3 }) //Record { "a": 1, "b": 2 }
 
-Por enquanto é isso, o immutable é uma ferramenta que pode acrescentar muito em projetos JavaScript que buscam embarcar no paradigma funcional, assegurando que de fato todas as estruturas de dados serão imutáveis. 
+Por enquanto é isso, o immutable.js é uma ferramenta que pode acrescentar muito em projetos JavaScript que buscam embarcar no paradigma funcional, assegurando que de fato todas as estruturas de dados serão imutáveis. 
 
 Deixarei uma lista com a documentação da API de cada uma destas estruturas, com vários exemplos, métodos e recursos mais detalhados sobre o assunto. Até a próxima!
 

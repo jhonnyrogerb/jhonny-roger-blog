@@ -43,28 +43,41 @@
   <script type="application/ld+json">
   {
     "@context": "http://schema.org",
-    "@type": "Article",
+    "@type": "BlogPosting",
     "author": {
+      "@type": "Person",
       "name" : "{{ .Params.author }}"
     },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ .Permalink }}"
+    },
+    "name": "{{ .Title }}",
     "headline": "{{ .Title }}",
     "description": "{{ .Params.excerpt }}",
+    "inLanguage": "pt-BR",
+    "creator" : "{{ .Params.author }}",
+    "accountablePerson" : "{{ .Params.author }}",
+    "copyrightHolder" : "{{ .Params.author }}",
+    "copyrightYear" : "{{ .Date.Format "2006" }}",
     "wordCount": {{ .WordCount }},
+    "url": "{{ .Permalink }}",
     "datePublished" : "{{ .Params.date | dateFormat "2006-01-02T15:04:05" }}",
     "dateModified" : "{{ .Date.Format "2006-01-02T15:04:05"  }}",
     "articleBody": "{{.Content| plainify}}",
-    "keywords": "{{if isset .Params "tags" }}{{ .Params.tags }}{{ else }}{{ .Params.categories }}{{end}}",
+    {{ with .Params.tags -}}
+    "keywords": "{{ delimit . ", " }}",
+    {{- end }}
     "image" : {
-        "@context": "http://schema.org",
-        "@type": "ImageObject",
-        "author": "{{ .Params.author }}",
-        "url": "{{ .Site.BaseURL }}{{ .Params.image }}",
-        "datePublished": "{{ .Params.date | dateFormat "2006-01-02T15:04:05" }}",
-        "name": "{{ .Title }}",
-        "height" : 1280,
-        "width" : 720
-      },
-    "mainEntityOfPage" : "{{ .Permalink }}",
+      "@context": "http://schema.org",
+      "@type": "ImageObject",
+      "author": "{{ .Params.author }}",
+      "url": "{{ .Params.image | absURL }}",
+      "datePublished": "{{ .Params.date | dateFormat "2006-01-02T15:04:05" }}",
+      "name": "{{ .Title }}",
+      "height" : 1280,
+      "width" : 720
+    },
     "publisher" : {
       "@type": "Organization",
       "name" : "{{ $.Site.Params.publisherName }}",

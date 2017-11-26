@@ -1,5 +1,5 @@
 ---
-title: Template literals, uma nova forma de se trabalhar com strings em JavaScript
+title: "Template literals: trabalhando com strings em JavaScript"
 author: Jhonny Roger
 image: /img/code-template.png
 type: post

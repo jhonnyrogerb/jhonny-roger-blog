@@ -1,10 +1,10 @@
 ---
-title: Hugo - Construindo Sites Estáticos Parte 6 - Iniciando a criação de um Blog
+title: "Criando um site estático com o Hugo Parte 2: Construindo a Homepage"
 author: Jhonny Roger
 image: /img/hugo-hero.png
 type: post
 date: 2017-10-17
-excerpt: Nesta post nós vamos começar a criar um blog com Hugo iniciando pela homepage.
+excerpt: Nesta post nós vamos começar a criar um blog estático com Hugo iniciando pela homepage.
 categories:
   - Hugo
   - Geradores estáticos
@@ -25,6 +25,15 @@ tags:
 CRIANDO UM NOVO BLOG
 -----------------
 
+Para começar, vamos relembar alguns conceitos básicos lá do inicio da nossa série, caso você não tenha lido nenhum dos posts anteriores aqui vai a lista:
+
+- [O que são geradores de sites estáticos?](/o-que-sao-geradores-de-sites-estaticos)
+- [Criando um site estático com o Hugo Parte 1: Instalação](/criando-um-site-est%C3%A1tico-com-o-hugo-parte-1-instala%C3%A7%C3%A3o/)
+- [Introdução ao Hugo - Diretórios Content e Archetypes](/introdução-ao-hugo---diretórios-content-e-archetypes/)
+- [Introdução ao Hugo - Diretórios Layouts e Templates](/introdução-ao-hugo---diretórios-layouts-e-templates/)
+- [Introdução ao Hugo - Criação de Templates](/introdução-ao-hugo---criação-de-templates/)
+- [Introdução ao Hugo - Diretórios Data, Static e Themes](/introdução-ao-hugo---diretórios-data-static-e-themes/)
+
 Para criar um novo projeto Hugo basta utilizar o seguinte comando:
 
     hugo new site nome-do-site
@@ -40,7 +49,7 @@ Este comando irá gerar uma pasta com a estrutura básica de um projeto HUGO.
     ├── static 
     └── themes
 
-Nós já falamos sobre todas as pastas que compõem um site em Hugo ao longo da série, faltou apenas o arquivo *config.toml* que nós falaremos agora.
+Nós já passamos por todas as pastas que compõem um site em Hugo ao longo da série, faltou apenas o arquivo *config.toml* que nós falaremos agora.
 
 CONFIG.TOML
 -----------

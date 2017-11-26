@@ -22,8 +22,8 @@ googleAnalytics = "UA-103637264-1"
 
 
 [permalinks]
-    posts = "/:filename"
-    pages = "/:filename"
+    posts = "/:title"
+    pages = "/:title"
 
 [taxonomies]
     tag = "tags"

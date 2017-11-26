@@ -1,5 +1,5 @@
 ---
-title: Hugo - Construindo Sites Estáticos Parte 4 - Criação de Templates
+title: Introdução ao Hugo - Criação de Templates
 author: Jhonny Roger
 image: /img/hugo-gradiente.png
 type: post

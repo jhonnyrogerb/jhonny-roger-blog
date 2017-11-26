@@ -1,5 +1,5 @@
 ---
-title: Angular 1 vs Angular 2+, porque tudo mudou?
+title: "Angular 1 vs Angular 2: O problema da performance e do digest cycle"
 author: Jhonny Roger
 image: /img/upgrading-to-angular2-with-ng-upgrade.jpg
 type: post

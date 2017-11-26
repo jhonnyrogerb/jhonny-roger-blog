@@ -1,5 +1,5 @@
 ---
-title: Hugo - Construindo Sites Estáticos Parte 2 - Content e Archetype
+title: Introdução ao Hugo - Diretórios Content e Archetypes
 author: Jhonny Roger
 image: /img/code-hugo.png
 type: post

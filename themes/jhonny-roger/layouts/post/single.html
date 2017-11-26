@@ -4,9 +4,9 @@
 
 <section class="main__post main__post--is-post">
     <h1 class="main__post-title">
-        <a class="link" href="{{ .RelPermalink }}">
+        <span class="link" href="{{ .RelPermalink }}">
             {{ .Title | markdownify }}
-        </a>
+        </span>
     </h1>
     <p class="main__post-excerpt">
         {{if .Param "excerpt"}} {{ .Param "excerpt" }} {{else}} {{ .Summary }} {{end}}
