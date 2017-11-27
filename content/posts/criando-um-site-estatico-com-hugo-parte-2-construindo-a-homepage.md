@@ -3,8 +3,8 @@ title: "Criando um site estático com Hugo Parte 2: Construindo a Homepage"
 author: Jhonny Roger
 image: /img/hugo-hero.png
 type: post
-date: 2017-10-17
-excerpt: Nesta post nós vamos começar a criar um blog estático com o gerador de sites estáticos Hugo, iniciando pela homepage e por algumas configurações básicas.
+date: 2017-11-17
+excerpt: Neste post nós vamos começar a criar um blog estático com o gerador de sites estáticos Hugo, iniciando pela homepage e por algumas configurações básicas.
 categories:
   - Hugo
   - Geradores estáticos
@@ -285,4 +285,4 @@ Com uma pequena atualização no *css* a nossa página principal agora estará a
 
   ![preview hugo site](/img/Peek 2017-11-18 18-34.gif)
 
-No nosso próximo post, nós estaremos criando os templates para exibir o conteúdo de cada post e separando algumas partes reutilizáveis de nossos templates em partials. Até a próxima! 
+No nosso próximo post, nós estaremos criando os templates para exibir o conteúdo de cada post. Até a próxima! 

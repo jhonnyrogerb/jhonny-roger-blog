@@ -3,7 +3,7 @@ title: Estruturas de Dados Imutáveis com o Immutable.js
 author: Jhonny Roger
 image: /img/immutable.png
 type: post
-date: 2017-10-07
+date: 2017-11-07
 excerpt: Vamos falar sobre o immutable.js, uma biblioteca fenomenal para se trabalhar com estruturas de dados 100% imutáveis em JavaScript
 categories:
   - JavaScript

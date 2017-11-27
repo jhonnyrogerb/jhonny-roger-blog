@@ -12,6 +12,8 @@ var sass = require('gulp-sass');
 var rev = require('gulp-rev')
 var revReplace = require('gulp-rev-replace')
 var combineMediaQueries = require('gulp-combine-mq');
+var imagemin = require('gulp-imagemin');
+
 
 
 var staticFolder = "./themes/jhonny-roger/static";
@@ -34,8 +36,25 @@ gulp.task('js', function () {
 	.pipe(gulp.dest(`${staticFolder}/js`))
 });
 
+gulp.task('images', function () {
+	gulp.src(`${staticFolder}/img/*`)
+		.pipe(imagemin([
+			imagemin.gifsicle({interlaced: true, optimizationLevel: 3, colors: 32}),
+			imagemin.jpegtran({progressive: true}),
+			imagemin.optipng({optimizationLevel: 6}),
+			imagemin.svgo({
+				plugins: [
+					{removeViewBox: true},
+					{cleanupIDs: false}
+				]
+			})
+		]))
+		.pipe(debug())
+		.pipe(gulp.dest(`${staticFolder}/img/`))
+});
 
-gulp.task('rev-assets',  ['css', 'js'], function () {
+
+gulp.task('rev-assets',  ['css', 'js', 'images'], function () {
 	return gulp.src([`${staticFolder}/js/*.js`, `${staticFolder}/css/*.css`])
 	.pipe(gulp.dest(`${staticFolder}/dist`))
 	.pipe(rev())

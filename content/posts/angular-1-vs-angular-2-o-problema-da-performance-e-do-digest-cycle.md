@@ -3,7 +3,7 @@ title: "Angular 1 vs Angular 2: O problema da Performance e do Digest Cycle"
 author: Jhonny Roger
 image: /img/upgrading-to-angular2-with-ng-upgrade.jpg
 type: post
-date: 2017-10-11
+date: 2017-11-11
 excerpt: Neste post falaremos sobre alguns dos problemas que fizeram com que a Google promovesse uma enorme mudança do AngularJS para o Angular 2, 4+
 categories:
   - JavaScript
