@@ -1,5 +1,5 @@
 ---
-title: "Criando um site estático com Hugo Parte 2: Construindo a Homepage"
+title: "Criando um Site Estático com Hugo Parte 2: Construindo a Homepage"
 author: Jhonny Roger
 image: /img/hugo-hero.png
 type: post

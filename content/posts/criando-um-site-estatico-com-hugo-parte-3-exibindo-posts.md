@@ -1,5 +1,5 @@
 ---
-title: "Criando um site estático com Hugo Parte 3: Exibindo Posts"
+title: "Criando um Site Estático com Hugo Parte 3: Exibindo Posts"
 author: Jhonny Roger
 image: gradiente-green-red.png
 type: post

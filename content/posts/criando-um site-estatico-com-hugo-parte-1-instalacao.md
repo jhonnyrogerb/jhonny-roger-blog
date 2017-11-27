@@ -1,5 +1,5 @@
 ---
-title: "Criando um site estático com Hugo Parte 1: Instalação"
+title: "Criando um Site Estático com Hugo Parte 1: Instalação"
 author: Jhonny Roger
 image: /img/hugologo.png
 type: post
