@@ -1,23 +1,22 @@
 dist: trusty
 sudo: required
-
 install:
 - wget -O /tmp/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.25.1/hugo_0.25.1_Linux-64bit.deb
 - sudo dpkg -i /tmp/hugo.deb
-
 script:
 - npm install
 - npm run build
-
 deploy:
   provider: script
   script: npm run deploy
   skip_cleanup: true
   on:
     branch: master
-
 before_deploy:
 - openssl aes-256-cbc -K $encrypted_b23c8c9c9d96_key -iv $encrypted_b23c8c9c9d96_iv -in id_rsa.enc -out /tmp/id_rsa -d
 - eval "$(ssh-agent -s)"
 - chmod 600 /tmp/id_rsa
 - ssh-add /tmp/id_rsa
+before_install:
+- openssl aes-256-cbc -K $encrypted_3b9364aed858_key -iv $encrypted_3b9364aed858_iv
+  -in id_rsa.enc -out id_rsa -d
