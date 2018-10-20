@@ -49,7 +49,6 @@ gulp.task('images', function () {
 				]
 			})
 		]))
-		.pipe(debug())
 		.pipe(gulp.dest(`${staticFolder}/img/`))
 });
 
