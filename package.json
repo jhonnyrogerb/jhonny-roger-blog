@@ -7,7 +7,7 @@
     "start": "sass --watch themes/jhonny-roger/static/css/style.sass:themes/jhonny-roger/static/dist/style.min.css | hugo server",
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "gulp rev-assets; hugo; gulp html; node scripts/lunr-script.js;",
-    "deploy": "rsync -e 'ssh -o StrictHostKeyChecking=no -i /tmp/id_rsa' -ravzup public/* $FTP_USER@$FPT_HOST:~/public_html/"
+    "deploy": "rsync -e 'ssh -o StrictHostKeyChecking=no -i /tmp/deploy_rsa' -ravzup public/* $FTP_USER@$FPT_HOST:~/public_html/"
   },
   "repository": {
     "type": "git",
