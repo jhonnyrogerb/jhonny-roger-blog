@@ -1,6 +1,6 @@
 DefaultContentLanguage = "pt-br"
 title = "Blog | Jhonny Roger - Software Developer"
-baseURL = "https://jhonnyroger.com/"
+baseURL = "http://jhonnyroger.com/"
 theme = "jhonny-roger"
 enableRobotsTXT = "true"
 disqusShortname = "Jhonny Roger"
@@ -11,12 +11,12 @@ googleAnalytics = "UA-103637264-1"
     description = "Blog pessoal para compartilhar conhecimentos com a comunidade!"
 
     alternatePageName = "Blog | Jhonny Roger - Desenvolvedor"
-    organizationLogo = "https://jhonnyroger.com/logo.png"
+    organizationLogo = "http://jhonnyroger.com/logo.png"
     organizationName = "Jhonny Roger"
     organizationAddress = "Franca - SP, Brazil"
 
     publisherName = "Jhonny Roger"
-    publisherLogo = "https://jhonnyroger.com/img/logo.png"
+    publisherLogo = "http://jhonnyroger.com/img/logo.png"
     publisherLogoWidth = 600
     publisherLogoHeight = 60
 
