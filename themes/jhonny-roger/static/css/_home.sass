@@ -11,12 +11,28 @@
 .main__post--is-post
 	height: auto
 	
+	.main__post-title,
+	.main__post-excerpt,
+	.main__post-author,
+	.sb-categories-post
+		text-align: left
+
+	@media only screen and (max-width: $screen-md)
+		max-width: 100%
+		flex-basis: 100%
+		padding: 20px 20px 0
+
+	@media only screen and (min-width: $screen-md)
+		//max-width: 73%
+		//flex-basis: 73%
+		padding: 110px 50px 0 50px
+	
 .main__post-title
 	margin-bottom: 30px
 	text-align: center
 
 	@media only screen and (max-width: $screen-sm)
-		font-size: 2.2rem
+		font-size: 2rem
 
 	@media only screen and (min-width: $screen-sm)
 		font-size: 5rem

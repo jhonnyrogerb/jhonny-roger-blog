@@ -23,7 +23,7 @@
 
 <section class="list__post list__post--featured">
     {{ if gt (len (where .Site.Pages "Type" "post")) 2 }}
-    {{ range first 5 (after 1 (where .Site.Pages "Type" "post"))}}
+    {{ range first 8 (after 1 (where .Site.Pages "Type" "post"))}}
     <div class="list__post-item">
         <div class="list__post-figure-wrapper">        
             <a href="{{ .RelPermalink }}">
@@ -50,8 +50,8 @@
 
 
 <section class="list__post list__post--default">
-    {{ if gt (len (where .Site.Pages "Type" "post")) 7 }}
-    {{ range first 20 (after 6 (where .Site.Pages "Type" "post"))}}
+    {{ if gt (len (where .Site.Pages "Type" "post")) 10 }}
+    {{ range first 23 (after 9 (where .Site.Pages "Type" "post"))}}
     <div class="list__post-item">
         <h1 class="list__post-title">
             <a class="link--inverted" href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>

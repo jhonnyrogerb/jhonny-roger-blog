@@ -1,7 +1,7 @@
 ---
 title: "Criando um Site Estático com Hugo Parte 3: Exibindo Posts"
 author: Jhonny Roger
-image: gradiente-green-red.png
+image: /img/gradiente-green-red.png
 type: post
 date: 2017-11-26
 excerpt: Neste post nós começaremos a criar os single templates para exibir um post com o gerador de sites estáticos Hugo.
