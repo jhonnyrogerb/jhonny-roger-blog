@@ -19,17 +19,28 @@ tags:
   - Web
 ---
 
+
 ### O que são PWAs?
 
-PWAs ou Progressive Web Apps são um conjunto de estratégias, APIs e tecnologias que estão dando novos poderes para a web como plataforma, fazendo com que páginas web se pareçam e se comportem como apps nativas, oferecendo funcionalidades como funcionamento offline, push notifications, cacheamento de assets, cacheamento de requisições, instalação, ícone na home screen, splash screen entre várias outras.
+Fala galera! Hoje nós vamos falar sobre um assunto que está gerando bastante hype na comunidade web, as PWAs. 
 
-Na data deste post, apenas o Chrome e o Opera têm suporte a quase que 100% de todas as API’s seguido do Firefox que suporta a maioria das features com exceção de algumas que ainda estão em caráter experimental. A equipe do Microsoft Edge está a passos largos para implementar todas as funcionalidades. Já a Apple, bem eles estão apenas no começo desta corrida (que eles meio que foram forçados a participar), o suporte total para o Safari ainda pode demorar um pouco, o primeiro e importantíssimo passo foi dado com o suporte para Service Workers que foi adicionado em março deste ano com o Safari 11.1.
+PWAs ou Progressive Web Apps são um conjunto de estratégias, APIs e tecnologias que estão dando novos poderes para a web como plataforma, fazendo com que páginas web se pareçam e se comportem como apps nativas.
+
+Elas possibilitam acesso a funcionalidades como funcionamento offline, push notifications, cacheamento de assets, cacheamento de requisições, instalação, ícone na home screen, splash screen, cor de tema, , sincronização em segundo plano entre outras.
+
+Segundo a Google PWAs devem ser:
+
+- Confiáveis: Carregam instantaneamente e nunca apresentam o (o dinossaurinho do Chrome) mesmo em casos de problemas com a conexão. Sua app sempre estará minimamente funcional quando o usuário precisar.
+
+- Rápidas: 53% dos usuários abandonam um site que demora mais de 3s para carregar, com PWA a experiência de carregamento deve ser rápida e a navegação suave.
+
+- Gerar Engajamento: Se parece com um app nativo, são instaláveis e podem ser adicionadas na home do usuário aumentando as chances do usuário acessar novamente sua app, além de oferecer alternativas de interação com o usuário como push notifications.
+
+Este é um assunto bem amplo e ainda está em evolução, para este post não ficar enorme nós focaremos na API mais poderosa quando o assunto é PWA, a API de Service Workers. 
 
 <p class="ciu_embed" data-feature="serviceworkers" data-periods="future_1,current,past_1,past_2" data-accessible-colours="false">
   <a href="http://caniuse.com/#feat=serviceworkers">Can I Use serviceworkers?</a> Data on support for the serviceworkers feature across the major browsers from caniuse.com.
 </p>
-
-No primeiro post desta série vamos aprender um pouco sobre a API mais poderosa quando o assunto é PWA, a API de Service Worker.
 
 ###  Service Workers
 
@@ -41,10 +52,13 @@ Um Service Worker é um Worker que basicamente funciona como um proxy no lado do
 - Ele é pensado para ser 100% assíncrono, desta forma, não é possível realizar operações bloqueantes e nem utilizar APIS bloqueantes como o localStorage.
 - Por ser uma api 100% assíncrona, todas as suas funções são baseadas em promises, sendo assim é necessário estar familiarizado com a sintaxe e funcionamento de promises - async/await.
 - Service Workers só funcionam em sites protegidos por HTTPS, no entanto é possível rodar um Service Worker em ambiente de desenvolvimento no localhost sem um certificado SSL/TLS.
+- Não utilize cache para servir o arquivo de Sservice Worker, o mais correto é configurar o header max-age para zero em seu servidor para que o arquivo nunca seja cacheado pelo browser.
 
-### Instalando um Service Worker
+### Registrando um Service Worker
 
-O registro de um Service Worker é o primeiro passo para inicializar o seu ciclo de vida, ele pode ser feito em qualquer arquivo de script que é carregado em sua página até mesmo dentro de uma tag script direto do seu html. Veja o código de exemplo.
+O registro de um Service Worker é o primeiro passo para inicializar o seu ciclo de vida, ele pode ser feito em qualquer arquivo de script que é carregado em sua página ou até mesmo dentro de uma tag script. O mais recomendável é inserir o script de registro no `head` para que ele carregue o mais rápido o possível.
+
+Veja o código de exemplo:
 
       //Verifica se o navegador oferece suporte a Service Worker
       if ('serviceWorker' in navigator) {
@@ -58,19 +72,20 @@ O registro de um Service Worker é o primeiro passo para inicializar o seu ciclo
               })
       }
 
-O primeiro passo é verificar se o navegador oferece suporte a Service Workers, senão oferecer nada acontece (feijoada), se passar da verificação o Service Worker será registrado. A etapa de registro é basicamente a parte onde o browser baixa e armazena o Service Worker, e em caso de sucesso passa para a próxima etapa do ciclo de vida que é a instalação.
+O primeiro passo é verificar se o navegador oferece suporte a Service Workers, se não oferecer nada acontece (feijoada), caso contrário o Service Worker será registrado. A etapa de registro é basicamente a parte onde o browser baixa e armazena o Service Worker epassa para a primeira etapa do ciclo de vida que é a instalação.
  
 O arquivo do Service Worker, aqui chamado de "sw.js" é o arquivo onde estará toda a nossa lógica e estratégia para cada evento do Service Worker, este arquivo preferencialmente deve ser criado na raiz da pasta pública do seu projeto.
  
-Agora no arquivo "sw.js" vamos criar um handler para o evento de instalação do nosso Service Worker, como dito anteriormente, este evento ocorre sempre após o primeiro registro (imediatamente ou quando a aba é atualizada) ou quando o código do Service Worker é atualizado.
+### Instalando um Service Worker
+
+
+Agora no arquivo "sw.js" vamos criar um handler para o evento de instalação do nosso Service Worker, como dito anteriormente, este evento ocorre sempre após o registro (imediatamente ou quando a aba é atualizada) ou quando o código do Service Worker é atualizado.
 
       self.addEventListener('install', event => {
         console.log('[ServiceWorker] Installed');
       });
 
-Neste trecho de código, quando o Service Worker for instalado, a mensagem `[ServiceWorker] Installed` aparecerá no console, mas nós podemos fazer muito mais do que um simples `console.log` com este evento.
- 
-Uma estratégia muito utilizada é a chamada `pre-cache` onde geralmente se realiza o cache do `App Shell`. App Shell são todos os arquivos que compõe o esqueleto visual e de navegação básicos de sua App como menus, containers etc, com estes arquivos cacheados a experiência de carregamento visual inicial se torna praticamente instantânea. Veja este exemplo:
+Uma estratégia muito utilizada nesta etapa do ciclo de vida é a chamada `pre-cache` onde geralmente se realiza o cache do `App Shell`. App Shell são todos os arquivos que compõe o esqueleto visual e de navegação básicos de sua App como menus, containers etc, com estes arquivos cacheados a experiência de carregamento visual inicial se torna praticamente instantânea. Veja este exemplo:
 
       var CACHE_NAME = 'v1';
 
@@ -90,13 +105,15 @@ Uma estratégia muito utilizada é a chamada `pre-cache` onde geralmente se real
           }());
       });
 
-Neste caso, nós estamos utilizando a API de cache para cachear todos os arquivos essenciais para a App Shell que são designados na constante CACHE_FILES. A função `event.waitUntil` é uma função que entende a vida de um evento, basicamente nós estamos falando para que o browser não mate o evento de instalação enquanto a promise que está dentro do `waitUntil` seja resolvida ou rejeitada, sem esta função o browser pode matar o evento a qualquer momento.
+Neste caso, nós estamos utilizando a API de cache para cachear todos os arquivos essenciais para a App Shell que são designados na constante CACHE_FILES. A função `event.waitUntil` é uma função que estende a vida de um evento, basicamente nós estamos falando para que o browser não mate o evento de instalação enquanto a promise que está dentro do `waitUntil` seja resolvida ou rejeitada, sem esta função o browser pode matar o evento a qualquer momento.
  
-A partir de agora estes arquivos serão servidos do cache e não mais do servidor.
+A partir de agora estes arquivos serão servidos do cache e não do servidor.
  
 ![exemplo ciclo de vida app shell](https://developers.google.com/web/updates/images/2015/11/appshell/appshell-1.jpg)
 
-A próxima etapa do ciclo de vida é a `activate`, ou ativação. O evento de ativação ocorre logo após a instalação.
+### Ativação
+
+A próxima etapa do ciclo de vida é a `activate`, ou ativação. O evento de ativação ocorre apenas uma vez depois de uma instalação.
 Veja este exemplo:
 
       self.addEventListener('activate', event => {
@@ -115,11 +132,13 @@ Veja este exemplo:
           }());
       });
 
-Você pode utilizar várias estratégias nesta etapa, neste caso eu estou utilizando uma estratégia bastante utilizada que é limpar o cache de qualquer versão anterior do Service Worker caso o `CACHE_NAME` seja alterado liberando espaço em disco do usuário. A função `waitUntil` exerce a mesma função, estender a vida do evento esperando a promise ser resolvida.
+Você pode utilizar várias estratégias nesta etapa, neste caso eu estou utilizando uma estratégia bastante comum que é limpar o cache de qualquer versão anterior do Service Worker caso o `CACHE_NAME` seja alterado, liberando espaço em disco do usuário. A função `waitUntil` exerce a mesma função, estender a vida do evento esperando a promise ser resolvida.
 
 ### Fetch e estratégias de cacheamento
 
-Após o evento de ativação o Service Worker está 100% instalado e pronto para escutar outros eventos do ciclo de vida, um destes eventos é o `fetch`. O `fetch` será executado para toda requisição no servidor que estiver dentro do escopo do Service Worker, ele é ideal para estratégias de interceptação e cacheamento de requisições.
+Após o evento de ativação o Service Worker está 100% instalado e pronto para escutar outros eventos do ciclo de vida, como o `fetch`, `message`, `push`, `sync`. Por enquanto nós iremos focar no `fetch`. 
+
+O `fetch` será executado para toda requisição no servidor que estiver dentro do escopo do Service Worker, ele é ideal para estratégias de interceptação e cacheamento de requisições.
  
 As três estratégias mais comuns são a `offline-first`, `online-first\offline-fallback` e uma estratégia híbrida entre as duas.
  
@@ -201,7 +220,6 @@ Veja um exemplo:
         }());
     });
 
-
 Aqui a requisição, apesar de interceptada, é realizada normalmente no servidor e cacheada caso ela ainda não esteja disponível no cache. A diferença é que se o usuário estiver offline nós verificamos se a requisição existe no cache e retornamos ela, fazendo com que a navegação básica continue mesmo que o usuário não tenha uma rede disponível ou o servidor falhe em entregar a requisição.
  
 Neste trecho de código este tratamento é realizado dentro do bloco `catch` pois a API de `fetch` dispara uma exceção quando o usuário está offline ou quando o servidor não está disponível, porém, ela não dispara exceções em casos de erros http no range de 400~500. Você pode realizar um tratamento semelhante para estes tipos de erros caso ache necessário.
@@ -275,6 +293,6 @@ Caso vocês se interessem acessem o meu repositório no <a href="https://github.
 <div class="github-card" data-github="jhonnyrogerb/pwa-service-worker-examples" data-width="400" data-height="178" data-theme="default"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
-No próximo post, nós iremos abordar algumas outras estratégias possíveis como evento de `fetch` e ps eventos de `background sync` e `push notifications`. Até a próxima!
+No próximo post, nós iremos abordar algumas outras estratégias possíveis como evento de `fetch` e os eventos de `background sync` e `push notifications`. Até a próxima!
 
 <script src="https://cdn.jsdelivr.net/gh/ireade/caniuse-embed/caniuse-embed.min.js"></script>
