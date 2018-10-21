@@ -35,8 +35,8 @@
 	<meta name="theme-color" content="#332925">
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
-	<link rel="canonical" href="{{ .Permalink }}">
-	<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}dist/style.min.css">
+	<link rel="canonical" href="{{ .Permalink }}">	   
+	{{ "<!-- inject-style src='./themes/jhonny-roger/static/dist/style.min.css' -->" | safeHTML }}
 	<link href="{{ .Site.BaseURL }}index.xml" rel="alternate" type="application/rss+xml" title="Blog | Jhonny Roger">
   	<link href="{{ .Site.BaseURL }}index.xml" rel="feed" type="application/rss+xml" title="Blog | Jhonny Roger">
 

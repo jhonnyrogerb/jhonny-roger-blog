@@ -13,9 +13,7 @@ var rev = require('gulp-rev')
 var revReplace = require('gulp-rev-replace')
 var combineMediaQueries = require('gulp-combine-mq');
 var imagemin = require('gulp-imagemin');
-
-
-
+var styleInject = require("gulp-style-inject");
 var staticFolder = "./themes/jhonny-roger/static";
 
 gulp.task('css', function(){
@@ -74,6 +72,7 @@ gulp.task("replace-assets", function() {
 
 gulp.task('html', ["replace-assets"], function () {
 	return gulp.src('public/**/*.html')
+	.pipe(styleInject())
 	.pipe(htmlmin({
 		collapseWhitespace: true,
 		minifyCSS: true,
