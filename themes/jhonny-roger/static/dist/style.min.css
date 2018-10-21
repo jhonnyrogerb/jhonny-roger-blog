@@ -278,6 +278,7 @@ a, button {
   margin: 25px 0 10px;
   font-weight: 600;
   padding: 0 10px;
+  letter-spacing: -0.5px;
 }
 
 .list__post-excerpt {

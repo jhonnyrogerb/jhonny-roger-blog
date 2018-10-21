@@ -63,3 +63,6 @@ typings/
 .sass-cache
 /.themes
 .themes
+
+/themes/jhonny-roger/static/css/dist
+/themes/jhonny-roger/static/dist
