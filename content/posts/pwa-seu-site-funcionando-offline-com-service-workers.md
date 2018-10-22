@@ -1,5 +1,5 @@
 ---
-title: "Não tema as PWAs, aprenda progressivamente - Service Workers"
+title: "PWA - Seu Site Funcionando Offline com Service Workers"
 author: Jhonny Roger
 image: https://res.cloudinary.com/jhonny-roger-blog/image/upload/v1538920148/Blog/pwa-720p.jpg
 type: post
